@@ -3,25 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Personal website - Artificial Intelligence | Advanced Technologies | Space | Defence">
-    <meta name="keywords" content="AI, Artificial Intelligence, Space, Defence, Technology">
-    <meta property="og:title" content="Rohaan Ahmed - AI, Space & Defence">
-    <meta property="og:description" content="Artificial Intelligence | Advanced Technologies | Space | Defence">
+    <meta name="description" content="Rohaan Ahmed - Artificial Intelligence, Robotics, Space, and Defence">
+    <meta name="keywords" content="AI, Artificial Intelligence, Robotics, Space, Defence, Technology">
+    <meta property="og:title" content="Rohaan Ahmed - AI, Robotics, Space & Defence">
+    <meta property="og:description" content="Artificial Intelligence | Robotics | Space | Defence">
     <meta property="og:type" content="website">
-    <title>Rohaan Ahmed | AI • Space • Defence</title>
+    <title>Rohaan Ahmed | AI &bull; Robotics &bull; Space &bull; Defence</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 </head>
 <body>
-    <!-- Navigation -->
     <nav class="navbar" id="navbar">
         <div class="nav-container">
-            <a href="#hero" class="nav-logo">
+            <a href="#hero" class="nav-logo" aria-label="Rohaan Ahmed home">
                 <span class="logo-text" id="logo-text">RA</span>
             </a>
-            <button class="nav-toggle" id="nav-toggle" aria-label="Toggle navigation">
+            <button class="nav-toggle" id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
                 <span class="hamburger"></span>
             </button>
             <ul class="nav-menu" id="nav-menu">
@@ -31,14 +30,29 @@
                 <li class="nav-item">
                     <a href="#projects" class="nav-link">Projects</a>
                 </li>
+                <li class="nav-item">
+                    <a href="#contact" class="nav-link">Contact</a>
+                </li>
             </ul>
         </div>
     </nav>
 
-    <!-- Hero Section -->
     <section class="hero" id="hero">
-        <div class="hero-background"></div>
+        <div class="hero-background" aria-hidden="true"></div>
         <div class="hero-content">
+            <div class="status-line" aria-label="Current focus">
+                <span>CURRENTLY //</span>
+                <span class="status-roller" aria-hidden="true">
+                    <span class="status-roller-track">
+                        <span>AI SYSTEMS</span>
+                        <span>SPACE MISSIONS</span>
+                        <span>DEFENCE TECH</span>
+                        <span>AUTONOMY</span>
+                        <span>AI SYSTEMS</span>
+                    </span>
+                </span>
+                <span class="status-caret" aria-hidden="true"></span>
+            </div>
             <h1 class="hero-title">
                 <div class="photo-placeholder">
                     <img src="media/photo1.jpg" alt="Rohaan Ahmed">
@@ -47,63 +61,62 @@
                     <span class="title-line" id="first-name">Rohaan</span> <span class="title-line accent" id="last-name">Ahmed</span>
                 </div>
             </h1>
-            <p class="hero-tagline" id="tagline"><span class="highlight-cyan">Artificial Intelligence</span> <span class="tagline-separator">|</span> <span class="highlight-purple">Advanced Technologies</span> <span class="tagline-separator">|</span> <span class="highlight-magenta">Space</span> <span class="tagline-separator">|</span> <span class="highlight-cyan">Defence</span></p>
+            <p class="hero-tagline" id="tagline">Artificial Intelligence <span class="tagline-separator">|</span> Robotics <span class="tagline-separator">|</span> Space <span class="tagline-separator">|</span> Defence</p>
             <div class="hero-buttons">
                 <a href="#projects" class="btn btn-primary">View Projects</a>
                 <a href="#about" class="btn btn-secondary">About Me</a>
             </div>
         </div>
-        <div class="scroll-indicator">
+        <div class="scroll-indicator" aria-hidden="true">
             <span class="scroll-text">Scroll</span>
             <div class="scroll-arrow"></div>
         </div>
     </section>
 
-    <!-- About Section -->
     <section class="about" id="about">
         <div class="container">
             <h2 class="section-title">About Me</h2>
             <div class="about-content">
                 <div class="about-intro">
                     <div class="about-text" id="about-text">
-                        <p>Welcome to my corner of the digital universe. I'm passionate about pushing the boundaries of what's possible at the convergence of cutting-edge technologies.</p>
-                        <p>With a focus on artificial intelligence, space exploration, and defence systems, I work on projects that shape the future of humanity's technological frontier.</p>
+                        <p>I work at the intersection of artificial intelligence, robotics, space systems, and defence technology, with a focus on turning advanced technical ideas into operational capability.</p>
+                        <p>My experience spans agentic AI platforms, Earth observation, lunar and planetary robotics, space station robotics, and aerospace systems engineering. Across these domains, I am interested in trustworthy autonomy: systems that can perceive, decide, assist, and operate reliably in complex real-world environments.</p>
                     </div>
                 </div>
                 <div class="focus-areas">
                     <h3 class="focus-title">Focus Areas</h3>
                     <div class="focus-grid" id="focus-grid">
                         <div class="focus-card">
-                            <div class="focus-icon">🤖</div>
+                            <div class="focus-icon" aria-hidden="true"></div>
                             <h4>Artificial Intelligence</h4>
-                            <p>Machine learning, neural networks, and autonomous systems</p>
+                            <p>Agentic AI, machine learning, decision-support systems, and trustworthy autonomy.</p>
                         </div>
                         <div class="focus-card">
-                            <div class="focus-icon">⚡</div>
-                            <h4>Advanced Technologies</h4>
-                            <p>Emerging tech, quantum computing, and next-gen systems</p>
+                            <div class="focus-icon" aria-hidden="true"></div>
+                            <h4>Robotics</h4>
+                            <p>Space robotics, autonomous systems, sensing, control, and mission-oriented robotic capability.</p>
                         </div>
                         <div class="focus-card">
-                            <div class="focus-icon">🚀</div>
+                            <div class="focus-icon" aria-hidden="true"></div>
                             <h4>Space</h4>
-                            <p>Satellite systems, space exploration, and orbital mechanics</p>
+                            <p>Earth observation, lunar missions, orbital infrastructure, and space-enabled services.</p>
                         </div>
                         <div class="focus-card">
-                            <div class="focus-icon">🛡️</div>
+                            <div class="focus-icon" aria-hidden="true"></div>
                             <h4>Defence</h4>
-                            <p>Security systems, strategic technology, and protection</p>
+                            <p>Aerospace systems, security-focused technology, operational resilience, and mission-critical engineering.</p>
                         </div>
                     </div>
                 </div>
-                <div class="get-in-touch">
+                <div class="get-in-touch" id="contact">
                     <h3 class="touch-title">Please Get In Touch</h3>
                     <div class="touch-links">
                         <a href="mailto:" class="touch-item">
-                            <span class="touch-icon">📧</span>
+                            <span class="touch-icon" aria-hidden="true">E</span>
                             <span class="touch-label">the.rohaan.ahmed [at] gmail [dot] com</span>
                         </a>
                         <a href="https://www.linkedin.com/in/rohaanahmed/" target="_blank" rel="noopener noreferrer" class="touch-item">
-                            <span class="touch-icon linkedin-icon">
+                            <span class="touch-icon linkedin-icon" aria-hidden="true">
                                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" fill="currentColor"/>
                                 </svg>
@@ -116,7 +129,6 @@
         </div>
     </section>
 
-    <!-- Projects Section -->
     <section class="projects" id="projects">
         <div class="container">
             <h2 class="section-title">Projects</h2>
@@ -124,8 +136,28 @@
                 <article class="project-card">
                     <div class="project-content">
                         <div class="project-header">
+                            <h3 class="project-title">Enterprise Instinct</h3>
+                            <a href="https://www.pwc.com/ca/en/services/artificial-intelligence/enterprise-instinct.html" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">&rarr;</a>
+                        </div>
+                        <p class="project-description">PwC Canada's multi-agent AI platform designed to help organizations deploy, scale, and govern Agentic AI systems.</p>
+                        <a href="https://www.pwc.com/ca/en/services/artificial-intelligence/enterprise-instinct.html" class="project-image-link" aria-label="View project: Enterprise Instinct" target="_blank" rel="noopener noreferrer">
+                            <div class="project-image">
+                                <img src="https://www.pwc.com/content/dam/pwc/ca/en/services/artificial-intelligence/p4421672-ai-tech-data-enterprise-instinct-hero-2.jpg" alt="Enterprise Instinct">
+                            </div>
+                        </a>
+                        <p class="project-image-credit">Image Credit: PwC Canada</p>
+                    </div>
+                    <div class="project-tags">
+                        <span class="tag">Agentic AI</span>
+                        <span class="tag">Enterprise</span>
+                        <span class="tag">Governance</span>
+                    </div>
+                </article>
+                <article class="project-card">
+                    <div class="project-content">
+                        <div class="project-header">
                             <h3 class="project-title">CISERES</h3>
-                            <a href="https://deimos-space.com/ciseres/" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">→</a>
+                            <a href="https://deimos-space.com/ciseres/" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">&rarr;</a>
                         </div>
                         <p class="project-description">AI-enabled satellite capability for disaster management that turns EO data into near real-time alerts for faster response.</p>
                         <a href="https://deimos-space.com/ciseres/" class="project-image-link" aria-label="View project: CISERES" target="_blank" rel="noopener noreferrer">
@@ -145,7 +177,7 @@
                     <div class="project-content">
                         <div class="project-header">
                             <h3 class="project-title">ExoMars "Rosalind Franklin" Rover</h3>
-                            <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_rover" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">→</a>
+                            <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_rover" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">&rarr;</a>
                         </div>
                         <p class="project-description">European rover for Mars exploration, equipped with advanced sensing and decision-making capabilities to navigate the harsh Martian environment.</p>
                         <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_rover" class="project-image-link" aria-label="View project: ExoMars Rosalind Franklin Rover" target="_blank" rel="noopener noreferrer">
@@ -165,9 +197,9 @@
                     <div class="project-content">
                         <div class="project-header">
                             <h3 class="project-title">MoonNet</h3>
-                            <a href="https://missioncontrolspace.com/stories/lunar-ai-demo-and-the-ispace-m1-mission/" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">→</a>
+                            <a href="https://missioncontrolspace.com/stories/lunar-ai-demo-and-the-ispace-m1-mission/" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">&rarr;</a>
                         </div>
-                        <p class="project-description">First would-be AI to run on the Moon: Deep-learning inference payload intended to run on a lunar mission, demonstrating on-board AI processing for spaceflight imagery.</p>
+                        <p class="project-description">Deep-learning inference payload intended to run on a lunar mission, demonstrating on-board AI processing for spaceflight imagery.</p>
                         <a href="https://missioncontrolspace.com/stories/lunar-ai-demo-and-the-ispace-m1-mission/" class="project-image-link" aria-label="View project: MoonNet" target="_blank" rel="noopener noreferrer">
                             <div class="project-image">
                                 <img src="media/projects/moonnet.jpg" alt="MoonNet">
@@ -185,7 +217,7 @@
                     <div class="project-content">
                         <div class="project-header">
                             <h3 class="project-title">Canadarm2 (International Space Station)</h3>
-                            <a href="https://www.asc-csa.gc.ca/eng/iss/canadarm2/" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">→</a>
+                            <a href="https://www.asc-csa.gc.ca/eng/iss/canadarm2/" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">&rarr;</a>
                         </div>
                         <p class="project-description">NASA and Canadian Space Agency led International Space Station robotics program work focused on logistics and support engineering for a flight-proven robotic system.</p>
                         <a href="https://www.asc-csa.gc.ca/eng/iss/canadarm2/" class="project-image-link" aria-label="View project: Canadarm2 (International Space Station)" target="_blank" rel="noopener noreferrer">
@@ -205,7 +237,7 @@
                     <div class="project-content">
                         <div class="project-header">
                             <h3 class="project-title">OpenSAR Insight</h3>
-                            <a href="https://lps25.esa.int/lps25-presentations/poster/OpenSAR%20Insight.pdf" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">→</a>
+                            <a href="https://lps25.esa.int/lps25-presentations/poster/OpenSAR%20Insight.pdf" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">&rarr;</a>
                         </div>
                         <p class="project-description">European Space Agency project to develop AI algorithms for Synthetic Aperture Radar (SAR) data analysis to detect and classify objects in Earth observation imagery.</p>
                         <a href="https://lps25.esa.int/lps25-presentations/poster/OpenSAR%20Insight.pdf" class="project-image-link" aria-label="View project: OpenSAR Insight" target="_blank" rel="noopener noreferrer">
@@ -218,14 +250,14 @@
                     <div class="project-tags">
                         <span class="tag">SAR</span>
                         <span class="tag">Earth Observation</span>
-                        <span class="tag">Advanced Technologies</span>
+                        <span class="tag">Robotics</span>
                     </div>
                 </article>
                 <article class="project-card">
                     <div class="project-content">
                         <div class="project-header">
                             <h3 class="project-title">F-35 Joint Strike Fighter</h3>
-                            <a href="https://www.f35.com/f35/index.html" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">→</a>
+                            <a href="https://www.f35.com/f35/index.html" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">&rarr;</a>
                         </div>
                         <p class="project-description">Power and Thermal Management System (PTMS) engineering for the F-35, supporting reliable electrical power distribution and thermal performance in a safety-critical fighter aircraft environment.</p>
                         <a href="https://www.f35.com/f35/index.html" class="project-image-link" aria-label="View project: F-35 Joint Strike Fighter" target="_blank" rel="noopener noreferrer">
@@ -245,18 +277,17 @@
         </div>
     </section>
 
-    <!-- Footer -->
     <footer class="footer">
         <div class="container">
-            <p class="footer-text">© <span id="current-year"></span> <span id="footer-name">Rohaan Ahmed</span>. All rights reserved.</p>
+            <p class="footer-text">&copy; <span id="current-year"></span> <span id="footer-name">Rohaan Ahmed</span>. All rights reserved.</p>
             <p class="footer-tagline" id="footer-tagline">Built using Claude Code, Cursor, and other Generative AI tools.</p>
+            <a class="footer-game-link" href="game_for_kids/game.html">simple game for my kids</a>
         </div>
     </footer>
 
-    <!-- Theme Toggle Button -->
-    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle military theme">
-        <span class="theme-toggle-icon">⚔️</span>
-        <span class="theme-toggle-text">Military Mode</span>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle Tactical Theme" aria-pressed="false">
+        <span class="theme-toggle-icon" aria-hidden="true"></span>
+        <span class="theme-toggle-text">Tactical Theme</span>
     </button>
 
     <script src="script.js"></script>
