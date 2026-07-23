@@ -48,6 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const themeToggle = document.getElementById('theme-toggle');
     const themeToggleText = themeToggle?.querySelector('.theme-toggle-text');
+    const profilePhoto = document.getElementById('profile-photo');
     const savedTheme = localStorage.getItem('theme');
 
     if (savedTheme === 'tactical' || savedTheme === 'military') {
@@ -58,6 +59,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function setTacticalTheme(isTactical) {
         document.body.classList.toggle('tactical-theme', isTactical);
+
+        if (profilePhoto) {
+            const corePhoto = profilePhoto.dataset.coreSrc || profilePhoto.getAttribute('src');
+            const tacticalPhoto = profilePhoto.dataset.tacticalSrc || corePhoto;
+            profilePhoto.setAttribute('src', isTactical ? tacticalPhoto : corePhoto);
+        }
 
         if (themeToggleText) {
             themeToggleText.textContent = isTactical ? 'Core Theme' : 'Tactical Theme';
