@@ -1,205 +1,168 @@
 /**
  * Personal Website - JavaScript
- * Handles config loading, navigation, smooth scrolling, and animations
+ * Handles config loading, navigation, smooth scrolling, theming, and reveals.
  */
 
 document.addEventListener('DOMContentLoaded', () => {
-    // Load config and initialize
     loadConfig();
 
-    // DOM Elements
     const navbar = document.getElementById('navbar');
     const navToggle = document.getElementById('nav-toggle');
     const navMenu = document.getElementById('nav-menu');
     const navLinks = document.querySelectorAll('.nav-link');
     const currentYearEl = document.getElementById('current-year');
+    const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-    // Set current year in footer
     if (currentYearEl) {
         currentYearEl.textContent = new Date().getFullYear();
     }
 
-    /**
-     * Mobile Navigation Toggle
-     */
-    function toggleMobileMenu() {
-        navToggle.classList.toggle('active');
-        navMenu.classList.toggle('active');
-        document.body.style.overflow = navMenu.classList.contains('active') ? 'hidden' : '';
+    function setMobileMenu(isOpen) {
+        if (!navToggle || !navMenu) return;
+
+        navToggle.classList.toggle('active', isOpen);
+        navToggle.setAttribute('aria-expanded', String(isOpen));
+        navMenu.classList.toggle('active', isOpen);
+        document.body.style.overflow = isOpen ? 'hidden' : '';
     }
 
     if (navToggle) {
-        navToggle.addEventListener('click', toggleMobileMenu);
+        navToggle.addEventListener('click', () => {
+            setMobileMenu(!navMenu.classList.contains('active'));
+        });
     }
 
-    // Close mobile menu when clicking a link
     navLinks.forEach(link => {
         link.addEventListener('click', () => {
-            if (navMenu.classList.contains('active')) {
-                toggleMobileMenu();
+            if (navMenu && navMenu.classList.contains('active')) {
+                setMobileMenu(false);
             }
         });
     });
 
-    // Close mobile menu on escape key
-    document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape' && navMenu.classList.contains('active')) {
-            toggleMobileMenu();
+    document.addEventListener('keydown', (event) => {
+        if (event.key === 'Escape' && navMenu && navMenu.classList.contains('active')) {
+            setMobileMenu(false);
         }
     });
 
-    /**
-     * Theme Toggle
-     */
     const themeToggle = document.getElementById('theme-toggle');
-    const themeToggleIcon = themeToggle?.querySelector('.theme-toggle-icon');
     const themeToggleText = themeToggle?.querySelector('.theme-toggle-text');
-
-    // Check for saved theme preference
     const savedTheme = localStorage.getItem('theme');
-    if (savedTheme === 'military') {
-        document.body.classList.add('military-theme');
-        updateThemeButton(true);
+
+    if (savedTheme === 'tactical' || savedTheme === 'military') {
+        setTacticalTheme(true);
+    } else {
+        setTacticalTheme(false);
     }
 
-    function updateThemeButton(isMilitary) {
-        if (themeToggleIcon && themeToggleText) {
-            if (isMilitary) {
-                themeToggleIcon.textContent = '✨';
-                themeToggleText.textContent = 'Cyber Mode';
-            } else {
-                themeToggleIcon.textContent = '⚔️';
-                themeToggleText.textContent = 'Military Mode';
-            }
+    function setTacticalTheme(isTactical) {
+        document.body.classList.toggle('tactical-theme', isTactical);
+
+        if (themeToggleText) {
+            themeToggleText.textContent = isTactical ? 'Core Theme' : 'Tactical Theme';
+        }
+
+        if (themeToggle) {
+            themeToggle.setAttribute('aria-pressed', String(isTactical));
+            themeToggle.setAttribute('aria-label', isTactical ? 'Switch to Core Theme' : 'Switch to Tactical Theme');
         }
     }
 
     if (themeToggle) {
         themeToggle.addEventListener('click', () => {
-            const isMilitary = document.body.classList.toggle('military-theme');
-            localStorage.setItem('theme', isMilitary ? 'military' : 'cyber');
-            updateThemeButton(isMilitary);
+            const isTactical = !document.body.classList.contains('tactical-theme');
+            localStorage.setItem('theme', isTactical ? 'tactical' : 'core');
+            setTacticalTheme(isTactical);
         });
     }
 
-    /**
-     * Navbar Scroll Effect
-     */
-    let lastScrollY = window.scrollY;
-
     function handleNavbarScroll() {
-        const currentScrollY = window.scrollY;
-
-        if (currentScrollY > 50) {
-            navbar.classList.add('scrolled');
-        } else {
-            navbar.classList.remove('scrolled');
-        }
-
-        lastScrollY = currentScrollY;
+        if (!navbar) return;
+        navbar.classList.toggle('scrolled', window.scrollY > 50);
     }
 
     window.addEventListener('scroll', handleNavbarScroll, { passive: true });
+    handleNavbarScroll();
 
-    /**
-     * Smooth Scrolling for Navigation Links
-     */
     function smoothScroll(targetId) {
         const target = document.querySelector(targetId);
-        if (!target) return;
+        if (!target || !navbar) return;
 
         const navHeight = navbar.offsetHeight;
         const targetPosition = target.getBoundingClientRect().top + window.scrollY - navHeight;
 
         window.scrollTo({
             top: targetPosition,
-            behavior: 'smooth'
+            behavior: prefersReducedMotion ? 'auto' : 'smooth'
         });
     }
 
-    // Add smooth scroll to all anchor links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', (e) => {
-            e.preventDefault();
+        anchor.addEventListener('click', (event) => {
             const targetId = anchor.getAttribute('href');
+
             if (targetId && targetId !== '#') {
+                event.preventDefault();
                 smoothScroll(targetId);
             }
         });
     });
 
-    /**
-     * Active Navigation Link Highlighting
-     */
-    const sections = document.querySelectorAll('section[id]');
+    const navTargets = [...document.querySelectorAll('section[id]'), document.getElementById('contact')]
+        .filter(Boolean);
 
     function highlightNavLink() {
+        let currentId = '';
         const scrollY = window.scrollY;
 
-        sections.forEach(section => {
-            const sectionHeight = section.offsetHeight;
-            const sectionTop = section.offsetTop - 100;
-            const sectionId = section.getAttribute('id');
-            const navLink = document.querySelector(`.nav-link[href="#${sectionId}"]`);
+        navTargets.forEach(target => {
+            const targetTop = target.offsetTop - 120;
+            const targetBottom = targetTop + target.offsetHeight;
 
-            if (navLink) {
-                if (scrollY > sectionTop && scrollY <= sectionTop + sectionHeight) {
-                    navLink.classList.add('active');
-                } else {
-                    navLink.classList.remove('active');
-                }
+            if (scrollY >= targetTop && scrollY < targetBottom) {
+                currentId = target.getAttribute('id');
             }
+        });
+
+        navLinks.forEach(link => {
+            link.classList.toggle('active', link.getAttribute('href') === `#${currentId}`);
         });
     }
 
     window.addEventListener('scroll', highlightNavLink, { passive: true });
+    highlightNavLink();
 
-    /**
-     * Parallax Effect for Hero Background
-     */
-    const heroBackground = document.querySelector('.hero-background');
+    if (!prefersReducedMotion) {
+        const heroBackground = document.querySelector('.hero-background');
 
-    function parallaxEffect() {
-        if (heroBackground && window.innerWidth > 768) {
-            const scrolled = window.scrollY;
-            heroBackground.style.transform = `translateY(${scrolled * 0.3}px)`;
+        function parallaxEffect() {
+            if (heroBackground && window.innerWidth > 768) {
+                heroBackground.style.transform = `translateY(${window.scrollY * 0.12}px)`;
+            }
         }
+
+        window.addEventListener('scroll', parallaxEffect, { passive: true });
     }
-
-    window.addEventListener('scroll', parallaxEffect, { passive: true });
-
-    /**
-     * Console Easter Egg
-     */
-    console.log('%c Welcome to the Matrix... ', 'background: #0a0a0f; color: #00ffff; font-size: 20px; padding: 10px;');
-    console.log('%c Built with passion for the future. ', 'background: #0a0a0f; color: #ff00ff; font-size: 14px; padding: 5px;');
 });
 
-/**
- * Load configuration from config.json and populate the page
- * Falls back to HTML default content if config fails to load
- */
 async function loadConfig() {
     try {
         const response = await fetch('config.json');
+
         if (!response.ok) {
             throw new Error('Failed to load config.json');
         }
+
         const config = await response.json();
         populatePage(config);
     } catch (error) {
-        // Config loading failed (likely file:// protocol)
-        // Use default HTML content and just initialize animations
         console.info('Using default HTML content (config.json not loaded)');
         initAnimations();
     }
 }
 
-/**
- * Populate the page with data from config
- */
 function populatePage(config) {
-    // Personal info
     if (config.personal) {
         const { firstName, lastName, logoInitials, tagline } = config.personal;
 
@@ -208,82 +171,79 @@ function populatePage(config) {
         setTextContent('last-name', lastName);
         setTextContent('footer-name', `${firstName} ${lastName}`);
 
-        // Update page title
-        document.title = `${firstName} ${lastName} | AI • Space • Defence`;
+        document.title = `${firstName} ${lastName} | AI, Robotics, Space & Defence`;
 
-        // Update tagline (preserve the HTML structure with highlights)
         const taglineEl = document.getElementById('tagline');
         if (taglineEl && tagline) {
             taglineEl.innerHTML = formatTagline(tagline);
         }
     }
 
-    // About section
     if (config.about) {
-        // Bio
         const aboutText = document.getElementById('about-text');
         if (aboutText && config.about.bio) {
             aboutText.innerHTML = config.about.bio
-                .map(paragraph => `<p>${paragraph}</p>`)
+                .map(paragraph => `<p>${escapeHTML(paragraph)}</p>`)
                 .join('');
         }
 
-        // Focus areas
         const focusGrid = document.getElementById('focus-grid');
         if (focusGrid && config.about.focusAreas) {
             focusGrid.innerHTML = config.about.focusAreas
                 .map(area => `
                     <div class="focus-card">
-                        <div class="focus-icon">${area.icon}</div>
-                        <h4>${area.title}</h4>
-                        <p>${area.description}</p>
+                        <div class="focus-icon" aria-hidden="true"></div>
+                        <h4>${escapeHTML(area.title)}</h4>
+                        <p>${escapeHTML(area.description)}</p>
                     </div>
                 `)
                 .join('');
         }
     }
 
-    // Projects section
     const projectsGrid = document.getElementById('projects-grid');
     if (projectsGrid && config.projects) {
         projectsGrid.innerHTML = config.projects
-            .map(project => `
-                <article class="project-card">
-                    <div class="project-content">
-                        <div class="project-header">
-                            <h3 class="project-title">${project.title}</h3>
-                            <a href="${project.link}" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">→</a>
+            .map(project => {
+                const title = escapeHTML(project.title);
+                const link = escapeAttribute(project.link);
+                const image = project.image ? escapeAttribute(project.image) : '';
+                const imageCredit = project.imageCredit ? escapeHTML(project.imageCredit) : '';
+                const tags = Array.isArray(project.tags) ? project.tags : [];
+
+                return `
+                    <article class="project-card">
+                        <div class="project-content">
+                            <div class="project-header">
+                                <h3 class="project-title">${title}</h3>
+                                <a href="${link}" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">&rarr;</a>
+                            </div>
+                            <p class="project-description">${escapeHTML(project.description)}</p>
+                            ${image ? `
+                                <a href="${link}" class="project-image-link" aria-label="View project: ${title}" target="_blank" rel="noopener noreferrer">
+                                    <div class="project-image">
+                                        <img src="${image}" alt="${title}" loading="lazy">
+                                    </div>
+                                </a>
+                                ${imageCredit ? `<p class="project-image-credit">${imageCredit}</p>` : ''}
+                            ` : ''}
                         </div>
-                        <p class="project-description">${project.description}</p>
-                        ${project.image ? `
-                            <a href="${project.link}" class="project-image-link" aria-label="View project: ${project.title}" target="_blank" rel="noopener noreferrer">
-                                <div class="project-image">
-                                    <img src="${project.image}" alt="${project.title}">
-                                </div>
-                            </a>
-                            ${project.imageCredit ? `<p class="project-image-credit">${project.imageCredit}</p>` : ''}
-                        ` : ''}
-                    </div>
-                    <div class="project-tags">
-                        ${project.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
-                    </div>
-                </article>
-            `)
+                        <div class="project-tags">
+                            ${tags.map(tag => `<span class="tag">${escapeHTML(tag)}</span>`).join('')}
+                        </div>
+                    </article>
+                `;
+            })
             .join('');
     }
 
-    // Footer
     if (config.footer) {
         setTextContent('footer-tagline', config.footer.tagline);
     }
 
-    // Initialize animations after content is loaded
     initAnimations();
 }
 
-/**
- * Helper to set text content of an element by ID
- */
 function setTextContent(id, text) {
     const element = document.getElementById(id);
     if (element && text) {
@@ -291,61 +251,51 @@ function setTextContent(id, text) {
     }
 }
 
-/**
- * Format tagline with highlighted keywords
- */
 function formatTagline(tagline) {
-    // Add highlights to key terms and format separators
     return tagline
-        .replace(/Artificial Intelligence/g, '<span class="highlight-cyan">Artificial Intelligence</span>')
-        .replace(/Advanced Technologies/g, '<span class="highlight-purple">Advanced Technologies</span>')
-        .replace(/Space/g, '<span class="highlight-magenta">Space</span>')
-        .replace(/Defence/g, '<span class="highlight-cyan">Defence</span>')
-        .replace(/\s\|\s/g, ' <span class="tagline-separator">|</span> ');
+        .split('|')
+        .map(part => escapeHTML(part.trim()))
+        .join(' <span class="tagline-separator">|</span> ');
 }
 
-/**
- * Initialize scroll-triggered animations after dynamic content is loaded
- */
 function initAnimations() {
-    const observerOptions = {
-        root: null,
-        rootMargin: '0px',
-        threshold: 0.1
-    };
+    const animatedElements = document.querySelectorAll('.focus-card, .project-card');
+    const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-    const observerCallback = (entries, observer) => {
+    if (prefersReducedMotion || !('IntersectionObserver' in window)) {
+        animatedElements.forEach(el => el.classList.add('visible'));
+        return;
+    }
+
+    const observer = new IntersectionObserver((entries, currentObserver) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
                 entry.target.classList.add('visible');
-                observer.unobserve(entry.target);
+                currentObserver.unobserve(entry.target);
             }
         });
-    };
-
-    const observer = new IntersectionObserver(observerCallback, observerOptions);
-
-    // Add fade-in class to elements that should animate
-    const animatedElements = document.querySelectorAll('.focus-card, .project-card');
+    }, {
+        root: null,
+        rootMargin: '0px',
+        threshold: 0.1
+    });
 
     animatedElements.forEach((el, index) => {
         el.classList.add('fade-in');
-        el.style.transitionDelay = `${index * 0.1}s`;
+        el.style.transitionDelay = `${Math.min(index * 0.05, 0.3)}s`;
         observer.observe(el);
     });
 }
 
-/**
- * Add CSS for active nav link
- */
-const style = document.createElement('style');
-style.textContent = `
-    .nav-link.active {
-        color: var(--accent-cyan);
-        text-shadow: 0 0 10px var(--accent-cyan);
-    }
-    .nav-link.active::after {
-        width: 100%;
-    }
-`;
-document.head.appendChild(style);
+function escapeHTML(value = '') {
+    return String(value)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+}
+
+function escapeAttribute(value = '') {
+    return escapeHTML(value).replace(/`/g, '&#096;');
+}
