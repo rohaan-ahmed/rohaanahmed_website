@@ -3,37 +3,41 @@
     "firstName": "Rohaan",
     "lastName": "Ahmed",
     "logoInitials": "RA",
-    "tagline": "Artificial Intelligence | Advanced Technologies | Space | Defence"
+    "tagline": "Artificial Intelligence | Robotics | Space | Defence"
   },
   "about": {
     "bio": [
-      "Welcome to my corner of the digital universe. I'm passionate about pushing the boundaries of what's possible at the convergence of cutting-edge technologies.",
-      "With a focus on artificial intelligence, space exploration, and defence systems, I work on projects that shape the future of humanity's technological frontier."
+      "I work at the intersection of artificial intelligence, robotics, space systems, and defence technology, with a focus on turning advanced technical ideas into operational capability.",
+      "My experience spans agentic AI platforms, Earth observation, lunar and planetary robotics, space station robotics, and aerospace systems engineering. Across these domains, I am interested in trustworthy autonomy: systems that can perceive, decide, assist, and operate reliably in complex real-world environments."
     ],
     "focusAreas": [
       {
-        "icon": "🤖",
         "title": "Artificial Intelligence",
-        "description": "Machine learning, neural networks, and autonomous systems"
+        "description": "Agentic AI, machine learning, decision-support systems, and trustworthy autonomy."
       },
       {
-        "icon": "⚡",
-        "title": "Advanced Technologies",
-        "description": "Emerging tech, quantum computing, and next-gen systems"
+        "title": "Robotics",
+        "description": "Space robotics, autonomous systems, sensing, control, and mission-oriented robotic capability."
       },
       {
-        "icon": "🚀",
         "title": "Space",
-        "description": "Satellite systems, space exploration, and orbital mechanics"
+        "description": "Earth observation, lunar missions, orbital infrastructure, and space-enabled services."
       },
       {
-        "icon": "🛡️",
         "title": "Defence",
-        "description": "Security systems, strategic technology, and protection"
+        "description": "Aerospace systems, security-focused technology, operational resilience, and mission-critical engineering."
       }
     ]
   },
   "projects": [
+    {
+      "title": "Enterprise Instinct",
+      "description": "PwC Canada's multi-agent AI platform designed to help organizations deploy, scale, and govern Agentic AI systems.",
+      "image": "https://www.pwc.com/content/dam/pwc/ca/en/services/artificial-intelligence/p4421672-ai-tech-data-enterprise-instinct-hero-2.jpg",
+      "imageCredit": "Image Credit: PwC Canada",
+      "tags": ["Agentic AI", "Enterprise", "Governance"],
+      "link": "https://www.pwc.com/ca/en/services/artificial-intelligence/enterprise-instinct.html"
+    },
     {
       "title": "CISERES",
       "description": "AI-enabled satellite capability for disaster management that turns EO data into near real-time alerts for faster response.",
@@ -52,7 +56,7 @@
     },
     {
       "title": "MoonNet",
-      "description": "First would-beAI to run on the Moon: Deep-learning inference payload intended to run on a lunar mission, demonstrating on-board AI processing for spaceflight imagery.",
+      "description": "Deep-learning inference payload intended to run on a lunar mission, demonstrating on-board AI processing for spaceflight imagery.",
       "image": "media/projects/moonnet.jpg",
       "imageCredit": "Image Credit: Mission Control Space",
       "tags": ["Computer Vision", "AI", "Robotics"],
@@ -71,7 +75,7 @@
       "description": "European Space Agency project to develop AI algorithms for Synthetic Aperture Radar (SAR) data analysis to detect and classify objects in Earth observation imagery.",
       "image": "media/projects/opensar.jpg",
       "imageCredit": "Image Credit: Indra Space",
-      "tags": ["SAR", "Earth Observation", "Advanced Technologies"],
+      "tags": ["SAR", "Earth Observation", "Robotics"],
       "link": "https://lps25.esa.int/lps25-presentations/poster/OpenSAR%20Insight.pdf"
     },
     {
