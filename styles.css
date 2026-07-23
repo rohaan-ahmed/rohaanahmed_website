@@ -38,17 +38,28 @@
 }
 
 body.tactical-theme {
-    --bg-primary: #10130e;
-    --bg-secondary: #171a13;
-    --surface: #1a1e16;
+    --bg-primary: #1a1f16;
+    --bg-secondary: #252b1f;
+    --bg-tertiary: #2f3728;
+    --surface: #2f3728;
+    --hairline: rgba(139, 154, 107, 0.2);
     --primary: #9aa66f;
-    --primary-tint: rgba(154, 166, 111, 0.16);
-    --primary-text: #d8e0b9;
-    --on-primary: #171a0e;
-    --secondary: #c2a15f;
-    --secondary-tint: rgba(194, 161, 95, 0.16);
-    --secondary-text: #efd9a9;
-    --tertiary: #d08a5b;
+    --primary-tint: rgba(139, 154, 107, 0.2);
+    --primary-text: #9aa66f;
+    --on-primary: #1a1f16;
+    --secondary: #c4a35a;
+    --secondary-tint: rgba(196, 163, 90, 0.2);
+    --secondary-text: #c4a35a;
+    --tertiary: #8b9a6b;
+    --text-primary: #e8e4d9;
+    --text-secondary: #b8b4a9;
+    --text-muted: #7a7868;
+    --text-faint: #7a7868;
+    --stripe-a: #252b1f;
+    --stripe-b: #2f3728;
+    --font-head: "Black Ops One", Impact, sans-serif;
+    --font-body: "Share Tech Mono", "Courier New", monospace;
+    --font-mono: "Share Tech Mono", "Courier New", monospace;
 }
 
 /* ================================
@@ -849,6 +860,277 @@ section {
 
 .theme-toggle-icon {
     display: none;
+}
+
+/* ================================
+   Tactical Theme - Restored Original Style
+   ================================ */
+body.tactical-theme {
+    font-family: var(--font-body);
+}
+
+body.tactical-theme .hero-title,
+body.tactical-theme .section-title,
+body.tactical-theme .focus-title,
+body.tactical-theme .touch-title,
+body.tactical-theme .project-title {
+    font-family: var(--font-head);
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+body.tactical-theme .logo-text {
+    color: #8b9a6b;
+    font-family: var(--font-head);
+    letter-spacing: 2px;
+    text-shadow: 0 0 10px rgba(139, 154, 107, 0.5);
+}
+
+body.tactical-theme .logo-text::before,
+body.tactical-theme .theme-toggle::before,
+body.tactical-theme .focus-icon {
+    background: #8b9a6b;
+    box-shadow: 0 0 10px rgba(139, 154, 107, 0.5);
+}
+
+body.tactical-theme .focus-card:nth-child(even) .focus-icon {
+    background: #c4a35a;
+    box-shadow: 0 0 10px rgba(196, 163, 90, 0.45);
+}
+
+body.tactical-theme .navbar.scrolled {
+    border-bottom: 1px solid rgba(139, 154, 107, 0.2);
+    background: rgba(26, 31, 22, 0.95);
+}
+
+body.tactical-theme .nav-link::after {
+    background: #8b9a6b;
+    box-shadow: 0 0 10px rgba(139, 154, 107, 0.5);
+}
+
+body.tactical-theme .nav-link:hover,
+body.tactical-theme .nav-link.active,
+body.tactical-theme .nav-link[href="#contact"] {
+    color: #8b9a6b;
+    text-shadow: 0 0 10px rgba(139, 154, 107, 0.5);
+}
+
+body.tactical-theme .hamburger,
+body.tactical-theme .hamburger::before,
+body.tactical-theme .hamburger::after {
+    background: #8b9a6b;
+    box-shadow: 0 0 10px rgba(139, 154, 107, 0.5);
+}
+
+body.tactical-theme .hero {
+    background: linear-gradient(180deg, #1a1f16 0%, #252b1f 100%);
+}
+
+body.tactical-theme .hero-background {
+    background:
+        radial-gradient(ellipse at 20% 80%, rgba(107, 124, 92, 0.15) 0%, transparent 50%),
+        radial-gradient(ellipse at 80% 20%, rgba(139, 154, 107, 0.1) 0%, transparent 50%),
+        radial-gradient(ellipse at 50% 50%, rgba(196, 163, 90, 0.05) 0%, transparent 70%),
+        linear-gradient(180deg, #1a1f16 0%, #252b1f 100%);
+    mask-image: none;
+}
+
+body.tactical-theme .hero-background::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image:
+        linear-gradient(rgba(139, 154, 107, 0.05) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(139, 154, 107, 0.05) 1px, transparent 1px);
+    background-size: 50px 50px;
+}
+
+body.tactical-theme .status-line {
+    color: #7a7868;
+}
+
+body.tactical-theme .status-roller,
+body.tactical-theme .status-caret {
+    color: #c4a35a;
+    background-color: #c4a35a;
+}
+
+body.tactical-theme .status-roller {
+    background: transparent;
+}
+
+body.tactical-theme .title-line {
+    color: #e8e4d9;
+    text-shadow: 0 0 20px rgba(232, 228, 217, 0.2);
+}
+
+body.tactical-theme .title-line.accent {
+    color: #8b9a6b;
+    text-shadow: 0 0 8px rgba(139, 154, 107, 0.4), 0 0 16px rgba(139, 154, 107, 0.2);
+}
+
+body.tactical-theme .hero-title:hover {
+    text-shadow: 0 0 30px rgba(232, 228, 217, 0.4);
+}
+
+body.tactical-theme .hero-title:hover .title-line.accent {
+    text-shadow: 0 0 15px rgba(139, 154, 107, 0.6), 0 0 30px rgba(139, 154, 107, 0.3);
+}
+
+body.tactical-theme .tagline-separator {
+    color: #5a5848;
+}
+
+body.tactical-theme .photo-placeholder {
+    border-color: transparent;
+    background:
+        linear-gradient(#2f3728, #2f3728) padding-box,
+        linear-gradient(135deg, #8b9a6b, #c4a35a, #6b7c5c, #8b9a6b) border-box;
+    box-shadow:
+        0 0 10px rgba(139, 154, 107, 0.5),
+        0 0 20px rgba(196, 163, 90, 0.3),
+        0 0 30px rgba(107, 124, 92, 0.2);
+}
+
+body.tactical-theme .photo-placeholder:hover {
+    transform: scale(1.05);
+    box-shadow:
+        0 0 15px rgba(139, 154, 107, 0.6),
+        0 0 30px rgba(196, 163, 90, 0.4),
+        0 0 45px rgba(107, 124, 92, 0.3);
+}
+
+body.tactical-theme .btn-primary {
+    border: 2px solid #8b9a6b;
+    background: transparent;
+    color: #8b9a6b;
+    box-shadow: 0 0 10px rgba(139, 154, 107, 0.3), inset 0 0 10px rgba(139, 154, 107, 0.1);
+}
+
+body.tactical-theme .btn-primary:hover {
+    background: #8b9a6b;
+    color: #1a1f16;
+    box-shadow: 0 0 20px rgba(139, 154, 107, 0.5);
+}
+
+body.tactical-theme .btn-secondary {
+    border: 2px solid #c4a35a;
+    background: transparent;
+    color: #c4a35a;
+    box-shadow: 0 0 10px rgba(196, 163, 90, 0.3), inset 0 0 10px rgba(196, 163, 90, 0.1);
+}
+
+body.tactical-theme .btn-secondary:hover {
+    background: #c4a35a;
+    color: #1a1f16;
+    box-shadow: 0 0 20px rgba(196, 163, 90, 0.5);
+}
+
+body.tactical-theme .scroll-arrow {
+    border-color: #8b9a6b;
+    box-shadow: 3px 3px 5px rgba(139, 154, 107, 0.3);
+}
+
+body.tactical-theme .section-title::after {
+    background: linear-gradient(90deg, #8b9a6b, #c4a35a);
+    box-shadow: 0 0 10px rgba(139, 154, 107, 0.5);
+}
+
+body.tactical-theme .focus-title {
+    color: #c4a35a;
+    text-shadow: 0 0 10px rgba(196, 163, 90, 0.4);
+}
+
+body.tactical-theme .focus-card,
+body.tactical-theme .project-card,
+body.tactical-theme .touch-item {
+    border-color: rgba(139, 154, 107, 0.2);
+}
+
+body.tactical-theme .focus-card:hover {
+    border-color: #8b9a6b;
+    box-shadow: 0 0 20px rgba(139, 154, 107, 0.2);
+}
+
+body.tactical-theme .project-card:hover {
+    border-color: rgba(139, 154, 107, 0.4);
+    box-shadow: 0 10px 30px rgba(139, 154, 107, 0.1);
+}
+
+body.tactical-theme .project-title {
+    color: #e8e4d9;
+}
+
+body.tactical-theme .project-link {
+    color: #8b9a6b;
+}
+
+body.tactical-theme .project-link:hover {
+    color: #c4a35a;
+    text-shadow: 0 0 10px rgba(196, 163, 90, 0.5);
+}
+
+body.tactical-theme .project-image {
+    border-color: rgba(139, 154, 107, 0.2);
+}
+
+body.tactical-theme .project-card:hover .project-image {
+    border-color: rgba(139, 154, 107, 0.4);
+    box-shadow: 0 0 15px rgba(139, 154, 107, 0.1);
+}
+
+body.tactical-theme .tag {
+    border: 1px solid rgba(139, 154, 107, 0.3);
+    background: rgba(139, 154, 107, 0.2);
+    color: #8b9a6b;
+}
+
+body.tactical-theme .tag:nth-child(even) {
+    border-color: rgba(196, 163, 90, 0.3);
+    background: rgba(196, 163, 90, 0.16);
+    color: #c4a35a;
+}
+
+body.tactical-theme .touch-item:hover {
+    border-color: #8b9a6b;
+    color: #8b9a6b;
+    box-shadow: 0 0 15px rgba(139, 154, 107, 0.2);
+}
+
+body.tactical-theme .touch-icon,
+body.tactical-theme .linkedin-icon {
+    color: #8b9a6b;
+}
+
+body.tactical-theme .touch-item:hover .linkedin-icon {
+    color: #c4a35a;
+    filter: drop-shadow(0 0 8px rgba(196, 163, 90, 0.5));
+}
+
+body.tactical-theme .footer {
+    border-top-color: rgba(139, 154, 107, 0.2);
+}
+
+body.tactical-theme .footer-game-link {
+    color: #c4a35a;
+}
+
+body.tactical-theme .theme-toggle {
+    border-color: rgba(139, 154, 107, 0.3);
+    border-radius: 30px;
+    background: #2f3728;
+    color: #b8b4a9;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+body.tactical-theme .theme-toggle:hover {
+    border-color: #8b9a6b;
+    color: #8b9a6b;
+    box-shadow: 0 4px 20px rgba(139, 154, 107, 0.2);
+}
+
+body.tactical-theme .nav-menu {
+    background: rgba(26, 31, 22, 0.98);
 }
 
 /* ================================
