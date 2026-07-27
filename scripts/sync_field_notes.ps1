@@ -11,8 +11,14 @@ $deployDirectory = Join-Path $projectRoot "deploy_worktree"
 function Test-GitRepository {
     param([string]$Path)
 
-    & git -C $Path rev-parse --is-inside-work-tree *> $null
-    return $LASTEXITCODE -eq 0
+    $previousErrorActionPreference = $ErrorActionPreference
+    try {
+        $ErrorActionPreference = "Continue"
+        & git -C $Path rev-parse --is-inside-work-tree 1>$null 2>$null
+        return $LASTEXITCODE -eq 0
+    } finally {
+        $ErrorActionPreference = $previousErrorActionPreference
+    }
 }
 
 function Invoke-Git {
