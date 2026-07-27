@@ -198,10 +198,10 @@ def write_rss(output: dict, config: dict) -> None:
     ElementTree.register_namespace("atom", ATOM_NAMESPACE)
     rss = ElementTree.Element("rss", {"version": "2.0"})
     channel = ElementTree.SubElement(rss, "channel")
-    ElementTree.SubElement(channel, "title").text = "Rohaan Ahmed - News"
+    ElementTree.SubElement(channel, "title").text = "Rohaan Ahmed - My News"
     ElementTree.SubElement(channel, "link").text = f"{SITE_URL}/news.html"
     ElementTree.SubElement(channel, "description").text = (
-        "An automatically curated list of news on topics of interest to me"
+        "An automatically curated news feed built around my areas of interest"
     )
     ElementTree.SubElement(channel, "language").text = "en-ca"
     generated_at = datetime.fromisoformat(

@@ -25,13 +25,16 @@
             </button>
             <ul class="nav-menu" id="nav-menu">
                 <li class="nav-item">
-                    <a href="#news-preview" class="nav-link">News</a>
+                    <a href="#news-preview" class="nav-link">My News</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#field-notes-preview" class="nav-link">Field Notes</a>
+                    <a href="#field-notes-preview" class="nav-link">My Field Notes</a>
                 </li>
                 <li class="nav-item">
                     <a href="#about" class="nav-link">About</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#projects" class="nav-link">Projects</a>
                 </li>
                 <li class="nav-item">
                     <a href="#contact" class="nav-link">Contact</a>
@@ -72,7 +75,7 @@
             </h1>
             <p class="hero-tagline" id="tagline">Artificial Intelligence <span class="tagline-separator">|</span> Robotics <span class="tagline-separator">|</span> Space <span class="tagline-separator">|</span> Defence</p>
             <div class="hero-buttons">
-                <a href="#news-preview" class="btn btn-primary">View News</a>
+                <a href="#news-preview" class="btn btn-primary">View My News</a>
                 <a href="#about" class="btn btn-secondary">About Me</a>
             </div>
         </div>
@@ -86,12 +89,9 @@
         <div class="container">
             <div class="home-feed-heading">
                 <div>
-                    <p class="home-feed-kicker">Automatic updates</p>
-                    <h2 class="section-title" id="home-news-title"><a href="news.html">News</a></h2>
-                    <p class="home-feed-description">An automatically curated list of news on topics of interest to me</p>
+                    <h2 class="section-title" id="home-news-title"><a href="news.html">My News</a></h2>
                 </div>
                 <div class="home-feed-meta">
-                    <p id="home-news-updated">Loading current headlines...</p>
                     <a class="home-feed-link" href="news.html">View full news feed</a>
                 </div>
             </div>
@@ -105,13 +105,10 @@
         <div class="container">
             <div class="home-feed-heading">
                 <div>
-                    <p class="home-feed-kicker">Writing in progress</p>
-                    <h2 class="section-title" id="home-notes-title"><a href="field-notes.html">Field Notes</a></h2>
-                    <p class="home-feed-description">Recent notes on AI, robotics, space, defence, and operating technology in the real world.</p>
+                    <h2 class="section-title" id="home-notes-title"><a href="field-notes.html">My Field Notes</a></h2>
                 </div>
                 <div class="home-feed-meta">
-                    <p id="home-notes-updated">Loading Field Notes...</p>
-                    <a class="home-feed-link" href="field-notes.html">View all Field Notes</a>
+                    <a class="home-feed-link" href="field-notes.html">View all notes</a>
                 </div>
             </div>
             <div class="home-notes-grid" id="home-notes-grid" aria-live="polite">
@@ -173,6 +170,13 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </section>
+
+    <section class="projects" id="projects">
+        <div class="container">
+            <h2 class="section-title">My Projects</h2>
+            <div class="projects-grid" id="projects-grid"></div>
         </div>
     </section>
 

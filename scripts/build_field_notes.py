@@ -69,11 +69,6 @@ def article_page(metadata: dict, article_html: str) -> str:
         .strftime("%b %d, %Y")
         .replace(" 0", " ")
     )
-    sample = (
-        '<span class="content-kicker-note">Sample post</span>'
-        if metadata["sample"]
-        else ""
-    )
     tags = "".join(
         f'<span class="tag">{html.escape(tag)}</span>'
         for tag in metadata["tags"]
@@ -85,7 +80,7 @@ def article_page(metadata: dict, article_html: str) -> str:
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{summary}">
-    <title>{title} | Field Notes | Rohaan Ahmed</title>
+    <title>{title} | My Field Notes | Rohaan Ahmed</title>
     <link rel="stylesheet" href="../styles.css?v=content-v1">
     <link rel="stylesheet" href="../content.css?v=content-v1">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -97,16 +92,16 @@ def article_page(metadata: dict, article_html: str) -> str:
         <div class="content-nav-inner">
             <a class="content-brand" href="../index.html" aria-label="Rohaan Ahmed home">RA</a>
             <nav class="content-nav-links" aria-label="Content">
-                <a href="../news.html">News</a>
-                <a class="active" href="../field-notes.html">Field Notes</a>
+                <a href="../news.html">My News</a>
+                <a class="active" href="../field-notes.html">My Field Notes</a>
             </nav>
         </div>
     </header>
     <main class="content-main">
         <article class="article-shell">
-            <a class="back-link" href="../field-notes.html">&larr; All Field Notes</a>
+            <a class="back-link" href="../field-notes.html">&larr; All My Field Notes</a>
             <header class="article-header">
-                <div class="content-kicker">Field Notes {sample}</div>
+                <div class="content-kicker">My Field Notes</div>
                 <h1>{title}</h1>
                 <p class="article-summary">{summary}</p>
                 <time datetime="{post_date}">{display_date}</time>

@@ -3,6 +3,26 @@
     const themeToggle = document.getElementById('theme-toggle');
     const themeToggleText = themeToggle?.querySelector('.theme-toggle-text');
     const savedTheme = localStorage.getItem('theme');
+    const TOPIC_ORDER = [
+        'artificial-intelligence',
+        'canadian-space',
+        'international-space',
+        'canadian-defence',
+        'international-defence-technology',
+        'robotics'
+    ];
+
+    function sortTopics(topics = []) {
+        const order = new Map(TOPIC_ORDER.map((id, index) => [id, index]));
+        return [...topics].sort((left, right) => {
+            const leftRank = order.has(left.id) ? order.get(left.id) : Number.MAX_SAFE_INTEGER;
+            const rightRank = order.has(right.id) ? order.get(right.id) : Number.MAX_SAFE_INTEGER;
+            if (leftRank !== rightRank) {
+                return leftRank - rightRank;
+            }
+            return String(left.name).localeCompare(String(right.name));
+        });
+    }
 
     function setTheme(isTactical) {
         body.classList.toggle('tactical-theme', isTactical);
@@ -80,19 +100,20 @@
 
         try {
             const data = await loadJSON('data/news.json');
+            const orderedTopics = sortTopics(data.topics);
             if (overallUpdated) {
                 overallUpdated.textContent = `Updated ${formatDate(data.generatedAt, true)}`;
             }
 
             if (topicJumpLinks) {
-                topicJumpLinks.innerHTML = data.topics.map(topic => `
+                topicJumpLinks.innerHTML = orderedTopics.map(topic => `
                     <a class="topic-jump-link topic-${escapeAttribute(topic.id)}" href="#topic-${escapeAttribute(topic.id)}">
                         ${escapeHTML(topic.name)}
                     </a>
                 `).join('');
             }
 
-            grid.innerHTML = data.topics.map(topic => {
+            grid.innerHTML = orderedTopics.map(topic => {
                 const stories = topic.stories.length
                     ? topic.stories.map(story => `
                         <li>
@@ -119,10 +140,12 @@
                 return groups;
             }, {});
 
-            sourcesList.innerHTML = Object.entries(groupedSources)
-                .map(([topic, sources]) => `
+            sourcesList.innerHTML = orderedTopics
+                .map(topic => [topic.name, groupedSources[topic.name] || []])
+                .filter(([, sources]) => sources.length)
+                .map(([topicName, sources]) => `
                     <div class="source-group">
-                        <h3>${escapeHTML(topic)}</h3>
+                        <h3>${escapeHTML(topicName)}</h3>
                         <ul>
                             ${sources.map(source => `
                                 <li><a href="${escapeAttribute(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(source.name)}</a></li>
@@ -156,7 +179,6 @@
                     <article class="note-card">
                         <div class="note-card-meta">
                             <time datetime="${escapeAttribute(post.date)}">${escapeHTML(formatDate(post.date))}</time>
-                            ${post.sample ? '<span>Sample</span>' : ''}
                         </div>
                         <h2><a href="${escapeAttribute(post.url)}">${escapeHTML(post.title)}</a></h2>
                         <p>${escapeHTML(post.summary)}</p>
@@ -165,7 +187,7 @@
                         </div>
                     </article>
                 `).join('')
-                : '<p class="content-status">No Field Notes have been published yet.</p>';
+                : '<p class="content-status">No notes published yet.</p>';
         } catch (error) {
             grid.innerHTML = '<p class="content-status content-error">Field Notes are temporarily unavailable.</p>';
             console.error(error);

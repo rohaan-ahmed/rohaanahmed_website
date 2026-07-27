@@ -154,6 +154,27 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 });
 
+const TOPIC_ORDER = [
+    'artificial-intelligence',
+    'canadian-space',
+    'international-space',
+    'canadian-defence',
+    'international-defence-technology',
+    'robotics'
+];
+
+function sortTopics(topics = []) {
+    const order = new Map(TOPIC_ORDER.map((id, index) => [id, index]));
+    return [...topics].sort((left, right) => {
+        const leftRank = order.has(left.id) ? order.get(left.id) : Number.MAX_SAFE_INTEGER;
+        const rightRank = order.has(right.id) ? order.get(right.id) : Number.MAX_SAFE_INTEGER;
+        if (leftRank !== rightRank) {
+            return leftRank - rightRank;
+        }
+        return String(left.name).localeCompare(String(right.name));
+    });
+}
+
 async function loadConfig() {
     try {
         const response = await fetch('config.json');
@@ -288,24 +309,19 @@ async function renderHomePreviews() {
 
 async function renderHomeNewsPreview() {
     const grid = document.getElementById('home-topic-grid');
-    const updated = document.getElementById('home-news-updated');
-
-    if (!grid || !updated) return;
+    if (!grid) return;
 
     try {
         const data = await loadJSON('data/news.json');
-        const topics = data.topics.slice(0, 4);
-
-        updated.textContent = `Updated ${formatDate(data.generatedAt, true)}`;
+        const topics = sortTopics(data.topics);
 
         grid.innerHTML = topics.length
             ? topics.map(topic => {
-                const stories = topic.stories.slice(0, 3);
+                const stories = topic.stories.slice(0, 2);
                 const storyItems = stories.length
                     ? stories.map(story => `
                         <li>
                             <a href="${escapeAttribute(story.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(story.title)}</a>
-                            <span class="home-story-meta">(${escapeHTML(formatDate(story.publishedAt))}, ${escapeHTML(story.source)})</span>
                         </li>
                     `).join('')
                     : '<li class="home-feed-empty">No current stories available.</li>';
@@ -325,38 +341,28 @@ async function renderHomeNewsPreview() {
             : '<p class="home-feed-status">No news topics are available right now.</p>';
     } catch (error) {
         grid.innerHTML = '<p class="home-feed-status">The news preview is temporarily unavailable.</p>';
-        updated.textContent = 'Live update unavailable';
         console.error(error);
     }
 }
 
 async function renderHomeFieldNotesPreview() {
     const grid = document.getElementById('home-notes-grid');
-    const updated = document.getElementById('home-notes-updated');
-
-    if (!grid || !updated) return;
+    if (!grid) return;
 
     try {
         const data = await loadJSON('data/field-notes.json');
         const posts = data.posts.slice(0, 4);
 
-        updated.textContent = `Updated ${formatDate(data.generatedAt, true)}`;
-
         grid.innerHTML = posts.length
             ? posts.map(post => `
                 <article class="home-note-card fade-in">
-                    <div class="home-note-meta">
-                        <time datetime="${escapeAttribute(post.date)}">${escapeHTML(formatDate(post.date))}</time>
-                        ${post.sample ? '<span>Sample</span>' : ''}
-                    </div>
                     <h3><a href="${escapeAttribute(post.url)}">${escapeHTML(post.title)}</a></h3>
                     <p>${escapeHTML(post.summary)}</p>
                 </article>
             `).join('')
-            : '<p class="home-feed-status">No Field Notes have been published yet.</p>';
+            : '<p class="home-feed-status">No notes published yet.</p>';
     } catch (error) {
         grid.innerHTML = '<p class="home-feed-status">The Field Notes preview is temporarily unavailable.</p>';
-        updated.textContent = 'Live update unavailable';
         console.error(error);
     }
 
