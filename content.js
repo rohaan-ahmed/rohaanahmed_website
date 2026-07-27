@@ -127,7 +127,6 @@
                     <article class="news-card topic-${escapeAttribute(topic.id)}" id="topic-${escapeAttribute(topic.id)}">
                         <header>
                             <h3>${escapeHTML(topic.name)}</h3>
-                            <p>Last updated ${escapeHTML(formatDate(topic.updatedAt, true))}</p>
                         </header>
                         <ol>${stories}</ol>
                     </article>
@@ -160,12 +159,39 @@
                 );
                 requestAnimationFrame(() => target?.scrollIntoView());
             }
+
+            setupStickyTopicNav();
         } catch (error) {
             grid.innerHTML = '<p class="content-status content-error">The news feed is temporarily unavailable.</p>';
             sourcesList.innerHTML = '';
             if (topicJumpLinks) topicJumpLinks.innerHTML = '';
             console.error(error);
         }
+    }
+
+    function setupStickyTopicNav() {
+        const wrapper = document.querySelector('.news-topic-nav');
+        const inner = document.querySelector('.news-topic-nav-inner');
+        if (!wrapper || !inner || wrapper.dataset.stickyBound === 'true') {
+            if (wrapper && inner) {
+                wrapper.style.minHeight = `${inner.offsetHeight}px`;
+            }
+            return;
+        }
+
+        const topOffset = 68;
+        const syncSticky = () => {
+            wrapper.style.minHeight = `${inner.offsetHeight}px`;
+            const rect = wrapper.getBoundingClientRect();
+            const shouldFix = rect.top <= topOffset && rect.bottom > inner.offsetHeight + topOffset;
+            wrapper.classList.toggle('news-topic-nav-fixed', shouldFix);
+        };
+
+        wrapper.dataset.stickyBound = 'true';
+        window.addEventListener('scroll', syncSticky, { passive: true });
+        document.addEventListener('scroll', syncSticky, { passive: true, capture: true });
+        window.addEventListener('resize', syncSticky);
+        syncSticky();
     }
 
     async function renderFieldNotes() {

@@ -419,6 +419,28 @@ button {
     flex-wrap: wrap;
     justify-content: center;
     gap: 14px;
+    margin-bottom: 28px;
+}
+
+.hero-section-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px 24px;
+}
+
+.hero-section-nav a {
+    color: var(--text-muted);
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    transition: color var(--transition-fast);
+}
+
+.hero-section-nav a:hover {
+    color: var(--primary-text);
 }
 
 .btn {
@@ -1356,6 +1378,7 @@ body.tactical-theme .project-title {
 
 body.tactical-theme .home-feed-link,
 body.tactical-theme .home-feed-kicker,
+body.tactical-theme .hero-section-nav a:hover,
 body.tactical-theme .home-note-meta span,
 body.tactical-theme .home-topic-header h3 a:hover,
 body.tactical-theme .home-note-card h3 a:hover,
@@ -1579,6 +1602,10 @@ body.tactical-theme .nav-menu {
     .hero-buttons {
         align-items: stretch;
         flex-direction: column;
+    }
+
+    .hero-section-nav {
+        gap: 10px 16px;
     }
 
     .btn {
