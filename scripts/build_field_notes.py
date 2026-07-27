@@ -81,8 +81,8 @@ def article_page(metadata: dict, article_html: str) -> str:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{summary}">
     <title>{title} | My Field Notes | Rohaan Ahmed</title>
-    <link rel="stylesheet" href="../styles.css?v=content-v4">
-    <link rel="stylesheet" href="../content.css?v=content-v4">
+    <link rel="stylesheet" href="../styles.css?v=content-v5">
+    <link rel="stylesheet" href="../content.css?v=content-v5">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Share+Tech+Mono&family=Sora:wght@400;600;700;800&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
@@ -120,7 +120,7 @@ def article_page(metadata: dict, article_html: str) -> str:
     <button class="theme-toggle" id="theme-toggle" aria-label="Toggle Tactical Theme" aria-pressed="false">
         <span class="theme-toggle-text">Tactical Theme</span>
     </button>
-    <script src="../content.js?v=content-v4"></script>
+    <script src="../content.js?v=content-v5"></script>
 </body>
 </html>
 """

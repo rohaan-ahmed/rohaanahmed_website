@@ -160,7 +160,7 @@
                 requestAnimationFrame(() => target?.scrollIntoView());
             }
 
-            setupPinnedTopicNav();
+            setupPinnedTopicNav(orderedTopics);
 
         } catch (error) {
             grid.innerHTML = '<p class="content-status content-error">The news feed is temporarily unavailable.</p>';
@@ -170,7 +170,7 @@
         }
     }
 
-    function setupPinnedTopicNav() {
+    function setupPinnedTopicNav(topics = []) {
         const wrapper = document.querySelector('.news-topic-nav');
         const inner = document.querySelector('.news-topic-nav-inner');
         const sourcesSection = document.querySelector('.sources-section');
@@ -185,6 +185,30 @@
         let rafId = 0;
         let lastScrollY = -1;
         let lastWidth = -1;
+        const topicLinks = [...wrapper.querySelectorAll('.topic-jump-link')];
+
+        const syncActiveTopic = () => {
+            const cards = topics
+                .map(topic => document.getElementById(`topic-${topic.id}`))
+                .filter(Boolean);
+
+            let currentId = '';
+            for (const card of cards) {
+                const cardTop = card.getBoundingClientRect().top;
+                if (cardTop - topOffset() - 24 <= 0) {
+                    currentId = card.id;
+                } else if (!currentId) {
+                    currentId = card.id;
+                    break;
+                } else {
+                    break;
+                }
+            }
+
+            topicLinks.forEach(link => {
+                link.classList.toggle('active', link.getAttribute('href') === `#${currentId}`);
+            });
+        };
 
         const syncPinnedState = () => {
             wrapper.style.minHeight = `${inner.offsetHeight}px`;
@@ -193,6 +217,7 @@
                 - inner.offsetHeight - topOffset();
             const shouldFix = window.scrollY >= start && window.scrollY < end;
             wrapper.classList.toggle('news-topic-nav-fixed', shouldFix);
+            syncActiveTopic();
         };
 
         const requestSync = () => {
