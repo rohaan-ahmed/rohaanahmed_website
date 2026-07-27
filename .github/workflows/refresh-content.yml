@@ -13,7 +13,7 @@ on:
   schedule:
     # GitHub cron uses UTC. Run broadly enough to cover 8 a.m.-6 p.m.
     # Toronto time year-round; the first step filters DST-only edge hours.
-    - cron: "32 12-23 * * *"
+    - cron: "11 12-23 * * *"
 
 permissions:
   contents: write
