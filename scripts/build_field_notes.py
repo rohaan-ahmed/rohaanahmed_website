@@ -11,7 +11,7 @@ import yaml
 
 
 ROOT = Path(__file__).resolve().parents[1]
-CONTENT_DIR = ROOT / "content" / "field-notes"
+CONTENT_DIR = ROOT / "content" / "field-notes-src"
 OUTPUT_DIR = ROOT / "field-notes"
 INDEX_PATH = ROOT / "data" / "field-notes.json"
 SLUG_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")

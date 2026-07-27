@@ -5,7 +5,7 @@ GitHub Pages.
 
 ## Field Notes workflow
 
-Field Notes live in `content/field-notes/` as Markdown files. Each file needs YAML front
+Field Notes source files live in `content/field-notes-src/` as Markdown files. Each file needs YAML front
 matter with a title and date:
 
 ```markdown

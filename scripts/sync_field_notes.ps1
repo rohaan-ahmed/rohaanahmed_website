@@ -5,7 +5,7 @@ param(
 
 $ErrorActionPreference = "Stop"
 $projectRoot = (Resolve-Path (Join-Path $PSScriptRoot "..")).Path
-$sourceDirectory = Join-Path $projectRoot "content\field-notes"
+$sourceDirectory = Join-Path $projectRoot "content\field-notes-src"
 $deployDirectory = Join-Path $projectRoot "deploy_worktree"
 
 function Test-GitRepository {
@@ -51,7 +51,7 @@ if (Test-GitRepository $projectRoot) {
 Invoke-Git -Repository $repository -Arguments @("pull", "--rebase")
 
 if ($repository -ne $projectRoot) {
-    $targetDirectory = Join-Path $repository "content\field-notes"
+    $targetDirectory = Join-Path $repository "content\field-notes-src"
     New-Item -ItemType Directory -Path $targetDirectory -Force | Out-Null
 
     $sourceFiles = Get-ChildItem -LiteralPath $sourceDirectory -Filter "*.md" -File
@@ -69,7 +69,7 @@ if ($repository -ne $projectRoot) {
 }
 
 Invoke-Git -Repository $repository -Arguments @(
-    "add", "-A", "--", "content/field-notes"
+    "add", "-A", "--", "content/field-notes-src"
 )
 
 & git -C $repository diff --cached --quiet
