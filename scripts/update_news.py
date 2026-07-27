@@ -39,6 +39,7 @@ REQUEST_HEADERS = {
 EXCLUDED_TITLE_PATTERNS = (re.compile(r"\bpodcast\b", re.IGNORECASE),)
 SITE_URL = "https://rohaanahmed.com"
 ATOM_NAMESPACE = "http://www.w3.org/2005/Atom"
+TOPIC_NAMESPACE = "https://rohaanahmed.com/ns/news/1.0"
 
 
 def iso_now() -> str:
@@ -253,6 +254,7 @@ def select_stories(
 
 def write_rss(output: dict, config: dict) -> None:
     ElementTree.register_namespace("atom", ATOM_NAMESPACE)
+    ElementTree.register_namespace("ra", TOPIC_NAMESPACE)
     rss = ElementTree.Element("rss", {"version": "2.0"})
     channel = ElementTree.SubElement(rss, "channel")
     ElementTree.SubElement(channel, "title").text = "Rohaan Ahmed - My News"
@@ -277,43 +279,103 @@ def write_rss(output: dict, config: dict) -> None:
         },
     )
 
+    topic_lookup = {topic["id"]: topic for topic in output["topics"]}
+
     source_sites = {
         source["name"]: source["site"]
         for topic in config["topics"]
         for source in topic["sources"]
     }
-    feed_stories = sorted(
-        (
-            (topic, story)
-            for topic in output["topics"]
-            for story in topic["stories"]
-        ),
-        key=lambda item: parse_story_date(item[1]),
-        reverse=True,
-    )
+    for topic_index, configured_topic in enumerate(config["topics"], start=1):
+        topic = topic_lookup.get(configured_topic["id"])
+        if not topic:
+            continue
 
-    for topic, story in feed_stories:
-        item = ElementTree.SubElement(channel, "item")
-        ElementTree.SubElement(item, "title").text = story["title"]
-        ElementTree.SubElement(item, "link").text = story["url"]
-        guid_value = hashlib.sha256(
-            f"{topic['id']}:{canonical_url(story['url'])}".encode("utf-8")
+        topic_updated_at = datetime.fromisoformat(
+            topic["updatedAt"].replace("Z", "+00:00")
+        )
+        topic_marker = ElementTree.SubElement(channel, "item")
+        marker_guid = ElementTree.SubElement(
+            topic_marker, "guid", {"isPermaLink": "false"}
+        )
+        marker_guid.text = hashlib.sha256(
+            f"topic:{topic['id']}:{topic['updatedAt']}".encode("utf-8")
         ).hexdigest()
-        guid = ElementTree.SubElement(item, "guid", {"isPermaLink": "false"})
-        guid.text = guid_value
-        ElementTree.SubElement(item, "pubDate").text = format_datetime(
-            parse_story_date(story)
+        ElementTree.SubElement(topic_marker, "title").text = (
+            f"{topic['name']} ({len(topic['stories'])} stories)"
         )
-        ElementTree.SubElement(item, "category").text = topic["name"]
-        source = ElementTree.SubElement(
-            item,
-            "source",
-            {"url": source_sites.get(story["source"], f"{SITE_URL}/news.html")},
+        ElementTree.SubElement(topic_marker, "link").text = (
+            f"{SITE_URL}/news.html#topic-{topic['id']}"
         )
-        source.text = story["source"]
-        ElementTree.SubElement(item, "description").text = (
-            f"{story['source']} | {topic['name']}"
+        ElementTree.SubElement(topic_marker, "pubDate").text = format_datetime(
+            topic_updated_at
         )
+        ElementTree.SubElement(topic_marker, "category").text = topic["name"]
+        ElementTree.SubElement(topic_marker, "description").text = (
+            f"Topic: {topic['name']}\n"
+            f"Updated: {topic['updatedAt']}\n"
+            f"Stories: {len(topic['stories'])}"
+        )
+        ElementTree.SubElement(
+            topic_marker, f"{{{TOPIC_NAMESPACE}}}topicId"
+        ).text = topic["id"]
+        ElementTree.SubElement(
+            topic_marker, f"{{{TOPIC_NAMESPACE}}}topicName"
+        ).text = topic["name"]
+        ElementTree.SubElement(
+            topic_marker, f"{{{TOPIC_NAMESPACE}}}topicPosition"
+        ).text = str(topic_index)
+        ElementTree.SubElement(
+            topic_marker, f"{{{TOPIC_NAMESPACE}}}kind"
+        ).text = "topic"
+
+        for story_index, story in enumerate(topic["stories"], start=1):
+            item = ElementTree.SubElement(channel, "item")
+            ElementTree.SubElement(item, "title").text = story["title"]
+            ElementTree.SubElement(item, "link").text = story["url"]
+            guid_value = hashlib.sha256(
+                f"{topic['id']}:{canonical_url(story['url'])}".encode("utf-8")
+            ).hexdigest()
+            guid = ElementTree.SubElement(item, "guid", {"isPermaLink": "false"})
+            guid.text = guid_value
+            published = parse_story_date(story)
+            ElementTree.SubElement(item, "pubDate").text = format_datetime(
+                published
+            )
+            ElementTree.SubElement(item, "category").text = topic["name"]
+            source = ElementTree.SubElement(
+                item,
+                "source",
+                {"url": source_sites.get(story["source"], f"{SITE_URL}/news.html")},
+            )
+            source.text = story["source"]
+            ElementTree.SubElement(item, "description").text = (
+                f"Topic: {topic['name']}\n"
+                f"Source: {story['source']}\n"
+                f"Published: {story['publishedAt']}\n"
+                f"Headline: {story['title']}"
+            )
+            ElementTree.SubElement(
+                item, f"{{{TOPIC_NAMESPACE}}}topicId"
+            ).text = topic["id"]
+            ElementTree.SubElement(
+                item, f"{{{TOPIC_NAMESPACE}}}topicName"
+            ).text = topic["name"]
+            ElementTree.SubElement(
+                item, f"{{{TOPIC_NAMESPACE}}}topicPosition"
+            ).text = str(topic_index)
+            ElementTree.SubElement(
+                item, f"{{{TOPIC_NAMESPACE}}}storyPosition"
+            ).text = str(story_index)
+            ElementTree.SubElement(
+                item, f"{{{TOPIC_NAMESPACE}}}publishedAt"
+            ).text = story["publishedAt"]
+            ElementTree.SubElement(
+                item, f"{{{TOPIC_NAMESPACE}}}sourceName"
+            ).text = story["source"]
+            ElementTree.SubElement(
+                item, f"{{{TOPIC_NAMESPACE}}}kind"
+            ).text = "story"
 
     tree = ElementTree.ElementTree(rss)
     ElementTree.indent(tree, space="  ")

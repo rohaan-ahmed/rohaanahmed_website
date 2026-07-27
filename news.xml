@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ra="https://rohaanahmed.com/ns/news/1.0" version="2.0">
   <channel>
     <title>Rohaan Ahmed - My News</title>
     <link>https://rohaanahmed.com/news.html</link>
@@ -8,58 +8,18 @@
     <lastBuildDate>Mon, 27 Jul 2026 21:22:21 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Redacted watchdog report spotlights Navy staffing strains impacting undersea surveillance</title>
-      <link>https://defensescoop.com/2026/07/27/ig-report-spotlights-navy-staffing-strains-impacting-undersea-surveillance</link>
-      <guid isPermaLink="false">8f18be79247263619cfb440c100a81d99596c576111ece08d1a076a337911042</guid>
-      <pubDate>Mon, 27 Jul 2026 21:22:04 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://defensescoop.com/">DefenseScoop</source>
-      <description>DefenseScoop | International Defence Technology</description>
-    </item>
-    <item>
-      <title>Satya Nadella says companies that trust one AI for everything may not survive</title>
-      <link>https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive</link>
-      <guid isPermaLink="false">775073136e3a95ab964a06ad1251a7db066f3afc9b12ba482184fe46855657e0</guid>
-      <pubDate>Mon, 27 Jul 2026 21:17:11 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
-      <description>TechCrunch AI | Artificial Intelligence</description>
-    </item>
-    <item>
-      <title>Air Force asserts B-52 modernization remains on cost and schedule following June crash</title>
-      <link>https://defensescoop.com/2026/07/27/b-52-modernization-program-status-after-june-crash</link>
-      <guid isPermaLink="false">3cfd006708f0af7d60751a200b4b7787b168c868efbee76273c2f88ec2eb67cc</guid>
-      <pubDate>Mon, 27 Jul 2026 21:06:45 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://defensescoop.com/">DefenseScoop</source>
-      <description>DefenseScoop | International Defence Technology</description>
-    </item>
-    <item>
-      <title>How industry views Congress’ continuing resolution plans</title>
-      <link>https://breakingdefense.com/2026/07/how-industry-views-congress-continuing-resolution-plans</link>
-      <guid isPermaLink="false">cdf7f36cd83b8ed410a9d2857b068e3448c5bbbc805e3de28bb502a81dc708b2</guid>
-      <pubDate>Mon, 27 Jul 2026 20:30:09 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://breakingdefense.com/">Breaking Defense</source>
-      <description>Breaking Defense | International Defence Technology</description>
-    </item>
-    <item>
-      <title>From Factory Floor to In-Flight: Aerospace is Canada’s Strategic Advantage</title>
-      <link>https://vanguardcanada.com/from-factory-floor-to-in-flight-aerospace-is-canadas-strategic-advantage</link>
-      <guid isPermaLink="false">b58204efe7c311a0a138612e606a38e589d0e14e1e56435cec452972faf01aa8</guid>
-      <pubDate>Mon, 27 Jul 2026 20:25:00 +0000</pubDate>
-      <category>Canadian Defence</category>
-      <source url="https://vanguardcanada.com/">Vanguard</source>
-      <description>Vanguard | Canadian Defence</description>
-    </item>
-    <item>
-      <title>PSA: Your Claude shared chats and Artifacts may have ended up on Google</title>
-      <link>https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google</link>
-      <guid isPermaLink="false">71e70768c5136a16d83b993a05bd0252658783d8edbe23386af5cee74ba3b86a</guid>
-      <pubDate>Mon, 27 Jul 2026 20:19:42 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
-      <description>TechCrunch AI | Artificial Intelligence</description>
+      <guid isPermaLink="false">ac991701662cbdd6eb450a467463900e0bc8f5ff41b2e79cb1c78f725bbfe1e7</guid>
+      <title>International Space (15 stories)</title>
+      <link>https://rohaanahmed.com/news.html#topic-international-space</link>
+      <pubDate>Mon, 27 Jul 2026 21:22:21 +0000</pubDate>
+      <category>International Space</category>
+      <description>Topic: International Space
+Updated: 2026-07-27T21:22:21+00:00
+Stories: 15</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:kind>topic</ra:kind>
     </item>
     <item>
       <title>Upper C-band auction offers another lift for GEO industry</title>
@@ -68,43 +28,17 @@
       <pubDate>Mon, 27 Jul 2026 20:11:07 +0000</pubDate>
       <category>International Space</category>
       <source url="https://spacenews.com/">SpaceNews</source>
-      <description>SpaceNews | International Space</description>
-    </item>
-    <item>
-      <title>Rocket Lab to start launching missile-defense missions from Alaska under $266 million Space Force deal</title>
-      <link>https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal</link>
-      <guid isPermaLink="false">794b12b3ef50d2ce93f8af08d8391291dc09f31337a47bb4e3d976e6b656285e</guid>
-      <pubDate>Mon, 27 Jul 2026 20:00:00 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.space.com/">Space.com</source>
-      <description>Space.com | International Space</description>
-    </item>
-    <item>
-      <title>Op-ed: How the West is losing the Info Wars</title>
-      <link>https://vanguardcanada.com/how-the-west-is-losing-the-info-wars</link>
-      <guid isPermaLink="false">30e363b4230ff20061005b5e412db273eb358566949f7c8f55520aebfc0e2509</guid>
-      <pubDate>Mon, 27 Jul 2026 19:38:58 +0000</pubDate>
-      <category>Canadian Defence</category>
-      <source url="https://vanguardcanada.com/">Vanguard</source>
-      <description>Vanguard | Canadian Defence</description>
-    </item>
-    <item>
-      <title>Army picks GM Defense, Ford and BC Customs to build nine ISV-Heavy prototypes</title>
-      <link>https://breakingdefense.com/2026/07/army-picks-gm-defense-ford-and-bc-customs-to-build-nine-isv-heavy-prototypes</link>
-      <guid isPermaLink="false">060c6351d872799263ad8746dfe1a292e26fa56568c4ba1e4e98474dd9b7413c</guid>
-      <pubDate>Mon, 27 Jul 2026 19:32:00 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://breakingdefense.com/">Breaking Defense</source>
-      <description>Breaking Defense | International Defence Technology</description>
-    </item>
-    <item>
-      <title>Coast Guard searching for tech to defeat unmanned underwater vehicles</title>
-      <link>https://breakingdefense.com/2026/07/coast-guard-searching-for-tech-to-defeat-unmanned-underwater-vehicles</link>
-      <guid isPermaLink="false">b7969a5409c20ee4bd9286ac60e29dbab1e6438d5267a1dd77252a915daab07e</guid>
-      <pubDate>Mon, 27 Jul 2026 19:12:33 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://breakingdefense.com/">Breaking Defense</source>
-      <description>Breaking Defense | International Defence Technology</description>
+      <description>Topic: International Space
+Source: SpaceNews
+Published: 2026-07-27T20:11:07+00:00
+Headline: Upper C-band auction offers another lift for GEO industry</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T20:11:07+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceNews</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Sphinx Defense wins $287 million contract for strategic satellite communications software</title>
@@ -113,151 +47,17 @@
       <pubDate>Mon, 27 Jul 2026 19:02:15 +0000</pubDate>
       <category>International Space</category>
       <source url="https://spacenews.com/">SpaceNews</source>
-      <description>SpaceNews | International Space</description>
-    </item>
-    <item>
-      <title>Pentagon calls for cheaper long-range strike weapons, with testing in just 3 months</title>
-      <link>https://www.defensenews.com/news/2026/07/27/pentagon-calls-for-cheaper-long-range-strike-weapons-with-testing-in-just-3-months</link>
-      <guid isPermaLink="false">fd7f99f2c472d783b3c71ab782abbb2cbc0581b250aeed38219f1a3b20a42321</guid>
-      <pubDate>Mon, 27 Jul 2026 18:55:04 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://www.defensenews.com/">Defense News</source>
-      <description>Defense News | International Defence Technology</description>
-    </item>
-    <item>
-      <title>NASA Astronaut Chris Williams to Discuss Space Station Mission</title>
-      <link>https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission</link>
-      <guid isPermaLink="false">fae33c10f5b1949708b8af65340329c5e1c13a21d7759f94e0ac1ed9a5117646</guid>
-      <pubDate>Mon, 27 Jul 2026 18:49:20 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.nasa.gov/">NASA</source>
-      <description>NASA | International Space</description>
-    </item>
-    <item>
-      <title>Austria plans to extend military service in light of Ukraine war</title>
-      <link>https://www.defensenews.com/global/2026/07/27/austria-plans-to-extend-military-service-in-light-of-ukraine-war</link>
-      <guid isPermaLink="false">724c7bdcc9078ec9b725cb4c756b73a0b9e3a1bcca9c8c5fb3fa3a14d3432839</guid>
-      <pubDate>Mon, 27 Jul 2026 18:38:39 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://www.defensenews.com/">Defense News</source>
-      <description>Defense News | International Defence Technology</description>
-    </item>
-    <item>
-      <title>Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system</title>
-      <link>https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system</link>
-      <guid isPermaLink="false">4d549181b6a19e4a6150a06805336d944f9c4ecd35a734b651bfa59caa2d808e</guid>
-      <pubDate>Mon, 27 Jul 2026 18:32:11 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
-      <description>TechCrunch AI | Artificial Intelligence</description>
-    </item>
-    <item>
-      <title>After Valiant Shield exercise, PACAF commander says he’s ‘impressed’ with Australia’s Ghost Bat drone program</title>
-      <link>https://defensescoop.com/2026/07/27/ghost-bat-drone-cca-valiant-shield-pacific-air-forces</link>
-      <guid isPermaLink="false">6126d97fbe0498487ef66a9319560460f22a4e565fc724f6e76fb4125243b4b3</guid>
-      <pubDate>Mon, 27 Jul 2026 18:30:05 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://defensescoop.com/">DefenseScoop</source>
-      <description>DefenseScoop | International Defence Technology</description>
-    </item>
-    <item>
-      <title>NASA Science Soars During August Total Solar Eclipse</title>
-      <link>https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse</link>
-      <guid isPermaLink="false">c96a7bd205bca764dc9551a309b119dc2499a12367285e7c4cd6de0d15c6b395</guid>
-      <pubDate>Mon, 27 Jul 2026 18:01:14 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.nasa.gov/">NASA</source>
-      <description>NASA | International Space</description>
-    </item>
-    <item>
-      <title>25 years on, 2001's 'Planet of the Apes' has become a bit of a guilty pleasure</title>
-      <link>https://www.space.com/entertainment/space-movies-shows/25-years-on-2001s-planet-of-the-apes-has-become-a-bit-of-a-guilty-pleasure</link>
-      <guid isPermaLink="false">50c06e5ee9ea7c8edf01b1e3c512dd004f562dd47eea805dfea3d24c67a1ea04</guid>
-      <pubDate>Mon, 27 Jul 2026 18:00:00 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.space.com/">Space.com</source>
-      <description>Space.com | International Space</description>
-    </item>
-    <item>
-      <title>In Defence of Canada briefing: Spaceport polling and NORAD’s Arctic resilience</title>
-      <link>https://spaceq.ca/in-defence-of-canada-briefing-spaceport-polling-and-norads-arctic-resilience</link>
-      <guid isPermaLink="false">611fc02ac3349700d6147a41dc92f0d639dcbe4903db08f4b2ccb108ddbf76e9</guid>
-      <pubDate>Mon, 27 Jul 2026 17:44:20 +0000</pubDate>
-      <category>Canadian Space</category>
-      <source url="https://spaceq.ca/">SpaceQ</source>
-      <description>SpaceQ | Canadian Space</description>
-    </item>
-    <item>
-      <title>Pentagon inks deal with L3Harris to ramp rocket motor production</title>
-      <link>https://breakingdefense.com/2026/07/pentagon-inks-deal-with-l3harris-to-ramp-rocket-motor-production</link>
-      <guid isPermaLink="false">47c3128eee1bd7275ad698237dea5c0a62f2e90f6aed2e0079555157f3e709f2</guid>
-      <pubDate>Mon, 27 Jul 2026 17:40:25 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://breakingdefense.com/">Breaking Defense</source>
-      <description>Breaking Defense | International Defence Technology</description>
-    </item>
-    <item>
-      <title>NORD expands compact NORDAC VFD family to 200 hp</title>
-      <link>https://www.therobotreport.com/nord-expands-nordac-compact-vfd-family-to-200-hp</link>
-      <guid isPermaLink="false">60472a049e86f3603eeb7c097639546997e9fea2b71e218f4765b92f099558fc</guid>
-      <pubDate>Mon, 27 Jul 2026 17:37:59 +0000</pubDate>
-      <category>Robotics</category>
-      <source url="https://www.therobotreport.com/">The Robot Report</source>
-      <description>The Robot Report | Robotics</description>
-    </item>
-    <item>
-      <title>On this day in space! July 27, 1962: The 1st zero-g cosmonaut training flight takes off on a Soviet jetliner</title>
-      <link>https://www.space.com/space-exploration/on-this-day-in-space-july-27-2026</link>
-      <guid isPermaLink="false">dcb792ad39b63b26959ee0dcb49d374afd2e2484296554248868bd0c1ab62b15</guid>
-      <pubDate>Mon, 27 Jul 2026 17:20:20 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.space.com/">Space.com</source>
-      <description>Space.com | International Space</description>
-    </item>
-    <item>
-      <title>MDA Space issues $600-million in senior notes to finance U.S. expansion</title>
-      <link>https://spaceq.ca/mda-space-issues-600-million-in-senior-notes-to-finance-u-s-expansion</link>
-      <guid isPermaLink="false">b81720b02e8bbb9ed80dd964028ddec5c64ffde43d0d383dec968945342ceb80</guid>
-      <pubDate>Mon, 27 Jul 2026 17:06:31 +0000</pubDate>
-      <category>Canadian Space</category>
-      <source url="https://spaceq.ca/">SpaceQ</source>
-      <description>SpaceQ | Canadian Space</description>
-    </item>
-    <item>
-      <title>America’s fighter force is running out of margin: Rep. Biggs</title>
-      <link>https://breakingdefense.com/2026/07/americas-fighter-force-is-running-out-of-margin-rep-biggs</link>
-      <guid isPermaLink="false">98b63ef84ff900c5325d7e9c667c53b5f80e621ad0c949adaa60f29cf2428738</guid>
-      <pubDate>Mon, 27 Jul 2026 17:00:00 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://breakingdefense.com/">Breaking Defense</source>
-      <description>Breaking Defense | International Defence Technology</description>
-    </item>
-    <item>
-      <title>NASA Astronaut Chris Williams Returns to Earth</title>
-      <link>https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth</link>
-      <guid isPermaLink="false">73e808064bc2bc8f76393504b3de9ebfd134874f7b7a37c2388e8fea0cc5247c</guid>
-      <pubDate>Mon, 27 Jul 2026 16:48:46 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.nasa.gov/">NASA</source>
-      <description>NASA | International Space</description>
-    </item>
-    <item>
-      <title>India moves closer to a homegrown, long-range air defense</title>
-      <link>https://www.defensenews.com/global/asia-pacific/2026/07/27/india-moves-closer-to-a-homegrown-long-range-air-defense</link>
-      <guid isPermaLink="false">8639b79974a5a21d5c7769f9d96d75e7ef1dfbaba5fd18dd7f88292ef497c9b9</guid>
-      <pubDate>Mon, 27 Jul 2026 15:59:38 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://www.defensenews.com/">Defense News</source>
-      <description>Defense News | International Defence Technology</description>
-    </item>
-    <item>
-      <title>Raging wildfires near Madrid, Spain</title>
-      <link>https://www.esa.int/ESA_Multimedia/Images/2026/07/Raging_wildfires_near_Madrid_Spain</link>
-      <guid isPermaLink="false">762cb62bffe1599cfc023e12d8221f078f35efe5a784224367bdc0ad011880a3</guid>
-      <pubDate>Mon, 27 Jul 2026 14:55:00 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.esa.int/">European Space Agency</source>
-      <description>European Space Agency | International Space</description>
+      <description>Topic: International Space
+Source: SpaceNews
+Published: 2026-07-27T19:02:15+00:00
+Headline: Sphinx Defense wins $287 million contract for strategic satellite communications software</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T19:02:15+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceNews</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Orbes unveils Exo-ORB and agreement with Symphony Space</title>
@@ -266,7 +66,17 @@
       <pubDate>Mon, 27 Jul 2026 13:00:00 +0000</pubDate>
       <category>International Space</category>
       <source url="https://spacenews.com/">SpaceNews</source>
-      <description>SpaceNews | International Space</description>
+      <description>Topic: International Space
+Source: SpaceNews
+Published: 2026-07-27T13:00:00+00:00
+Headline: Orbes unveils Exo-ORB and agreement with Symphony Space</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>3</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T13:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceNews</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Intel debuts new chip for space computing</title>
@@ -275,16 +85,17 @@
       <pubDate>Mon, 27 Jul 2026 13:00:00 +0000</pubDate>
       <category>International Space</category>
       <source url="https://spacenews.com/">SpaceNews</source>
-      <description>SpaceNews | International Space</description>
-    </item>
-    <item>
-      <title>Enigma raises $71M to make controlling a robot as easy as adjusting the volume</title>
-      <link>https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume</link>
-      <guid isPermaLink="false">a2c4f425b1b7deccbf48a572a58525809d8b573f4b066b58bc78e50e6e0b9651</guid>
-      <pubDate>Mon, 27 Jul 2026 13:00:00 +0000</pubDate>
-      <category>Robotics</category>
-      <source url="https://techcrunch.com/category/robotics/">TechCrunch Robotics</source>
-      <description>TechCrunch Robotics | Robotics</description>
+      <description>Topic: International Space
+Source: SpaceNews
+Published: 2026-07-27T13:00:00+00:00
+Headline: Intel debuts new chip for space computing</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>4</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T13:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceNews</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>SpaceNews Welcomes Max Aliprandi as Business Development Associate</title>
@@ -293,7 +104,17 @@
       <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
       <category>International Space</category>
       <source url="https://spacenews.com/">SpaceNews</source>
-      <description>SpaceNews | International Space</description>
+      <description>Topic: International Space
+Source: SpaceNews
+Published: 2026-07-27T12:00:00+00:00
+Headline: SpaceNews Welcomes Max Aliprandi as Business Development Associate</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>5</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T12:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceNews</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Amazon files application for direct-to-device satellite constellation</title>
@@ -302,25 +123,150 @@
       <pubDate>Mon, 27 Jul 2026 11:59:34 +0000</pubDate>
       <category>International Space</category>
       <source url="https://spacenews.com/">SpaceNews</source>
-      <description>SpaceNews | International Space</description>
+      <description>Topic: International Space
+Source: SpaceNews
+Published: 2026-07-27T11:59:34+00:00
+Headline: Amazon files application for direct-to-device satellite constellation</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>6</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T11:59:34+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceNews</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>US Congress approves money for Taiwan defense. Does it mean Trump is done hesitating?</title>
-      <link>https://www.defensenews.com/global/asia-pacific/2026/07/27/us-congress-approves-money-for-taiwan-defense-does-it-mean-trump-is-done-hesitating</link>
-      <guid isPermaLink="false">ddf2a29d4561317f0b48a9a451c1b03ef96e32f4d53dea2ec48f850b377fafe7</guid>
-      <pubDate>Mon, 27 Jul 2026 11:00:46 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://www.defensenews.com/">Defense News</source>
-      <description>Defense News | International Defence Technology</description>
+      <title>Rocket Lab to start launching missile-defense missions from Alaska under $266 million Space Force deal</title>
+      <link>https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-to-start-launching-missile-defense-missions-from-alaska-under-usd266-million-space-force-deal</link>
+      <guid isPermaLink="false">794b12b3ef50d2ce93f8af08d8391291dc09f31337a47bb4e3d976e6b656285e</guid>
+      <pubDate>Mon, 27 Jul 2026 20:00:00 +0000</pubDate>
+      <category>International Space</category>
+      <source url="https://www.space.com/">Space.com</source>
+      <description>Topic: International Space
+Source: Space.com
+Published: 2026-07-27T20:00:00+00:00
+Headline: Rocket Lab to start launching missile-defense missions from Alaska under $266 million Space Force deal</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>7</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T20:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>Space.com</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Anthropic's Opus 5 surprise</title>
-      <link>https://www.therundown.ai/p/anthropic-opus-5-surprise</link>
-      <guid isPermaLink="false">b7a5119ac47f5c5b2c3533840ecad31cd5c9d4aa6f77df7df3fa41bf30cc7618</guid>
-      <pubDate>Mon, 27 Jul 2026 09:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://www.therundown.ai/">The Rundown AI</source>
-      <description>The Rundown AI | Artificial Intelligence</description>
+      <title>25 years on, 2001's 'Planet of the Apes' has become a bit of a guilty pleasure</title>
+      <link>https://www.space.com/entertainment/space-movies-shows/25-years-on-2001s-planet-of-the-apes-has-become-a-bit-of-a-guilty-pleasure</link>
+      <guid isPermaLink="false">50c06e5ee9ea7c8edf01b1e3c512dd004f562dd47eea805dfea3d24c67a1ea04</guid>
+      <pubDate>Mon, 27 Jul 2026 18:00:00 +0000</pubDate>
+      <category>International Space</category>
+      <source url="https://www.space.com/">Space.com</source>
+      <description>Topic: International Space
+Source: Space.com
+Published: 2026-07-27T18:00:00+00:00
+Headline: 25 years on, 2001's 'Planet of the Apes' has become a bit of a guilty pleasure</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>8</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T18:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>Space.com</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>NASA Astronaut Chris Williams to Discuss Space Station Mission</title>
+      <link>https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission</link>
+      <guid isPermaLink="false">fae33c10f5b1949708b8af65340329c5e1c13a21d7759f94e0ac1ed9a5117646</guid>
+      <pubDate>Mon, 27 Jul 2026 18:49:20 +0000</pubDate>
+      <category>International Space</category>
+      <source url="https://www.nasa.gov/">NASA</source>
+      <description>Topic: International Space
+Source: NASA
+Published: 2026-07-27T18:49:20+00:00
+Headline: NASA Astronaut Chris Williams to Discuss Space Station Mission</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>9</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T18:49:20+00:00</ra:publishedAt>
+      <ra:sourceName>NASA</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Raging wildfires near Madrid, Spain</title>
+      <link>https://www.esa.int/ESA_Multimedia/Images/2026/07/Raging_wildfires_near_Madrid_Spain</link>
+      <guid isPermaLink="false">762cb62bffe1599cfc023e12d8221f078f35efe5a784224367bdc0ad011880a3</guid>
+      <pubDate>Mon, 27 Jul 2026 14:55:00 +0000</pubDate>
+      <category>International Space</category>
+      <source url="https://www.esa.int/">European Space Agency</source>
+      <description>Topic: International Space
+Source: European Space Agency
+Published: 2026-07-27T14:55:00+00:00
+Headline: Raging wildfires near Madrid, Spain</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>10</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T14:55:00+00:00</ra:publishedAt>
+      <ra:sourceName>European Space Agency</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>On this day in space! July 27, 1962: The 1st zero-g cosmonaut training flight takes off on a Soviet jetliner</title>
+      <link>https://www.space.com/space-exploration/on-this-day-in-space-july-27-2026</link>
+      <guid isPermaLink="false">dcb792ad39b63b26959ee0dcb49d374afd2e2484296554248868bd0c1ab62b15</guid>
+      <pubDate>Mon, 27 Jul 2026 17:20:20 +0000</pubDate>
+      <category>International Space</category>
+      <source url="https://www.space.com/">Space.com</source>
+      <description>Topic: International Space
+Source: Space.com
+Published: 2026-07-27T17:20:20+00:00
+Headline: On this day in space! July 27, 1962: The 1st zero-g cosmonaut training flight takes off on a Soviet jetliner</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>11</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T17:20:20+00:00</ra:publishedAt>
+      <ra:sourceName>Space.com</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>NASA Science Soars During August Total Solar Eclipse</title>
+      <link>https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse</link>
+      <guid isPermaLink="false">c96a7bd205bca764dc9551a309b119dc2499a12367285e7c4cd6de0d15c6b395</guid>
+      <pubDate>Mon, 27 Jul 2026 18:01:14 +0000</pubDate>
+      <category>International Space</category>
+      <source url="https://www.nasa.gov/">NASA</source>
+      <description>Topic: International Space
+Source: NASA
+Published: 2026-07-27T18:01:14+00:00
+Headline: NASA Science Soars During August Total Solar Eclipse</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>12</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T18:01:14+00:00</ra:publishedAt>
+      <ra:sourceName>NASA</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>NASA Astronaut Chris Williams Returns to Earth</title>
+      <link>https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth</link>
+      <guid isPermaLink="false">73e808064bc2bc8f76393504b3de9ebfd134874f7b7a37c2388e8fea0cc5247c</guid>
+      <pubDate>Mon, 27 Jul 2026 16:48:46 +0000</pubDate>
+      <category>International Space</category>
+      <source url="https://www.nasa.gov/">NASA</source>
+      <description>Topic: International Space
+Source: NASA
+Published: 2026-07-27T16:48:46+00:00
+Headline: NASA Astronaut Chris Williams Returns to Earth</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>13</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T16:48:46+00:00</ra:publishedAt>
+      <ra:sourceName>NASA</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Meet space startups at ESA’s Industry Space Days</title>
@@ -329,151 +275,17 @@
       <pubDate>Mon, 27 Jul 2026 08:05:00 +0000</pubDate>
       <category>International Space</category>
       <source url="https://www.esa.int/">European Space Agency</source>
-      <description>European Space Agency | International Space</description>
-    </item>
-    <item>
-      <title>Are brain waves the next unlock for physical AI?</title>
-      <link>https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai</link>
-      <guid isPermaLink="false">53f4dde8641fa0dac17405772aa203b1b5f6434b6837e3caf481d5cf5167c5ba</guid>
-      <pubDate>Mon, 27 Jul 2026 00:19:14 +0000</pubDate>
-      <category>Robotics</category>
-      <source url="https://techcrunch.com/category/robotics/">TechCrunch Robotics</source>
-      <description>TechCrunch Robotics | Robotics</description>
-    </item>
-    <item>
-      <title>Claude Opus 5 🧠, inside OpenAI’s hack 👨‍💻, NVIDIA open weights 🔓</title>
-      <link>https://tldr.tech/ai/2026-07-27</link>
-      <guid isPermaLink="false">180de18169341eda4a27009e9dd85f555dbeb2392b7a248032ba47f2670664ec</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
-      <description>TLDR AI | Artificial Intelligence</description>
-    </item>
-    <item>
-      <title>Iran says Ukrainian attack on vessel in Caspian Sea killed sailor</title>
-      <link>https://www.defensenews.com/global/mideast-africa/2026/07/26/iran-says-ukrainian-attack-on-vessel-in-caspian-sea-killed-sailor</link>
-      <guid isPermaLink="false">2f2da2dc59f6bbf083a2ce35854eada2baf7cd74a8e364168ad915f27cd2ea67</guid>
-      <pubDate>Sun, 26 Jul 2026 13:20:08 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://www.defensenews.com/">Defense News</source>
-      <description>Defense News | International Defence Technology</description>
-    </item>
-    <item>
-      <title>Optical Tech Would Update a Robot’s AI on the Fly</title>
-      <link>https://spectrum.ieee.org/ai-in-robotics</link>
-      <guid isPermaLink="false">ae405673051c247d23f73331b901ad9a323b8759956a3933bbd8f61e27779f2a</guid>
-      <pubDate>Sun, 26 Jul 2026 13:00:01 +0000</pubDate>
-      <category>Robotics</category>
-      <source url="https://spectrum.ieee.org/robotics">IEEE Spectrum Robotics</source>
-      <description>IEEE Spectrum Robotics | Robotics</description>
-    </item>
-    <item>
-      <title>Magmotor makes motors for a changing world for 150+ years</title>
-      <link>https://www.therobotreport.com/magmotor-makes-motors-changing-world-150-years</link>
-      <guid isPermaLink="false">277d559bb577ec79135eece064be36aed5e4e381e96d0c61852e08dbb9ba00de</guid>
-      <pubDate>Sun, 26 Jul 2026 12:30:51 +0000</pubDate>
-      <category>Robotics</category>
-      <source url="https://www.therobotreport.com/">The Robot Report</source>
-      <description>The Robot Report | Robotics</description>
-    </item>
-    <item>
-      <title>Flight 13 success clears path for Starship catch attempts and lunar mission timelines</title>
-      <link>https://spaceq.ca/flight-13-success-clears-path-for-starship-catch-attempts-and-lunar-mission-timelines</link>
-      <guid isPermaLink="false">355519e4e6b68105197945f85eacc331dd1ee785433e66de7ddc626aa75a9796</guid>
-      <pubDate>Sat, 25 Jul 2026 19:52:52 +0000</pubDate>
-      <category>Canadian Space</category>
-      <source url="https://spaceq.ca/">SpaceQ</source>
-      <description>SpaceQ | Canadian Space</description>
-    </item>
-    <item>
-      <title>Photos: First look at J&amp;J’s Ottava surgical robot</title>
-      <link>https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot</link>
-      <guid isPermaLink="false">6c1f73abb993691466eb9d0e9519e874b8179638688f553253e3c5e7661b6d91</guid>
-      <pubDate>Sat, 25 Jul 2026 14:00:13 +0000</pubDate>
-      <category>Robotics</category>
-      <source url="https://www.therobotreport.com/">The Robot Report</source>
-      <description>The Robot Report | Robotics</description>
-    </item>
-    <item>
-      <title>DIU’s first active-duty military deputy wants to help U.S. forces meet future fights ‘with swagger’</title>
-      <link>https://defensescoop.com/2026/07/24/diu-first-active-duty-military-deputy-meet-future-fights-with-swagger</link>
-      <guid isPermaLink="false">b8a7f65e75d80bbfc1516bc7c5cb2560d41c96bc55becaa8c64a8879dfa5342d</guid>
-      <pubDate>Fri, 24 Jul 2026 21:30:29 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://defensescoop.com/">DefenseScoop</source>
-      <description>DefenseScoop | International Defence Technology</description>
-    </item>
-    <item>
-      <title>SOF community puts novel acquisition strategy to the test during Accelerator challenge</title>
-      <link>https://defensescoop.com/2026/07/24/solic-accelerator-event-sof-acquisition-reform</link>
-      <guid isPermaLink="false">a3f48ecccfc540bee087169ce9f684d5b622a8d4f5ea509a3829c01d2ead4376</guid>
-      <pubDate>Fri, 24 Jul 2026 21:15:05 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://defensescoop.com/">DefenseScoop</source>
-      <description>DefenseScoop | International Defence Technology</description>
-    </item>
-    <item>
-      <title>New CDA Institute report calls for resilient Arctic defence infrastructure</title>
-      <link>https://spaceq.ca/new-cda-institute-report-calls-for-resilient-arctic-defence-infrastructure</link>
-      <guid isPermaLink="false">5e4762084de14d984895f580021d28c02b44f8e10a923e0fea7871a2d02706af</guid>
-      <pubDate>Fri, 24 Jul 2026 18:34:02 +0000</pubDate>
-      <category>Canadian Space</category>
-      <source url="https://spaceq.ca/">SpaceQ</source>
-      <description>SpaceQ | Canadian Space</description>
-    </item>
-    <item>
-      <title>Generalist’s GEN-1 foundation model now supports a range of robot end effectors</title>
-      <link>https://www.therobotreport.com/generalists-gen-1-foundation-model-now-supports-a-range-of-robot-end-effectors</link>
-      <guid isPermaLink="false">37fc3969aee432a3693d432d142e5e8e6ee693b134107e10fc6a9bf0d01bd096</guid>
-      <pubDate>Fri, 24 Jul 2026 18:23:42 +0000</pubDate>
-      <category>Robotics</category>
-      <source url="https://www.therobotreport.com/">The Robot Report</source>
-      <description>The Robot Report | Robotics</description>
-    </item>
-    <item>
-      <title>Arctic agriculture project bridges deep space and the far north</title>
-      <link>https://spaceq.ca/arctic-agriculture-project-bridges-deep-space-and-the-far-north</link>
-      <guid isPermaLink="false">49676b9b9abe9712d12b8bab00b369c9227774c24b5952721728e8e762feffb3</guid>
-      <pubDate>Fri, 24 Jul 2026 17:55:45 +0000</pubDate>
-      <category>Canadian Space</category>
-      <source url="https://spaceq.ca/">SpaceQ</source>
-      <description>SpaceQ | Canadian Space</description>
-    </item>
-    <item>
-      <title>How time series databases unlock real-time data for robotics</title>
-      <link>https://www.therobotreport.com/how-time-series-databases-unlock-real-time-data-for-robotics</link>
-      <guid isPermaLink="false">769b869f6febde812099a9be430ca3fbed7f8887adbc480523687afbae03d318</guid>
-      <pubDate>Fri, 24 Jul 2026 16:28:39 +0000</pubDate>
-      <category>Robotics</category>
-      <source url="https://www.therobotreport.com/">The Robot Report</source>
-      <description>The Robot Report | Robotics</description>
-    </item>
-    <item>
-      <title>Video Friday: An Italian Humanoid Comes to Life</title>
-      <link>https://spectrum.ieee.org/video-friday-physical-ai-robotics</link>
-      <guid isPermaLink="false">8e90a43072fff983cafb40d7c8d65af0836db65c1880a4ccf647631c5c624736</guid>
-      <pubDate>Fri, 24 Jul 2026 15:30:01 +0000</pubDate>
-      <category>Robotics</category>
-      <source url="https://spectrum.ieee.org/robotics">IEEE Spectrum Robotics</source>
-      <description>IEEE Spectrum Robotics | Robotics</description>
-    </item>
-    <item>
-      <title>NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI</title>
-      <link>https://www.therobotreport.com/neura-robotics-establishes-neura-gym-rwth-aachen-train-physical-ai</link>
-      <guid isPermaLink="false">6201abc62c99ec8ac06d9140a4348e8cec1bff429b0c2fa7630e80335e465909</guid>
-      <pubDate>Fri, 24 Jul 2026 12:30:42 +0000</pubDate>
-      <category>Robotics</category>
-      <source url="https://www.therobotreport.com/">The Robot Report</source>
-      <description>The Robot Report | Robotics</description>
-    </item>
-    <item>
-      <title>Galaxia unveils Onyx Edge compute system for low-Earth orbit intelligence</title>
-      <link>https://spaceq.ca/galaxia-unveils-onyx-edge-compute-system-for-low-earth-orbit-intelligence</link>
-      <guid isPermaLink="false">6cf7064e1ef0cd5453952500e504a77259642aaf070790b355cb2f6a0d6a4aec</guid>
-      <pubDate>Fri, 24 Jul 2026 11:40:00 +0000</pubDate>
-      <category>Canadian Space</category>
-      <source url="https://spaceq.ca/">SpaceQ</source>
-      <description>SpaceQ | Canadian Space</description>
+      <description>Topic: International Space
+Source: European Space Agency
+Published: 2026-07-27T08:05:00+00:00
+Headline: Meet space startups at ESA’s Industry Space Days</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>14</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T08:05:00+00:00</ra:publishedAt>
+      <ra:sourceName>European Space Agency</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Why total solar eclipses are so special</title>
@@ -482,43 +294,145 @@
       <pubDate>Fri, 24 Jul 2026 10:00:00 +0000</pubDate>
       <category>International Space</category>
       <source url="https://www.esa.int/">European Space Agency</source>
-      <description>European Space Agency | International Space</description>
+      <description>Topic: International Space
+Source: European Space Agency
+Published: 2026-07-24T10:00:00+00:00
+Headline: Why total solar eclipses are so special</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>15</ra:storyPosition>
+      <ra:publishedAt>2026-07-24T10:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>European Space Agency</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Black Forest Labs teaches video AI to run robots</title>
-      <link>https://www.therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots</link>
-      <guid isPermaLink="false">eb54274a7ecec9b2fd4a2a13a2ea847d6583f3b8912409a33d3b92f0e6056b1e</guid>
-      <pubDate>Fri, 24 Jul 2026 09:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://www.therundown.ai/">The Rundown AI</source>
-      <description>The Rundown AI | Artificial Intelligence</description>
+      <guid isPermaLink="false">a13847255d94afde0505c6bd6b1f4d7bc5a8154c65d3b03ee2c40eb901835acc</guid>
+      <title>Canadian Space (11 stories)</title>
+      <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
+      <pubDate>Mon, 27 Jul 2026 21:22:21 +0000</pubDate>
+      <category>Canadian Space</category>
+      <description>Topic: Canadian Space
+Updated: 2026-07-27T21:22:21+00:00
+Stories: 11</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:kind>topic</ra:kind>
     </item>
     <item>
-      <title>ChatGPT Health 🩺, Fugu-Ultra 1.1 🐡, Runway Media Router 🎬</title>
-      <link>https://tldr.tech/ai/2026-07-24</link>
-      <guid isPermaLink="false">8971abb5a629bbcbbb500b13e1bd9e8a4a77080d587f51e2c7995f6fb15e04bf</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
-      <description>TLDR AI | Artificial Intelligence</description>
+      <title>In Defence of Canada briefing: Spaceport polling and NORAD’s Arctic resilience</title>
+      <link>https://spaceq.ca/in-defence-of-canada-briefing-spaceport-polling-and-norads-arctic-resilience</link>
+      <guid isPermaLink="false">611fc02ac3349700d6147a41dc92f0d639dcbe4903db08f4b2ccb108ddbf76e9</guid>
+      <pubDate>Mon, 27 Jul 2026 17:44:20 +0000</pubDate>
+      <category>Canadian Space</category>
+      <source url="https://spaceq.ca/">SpaceQ</source>
+      <description>Topic: Canadian Space
+Source: SpaceQ
+Published: 2026-07-27T17:44:20+00:00
+Headline: In Defence of Canada briefing: Spaceport polling and NORAD’s Arctic resilience</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T17:44:20+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceQ</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Holiday Robotics raises $105M for its FRIDAY wheeled humanoid</title>
-      <link>https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday</link>
-      <guid isPermaLink="false">c27ee80df3f728d46cfbcf39477326d9c271be111fee92f566052246d8c49f63</guid>
-      <pubDate>Thu, 23 Jul 2026 20:45:47 +0000</pubDate>
-      <category>Robotics</category>
-      <source url="https://www.therobotreport.com/">The Robot Report</source>
-      <description>The Robot Report | Robotics</description>
+      <title>MDA Space issues $600-million in senior notes to finance U.S. expansion</title>
+      <link>https://spaceq.ca/mda-space-issues-600-million-in-senior-notes-to-finance-u-s-expansion</link>
+      <guid isPermaLink="false">b81720b02e8bbb9ed80dd964028ddec5c64ffde43d0d383dec968945342ceb80</guid>
+      <pubDate>Mon, 27 Jul 2026 17:06:31 +0000</pubDate>
+      <category>Canadian Space</category>
+      <source url="https://spaceq.ca/">SpaceQ</source>
+      <description>Topic: Canadian Space
+Source: SpaceQ
+Published: 2026-07-27T17:06:31+00:00
+Headline: MDA Space issues $600-million in senior notes to finance U.S. expansion</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T17:06:31+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceQ</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Ottawa’s New Drone Plan: Build Fast or Fall Behind</title>
-      <link>https://vanguardcanada.com/ottawas-new-drone-plan-build-fast-or-fall-behind</link>
-      <guid isPermaLink="false">cc52a3c3179f340f5ebc5a301fe5333f020abd992415f49af569dcc40831ec3d</guid>
-      <pubDate>Thu, 23 Jul 2026 20:06:27 +0000</pubDate>
-      <category>Canadian Defence</category>
-      <source url="https://vanguardcanada.com/">Vanguard</source>
-      <description>Vanguard | Canadian Defence</description>
+      <title>Flight 13 success clears path for Starship catch attempts and lunar mission timelines</title>
+      <link>https://spaceq.ca/flight-13-success-clears-path-for-starship-catch-attempts-and-lunar-mission-timelines</link>
+      <guid isPermaLink="false">355519e4e6b68105197945f85eacc331dd1ee785433e66de7ddc626aa75a9796</guid>
+      <pubDate>Sat, 25 Jul 2026 19:52:52 +0000</pubDate>
+      <category>Canadian Space</category>
+      <source url="https://spaceq.ca/">SpaceQ</source>
+      <description>Topic: Canadian Space
+Source: SpaceQ
+Published: 2026-07-25T19:52:52+00:00
+Headline: Flight 13 success clears path for Starship catch attempts and lunar mission timelines</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>3</ra:storyPosition>
+      <ra:publishedAt>2026-07-25T19:52:52+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceQ</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>New CDA Institute report calls for resilient Arctic defence infrastructure</title>
+      <link>https://spaceq.ca/new-cda-institute-report-calls-for-resilient-arctic-defence-infrastructure</link>
+      <guid isPermaLink="false">5e4762084de14d984895f580021d28c02b44f8e10a923e0fea7871a2d02706af</guid>
+      <pubDate>Fri, 24 Jul 2026 18:34:02 +0000</pubDate>
+      <category>Canadian Space</category>
+      <source url="https://spaceq.ca/">SpaceQ</source>
+      <description>Topic: Canadian Space
+Source: SpaceQ
+Published: 2026-07-24T18:34:02+00:00
+Headline: New CDA Institute report calls for resilient Arctic defence infrastructure</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>4</ra:storyPosition>
+      <ra:publishedAt>2026-07-24T18:34:02+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceQ</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Arctic agriculture project bridges deep space and the far north</title>
+      <link>https://spaceq.ca/arctic-agriculture-project-bridges-deep-space-and-the-far-north</link>
+      <guid isPermaLink="false">49676b9b9abe9712d12b8bab00b369c9227774c24b5952721728e8e762feffb3</guid>
+      <pubDate>Fri, 24 Jul 2026 17:55:45 +0000</pubDate>
+      <category>Canadian Space</category>
+      <source url="https://spaceq.ca/">SpaceQ</source>
+      <description>Topic: Canadian Space
+Source: SpaceQ
+Published: 2026-07-24T17:55:45+00:00
+Headline: Arctic agriculture project bridges deep space and the far north</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>5</ra:storyPosition>
+      <ra:publishedAt>2026-07-24T17:55:45+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceQ</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Galaxia unveils Onyx Edge compute system for low-Earth orbit intelligence</title>
+      <link>https://spaceq.ca/galaxia-unveils-onyx-edge-compute-system-for-low-earth-orbit-intelligence</link>
+      <guid isPermaLink="false">6cf7064e1ef0cd5453952500e504a77259642aaf070790b355cb2f6a0d6a4aec</guid>
+      <pubDate>Fri, 24 Jul 2026 11:40:00 +0000</pubDate>
+      <category>Canadian Space</category>
+      <source url="https://spaceq.ca/">SpaceQ</source>
+      <description>Topic: Canadian Space
+Source: SpaceQ
+Published: 2026-07-24T11:40:00+00:00
+Headline: Galaxia unveils Onyx Edge compute system for low-Earth orbit intelligence</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>6</ra:storyPosition>
+      <ra:publishedAt>2026-07-24T11:40:00+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceQ</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>CSMC secures $4.5 million federal investment for Arctic microreactor development</title>
@@ -527,43 +441,17 @@
       <pubDate>Thu, 23 Jul 2026 19:07:44 +0000</pubDate>
       <category>Canadian Space</category>
       <source url="https://spaceq.ca/">SpaceQ</source>
-      <description>SpaceQ | Canadian Space</description>
-    </item>
-    <item>
-      <title>Uber co-founder raises $1.7B for new robotics startup ATOMS</title>
-      <link>https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms</link>
-      <guid isPermaLink="false">548325f37842cee37e8042d6b00ee2da4277729f4a67458db8070f0f3f53381f</guid>
-      <pubDate>Thu, 23 Jul 2026 18:53:11 +0000</pubDate>
-      <category>Robotics</category>
-      <source url="https://www.therobotreport.com/">The Robot Report</source>
-      <description>The Robot Report | Robotics</description>
-    </item>
-    <item>
-      <title>AMD unveils Kria module for real-time control, unified memory for robots</title>
-      <link>https://www.therobotreport.com/amd-unveils-kria-module-real-time-control-unified-memory-robots</link>
-      <guid isPermaLink="false">88b86a3cc73225aee8ac2d72bb12f121a10d63feab1313fca1bddd63b2acd046</guid>
-      <pubDate>Thu, 23 Jul 2026 18:30:56 +0000</pubDate>
-      <category>Robotics</category>
-      <source url="https://www.therobotreport.com/">The Robot Report</source>
-      <description>The Robot Report | Robotics</description>
-    </item>
-    <item>
-      <title>Defence Drone Initiative</title>
-      <link>https://www.canada.ca/en/department-national-defence/news/2026/07/defence-drone-initiative.html</link>
-      <guid isPermaLink="false">6c66e16c1bbbf05bdfd83b03ad9cefb21e62e4f6517e8e13412b84a673107a00</guid>
-      <pubDate>Thu, 23 Jul 2026 18:22:18 +0000</pubDate>
-      <category>Canadian Defence</category>
-      <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
-      <description>National Defence | Canadian Defence</description>
-    </item>
-    <item>
-      <title>Government of Canada launches Defence Drone Initiative to strengthen Canada’s sovereign defence capabilities</title>
-      <link>https://www.canada.ca/en/department-national-defence/news/2026/07/government-of-canada-launches-defence-drone-initiative-to-strengthen-canadas-sovereign-defence-capabilities.html</link>
-      <guid isPermaLink="false">1497175523d7831572a9b4bc860867c50f6a0983fe60f19c3dc74ac57ffe12c8</guid>
-      <pubDate>Thu, 23 Jul 2026 18:19:45 +0000</pubDate>
-      <category>Canadian Defence</category>
-      <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
-      <description>National Defence | Canadian Defence</description>
+      <description>Topic: Canadian Space
+Source: SpaceQ
+Published: 2026-07-23T19:07:44+00:00
+Headline: CSMC secures $4.5 million federal investment for Arctic microreactor development</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>7</ra:storyPosition>
+      <ra:publishedAt>2026-07-23T19:07:44+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceQ</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>FCC overhauls orbital licensing with new Part 100 framework, what it means for Canadian operators</title>
@@ -572,70 +460,17 @@
       <pubDate>Thu, 23 Jul 2026 17:36:38 +0000</pubDate>
       <category>Canadian Space</category>
       <source url="https://spaceq.ca/">SpaceQ</source>
-      <description>SpaceQ | Canadian Space</description>
-    </item>
-    <item>
-      <title>Small reactor, big mission: Feds fund CSMC’s Arctic nuclear plan</title>
-      <link>https://vanguardcanada.com/small-reactor-big-mission-feds-fund-csmcs-arctic-nuclear-plan</link>
-      <guid isPermaLink="false">d5129bd1e59cde8b1e9fcf453ed48e3e6f7d30c1ff25514f5cfb939e19f1105b</guid>
-      <pubDate>Thu, 23 Jul 2026 16:30:59 +0000</pubDate>
-      <category>Canadian Defence</category>
-      <source url="https://vanguardcanada.com/">Vanguard</source>
-      <description>Vanguard | Canadian Defence</description>
-    </item>
-    <item>
-      <title>Arctic sovereignty, now a routine — not a one-off</title>
-      <link>https://vanguardcanada.com/arctic-sovereignty-now-a-routine-not-a-one-off</link>
-      <guid isPermaLink="false">108be9bd1d729f1d0f5b3656c5808dec36ecb2da2d6ea130f1186ce71d2414ae</guid>
-      <pubDate>Thu, 23 Jul 2026 16:17:43 +0000</pubDate>
-      <category>Canadian Defence</category>
-      <source url="https://vanguardcanada.com/">Vanguard</source>
-      <description>Vanguard | Canadian Defence</description>
-    </item>
-    <item>
-      <title>Ropedia raises $22M to scale data collection for training robots</title>
-      <link>https://www.therobotreport.com/ropedia-raises-22m-scale-data-collection-training-robots</link>
-      <guid isPermaLink="false">fd5ac7305d7425436800b19a0d7073e0d44bd85d463cf55407d6ed87e4781063</guid>
-      <pubDate>Thu, 23 Jul 2026 15:55:39 +0000</pubDate>
-      <category>Robotics</category>
-      <source url="https://www.therobotreport.com/">The Robot Report</source>
-      <description>The Robot Report | Robotics</description>
-    </item>
-    <item>
-      <title>Canadian Armed Forces conduct Operation LATITUDE to strengthen Allied multi-domain operations in northern waters</title>
-      <link>https://www.canada.ca/en/department-national-defence/news/2026/07/canadian-armed-forces-conduct-operation-latitude-to-strengthen-allied-multi-domain-operations-in-northern-waters.html</link>
-      <guid isPermaLink="false">57cde10ceed07cc369c50d0c020278f2cc362e76edd273b45122da0312bc58eb</guid>
-      <pubDate>Thu, 23 Jul 2026 13:05:18 +0000</pubDate>
-      <category>Canadian Defence</category>
-      <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
-      <description>National Defence | Canadian Defence</description>
-    </item>
-    <item>
-      <title>OpenAI’s cyber test escapes the lab</title>
-      <link>https://www.therundown.ai/p/openai-cyber-test-escapes-the-lab</link>
-      <guid isPermaLink="false">aee4ea3685d12df20e2e5e331ae024cd99135c455ec95be853ea989cb2030766</guid>
-      <pubDate>Thu, 23 Jul 2026 09:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://www.therundown.ai/">The Rundown AI</source>
-      <description>The Rundown AI | Artificial Intelligence</description>
-    </item>
-    <item>
-      <title>Cursor Router 🔀, OpenAI Presence 🤖, AMD + Anthropic deal 🤝🏻</title>
-      <link>https://tldr.tech/ai/2026-07-23</link>
-      <guid isPermaLink="false">f10aee0927a3cbe5dcd62c0347872743be7ff749ca53ac1bfa9786fbcbd637de</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
-      <description>TLDR AI | Artificial Intelligence</description>
-    </item>
-    <item>
-      <title>GE, Magellan bet on a fighter Canada hasn’t bought yet</title>
-      <link>https://vanguardcanada.com/ge-magellan-bet-on-a-fighter-canada-hasnt-bought-yet</link>
-      <guid isPermaLink="false">cc50357e854d3aed817e2f3fed28b9fa9c08d8d0715c2b406808a125a21927e1</guid>
-      <pubDate>Wed, 22 Jul 2026 21:03:41 +0000</pubDate>
-      <category>Canadian Defence</category>
-      <source url="https://vanguardcanada.com/">Vanguard</source>
-      <description>Vanguard | Canadian Defence</description>
+      <description>Topic: Canadian Space
+Source: SpaceQ
+Published: 2026-07-23T17:36:38+00:00
+Headline: FCC overhauls orbital licensing with new Part 100 framework, what it means for Canadian operators</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>8</ra:storyPosition>
+      <ra:publishedAt>2026-07-23T17:36:38+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceQ</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Artemis III Mission to feature live 4K video powered by Starlink lasers</title>
@@ -644,43 +479,17 @@
       <pubDate>Wed, 22 Jul 2026 17:06:30 +0000</pubDate>
       <category>Canadian Space</category>
       <source url="https://spaceq.ca/">SpaceQ</source>
-      <description>SpaceQ | Canadian Space</description>
-    </item>
-    <item>
-      <title>CAE, Leonardo deepen fighter pilot training partnership</title>
-      <link>https://vanguardcanada.com/cae-leonardo-deepen-fighter-pilot-training-partnership</link>
-      <guid isPermaLink="false">46821b794393a4baffaa67822fdb70a80c7aa888604c147bf4449413fcb485fd</guid>
-      <pubDate>Wed, 22 Jul 2026 14:58:31 +0000</pubDate>
-      <category>Canadian Defence</category>
-      <source url="https://vanguardcanada.com/">Vanguard</source>
-      <description>Vanguard | Canadian Defence</description>
-    </item>
-    <item>
-      <title>Airbus, Landing Zones sign UAS partnership at Farnborough</title>
-      <link>https://vanguardcanada.com/airbus-landing-zones-sign-uas-partnership-at-farnborough</link>
-      <guid isPermaLink="false">bba8f14185f82c15e4fbc9631c5b1f784423c873e5b6e2cfc40e43125fbc02f1</guid>
-      <pubDate>Wed, 22 Jul 2026 13:33:11 +0000</pubDate>
-      <category>Canadian Defence</category>
-      <source url="https://vanguardcanada.com/">Vanguard</source>
-      <description>Vanguard | Canadian Defence</description>
-    </item>
-    <item>
-      <title>Google’s Gemini lineup has a Pro-sized hole</title>
-      <link>https://www.therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole</link>
-      <guid isPermaLink="false">b0bbca694963c3b1a7822da4428f864ce0974e9f6bc13c80c8af09fa76b3b4f5</guid>
-      <pubDate>Wed, 22 Jul 2026 09:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://www.therundown.ai/">The Rundown AI</source>
-      <description>The Rundown AI | Artificial Intelligence</description>
-    </item>
-    <item>
-      <title>Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️</title>
-      <link>https://tldr.tech/ai/2026-07-22</link>
-      <guid isPermaLink="false">c18500d6736d14e0eaaa3b0e61350fb8dab761e7b7e5f4a068e0fae71c16fefc</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
-      <description>TLDR AI | Artificial Intelligence</description>
+      <description>Topic: Canadian Space
+Source: SpaceQ
+Published: 2026-07-22T17:06:30+00:00
+Headline: Artemis III Mission to feature live 4K video powered by Starlink lasers</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>9</ra:storyPosition>
+      <ra:publishedAt>2026-07-22T17:06:30+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceQ</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Australian Space Agency outlines new strategic direction for industry growth</title>
@@ -689,61 +498,17 @@
       <pubDate>Tue, 21 Jul 2026 18:52:47 +0000</pubDate>
       <category>Canadian Space</category>
       <source url="https://spaceq.ca/">SpaceQ</source>
-      <description>SpaceQ | Canadian Space</description>
-    </item>
-    <item>
-      <title>Minister McGuinty concludes United Kingdom visit focused on strengthening defence cooperation</title>
-      <link>https://www.canada.ca/en/department-national-defence/news/2026/07/minister-mcguinty-concludes-united-kingdom-visit-focused-on-strengthening-defence-cooperation.html</link>
-      <guid isPermaLink="false">efd9e72a427377bcf86070bdf56e849ef99ea65ba1ed04f5822532c7d61a8bb0</guid>
-      <pubDate>Tue, 21 Jul 2026 17:32:53 +0000</pubDate>
-      <category>Canadian Defence</category>
-      <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
-      <description>National Defence | Canadian Defence</description>
-    </item>
-    <item>
-      <title>QUADRILATERAL Joint Statement on Canada becoming an Observer to GCAP</title>
-      <link>https://www.canada.ca/en/department-national-defence/news/2026/07/quadrilateral-joint-statement-on-canada-becoming-an-observer-to-gcap.html</link>
-      <guid isPermaLink="false">a6d0c064abb8f6e2d996458db4b92f23c13074cc389e68f20688476f605a0450</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:00 +0000</pubDate>
-      <category>Canadian Defence</category>
-      <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
-      <description>National Defence | Canadian Defence</description>
-    </item>
-    <item>
-      <title>Gritt exits stealth with $32 million for robots to build solar plants — then, everything else</title>
-      <link>https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else</link>
-      <guid isPermaLink="false">f9283e596c465e39a62227db49d3210c8c61b68d3332e3690cbc553ad5238ec7</guid>
-      <pubDate>Tue, 21 Jul 2026 10:00:00 +0000</pubDate>
-      <category>Robotics</category>
-      <source url="https://techcrunch.com/category/robotics/">TechCrunch Robotics</source>
-      <description>TechCrunch Robotics | Robotics</description>
-    </item>
-    <item>
-      <title>Claude disproves an 87-year-old math problem</title>
-      <link>https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem</link>
-      <guid isPermaLink="false">24be49dca7f67737a817ca86885b22e4a43ca85868834e4bb0c2d5c3a4180d0d</guid>
-      <pubDate>Tue, 21 Jul 2026 09:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://www.therundown.ai/">The Rundown AI</source>
-      <description>The Rundown AI | Artificial Intelligence</description>
-    </item>
-    <item>
-      <title>Ramp Router ⚡, Kimi Work 💼 , AMD Helios 🧱</title>
-      <link>https://tldr.tech/ai/2026-07-21</link>
-      <guid isPermaLink="false">0797923dd2282f36ba8136fc3937d80a926f0611ad54d86cffa86cc25bcbf383</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
-      <description>TLDR AI | Artificial Intelligence</description>
-    </item>
-    <item>
-      <title>Minister McGuinty to make an announcement with partners in United Kingdom</title>
-      <link>https://www.canada.ca/en/department-national-defence/news/2026/07/minister-mcguinty-to-make-an-announcement-with-partners-in-united-kingdom.html</link>
-      <guid isPermaLink="false">aaa51603a708e21acf6ab0705afd2c82d7b636a0cfd4f4fd966a793858865aad</guid>
-      <pubDate>Mon, 20 Jul 2026 23:15:01 +0000</pubDate>
-      <category>Canadian Defence</category>
-      <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
-      <description>National Defence | Canadian Defence</description>
+      <description>Topic: Canadian Space
+Source: SpaceQ
+Published: 2026-07-21T18:52:47+00:00
+Headline: Australian Space Agency outlines new strategic direction for industry growth</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>10</ra:storyPosition>
+      <ra:publishedAt>2026-07-21T18:52:47+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceQ</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Media accreditation for media events in Houston related to the Crew-13 mission</title>
@@ -752,25 +517,297 @@
       <pubDate>Mon, 20 Jul 2026 20:14:06 +0000</pubDate>
       <category>Canadian Space</category>
       <source url="https://www.asc-csa.gc.ca/eng/">Canadian Space Agency</source>
-      <description>Canadian Space Agency | Canadian Space</description>
+      <description>Topic: Canadian Space
+Source: Canadian Space Agency
+Published: 2026-07-20T20:14:06+00:00
+Headline: Media accreditation for media events in Houston related to the Crew-13 mission</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>11</ra:storyPosition>
+      <ra:publishedAt>2026-07-20T20:14:06+00:00</ra:publishedAt>
+      <ra:sourceName>Canadian Space Agency</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Anthropic's Fable survives the subscription axe</title>
-      <link>https://www.therundown.ai/p/anthropic-fable-survives-the-subscription-axe</link>
-      <guid isPermaLink="false">6aaf3ae08387d87fe816635be434699a9d2751aa073d7912998e8aad66925ff7</guid>
-      <pubDate>Mon, 20 Jul 2026 09:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://www.therundown.ai/">The Rundown AI</source>
-      <description>The Rundown AI | Artificial Intelligence</description>
+      <guid isPermaLink="false">d779c15f21a8b19dcbd2e0e41ab64b671ec136a560f54876777fdc1aaf824652</guid>
+      <title>Canadian Defence (15 stories)</title>
+      <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
+      <pubDate>Mon, 27 Jul 2026 21:22:21 +0000</pubDate>
+      <category>Canadian Defence</category>
+      <description>Topic: Canadian Defence
+Updated: 2026-07-27T21:22:21+00:00
+Stories: 15</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:kind>topic</ra:kind>
     </item>
     <item>
-      <title>Qwen 3.8 ✨, Kimi Code CLI 👨‍💻, Netflix’s LLM stack 🤖</title>
-      <link>https://tldr.tech/ai/2026-07-20</link>
-      <guid isPermaLink="false">652dd2eb19f4e8679ca6fe30cc16a948eed6425c149f6750ed366af0bd36eeef</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
-      <description>TLDR AI | Artificial Intelligence</description>
+      <title>From Factory Floor to In-Flight: Aerospace is Canada’s Strategic Advantage</title>
+      <link>https://vanguardcanada.com/from-factory-floor-to-in-flight-aerospace-is-canadas-strategic-advantage</link>
+      <guid isPermaLink="false">b58204efe7c311a0a138612e606a38e589d0e14e1e56435cec452972faf01aa8</guid>
+      <pubDate>Mon, 27 Jul 2026 20:25:00 +0000</pubDate>
+      <category>Canadian Defence</category>
+      <source url="https://vanguardcanada.com/">Vanguard</source>
+      <description>Topic: Canadian Defence
+Source: Vanguard
+Published: 2026-07-27T20:25:00+00:00
+Headline: From Factory Floor to In-Flight: Aerospace is Canada’s Strategic Advantage</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T20:25:00+00:00</ra:publishedAt>
+      <ra:sourceName>Vanguard</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Op-ed: How the West is losing the Info Wars</title>
+      <link>https://vanguardcanada.com/how-the-west-is-losing-the-info-wars</link>
+      <guid isPermaLink="false">30e363b4230ff20061005b5e412db273eb358566949f7c8f55520aebfc0e2509</guid>
+      <pubDate>Mon, 27 Jul 2026 19:38:58 +0000</pubDate>
+      <category>Canadian Defence</category>
+      <source url="https://vanguardcanada.com/">Vanguard</source>
+      <description>Topic: Canadian Defence
+Source: Vanguard
+Published: 2026-07-27T19:38:58+00:00
+Headline: Op-ed: How the West is losing the Info Wars</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T19:38:58+00:00</ra:publishedAt>
+      <ra:sourceName>Vanguard</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Ottawa’s New Drone Plan: Build Fast or Fall Behind</title>
+      <link>https://vanguardcanada.com/ottawas-new-drone-plan-build-fast-or-fall-behind</link>
+      <guid isPermaLink="false">cc52a3c3179f340f5ebc5a301fe5333f020abd992415f49af569dcc40831ec3d</guid>
+      <pubDate>Thu, 23 Jul 2026 20:06:27 +0000</pubDate>
+      <category>Canadian Defence</category>
+      <source url="https://vanguardcanada.com/">Vanguard</source>
+      <description>Topic: Canadian Defence
+Source: Vanguard
+Published: 2026-07-23T20:06:27+00:00
+Headline: Ottawa’s New Drone Plan: Build Fast or Fall Behind</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:storyPosition>3</ra:storyPosition>
+      <ra:publishedAt>2026-07-23T20:06:27+00:00</ra:publishedAt>
+      <ra:sourceName>Vanguard</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Defence Drone Initiative</title>
+      <link>https://www.canada.ca/en/department-national-defence/news/2026/07/defence-drone-initiative.html</link>
+      <guid isPermaLink="false">6c66e16c1bbbf05bdfd83b03ad9cefb21e62e4f6517e8e13412b84a673107a00</guid>
+      <pubDate>Thu, 23 Jul 2026 18:22:18 +0000</pubDate>
+      <category>Canadian Defence</category>
+      <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
+      <description>Topic: Canadian Defence
+Source: National Defence
+Published: 2026-07-23T18:22:18+00:00
+Headline: Defence Drone Initiative</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:storyPosition>4</ra:storyPosition>
+      <ra:publishedAt>2026-07-23T18:22:18+00:00</ra:publishedAt>
+      <ra:sourceName>National Defence</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Government of Canada launches Defence Drone Initiative to strengthen Canada’s sovereign defence capabilities</title>
+      <link>https://www.canada.ca/en/department-national-defence/news/2026/07/government-of-canada-launches-defence-drone-initiative-to-strengthen-canadas-sovereign-defence-capabilities.html</link>
+      <guid isPermaLink="false">1497175523d7831572a9b4bc860867c50f6a0983fe60f19c3dc74ac57ffe12c8</guid>
+      <pubDate>Thu, 23 Jul 2026 18:19:45 +0000</pubDate>
+      <category>Canadian Defence</category>
+      <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
+      <description>Topic: Canadian Defence
+Source: National Defence
+Published: 2026-07-23T18:19:45+00:00
+Headline: Government of Canada launches Defence Drone Initiative to strengthen Canada’s sovereign defence capabilities</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:storyPosition>5</ra:storyPosition>
+      <ra:publishedAt>2026-07-23T18:19:45+00:00</ra:publishedAt>
+      <ra:sourceName>National Defence</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Small reactor, big mission: Feds fund CSMC’s Arctic nuclear plan</title>
+      <link>https://vanguardcanada.com/small-reactor-big-mission-feds-fund-csmcs-arctic-nuclear-plan</link>
+      <guid isPermaLink="false">d5129bd1e59cde8b1e9fcf453ed48e3e6f7d30c1ff25514f5cfb939e19f1105b</guid>
+      <pubDate>Thu, 23 Jul 2026 16:30:59 +0000</pubDate>
+      <category>Canadian Defence</category>
+      <source url="https://vanguardcanada.com/">Vanguard</source>
+      <description>Topic: Canadian Defence
+Source: Vanguard
+Published: 2026-07-23T16:30:59+00:00
+Headline: Small reactor, big mission: Feds fund CSMC’s Arctic nuclear plan</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:storyPosition>6</ra:storyPosition>
+      <ra:publishedAt>2026-07-23T16:30:59+00:00</ra:publishedAt>
+      <ra:sourceName>Vanguard</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Arctic sovereignty, now a routine — not a one-off</title>
+      <link>https://vanguardcanada.com/arctic-sovereignty-now-a-routine-not-a-one-off</link>
+      <guid isPermaLink="false">108be9bd1d729f1d0f5b3656c5808dec36ecb2da2d6ea130f1186ce71d2414ae</guid>
+      <pubDate>Thu, 23 Jul 2026 16:17:43 +0000</pubDate>
+      <category>Canadian Defence</category>
+      <source url="https://vanguardcanada.com/">Vanguard</source>
+      <description>Topic: Canadian Defence
+Source: Vanguard
+Published: 2026-07-23T16:17:43+00:00
+Headline: Arctic sovereignty, now a routine — not a one-off</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:storyPosition>7</ra:storyPosition>
+      <ra:publishedAt>2026-07-23T16:17:43+00:00</ra:publishedAt>
+      <ra:sourceName>Vanguard</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Canadian Armed Forces conduct Operation LATITUDE to strengthen Allied multi-domain operations in northern waters</title>
+      <link>https://www.canada.ca/en/department-national-defence/news/2026/07/canadian-armed-forces-conduct-operation-latitude-to-strengthen-allied-multi-domain-operations-in-northern-waters.html</link>
+      <guid isPermaLink="false">57cde10ceed07cc369c50d0c020278f2cc362e76edd273b45122da0312bc58eb</guid>
+      <pubDate>Thu, 23 Jul 2026 13:05:18 +0000</pubDate>
+      <category>Canadian Defence</category>
+      <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
+      <description>Topic: Canadian Defence
+Source: National Defence
+Published: 2026-07-23T13:05:18+00:00
+Headline: Canadian Armed Forces conduct Operation LATITUDE to strengthen Allied multi-domain operations in northern waters</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:storyPosition>8</ra:storyPosition>
+      <ra:publishedAt>2026-07-23T13:05:18+00:00</ra:publishedAt>
+      <ra:sourceName>National Defence</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>GE, Magellan bet on a fighter Canada hasn’t bought yet</title>
+      <link>https://vanguardcanada.com/ge-magellan-bet-on-a-fighter-canada-hasnt-bought-yet</link>
+      <guid isPermaLink="false">cc50357e854d3aed817e2f3fed28b9fa9c08d8d0715c2b406808a125a21927e1</guid>
+      <pubDate>Wed, 22 Jul 2026 21:03:41 +0000</pubDate>
+      <category>Canadian Defence</category>
+      <source url="https://vanguardcanada.com/">Vanguard</source>
+      <description>Topic: Canadian Defence
+Source: Vanguard
+Published: 2026-07-22T21:03:41+00:00
+Headline: GE, Magellan bet on a fighter Canada hasn’t bought yet</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:storyPosition>9</ra:storyPosition>
+      <ra:publishedAt>2026-07-22T21:03:41+00:00</ra:publishedAt>
+      <ra:sourceName>Vanguard</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>CAE, Leonardo deepen fighter pilot training partnership</title>
+      <link>https://vanguardcanada.com/cae-leonardo-deepen-fighter-pilot-training-partnership</link>
+      <guid isPermaLink="false">46821b794393a4baffaa67822fdb70a80c7aa888604c147bf4449413fcb485fd</guid>
+      <pubDate>Wed, 22 Jul 2026 14:58:31 +0000</pubDate>
+      <category>Canadian Defence</category>
+      <source url="https://vanguardcanada.com/">Vanguard</source>
+      <description>Topic: Canadian Defence
+Source: Vanguard
+Published: 2026-07-22T14:58:31+00:00
+Headline: CAE, Leonardo deepen fighter pilot training partnership</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:storyPosition>10</ra:storyPosition>
+      <ra:publishedAt>2026-07-22T14:58:31+00:00</ra:publishedAt>
+      <ra:sourceName>Vanguard</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Airbus, Landing Zones sign UAS partnership at Farnborough</title>
+      <link>https://vanguardcanada.com/airbus-landing-zones-sign-uas-partnership-at-farnborough</link>
+      <guid isPermaLink="false">bba8f14185f82c15e4fbc9631c5b1f784423c873e5b6e2cfc40e43125fbc02f1</guid>
+      <pubDate>Wed, 22 Jul 2026 13:33:11 +0000</pubDate>
+      <category>Canadian Defence</category>
+      <source url="https://vanguardcanada.com/">Vanguard</source>
+      <description>Topic: Canadian Defence
+Source: Vanguard
+Published: 2026-07-22T13:33:11+00:00
+Headline: Airbus, Landing Zones sign UAS partnership at Farnborough</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:storyPosition>11</ra:storyPosition>
+      <ra:publishedAt>2026-07-22T13:33:11+00:00</ra:publishedAt>
+      <ra:sourceName>Vanguard</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Minister McGuinty concludes United Kingdom visit focused on strengthening defence cooperation</title>
+      <link>https://www.canada.ca/en/department-national-defence/news/2026/07/minister-mcguinty-concludes-united-kingdom-visit-focused-on-strengthening-defence-cooperation.html</link>
+      <guid isPermaLink="false">efd9e72a427377bcf86070bdf56e849ef99ea65ba1ed04f5822532c7d61a8bb0</guid>
+      <pubDate>Tue, 21 Jul 2026 17:32:53 +0000</pubDate>
+      <category>Canadian Defence</category>
+      <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
+      <description>Topic: Canadian Defence
+Source: National Defence
+Published: 2026-07-21T17:32:53+00:00
+Headline: Minister McGuinty concludes United Kingdom visit focused on strengthening defence cooperation</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:storyPosition>12</ra:storyPosition>
+      <ra:publishedAt>2026-07-21T17:32:53+00:00</ra:publishedAt>
+      <ra:sourceName>National Defence</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>QUADRILATERAL Joint Statement on Canada becoming an Observer to GCAP</title>
+      <link>https://www.canada.ca/en/department-national-defence/news/2026/07/quadrilateral-joint-statement-on-canada-becoming-an-observer-to-gcap.html</link>
+      <guid isPermaLink="false">a6d0c064abb8f6e2d996458db4b92f23c13074cc389e68f20688476f605a0450</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:00 +0000</pubDate>
+      <category>Canadian Defence</category>
+      <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
+      <description>Topic: Canadian Defence
+Source: National Defence
+Published: 2026-07-21T13:20:00+00:00
+Headline: QUADRILATERAL Joint Statement on Canada becoming an Observer to GCAP</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:storyPosition>13</ra:storyPosition>
+      <ra:publishedAt>2026-07-21T13:20:00+00:00</ra:publishedAt>
+      <ra:sourceName>National Defence</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Minister McGuinty to make an announcement with partners in United Kingdom</title>
+      <link>https://www.canada.ca/en/department-national-defence/news/2026/07/minister-mcguinty-to-make-an-announcement-with-partners-in-united-kingdom.html</link>
+      <guid isPermaLink="false">aaa51603a708e21acf6ab0705afd2c82d7b636a0cfd4f4fd966a793858865aad</guid>
+      <pubDate>Mon, 20 Jul 2026 23:15:01 +0000</pubDate>
+      <category>Canadian Defence</category>
+      <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
+      <description>Topic: Canadian Defence
+Source: National Defence
+Published: 2026-07-20T23:15:01+00:00
+Headline: Minister McGuinty to make an announcement with partners in United Kingdom</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:storyPosition>14</ra:storyPosition>
+      <ra:publishedAt>2026-07-20T23:15:01+00:00</ra:publishedAt>
+      <ra:sourceName>National Defence</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Statement from the Canadian Armed Forces on the evacuation of Eabametoong First Nation (Fort Hope), Ontario due to wildfire</title>
@@ -779,7 +816,914 @@
       <pubDate>Sat, 18 Jul 2026 21:15:44 +0000</pubDate>
       <category>Canadian Defence</category>
       <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
-      <description>National Defence | Canadian Defence</description>
+      <description>Topic: Canadian Defence
+Source: National Defence
+Published: 2026-07-18T21:15:44+00:00
+Headline: Statement from the Canadian Armed Forces on the evacuation of Eabametoong First Nation (Fort Hope), Ontario due to wildfire</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:storyPosition>15</ra:storyPosition>
+      <ra:publishedAt>2026-07-18T21:15:44+00:00</ra:publishedAt>
+      <ra:sourceName>National Defence</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <guid isPermaLink="false">a6451b418e3405e069812cbfec5884ed772e6ea118c031f0ff75d79420f5bd44</guid>
+      <title>International Defence Technology (15 stories)</title>
+      <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
+      <pubDate>Mon, 27 Jul 2026 21:22:21 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <description>Topic: International Defence Technology
+Updated: 2026-07-27T21:22:21+00:00
+Stories: 15</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:kind>topic</ra:kind>
+    </item>
+    <item>
+      <title>How industry views Congress’ continuing resolution plans</title>
+      <link>https://breakingdefense.com/2026/07/how-industry-views-congress-continuing-resolution-plans</link>
+      <guid isPermaLink="false">cdf7f36cd83b8ed410a9d2857b068e3448c5bbbc805e3de28bb502a81dc708b2</guid>
+      <pubDate>Mon, 27 Jul 2026 20:30:09 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <source url="https://breakingdefense.com/">Breaking Defense</source>
+      <description>Topic: International Defence Technology
+Source: Breaking Defense
+Published: 2026-07-27T20:30:09+00:00
+Headline: How industry views Congress’ continuing resolution plans</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T20:30:09+00:00</ra:publishedAt>
+      <ra:sourceName>Breaking Defense</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Army picks GM Defense, Ford and BC Customs to build nine ISV-Heavy prototypes</title>
+      <link>https://breakingdefense.com/2026/07/army-picks-gm-defense-ford-and-bc-customs-to-build-nine-isv-heavy-prototypes</link>
+      <guid isPermaLink="false">060c6351d872799263ad8746dfe1a292e26fa56568c4ba1e4e98474dd9b7413c</guid>
+      <pubDate>Mon, 27 Jul 2026 19:32:00 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <source url="https://breakingdefense.com/">Breaking Defense</source>
+      <description>Topic: International Defence Technology
+Source: Breaking Defense
+Published: 2026-07-27T19:32:00+00:00
+Headline: Army picks GM Defense, Ford and BC Customs to build nine ISV-Heavy prototypes</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T19:32:00+00:00</ra:publishedAt>
+      <ra:sourceName>Breaking Defense</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Coast Guard searching for tech to defeat unmanned underwater vehicles</title>
+      <link>https://breakingdefense.com/2026/07/coast-guard-searching-for-tech-to-defeat-unmanned-underwater-vehicles</link>
+      <guid isPermaLink="false">b7969a5409c20ee4bd9286ac60e29dbab1e6438d5267a1dd77252a915daab07e</guid>
+      <pubDate>Mon, 27 Jul 2026 19:12:33 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <source url="https://breakingdefense.com/">Breaking Defense</source>
+      <description>Topic: International Defence Technology
+Source: Breaking Defense
+Published: 2026-07-27T19:12:33+00:00
+Headline: Coast Guard searching for tech to defeat unmanned underwater vehicles</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>3</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T19:12:33+00:00</ra:publishedAt>
+      <ra:sourceName>Breaking Defense</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Pentagon calls for cheaper long-range strike weapons, with testing in just 3 months</title>
+      <link>https://www.defensenews.com/news/2026/07/27/pentagon-calls-for-cheaper-long-range-strike-weapons-with-testing-in-just-3-months</link>
+      <guid isPermaLink="false">fd7f99f2c472d783b3c71ab782abbb2cbc0581b250aeed38219f1a3b20a42321</guid>
+      <pubDate>Mon, 27 Jul 2026 18:55:04 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <source url="https://www.defensenews.com/">Defense News</source>
+      <description>Topic: International Defence Technology
+Source: Defense News
+Published: 2026-07-27T18:55:04+00:00
+Headline: Pentagon calls for cheaper long-range strike weapons, with testing in just 3 months</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>4</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T18:55:04+00:00</ra:publishedAt>
+      <ra:sourceName>Defense News</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Redacted watchdog report spotlights Navy staffing strains impacting undersea surveillance</title>
+      <link>https://defensescoop.com/2026/07/27/ig-report-spotlights-navy-staffing-strains-impacting-undersea-surveillance</link>
+      <guid isPermaLink="false">8f18be79247263619cfb440c100a81d99596c576111ece08d1a076a337911042</guid>
+      <pubDate>Mon, 27 Jul 2026 21:22:04 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <source url="https://defensescoop.com/">DefenseScoop</source>
+      <description>Topic: International Defence Technology
+Source: DefenseScoop
+Published: 2026-07-27T21:22:04+00:00
+Headline: Redacted watchdog report spotlights Navy staffing strains impacting undersea surveillance</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>5</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T21:22:04+00:00</ra:publishedAt>
+      <ra:sourceName>DefenseScoop</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Austria plans to extend military service in light of Ukraine war</title>
+      <link>https://www.defensenews.com/global/2026/07/27/austria-plans-to-extend-military-service-in-light-of-ukraine-war</link>
+      <guid isPermaLink="false">724c7bdcc9078ec9b725cb4c756b73a0b9e3a1bcca9c8c5fb3fa3a14d3432839</guid>
+      <pubDate>Mon, 27 Jul 2026 18:38:39 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <source url="https://www.defensenews.com/">Defense News</source>
+      <description>Topic: International Defence Technology
+Source: Defense News
+Published: 2026-07-27T18:38:39+00:00
+Headline: Austria plans to extend military service in light of Ukraine war</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>6</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T18:38:39+00:00</ra:publishedAt>
+      <ra:sourceName>Defense News</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Pentagon inks deal with L3Harris to ramp rocket motor production</title>
+      <link>https://breakingdefense.com/2026/07/pentagon-inks-deal-with-l3harris-to-ramp-rocket-motor-production</link>
+      <guid isPermaLink="false">47c3128eee1bd7275ad698237dea5c0a62f2e90f6aed2e0079555157f3e709f2</guid>
+      <pubDate>Mon, 27 Jul 2026 17:40:25 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <source url="https://breakingdefense.com/">Breaking Defense</source>
+      <description>Topic: International Defence Technology
+Source: Breaking Defense
+Published: 2026-07-27T17:40:25+00:00
+Headline: Pentagon inks deal with L3Harris to ramp rocket motor production</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>7</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T17:40:25+00:00</ra:publishedAt>
+      <ra:sourceName>Breaking Defense</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Air Force asserts B-52 modernization remains on cost and schedule following June crash</title>
+      <link>https://defensescoop.com/2026/07/27/b-52-modernization-program-status-after-june-crash</link>
+      <guid isPermaLink="false">3cfd006708f0af7d60751a200b4b7787b168c868efbee76273c2f88ec2eb67cc</guid>
+      <pubDate>Mon, 27 Jul 2026 21:06:45 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <source url="https://defensescoop.com/">DefenseScoop</source>
+      <description>Topic: International Defence Technology
+Source: DefenseScoop
+Published: 2026-07-27T21:06:45+00:00
+Headline: Air Force asserts B-52 modernization remains on cost and schedule following June crash</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>8</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T21:06:45+00:00</ra:publishedAt>
+      <ra:sourceName>DefenseScoop</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>America’s fighter force is running out of margin: Rep. Biggs</title>
+      <link>https://breakingdefense.com/2026/07/americas-fighter-force-is-running-out-of-margin-rep-biggs</link>
+      <guid isPermaLink="false">98b63ef84ff900c5325d7e9c667c53b5f80e621ad0c949adaa60f29cf2428738</guid>
+      <pubDate>Mon, 27 Jul 2026 17:00:00 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <source url="https://breakingdefense.com/">Breaking Defense</source>
+      <description>Topic: International Defence Technology
+Source: Breaking Defense
+Published: 2026-07-27T17:00:00+00:00
+Headline: America’s fighter force is running out of margin: Rep. Biggs</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>9</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T17:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>Breaking Defense</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>India moves closer to a homegrown, long-range air defense</title>
+      <link>https://www.defensenews.com/global/asia-pacific/2026/07/27/india-moves-closer-to-a-homegrown-long-range-air-defense</link>
+      <guid isPermaLink="false">8639b79974a5a21d5c7769f9d96d75e7ef1dfbaba5fd18dd7f88292ef497c9b9</guid>
+      <pubDate>Mon, 27 Jul 2026 15:59:38 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <source url="https://www.defensenews.com/">Defense News</source>
+      <description>Topic: International Defence Technology
+Source: Defense News
+Published: 2026-07-27T15:59:38+00:00
+Headline: India moves closer to a homegrown, long-range air defense</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>10</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T15:59:38+00:00</ra:publishedAt>
+      <ra:sourceName>Defense News</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>After Valiant Shield exercise, PACAF commander says he’s ‘impressed’ with Australia’s Ghost Bat drone program</title>
+      <link>https://defensescoop.com/2026/07/27/ghost-bat-drone-cca-valiant-shield-pacific-air-forces</link>
+      <guid isPermaLink="false">6126d97fbe0498487ef66a9319560460f22a4e565fc724f6e76fb4125243b4b3</guid>
+      <pubDate>Mon, 27 Jul 2026 18:30:05 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <source url="https://defensescoop.com/">DefenseScoop</source>
+      <description>Topic: International Defence Technology
+Source: DefenseScoop
+Published: 2026-07-27T18:30:05+00:00
+Headline: After Valiant Shield exercise, PACAF commander says he’s ‘impressed’ with Australia’s Ghost Bat drone program</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>11</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T18:30:05+00:00</ra:publishedAt>
+      <ra:sourceName>DefenseScoop</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>US Congress approves money for Taiwan defense. Does it mean Trump is done hesitating?</title>
+      <link>https://www.defensenews.com/global/asia-pacific/2026/07/27/us-congress-approves-money-for-taiwan-defense-does-it-mean-trump-is-done-hesitating</link>
+      <guid isPermaLink="false">ddf2a29d4561317f0b48a9a451c1b03ef96e32f4d53dea2ec48f850b377fafe7</guid>
+      <pubDate>Mon, 27 Jul 2026 11:00:46 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <source url="https://www.defensenews.com/">Defense News</source>
+      <description>Topic: International Defence Technology
+Source: Defense News
+Published: 2026-07-27T11:00:46+00:00
+Headline: US Congress approves money for Taiwan defense. Does it mean Trump is done hesitating?</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>12</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T11:00:46+00:00</ra:publishedAt>
+      <ra:sourceName>Defense News</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Iran says Ukrainian attack on vessel in Caspian Sea killed sailor</title>
+      <link>https://www.defensenews.com/global/mideast-africa/2026/07/26/iran-says-ukrainian-attack-on-vessel-in-caspian-sea-killed-sailor</link>
+      <guid isPermaLink="false">2f2da2dc59f6bbf083a2ce35854eada2baf7cd74a8e364168ad915f27cd2ea67</guid>
+      <pubDate>Sun, 26 Jul 2026 13:20:08 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <source url="https://www.defensenews.com/">Defense News</source>
+      <description>Topic: International Defence Technology
+Source: Defense News
+Published: 2026-07-26T13:20:08+00:00
+Headline: Iran says Ukrainian attack on vessel in Caspian Sea killed sailor</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>13</ra:storyPosition>
+      <ra:publishedAt>2026-07-26T13:20:08+00:00</ra:publishedAt>
+      <ra:sourceName>Defense News</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>DIU’s first active-duty military deputy wants to help U.S. forces meet future fights ‘with swagger’</title>
+      <link>https://defensescoop.com/2026/07/24/diu-first-active-duty-military-deputy-meet-future-fights-with-swagger</link>
+      <guid isPermaLink="false">b8a7f65e75d80bbfc1516bc7c5cb2560d41c96bc55becaa8c64a8879dfa5342d</guid>
+      <pubDate>Fri, 24 Jul 2026 21:30:29 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <source url="https://defensescoop.com/">DefenseScoop</source>
+      <description>Topic: International Defence Technology
+Source: DefenseScoop
+Published: 2026-07-24T21:30:29+00:00
+Headline: DIU’s first active-duty military deputy wants to help U.S. forces meet future fights ‘with swagger’</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>14</ra:storyPosition>
+      <ra:publishedAt>2026-07-24T21:30:29+00:00</ra:publishedAt>
+      <ra:sourceName>DefenseScoop</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>SOF community puts novel acquisition strategy to the test during Accelerator challenge</title>
+      <link>https://defensescoop.com/2026/07/24/solic-accelerator-event-sof-acquisition-reform</link>
+      <guid isPermaLink="false">a3f48ecccfc540bee087169ce9f684d5b622a8d4f5ea509a3829c01d2ead4376</guid>
+      <pubDate>Fri, 24 Jul 2026 21:15:05 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <source url="https://defensescoop.com/">DefenseScoop</source>
+      <description>Topic: International Defence Technology
+Source: DefenseScoop
+Published: 2026-07-24T21:15:05+00:00
+Headline: SOF community puts novel acquisition strategy to the test during Accelerator challenge</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>15</ra:storyPosition>
+      <ra:publishedAt>2026-07-24T21:15:05+00:00</ra:publishedAt>
+      <ra:sourceName>DefenseScoop</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <guid isPermaLink="false">92e06643be5b07e5d5a965a88187c202c25cf404b8f9a036a48a81b93146b1ab</guid>
+      <title>Artificial Intelligence (15 stories)</title>
+      <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
+      <pubDate>Mon, 27 Jul 2026 21:22:21 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <description>Topic: Artificial Intelligence
+Updated: 2026-07-27T21:22:21+00:00
+Stories: 15</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:kind>topic</ra:kind>
+    </item>
+    <item>
+      <title>Satya Nadella says companies that trust one AI for everything may not survive</title>
+      <link>https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive</link>
+      <guid isPermaLink="false">775073136e3a95ab964a06ad1251a7db066f3afc9b12ba482184fe46855657e0</guid>
+      <pubDate>Mon, 27 Jul 2026 21:17:11 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TechCrunch AI
+Published: 2026-07-27T21:17:11+00:00
+Headline: Satya Nadella says companies that trust one AI for everything may not survive</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T21:17:11+00:00</ra:publishedAt>
+      <ra:sourceName>TechCrunch AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Anthropic's Opus 5 surprise</title>
+      <link>https://www.therundown.ai/p/anthropic-opus-5-surprise</link>
+      <guid isPermaLink="false">b7a5119ac47f5c5b2c3533840ecad31cd5c9d4aa6f77df7df3fa41bf30cc7618</guid>
+      <pubDate>Mon, 27 Jul 2026 09:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://www.therundown.ai/">The Rundown AI</source>
+      <description>Topic: Artificial Intelligence
+Source: The Rundown AI
+Published: 2026-07-27T09:00:00+00:00
+Headline: Anthropic's Opus 5 surprise</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T09:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>The Rundown AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>PSA: Your Claude shared chats and Artifacts may have ended up on Google</title>
+      <link>https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google</link>
+      <guid isPermaLink="false">71e70768c5136a16d83b993a05bd0252658783d8edbe23386af5cee74ba3b86a</guid>
+      <pubDate>Mon, 27 Jul 2026 20:19:42 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TechCrunch AI
+Published: 2026-07-27T20:19:42+00:00
+Headline: PSA: Your Claude shared chats and Artifacts may have ended up on Google</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>3</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T20:19:42+00:00</ra:publishedAt>
+      <ra:sourceName>TechCrunch AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system</title>
+      <link>https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system</link>
+      <guid isPermaLink="false">4d549181b6a19e4a6150a06805336d944f9c4ecd35a734b651bfa59caa2d808e</guid>
+      <pubDate>Mon, 27 Jul 2026 18:32:11 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TechCrunch AI
+Published: 2026-07-27T18:32:11+00:00
+Headline: Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>4</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T18:32:11+00:00</ra:publishedAt>
+      <ra:sourceName>TechCrunch AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Claude Opus 5 🧠, inside OpenAI’s hack 👨‍💻, NVIDIA open weights 🔓</title>
+      <link>https://tldr.tech/ai/2026-07-27</link>
+      <guid isPermaLink="false">180de18169341eda4a27009e9dd85f555dbeb2392b7a248032ba47f2670664ec</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TLDR AI
+Published: 2026-07-27T00:00:00+00:00
+Headline: Claude Opus 5 🧠, inside OpenAI’s hack 👨‍💻, NVIDIA open weights 🔓</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>5</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Black Forest Labs teaches video AI to run robots</title>
+      <link>https://www.therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots</link>
+      <guid isPermaLink="false">eb54274a7ecec9b2fd4a2a13a2ea847d6583f3b8912409a33d3b92f0e6056b1e</guid>
+      <pubDate>Fri, 24 Jul 2026 09:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://www.therundown.ai/">The Rundown AI</source>
+      <description>Topic: Artificial Intelligence
+Source: The Rundown AI
+Published: 2026-07-24T09:00:00+00:00
+Headline: Black Forest Labs teaches video AI to run robots</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>6</ra:storyPosition>
+      <ra:publishedAt>2026-07-24T09:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>The Rundown AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>ChatGPT Health 🩺, Fugu-Ultra 1.1 🐡, Runway Media Router 🎬</title>
+      <link>https://tldr.tech/ai/2026-07-24</link>
+      <guid isPermaLink="false">8971abb5a629bbcbbb500b13e1bd9e8a4a77080d587f51e2c7995f6fb15e04bf</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TLDR AI
+Published: 2026-07-24T00:00:00+00:00
+Headline: ChatGPT Health 🩺, Fugu-Ultra 1.1 🐡, Runway Media Router 🎬</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>7</ra:storyPosition>
+      <ra:publishedAt>2026-07-24T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>OpenAI’s cyber test escapes the lab</title>
+      <link>https://www.therundown.ai/p/openai-cyber-test-escapes-the-lab</link>
+      <guid isPermaLink="false">aee4ea3685d12df20e2e5e331ae024cd99135c455ec95be853ea989cb2030766</guid>
+      <pubDate>Thu, 23 Jul 2026 09:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://www.therundown.ai/">The Rundown AI</source>
+      <description>Topic: Artificial Intelligence
+Source: The Rundown AI
+Published: 2026-07-23T09:00:00+00:00
+Headline: OpenAI’s cyber test escapes the lab</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>8</ra:storyPosition>
+      <ra:publishedAt>2026-07-23T09:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>The Rundown AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Cursor Router 🔀, OpenAI Presence 🤖, AMD + Anthropic deal 🤝🏻</title>
+      <link>https://tldr.tech/ai/2026-07-23</link>
+      <guid isPermaLink="false">f10aee0927a3cbe5dcd62c0347872743be7ff749ca53ac1bfa9786fbcbd637de</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TLDR AI
+Published: 2026-07-23T00:00:00+00:00
+Headline: Cursor Router 🔀, OpenAI Presence 🤖, AMD + Anthropic deal 🤝🏻</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>9</ra:storyPosition>
+      <ra:publishedAt>2026-07-23T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Google’s Gemini lineup has a Pro-sized hole</title>
+      <link>https://www.therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole</link>
+      <guid isPermaLink="false">b0bbca694963c3b1a7822da4428f864ce0974e9f6bc13c80c8af09fa76b3b4f5</guid>
+      <pubDate>Wed, 22 Jul 2026 09:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://www.therundown.ai/">The Rundown AI</source>
+      <description>Topic: Artificial Intelligence
+Source: The Rundown AI
+Published: 2026-07-22T09:00:00+00:00
+Headline: Google’s Gemini lineup has a Pro-sized hole</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>10</ra:storyPosition>
+      <ra:publishedAt>2026-07-22T09:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>The Rundown AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️</title>
+      <link>https://tldr.tech/ai/2026-07-22</link>
+      <guid isPermaLink="false">c18500d6736d14e0eaaa3b0e61350fb8dab761e7b7e5f4a068e0fae71c16fefc</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TLDR AI
+Published: 2026-07-22T00:00:00+00:00
+Headline: Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>11</ra:storyPosition>
+      <ra:publishedAt>2026-07-22T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Claude disproves an 87-year-old math problem</title>
+      <link>https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem</link>
+      <guid isPermaLink="false">24be49dca7f67737a817ca86885b22e4a43ca85868834e4bb0c2d5c3a4180d0d</guid>
+      <pubDate>Tue, 21 Jul 2026 09:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://www.therundown.ai/">The Rundown AI</source>
+      <description>Topic: Artificial Intelligence
+Source: The Rundown AI
+Published: 2026-07-21T09:00:00+00:00
+Headline: Claude disproves an 87-year-old math problem</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>12</ra:storyPosition>
+      <ra:publishedAt>2026-07-21T09:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>The Rundown AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Ramp Router ⚡, Kimi Work 💼 , AMD Helios 🧱</title>
+      <link>https://tldr.tech/ai/2026-07-21</link>
+      <guid isPermaLink="false">0797923dd2282f36ba8136fc3937d80a926f0611ad54d86cffa86cc25bcbf383</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TLDR AI
+Published: 2026-07-21T00:00:00+00:00
+Headline: Ramp Router ⚡, Kimi Work 💼 , AMD Helios 🧱</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>13</ra:storyPosition>
+      <ra:publishedAt>2026-07-21T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Anthropic's Fable survives the subscription axe</title>
+      <link>https://www.therundown.ai/p/anthropic-fable-survives-the-subscription-axe</link>
+      <guid isPermaLink="false">6aaf3ae08387d87fe816635be434699a9d2751aa073d7912998e8aad66925ff7</guid>
+      <pubDate>Mon, 20 Jul 2026 09:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://www.therundown.ai/">The Rundown AI</source>
+      <description>Topic: Artificial Intelligence
+Source: The Rundown AI
+Published: 2026-07-20T09:00:00+00:00
+Headline: Anthropic's Fable survives the subscription axe</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>14</ra:storyPosition>
+      <ra:publishedAt>2026-07-20T09:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>The Rundown AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Qwen 3.8 ✨, Kimi Code CLI 👨‍💻, Netflix’s LLM stack 🤖</title>
+      <link>https://tldr.tech/ai/2026-07-20</link>
+      <guid isPermaLink="false">652dd2eb19f4e8679ca6fe30cc16a948eed6425c149f6750ed366af0bd36eeef</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TLDR AI
+Published: 2026-07-20T00:00:00+00:00
+Headline: Qwen 3.8 ✨, Kimi Code CLI 👨‍💻, Netflix’s LLM stack 🤖</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>15</ra:storyPosition>
+      <ra:publishedAt>2026-07-20T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <guid isPermaLink="false">456db497b3e040e5a4a82e4a4563999a496c2c8d197e8b1791f7da7975a53a22</guid>
+      <title>Robotics (15 stories)</title>
+      <link>https://rohaanahmed.com/news.html#topic-robotics</link>
+      <pubDate>Mon, 27 Jul 2026 21:22:21 +0000</pubDate>
+      <category>Robotics</category>
+      <description>Topic: Robotics
+Updated: 2026-07-27T21:22:21+00:00
+Stories: 15</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:kind>topic</ra:kind>
+    </item>
+    <item>
+      <title>NORD expands compact NORDAC VFD family to 200 hp</title>
+      <link>https://www.therobotreport.com/nord-expands-nordac-compact-vfd-family-to-200-hp</link>
+      <guid isPermaLink="false">60472a049e86f3603eeb7c097639546997e9fea2b71e218f4765b92f099558fc</guid>
+      <pubDate>Mon, 27 Jul 2026 17:37:59 +0000</pubDate>
+      <category>Robotics</category>
+      <source url="https://www.therobotreport.com/">The Robot Report</source>
+      <description>Topic: Robotics
+Source: The Robot Report
+Published: 2026-07-27T17:37:59+00:00
+Headline: NORD expands compact NORDAC VFD family to 200 hp</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T17:37:59+00:00</ra:publishedAt>
+      <ra:sourceName>The Robot Report</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Enigma raises $71M to make controlling a robot as easy as adjusting the volume</title>
+      <link>https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume</link>
+      <guid isPermaLink="false">a2c4f425b1b7deccbf48a572a58525809d8b573f4b066b58bc78e50e6e0b9651</guid>
+      <pubDate>Mon, 27 Jul 2026 13:00:00 +0000</pubDate>
+      <category>Robotics</category>
+      <source url="https://techcrunch.com/category/robotics/">TechCrunch Robotics</source>
+      <description>Topic: Robotics
+Source: TechCrunch Robotics
+Published: 2026-07-27T13:00:00+00:00
+Headline: Enigma raises $71M to make controlling a robot as easy as adjusting the volume</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T13:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TechCrunch Robotics</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Are brain waves the next unlock for physical AI?</title>
+      <link>https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai</link>
+      <guid isPermaLink="false">53f4dde8641fa0dac17405772aa203b1b5f6434b6837e3caf481d5cf5167c5ba</guid>
+      <pubDate>Mon, 27 Jul 2026 00:19:14 +0000</pubDate>
+      <category>Robotics</category>
+      <source url="https://techcrunch.com/category/robotics/">TechCrunch Robotics</source>
+      <description>Topic: Robotics
+Source: TechCrunch Robotics
+Published: 2026-07-27T00:19:14+00:00
+Headline: Are brain waves the next unlock for physical AI?</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:storyPosition>3</ra:storyPosition>
+      <ra:publishedAt>2026-07-27T00:19:14+00:00</ra:publishedAt>
+      <ra:sourceName>TechCrunch Robotics</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Magmotor makes motors for a changing world for 150+ years</title>
+      <link>https://www.therobotreport.com/magmotor-makes-motors-changing-world-150-years</link>
+      <guid isPermaLink="false">277d559bb577ec79135eece064be36aed5e4e381e96d0c61852e08dbb9ba00de</guid>
+      <pubDate>Sun, 26 Jul 2026 12:30:51 +0000</pubDate>
+      <category>Robotics</category>
+      <source url="https://www.therobotreport.com/">The Robot Report</source>
+      <description>Topic: Robotics
+Source: The Robot Report
+Published: 2026-07-26T12:30:51+00:00
+Headline: Magmotor makes motors for a changing world for 150+ years</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:storyPosition>4</ra:storyPosition>
+      <ra:publishedAt>2026-07-26T12:30:51+00:00</ra:publishedAt>
+      <ra:sourceName>The Robot Report</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Optical Tech Would Update a Robot’s AI on the Fly</title>
+      <link>https://spectrum.ieee.org/ai-in-robotics</link>
+      <guid isPermaLink="false">ae405673051c247d23f73331b901ad9a323b8759956a3933bbd8f61e27779f2a</guid>
+      <pubDate>Sun, 26 Jul 2026 13:00:01 +0000</pubDate>
+      <category>Robotics</category>
+      <source url="https://spectrum.ieee.org/robotics">IEEE Spectrum Robotics</source>
+      <description>Topic: Robotics
+Source: IEEE Spectrum Robotics
+Published: 2026-07-26T13:00:01+00:00
+Headline: Optical Tech Would Update a Robot’s AI on the Fly</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:storyPosition>5</ra:storyPosition>
+      <ra:publishedAt>2026-07-26T13:00:01+00:00</ra:publishedAt>
+      <ra:sourceName>IEEE Spectrum Robotics</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Photos: First look at J&amp;J’s Ottava surgical robot</title>
+      <link>https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot</link>
+      <guid isPermaLink="false">6c1f73abb993691466eb9d0e9519e874b8179638688f553253e3c5e7661b6d91</guid>
+      <pubDate>Sat, 25 Jul 2026 14:00:13 +0000</pubDate>
+      <category>Robotics</category>
+      <source url="https://www.therobotreport.com/">The Robot Report</source>
+      <description>Topic: Robotics
+Source: The Robot Report
+Published: 2026-07-25T14:00:13+00:00
+Headline: Photos: First look at J&amp;J’s Ottava surgical robot</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:storyPosition>6</ra:storyPosition>
+      <ra:publishedAt>2026-07-25T14:00:13+00:00</ra:publishedAt>
+      <ra:sourceName>The Robot Report</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Generalist’s GEN-1 foundation model now supports a range of robot end effectors</title>
+      <link>https://www.therobotreport.com/generalists-gen-1-foundation-model-now-supports-a-range-of-robot-end-effectors</link>
+      <guid isPermaLink="false">37fc3969aee432a3693d432d142e5e8e6ee693b134107e10fc6a9bf0d01bd096</guid>
+      <pubDate>Fri, 24 Jul 2026 18:23:42 +0000</pubDate>
+      <category>Robotics</category>
+      <source url="https://www.therobotreport.com/">The Robot Report</source>
+      <description>Topic: Robotics
+Source: The Robot Report
+Published: 2026-07-24T18:23:42+00:00
+Headline: Generalist’s GEN-1 foundation model now supports a range of robot end effectors</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:storyPosition>7</ra:storyPosition>
+      <ra:publishedAt>2026-07-24T18:23:42+00:00</ra:publishedAt>
+      <ra:sourceName>The Robot Report</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>How time series databases unlock real-time data for robotics</title>
+      <link>https://www.therobotreport.com/how-time-series-databases-unlock-real-time-data-for-robotics</link>
+      <guid isPermaLink="false">769b869f6febde812099a9be430ca3fbed7f8887adbc480523687afbae03d318</guid>
+      <pubDate>Fri, 24 Jul 2026 16:28:39 +0000</pubDate>
+      <category>Robotics</category>
+      <source url="https://www.therobotreport.com/">The Robot Report</source>
+      <description>Topic: Robotics
+Source: The Robot Report
+Published: 2026-07-24T16:28:39+00:00
+Headline: How time series databases unlock real-time data for robotics</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:storyPosition>8</ra:storyPosition>
+      <ra:publishedAt>2026-07-24T16:28:39+00:00</ra:publishedAt>
+      <ra:sourceName>The Robot Report</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Video Friday: An Italian Humanoid Comes to Life</title>
+      <link>https://spectrum.ieee.org/video-friday-physical-ai-robotics</link>
+      <guid isPermaLink="false">8e90a43072fff983cafb40d7c8d65af0836db65c1880a4ccf647631c5c624736</guid>
+      <pubDate>Fri, 24 Jul 2026 15:30:01 +0000</pubDate>
+      <category>Robotics</category>
+      <source url="https://spectrum.ieee.org/robotics">IEEE Spectrum Robotics</source>
+      <description>Topic: Robotics
+Source: IEEE Spectrum Robotics
+Published: 2026-07-24T15:30:01+00:00
+Headline: Video Friday: An Italian Humanoid Comes to Life</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:storyPosition>9</ra:storyPosition>
+      <ra:publishedAt>2026-07-24T15:30:01+00:00</ra:publishedAt>
+      <ra:sourceName>IEEE Spectrum Robotics</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI</title>
+      <link>https://www.therobotreport.com/neura-robotics-establishes-neura-gym-rwth-aachen-train-physical-ai</link>
+      <guid isPermaLink="false">6201abc62c99ec8ac06d9140a4348e8cec1bff429b0c2fa7630e80335e465909</guid>
+      <pubDate>Fri, 24 Jul 2026 12:30:42 +0000</pubDate>
+      <category>Robotics</category>
+      <source url="https://www.therobotreport.com/">The Robot Report</source>
+      <description>Topic: Robotics
+Source: The Robot Report
+Published: 2026-07-24T12:30:42+00:00
+Headline: NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:storyPosition>10</ra:storyPosition>
+      <ra:publishedAt>2026-07-24T12:30:42+00:00</ra:publishedAt>
+      <ra:sourceName>The Robot Report</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Holiday Robotics raises $105M for its FRIDAY wheeled humanoid</title>
+      <link>https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday</link>
+      <guid isPermaLink="false">c27ee80df3f728d46cfbcf39477326d9c271be111fee92f566052246d8c49f63</guid>
+      <pubDate>Thu, 23 Jul 2026 20:45:47 +0000</pubDate>
+      <category>Robotics</category>
+      <source url="https://www.therobotreport.com/">The Robot Report</source>
+      <description>Topic: Robotics
+Source: The Robot Report
+Published: 2026-07-23T20:45:47+00:00
+Headline: Holiday Robotics raises $105M for its FRIDAY wheeled humanoid</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:storyPosition>11</ra:storyPosition>
+      <ra:publishedAt>2026-07-23T20:45:47+00:00</ra:publishedAt>
+      <ra:sourceName>The Robot Report</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Uber co-founder raises $1.7B for new robotics startup ATOMS</title>
+      <link>https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms</link>
+      <guid isPermaLink="false">548325f37842cee37e8042d6b00ee2da4277729f4a67458db8070f0f3f53381f</guid>
+      <pubDate>Thu, 23 Jul 2026 18:53:11 +0000</pubDate>
+      <category>Robotics</category>
+      <source url="https://www.therobotreport.com/">The Robot Report</source>
+      <description>Topic: Robotics
+Source: The Robot Report
+Published: 2026-07-23T18:53:11+00:00
+Headline: Uber co-founder raises $1.7B for new robotics startup ATOMS</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:storyPosition>12</ra:storyPosition>
+      <ra:publishedAt>2026-07-23T18:53:11+00:00</ra:publishedAt>
+      <ra:sourceName>The Robot Report</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>AMD unveils Kria module for real-time control, unified memory for robots</title>
+      <link>https://www.therobotreport.com/amd-unveils-kria-module-real-time-control-unified-memory-robots</link>
+      <guid isPermaLink="false">88b86a3cc73225aee8ac2d72bb12f121a10d63feab1313fca1bddd63b2acd046</guid>
+      <pubDate>Thu, 23 Jul 2026 18:30:56 +0000</pubDate>
+      <category>Robotics</category>
+      <source url="https://www.therobotreport.com/">The Robot Report</source>
+      <description>Topic: Robotics
+Source: The Robot Report
+Published: 2026-07-23T18:30:56+00:00
+Headline: AMD unveils Kria module for real-time control, unified memory for robots</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:storyPosition>13</ra:storyPosition>
+      <ra:publishedAt>2026-07-23T18:30:56+00:00</ra:publishedAt>
+      <ra:sourceName>The Robot Report</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Ropedia raises $22M to scale data collection for training robots</title>
+      <link>https://www.therobotreport.com/ropedia-raises-22m-scale-data-collection-training-robots</link>
+      <guid isPermaLink="false">fd5ac7305d7425436800b19a0d7073e0d44bd85d463cf55407d6ed87e4781063</guid>
+      <pubDate>Thu, 23 Jul 2026 15:55:39 +0000</pubDate>
+      <category>Robotics</category>
+      <source url="https://www.therobotreport.com/">The Robot Report</source>
+      <description>Topic: Robotics
+Source: The Robot Report
+Published: 2026-07-23T15:55:39+00:00
+Headline: Ropedia raises $22M to scale data collection for training robots</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:storyPosition>14</ra:storyPosition>
+      <ra:publishedAt>2026-07-23T15:55:39+00:00</ra:publishedAt>
+      <ra:sourceName>The Robot Report</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Gritt exits stealth with $32 million for robots to build solar plants — then, everything else</title>
+      <link>https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else</link>
+      <guid isPermaLink="false">f9283e596c465e39a62227db49d3210c8c61b68d3332e3690cbc553ad5238ec7</guid>
+      <pubDate>Tue, 21 Jul 2026 10:00:00 +0000</pubDate>
+      <category>Robotics</category>
+      <source url="https://techcrunch.com/category/robotics/">TechCrunch Robotics</source>
+      <description>Topic: Robotics
+Source: TechCrunch Robotics
+Published: 2026-07-21T10:00:00+00:00
+Headline: Gritt exits stealth with $32 million for robots to build solar plants — then, everything else</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:storyPosition>15</ra:storyPosition>
+      <ra:publishedAt>2026-07-21T10:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TechCrunch Robotics</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
   </channel>
 </rss>
