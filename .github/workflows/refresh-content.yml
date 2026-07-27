@@ -11,9 +11,8 @@ on:
       - "requirements.txt"
       - ".github/workflows/refresh-content.yml"
   schedule:
-    # Run every 10 minutes at minute 1/11/21/31/41/51 UTC.
-    # The first step applies the Toronto local-time refresh policy.
-    - cron: "1/10 * * * *"
+    # Run every 15 minutes all day in UTC.
+    - cron: "11,26,41,56 * * * *"
 
 permissions:
   contents: write
@@ -28,57 +27,25 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Check Toronto refresh window
-        id: refresh-window
-        shell: bash
-        run: |
-          toronto_hour="$(TZ=America/Toronto date +%H)"
-          toronto_minute="$(TZ=America/Toronto date +%M)"
-          should_run=false
-
-          if [[ "${{ github.event_name }}" != "schedule" ]]; then
-            should_run=true
-          elif (( 10#$toronto_hour >= 8 && 10#$toronto_hour <= 18 )); then
-            if [[ "$toronto_minute" =~ ^(11|21|31|41|51)$ ]]; then
-              should_run=true
-            fi
-          else
-            if [[ "$toronto_minute" =~ ^(11|41)$ ]]; then
-              should_run=true
-            fi
-          fi
-
-          if [[ "$should_run" == "true" ]]; then
-            echo "should-run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "should-run=false" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: Check out the site
-        if: steps.refresh-window.outputs.should-run == 'true'
         uses: actions/checkout@v4
 
       - name: Set up Python
-        if: steps.refresh-window.outputs.should-run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
 
       - name: Install content tools
-        if: steps.refresh-window.outputs.should-run == 'true'
         run: pip install -r requirements.txt
 
       - name: Refresh news
-        if: steps.refresh-window.outputs.should-run == 'true'
         run: python scripts/update_news.py
 
       - name: Build Field Notes
-        if: steps.refresh-window.outputs.should-run == 'true'
         run: python scripts/build_field_notes.py
 
       - name: Publish generated content
-        if: steps.refresh-window.outputs.should-run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
