@@ -117,8 +117,10 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    const navTargets = [...document.querySelectorAll('section[id]'), document.getElementById('contact')]
-        .filter(Boolean);
+    const navTargets = [...new Set(
+        [...document.querySelectorAll('section[id]'), document.getElementById('contact')]
+            .filter(Boolean)
+    )];
 
     function highlightNavLink() {
         let currentId = '';
