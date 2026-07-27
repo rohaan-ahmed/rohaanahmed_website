@@ -128,12 +128,12 @@
         }
     }
 
-    async function renderBlog() {
+    async function renderFieldNotes() {
         const grid = document.getElementById('notes-grid');
         if (!grid) return;
 
         try {
-            const data = await loadJSON('data/blog.json');
+            const data = await loadJSON('data/field-notes.json');
             grid.innerHTML = data.posts.length
                 ? data.posts.map(post => `
                     <article class="note-card">
@@ -157,7 +157,7 @@
 
     if (body.dataset.contentPage === 'news') {
         renderNews();
-    } else if (body.dataset.contentPage === 'blog') {
-        renderBlog();
+    } else if (body.dataset.contentPage === 'field-notes') {
+        renderFieldNotes();
     }
 }());

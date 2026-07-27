@@ -5,7 +5,7 @@ GitHub Pages.
 
 ## Field Notes workflow
 
-Field Notes live in `content/blog/` as Markdown files. Each file needs YAML front
+Field Notes live in `content/field-notes/` as Markdown files. Each file needs YAML front
 matter with a title and date:
 
 ```markdown
@@ -21,13 +21,13 @@ The article starts here.
 ```
 
 Add, edit, or delete a Markdown file, then commit and push the change. GitHub
-Actions rebuilds `data/blog.json` and the article pages in `field-notes/`.
+Actions rebuilds `data/field-notes.json` and the article pages in `field-notes/`.
 
 To build locally:
 
 ```powershell
 python -m pip install -r requirements.txt
-python scripts/build_blog.py
+python scripts/build_field_notes.py
 ```
 
 ## News workflow
@@ -56,4 +56,4 @@ python -m http.server 8000
 ```
 
 Then open `http://localhost:8000/news.html` or
-`http://localhost:8000/blog.html`.
+`http://localhost:8000/field-notes.html`.

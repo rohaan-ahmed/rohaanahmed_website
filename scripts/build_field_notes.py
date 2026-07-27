@@ -11,9 +11,9 @@ import yaml
 
 
 ROOT = Path(__file__).resolve().parents[1]
-CONTENT_DIR = ROOT / "content" / "blog"
+CONTENT_DIR = ROOT / "content" / "field-notes"
 OUTPUT_DIR = ROOT / "field-notes"
-INDEX_PATH = ROOT / "data" / "blog.json"
+INDEX_PATH = ROOT / "data" / "field-notes.json"
 SLUG_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 
 
@@ -98,13 +98,13 @@ def article_page(metadata: dict, article_html: str) -> str:
             <a class="content-brand" href="../index.html" aria-label="Rohaan Ahmed home">RA</a>
             <nav class="content-nav-links" aria-label="Content">
                 <a href="../news.html">News</a>
-                <a class="active" href="../blog.html">Field Notes</a>
+                <a class="active" href="../field-notes.html">Field Notes</a>
             </nav>
         </div>
     </header>
     <main class="content-main">
         <article class="article-shell">
-            <a class="back-link" href="../blog.html">&larr; All Field Notes</a>
+            <a class="back-link" href="../field-notes.html">&larr; All Field Notes</a>
             <header class="article-header">
                 <div class="content-kicker">Field Notes {sample}</div>
                 <h1>{title}</h1>
