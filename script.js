@@ -312,6 +312,7 @@ async function renderHomePreviews() {
         renderHomeNewsPreview(),
         renderHomeFieldNotesPreview()
     ]);
+    initAnimations();
 }
 
 async function renderHomeNewsPreview() {
@@ -372,7 +373,6 @@ async function renderHomeFieldNotesPreview() {
         console.error(error);
     }
 
-    initAnimations();
 }
 
 function setTextContent(id, text) {
