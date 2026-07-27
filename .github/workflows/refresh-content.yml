@@ -11,9 +11,9 @@ on:
       - "requirements.txt"
       - ".github/workflows/refresh-content.yml"
   schedule:
-    # GitHub cron uses UTC. Run broadly enough to cover 8 a.m.-6 p.m.
-    # Toronto time year-round; the first step filters DST-only edge hours.
-    - cron: "11 12-23 * * *"
+    # Run every 10 minutes at minute 1/11/21/31/41/51 UTC.
+    # The first step applies the Toronto local-time refresh policy.
+    - cron: "1/10 * * * *"
 
 permissions:
   contents: write
@@ -33,8 +33,22 @@ jobs:
         shell: bash
         run: |
           toronto_hour="$(TZ=America/Toronto date +%H)"
-          if [[ "${{ github.event_name }}" != "schedule" ]] \
-            || (( 10#$toronto_hour >= 8 && 10#$toronto_hour <= 18 )); then
+          toronto_minute="$(TZ=America/Toronto date +%M)"
+          should_run=false
+
+          if [[ "${{ github.event_name }}" != "schedule" ]]; then
+            should_run=true
+          elif (( 10#$toronto_hour >= 8 && 10#$toronto_hour <= 18 )); then
+            if [[ "$toronto_minute" =~ ^(11|21|31|41|51)$ ]]; then
+              should_run=true
+            fi
+          else
+            if [[ "$toronto_minute" =~ ^(11|41)$ ]]; then
+              should_run=true
+            fi
+          fi
+
+          if [[ "$should_run" == "true" ]]; then
             echo "should-run=true" >> "$GITHUB_OUTPUT"
           else
             echo "should-run=false" >> "$GITHUB_OUTPUT"
