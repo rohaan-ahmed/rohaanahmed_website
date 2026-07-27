@@ -128,11 +128,62 @@
     line-height: 1.05;
 }
 
-.content-hero > p:last-child {
+.content-hero > p:last-child,
+.content-hero-description {
     max-width: 720px;
     color: var(--text-secondary);
     font-size: 1.1rem;
     line-height: 1.75;
+}
+
+.news-topic-nav {
+    display: flex;
+    max-width: 920px;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 28px;
+    margin-top: 28px;
+    border-top: 1px solid var(--hairline);
+    padding-top: 18px;
+}
+
+.topic-jump-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 11px 22px;
+}
+
+.topic-jump-link,
+.rss-link {
+    color: var(--text-muted);
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    font-weight: 700;
+    line-height: 1.5;
+    transition: color var(--transition-fast);
+}
+
+.topic-jump-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.topic-jump-link::before {
+    content: "";
+    width: 7px;
+    height: 7px;
+    background: var(--topic-accent);
+}
+
+.topic-jump-link:hover,
+.rss-link:hover {
+    color: var(--text-primary);
+}
+
+.rss-link {
+    flex: 0 0 auto;
+    border-bottom: 1px solid var(--primary);
 }
 
 .content-section {
@@ -175,7 +226,9 @@
 }
 
 .news-card {
+    border-left: 3px solid var(--topic-accent, var(--primary));
     overflow: hidden;
+    scroll-margin-top: 94px;
 }
 
 .news-card > header {
@@ -240,6 +293,30 @@
 
 .empty-story {
     color: var(--text-muted);
+}
+
+.topic-international-space {
+    --topic-accent: #789bc4;
+}
+
+.topic-canadian-space {
+    --topic-accent: #c69a54;
+}
+
+.topic-canadian-defence {
+    --topic-accent: #7f9d82;
+}
+
+.topic-international-defence-technology {
+    --topic-accent: #b67f78;
+}
+
+.topic-artificial-intelligence {
+    --topic-accent: #9986ba;
+}
+
+.topic-robotics {
+    --topic-accent: #6d9f9b;
 }
 
 .sources-section {
@@ -547,6 +624,15 @@ body.tactical-theme .content-brand::before {
 
     .content-hero h1 {
         font-size: 2.5rem;
+    }
+
+    .news-topic-nav {
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    .topic-jump-links {
+        gap: 10px 18px;
     }
 
     .section-heading-row {

@@ -75,12 +75,21 @@
         const grid = document.getElementById('news-grid');
         const sourcesList = document.getElementById('sources-list');
         const overallUpdated = document.getElementById('news-overall-updated');
+        const topicJumpLinks = document.getElementById('topic-jump-links');
         if (!grid || !sourcesList) return;
 
         try {
             const data = await loadJSON('data/news.json');
             if (overallUpdated) {
                 overallUpdated.textContent = `Updated ${formatDate(data.generatedAt, true)}`;
+            }
+
+            if (topicJumpLinks) {
+                topicJumpLinks.innerHTML = data.topics.map(topic => `
+                    <a class="topic-jump-link topic-${escapeAttribute(topic.id)}" href="#topic-${escapeAttribute(topic.id)}">
+                        ${escapeHTML(topic.name)}
+                    </a>
+                `).join('');
             }
 
             grid.innerHTML = data.topics.map(topic => {
@@ -94,7 +103,7 @@
                     : '<li class="empty-story">No current stories available.</li>';
 
                 return `
-                    <article class="news-card">
+                    <article class="news-card topic-${escapeAttribute(topic.id)}" id="topic-${escapeAttribute(topic.id)}">
                         <header>
                             <h3>${escapeHTML(topic.name)}</h3>
                             <p>Last updated ${escapeHTML(formatDate(topic.updatedAt, true))}</p>
@@ -121,9 +130,17 @@
                         </ul>
                     </div>
                 `).join('');
+
+            if (window.location.hash) {
+                const target = document.getElementById(
+                    decodeURIComponent(window.location.hash.slice(1))
+                );
+                requestAnimationFrame(() => target?.scrollIntoView());
+            }
         } catch (error) {
             grid.innerHTML = '<p class="content-status content-error">The news feed is temporarily unavailable.</p>';
             sourcesList.innerHTML = '';
+            if (topicJumpLinks) topicJumpLinks.innerHTML = '';
             console.error(error);
         }
     }

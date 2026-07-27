@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="A curated news feed covering space, defence technology, artificial intelligence, and robotics.">
     <title>News | Rohaan Ahmed</title>
+    <link rel="alternate" type="application/rss+xml" title="Rohaan Ahmed - News" href="news.xml">
     <link rel="stylesheet" href="styles.css?v=content-v1">
     <link rel="stylesheet" href="content.css?v=content-v1">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -25,7 +26,11 @@
         <header class="content-hero">
             <p class="content-kicker">Signal over noise</p>
             <h1>News</h1>
-            <p>Recent reporting across space, defence technology, artificial intelligence, and robotics.</p>
+            <p class="content-hero-description">An automatically curated list of news on topics of interest to me</p>
+            <div class="news-topic-nav">
+                <nav class="topic-jump-links" id="topic-jump-links" aria-label="Jump to a news topic"></nav>
+                <a class="rss-link" href="news.xml">RSS feed</a>
+            </div>
         </header>
         <section class="content-section" aria-labelledby="news-topics-title">
             <div class="section-heading-row">

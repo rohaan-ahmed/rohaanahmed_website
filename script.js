@@ -5,6 +5,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
     loadConfig();
+    renderHomePreviews();
 
     const navbar = document.getElementById('navbar');
     const navToggle = document.getElementById('nav-toggle');
@@ -251,6 +252,117 @@ function populatePage(config) {
     initAnimations();
 }
 
+function formatDate(value, includeTime = false) {
+    if (!value) return 'Date unavailable';
+    const dateOnly = /^\d{4}-\d{2}-\d{2}$/.test(value);
+    const date = dateOnly
+        ? new Date(...value.split('-').map((part, index) => (
+            index === 1 ? Number(part) - 1 : Number(part)
+        )))
+        : new Date(value);
+
+    if (Number.isNaN(date.getTime())) return value;
+
+    return new Intl.DateTimeFormat('en-CA', {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric',
+        ...(includeTime ? { hour: 'numeric', minute: '2-digit', timeZoneName: 'short' } : {})
+    }).format(date);
+}
+
+async function loadJSON(path) {
+    const response = await fetch(path, { cache: 'no-store' });
+    if (!response.ok) {
+        throw new Error(`Could not load ${path}`);
+    }
+    return response.json();
+}
+
+async function renderHomePreviews() {
+    await Promise.allSettled([
+        renderHomeNewsPreview(),
+        renderHomeFieldNotesPreview()
+    ]);
+}
+
+async function renderHomeNewsPreview() {
+    const grid = document.getElementById('home-topic-grid');
+    const updated = document.getElementById('home-news-updated');
+
+    if (!grid || !updated) return;
+
+    try {
+        const data = await loadJSON('data/news.json');
+        const topics = data.topics.slice(0, 4);
+
+        updated.textContent = `Updated ${formatDate(data.generatedAt, true)}`;
+
+        grid.innerHTML = topics.length
+            ? topics.map(topic => {
+                const stories = topic.stories.slice(0, 3);
+                const storyItems = stories.length
+                    ? stories.map(story => `
+                        <li>
+                            <a href="${escapeAttribute(story.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(story.title)}</a>
+                            <span class="home-story-meta">(${escapeHTML(formatDate(story.publishedAt))}, ${escapeHTML(story.source)})</span>
+                        </li>
+                    `).join('')
+                    : '<li class="home-feed-empty">No current stories available.</li>';
+
+                return `
+                    <article class="home-topic-card topic-${escapeAttribute(topic.id)} fade-in">
+                        <header class="home-topic-header">
+                            <h3><a href="news.html#topic-${escapeAttribute(topic.id)}">${escapeHTML(topic.name)}</a></h3>
+                            <p>Last updated ${escapeHTML(formatDate(topic.updatedAt, true))}</p>
+                        </header>
+                        <ol>
+                            ${storyItems}
+                        </ol>
+                    </article>
+                `;
+            }).join('')
+            : '<p class="home-feed-status">No news topics are available right now.</p>';
+    } catch (error) {
+        grid.innerHTML = '<p class="home-feed-status">The news preview is temporarily unavailable.</p>';
+        updated.textContent = 'Live update unavailable';
+        console.error(error);
+    }
+}
+
+async function renderHomeFieldNotesPreview() {
+    const grid = document.getElementById('home-notes-grid');
+    const updated = document.getElementById('home-notes-updated');
+
+    if (!grid || !updated) return;
+
+    try {
+        const data = await loadJSON('data/field-notes.json');
+        const posts = data.posts.slice(0, 4);
+
+        updated.textContent = `Updated ${formatDate(data.generatedAt, true)}`;
+
+        grid.innerHTML = posts.length
+            ? posts.map(post => `
+                <article class="home-note-card fade-in">
+                    <div class="home-note-meta">
+                        <time datetime="${escapeAttribute(post.date)}">${escapeHTML(formatDate(post.date))}</time>
+                        ${post.sample ? '<span>Sample</span>' : ''}
+                    </div>
+                    <h3><a href="${escapeAttribute(post.url)}">${escapeHTML(post.title)}</a></h3>
+                    <p>${escapeHTML(post.summary)}</p>
+                </article>
+            `).join('')
+            : '<p class="home-feed-status">No Field Notes have been published yet.</p>';
+    } catch (error) {
+        grid.innerHTML = '<p class="home-feed-status">The Field Notes preview is temporarily unavailable.</p>';
+        updated.textContent = 'Live update unavailable';
+        console.error(error);
+    }
+
+    initAnimations();
+}
+
 function setTextContent(id, text) {
     const element = document.getElementById(id);
     if (element && text) {
@@ -266,7 +378,9 @@ function formatTagline(tagline) {
 }
 
 function initAnimations() {
-    const animatedElements = document.querySelectorAll('.focus-card, .project-card');
+    const animatedElements = document.querySelectorAll(
+        '.focus-card, .project-card, .home-topic-card, .home-note-card'
+    );
     const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
     if (prefersReducedMotion || !('IntersectionObserver' in window)) {

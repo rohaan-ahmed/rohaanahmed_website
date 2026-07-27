@@ -2,13 +2,17 @@ from __future__ import annotations
 
 import calendar
 import difflib
+import hashlib
 import json
+import math
 import re
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+from email.utils import format_datetime
 from pathlib import Path
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
+from xml.etree import ElementTree
 
 import feedparser
 import requests
@@ -17,7 +21,9 @@ import requests
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "news-sources.json"
 OUTPUT_PATH = ROOT / "data" / "news.json"
+RSS_OUTPUT_PATH = ROOT / "news.xml"
 MAX_STORIES = 10
+MAX_STORY_AGE_DAYS = 10
 TRACKING_PARAMETERS = {"fbclid", "gclid", "mc_cid", "mc_eid", "ref", "source"}
 STOP_WORDS = {
     "a", "an", "and", "as", "at", "by", "for", "from", "in", "is", "of",
@@ -29,6 +35,9 @@ REQUEST_HEADERS = {
         "(https://github.com/rohaan-ahmed/rohaanahmed_website)"
     )
 }
+EXCLUDED_TITLE_PATTERNS = (re.compile(r"\bpodcast\b", re.IGNORECASE),)
+SITE_URL = "https://rohaanahmed.com"
+ATOM_NAMESPACE = "http://www.w3.org/2005/Atom"
 
 
 def iso_now() -> str:
@@ -86,11 +95,11 @@ def duplicate_story(candidate: dict, accepted: list[dict]) -> bool:
     return False
 
 
-def entry_date(entry: dict) -> datetime:
+def entry_date(entry: dict) -> datetime | None:
     parsed = entry.get("published_parsed") or entry.get("updated_parsed")
     if parsed:
         return datetime.fromtimestamp(calendar.timegm(parsed), tz=timezone.utc)
-    return datetime.now(timezone.utc)
+    return None
 
 
 def fetch_source(source: dict) -> list[dict]:
@@ -107,8 +116,12 @@ def fetch_source(source: dict) -> list[dict]:
         url = entry.get("link", "").strip()
         if not title or not url:
             continue
+        if any(pattern.search(title) for pattern in EXCLUDED_TITLE_PATTERNS):
+            continue
 
         published = entry_date(entry)
+        if published is None:
+            continue
         stories.append(
             {
                 "title": title,
@@ -130,13 +143,134 @@ def load_previous() -> dict:
         return {}
 
 
+def parse_story_date(story: dict) -> datetime:
+    return datetime.fromisoformat(story["publishedAt"].replace("Z", "+00:00"))
+
+
+def select_stories(candidates: list[dict], generated_at: datetime) -> list[dict]:
+    candidates.sort(key=parse_story_date, reverse=True)
+    unique = []
+    cutoff = generated_at - timedelta(days=MAX_STORY_AGE_DAYS)
+    newest_allowed = generated_at + timedelta(days=1)
+
+    for candidate in candidates:
+        published = parse_story_date(candidate)
+        if published < cutoff or published > newest_allowed:
+            continue
+        if not duplicate_story(candidate, unique):
+            unique.append(candidate)
+
+    active_sources = {story["source"] for story in unique}
+    if not active_sources:
+        return []
+
+    source_cap = math.ceil(MAX_STORIES / len(active_sources))
+    selected = []
+    overflow = []
+    source_counts = {source: 0 for source in active_sources}
+
+    for story in unique:
+        source = story["source"]
+        if source_counts[source] < source_cap:
+            selected.append(story)
+            source_counts[source] += 1
+        else:
+            overflow.append(story)
+
+    selected = sorted(selected, key=parse_story_date, reverse=True)[:MAX_STORIES]
+    selected_urls = {
+        (story["source"], canonical_url(story["url"])) for story in selected
+    }
+    if len(selected) < MAX_STORIES:
+        for story in overflow:
+            key = (story["source"], canonical_url(story["url"]))
+            if key in selected_urls:
+                continue
+            selected.append(story)
+            selected_urls.add(key)
+            if len(selected) == MAX_STORIES:
+                break
+
+    return sorted(selected, key=parse_story_date, reverse=True)
+
+
+def write_rss(output: dict, config: dict) -> None:
+    ElementTree.register_namespace("atom", ATOM_NAMESPACE)
+    rss = ElementTree.Element("rss", {"version": "2.0"})
+    channel = ElementTree.SubElement(rss, "channel")
+    ElementTree.SubElement(channel, "title").text = "Rohaan Ahmed - News"
+    ElementTree.SubElement(channel, "link").text = f"{SITE_URL}/news.html"
+    ElementTree.SubElement(channel, "description").text = (
+        "An automatically curated list of news on topics of interest to me"
+    )
+    ElementTree.SubElement(channel, "language").text = "en-ca"
+    generated_at = datetime.fromisoformat(
+        output["generatedAt"].replace("Z", "+00:00")
+    )
+    ElementTree.SubElement(channel, "lastBuildDate").text = format_datetime(
+        generated_at
+    )
+    ElementTree.SubElement(
+        channel,
+        f"{{{ATOM_NAMESPACE}}}link",
+        {
+            "href": f"{SITE_URL}/news.xml",
+            "rel": "self",
+            "type": "application/rss+xml",
+        },
+    )
+
+    source_sites = {
+        source["name"]: source["site"]
+        for topic in config["topics"]
+        for source in topic["sources"]
+    }
+    feed_stories = sorted(
+        (
+            (topic, story)
+            for topic in output["topics"]
+            for story in topic["stories"]
+        ),
+        key=lambda item: parse_story_date(item[1]),
+        reverse=True,
+    )
+
+    for topic, story in feed_stories:
+        item = ElementTree.SubElement(channel, "item")
+        ElementTree.SubElement(item, "title").text = story["title"]
+        ElementTree.SubElement(item, "link").text = story["url"]
+        guid_value = hashlib.sha256(
+            f"{topic['id']}:{canonical_url(story['url'])}".encode("utf-8")
+        ).hexdigest()
+        guid = ElementTree.SubElement(item, "guid", {"isPermaLink": "false"})
+        guid.text = guid_value
+        ElementTree.SubElement(item, "pubDate").text = format_datetime(
+            parse_story_date(story)
+        )
+        ElementTree.SubElement(item, "category").text = topic["name"]
+        source = ElementTree.SubElement(
+            item,
+            "source",
+            {"url": source_sites.get(story["source"], f"{SITE_URL}/news.html")},
+        )
+        source.text = story["source"]
+        ElementTree.SubElement(item, "description").text = (
+            f"{story['source']} | {topic['name']}"
+        )
+
+    tree = ElementTree.ElementTree(rss)
+    ElementTree.indent(tree, space="  ")
+    tree.write(RSS_OUTPUT_PATH, encoding="utf-8", xml_declaration=True)
+
+
 def main() -> int:
     config = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
     previous = load_previous()
     previous_topics = {
         topic["id"]: topic for topic in previous.get("topics", []) if "id" in topic
     }
-    generated_at = iso_now()
+    generated_datetime = datetime.now(timezone.utc).replace(microsecond=0)
+    generated_at = generated_datetime.isoformat()
     output_topics = []
     failures = []
     feeds_succeeded = 0
@@ -170,13 +304,7 @@ def main() -> int:
     for topic in config["topics"]:
         candidates = topic_results[topic["id"]]["candidates"]
         topic_successes = topic_results[topic["id"]]["successes"]
-        candidates.sort(key=lambda story: story["publishedAt"], reverse=True)
-        stories = []
-        for candidate in candidates:
-            if not duplicate_story(candidate, stories):
-                stories.append(candidate)
-            if len(stories) == MAX_STORIES:
-                break
+        stories = select_stories(candidates, generated_datetime)
 
         if topic_successes == 0 and topic["id"] in previous_topics:
             old_topic = previous_topics[topic["id"]]
@@ -224,8 +352,10 @@ def main() -> int:
         json.dumps(output, indent=2, ensure_ascii=False) + "\n",
         encoding="utf-8",
     )
+    write_rss(output, config)
     print(
-        f"Wrote {OUTPUT_PATH.relative_to(ROOT)} with "
+        f"Wrote {OUTPUT_PATH.relative_to(ROOT)} and "
+        f"{RSS_OUTPUT_PATH.relative_to(ROOT)} with "
         f"{feeds_succeeded} feeds available."
     )
     return 0

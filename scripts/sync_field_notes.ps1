@@ -1,0 +1,80 @@
+[CmdletBinding()]
+param(
+    [string]$CommitMessage = "Update Field Notes"
+)
+
+$ErrorActionPreference = "Stop"
+$projectRoot = (Resolve-Path (Join-Path $PSScriptRoot "..")).Path
+$sourceDirectory = Join-Path $projectRoot "content\field-notes"
+$deployDirectory = Join-Path $projectRoot "deploy_worktree"
+
+function Test-GitRepository {
+    param([string]$Path)
+
+    & git -C $Path rev-parse --is-inside-work-tree *> $null
+    return $LASTEXITCODE -eq 0
+}
+
+function Invoke-Git {
+    param(
+        [string]$Repository,
+        [string[]]$Arguments
+    )
+
+    & git -C $Repository @Arguments
+    if ($LASTEXITCODE -ne 0) {
+        throw "Git command failed: git $($Arguments -join ' ')"
+    }
+}
+
+if (-not (Test-Path -LiteralPath $sourceDirectory -PathType Container)) {
+    throw "Field Notes source folder was not found: $sourceDirectory"
+}
+
+if (Test-GitRepository $projectRoot) {
+    $repository = $projectRoot
+} elseif (
+    (Test-Path -LiteralPath $deployDirectory -PathType Container) -and
+    (Test-GitRepository $deployDirectory)
+) {
+    $repository = (Resolve-Path $deployDirectory).Path
+} else {
+    throw "No working Git checkout was found."
+}
+
+Invoke-Git -Repository $repository -Arguments @("pull", "--rebase")
+
+if ($repository -ne $projectRoot) {
+    $targetDirectory = Join-Path $repository "content\field-notes"
+    New-Item -ItemType Directory -Path $targetDirectory -Force | Out-Null
+
+    $sourceFiles = Get-ChildItem -LiteralPath $sourceDirectory -Filter "*.md" -File
+    $sourceNames = @{}
+    foreach ($sourceFile in $sourceFiles) {
+        $sourceNames[$sourceFile.Name] = $true
+        Copy-Item -LiteralPath $sourceFile.FullName -Destination $targetDirectory -Force
+    }
+
+    foreach ($targetFile in Get-ChildItem -LiteralPath $targetDirectory -Filter "*.md" -File) {
+        if (-not $sourceNames.ContainsKey($targetFile.Name)) {
+            Remove-Item -LiteralPath $targetFile.FullName
+        }
+    }
+}
+
+Invoke-Git -Repository $repository -Arguments @(
+    "add", "-A", "--", "content/field-notes"
+)
+
+& git -C $repository diff --cached --quiet
+if ($LASTEXITCODE -eq 0) {
+    Write-Host "Field Notes are already in sync."
+    exit 0
+}
+
+Invoke-Git -Repository $repository -Arguments @(
+    "commit", "-m", $CommitMessage
+)
+Invoke-Git -Repository $repository -Arguments @("push")
+
+Write-Host "Field Notes were pushed. GitHub Actions will publish them shortly."

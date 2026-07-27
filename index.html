@@ -25,10 +25,13 @@
             </button>
             <ul class="nav-menu" id="nav-menu">
                 <li class="nav-item">
-                    <a href="#about" class="nav-link">About</a>
+                    <a href="#news-preview" class="nav-link">News</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#projects" class="nav-link">Projects</a>
+                    <a href="#field-notes-preview" class="nav-link">Field Notes</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#about" class="nav-link">About</a>
                 </li>
                 <li class="nav-item">
                     <a href="#contact" class="nav-link">Contact</a>
@@ -69,13 +72,51 @@
             </h1>
             <p class="hero-tagline" id="tagline">Artificial Intelligence <span class="tagline-separator">|</span> Robotics <span class="tagline-separator">|</span> Space <span class="tagline-separator">|</span> Defence</p>
             <div class="hero-buttons">
-                <a href="#projects" class="btn btn-primary">View Projects</a>
+                <a href="#news-preview" class="btn btn-primary">View News</a>
                 <a href="#about" class="btn btn-secondary">About Me</a>
             </div>
         </div>
         <div class="scroll-indicator" aria-hidden="true">
             <span class="scroll-text">Scroll</span>
             <div class="scroll-arrow"></div>
+        </div>
+    </section>
+
+    <section class="home-feed home-news-preview" id="news-preview" aria-labelledby="home-news-title">
+        <div class="container">
+            <div class="home-feed-heading">
+                <div>
+                    <p class="home-feed-kicker">Automatic updates</p>
+                    <h2 class="section-title" id="home-news-title"><a href="news.html">News</a></h2>
+                    <p class="home-feed-description">An automatically curated list of news on topics of interest to me</p>
+                </div>
+                <div class="home-feed-meta">
+                    <p id="home-news-updated">Loading current headlines...</p>
+                    <a class="home-feed-link" href="news.html">View full news feed</a>
+                </div>
+            </div>
+            <div class="home-topic-grid" id="home-topic-grid" aria-live="polite">
+                <p class="home-feed-status">Loading current headlines...</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="home-feed home-notes-preview" id="field-notes-preview" aria-labelledby="home-notes-title">
+        <div class="container">
+            <div class="home-feed-heading">
+                <div>
+                    <p class="home-feed-kicker">Writing in progress</p>
+                    <h2 class="section-title" id="home-notes-title"><a href="field-notes.html">Field Notes</a></h2>
+                    <p class="home-feed-description">Recent notes on AI, robotics, space, defence, and operating technology in the real world.</p>
+                </div>
+                <div class="home-feed-meta">
+                    <p id="home-notes-updated">Loading Field Notes...</p>
+                    <a class="home-feed-link" href="field-notes.html">View all Field Notes</a>
+                </div>
+            </div>
+            <div class="home-notes-grid" id="home-notes-grid" aria-live="polite">
+                <p class="home-feed-status">Loading Field Notes...</p>
+            </div>
         </div>
     </section>
 
@@ -131,154 +172,6 @@
                         </a>
                     </div>
                 </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="projects" id="projects">
-        <div class="container">
-            <h2 class="section-title">Projects</h2>
-            <div class="projects-grid" id="projects-grid">
-                <article class="project-card">
-                    <div class="project-content">
-                        <div class="project-header">
-                            <h3 class="project-title">Enterprise Instinct</h3>
-                            <a href="https://www.pwc.com/ca/en/services/artificial-intelligence/enterprise-instinct.html" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">&rarr;</a>
-                        </div>
-                        <p class="project-description">PwC Canada's multi-agent AI platform designed to help organizations deploy, scale, and govern Agentic AI systems.</p>
-                        <a href="https://www.pwc.com/ca/en/services/artificial-intelligence/enterprise-instinct.html" class="project-image-link" aria-label="View project: Enterprise Instinct" target="_blank" rel="noopener noreferrer">
-                            <div class="project-image">
-                                <img src="https://www.pwc.com/content/dam/pwc/ca/en/services/artificial-intelligence/p4421672-ai-tech-data-enterprise-instinct-hero-2.jpg" alt="Enterprise Instinct">
-                            </div>
-                        </a>
-                        <p class="project-image-credit">Image Credit: PwC Canada</p>
-                    </div>
-                    <div class="project-tags">
-                        <span class="tag">Agentic AI</span>
-                        <span class="tag">Enterprise</span>
-                        <span class="tag">Governance</span>
-                    </div>
-                </article>
-                <article class="project-card">
-                    <div class="project-content">
-                        <div class="project-header">
-                            <h3 class="project-title">CISERES</h3>
-                            <a href="https://deimos-space.com/ciseres/" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">&rarr;</a>
-                        </div>
-                        <p class="project-description">AI-enabled satellite capability for disaster management that turns EO data into near real-time alerts for faster response.</p>
-                        <a href="https://deimos-space.com/ciseres/" class="project-image-link" aria-label="View project: CISERES" target="_blank" rel="noopener noreferrer">
-                            <div class="project-image">
-                                <img src="media/projects/ciseres.jpg" alt="CISERES">
-                            </div>
-                        </a>
-                        <p class="project-image-credit">Image Credit: Indra Space</p>
-                    </div>
-                    <div class="project-tags">
-                        <span class="tag">Space</span>
-                        <span class="tag">Disaster Management</span>
-                        <span class="tag">AI</span>
-                    </div>
-                </article>
-                <article class="project-card">
-                    <div class="project-content">
-                        <div class="project-header">
-                            <h3 class="project-title">ExoMars "Rosalind Franklin" Rover</h3>
-                            <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_rover" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">&rarr;</a>
-                        </div>
-                        <p class="project-description">European rover for Mars exploration, equipped with advanced sensing and decision-making capabilities to navigate the harsh Martian environment.</p>
-                        <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_rover" class="project-image-link" aria-label="View project: ExoMars Rosalind Franklin Rover" target="_blank" rel="noopener noreferrer">
-                            <div class="project-image">
-                                <img src="media/projects/exomars.jpg" alt="ExoMars Rosalind Franklin Rover">
-                            </div>
-                        </a>
-                        <p class="project-image-credit">Image Credit: European Space Agency</p>
-                    </div>
-                    <div class="project-tags">
-                        <span class="tag">Robotics</span>
-                        <span class="tag">Exploration</span>
-                        <span class="tag">Space</span>
-                    </div>
-                </article>
-                <article class="project-card">
-                    <div class="project-content">
-                        <div class="project-header">
-                            <h3 class="project-title">MoonNet</h3>
-                            <a href="https://missioncontrolspace.com/stories/lunar-ai-demo-and-the-ispace-m1-mission/" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">&rarr;</a>
-                        </div>
-                        <p class="project-description">Deep-learning inference payload intended to run on a lunar mission, demonstrating on-board AI processing for spaceflight imagery.</p>
-                        <a href="https://missioncontrolspace.com/stories/lunar-ai-demo-and-the-ispace-m1-mission/" class="project-image-link" aria-label="View project: MoonNet" target="_blank" rel="noopener noreferrer">
-                            <div class="project-image">
-                                <img src="media/projects/moonnet.jpg" alt="MoonNet">
-                            </div>
-                        </a>
-                        <p class="project-image-credit">Image Credit: Mission Control Space</p>
-                    </div>
-                    <div class="project-tags">
-                        <span class="tag">Computer Vision</span>
-                        <span class="tag">AI</span>
-                        <span class="tag">Robotics</span>
-                    </div>
-                </article>
-                <article class="project-card">
-                    <div class="project-content">
-                        <div class="project-header">
-                            <h3 class="project-title">Canadarm2 (International Space Station)</h3>
-                            <a href="https://www.asc-csa.gc.ca/eng/iss/canadarm2/" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">&rarr;</a>
-                        </div>
-                        <p class="project-description">NASA and Canadian Space Agency led International Space Station robotics program work focused on logistics and support engineering for a flight-proven robotic system.</p>
-                        <a href="https://www.asc-csa.gc.ca/eng/iss/canadarm2/" class="project-image-link" aria-label="View project: Canadarm2 (International Space Station)" target="_blank" rel="noopener noreferrer">
-                            <div class="project-image">
-                                <img src="media/projects/canadarm2.jpg" alt="Canadarm2">
-                            </div>
-                        </a>
-                        <p class="project-image-credit">Image Credit: NASA/CSA</p>
-                    </div>
-                    <div class="project-tags">
-                        <span class="tag">Robotics</span>
-                        <span class="tag">Space</span>
-                        <span class="tag">Research</span>
-                    </div>
-                </article>
-                <article class="project-card">
-                    <div class="project-content">
-                        <div class="project-header">
-                            <h3 class="project-title">OpenSAR Insight</h3>
-                            <a href="https://lps25.esa.int/lps25-presentations/poster/OpenSAR%20Insight.pdf" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">&rarr;</a>
-                        </div>
-                        <p class="project-description">European Space Agency project to develop AI algorithms for Synthetic Aperture Radar (SAR) data analysis to detect and classify objects in Earth observation imagery.</p>
-                        <a href="https://lps25.esa.int/lps25-presentations/poster/OpenSAR%20Insight.pdf" class="project-image-link" aria-label="View project: OpenSAR Insight" target="_blank" rel="noopener noreferrer">
-                            <div class="project-image">
-                                <img src="media/projects/opensar.jpg" alt="OpenSAR Insight">
-                            </div>
-                        </a>
-                        <p class="project-image-credit">Image Credit: Indra Space</p>
-                    </div>
-                    <div class="project-tags">
-                        <span class="tag">SAR</span>
-                        <span class="tag">Earth Observation</span>
-                        <span class="tag">Robotics</span>
-                    </div>
-                </article>
-                <article class="project-card">
-                    <div class="project-content">
-                        <div class="project-header">
-                            <h3 class="project-title">F-35 Joint Strike Fighter</h3>
-                            <a href="https://www.f35.com/f35/index.html" class="project-link" aria-label="View project" target="_blank" rel="noopener noreferrer">&rarr;</a>
-                        </div>
-                        <p class="project-description">Power and Thermal Management System (PTMS) engineering for the F-35, supporting reliable electrical power distribution and thermal performance in a safety-critical fighter aircraft environment.</p>
-                        <a href="https://www.f35.com/f35/index.html" class="project-image-link" aria-label="View project: F-35 Joint Strike Fighter" target="_blank" rel="noopener noreferrer">
-                            <div class="project-image">
-                                <img src="media/projects/f35.jpg" alt="F-35 Joint Strike Fighter">
-                            </div>
-                        </a>
-                        <p class="project-image-credit">Image Credit: Lockheed Martin</p>
-                    </div>
-                    <div class="project-tags">
-                        <span class="tag">Defence</span>
-                        <span class="tag">Aviation</span>
-                        <span class="tag">Electrical Engineering</span>
-                    </div>
-                </article>
             </div>
         </div>
     </section>

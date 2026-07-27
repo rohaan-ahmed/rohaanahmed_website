@@ -23,6 +23,10 @@ The article starts here.
 Add, edit, or delete a Markdown file, then commit and push the change. GitHub
 Actions rebuilds `data/field-notes.json` and the article pages in `field-notes/`.
 
+On this computer, double-click `Sync Field Notes.cmd` after changing the
+Markdown files. It mirrors the folder into the working Git checkout, commits the
+changes, and pushes them so GitHub Actions can publish the generated pages.
+
 To build locally:
 
 ```powershell
@@ -33,8 +37,10 @@ python scripts/build_field_notes.py
 ## News workflow
 
 News sources are configured in `news-sources.json`. The automated workflow reads
-the feeds, removes duplicate stories within each topic, keeps the ten newest
-stories, and updates `data/news.json`.
+the feeds, removes duplicate stories within each topic, ignores stories older
+than 10 days, balances the selection across sources, and keeps up to ten current
+stories. Each refresh updates both `data/news.json` for the webpage and
+`news.xml` for RSS readers and other websites.
 
 GitHub Actions runs at 13:00, 16:00, 19:00, and 22:00 UTC. These correspond to
 9 a.m., noon, 3 p.m., and 6 p.m. Toronto time while daylight saving time is in
