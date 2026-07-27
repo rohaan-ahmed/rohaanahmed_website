@@ -1,10 +1,10 @@
 ---
-title: "An Introdiction to Rohaan's Ramblings"
+title: "An Introduction to Rohaan's Ramblings"
 date: "2026-07-27"
 slug: "rohaans-ramblings"
 summary: "After years of avoiding online writing, I’m starting this space because I miss the simple act of putting my own thoughts into words. This will be a Non Generative AI Zone: both my writing and my thoughts will be unfiltered."
 tags:
-  - my method
+  - method
   - introduction
 sample: false
 ---
