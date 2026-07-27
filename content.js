@@ -11,6 +11,7 @@
         'international-defence-technology',
         'robotics'
     ];
+    const DEFAULT_VISIBLE_STORIES = 7;
 
     function sortTopics(topics = []) {
         const order = new Map(TOPIC_ORDER.map((id, index) => [id, index]));
@@ -114,24 +115,32 @@
             }
 
             grid.innerHTML = orderedTopics.map(topic => {
+                const extraStories = Math.max(topic.stories.length - DEFAULT_VISIBLE_STORIES, 0);
                 const stories = topic.stories.length
-                    ? topic.stories.map(story => `
-                        <li>
+                    ? topic.stories.map((story, index) => `
+                        <li${index >= DEFAULT_VISIBLE_STORIES ? ' class="story-extra" hidden' : ''}>
                             <a href="${escapeAttribute(story.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(story.title)}</a>
                             <span class="story-meta">(${escapeHTML(formatDate(story.publishedAt))}, ${escapeHTML(story.source)})</span>
                         </li>
                     `).join('')
                     : '<li class="empty-story">No current stories available.</li>';
+                const listId = `topic-stories-${topic.id}`;
+                const toggle = extraStories
+                    ? `<button class="news-card-toggle" type="button" data-topic-toggle aria-expanded="false" aria-controls="${escapeAttribute(listId)}">More</button>`
+                    : '';
 
                 return `
                     <article class="news-card topic-${escapeAttribute(topic.id)}" id="topic-${escapeAttribute(topic.id)}">
                         <header>
                             <h3>${escapeHTML(topic.name)}</h3>
                         </header>
-                        <ol>${stories}</ol>
+                        <ol id="${escapeAttribute(listId)}">${stories}</ol>
+                        ${toggle}
                     </article>
                 `;
             }).join('');
+
+            bindNewsCardToggles(grid);
 
             const groupedSources = data.sources.reduce((groups, source) => {
                 groups[source.topic] = groups[source.topic] || [];
@@ -239,6 +248,23 @@
             }
         }, 150);
         requestSync();
+    }
+
+    function bindNewsCardToggles(scope) {
+        const buttons = scope.querySelectorAll('[data-topic-toggle]');
+        buttons.forEach(button => {
+            button.addEventListener('click', () => {
+                const card = button.closest('.news-card');
+                if (!card) return;
+                const extraStories = card.querySelectorAll('.story-extra');
+                const isExpanded = button.getAttribute('aria-expanded') === 'true';
+                extraStories.forEach(story => {
+                    story.hidden = isExpanded;
+                });
+                button.setAttribute('aria-expanded', String(!isExpanded));
+                button.textContent = isExpanded ? 'More' : 'Less';
+            });
+        });
     }
 
     async function renderFieldNotes() {

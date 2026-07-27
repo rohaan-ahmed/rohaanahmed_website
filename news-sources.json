@@ -7,22 +7,26 @@
         {
           "name": "Space.com",
           "feed": "https://www.space.com/feeds.xml",
-          "site": "https://www.space.com/"
+          "site": "https://www.space.com/",
+          "weight": 1.05
         },
         {
           "name": "SpaceNews",
           "feed": "https://spacenews.com/feed/",
-          "site": "https://spacenews.com/"
+          "site": "https://spacenews.com/",
+          "weight": 1.8
         },
         {
           "name": "NASA",
           "feed": "https://www.nasa.gov/feed/",
-          "site": "https://www.nasa.gov/"
+          "site": "https://www.nasa.gov/",
+          "weight": 0.95
         },
         {
           "name": "European Space Agency",
           "feed": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
-          "site": "https://www.esa.int/"
+          "site": "https://www.esa.int/",
+          "weight": 1.2
         }
       ]
     },
@@ -33,12 +37,14 @@
         {
           "name": "Canadian Space Agency",
           "feed": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=spaceagency&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canadian%20Space%20Agency",
-          "site": "https://www.asc-csa.gc.ca/eng/"
+          "site": "https://www.asc-csa.gc.ca/eng/",
+          "weight": 1.0
         },
         {
           "name": "SpaceQ",
           "feed": "https://spaceq.ca/feed/",
-          "site": "https://spaceq.ca/"
+          "site": "https://spaceq.ca/",
+          "weight": 1.75
         }
       ]
     },
@@ -49,17 +55,20 @@
         {
           "name": "National Defence",
           "feed": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentnationaldefense&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=National%20Defence",
-          "site": "https://www.canada.ca/en/department-national-defence.html"
+          "site": "https://www.canada.ca/en/department-national-defence.html",
+          "weight": 1.0
         },
         {
           "name": "Ottawa Citizen Defence Watch",
           "feed": "https://ottawacitizen.com/tag/defence-watch/feed.xml",
-          "site": "https://ottawacitizen.com/tag/defence-watch/"
+          "site": "https://ottawacitizen.com/tag/defence-watch/",
+          "weight": 1.15
         },
         {
           "name": "Vanguard",
           "feed": "https://vanguardcanada.com/feed/",
-          "site": "https://vanguardcanada.com/"
+          "site": "https://vanguardcanada.com/",
+          "weight": 1.1
         }
       ]
     },
@@ -70,17 +79,20 @@
         {
           "name": "Defense News",
           "feed": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml",
-          "site": "https://www.defensenews.com/"
+          "site": "https://www.defensenews.com/",
+          "weight": 1.15
         },
         {
           "name": "Breaking Defense",
           "feed": "https://breakingdefense.com/feed/",
-          "site": "https://breakingdefense.com/"
+          "site": "https://breakingdefense.com/",
+          "weight": 1.2
         },
         {
           "name": "DefenseScoop",
           "feed": "https://defensescoop.com/feed/",
-          "site": "https://defensescoop.com/"
+          "site": "https://defensescoop.com/",
+          "weight": 1.0
         }
       ]
     },
@@ -91,17 +103,20 @@
         {
           "name": "TLDR AI",
           "feed": "https://tldr.tech/api/rss/ai",
-          "site": "https://tldr.tech/ai"
+          "site": "https://tldr.tech/ai",
+          "weight": 1.75
         },
         {
           "name": "The Rundown AI",
           "feed": "https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml",
-          "site": "https://www.therundown.ai/"
+          "site": "https://www.therundown.ai/",
+          "weight": 1.65
         },
         {
           "name": "TechCrunch AI",
           "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-          "site": "https://techcrunch.com/category/artificial-intelligence/"
+          "site": "https://techcrunch.com/category/artificial-intelligence/",
+          "weight": 1.0
         }
       ]
     },
@@ -112,17 +127,20 @@
         {
           "name": "The Robot Report",
           "feed": "https://www.therobotreport.com/feed/",
-          "site": "https://www.therobotreport.com/"
+          "site": "https://www.therobotreport.com/",
+          "weight": 1.2
         },
         {
           "name": "IEEE Spectrum Robotics",
           "feed": "https://spectrum.ieee.org/feeds/topic/robotics.rss",
-          "site": "https://spectrum.ieee.org/robotics"
+          "site": "https://spectrum.ieee.org/robotics",
+          "weight": 1.05
         },
         {
           "name": "TechCrunch Robotics",
           "feed": "https://techcrunch.com/category/robotics/feed/",
-          "site": "https://techcrunch.com/category/robotics/"
+          "site": "https://techcrunch.com/category/robotics/",
+          "weight": 1.0
         }
       ]
     }

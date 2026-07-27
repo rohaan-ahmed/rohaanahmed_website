@@ -4,9 +4,9 @@ import calendar
 import difflib
 import hashlib
 import json
-import math
 import re
 import sys
+from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
@@ -22,8 +22,9 @@ ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "news-sources.json"
 OUTPUT_PATH = ROOT / "data" / "news.json"
 RSS_OUTPUT_PATH = ROOT / "news.xml"
-MAX_STORIES = 10
+MAX_STORIES = 15
 MAX_STORY_AGE_DAYS = 10
+SOURCE_PRIORITY_BONUS_HOURS = 18
 TRACKING_PARAMETERS = {"fbclid", "gclid", "mc_cid", "mc_eid", "ref", "source"}
 STOP_WORDS = {
     "a", "an", "and", "as", "at", "by", "for", "from", "in", "is", "of",
@@ -147,8 +148,33 @@ def parse_story_date(story: dict) -> datetime:
     return datetime.fromisoformat(story["publishedAt"].replace("Z", "+00:00"))
 
 
-def select_stories(candidates: list[dict], generated_at: datetime) -> list[dict]:
-    candidates.sort(key=parse_story_date, reverse=True)
+def source_weight(source_name: str, source_weights: dict[str, float]) -> float:
+    try:
+        return max(0.1, float(source_weights.get(source_name, 1.0)))
+    except (TypeError, ValueError):
+        return 1.0
+
+
+def story_priority_score(
+    story: dict, source_weights: dict[str, float]
+) -> tuple[float, float, float]:
+    published = parse_story_date(story)
+    weight = source_weight(story["source"], source_weights)
+    weighted_timestamp = published.timestamp() + (
+        max(0.0, weight - 1.0) * SOURCE_PRIORITY_BONUS_HOURS * 3600
+    )
+    return (weighted_timestamp, published.timestamp(), weight)
+
+
+def select_stories(
+    candidates: list[dict], generated_at: datetime, topic_sources: list[dict]
+) -> list[dict]:
+    source_weights = {
+        source["name"]: source.get("weight", 1.0) for source in topic_sources
+    }
+    candidates.sort(
+        key=lambda story: story_priority_score(story, source_weights), reverse=True
+    )
     unique = []
     cutoff = generated_at - timedelta(days=MAX_STORY_AGE_DAYS)
     newest_allowed = generated_at + timedelta(days=1)
@@ -160,38 +186,69 @@ def select_stories(candidates: list[dict], generated_at: datetime) -> list[dict]
         if not duplicate_story(candidate, unique):
             unique.append(candidate)
 
-    active_sources = {story["source"] for story in unique}
+    grouped: dict[str, list[dict]] = defaultdict(list)
+    for story in unique:
+        grouped[story["source"]].append(story)
+
+    active_sources = [source for source, stories in grouped.items() if stories]
     if not active_sources:
         return []
 
-    source_cap = math.ceil(MAX_STORIES / len(active_sources))
-    selected = []
-    overflow = []
-    source_counts = {source: 0 for source in active_sources}
+    for source in grouped:
+        grouped[source].sort(
+            key=lambda story: story_priority_score(story, source_weights),
+            reverse=True,
+        )
 
-    for story in unique:
-        source = story["source"]
-        if source_counts[source] < source_cap:
-            selected.append(story)
-            source_counts[source] += 1
-        else:
-            overflow.append(story)
+    allocations = {source: 0 for source in active_sources}
 
-    selected = sorted(selected, key=parse_story_date, reverse=True)[:MAX_STORIES]
-    selected_urls = {
-        (story["source"], canonical_url(story["url"])) for story in selected
-    }
-    if len(selected) < MAX_STORIES:
-        for story in overflow:
-            key = (story["source"], canonical_url(story["url"]))
-            if key in selected_urls:
-                continue
-            selected.append(story)
-            selected_urls.add(key)
-            if len(selected) == MAX_STORIES:
+    if len(active_sources) >= MAX_STORIES:
+        ranked_sources = sorted(
+            active_sources,
+            key=lambda source: (
+                source_weight(source, source_weights),
+                story_priority_score(grouped[source][0], source_weights),
+            ),
+            reverse=True,
+        )
+        for source in ranked_sources[:MAX_STORIES]:
+            allocations[source] = 1
+    else:
+        for source in active_sources:
+            allocations[source] = 1
+
+        remaining_slots = MAX_STORIES - len(active_sources)
+        while remaining_slots > 0:
+            candidates_for_slot = [
+                source
+                for source in active_sources
+                if allocations[source] < len(grouped[source])
+            ]
+            if not candidates_for_slot:
                 break
 
-    return sorted(selected, key=parse_story_date, reverse=True)
+            next_source = max(
+                candidates_for_slot,
+                key=lambda source: (
+                    source_weight(source, source_weights)
+                    / (allocations[source] + 1),
+                    story_priority_score(
+                        grouped[source][allocations[source]], source_weights
+                    ),
+                ),
+            )
+            allocations[next_source] += 1
+            remaining_slots -= 1
+
+    selected = []
+    for source, count in allocations.items():
+        selected.extend(grouped[source][:count])
+
+    return sorted(
+        selected,
+        key=lambda story: story_priority_score(story, source_weights),
+        reverse=True,
+    )
 
 
 def write_rss(output: dict, config: dict) -> None:
@@ -304,7 +361,7 @@ def main() -> int:
     for topic in config["topics"]:
         candidates = topic_results[topic["id"]]["candidates"]
         topic_successes = topic_results[topic["id"]]["successes"]
-        stories = select_stories(candidates, generated_datetime)
+        stories = select_stories(candidates, generated_datetime, topic["sources"])
 
         if topic_successes == 0 and topic["id"] in previous_topics:
             old_topic = previous_topics[topic["id"]]

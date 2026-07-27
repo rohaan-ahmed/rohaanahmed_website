@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-07-27T05:30:33+00:00",
+  "generatedAt": "2026-07-27T05:42:12+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-27T05:30:33+00:00",
+      "updatedAt": "2026-07-27T05:42:12+00:00",
       "stories": [
+        {
+          "title": "NASA and ESA facilities avoid major damage from wildfires in Spain",
+          "url": "https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain",
+          "publishedAt": "2026-07-26T02:15:37+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "What happened to space horror movies?",
           "url": "https://www.space.com/entertainment/space-movies-shows/what-happened-to-space-horror-movies",
@@ -23,12 +29,6 @@
           "url": "https://www.space.com/space-exploration/international-space-station/im-not-an-astronaut-but-i-went-to-the-international-space-station-sort-of",
           "publishedAt": "2026-07-26T10:00:00+00:00",
           "source": "Space.com"
-        },
-        {
-          "title": "NASA and ESA facilities avoid major damage from wildfires in Spain",
-          "url": "https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain",
-          "publishedAt": "2026-07-26T02:15:37+00:00",
-          "source": "SpaceNews"
         },
         {
           "title": "We talk with astronaut Michael Foale about the 1997 Space Station Mir crisis: 'He took all the blame of the collision on his shoulders'",
@@ -49,6 +49,24 @@
           "source": "SpaceNews"
         },
         {
+          "title": "LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT",
+          "url": "https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat",
+          "publishedAt": "2026-07-24T14:59:27+00:00",
+          "source": "SpaceNews"
+        },
+        {
+          "title": "Office of Space Commerce to move ahead on mission authorization",
+          "url": "https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization",
+          "publishedAt": "2026-07-24T12:04:34+00:00",
+          "source": "SpaceNews"
+        },
+        {
+          "title": "Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites",
+          "url": "https://spacenews.com/lightning-strikes-long-march-3b-after-liftoff-kinetica-1-launches-5-satellites",
+          "publishedAt": "2026-07-24T10:32:53+00:00",
+          "source": "SpaceNews"
+        },
+        {
           "title": "NASA’s ESCAPADE Snaps Family Portrait of Earth, Moon",
           "url": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon",
           "publishedAt": "2026-07-24T17:47:06+00:00",
@@ -65,13 +83,25 @@
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/Why_total_solar_eclipses_are_so_special",
           "publishedAt": "2026-07-24T10:00:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "Earth from Space: Agricultural patchwork",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_Agricultural_patchwork",
+          "publishedAt": "2026-07-24T08:00:00+00:00",
+          "source": "European Space Agency"
+        },
+        {
+          "title": "Two new Galileo satellites enter service",
+          "url": "https://www.esa.int/Applications/Satellite_navigation/Two_new_Galileo_satellites_enter_service",
+          "publishedAt": "2026-07-24T07:29:00+00:00",
+          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-27T05:30:33+00:00",
+      "updatedAt": "2026-07-27T05:42:12+00:00",
       "stories": [
         {
           "title": "Flight 13 success clears path for Starship catch attempts and lunar mission timelines",
@@ -122,6 +152,18 @@
           "source": "SpaceQ"
         },
         {
+          "title": "OHB selects MDA Space UK for autonomous navigation LiDAR sensors for European moon mission",
+          "url": "https://spaceq.ca/ohb-selects-mda-space-uk-for-autonomous-navigation-lidar-sensors-for-european-moon-mission",
+          "publishedAt": "2026-07-21T17:59:34+00:00",
+          "source": "SpaceQ"
+        },
+        {
+          "title": "Reaction Dynamics readies containerized Aurora rocket for suborbital flight",
+          "url": "https://spaceq.ca/reaction-dynamics-readies-containerized-aurora-rocket-for-suborbital-flight",
+          "publishedAt": "2026-07-21T11:22:00+00:00",
+          "source": "SpaceQ"
+        },
+        {
           "title": "Media accreditation for media events in Houston related to the Crew-13 mission",
           "url": "https://www.canada.ca/en/space-agency/news/2026/07/media-accreditation-for-media-events-in-houston-related-to-the-crew-13-mission.html",
           "publishedAt": "2026-07-20T20:14:06+00:00",
@@ -138,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-27T05:30:33+00:00",
+      "updatedAt": "2026-07-27T05:42:12+00:00",
       "stories": [
         {
           "title": "From Factory Floor to In-Flight: Aerospace is Canada’s Strategic Advantage",
@@ -189,15 +231,45 @@
           "source": "Vanguard"
         },
         {
+          "title": "CAE, Leonardo deepen fighter pilot training partnership",
+          "url": "https://vanguardcanada.com/cae-leonardo-deepen-fighter-pilot-training-partnership",
+          "publishedAt": "2026-07-22T14:58:31+00:00",
+          "source": "Vanguard"
+        },
+        {
+          "title": "Airbus, Landing Zones sign UAS partnership at Farnborough",
+          "url": "https://vanguardcanada.com/airbus-landing-zones-sign-uas-partnership-at-farnborough",
+          "publishedAt": "2026-07-22T13:33:11+00:00",
+          "source": "Vanguard"
+        },
+        {
           "title": "Minister McGuinty concludes United Kingdom visit focused on strengthening defence cooperation",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/07/minister-mcguinty-concludes-united-kingdom-visit-focused-on-strengthening-defence-cooperation.html",
           "publishedAt": "2026-07-21T17:32:53+00:00",
           "source": "National Defence"
         },
         {
+          "title": "Ottawa puts $34 million into Pratt & Whitney Canada’s engine plant",
+          "url": "https://vanguardcanada.com/ottawa-puts-34-million-into-pratt-whitney-canadas-engine-plant",
+          "publishedAt": "2026-07-21T13:44:58+00:00",
+          "source": "Vanguard"
+        },
+        {
           "title": "QUADRILATERAL Joint Statement on Canada becoming an Observer to GCAP",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/07/quadrilateral-joint-statement-on-canada-becoming-an-observer-to-gcap.html",
           "publishedAt": "2026-07-21T13:20:00+00:00",
+          "source": "National Defence"
+        },
+        {
+          "title": "Minister McGuinty to make an announcement with partners in United Kingdom",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/07/minister-mcguinty-to-make-an-announcement-with-partners-in-united-kingdom.html",
+          "publishedAt": "2026-07-20T23:15:01+00:00",
+          "source": "National Defence"
+        },
+        {
+          "title": "Statement from the Canadian Armed Forces on the evacuation of Eabametoong First Nation (Fort Hope), Ontario due to wildfire",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/07/statement-from-the-canadian-armed-forces-on-the-evacuation-of-eabametoong-first-nation-fort-hope-ontario-due-to-wildfire.html",
+          "publishedAt": "2026-07-18T21:15:44+00:00",
           "source": "National Defence"
         }
       ]
@@ -205,12 +277,24 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-27T05:30:33+00:00",
+      "updatedAt": "2026-07-27T05:42:12+00:00",
       "stories": [
         {
           "title": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor",
           "url": "https://www.defensenews.com/global/mideast-africa/2026/07/26/iran-says-ukrainian-attack-on-vessel-in-caspian-sea-killed-sailor",
           "publishedAt": "2026-07-26T13:20:08+00:00",
+          "source": "Defense News"
+        },
+        {
+          "title": "From steppe to sea, a Ukrainian drone unit hunts Russian ships",
+          "url": "https://www.defensenews.com/global/europe/2026/07/24/from-steppe-to-sea-a-ukrainian-drone-unit-hunts-russian-ships",
+          "publishedAt": "2026-07-24T20:59:44+00:00",
+          "source": "Defense News"
+        },
+        {
+          "title": "With no Iran war end in sight, Germany pulls back two navy ships eyed for Hormuz mission",
+          "url": "https://www.defensenews.com/global/europe/2026/07/24/with-no-iran-war-end-in-sight-germany-pulls-back-two-navy-ships-eyed-for-hormuz-mission",
+          "publishedAt": "2026-07-24T18:49:10+00:00",
           "source": "Defense News"
         },
         {
@@ -226,16 +310,10 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "From steppe to sea, a Ukrainian drone unit hunts Russian ships",
-          "url": "https://www.defensenews.com/global/europe/2026/07/24/from-steppe-to-sea-a-ukrainian-drone-unit-hunts-russian-ships",
-          "publishedAt": "2026-07-24T20:59:44+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "With no Iran war end in sight, Germany pulls back two navy ships eyed for Hormuz mission",
-          "url": "https://www.defensenews.com/global/europe/2026/07/24/with-no-iran-war-end-in-sight-germany-pulls-back-two-navy-ships-eyed-for-hormuz-mission",
-          "publishedAt": "2026-07-24T18:49:10+00:00",
-          "source": "Defense News"
+          "title": "What we learned about GCAP at the Farnborough Airshow",
+          "url": "https://breakingdefense.com/2026/07/what-we-learned-about-gcap-at-the-farnborough-airshow",
+          "publishedAt": "2026-07-24T17:35:37+00:00",
+          "source": "Breaking Defense"
         },
         {
           "title": "Pentagon nominates Lt. Gen. Admiral to command US Army Europe and Africa",
@@ -244,15 +322,33 @@
           "source": "Defense News"
         },
         {
-          "title": "What we learned about GCAP at the Farnborough Airshow",
-          "url": "https://breakingdefense.com/2026/07/what-we-learned-about-gcap-at-the-farnborough-airshow",
-          "publishedAt": "2026-07-24T17:35:37+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Oracle inks $7 billion deal to consolidate Pentagon software purchases",
           "url": "https://breakingdefense.com/2026/07/oracle-inks-7-billion-deal-to-consolidate-pentagon-software-purchases",
           "publishedAt": "2026-07-24T16:47:13+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Anduril in talks to raise funding at about $100 billion valuation",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/07/24/anduril-in-talks-to-raise-funding-at-about-100-billion-valuation",
+          "publishedAt": "2026-07-24T17:11:11+00:00",
+          "source": "Defense News"
+        },
+        {
+          "title": "Pentagon eyes November to demo ground-launched, precision strike weapons",
+          "url": "https://breakingdefense.com/2026/07/pentagon-eyes-november-to-demo-ground-launched-precision-strike-weapons",
+          "publishedAt": "2026-07-24T16:05:14+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "It is time to reconsider the costs of new energetics",
+          "url": "https://breakingdefense.com/2026/07/it-is-time-to-reconsider-the-costs-of-new-energetics",
+          "publishedAt": "2026-07-24T14:29:36+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "‘Easier access’: US export change for the UAE to boost Emirati drones, AI tech",
+          "url": "https://breakingdefense.com/2026/07/easier-access-us-export-change-for-the-uae-to-boost-emirati-drones-ai-tech",
+          "publishedAt": "2026-07-24T13:01:16+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -262,17 +358,23 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "Pentagon eyes November to demo ground-launched, precision strike weapons",
-          "url": "https://breakingdefense.com/2026/07/pentagon-eyes-november-to-demo-ground-launched-precision-strike-weapons",
-          "publishedAt": "2026-07-24T16:05:14+00:00",
-          "source": "Breaking Defense"
+          "title": "Pentagon awards Oracle $7B agreement for consolidated software tools, licenses",
+          "url": "https://defensescoop.com/2026/07/23/pentagon-awards-oracle-7b-dollar-software-licenses",
+          "publishedAt": "2026-07-23T21:00:49+00:00",
+          "source": "DefenseScoop"
+        },
+        {
+          "title": "Trump authorizes use of AI for defense supply chain mapping",
+          "url": "https://defensescoop.com/2026/07/23/trump-authorizes-ai-map-defense-supply-chains",
+          "publishedAt": "2026-07-23T20:13:46+00:00",
+          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-27T05:30:33+00:00",
+      "updatedAt": "2026-07-27T05:42:12+00:00",
       "stories": [
         {
           "title": "Are brain waves the next unlock for physical AI?",
@@ -333,13 +435,43 @@
           "url": "https://tldr.tech/ai/2026-07-22",
           "publishedAt": "2026-07-22T00:00:00+00:00",
           "source": "TLDR AI"
+        },
+        {
+          "title": "Claude disproves an 87-year-old math problem",
+          "url": "https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
+          "publishedAt": "2026-07-21T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Ramp Router ⚡, Kimi Work 💼 , AMD Helios 🧱",
+          "url": "https://tldr.tech/ai/2026-07-21",
+          "publishedAt": "2026-07-21T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Anthropic's Fable survives the subscription axe",
+          "url": "https://www.therundown.ai/p/anthropic-fable-survives-the-subscription-axe",
+          "publishedAt": "2026-07-20T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Qwen 3.8 ✨, Kimi Code CLI 👨‍💻, Netflix’s LLM stack 🤖",
+          "url": "https://tldr.tech/ai/2026-07-20",
+          "publishedAt": "2026-07-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Moonshot’s Kimi K3 closes the frontier gap",
+          "url": "https://www.therundown.ai/p/moonshot-kimi-k3-closes-the-frontier-gap",
+          "publishedAt": "2026-07-17T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-27T05:30:33+00:00",
+      "updatedAt": "2026-07-27T05:42:12+00:00",
       "stories": [
         {
           "title": "Are brain waves the next unlock for physical AI?",
@@ -348,16 +480,16 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "Optical Tech Would Update a Robot’s AI on the Fly",
-          "url": "https://spectrum.ieee.org/ai-in-robotics",
-          "publishedAt": "2026-07-26T13:00:01+00:00",
-          "source": "IEEE Spectrum Robotics"
-        },
-        {
           "title": "Magmotor makes motors for a changing world for 150+ years",
           "url": "https://www.therobotreport.com/magmotor-makes-motors-changing-world-150-years",
           "publishedAt": "2026-07-26T12:30:51+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "Optical Tech Would Update a Robot’s AI on the Fly",
+          "url": "https://spectrum.ieee.org/ai-in-robotics",
+          "publishedAt": "2026-07-26T13:00:01+00:00",
+          "source": "IEEE Spectrum Robotics"
         },
         {
           "title": "Photos: First look at J&J’s Ottava surgical robot",
@@ -384,6 +516,30 @@
           "source": "IEEE Spectrum Robotics"
         },
         {
+          "title": "NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI",
+          "url": "https://www.therobotreport.com/neura-robotics-establishes-neura-gym-rwth-aachen-train-physical-ai",
+          "publishedAt": "2026-07-24T12:30:42+00:00",
+          "source": "The Robot Report"
+        },
+        {
+          "title": "Holiday Robotics raises $105M for its FRIDAY wheeled humanoid",
+          "url": "https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday",
+          "publishedAt": "2026-07-23T20:45:47+00:00",
+          "source": "The Robot Report"
+        },
+        {
+          "title": "Uber co-founder raises $1.7B for new robotics startup ATOMS",
+          "url": "https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms",
+          "publishedAt": "2026-07-23T18:53:11+00:00",
+          "source": "The Robot Report"
+        },
+        {
+          "title": "AMD unveils Kria module for real-time control, unified memory for robots",
+          "url": "https://www.therobotreport.com/amd-unveils-kria-module-real-time-control-unified-memory-robots",
+          "publishedAt": "2026-07-23T18:30:56+00:00",
+          "source": "The Robot Report"
+        },
+        {
           "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
           "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else",
           "publishedAt": "2026-07-21T10:00:00+00:00",
@@ -399,6 +555,12 @@
           "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
           "url": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
           "publishedAt": "2026-07-17T18:00:01+00:00",
+          "source": "IEEE Spectrum Robotics"
+        },
+        {
+          "title": "Video Friday: Your Robot Surgeon Will See You Now",
+          "url": "https://spectrum.ieee.org/video-friday-robotic-surgery",
+          "publishedAt": "2026-07-17T16:00:01+00:00",
           "source": "IEEE Spectrum Robotics"
         }
       ]
