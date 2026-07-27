@@ -160,7 +160,8 @@
                 requestAnimationFrame(() => target?.scrollIntoView());
             }
 
-            setupStickyTopicNav();
+            setupPinnedTopicNav();
+
         } catch (error) {
             grid.innerHTML = '<p class="content-status content-error">The news feed is temporarily unavailable.</p>';
             sourcesList.innerHTML = '';
@@ -169,29 +170,50 @@
         }
     }
 
-    function setupStickyTopicNav() {
+    function setupPinnedTopicNav() {
         const wrapper = document.querySelector('.news-topic-nav');
         const inner = document.querySelector('.news-topic-nav-inner');
-        if (!wrapper || !inner || wrapper.dataset.stickyBound === 'true') {
+        const sourcesSection = document.querySelector('.sources-section');
+        if (!wrapper || !inner || !sourcesSection || wrapper.dataset.pinnedBound === 'true') {
             if (wrapper && inner) {
                 wrapper.style.minHeight = `${inner.offsetHeight}px`;
             }
             return;
         }
 
-        const topOffset = 68;
-        const syncSticky = () => {
+        const topOffset = () => (window.innerWidth <= 768 ? 64 : 68);
+        let rafId = 0;
+        let lastScrollY = -1;
+        let lastWidth = -1;
+
+        const syncPinnedState = () => {
             wrapper.style.minHeight = `${inner.offsetHeight}px`;
-            const rect = wrapper.getBoundingClientRect();
-            const shouldFix = rect.top <= topOffset && rect.bottom > inner.offsetHeight + topOffset;
+            const start = wrapper.offsetTop - topOffset();
+            const end = sourcesSection.offsetTop + sourcesSection.offsetHeight
+                - inner.offsetHeight - topOffset();
+            const shouldFix = window.scrollY >= start && window.scrollY < end;
             wrapper.classList.toggle('news-topic-nav-fixed', shouldFix);
         };
 
-        wrapper.dataset.stickyBound = 'true';
-        window.addEventListener('scroll', syncSticky, { passive: true });
-        document.addEventListener('scroll', syncSticky, { passive: true, capture: true });
-        window.addEventListener('resize', syncSticky);
-        syncSticky();
+        const requestSync = () => {
+            if (rafId) return;
+            rafId = window.requestAnimationFrame(() => {
+                rafId = 0;
+                syncPinnedState();
+            });
+        };
+
+        wrapper.dataset.pinnedBound = 'true';
+        window.addEventListener('scroll', requestSync, { passive: true });
+        window.addEventListener('resize', requestSync);
+        window.setInterval(() => {
+            if (window.scrollY !== lastScrollY || window.innerWidth !== lastWidth) {
+                lastScrollY = window.scrollY;
+                lastWidth = window.innerWidth;
+                syncPinnedState();
+            }
+        }, 150);
+        requestSync();
     }
 
     async function renderFieldNotes() {

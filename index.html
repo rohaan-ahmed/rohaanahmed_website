@@ -9,7 +9,7 @@
     <meta property="og:description" content="Artificial Intelligence | Robotics | Space | Defence">
     <meta property="og:type" content="website">
     <title>Rohaan Ahmed | AI &bull; Robotics &bull; Space &bull; Defence</title>
-    <link rel="stylesheet" href="styles.css?v=restore-tactical">
+    <link rel="stylesheet" href="styles.css?v=homepage-v2">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Share+Tech+Mono&family=Sora:wght@400;600;700;800&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
@@ -77,11 +77,16 @@
                 </div>
             </h1>
             <p class="hero-tagline" id="tagline">Artificial Intelligence <span class="tagline-separator">|</span> Robotics <span class="tagline-separator">|</span> Space <span class="tagline-separator">|</span> Defence</p>
-            <div class="hero-buttons">
-                <a href="#news-preview" class="btn btn-primary">View My News</a>
-                <a href="#about" class="btn btn-secondary">My Background</a>
-            </div>
-            <nav class="hero-section-nav" aria-label="Jump to section">
+        </div>
+        <div class="scroll-indicator" aria-hidden="true">
+            <span class="scroll-text">Scroll</span>
+            <div class="scroll-arrow"></div>
+        </div>
+    </section>
+
+    <div class="section-jump-shell">
+        <div class="container">
+            <nav class="section-jump-nav" aria-label="Jump to section">
                 <a href="#news-preview">News</a>
                 <a href="#field-notes-preview">Field Notes</a>
                 <a href="#about">About</a>
@@ -90,11 +95,7 @@
                 <a href="#contact">Contact</a>
             </nav>
         </div>
-        <div class="scroll-indicator" aria-hidden="true">
-            <span class="scroll-text">Scroll</span>
-            <div class="scroll-arrow"></div>
-        </div>
-    </section>
+    </div>
 
     <section class="home-feed home-news-preview" id="news-preview" aria-labelledby="home-news-title">
         <div class="container">
@@ -176,15 +177,14 @@
 
     <section class="games" id="games">
         <div class="container">
-            <h2 class="section-title">Games for my kids</h2>
+            <h2 class="section-title">Games for My Kids</h2>
             <div class="games-grid">
                 <article class="game-card">
-                    <h3><a href="game_for_kids/game.html">Simple Game</a></h3>
-                    <p>A lightweight browser game for quick play.</p>
-                </article>
-                <article class="game-card">
-                    <h3><a href="game_for_kids/math_racer.html">Math Racer</a></h3>
-                    <p>A faster-paced math game built for practice and fun.</p>
+                    <h3>Play</h3>
+                    <div class="game-links-list">
+                        <a href="game_for_kids/game.html">Sidescroller Game</a>
+                        <a href="game_for_kids/math_racer.html">Math Racer</a>
+                    </div>
                 </article>
             </div>
         </div>
@@ -224,6 +224,6 @@
         <span class="theme-toggle-text">Tactical Theme</span>
     </button>
 
-    <script src="script.js?v=restore-tactical"></script>
+    <script src="script.js?v=homepage-v2"></script>
 </body>
 </html>

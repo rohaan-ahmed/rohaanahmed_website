@@ -414,33 +414,56 @@ button {
     color: var(--secondary);
 }
 
-.hero-buttons {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 14px;
-    margin-bottom: 28px;
+.section-jump-shell {
+    position: sticky;
+    top: 68px;
+    z-index: 980;
+    border-top: 1px solid var(--hairline);
+    border-bottom: 1px solid var(--hairline);
+    background: rgba(15, 19, 17, 0.94);
+    backdrop-filter: blur(12px);
 }
 
-.hero-section-nav {
+.section-jump-nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 12px 24px;
+    padding: 18px 0 16px;
 }
 
-.hero-section-nav a {
+.section-jump-nav a {
+    position: relative;
     color: var(--text-muted);
     font-family: var(--font-mono);
-    font-size: 0.72rem;
+    font-size: 0.76rem;
     font-weight: 700;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
     transition: color var(--transition-fast);
 }
 
-.hero-section-nav a:hover {
+.section-jump-nav a::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: -6px;
+    left: 0;
+    height: 2px;
+    background: var(--primary);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform var(--transition-fast);
+}
+
+.section-jump-nav a:hover,
+.section-jump-nav a.active {
     color: var(--primary-text);
+}
+
+.section-jump-nav a:hover::after,
+.section-jump-nav a.active::after {
+    transform: scaleX(1);
 }
 
 .btn {
@@ -949,7 +972,8 @@ section {
 
 .games-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: minmax(0, 620px);
+    justify-content: center;
     gap: 24px;
 }
 
@@ -962,9 +986,8 @@ section {
 
 .game-card {
     display: flex;
-    min-height: 220px;
+    min-height: 0;
     flex-direction: column;
-    justify-content: space-between;
     border: 1px solid var(--hairline);
     border-radius: 6px;
     background: var(--surface);
@@ -986,18 +1009,24 @@ section {
     line-height: 1.3;
 }
 
-.game-card h3 a {
+.game-links-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px 22px;
+}
+
+.game-links-list a {
+    color: var(--secondary-text);
+    font-family: var(--font-mono);
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
     transition: color var(--transition-fast);
 }
 
-.game-card h3 a:hover {
+.game-links-list a:hover {
     color: var(--primary-text);
-}
-
-.game-card p {
-    color: var(--text-secondary);
-    font-size: 0.95rem;
-    line-height: 1.65;
 }
 
 .project-content {
@@ -1378,12 +1407,18 @@ body.tactical-theme .project-title {
 
 body.tactical-theme .home-feed-link,
 body.tactical-theme .home-feed-kicker,
-body.tactical-theme .hero-section-nav a:hover,
+body.tactical-theme .section-jump-nav a:hover,
+body.tactical-theme .section-jump-nav a.active,
 body.tactical-theme .home-note-meta span,
 body.tactical-theme .home-topic-header h3 a:hover,
 body.tactical-theme .home-note-card h3 a:hover,
 body.tactical-theme .home-topic-card li a:hover {
     color: #c4a35a;
+}
+
+body.tactical-theme .section-jump-nav a::after {
+    background: #8b9a6b;
+    box-shadow: 0 0 10px rgba(139, 154, 107, 0.5);
 }
 
 body.tactical-theme .project-link {
@@ -1545,6 +1580,14 @@ body.tactical-theme .nav-menu {
 
     .hero-tagline {
         white-space: normal;
+    }
+
+    .section-jump-shell {
+        top: 64px;
+    }
+
+    .section-jump-nav {
+        gap: 10px 16px;
     }
 
     .tagline-separator {

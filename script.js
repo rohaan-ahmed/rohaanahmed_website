@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const navToggle = document.getElementById('nav-toggle');
     const navMenu = document.getElementById('nav-menu');
     const navLinks = document.querySelectorAll('.nav-link');
+    const sectionJumpLinks = document.querySelectorAll('.section-jump-nav a');
     const currentYearEl = document.getElementById('current-year');
     const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
@@ -136,6 +137,10 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         navLinks.forEach(link => {
+            link.classList.toggle('active', link.getAttribute('href') === `#${currentId}`);
+        });
+
+        sectionJumpLinks.forEach(link => {
             link.classList.toggle('active', link.getAttribute('href') === `#${currentId}`);
         });
     }
@@ -332,7 +337,6 @@ async function renderHomeNewsPreview() {
                     <article class="home-topic-card topic-${escapeAttribute(topic.id)} fade-in">
                         <header class="home-topic-header">
                             <h3><a href="news.html#topic-${escapeAttribute(topic.id)}">${escapeHTML(topic.name)}</a></h3>
-                            <p>Last updated ${escapeHTML(formatDate(topic.updatedAt, true))}</p>
                         </header>
                         <ol>
                             ${storyItems}
