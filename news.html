@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A curated news feed covering space, defence technology, artificial intelligence, and robotics.">
+    <title>News | Rohaan Ahmed</title>
+    <link rel="stylesheet" href="styles.css?v=content-v1">
+    <link rel="stylesheet" href="content.css?v=content-v1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Share+Tech+Mono&family=Sora:wght@400;600;700;800&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body class="content-page" data-content-page="news">
+    <header class="content-navbar">
+        <div class="content-nav-inner">
+            <a class="content-brand" href="index.html" aria-label="Rohaan Ahmed home">RA</a>
+            <nav class="content-nav-links" aria-label="Content">
+                <a class="active" href="news.html">News</a>
+                <a href="blog.html">Field Notes</a>
+            </nav>
+        </div>
+    </header>
+    <main class="content-main">
+        <header class="content-hero">
+            <p class="content-kicker">Signal over noise</p>
+            <h1>News</h1>
+            <p>Recent reporting across space, defence technology, artificial intelligence, and robotics.</p>
+        </header>
+        <section class="content-section" aria-labelledby="news-topics-title">
+            <div class="section-heading-row">
+                <h2 id="news-topics-title">Latest by topic</h2>
+                <p id="news-overall-updated"></p>
+            </div>
+            <div class="news-grid" id="news-grid" aria-live="polite">
+                <p class="content-status">Loading current headlines...</p>
+            </div>
+        </section>
+        <section class="content-section sources-section" aria-labelledby="sources-title">
+            <div class="section-heading-row">
+                <h2 id="sources-title">Sources</h2>
+            </div>
+            <div class="sources-list" id="sources-list"></div>
+        </section>
+    </main>
+    <footer class="footer content-footer">
+        <div class="container">
+            <p class="footer-text">&copy; <span id="current-year"></span> Rohaan Ahmed. All rights reserved.</p>
+        </div>
+    </footer>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle Tactical Theme" aria-pressed="false">
+        <span class="theme-toggle-text">Tactical Theme</span>
+    </button>
+    <script src="content.js?v=content-v1"></script>
+</body>
+</html>

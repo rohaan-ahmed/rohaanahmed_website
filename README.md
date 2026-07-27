@@ -1,66 +1,59 @@
-# Personal Website
+# Rohaan Ahmed
 
-A dark-themed, cyberpunk/neon personal website built with vanilla HTML, CSS, and JavaScript.
+Personal website built with vanilla HTML, CSS, and JavaScript and hosted on
+GitHub Pages.
 
-## Features
+## Field Notes workflow
 
-- **Cyberpunk Aesthetic**: Dark theme with neon cyan, magenta, and purple accents
-- **Responsive Design**: Works on desktop, tablet, and mobile devices
-- **Smooth Animations**: Scroll-triggered animations, hover effects, and glowing neon elements
-- **Single Page**: All content on one page with smooth scrolling navigation
-- **No Build Tools**: Simple files that work directly in any browser
+Field Notes live in `content/blog/` as Markdown files. Each file needs YAML front
+matter with a title and date:
 
-## Sections
+```markdown
+---
+title: A Note Title
+date: 2026-07-26
+summary: A short description used on the Field Notes page.
+tags:
+  - Artificial Intelligence
+---
 
-1. **Hero** - Animated title with gradient background
-2. **About** - Bio and focus area cards (AI, Advanced Technologies, Space, Defence)
-3. **Projects** - Grid of project cards with hover effects
-4. **Contact** - Links and contact form placeholder
-
-## File Structure
-
-```
-website/
-├── index.html    # Main HTML structure
-├── styles.css    # All styling and animations
-├── script.js     # Interactivity and smooth scrolling
-└── README.md     # This file
+The article starts here.
 ```
 
-## Getting Started
+Add, edit, or delete a Markdown file, then commit and push the change. GitHub
+Actions rebuilds `data/blog.json` and the article pages in `field-notes/`.
 
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Customize the placeholder content with your information
+To build locally:
 
-## Customization
-
-### Update Personal Information
-- Edit `index.html` to replace placeholder text with your name, bio, and project details
-- Update contact links (email, LinkedIn, GitHub)
-
-### Colors
-Colors are defined as CSS custom properties in `styles.css`:
-```css
---accent-cyan: #00ffff;
---accent-magenta: #ff00ff;
---accent-purple: #8b5cf6;
+```powershell
+python -m pip install -r requirements.txt
+python scripts/build_blog.py
 ```
 
-### Contact Form
-To enable the contact form, integrate with a service like [Formspree](https://formspree.io/) or [Netlify Forms](https://www.netlify.com/products/forms/).
+## News workflow
 
-## Hosting on GitHub Pages
+News sources are configured in `news-sources.json`. The automated workflow reads
+the feeds, removes duplicate stories within each topic, keeps the ten newest
+stories, and updates `data/news.json`.
 
-1. Push this repository to GitHub
-2. Go to Settings → Pages
-3. Select "Deploy from a branch" and choose `main`
-4. Your site will be live at `https://yourusername.github.io/repository-name`
+GitHub Actions runs at 13:00, 16:00, 19:00, and 22:00 UTC. These correspond to
+9 a.m., noon, 3 p.m., and 6 p.m. Toronto time while daylight saving time is in
+effect; during standard time, they run one hour earlier locally.
 
-## Browser Support
+To refresh locally:
 
-Works in all modern browsers (Chrome, Firefox, Safari, Edge).
+```powershell
+python -m pip install -r requirements.txt
+python scripts/update_news.py
+```
 
-## License
+## Local preview
 
-MIT License - feel free to use and modify for your own projects.
+The content pages load JSON, so preview the site through a local web server:
+
+```powershell
+python -m http.server 8000
+```
+
+Then open `http://localhost:8000/news.html` or
+`http://localhost:8000/blog.html`.

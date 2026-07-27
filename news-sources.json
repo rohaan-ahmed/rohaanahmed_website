@@ -1,0 +1,125 @@
+{
+  "topics": [
+    {
+      "id": "international-space",
+      "name": "International Space",
+      "sources": [
+        {
+          "name": "Space.com",
+          "feed": "https://www.space.com/feeds.xml",
+          "site": "https://www.space.com/"
+        },
+        {
+          "name": "SpaceNews",
+          "feed": "https://spacenews.com/feed/",
+          "site": "https://spacenews.com/"
+        },
+        {
+          "name": "NASA",
+          "feed": "https://www.nasa.gov/feed/",
+          "site": "https://www.nasa.gov/"
+        }
+      ]
+    },
+    {
+      "id": "canadian-space",
+      "name": "Canadian Space",
+      "sources": [
+        {
+          "name": "Canadian Space Agency",
+          "feed": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=spaceagency&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canadian%20Space%20Agency",
+          "site": "https://www.asc-csa.gc.ca/eng/"
+        },
+        {
+          "name": "SpaceQ",
+          "feed": "https://spaceq.ca/feed/",
+          "site": "https://spaceq.ca/"
+        }
+      ]
+    },
+    {
+      "id": "canadian-defence",
+      "name": "Canadian Defence",
+      "sources": [
+        {
+          "name": "National Defence",
+          "feed": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentnationaldefense&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=National%20Defence",
+          "site": "https://www.canada.ca/en/department-national-defence.html"
+        },
+        {
+          "name": "Ottawa Citizen Defence Watch",
+          "feed": "https://ottawacitizen.com/tag/defence-watch/feed.xml",
+          "site": "https://ottawacitizen.com/tag/defence-watch/"
+        },
+        {
+          "name": "Vanguard",
+          "feed": "https://vanguardcanada.com/feed/",
+          "site": "https://vanguardcanada.com/"
+        }
+      ]
+    },
+    {
+      "id": "international-defence-technology",
+      "name": "International Defence Technology",
+      "sources": [
+        {
+          "name": "Defense News",
+          "feed": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml",
+          "site": "https://www.defensenews.com/"
+        },
+        {
+          "name": "Breaking Defense",
+          "feed": "https://breakingdefense.com/feed/",
+          "site": "https://breakingdefense.com/"
+        },
+        {
+          "name": "DefenseScoop",
+          "feed": "https://defensescoop.com/feed/",
+          "site": "https://defensescoop.com/"
+        }
+      ]
+    },
+    {
+      "id": "artificial-intelligence",
+      "name": "Artificial Intelligence",
+      "sources": [
+        {
+          "name": "TLDR AI",
+          "feed": "https://tldr.tech/api/rss/ai",
+          "site": "https://tldr.tech/ai"
+        },
+        {
+          "name": "The Rundown AI",
+          "feed": "https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml",
+          "site": "https://www.therundown.ai/"
+        },
+        {
+          "name": "TechCrunch AI",
+          "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+          "site": "https://techcrunch.com/category/artificial-intelligence/"
+        }
+      ]
+    },
+    {
+      "id": "robotics",
+      "name": "Robotics",
+      "sources": [
+        {
+          "name": "The Robot Report",
+          "feed": "https://www.therobotreport.com/feed/",
+          "site": "https://www.therobotreport.com/"
+        },
+        {
+          "name": "IEEE Spectrum Robotics",
+          "feed": "https://spectrum.ieee.org/feeds/topic/robotics.rss",
+          "site": "https://spectrum.ieee.org/robotics"
+        },
+        {
+          "name": "TechCrunch Robotics",
+          "feed": "https://techcrunch.com/category/robotics/feed/",
+          "site": "https://techcrunch.com/category/robotics/"
+        }
+      ]
+    }
+  ]
+}

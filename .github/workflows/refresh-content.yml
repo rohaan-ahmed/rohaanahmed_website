@@ -1,0 +1,55 @@
+name: Refresh news and Field Notes
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "content/blog/**"
+      - "scripts/build_blog.py"
+      - "requirements.txt"
+  schedule:
+    # 9 a.m., noon, 3 p.m., and 6 p.m. Eastern during daylight saving time.
+    - cron: "0 13,16,19,22 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-site-content
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out the site
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install content tools
+        run: pip install -r requirements.txt
+
+      - name: Refresh news
+        run: python scripts/update_news.py
+
+      - name: Build Field Notes
+        run: python scripts/build_blog.py
+
+      - name: Publish generated content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/blog.json field-notes
+          if git diff --cached --quiet; then
+            echo "No content changes to publish."
+            exit 0
+          fi
+          git commit -m "chore: refresh news and Field Notes"
+          git push
