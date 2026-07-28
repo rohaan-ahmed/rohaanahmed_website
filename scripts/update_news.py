@@ -3,6 +3,7 @@ from __future__ import annotations
 import calendar
 import difflib
 import hashlib
+import html
 import json
 import re
 import sys
@@ -104,6 +105,58 @@ def entry_date(entry: dict) -> datetime | None:
     return None
 
 
+TLDR_SECTION_PATTERN = re.compile(r"<section>(.*?)</section>", re.DOTALL)
+TLDR_HEADER_PATTERN = re.compile(
+    r"<header>.*?<h3[^>]*>(.*?)</h3>.*?</header>", re.DOTALL
+)
+TLDR_ARTICLE_PATTERN = re.compile(
+    r"<article[^>]*>.*?<a[^>]*href=\"([^\"]+)\"[^>]*>.*?<h3>(.*?)</h3>.*?</a>.*?</article>",
+    re.DOTALL,
+)
+TLDR_ALLOWED_SECTIONS = {
+    "Headlines & Launches",
+    "Deep Dives & Analysis",
+    "Engineering & Research",
+}
+
+
+def clean_html_text(value: str) -> str:
+    without_tags = re.sub(r"<[^>]+>", "", value)
+    return re.sub(r"\s+", " ", html.unescape(without_tags)).strip()
+
+
+def fetch_tldr_ai_stories(source: dict, entry: dict, published: datetime) -> list[dict]:
+    response = requests.get(entry["link"], headers=REQUEST_HEADERS, timeout=25)
+    response.raise_for_status()
+    page = response.text
+    stories = []
+
+    for section_html in TLDR_SECTION_PATTERN.findall(page):
+        header_match = TLDR_HEADER_PATTERN.search(section_html)
+        if not header_match:
+            continue
+        section_name = clean_html_text(header_match.group(1))
+        if section_name not in TLDR_ALLOWED_SECTIONS:
+            continue
+
+        for url, raw_title in TLDR_ARTICLE_PATTERN.findall(section_html):
+            title = clean_html_text(raw_title)
+            if not title or title == ")" or "(Sponsor)" in title:
+                continue
+            if url.startswith("mailto:"):
+                continue
+            stories.append(
+                {
+                    "title": title,
+                    "url": canonical_url(url),
+                    "publishedAt": published.replace(microsecond=0).isoformat(),
+                    "source": source["name"],
+                }
+            )
+
+    return stories
+
+
 def fetch_source(source: dict) -> list[dict]:
     response = requests.get(source["feed"], headers=REQUEST_HEADERS, timeout=25)
     response.raise_for_status()
@@ -124,6 +177,13 @@ def fetch_source(source: dict) -> list[dict]:
         published = entry_date(entry)
         if published is None:
             continue
+
+        if source["name"] == "TLDR AI":
+            extracted = fetch_tldr_ai_stories(source, entry, published)
+            if extracted:
+                stories.extend(extracted)
+                continue
+
         stories.append(
             {
                 "title": title,
