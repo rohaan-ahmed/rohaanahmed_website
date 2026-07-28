@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-28T18:24:22+00:00",
+  "generatedAt": "2026-07-28T19:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-28T18:24:22+00:00",
+      "updatedAt": "2026-07-28T19:00:31+00:00",
       "stories": [
         {
           "title": "NASA selects successor to CAPSTONE lunar mission",
@@ -31,8 +31,8 @@
           "source": "European Space Agency"
         },
         {
-          "title": "ISS meets Venus in incredible daylight photo | Space photo of the day for July 28, 2026",
-          "url": "https://www.space.com/stargazing/iss-meets-venus-in-incredible-daylight-photo-space-photo-of-the-day-for-july-28-2026",
+          "title": "On this day in space! July 28, 1851: The 1st photo of a total solar eclipse was taken by a Prussian daguerreotypist",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-july-28-2026",
           "publishedAt": "2026-07-28T14:00:00+00:00",
           "source": "Space.com"
         },
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-28T18:24:22+00:00",
+      "updatedAt": "2026-07-28T19:00:31+00:00",
       "stories": [
         {
           "title": "Canadian satellites to support fight against illegal fishing in Mexico",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-28T18:24:22+00:00",
+      "updatedAt": "2026-07-28T19:00:31+00:00",
       "stories": [
         {
           "title": "320 New Jobs, One Combat System: Lockheed’s Nova Scotia Play",
@@ -271,8 +271,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-28T18:24:22+00:00",
+      "updatedAt": "2026-07-28T19:00:31+00:00",
       "stories": [
+        {
+          "title": "Boeing’s Air Force One replacement racks up $280M charge",
+          "url": "https://breakingdefense.com/2026/07/boeings-air-force-one-replacement-racks-up-280m-charge",
+          "publishedAt": "2026-07-28T18:45:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "CENTCOM announces US-UAE task force on AI",
           "url": "https://breakingdefense.com/2026/07/centcom-announces-us-uae-task-force-on-ai",
@@ -292,7 +298,7 @@
           "source": "Defense News"
         },
         {
-          "title": "Air Force eyes ‘maybe’ pulling B-52s from retirement",
+          "title": "Air Force mulls ‘maybe’ pulling B-52s from retirement",
           "url": "https://breakingdefense.com/2026/07/air-force-eyes-maybe-pulling-b-52s-from-retirement",
           "publishedAt": "2026-07-28T15:48:00+00:00",
           "source": "Breaking Defense"
@@ -314,12 +320,6 @@
           "url": "https://defensescoop.com/2026/07/28/mq-9-replacement-air-force-concept-refinement",
           "publishedAt": "2026-07-28T18:19:04+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "PACAF looks to reduce exercise participation to preserve ‘readiness’: Commander",
-          "url": "https://breakingdefense.com/2026/07/pacaf-looks-to-reduce-exercise-participation-to-preserve-readiness-commander",
-          "publishedAt": "2026-07-28T14:08:36+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Finland closes airspace, restricts maritime traffic near Russia over drone risk",
@@ -368,7 +368,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-28T18:24:22+00:00",
+      "updatedAt": "2026-07-28T19:00:31+00:00",
       "stories": [
         {
           "title": "Moonshot lets history's largest open model loose",
@@ -389,27 +389,45 @@
           "source": "TechCrunch AI"
         },
         {
+          "title": "Anthropic Rejected Blanket Bans on Open-Weight Models (2 minute read)",
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Releasing the model weights and technical report of Kimi K3 (2 minute read)",
+          "url": "https://threadreaderapp.com/thread/2081760186235289764.html",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Microsoft Introduced a Cybersecurity Model (6 minute read)",
+          "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "OpenAI's Report on How AI is Expanding (6 minute read)",
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Gemini Distillation Service (17 minute read)",
+          "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/distillation",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How we built and benchmarked VR-1, our frontier cyber reasoning model (6 minute read)",
+          "url": "https://www.cogent.com/blog/how-we-built-and-benchmarked-vr-1-our-frontier-cyber-reasoning-model",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
           "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon",
           "publishedAt": "2026-07-28T13:19:17+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-          "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing",
-          "publishedAt": "2026-07-28T04:30:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai",
-          "publishedAt": "2026-07-28T00:13:33+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-          "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive",
-          "publishedAt": "2026-07-27T21:17:11+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -417,18 +435,6 @@
           "url": "https://www.therundown.ai/p/anthropic-opus-5-surprise",
           "publishedAt": "2026-07-27T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-          "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google",
-          "publishedAt": "2026-07-27T20:19:42+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-          "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system",
-          "publishedAt": "2026-07-27T18:32:11+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "Black Forest Labs teaches video AI to run robots",
@@ -453,19 +459,13 @@
           "url": "https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
           "publishedAt": "2026-07-21T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic's Fable survives the subscription axe",
-          "url": "https://www.therundown.ai/p/anthropic-fable-survives-the-subscription-axe",
-          "publishedAt": "2026-07-20T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-28T18:24:22+00:00",
+      "updatedAt": "2026-07-28T19:00:31+00:00",
       "stories": [
         {
           "title": "Agency Tool Company wants to make OTA software updates easier",
@@ -670,7 +670,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-17"
-  ]
+  "warnings": []
 }
