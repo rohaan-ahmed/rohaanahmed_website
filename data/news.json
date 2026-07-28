@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-07-28T12:00:43+00:00",
+  "generatedAt": "2026-07-28T13:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-28T12:00:43+00:00",
+      "updatedAt": "2026-07-28T13:00:34+00:00",
       "stories": [
+        {
+          "title": "NASA selects successor to CAPSTONE lunar mission",
+          "url": "https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission",
+          "publishedAt": "2026-07-28T12:03:50+00:00",
+          "source": "SpaceNews"
+        },
+        {
+          "title": "Betelgeuse, Betelgeuse! Astronomers capture clearest image yet of famous star's elusive companion",
+          "url": "https://www.space.com/astronomy/stars/betelgeuse-betelgeuse-astronomers-capture-clearest-image-yet-of-famous-stars-elusive-companion",
+          "publishedAt": "2026-07-28T12:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "'Crazy idea' succeeds: Scientists monitor space junk with radio telescopes",
           "url": "https://www.space.com/astronomy/earth/crazy-idea-succeeds-scientists-monitor-space-junk-with-radio-telescopes",
@@ -61,18 +73,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Amazon files application for direct-to-device satellite constellation",
-          "url": "https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation",
-          "publishedAt": "2026-07-27T11:59:34+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Starship in space! See highlights of SpaceX megarocket's epic Flight 13 test launch (video)",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/starship-in-space-see-highlights-of-spacex-megarockets-epic-flight-13-test-launch-video",
-          "publishedAt": "2026-07-27T22:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
           "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission",
           "publishedAt": "2026-07-27T18:49:20+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-28T12:00:43+00:00",
+      "updatedAt": "2026-07-28T13:00:34+00:00",
       "stories": [
         {
           "title": "In Defence of Canada briefing: Spaceport polling and NORAD’s Arctic resilience",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-28T12:00:43+00:00",
+      "updatedAt": "2026-07-28T13:00:34+00:00",
       "stories": [
         {
           "title": "From Factory Floor to In-Flight: Aerospace is Canada’s Strategic Advantage",
@@ -271,8 +271,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-28T12:00:43+00:00",
+      "updatedAt": "2026-07-28T13:00:34+00:00",
       "stories": [
+        {
+          "title": "Leonardo UK CEO sees potential CCA role, but wary of funding",
+          "url": "https://breakingdefense.com/2026/07/leonardo-uk-ceo-sees-potential-cca-role-but-wary-of-funding",
+          "publishedAt": "2026-07-28T12:32:09+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "French wildfires threaten nuclear deterrence industry, Rafale assembly",
           "url": "https://www.defensenews.com/global/europe/2026/07/28/french-wildfires-threaten-nuclear-deterrence-industry-rafale-assembly",
@@ -322,12 +328,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Pentagon inks deal with L3Harris to ramp rocket motor production",
-          "url": "https://breakingdefense.com/2026/07/pentagon-inks-deal-with-l3harris-to-ramp-rocket-motor-production",
-          "publishedAt": "2026-07-27T17:40:25+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Air Force asserts B-52 modernization remains on cost and schedule following June crash",
           "url": "https://defensescoop.com/2026/07/27/b-52-modernization-program-status-after-june-crash",
           "publishedAt": "2026-07-27T21:06:45+00:00",
@@ -368,7 +368,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-28T12:00:43+00:00",
+      "updatedAt": "2026-07-28T13:00:34+00:00",
       "stories": [
         {
           "title": "Moonshot lets history's largest open model loose",
@@ -465,7 +465,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-28T12:00:43+00:00",
+      "updatedAt": "2026-07-28T13:00:34+00:00",
       "stories": [
         {
           "title": "NORD expands compact NORDAC VFD family to 200 hp",
