@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-07-28T13:16:29+00:00",
+  "generatedAt": "2026-07-28T14:00:42+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-28T13:16:29+00:00",
+      "updatedAt": "2026-07-28T14:00:42+00:00",
       "stories": [
         {
           "title": "NASA selects successor to CAPSTONE lunar mission",
           "url": "https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission",
           "publishedAt": "2026-07-28T12:03:50+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "How Sentinel-1 measured movement of Venezuela quakes",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/How_Sentinel-1_measured_movement_of_Venezuela_quakes",
+          "publishedAt": "2026-07-28T12:04:00+00:00",
+          "source": "European Space Agency"
         },
         {
           "title": "BALLS on the moon: China set to launch Africa's 1st lunar science mission in 2029",
@@ -89,19 +95,13 @@
           "url": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse",
           "publishedAt": "2026-07-27T18:01:14+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Meet space startups at ESA’s Industry Space Days",
-          "url": "https://www.esa.int/About_Us/Business_with_ESA/Meet_space_startups_at_ESA_s_Industry_Space_Days",
-          "publishedAt": "2026-07-27T08:05:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-28T13:16:29+00:00",
+      "updatedAt": "2026-07-28T14:00:42+00:00",
       "stories": [
         {
           "title": "In Defence of Canada briefing: Spaceport polling and NORAD’s Arctic resilience",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-28T13:16:29+00:00",
+      "updatedAt": "2026-07-28T14:00:42+00:00",
       "stories": [
         {
           "title": "From Factory Floor to In-Flight: Aerospace is Canada’s Strategic Advantage",
@@ -271,8 +271,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-28T13:16:29+00:00",
+      "updatedAt": "2026-07-28T14:00:42+00:00",
       "stories": [
+        {
+          "title": "Time to decide: A critical moment in Japan-US missile defense cooperation",
+          "url": "https://breakingdefense.com/2026/07/time-to-decide-a-critical-moment-in-japan-us-missile-defense-cooperation",
+          "publishedAt": "2026-07-28T13:30:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Leonardo UK CEO sees potential CCA role, but wary of funding",
           "url": "https://breakingdefense.com/2026/07/leonardo-uk-ceo-sees-potential-cca-role-but-wary-of-funding",
@@ -301,12 +307,6 @@
           "title": "Army picks GM Defense, Ford and BC Customs to build nine ISV-Heavy prototypes",
           "url": "https://breakingdefense.com/2026/07/army-picks-gm-defense-ford-and-bc-customs-to-build-nine-isv-heavy-prototypes",
           "publishedAt": "2026-07-27T19:32:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Coast Guard searching for tech to defeat unmanned underwater vehicles",
-          "url": "https://breakingdefense.com/2026/07/coast-guard-searching-for-tech-to-defeat-unmanned-underwater-vehicles",
-          "publishedAt": "2026-07-27T19:12:33+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -368,13 +368,25 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-28T13:16:29+00:00",
+      "updatedAt": "2026-07-28T14:00:42+00:00",
       "stories": [
         {
           "title": "Moonshot lets history's largest open model loose",
           "url": "https://www.therundown.ai/p/moonshot-lets-history-largest-open-model-loose",
           "publishedAt": "2026-07-28T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic on open weights 🔓, Kimi releases K3 weights 🤖, MAI Cyber model 🔐",
+          "url": "https://tldr.tech/ai/2026-07-28",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+          "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon",
+          "publishedAt": "2026-07-28T13:19:17+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
@@ -386,12 +398,6 @@
           "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
           "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai",
           "publishedAt": "2026-07-28T00:13:33+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-          "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive",
-          "publishedAt": "2026-07-27T21:17:11+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -453,20 +459,20 @@
           "url": "https://tldr.tech/ai/2026-07-21",
           "publishedAt": "2026-07-21T00:00:00+00:00",
           "source": "TLDR AI"
-        },
-        {
-          "title": "Qwen 3.8 ✨, Kimi Code CLI 👨‍💻, Netflix’s LLM stack 🤖",
-          "url": "https://tldr.tech/ai/2026-07-20",
-          "publishedAt": "2026-07-20T00:00:00+00:00",
-          "source": "TLDR AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-28T13:16:29+00:00",
+      "updatedAt": "2026-07-28T14:00:42+00:00",
       "stories": [
+        {
+          "title": "How Integrated Actuators Improve Humanoid Robot Joint Performance and System Integration",
+          "url": "https://www.therobotreport.com/how-integrated-actuators-improve-humanoid-robot-joint-performance-and-system-integration",
+          "publishedAt": "2026-07-28T13:25:37+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "NORD expands compact NORDAC VFD family to 200 hp",
           "url": "https://www.therobotreport.com/nord-expands-nordac-compact-vfd-family-to-200-hp",
@@ -543,12 +549,6 @@
           "title": "Uber co-founder raises $1.7B for new robotics startup ATOMS",
           "url": "https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms",
           "publishedAt": "2026-07-23T18:53:11+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "AMD unveils Kria module for real-time control, unified memory for robots",
-          "url": "https://www.therobotreport.com/amd-unveils-kria-module-real-time-control-unified-memory-robots",
-          "publishedAt": "2026-07-23T18:30:56+00:00",
           "source": "The Robot Report"
         },
         {
