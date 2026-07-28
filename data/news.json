@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-28T17:06:34+00:00",
+  "generatedAt": "2026-07-28T17:27:36+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-28T17:06:34+00:00",
+      "updatedAt": "2026-07-28T17:27:36+00:00",
       "stories": [
         {
           "title": "NASA selects successor to CAPSTONE lunar mission",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-28T17:06:34+00:00",
+      "updatedAt": "2026-07-28T17:27:36+00:00",
       "stories": [
         {
           "title": "Canadian satellites to support fight against illegal fishing in Mexico",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-28T17:06:34+00:00",
+      "updatedAt": "2026-07-28T17:27:36+00:00",
       "stories": [
         {
           "title": "320 New Jobs, One Combat System: Lockheed’s Nova Scotia Play",
@@ -271,8 +271,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-28T17:06:34+00:00",
+      "updatedAt": "2026-07-28T17:27:36+00:00",
       "stories": [
+        {
+          "title": "Commerce aims to speed advocacy timelines for foreign weapon sales",
+          "url": "https://breakingdefense.com/2026/07/commerce-aims-to-speed-advocacy-timelines-for-foreign-weapon-sales",
+          "publishedAt": "2026-07-28T17:13:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Air Force eyes ‘maybe’ pulling B-52s from retirement",
           "url": "https://breakingdefense.com/2026/07/air-force-eyes-maybe-pulling-b-52s-from-retirement",
@@ -308,12 +314,6 @@
           "url": "https://www.defensenews.com/global/europe/2026/07/28/finland-closes-airspace-restricts-maritime-traffic-near-russia-over-drone-risk",
           "publishedAt": "2026-07-28T14:09:34+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "Leonardo UK CEO sees potential CCA role, but wary of funding",
-          "url": "https://breakingdefense.com/2026/07/leonardo-uk-ceo-sees-potential-cca-role-but-wary-of-funding",
-          "publishedAt": "2026-07-28T12:32:09+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Marine commandos aim to automate armories with computer vision, other tech",
@@ -368,7 +368,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-28T17:06:34+00:00",
+      "updatedAt": "2026-07-28T17:27:36+00:00",
       "stories": [
         {
           "title": "Moonshot lets history's largest open model loose",
@@ -389,13 +389,43 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Anthropic on open weights 🔓, Kimi releases K3 weights 🤖, MAI Cyber model 🔐",
-          "url": "https://tldr.tech/ai/2026-07-28",
+          "title": "Anthropic Rejected Blanket Bans on Open-Weight Models (2 minute read)",
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
           "publishedAt": "2026-07-28T00:00:00+00:00",
           "source": "TLDR AI"
         },
         {
-          "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
+          "title": "Releasing the model weights and technical report of Kimi K3 (2 minute read)",
+          "url": "https://threadreaderapp.com/thread/2081760186235289764.html",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Microsoft Introduced a Cybersecurity Model (6 minute read)",
+          "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "OpenAI's Report on How AI is Expanding (6 minute read)",
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Gemini Distillation Service (17 minute read)",
+          "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/distillation",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How we built and benchmarked VR-1, our frontier cyber reasoning model (6 minute read)",
+          "url": "https://www.cogent.com/blog/how-we-built-and-benchmarked-vr-1-our-frontier-cyber-reasoning-model",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
           "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon",
           "publishedAt": "2026-07-28T13:19:17+00:00",
           "source": "TechCrunch AI"
@@ -407,22 +437,10 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Claude Opus 5 🧠, inside OpenAI’s hack 👨‍💻, NVIDIA open weights 🔓",
-          "url": "https://tldr.tech/ai/2026-07-27",
-          "publishedAt": "2026-07-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Black Forest Labs teaches video AI to run robots",
           "url": "https://www.therundown.ai/p/black-forest-labs-teaches-video-ai-to-run-robots",
           "publishedAt": "2026-07-24T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "ChatGPT Health 🩺, Fugu-Ultra 1.1 🐡, Runway Media Router 🎬",
-          "url": "https://tldr.tech/ai/2026-07-24",
-          "publishedAt": "2026-07-24T00:00:00+00:00",
-          "source": "TLDR AI"
         },
         {
           "title": "OpenAI’s cyber test escapes the lab",
@@ -431,41 +449,23 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Cursor Router 🔀, OpenAI Presence 🤖, AMD + Anthropic deal 🤝🏻",
-          "url": "https://tldr.tech/ai/2026-07-23",
-          "publishedAt": "2026-07-23T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Google’s Gemini lineup has a Pro-sized hole",
           "url": "https://www.therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole",
           "publishedAt": "2026-07-22T09:00:00+00:00",
           "source": "The Rundown AI"
         },
         {
-          "title": "Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️",
-          "url": "https://tldr.tech/ai/2026-07-22",
-          "publishedAt": "2026-07-22T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Claude disproves an 87-year-old math problem",
           "url": "https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
           "publishedAt": "2026-07-21T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Ramp Router ⚡, Kimi Work 💼 , AMD Helios 🧱",
-          "url": "https://tldr.tech/ai/2026-07-21",
-          "publishedAt": "2026-07-21T00:00:00+00:00",
-          "source": "TLDR AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-28T17:06:34+00:00",
+      "updatedAt": "2026-07-28T17:27:36+00:00",
       "stories": [
         {
           "title": "Agency Tool Company wants to make OTA software updates easier",
@@ -474,7 +474,7 @@
           "source": "The Robot Report"
         },
         {
-          "title": "How Integrated Actuators Improve Humanoid Robot Joint Performance and System Integration",
+          "title": "How integrated actuators improve humanoid robot joint performance and systemintegration",
           "url": "https://www.therobotreport.com/how-integrated-actuators-improve-humanoid-robot-joint-performance-and-system-integration",
           "publishedAt": "2026-07-28T13:25:37+00:00",
           "source": "The Robot Report"
