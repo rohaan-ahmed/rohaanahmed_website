@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-28T09:00:30+00:00",
+  "generatedAt": "2026-07-28T09:28:50+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-28T09:00:30+00:00",
+      "updatedAt": "2026-07-28T09:28:50+00:00",
       "stories": [
         {
           "title": "Vertical liftoff as Ariane 6 takes flight for the first time",
@@ -17,6 +17,12 @@
           "url": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry",
           "publishedAt": "2026-07-27T20:11:07+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "The unique DJI Lito X1 drone is packed full of functionality and you can't buy it in the USA",
+          "url": "https://www.space.com/technology/dji-lito-x1-drone-review",
+          "publishedAt": "2026-07-28T09:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Sphinx Defense wins $287 million contract for strategic satellite communications software",
@@ -67,12 +73,6 @@
           "source": "Space.com"
         },
         {
-          "title": "25 years on, 2001's 'Planet of the Apes' has become a bit of a guilty pleasure",
-          "url": "https://www.space.com/entertainment/space-movies-shows/25-years-on-2001s-planet-of-the-apes-has-become-a-bit-of-a-guilty-pleasure",
-          "publishedAt": "2026-07-27T18:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "NASA Astronaut Chris Williams to Discuss Space Station Mission",
           "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission",
           "publishedAt": "2026-07-27T18:49:20+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-28T09:00:30+00:00",
+      "updatedAt": "2026-07-28T09:28:50+00:00",
       "stories": [
         {
           "title": "In Defence of Canada briefing: Spaceport polling and NORAD’s Arctic resilience",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-28T09:00:30+00:00",
+      "updatedAt": "2026-07-28T09:28:50+00:00",
       "stories": [
         {
           "title": "From Factory Floor to In-Flight: Aerospace is Canada’s Strategic Advantage",
@@ -271,7 +271,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-28T09:00:30+00:00",
+      "updatedAt": "2026-07-28T09:28:50+00:00",
       "stories": [
         {
           "title": "French wildfires threaten nuclear deterrence industry, Rafale assembly",
@@ -368,8 +368,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-28T09:00:30+00:00",
+      "updatedAt": "2026-07-28T09:28:50+00:00",
       "stories": [
+        {
+          "title": "Moonshot lets history's largest open model loose",
+          "url": "https://www.therundown.ai/p/moonshot-lets-history-largest-open-model-loose",
+          "publishedAt": "2026-07-28T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
           "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing",
@@ -449,12 +455,6 @@
           "source": "TLDR AI"
         },
         {
-          "title": "Anthropic's Fable survives the subscription axe",
-          "url": "https://www.therundown.ai/p/anthropic-fable-survives-the-subscription-axe",
-          "publishedAt": "2026-07-20T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
           "title": "Qwen 3.8 ✨, Kimi Code CLI 👨‍💻, Netflix’s LLM stack 🤖",
           "url": "https://tldr.tech/ai/2026-07-20",
           "publishedAt": "2026-07-20T00:00:00+00:00",
@@ -465,7 +465,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-28T09:00:30+00:00",
+      "updatedAt": "2026-07-28T09:28:50+00:00",
       "stories": [
         {
           "title": "NORD expands compact NORDAC VFD family to 200 hp",
