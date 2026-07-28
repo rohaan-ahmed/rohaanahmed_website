@@ -33,6 +33,20 @@ function Invoke-Git {
     }
 }
 
+function Invoke-FieldNotesBuild {
+    param([string]$ProjectPath)
+
+    Push-Location $ProjectPath
+    try {
+        & python "scripts\build_field_notes.py"
+        if ($LASTEXITCODE -ne 0) {
+            throw "Field Notes build failed in $ProjectPath"
+        }
+    } finally {
+        Pop-Location
+    }
+}
+
 if (-not (Test-Path -LiteralPath $sourceDirectory -PathType Container)) {
     throw "Field Notes source folder was not found: $sourceDirectory"
 }
@@ -48,6 +62,7 @@ if (Test-GitRepository $projectRoot) {
     throw "No working Git checkout was found."
 }
 
+Invoke-FieldNotesBuild -ProjectPath $projectRoot
 Invoke-Git -Repository $repository -Arguments @("pull", "--rebase")
 
 if ($repository -ne $projectRoot) {
@@ -66,15 +81,17 @@ if ($repository -ne $projectRoot) {
             Remove-Item -LiteralPath $targetFile.FullName
         }
     }
+
+    Invoke-FieldNotesBuild -ProjectPath $repository
 }
 
 Invoke-Git -Repository $repository -Arguments @(
-    "add", "-A", "--", "content/field-notes-src"
+    "add", "-A", "--", "content/field-notes-src", "data/field-notes.json", "field-notes"
 )
 
 & git -C $repository diff --cached --quiet
 if ($LASTEXITCODE -eq 0) {
-    Write-Host "Field Notes are already in sync."
+    Write-Host "Field Notes are already in sync, and local pages are up to date."
     exit 0
 }
 
