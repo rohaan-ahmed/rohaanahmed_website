@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T11:00:29+00:00",
+  "generatedAt": "2026-07-29T11:50:56+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-29T11:00:29+00:00",
+      "updatedAt": "2026-07-29T11:50:56+00:00",
       "stories": [
         {
           "title": "Boeing still working with NASA to schedule next Starliner flight",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-29T11:00:29+00:00",
+      "updatedAt": "2026-07-29T11:50:56+00:00",
       "stories": [
         {
           "title": "Canadian satellites to support fight against illegal fishing in Mexico",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-29T11:00:29+00:00",
+      "updatedAt": "2026-07-29T11:50:56+00:00",
       "stories": [
         {
           "title": "Minister McGuinty brings together industry and investment leaders to accelerate Canada’s Defence Industrial Strategy",
@@ -271,7 +271,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-29T11:00:29+00:00",
+      "updatedAt": "2026-07-29T11:50:56+00:00",
       "stories": [
         {
           "title": "Trump, Zelenskyy discuss Patriot deal and reviving talks with Russia",
@@ -368,13 +368,19 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-29T11:00:29+00:00",
+      "updatedAt": "2026-07-29T11:50:56+00:00",
       "stories": [
         {
           "title": "1,000+ frontier staffers ask for an AI brake pedal",
           "url": "https://www.therundown.ai/p/1000-frontier-staffers-ask-for-an-ai-brake-pedal",
           "publishedAt": "2026-07-29T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+          "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it",
+          "publishedAt": "2026-07-29T11:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
@@ -419,12 +425,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
-          "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon",
-          "publishedAt": "2026-07-28T13:19:17+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Anthropic's Opus 5 surprise",
           "url": "https://www.therundown.ai/p/anthropic-opus-5-surprise",
           "publishedAt": "2026-07-27T09:00:00+00:00",
@@ -465,7 +465,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-29T11:00:29+00:00",
+      "updatedAt": "2026-07-29T11:50:56+00:00",
       "stories": [
         {
           "title": "Registration is open for RoboBusiness 2026",
@@ -671,6 +671,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-03"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-20"
   ]
 }
