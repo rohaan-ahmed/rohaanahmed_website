@@ -25,6 +25,7 @@ OUTPUT_PATH = ROOT / "data" / "news.json"
 RSS_OUTPUT_PATH = ROOT / "news.xml"
 MAX_STORIES = 15
 BULLETIN_STORIES = 10
+AI_BULLETIN_STORIES = 2
 MAX_STORY_AGE_DAYS = 10
 SOURCE_PRIORITY_BONUS_HOURS = 18
 DISPLAY_TOPIC_ORDER = [
@@ -429,22 +430,32 @@ def build_bulletin(output_topics: list[dict], config: dict, generated_at: str) -
     for topic in ordered_topics:
         if not topic["stories"]:
             continue
-        story = topic["stories"][0]
-        key = story_key(topic["id"], story)
-        selected_keys.add(key)
-        selected.append(
-            {
-                **story,
-                "topicId": topic["id"],
-                "topicName": topic["name"],
-                "bulletinRole": "lead",
-            }
+        lead_count = (
+            AI_BULLETIN_STORIES
+            if topic["id"] == "artificial-intelligence"
+            else 1
         )
+        for story in topic["stories"][:lead_count]:
+            key = story_key(topic["id"], story)
+            selected_keys.add(key)
+            selected.append(
+                {
+                    **story,
+                    "topicId": topic["id"],
+                    "topicName": topic["name"],
+                    "bulletinRole": "lead",
+                }
+            )
 
     remaining = []
     for topic in ordered_topics:
         weights = source_weights_by_topic.get(topic["id"], {})
-        for story in topic["stories"][1:]:
+        lead_count = (
+            AI_BULLETIN_STORIES
+            if topic["id"] == "artificial-intelligence"
+            else 1
+        )
+        for story in topic["stories"][lead_count:]:
             key = story_key(topic["id"], story)
             if key in selected_keys:
                 continue
