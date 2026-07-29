@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-07-29T20:33:55+00:00",
+  "generatedAt": "2026-07-29T21:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-29T20:33:55+00:00",
+      "updatedAt": "2026-07-29T21:00:27+00:00",
       "stories": [
+        {
+          "title": "SpaceX wins $1.6 billion in launch orders for military satellite networks",
+          "url": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks",
+          "publishedAt": "2026-07-29T20:43:51+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
           "url": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg",
@@ -73,12 +79,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
-          "url": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush",
-          "publishedAt": "2026-07-29T01:18:28+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "How Sentinel-1 measured movement of Venezuela quakes",
           "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/How_Sentinel-1_measured_movement_of_Venezuela_quakes",
           "publishedAt": "2026-07-28T12:04:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-29T20:33:55+00:00",
+      "updatedAt": "2026-07-29T21:00:27+00:00",
       "stories": [
         {
           "title": "ISED opens consultation for streamlined spectrum licensing for space launches and in-orbit servicing",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-29T20:33:55+00:00",
+      "updatedAt": "2026-07-29T21:00:27+00:00",
       "stories": [
         {
           "title": "Saab Poaches Thales Executive to Lead Its Canadian Business",
@@ -277,8 +277,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-29T20:33:55+00:00",
+      "updatedAt": "2026-07-29T21:00:27+00:00",
       "stories": [
+        {
+          "title": "SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats",
+          "url": "https://breakingdefense.com/2026/07/spacex-wins-1-6b-to-launch-space-force-sensing-and-targeting-sats",
+          "publishedAt": "2026-07-29T20:55:27+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Pentagon puts out call for robot boats that launch attack drones",
           "url": "https://www.defensenews.com/industry/techwatch/2026/07/29/pentagon-puts-out-call-for-robot-boats-that-launch-attack-drones",
@@ -328,12 +334,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Protecting America’s troops on the digital battlefield: Rep. Jackson",
-          "url": "https://breakingdefense.com/2026/07/protecting-americas-troops-on-the-digital-battlefield-rep-jackson",
-          "publishedAt": "2026-07-29T15:00:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Navy using LETHALITY Consortium to advance network consolidation initiative",
           "url": "https://defensescoop.com/2026/07/29/navy-network-consolidation-initiative-nswc-corona",
           "publishedAt": "2026-07-29T16:31:12+00:00",
@@ -374,7 +374,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-29T20:33:55+00:00",
+      "updatedAt": "2026-07-29T21:00:27+00:00",
       "stories": [
         {
           "title": "1,000+ frontier staffers ask U.S. for an AI brake pedal",
@@ -407,22 +407,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-          "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls",
-          "publishedAt": "2026-07-29T14:41:06+00:00",
-          "source": "TechCrunch AI"
+          "title": "Introducing Build Mode (2 minute read)",
+          "url": "https://x.ai/news/grok-build-mode",
+          "publishedAt": "2026-07-29T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-          "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it",
-          "publishedAt": "2026-07-29T11:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "OpenAI's agents hacked second account during model testing (4 minute read)",
+          "url": "https://www.axios.com/2026/07/28/openai-hugging-face-modal-labs-hack",
+          "publishedAt": "2026-07-29T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-          "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents",
-          "publishedAt": "2026-07-29T00:09:05+00:00",
-          "source": "TechCrunch AI"
+          "title": "Kimi K3 Architecture Notes (4 minute read)",
+          "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+          "publishedAt": "2026-07-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Inference Engine Guide for K3 Deployment (10 minute read)",
+          "url": "https://x.com/vllm_project/status/2081788542079123939",
+          "publishedAt": "2026-07-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident (45 minute read)",
+          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+          "publishedAt": "2026-07-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Managed Gemini Agents Gain More Controls (3 minute read)",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
+          "publishedAt": "2026-07-29T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Moonshot publishes weights for powerful Kimi K3",
@@ -447,31 +465,13 @@
           "url": "https://www.outreach.ai/resources/webinars-videos/precision-revenue-growth",
           "publishedAt": "2026-07-28T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Microsoft’s powerful new cybersecurity model",
-          "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash",
-          "publishedAt": "2026-07-28T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic punches up with Claude Opus 5",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "publishedAt": "2026-07-27T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Frontier AI without the frontier bill",
-          "url": "http://auth.multiverseapp.ai/sign-up?redirect_url=https%3A%2F%2Fdashboard.compactif.ai%2F",
-          "publishedAt": "2026-07-27T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-29T20:33:55+00:00",
+      "updatedAt": "2026-07-29T21:00:27+00:00",
       "stories": [
         {
           "title": "Experts react to FCC limits on U.S. imports of new humanoid and mobile robots",
@@ -676,7 +676,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-03"
-  ]
+  "warnings": []
 }
