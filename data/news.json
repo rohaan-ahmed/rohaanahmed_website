@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T04:00:25+00:00",
+  "generatedAt": "2026-07-29T04:23:40+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-29T04:00:25+00:00",
+      "updatedAt": "2026-07-29T04:23:40+00:00",
       "stories": [
         {
           "title": "Boeing still working with NASA to schedule next Starliner flight",
@@ -29,6 +29,12 @@
           "url": "https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module",
           "publishedAt": "2026-07-28T20:38:20+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Sizing Up the Sargassum Belt",
+          "url": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt",
+          "publishedAt": "2026-07-29T04:00:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "NASA selects successor to CAPSTONE lunar mission",
@@ -89,19 +95,13 @@
           "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Raging_wildfires_near_Madrid_Spain",
           "publishedAt": "2026-07-27T14:55:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "NASA Science Soars During August Total Solar Eclipse",
-          "url": "https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse",
-          "publishedAt": "2026-07-27T18:01:14+00:00",
-          "source": "NASA"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-29T04:00:25+00:00",
+      "updatedAt": "2026-07-29T04:23:40+00:00",
       "stories": [
         {
           "title": "Canadian satellites to support fight against illegal fishing in Mexico",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-29T04:00:25+00:00",
+      "updatedAt": "2026-07-29T04:23:40+00:00",
       "stories": [
         {
           "title": "Minister McGuinty brings together industry and investment leaders to accelerate Canada’s Defence Industrial Strategy",
@@ -271,7 +271,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-29T04:00:25+00:00",
+      "updatedAt": "2026-07-29T04:23:40+00:00",
       "stories": [
         {
           "title": "Marine Corps accepts last Osprey aircraft",
@@ -368,7 +368,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-29T04:00:25+00:00",
+      "updatedAt": "2026-07-29T04:23:40+00:00",
       "stories": [
         {
           "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
@@ -465,7 +465,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-29T04:00:25+00:00",
+      "updatedAt": "2026-07-29T04:23:40+00:00",
       "stories": [
         {
           "title": "Registration is open for RoboBusiness 2026",
@@ -671,6 +671,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-14"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-16"
   ]
 }
