@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T10:00:29+00:00",
+  "generatedAt": "2026-07-29T11:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-29T10:00:29+00:00",
+      "updatedAt": "2026-07-29T11:00:29+00:00",
       "stories": [
         {
           "title": "Boeing still working with NASA to schedule next Starliner flight",
@@ -23,6 +23,12 @@
           "url": "https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems",
           "publishedAt": "2026-07-28T23:04:29+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "July's full Buck Moon leads a mini planet parade through the summer sky tonight",
+          "url": "https://www.space.com/stargazing/full-buck-moon-leads-a-mini-planet-parade-through-the-summer-sky-july-29-2026",
+          "publishedAt": "2026-07-29T10:27:39+00:00",
+          "source": "Space.com"
         },
         {
           "title": "ESA opens call to repurpose Gateway communications module",
@@ -52,12 +58,6 @@
           "title": "NASA fuels its next-gen Roman Space Telescope for August launch",
           "url": "https://www.space.com/astronomy/nasa-fuels-its-next-gen-roman-space-telescope-for-august-launch",
           "publishedAt": "2026-07-28T21:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Our Milky Way galaxy appears to have flipped 90 degrees long ago. But why?",
-          "url": "https://www.space.com/astronomy/galaxies/our-milky-way-galaxy-appears-to-have-flipped-90-degrees-long-ago-but-why",
-          "publishedAt": "2026-07-28T19:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-29T10:00:29+00:00",
+      "updatedAt": "2026-07-29T11:00:29+00:00",
       "stories": [
         {
           "title": "Canadian satellites to support fight against illegal fishing in Mexico",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-29T10:00:29+00:00",
+      "updatedAt": "2026-07-29T11:00:29+00:00",
       "stories": [
         {
           "title": "Minister McGuinty brings together industry and investment leaders to accelerate Canada’s Defence Industrial Strategy",
@@ -271,8 +271,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-29T10:00:29+00:00",
+      "updatedAt": "2026-07-29T11:00:29+00:00",
       "stories": [
+        {
+          "title": "Trump, Zelenskyy discuss Patriot deal and reviving talks with Russia",
+          "url": "https://www.defensenews.com/global/europe/2026/07/29/trump-zelenskyy-discuss-patriot-deal-and-reviving-talks-with-russia",
+          "publishedAt": "2026-07-29T10:36:26+00:00",
+          "source": "Defense News"
+        },
+        {
+          "title": "AV and Applied Intuition team up to bring collaborative autonomy to new Mayhem 10 drone",
+          "url": "https://defensescoop.com/2026/07/29/av-applied-intuition-collaborative-autonomy-mayhem-10-drone",
+          "publishedAt": "2026-07-29T10:30:00+00:00",
+          "source": "DefenseScoop"
+        },
         {
           "title": "Marine Corps accepts last Osprey aircraft",
           "url": "https://breakingdefense.com/2026/07/marine-corps-accepts-last-osprey-aircraft",
@@ -328,7 +340,7 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "US Central Command, UAE to launch artifical intelligence task force",
+          "title": "US Central Command, UAE to launch artificial intelligence task force",
           "url": "https://www.defensenews.com/industry/techwatch/2026/07/28/us-central-command-uae-to-launch-artifical-intelligence-task-force",
           "publishedAt": "2026-07-28T15:42:02+00:00",
           "source": "Defense News"
@@ -350,25 +362,13 @@
           "url": "https://defensescoop.com/2026/07/28/marine-forces-special-operations-command-automated-armory-marsoc",
           "publishedAt": "2026-07-28T16:04:33+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "French wildfires threaten nuclear deterrence industry, Rafale assembly",
-          "url": "https://www.defensenews.com/global/europe/2026/07/28/french-wildfires-threaten-nuclear-deterrence-industry-rafale-assembly",
-          "publishedAt": "2026-07-28T08:15:55+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "Redacted watchdog report spotlights Navy staffing strains impacting undersea surveillance",
-          "url": "https://defensescoop.com/2026/07/27/ig-report-spotlights-navy-staffing-strains-impacting-undersea-surveillance",
-          "publishedAt": "2026-07-27T21:22:04+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-29T10:00:29+00:00",
+      "updatedAt": "2026-07-29T11:00:29+00:00",
       "stories": [
         {
           "title": "1,000+ frontier staffers ask for an AI brake pedal",
@@ -465,7 +465,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-29T10:00:29+00:00",
+      "updatedAt": "2026-07-29T11:00:29+00:00",
       "stories": [
         {
           "title": "Registration is open for RoboBusiness 2026",
@@ -671,6 +671,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-13"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-03"
   ]
 }
