@@ -48,7 +48,7 @@ def iso_now() -> str:
 
 
 def canonical_url(url: str) -> str:
-    parts = urlsplit(url.strip())
+    parts = urlsplit(html.unescape(url.strip()))
     query = [
         (key, value)
         for key, value in parse_qsl(parts.query, keep_blank_values=True)
@@ -118,6 +118,25 @@ TLDR_ALLOWED_SECTIONS = {
     "Deep Dives & Analysis",
     "Engineering & Research",
 }
+RUNDOWN_SECTION_PATTERN = re.compile(
+    r"<div class=\"section\"[^>]*>(.*?)</div>", re.DOTALL
+)
+RUNDOWN_H6_PATTERN = re.compile(r"<h6[^>]*>(.*?)</h6>", re.DOTALL)
+RUNDOWN_H4_LINK_PATTERN = re.compile(
+    r"<h4[^>]*>.*?<a[^>]*href=\"([^\"]+)\"[^>]*>.*?<span[^>]*>?(.*?)</span>.*?</a>.*?</h4>",
+    re.DOTALL,
+)
+RUNDOWN_H4_LINK_FALLBACK_PATTERN = re.compile(
+    r"<h4[^>]*>.*?<a[^>]*href=\"([^\"]+)\"[^>]*>(.*?)</a>.*?</h4>",
+    re.DOTALL,
+)
+RUNDOWN_SKIPPED_SECTION_LABELS = {
+    "TOGETHER WITH SLACK FROM SALESFORCE",
+    "PRESENTED BY CONDUCTOR",
+    "AI TRAINING",
+    "PRESENTED BY PENN STATE SMEAL COLLEGE OF BUSINESS",
+    "COMMUNITY",
+}
 
 
 def clean_html_text(value: str) -> str:
@@ -157,6 +176,60 @@ def fetch_tldr_ai_stories(source: dict, entry: dict, published: datetime) -> lis
     return stories
 
 
+def is_external_news_url(url: str) -> bool:
+    normalized = canonical_url(url)
+    host = urlsplit(normalized).netloc
+    return (
+        host != ""
+        and "therundown.ai" not in host
+        and "rundown.ai" not in host
+        and host not in {"x.com", "www.x.com", "twitter.com", "www.twitter.com"}
+        and not normalized.startswith("mailto:")
+    )
+
+
+def fetch_rundown_ai_stories(source: dict, entry: dict, published: datetime) -> list[dict]:
+    content_blocks = entry.get("content", [])
+    if not content_blocks:
+        return []
+
+    page = "\n".join(block.get("value", "") for block in content_blocks if block.get("value"))
+    stories = []
+
+    for section_html in RUNDOWN_SECTION_PATTERN.findall(page):
+        header_match = RUNDOWN_H6_PATTERN.search(section_html)
+        section_label = clean_html_text(header_match.group(1)) if header_match else ""
+        if section_label in RUNDOWN_SKIPPED_SECTION_LABELS:
+            continue
+
+        article_match = (
+            RUNDOWN_H4_LINK_PATTERN.search(section_html)
+            or RUNDOWN_H4_LINK_FALLBACK_PATTERN.search(section_html)
+        )
+        if article_match:
+            url = article_match.group(1)
+            title = clean_html_text(article_match.group(2))
+            if (
+                title
+                and len(title_tokens(title)) >= 3
+                and is_external_news_url(url)
+            ):
+                stories.append(
+                    {
+                        "title": title,
+                        "url": canonical_url(url),
+                        "publishedAt": published.replace(microsecond=0).isoformat(),
+                        "source": source["name"],
+                    }
+                )
+
+    unique = []
+    for story in stories:
+        if not duplicate_story(story, unique):
+            unique.append(story)
+    return unique
+
+
 def fetch_source(source: dict) -> list[dict]:
     response = requests.get(source["feed"], headers=REQUEST_HEADERS, timeout=25)
     response.raise_for_status()
@@ -180,6 +253,12 @@ def fetch_source(source: dict) -> list[dict]:
 
         if source["name"] == "TLDR AI":
             extracted = fetch_tldr_ai_stories(source, entry, published)
+            if extracted:
+                stories.extend(extracted)
+                continue
+
+        if source["name"] == "The Rundown AI":
+            extracted = fetch_rundown_ai_stories(source, entry, published)
             if extracted:
                 stories.extend(extracted)
                 continue
