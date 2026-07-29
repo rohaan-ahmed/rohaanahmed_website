@@ -24,8 +24,17 @@ CONFIG_PATH = ROOT / "news-sources.json"
 OUTPUT_PATH = ROOT / "data" / "news.json"
 RSS_OUTPUT_PATH = ROOT / "news.xml"
 MAX_STORIES = 15
+BULLETIN_STORIES = 10
 MAX_STORY_AGE_DAYS = 10
 SOURCE_PRIORITY_BONUS_HOURS = 18
+DISPLAY_TOPIC_ORDER = [
+    "artificial-intelligence",
+    "canadian-space",
+    "international-space",
+    "canadian-defence",
+    "international-defence-technology",
+    "robotics",
+]
 TRACKING_PARAMETERS = {"fbclid", "gclid", "mc_cid", "mc_eid", "ref", "source"}
 STOP_WORDS = {
     "a", "an", "and", "as", "at", "by", "for", "from", "in", "is", "of",
@@ -395,6 +404,75 @@ def select_stories(
     )
 
 
+def story_key(topic_id: str, story: dict) -> str:
+    return hashlib.sha256(
+        f"{topic_id}:{canonical_url(story['url'])}".encode("utf-8")
+    ).hexdigest()
+
+
+def build_bulletin(output_topics: list[dict], config: dict, generated_at: str) -> dict:
+    topic_order = {topic_id: index for index, topic_id in enumerate(DISPLAY_TOPIC_ORDER)}
+    ordered_topics = sorted(
+        output_topics,
+        key=lambda topic: topic_order.get(topic["id"], len(topic_order)),
+    )
+    source_weights_by_topic = {
+        topic["id"]: {
+            source["name"]: source.get("weight", 1.0)
+            for source in topic["sources"]
+        }
+        for topic in config["topics"]
+    }
+    selected = []
+    selected_keys = set()
+
+    for topic in ordered_topics:
+        if not topic["stories"]:
+            continue
+        story = topic["stories"][0]
+        key = story_key(topic["id"], story)
+        selected_keys.add(key)
+        selected.append(
+            {
+                **story,
+                "topicId": topic["id"],
+                "topicName": topic["name"],
+                "bulletinRole": "lead",
+            }
+        )
+
+    remaining = []
+    for topic in ordered_topics:
+        weights = source_weights_by_topic.get(topic["id"], {})
+        for story in topic["stories"][1:]:
+            key = story_key(topic["id"], story)
+            if key in selected_keys:
+                continue
+            remaining.append(
+                (
+                    story_priority_score(story, weights),
+                    {
+                        **story,
+                        "topicId": topic["id"],
+                        "topicName": topic["name"],
+                        "bulletinRole": "noteworthy",
+                    },
+                )
+            )
+
+    remaining.sort(key=lambda item: item[0], reverse=True)
+    for _, story in remaining:
+        if len(selected) >= BULLETIN_STORIES:
+            break
+        selected_keys.add(story_key(story["topicId"], story))
+        selected.append(story)
+
+    return {
+        "updatedAt": generated_at,
+        "stories": selected[:BULLETIN_STORIES],
+    }
+
+
 def write_rss(output: dict, config: dict) -> None:
     ElementTree.register_namespace("atom", ATOM_NAMESPACE)
     ElementTree.register_namespace("ra", TOPIC_NAMESPACE)
@@ -423,6 +501,10 @@ def write_rss(output: dict, config: dict) -> None:
     )
 
     topic_lookup = {topic["id"]: topic for topic in output["topics"]}
+    bulletin_lookup = {
+        story_key(story["topicId"], story): index
+        for index, story in enumerate(output.get("bulletin", {}).get("stories", []), start=1)
+    }
 
     source_sites = {
         source["name"]: source["site"]
@@ -486,6 +568,9 @@ def write_rss(output: dict, config: dict) -> None:
                 published
             )
             ElementTree.SubElement(item, "category").text = topic["name"]
+            bulletin_position = bulletin_lookup.get(story_key(topic["id"], story))
+            if bulletin_position:
+                ElementTree.SubElement(item, "category").text = "Bulletin"
             source = ElementTree.SubElement(
                 item,
                 "source",
@@ -510,6 +595,10 @@ def write_rss(output: dict, config: dict) -> None:
             ElementTree.SubElement(
                 item, f"{{{TOPIC_NAMESPACE}}}storyPosition"
             ).text = str(story_index)
+            if bulletin_position:
+                ElementTree.SubElement(
+                    item, f"{{{TOPIC_NAMESPACE}}}bulletinPosition"
+                ).text = str(bulletin_position)
             ElementTree.SubElement(
                 item, f"{{{TOPIC_NAMESPACE}}}publishedAt"
             ).text = story["publishedAt"]
@@ -597,6 +686,7 @@ def main() -> int:
     output = {
         "generatedAt": generated_at,
         "topics": output_topics,
+        "bulletin": build_bulletin(output_topics, config, generated_at),
         "sources": [
             {
                 "topic": topic["name"],

@@ -94,6 +94,7 @@
 
     async function renderNews() {
         const grid = document.getElementById('news-grid');
+        const bulletin = document.getElementById('news-bulletin');
         const sourcesList = document.getElementById('sources-list');
         const overallUpdated = document.getElementById('news-overall-updated');
         const topicJumpLinks = document.getElementById('topic-jump-links');
@@ -112,6 +113,32 @@
                         ${escapeHTML(topic.name)}
                     </a>
                 `).join('');
+            }
+
+            if (bulletin) {
+                const bulletinStories = data.bulletin?.stories || [];
+                const leadStories = bulletinStories.filter(story => story.bulletinRole === 'lead');
+                const noteworthyStories = bulletinStories.filter(story => story.bulletinRole !== 'lead');
+                const renderBulletinList = stories => stories.map(story => `
+                    <li class="topic-${escapeAttribute(story.topicId)}">
+                        <span class="bulletin-topic">${escapeHTML(story.topicName)}</span>
+                        <a href="${escapeAttribute(story.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(story.title)}</a>
+                        <span class="story-meta">(${escapeHTML(formatDate(story.publishedAt))}, ${escapeHTML(story.source)})</span>
+                    </li>
+                `).join('');
+
+                bulletin.innerHTML = bulletinStories.length
+                    ? `
+                        <div class="bulletin-column">
+                            <h3>Lead Stories</h3>
+                            <ol>${renderBulletinList(leadStories)}</ol>
+                        </div>
+                        <div class="bulletin-column">
+                            <h3>Also Noteworthy</h3>
+                            <ol>${renderBulletinList(noteworthyStories)}</ol>
+                        </div>
+                    `
+                    : '<p class="content-status">No bulletin stories available.</p>';
             }
 
             grid.innerHTML = orderedTopics.map(topic => {
@@ -173,6 +200,7 @@
 
         } catch (error) {
             grid.innerHTML = '<p class="content-status content-error">The news feed is temporarily unavailable.</p>';
+            if (bulletin) bulletin.innerHTML = '';
             sourcesList.innerHTML = '';
             if (topicJumpLinks) topicJumpLinks.innerHTML = '';
             console.error(error);

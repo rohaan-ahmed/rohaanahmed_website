@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T23:00:29+00:00",
+  "generatedAt": "2026-07-29T23:02:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-29T23:00:29+00:00",
+      "updatedAt": "2026-07-29T23:02:27+00:00",
       "stories": [
         {
           "title": "L3Harris delays missile business IPO to 2027 despite surging defense demand",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-29T23:00:29+00:00",
+      "updatedAt": "2026-07-29T23:02:27+00:00",
       "stories": [
         {
           "title": "Amazon Leo seeks approval for 5,105 satellite direct-to-device constellation",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-29T23:00:29+00:00",
+      "updatedAt": "2026-07-29T23:02:27+00:00",
       "stories": [
         {
           "title": "Saab Poaches Thales Executive to Lead Its Canadian Business",
@@ -277,7 +277,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-29T23:00:29+00:00",
+      "updatedAt": "2026-07-29T23:02:27+00:00",
       "stories": [
         {
           "title": "Army adds $54B to Lockheed PAC-3 agreement, totaling $59B",
@@ -374,7 +374,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-29T23:00:29+00:00",
+      "updatedAt": "2026-07-29T23:02:27+00:00",
       "stories": [
         {
           "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
@@ -395,18 +395,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026",
-          "publishedAt": "2026-07-29T21:16:39+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-          "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai",
-          "publishedAt": "2026-07-29T21:07:48+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "1,000+ frontier staffers ask U.S. for an AI brake pedal",
           "url": "https://www.pacingthefrontier.com/",
           "publishedAt": "2026-07-29T09:00:00+00:00",
@@ -419,10 +407,40 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
-          "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor",
-          "publishedAt": "2026-07-29T19:44:49+00:00",
-          "source": "TechCrunch AI"
+          "title": "Introducing Build Mode (2 minute read)",
+          "url": "https://x.ai/news/grok-build-mode",
+          "publishedAt": "2026-07-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "OpenAI's agents hacked second account during model testing (4 minute read)",
+          "url": "https://www.axios.com/2026/07/28/openai-hugging-face-modal-labs-hack",
+          "publishedAt": "2026-07-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Kimi K3 Architecture Notes (4 minute read)",
+          "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+          "publishedAt": "2026-07-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Inference Engine Guide for K3 Deployment (10 minute read)",
+          "url": "https://x.com/vllm_project/status/2081788542079123939",
+          "publishedAt": "2026-07-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident (45 minute read)",
+          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+          "publishedAt": "2026-07-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Managed Gemini Agents Gain More Controls (3 minute read)",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
+          "publishedAt": "2026-07-29T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Moonshot publishes weights for powerful Kimi K3",
@@ -447,31 +465,13 @@
           "url": "https://www.anthropic.com/news/claude-opus-5",
           "publishedAt": "2026-07-27T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "FLUX 3 stretches from videos to factory robots",
-          "url": "https://bfl.ai/blog/flux-3",
-          "publishedAt": "2026-07-24T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "How we're building AI intuition at The Rundown",
-          "url": "https://www.canva.com/design/DAGwcWEsEoE/iXJOfWZO1TPHCzfIKz7gGw/view?mode=preview",
-          "publishedAt": "2026-07-24T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI's models broke out to hack Hugging Face",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "publishedAt": "2026-07-23T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-29T23:00:29+00:00",
+      "updatedAt": "2026-07-29T23:02:27+00:00",
       "stories": [
         {
           "title": "Experts react to FCC limits on U.S. imports of new humanoid and mobile robots",
@@ -566,6 +566,101 @@
       ]
     }
   ],
+  "bulletin": {
+    "updatedAt": "2026-07-29T23:02:27+00:00",
+    "stories": [
+      {
+        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+        "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years",
+        "publishedAt": "2026-07-29T23:00:11+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "lead"
+      },
+      {
+        "title": "Amazon Leo seeks approval for 5,105 satellite direct-to-device constellation",
+        "url": "https://spaceq.ca/amazon-seeks-approval-for-5105-satellite-direct-to-device-constellation",
+        "publishedAt": "2026-07-29T21:39:08+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "lead"
+      },
+      {
+        "title": "L3Harris delays missile business IPO to 2027 despite surging defense demand",
+        "url": "https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand",
+        "publishedAt": "2026-07-29T22:57:06+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "lead"
+      },
+      {
+        "title": "Saab Poaches Thales Executive to Lead Its Canadian Business",
+        "url": "https://vanguardcanada.com/saab-poaches-thales-executive-to-lead-its-canadian-business",
+        "publishedAt": "2026-07-29T15:38:50+00:00",
+        "source": "Vanguard",
+        "topicId": "canadian-defence",
+        "topicName": "Canadian Defence",
+        "bulletinRole": "lead"
+      },
+      {
+        "title": "Army adds $54B to Lockheed PAC-3 agreement, totaling $59B",
+        "url": "https://breakingdefense.com/2026/07/army-adds-54b-to-lockheed-pac-3-agreement-totaling-59b",
+        "publishedAt": "2026-07-29T22:47:38+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "lead"
+      },
+      {
+        "title": "Experts react to FCC limits on U.S. imports of new humanoid and mobile robots",
+        "url": "https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots",
+        "publishedAt": "2026-07-29T14:11:19+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
+        "bulletinRole": "lead"
+      },
+      {
+        "title": "SpaceX wins $1.6 billion in launch orders for military satellite networks",
+        "url": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks",
+        "publishedAt": "2026-07-29T20:43:51+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
+        "url": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg",
+        "publishedAt": "2026-07-29T19:45:17+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "ISED opens consultation for streamlined spectrum licensing for space launches and in-orbit servicing",
+        "url": "https://spaceq.ca/ised-opens-consultation-for-streamlined-spectrum-licensing-for-space-launches-and-in-orbit-servicing",
+        "publishedAt": "2026-07-29T17:16:48+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE",
+        "url": "https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae",
+        "publishedAt": "2026-07-29T14:38:53+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      }
+    ]
+  },
   "sources": [
     {
       "topic": "International Space",
@@ -676,7 +771,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-17"
-  ]
+  "warnings": []
 }

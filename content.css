@@ -260,6 +260,62 @@
     gap: 22px;
 }
 
+.bulletin-section {
+    padding-bottom: 46px;
+}
+
+.bulletin-card {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 26px;
+    border: 1px solid var(--hairline);
+    border-radius: 6px;
+    background: var(--surface);
+    padding: 24px;
+}
+
+.bulletin-column h3 {
+    margin-bottom: 12px;
+    color: var(--text-secondary);
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.bulletin-card ol {
+    display: grid;
+    gap: 12px;
+}
+
+.bulletin-card li {
+    border-left: 3px solid var(--topic-accent, var(--primary));
+    padding-left: 12px;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    line-height: 1.55;
+}
+
+.bulletin-topic {
+    display: block;
+    margin-bottom: 3px;
+    color: var(--text-faint);
+    font-family: var(--font-mono);
+    font-size: 0.66rem;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.bulletin-card a {
+    color: var(--text-primary);
+    font-weight: 600;
+    transition: color var(--transition-fast);
+}
+
+.bulletin-card a:hover {
+    color: var(--primary-text);
+}
+
 .news-card,
 .note-card {
     border: 1px solid var(--hairline);
@@ -650,6 +706,10 @@ body.tactical-theme .content-brand::before {
 
 @media (max-width: 900px) {
     .news-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .bulletin-card {
         grid-template-columns: 1fr;
     }
 
