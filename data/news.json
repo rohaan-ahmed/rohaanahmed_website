@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T21:00:27+00:00",
+  "generatedAt": "2026-07-29T21:31:02+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-29T21:00:27+00:00",
+      "updatedAt": "2026-07-29T21:31:02+00:00",
       "stories": [
         {
           "title": "SpaceX wins $1.6 billion in launch orders for military satellite networks",
@@ -37,6 +37,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "NASA Awards 2026 Innovative Technology Concepts",
+          "url": "https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts",
+          "publishedAt": "2026-07-29T21:04:20+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "Watch this stirring new 'Star Trek' 60th anniversary video saluting the iconic sci-fi franchise",
           "url": "https://www.space.com/entertainment/watch-this-stirring-new-star-trek-60th-anniversary-video-saluting-the-iconic-sci-fi-franchise",
           "publishedAt": "2026-07-29T20:00:00+00:00",
@@ -64,12 +70,6 @@
           "title": "NASA’s Curiosity Views a Sand-Capped Butte",
           "url": "https://science.nasa.gov/photojournal/nasas-curiosity-views-a-sand-capped-butte",
           "publishedAt": "2026-07-29T16:08:12+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA’s Curiosity Discovers a Field of Martian Polygons",
-          "url": "https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons",
-          "publishedAt": "2026-07-29T16:06:39+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-29T21:00:27+00:00",
+      "updatedAt": "2026-07-29T21:31:02+00:00",
       "stories": [
         {
           "title": "ISED opens consultation for streamlined spectrum licensing for space launches and in-orbit servicing",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-29T21:00:27+00:00",
+      "updatedAt": "2026-07-29T21:31:02+00:00",
       "stories": [
         {
           "title": "Saab Poaches Thales Executive to Lead Its Canadian Business",
@@ -277,7 +277,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-29T21:00:27+00:00",
+      "updatedAt": "2026-07-29T21:31:02+00:00",
       "stories": [
         {
           "title": "SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats",
@@ -374,8 +374,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-29T21:00:27+00:00",
+      "updatedAt": "2026-07-29T21:31:02+00:00",
       "stories": [
+        {
+          "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026",
+          "publishedAt": "2026-07-29T21:16:39+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+          "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai",
+          "publishedAt": "2026-07-29T21:07:48+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "1,000+ frontier staffers ask U.S. for an AI brake pedal",
           "url": "https://www.pacingthefrontier.com/",
@@ -392,18 +404,6 @@
           "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
           "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor",
           "publishedAt": "2026-07-29T19:44:49+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "publishedAt": "2026-07-29T18:45:27+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-          "publishedAt": "2026-07-29T15:35:09+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -471,7 +471,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-29T21:00:27+00:00",
+      "updatedAt": "2026-07-29T21:31:02+00:00",
       "stories": [
         {
           "title": "Experts react to FCC limits on U.S. imports of new humanoid and mobile robots",
