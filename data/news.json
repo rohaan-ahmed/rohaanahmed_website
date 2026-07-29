@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-07-29T12:00:34+00:00",
+  "generatedAt": "2026-07-29T13:00:38+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-29T12:00:34+00:00",
+      "updatedAt": "2026-07-29T13:00:38+00:00",
       "stories": [
+        {
+          "title": "H3 to launch next ispace lunar lander mission",
+          "url": "https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission",
+          "publishedAt": "2026-07-29T12:10:11+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Boeing still working with NASA to schedule next Starliner flight",
           "url": "https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight",
@@ -73,12 +79,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Upper C-band auction offers another lift for GEO industry",
-          "url": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry",
-          "publishedAt": "2026-07-27T20:11:07+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Smoke Blankets Oregon",
           "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon",
           "publishedAt": "2026-07-28T04:01:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-29T12:00:34+00:00",
+      "updatedAt": "2026-07-29T13:00:38+00:00",
       "stories": [
         {
           "title": "Canadian satellites to support fight against illegal fishing in Mexico",
@@ -174,8 +174,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-29T12:00:34+00:00",
+      "updatedAt": "2026-07-29T13:00:38+00:00",
       "stories": [
+        {
+          "title": "Canada’s Defence Industrial Strategy Hits Its First Financing Milestones",
+          "url": "https://vanguardcanada.com/canadas-defence-industrial-strategy-hits-its-first-financing-milestones",
+          "publishedAt": "2026-07-29T12:00:38+00:00",
+          "source": "Vanguard"
+        },
         {
           "title": "Drone-Swarm Defence Startup Lands Singapore Accelerator Slot",
           "url": "https://vanguardcanada.com/drone-swarm-defence-startup-lands-singapore-accelerator-slot",
@@ -243,12 +249,6 @@
           "source": "National Defence"
         },
         {
-          "title": "GE, Magellan bet on a fighter Canada hasn’t bought yet",
-          "url": "https://vanguardcanada.com/ge-magellan-bet-on-a-fighter-canada-hasnt-bought-yet",
-          "publishedAt": "2026-07-22T21:03:41+00:00",
-          "source": "Vanguard"
-        },
-        {
           "title": "Minister McGuinty concludes United Kingdom visit focused on strengthening defence cooperation",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/07/minister-mcguinty-concludes-united-kingdom-visit-focused-on-strengthening-defence-cooperation.html",
           "publishedAt": "2026-07-21T17:32:53+00:00",
@@ -271,13 +271,25 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-29T12:00:34+00:00",
+      "updatedAt": "2026-07-29T13:00:38+00:00",
       "stories": [
         {
-          "title": "How DARPA plans to get nuclear power in the size of ‘AA battery’",
+          "title": "Ford, GM Defense, BC Customs to compete for US Army’s new infantry squad vehicle",
+          "url": "https://www.defensenews.com/news/your-military/2026/07/29/ford-gm-defense-bc-customs-to-compete-for-us-armys-new-infantry-squad-vehicle",
+          "publishedAt": "2026-07-29T12:54:25+00:00",
+          "source": "Defense News"
+        },
+        {
+          "title": "How DARPA plans to get nuclear power in the size of a ‘AA battery’",
           "url": "https://breakingdefense.com/2026/07/how-darpa-plans-to-get-nuclear-power-in-the-size-of-aa-battery",
           "publishedAt": "2026-07-29T12:00:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "House-passed defense bill includes controversial US-Israel tech measure",
+          "url": "https://www.defensenews.com/news/pentagon-congress/2026/07/29/house-passed-defense-bill-includes-controversial-us-israel-tech-measure",
+          "publishedAt": "2026-07-29T12:00:00+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Trump, Zelenskyy discuss Patriot deal and reviving talks with Russia",
@@ -340,22 +352,10 @@
           "source": "Defense News"
         },
         {
-          "title": "US Central Command, UAE to launch artificial intelligence task force",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/07/28/us-central-command-uae-to-launch-artifical-intelligence-task-force",
-          "publishedAt": "2026-07-28T15:42:02+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Air Force to begin concept refinement of MQ-9 replacement by end of year",
           "url": "https://defensescoop.com/2026/07/28/mq-9-replacement-air-force-concept-refinement",
           "publishedAt": "2026-07-28T18:19:04+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Finland closes airspace, restricts maritime traffic near Russia over drone risk",
-          "url": "https://www.defensenews.com/global/europe/2026/07/28/finland-closes-airspace-restricts-maritime-traffic-near-russia-over-drone-risk",
-          "publishedAt": "2026-07-28T14:09:34+00:00",
-          "source": "Defense News"
         },
         {
           "title": "Marine commandos aim to automate armories with computer vision, other tech",
@@ -368,7 +368,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-29T12:00:34+00:00",
+      "updatedAt": "2026-07-29T13:00:38+00:00",
       "stories": [
         {
           "title": "1,000+ frontier staffers ask for an AI brake pedal",
@@ -395,34 +395,46 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-          "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea",
-          "publishedAt": "2026-07-28T20:45:12+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Moonshot lets history's largest open model loose",
           "url": "https://www.therundown.ai/p/moonshot-lets-history-largest-open-model-loose",
           "publishedAt": "2026-07-28T09:00:00+00:00",
           "source": "The Rundown AI"
         },
         {
-          "title": "Sam Altman is ready to decelerate",
-          "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
-          "publishedAt": "2026-07-28T20:17:08+00:00",
-          "source": "TechCrunch AI"
+          "title": "Anthropic Rejected Blanket Bans on Open-Weight Models (2 minute read)",
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-          "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid",
-          "publishedAt": "2026-07-28T15:42:26+00:00",
-          "source": "TechCrunch AI"
+          "title": "Releasing the model weights and technical report of Kimi K3 (2 minute read)",
+          "url": "https://threadreaderapp.com/thread/2081760186235289764.html",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-          "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises",
-          "publishedAt": "2026-07-28T14:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Microsoft Introduced a Cybersecurity Model (6 minute read)",
+          "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "OpenAI's Report on How AI is Expanding (6 minute read)",
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Gemini Distillation Service (17 minute read)",
+          "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/distillation",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How we built and benchmarked VR-1, our frontier cyber reasoning model (6 minute read)",
+          "url": "https://www.cogent.com/blog/how-we-built-and-benchmarked-vr-1-our-frontier-cyber-reasoning-model",
+          "publishedAt": "2026-07-28T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Anthropic's Opus 5 surprise",
@@ -447,25 +459,13 @@
           "url": "https://www.therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole",
           "publishedAt": "2026-07-22T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Claude disproves an 87-year-old math problem",
-          "url": "https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
-          "publishedAt": "2026-07-21T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic's Fable survives the subscription axe",
-          "url": "https://www.therundown.ai/p/anthropic-fable-survives-the-subscription-axe",
-          "publishedAt": "2026-07-20T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-29T12:00:34+00:00",
+      "updatedAt": "2026-07-29T13:00:38+00:00",
       "stories": [
         {
           "title": "Registration is open for RoboBusiness 2026",
@@ -670,7 +670,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-17"
-  ]
+  "warnings": []
 }
