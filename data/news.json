@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T23:02:27+00:00",
+  "generatedAt": "2026-07-29T23:03:19+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-29T23:02:27+00:00",
+      "updatedAt": "2026-07-29T23:03:19+00:00",
       "stories": [
         {
           "title": "L3Harris delays missile business IPO to 2027 despite surging defense demand",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-29T23:02:27+00:00",
+      "updatedAt": "2026-07-29T23:03:19+00:00",
       "stories": [
         {
           "title": "Amazon Leo seeks approval for 5,105 satellite direct-to-device constellation",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-29T23:02:27+00:00",
+      "updatedAt": "2026-07-29T23:03:19+00:00",
       "stories": [
         {
           "title": "Saab Poaches Thales Executive to Lead Its Canadian Business",
@@ -277,7 +277,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-29T23:02:27+00:00",
+      "updatedAt": "2026-07-29T23:03:19+00:00",
       "stories": [
         {
           "title": "Army adds $54B to Lockheed PAC-3 agreement, totaling $59B",
@@ -374,7 +374,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-29T23:02:27+00:00",
+      "updatedAt": "2026-07-29T23:03:19+00:00",
       "stories": [
         {
           "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
@@ -471,8 +471,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-29T23:02:27+00:00",
+      "updatedAt": "2026-07-29T23:03:19+00:00",
       "stories": [
+        {
+          "title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
+          "url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence",
+          "publishedAt": "2026-07-29T14:53:15+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Experts react to FCC limits on U.S. imports of new humanoid and mobile robots",
           "url": "https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots",
@@ -540,12 +546,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "Magmotor makes motors for a changing world for 150+ years",
-          "url": "https://www.therobotreport.com/magmotor-makes-motors-changing-world-150-years",
-          "publishedAt": "2026-07-26T12:30:51+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Optical Tech Would Update a Robot’s AI on the Fly",
           "url": "https://spectrum.ieee.org/ai-in-robotics",
           "publishedAt": "2026-07-26T13:00:01+00:00",
@@ -567,7 +567,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-07-29T23:02:27+00:00",
+    "updatedAt": "2026-07-29T23:03:19+00:00",
     "stories": [
       {
         "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
@@ -615,9 +615,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Experts react to FCC limits on U.S. imports of new humanoid and mobile robots",
-        "url": "https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots",
-        "publishedAt": "2026-07-29T14:11:19+00:00",
+        "title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
+        "url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence",
+        "publishedAt": "2026-07-29T14:53:15+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
