@@ -131,12 +131,13 @@ RUNDOWN_H4_LINK_FALLBACK_PATTERN = re.compile(
     re.DOTALL,
 )
 RUNDOWN_SKIPPED_SECTION_LABELS = {
-    "TOGETHER WITH SLACK FROM SALESFORCE",
-    "PRESENTED BY CONDUCTOR",
     "AI TRAINING",
-    "PRESENTED BY PENN STATE SMEAL COLLEGE OF BUSINESS",
     "COMMUNITY",
 }
+RUNDOWN_SKIPPED_SECTION_PREFIXES = (
+    "PRESENTED BY ",
+    "TOGETHER WITH ",
+)
 
 
 def clean_html_text(value: str) -> str:
@@ -199,7 +200,10 @@ def fetch_rundown_ai_stories(source: dict, entry: dict, published: datetime) -> 
     for section_html in RUNDOWN_SECTION_PATTERN.findall(page):
         header_match = RUNDOWN_H6_PATTERN.search(section_html)
         section_label = clean_html_text(header_match.group(1)) if header_match else ""
-        if section_label in RUNDOWN_SKIPPED_SECTION_LABELS:
+        if (
+            section_label in RUNDOWN_SKIPPED_SECTION_LABELS
+            or section_label.startswith(RUNDOWN_SKIPPED_SECTION_PREFIXES)
+        ):
             continue
 
         article_match = (
