@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-29T19:00:28+00:00",
+  "generatedAt": "2026-07-29T19:38:52+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-29T19:00:28+00:00",
+      "updatedAt": "2026-07-29T19:38:52+00:00",
       "stories": [
         {
           "title": "LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-29T19:00:28+00:00",
+      "updatedAt": "2026-07-29T19:38:52+00:00",
       "stories": [
         {
           "title": "ISED opens consultation for streamlined spectrum licensing for space launches and in-orbit servicing",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-29T19:00:28+00:00",
+      "updatedAt": "2026-07-29T19:38:52+00:00",
       "stories": [
         {
           "title": "Saab Poaches Thales Executive to Lead Its Canadian Business",
@@ -277,8 +277,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-29T19:00:28+00:00",
+      "updatedAt": "2026-07-29T19:38:52+00:00",
       "stories": [
+        {
+          "title": "Pentagon puts out call for robot boats that launch attack drones",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/07/29/pentagon-puts-out-call-for-robot-boats-that-launch-attack-drones",
+          "publishedAt": "2026-07-29T19:22:52+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Pentagon has ‘kicked off’ review of US force posture in Europe",
           "url": "https://www.defensenews.com/news/pentagon-congress/2026/07/29/pentagon-has-kicked-off-review-of-us-force-posture-in-europe",
@@ -340,12 +346,6 @@
           "source": "Defense News"
         },
         {
-          "title": "House-passed defense bill includes controversial US-Israel tech measure",
-          "url": "https://www.defensenews.com/news/pentagon-congress/2026/07/29/house-passed-defense-bill-includes-controversial-us-israel-tech-measure",
-          "publishedAt": "2026-07-29T12:00:00+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "AV and Applied Intuition team up to bring collaborative autonomy to new Mayhem 10 drone",
           "url": "https://defensescoop.com/2026/07/29/av-applied-intuition-collaborative-autonomy-mayhem-10-drone",
           "publishedAt": "2026-07-29T10:30:00+00:00",
@@ -374,7 +374,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-29T19:00:28+00:00",
+      "updatedAt": "2026-07-29T19:38:52+00:00",
       "stories": [
         {
           "title": "1,000+ frontier staffers ask for an AI brake pedal",
@@ -401,40 +401,28 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Introducing Build Mode (2 minute read)",
-          "url": "https://x.ai/news/grok-build-mode",
-          "publishedAt": "2026-07-29T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+          "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it",
+          "publishedAt": "2026-07-29T11:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Pacing the Frontier (Website)",
-          "url": "https://www.pacingthefrontier.com/",
-          "publishedAt": "2026-07-29T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+          "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents",
+          "publishedAt": "2026-07-29T00:09:05+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "OpenAI's agents hacked second account during model testing (4 minute read)",
-          "url": "https://www.axios.com/2026/07/28/openai-hugging-face-modal-labs-hack",
-          "publishedAt": "2026-07-29T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Bot-detection startup Spur nabs $200M from Insight",
+          "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight",
+          "publishedAt": "2026-07-28T21:29:34+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Kimi K3 Architecture Notes (4 minute read)",
-          "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-          "publishedAt": "2026-07-29T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Inference Engine Guide for K3 Deployment (10 minute read)",
-          "url": "https://x.com/vllm_project/status/2081788542079123939",
-          "publishedAt": "2026-07-29T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident (45 minute read)",
-          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-          "publishedAt": "2026-07-29T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+          "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea",
+          "publishedAt": "2026-07-28T20:45:12+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Moonshot lets history's largest open model loose",
@@ -465,19 +453,37 @@
           "url": "https://www.therundown.ai/p/google-gemini-lineup-has-a-pro-sized-hole",
           "publishedAt": "2026-07-22T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Claude disproves an 87-year-old math problem",
+          "url": "https://www.therundown.ai/p/claude-disproves-an-87-year-old-math-problem",
+          "publishedAt": "2026-07-21T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic's Fable survives the subscription axe",
+          "url": "https://www.therundown.ai/p/anthropic-fable-survives-the-subscription-axe",
+          "publishedAt": "2026-07-20T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-29T19:00:28+00:00",
+      "updatedAt": "2026-07-29T19:38:52+00:00",
       "stories": [
         {
           "title": "Experts react to FCC limits on U.S. imports of new humanoid and mobile robots",
           "url": "https://www.therobotreport.com/industry-reacts-fcc-ban-u-s-imports-new-humanoid-quadruped-robots",
           "publishedAt": "2026-07-29T14:11:19+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
+          "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security",
+          "publishedAt": "2026-07-29T17:41:09+00:00",
+          "source": "TechCrunch Robotics"
         },
         {
           "title": "Registration is open for RoboBusiness 2026",
@@ -544,12 +550,6 @@
           "url": "https://spectrum.ieee.org/ai-in-robotics",
           "publishedAt": "2026-07-26T13:00:01+00:00",
           "source": "IEEE Spectrum Robotics"
-        },
-        {
-          "title": "Photos: First look at J&J’s Ottava surgical robot",
-          "url": "https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot",
-          "publishedAt": "2026-07-25T14:00:13+00:00",
-          "source": "The Robot Report"
         },
         {
           "title": "Video Friday: An Italian Humanoid Comes to Life",
@@ -676,5 +676,7 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": []
+  "warnings": [
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-17"
+  ]
 }
