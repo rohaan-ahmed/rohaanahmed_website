@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-07-30T11:25:11+00:00",
+  "generatedAt": "2026-07-30T12:00:36+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-30T11:25:11+00:00",
+      "updatedAt": "2026-07-30T12:00:36+00:00",
       "stories": [
+        {
+          "title": "Rocket Lab wins another launch contract from Japan’s iQPS",
+          "url": "https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps",
+          "publishedAt": "2026-07-30T11:59:29+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Sophia Space and Caltech claim patent for space data centers",
           "url": "https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers",
@@ -61,12 +67,6 @@
           "source": "NASA"
         },
         {
-          "title": "LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE",
-          "url": "https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae",
-          "publishedAt": "2026-07-29T14:38:53+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "APOD: July 30 – Red Sun trough Wildfire Smoke",
           "url": "https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke",
           "publishedAt": "2026-07-30T04:05:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-30T11:25:11+00:00",
+      "updatedAt": "2026-07-30T12:00:36+00:00",
       "stories": [
         {
           "title": "Telesat eyes US$189 million payout in FCC spectrum reallocation",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-30T11:25:11+00:00",
+      "updatedAt": "2026-07-30T12:00:36+00:00",
       "stories": [
         {
           "title": "Saab Poaches Thales Executive to Lead Its Canadian Business",
@@ -277,7 +277,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-30T11:25:11+00:00",
+      "updatedAt": "2026-07-30T12:00:36+00:00",
       "stories": [
         {
           "title": "Ukraine’s F-16s are being worn out from intercepting Russian drones",
@@ -374,7 +374,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-30T11:25:11+00:00",
+      "updatedAt": "2026-07-30T12:00:36+00:00",
       "stories": [
         {
           "title": "OpenAI's escaped AIs claim another victim",
@@ -471,7 +471,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-30T11:25:11+00:00",
+      "updatedAt": "2026-07-30T12:00:36+00:00",
       "stories": [
         {
           "title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
@@ -567,7 +567,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-07-30T11:25:11+00:00",
+    "updatedAt": "2026-07-30T12:00:36+00:00",
     "stories": [
       {
         "title": "OpenAI's escaped AIs claim another victim",
@@ -597,9 +597,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Sophia Space and Caltech claim patent for space data centers",
-        "url": "https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers",
-        "publishedAt": "2026-07-30T04:00:00+00:00",
+        "title": "Rocket Lab wins another launch contract from Japan’s iQPS",
+        "url": "https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps",
+        "publishedAt": "2026-07-30T11:59:29+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -633,6 +633,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Sophia Space and Caltech claim patent for space data centers",
+        "url": "https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers",
+        "publishedAt": "2026-07-30T04:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Proposed rule would exempt commercial launch licensing from environmental regulations",
         "url": "https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations",
         "publishedAt": "2026-07-29T23:12:56+00:00",
@@ -648,15 +657,6 @@
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Amazon Leo seeks approval for 5,105 satellite direct-to-device constellation",
-        "url": "https://spaceq.ca/amazon-seeks-approval-for-5105-satellite-direct-to-device-constellation",
-        "publishedAt": "2026-07-29T21:39:08+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
