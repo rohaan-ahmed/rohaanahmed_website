@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-30T00:00:28+00:00",
+  "generatedAt": "2026-07-30T00:59:58+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-30T00:00:28+00:00",
+      "updatedAt": "2026-07-30T00:59:58+00:00",
       "stories": [
         {
           "title": "Proposed rule would exempt commercial launch licensing from environmental regulations",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-30T00:00:28+00:00",
+      "updatedAt": "2026-07-30T00:59:58+00:00",
       "stories": [
         {
           "title": "Amazon Leo seeks approval for 5,105 satellite direct-to-device constellation",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-30T00:00:28+00:00",
+      "updatedAt": "2026-07-30T00:59:58+00:00",
       "stories": [
         {
           "title": "Saab Poaches Thales Executive to Lead Its Canadian Business",
@@ -277,7 +277,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-30T00:00:28+00:00",
+      "updatedAt": "2026-07-30T00:59:58+00:00",
       "stories": [
         {
           "title": "Navy awards $76.6B in contracts for new Virginia, Columbia-class subs",
@@ -374,8 +374,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-30T00:00:28+00:00",
+      "updatedAt": "2026-07-30T00:59:58+00:00",
       "stories": [
+        {
+          "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+          "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever",
+          "publishedAt": "2026-07-30T00:21:06+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
           "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years",
@@ -417,12 +423,6 @@
           "url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20",
           "publishedAt": "2026-07-29T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
-          "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor",
-          "publishedAt": "2026-07-29T19:44:49+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "Moonshot publishes weights for powerful Kimi K3",
@@ -471,7 +471,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-30T00:00:28+00:00",
+      "updatedAt": "2026-07-30T00:59:58+00:00",
       "stories": [
         {
           "title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
@@ -567,21 +567,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-07-30T00:00:28+00:00",
+    "updatedAt": "2026-07-30T00:59:58+00:00",
     "stories": [
       {
-        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-        "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years",
-        "publishedAt": "2026-07-29T23:00:11+00:00",
+        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+        "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever",
+        "publishedAt": "2026-07-30T00:21:06+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-        "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag",
-        "publishedAt": "2026-07-29T22:46:03+00:00",
+        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+        "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years",
+        "publishedAt": "2026-07-29T23:00:11+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -772,6 +772,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-20"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-14"
   ]
 }
