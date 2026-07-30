@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-30T10:00:25+00:00",
+  "generatedAt": "2026-07-30T11:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-30T10:00:25+00:00",
+      "updatedAt": "2026-07-30T11:00:26+00:00",
       "stories": [
         {
           "title": "Sophia Space and Caltech claim patent for space data centers",
@@ -29,6 +29,12 @@
           "url": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks",
           "publishedAt": "2026-07-29T20:43:51+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "July full moon delights skywatchers worldwide. Here are our favorite photos of the majestic Buck Moon",
+          "url": "https://www.space.com/stargazing/july-full-moon-delights-skywatchers-worldwide-here-are-our-favorite-photos-of-the-majestic-buck-moon",
+          "publishedAt": "2026-07-30T10:09:04+00:00",
+          "source": "Space.com"
         },
         {
           "title": "SMOS salinity could offer early indicator of El Niño",
@@ -79,12 +85,6 @@
           "source": "Space.com"
         },
         {
-          "title": "Watch this stirring new 'Star Trek' 60th anniversary video saluting the iconic sci-fi franchise",
-          "url": "https://www.space.com/entertainment/watch-this-stirring-new-star-trek-60th-anniversary-video-saluting-the-iconic-sci-fi-franchise",
-          "publishedAt": "2026-07-29T20:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "How Sentinel-1 measured movement of Venezuela quakes",
           "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/How_Sentinel-1_measured_movement_of_Venezuela_quakes",
           "publishedAt": "2026-07-28T12:04:00+00:00",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-30T10:00:25+00:00",
+      "updatedAt": "2026-07-30T11:00:26+00:00",
       "stories": [
+        {
+          "title": "Telesat eyes US$189 million payout in FCC spectrum reallocation",
+          "url": "https://spaceq.ca/telesat-eyes-us189-million-payout-in-fcc-spectrum-reallocation",
+          "publishedAt": "2026-07-30T10:55:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Amazon Leo seeks approval for 5,105 satellite direct-to-device constellation",
           "url": "https://spaceq.ca/amazon-seeks-approval-for-5105-satellite-direct-to-device-constellation",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "CSMC secures $4.5 million federal investment for Arctic microreactor development",
-          "url": "https://spaceq.ca/csmc-secures-4-5-million-federal-investment-for-arctic-microreactor-development",
-          "publishedAt": "2026-07-23T19:07:44+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Media accreditation for media events in Houston related to the Crew-13 mission",
           "url": "https://www.canada.ca/en/space-agency/news/2026/07/media-accreditation-for-media-events-in-houston-related-to-the-crew-13-mission.html",
           "publishedAt": "2026-07-20T20:14:06+00:00",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-30T10:00:25+00:00",
+      "updatedAt": "2026-07-30T11:00:26+00:00",
       "stories": [
         {
           "title": "Saab Poaches Thales Executive to Lead Its Canadian Business",
@@ -277,7 +277,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-30T10:00:25+00:00",
+      "updatedAt": "2026-07-30T11:00:26+00:00",
       "stories": [
         {
           "title": "Navy awards $76.6B in contracts for new Virginia, Columbia-class subs",
@@ -374,7 +374,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-30T10:00:25+00:00",
+      "updatedAt": "2026-07-30T11:00:26+00:00",
       "stories": [
         {
           "title": "OpenAI's escaped AIs claim another victim",
@@ -471,7 +471,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-30T10:00:25+00:00",
+      "updatedAt": "2026-07-30T11:00:26+00:00",
       "stories": [
         {
           "title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
@@ -567,7 +567,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-07-30T10:00:25+00:00",
+    "updatedAt": "2026-07-30T11:00:26+00:00",
     "stories": [
       {
         "title": "OpenAI's escaped AIs claim another victim",
@@ -588,9 +588,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Amazon Leo seeks approval for 5,105 satellite direct-to-device constellation",
-        "url": "https://spaceq.ca/amazon-seeks-approval-for-5105-satellite-direct-to-device-constellation",
-        "publishedAt": "2026-07-29T21:39:08+00:00",
+        "title": "Telesat eyes US$189 million payout in FCC spectrum reallocation",
+        "url": "https://spaceq.ca/telesat-eyes-us189-million-payout-in-fcc-spectrum-reallocation",
+        "publishedAt": "2026-07-30T10:55:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -651,12 +651,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "SpaceX wins $1.6 billion in launch orders for military satellite networks",
-        "url": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks",
-        "publishedAt": "2026-07-29T20:43:51+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Amazon Leo seeks approval for 5,105 satellite direct-to-device constellation",
+        "url": "https://spaceq.ca/amazon-seeks-approval-for-5105-satellite-direct-to-device-constellation",
+        "publishedAt": "2026-07-29T21:39:08+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -772,6 +772,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-17"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-16"
   ]
 }
