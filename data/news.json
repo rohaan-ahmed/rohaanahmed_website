@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-30T20:50:55+00:00",
+  "generatedAt": "2026-07-30T21:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-30T20:50:55+00:00",
+      "updatedAt": "2026-07-30T21:00:32+00:00",
       "stories": [
         {
           "title": "K2 Space raises $500 million for commercial, defense satellite expansion",
@@ -31,6 +31,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "The US government wants to bypass environmental laws for commercial launches and spacecraft reentries",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/the-us-government-wants-to-bypass-environmental-laws-for-commercial-launches-and-spacecraft-reentries",
+          "publishedAt": "2026-07-30T21:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "Sophia Space and Caltech claim patent for space data centers",
           "url": "https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers",
           "publishedAt": "2026-07-30T04:00:00+00:00",
@@ -53,12 +59,6 @@
           "url": "https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission",
           "publishedAt": "2026-07-30T16:11:41+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Satellites spy penguin poop on Danger Islands | Space photo of the day for July 30, 2026",
-          "url": "https://www.space.com/astronomy/earth/pink-penguin-poop-on-the-danger-islands-space-photo-of-the-day-for-july-30-2026",
-          "publishedAt": "2026-07-30T14:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Starburst Galaxy Centaurus A",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-30T20:50:55+00:00",
+      "updatedAt": "2026-07-30T21:00:32+00:00",
       "stories": [
         {
           "title": "Canada launches Strategic Exports Office to centralize dealmaking",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-30T20:50:55+00:00",
+      "updatedAt": "2026-07-30T21:00:32+00:00",
       "stories": [
         {
           "title": "NordSpace bets on Calgary’s missile makers",
@@ -271,7 +271,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-30T20:50:55+00:00",
+      "updatedAt": "2026-07-30T21:00:32+00:00",
       "stories": [
         {
           "title": "How the Pentagon plans to help mitigate industry concerns over critical mineral EO",
@@ -368,7 +368,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-30T20:50:55+00:00",
+      "updatedAt": "2026-07-30T21:00:32+00:00",
       "stories": [
         {
           "title": "OpenAI's escaped AIs claim another victim",
@@ -401,22 +401,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-          "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop",
-          "publishedAt": "2026-07-30T18:05:21+00:00",
-          "source": "TechCrunch AI"
+          "title": "Thinking Machines Cofounder Joined OpenAI (4 minute read)",
+          "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai",
+          "publishedAt": "2026-07-30T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Okta buys AI security startup Permiso — source says for about $200M",
-          "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m",
-          "publishedAt": "2026-07-30T16:09:42+00:00",
-          "source": "TechCrunch AI"
+          "title": "SpaceXAI launches Grok Voice Think Fast 2.0 on Agent Builder (2 minute read)",
+          "url": "https://www.testingcatalog.com/spacexai-launches-grok-voice-think-fast-2-0-on-agent-builder",
+          "publishedAt": "2026-07-30T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Meta says AI is making it easier to build new apps — and more are coming",
-          "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming",
-          "publishedAt": "2026-07-30T15:41:16+00:00",
-          "source": "TechCrunch AI"
+          "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark (5 minute read)",
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "publishedAt": "2026-07-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "We're launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control (1 minute read)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5",
+          "publishedAt": "2026-07-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Escha-W2 (Hugging Face Repo)",
+          "url": "https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
+          "publishedAt": "2026-07-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "CPU-Friendly Long-Context Encoders (18 minute read)",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+          "publishedAt": "2026-07-30T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "1,000+ frontier staffers ask U.S. for an AI brake pedal",
@@ -441,31 +459,13 @@
           "url": "https://www.anthropic.com/news/position-open-weights-models",
           "publishedAt": "2026-07-28T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Microsoft’s powerful new cybersecurity model",
-          "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash",
-          "publishedAt": "2026-07-28T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic punches up with Claude Opus 5",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "publishedAt": "2026-07-27T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "FLUX 3 stretches from videos to factory robots",
-          "url": "https://bfl.ai/blog/flux-3",
-          "publishedAt": "2026-07-24T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-30T20:50:55+00:00",
+      "updatedAt": "2026-07-30T21:00:32+00:00",
       "stories": [
         {
           "title": "5 Physical AI Infrastructure Platforms Shaping Robotics in 2026",
@@ -561,7 +561,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-07-30T20:50:55+00:00",
+    "updatedAt": "2026-07-30T21:00:32+00:00",
     "stories": [
       {
         "title": "OpenAI's escaped AIs claim another victim",
@@ -765,7 +765,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-17"
-  ]
+  "warnings": []
 }
