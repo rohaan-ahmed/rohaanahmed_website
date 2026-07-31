@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T10:00:24+00:00",
+  "generatedAt": "2026-07-31T10:13:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-31T10:00:24+00:00",
+      "updatedAt": "2026-07-31T10:13:33+00:00",
       "stories": [
         {
           "title": "Rules of the road needed for orbital data center constellations",
@@ -17,6 +17,12 @@
           "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi",
           "publishedAt": "2026-07-31T08:00:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "The night sky is changing this August — here's which planets to watch",
+          "url": "https://www.space.com/stargazing/the-night-sky-is-changing-this-august-heres-which-planets-to-watch",
+          "publishedAt": "2026-07-31T10:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Our favorite space and sci-fi Playmobil sets: From Star Trek playsets to ESA-collaborated models",
@@ -79,12 +85,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "1st three-headed asteroid found in our solar system — and it has a little moon",
-          "url": "https://www.space.com/astronomy/asteroids/1st-three-headed-asteroid-found-in-our-solar-system-and-it-has-a-little-moon",
-          "publishedAt": "2026-07-30T17:03:10+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "SMOS salinity could offer early indicator of El Niño",
           "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/SMOS_salinity_could_offer_early_indicator_of_El_Nino",
           "publishedAt": "2026-07-30T07:20:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-31T10:00:24+00:00",
+      "updatedAt": "2026-07-31T10:13:33+00:00",
       "stories": [
         {
           "title": "Canada launches Strategic Exports Office to centralize dealmaking",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-31T10:00:24+00:00",
+      "updatedAt": "2026-07-31T10:13:33+00:00",
       "stories": [
         {
           "title": "NordSpace bets on Calgary’s missile makers",
@@ -271,7 +271,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-31T10:00:24+00:00",
+      "updatedAt": "2026-07-31T10:13:33+00:00",
       "stories": [
         {
           "title": "JIATF-401 awards CACI $500M for non-kinetic cUAS",
@@ -368,7 +368,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-31T10:00:24+00:00",
+      "updatedAt": "2026-07-31T10:13:33+00:00",
       "stories": [
         {
           "title": "OpenAI resets the cost curve with GPT 5.6 price drops",
@@ -465,7 +465,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-31T10:00:24+00:00",
+      "updatedAt": "2026-07-31T10:13:33+00:00",
       "stories": [
         {
           "title": "5 Physical AI Infrastructure Platforms Shaping Robotics in 2026",
@@ -561,7 +561,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-07-31T10:00:24+00:00",
+    "updatedAt": "2026-07-31T10:13:33+00:00",
     "stories": [
       {
         "title": "OpenAI resets the cost curve with GPT 5.6 price drops",
@@ -636,19 +636,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Our favorite space and sci-fi Playmobil sets: From Star Trek playsets to ESA-collaborated models",
-        "url": "https://www.space.com/entertainment/space-toys-lego/our-favorite-space-and-sci-fi-playmobil-sets-from-star-trek-playsets-to-esa-collaborated-models",
-        "publishedAt": "2026-07-31T09:00:00+00:00",
+        "title": "The night sky is changing this August — here's which planets to watch",
+        "url": "https://www.space.com/stargazing/the-night-sky-is-changing-this-august-heres-which-planets-to-watch",
+        "publishedAt": "2026-07-31T10:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "K2 Space raises $500 million for commercial, defense satellite expansion",
-        "url": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion",
-        "publishedAt": "2026-07-30T18:42:21+00:00",
-        "source": "SpaceNews",
+        "title": "Our favorite space and sci-fi Playmobil sets: From Star Trek playsets to ESA-collaborated models",
+        "url": "https://www.space.com/entertainment/space-toys-lego/our-favorite-space-and-sci-fi-playmobil-sets-from-star-trek-playsets-to-esa-collaborated-models",
+        "publishedAt": "2026-07-31T09:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -766,6 +766,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-20"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-16"
   ]
 }
