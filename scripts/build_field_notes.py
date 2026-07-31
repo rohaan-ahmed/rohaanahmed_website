@@ -12,6 +12,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 CONTENT_DIR = ROOT / "content" / "field-notes-src"
+MEDIUM_IMPORT_DIR = ROOT / "content" / "medium-field-notes"
 OUTPUT_DIR = ROOT / "field-notes"
 INDEX_PATH = ROOT / "data" / "field-notes.json"
 SLUG_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
@@ -73,6 +74,14 @@ def article_page(metadata: dict, article_html: str) -> str:
         f'<span class="tag">{html.escape(tag)}</span>'
         for tag in metadata["tags"]
     )
+    source_link = ""
+    if metadata.get("sourceUrl"):
+        source_url = html.escape(metadata["sourceUrl"], quote=True)
+        source_label = html.escape(metadata.get("sourceLabel", "Read on Medium"))
+        source_link = (
+            f'<a class="article-source-link" href="{source_url}" '
+            f'rel="noopener noreferrer">{source_label}</a>'
+        )
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -104,6 +113,7 @@ def article_page(metadata: dict, article_html: str) -> str:
                 <div class="content-kicker">My Field Notes</div>
                 <h1>{title}</h1>
                 <p class="article-summary">{summary}</p>
+                {source_link}
                 <time datetime="{post_date}">{display_date}</time>
                 <div class="article-tags">{tags}</div>
             </header>
@@ -126,6 +136,55 @@ def article_page(metadata: dict, article_html: str) -> str:
 """
 
 
+def post_record(metadata: dict) -> dict:
+    record = {
+        "title": metadata["title"],
+        "date": metadata["date"],
+        "summary": metadata["summary"],
+        "url": f"field-notes/{metadata['slug']}.html",
+        "tags": metadata["tags"],
+        "sample": metadata["sample"],
+    }
+    if metadata.get("source"):
+        record["source"] = metadata["source"]
+    if metadata.get("sourceUrl"):
+        record["sourceUrl"] = metadata["sourceUrl"]
+    return record
+
+
+def load_medium_posts() -> list[tuple[dict, str]]:
+    posts = []
+    if not MEDIUM_IMPORT_DIR.exists():
+        return posts
+
+    for path in sorted(MEDIUM_IMPORT_DIR.glob("*.json")):
+        try:
+            item = json.loads(path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as error:
+            raise ValueError(f"{path.relative_to(ROOT)}: invalid JSON") from error
+
+        missing = [key for key in ("title", "date", "slug", "summary", "articleHtml") if not item.get(key)]
+        if missing:
+            raise ValueError(f"{path.relative_to(ROOT)}: missing required field(s): {', '.join(missing)}")
+        if not SLUG_PATTERN.fullmatch(str(item["slug"])):
+            raise ValueError(f"{path.relative_to(ROOT)}: invalid slug: {item['slug']}")
+
+        date.fromisoformat(str(item["date"]))
+        metadata = {
+            "title": str(item["title"]),
+            "date": str(item["date"]),
+            "slug": str(item["slug"]),
+            "summary": str(item["summary"]),
+            "tags": [str(tag) for tag in item.get("tags", [])],
+            "sample": False,
+            "source": str(item.get("source", "Medium")),
+            "sourceUrl": str(item.get("sourceUrl", "")),
+            "sourceLabel": "Read on Medium",
+        }
+        posts.append((metadata, str(item["articleHtml"]).strip()))
+    return posts
+
+
 def main() -> int:
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -144,16 +203,12 @@ def main() -> int:
         )
         output_path = OUTPUT_DIR / f"{metadata['slug']}.html"
         output_path.write_text(article_page(metadata, rendered), encoding="utf-8")
-        posts.append(
-            {
-                "title": metadata["title"],
-                "date": metadata["date"],
-                "summary": metadata["summary"],
-                "url": f"field-notes/{metadata['slug']}.html",
-                "tags": metadata["tags"],
-                "sample": metadata["sample"],
-            }
-        )
+        posts.append(post_record(metadata))
+
+    for metadata, rendered in load_medium_posts():
+        output_path = OUTPUT_DIR / f"{metadata['slug']}.html"
+        output_path.write_text(article_page(metadata, rendered), encoding="utf-8")
+        posts.append(post_record(metadata))
 
     expected_files = {post["url"].split("/")[-1] for post in posts}
     for old_page in OUTPUT_DIR.glob("*.html"):

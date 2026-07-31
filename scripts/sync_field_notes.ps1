@@ -6,6 +6,7 @@ param(
 $ErrorActionPreference = "Stop"
 $projectRoot = (Resolve-Path (Join-Path $PSScriptRoot "..")).Path
 $sourceDirectory = Join-Path $projectRoot "content\field-notes-src"
+$mediumImportDirectory = Join-Path $projectRoot "content\medium-field-notes"
 $deployDirectory = Join-Path $projectRoot "deploy_worktree"
 
 function Test-GitRepository {
@@ -47,6 +48,25 @@ function Invoke-FieldNotesBuild {
     }
 }
 
+function Sync-MediumImportsToLocal {
+    param(
+        [string]$Repository,
+        [string]$ProjectPath
+    )
+
+    if ($Repository -eq $ProjectPath) {
+        return
+    }
+
+    $repositoryMediumDirectory = Join-Path $Repository "content\medium-field-notes"
+    if (-not (Test-Path -LiteralPath $repositoryMediumDirectory -PathType Container)) {
+        return
+    }
+
+    New-Item -ItemType Directory -Path $mediumImportDirectory -Force | Out-Null
+    Copy-Item -LiteralPath (Join-Path $repositoryMediumDirectory "*") -Destination $mediumImportDirectory -Recurse -Force
+}
+
 if (-not (Test-Path -LiteralPath $sourceDirectory -PathType Container)) {
     throw "Field Notes source folder was not found: $sourceDirectory"
 }
@@ -62,8 +82,9 @@ if (Test-GitRepository $projectRoot) {
     throw "No working Git checkout was found."
 }
 
-Invoke-FieldNotesBuild -ProjectPath $projectRoot
 Invoke-Git -Repository $repository -Arguments @("pull", "--rebase")
+Sync-MediumImportsToLocal -Repository $repository -ProjectPath $projectRoot
+Invoke-FieldNotesBuild -ProjectPath $projectRoot
 
 if ($repository -ne $projectRoot) {
     $targetDirectory = Join-Path $repository "content\field-notes-src"
@@ -86,7 +107,7 @@ if ($repository -ne $projectRoot) {
 }
 
 Invoke-Git -Repository $repository -Arguments @(
-    "add", "-A", "--", "content/field-notes-src", "data/field-notes.json", "field-notes"
+    "add", "-A", "--", "content/field-notes-src", "content/medium-field-notes", "data/field-notes.json", "field-notes"
 )
 
 & git -C $repository diff --cached --quiet

@@ -583,6 +583,24 @@
     line-height: 1.7;
 }
 
+.article-source-link {
+    display: inline-flex;
+    min-height: 40px;
+    align-items: center;
+    margin-bottom: 18px;
+    border-bottom: 1px solid var(--primary);
+    color: var(--secondary-text);
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    transition: color var(--transition-fast);
+}
+
+.article-source-link:hover {
+    color: var(--primary-text);
+}
+
 .article-header time {
     display: block;
     margin-bottom: 22px;
@@ -640,6 +658,27 @@
     color: var(--secondary-text);
     text-decoration: underline;
     text-underline-offset: 3px;
+}
+
+.article-body figure {
+    margin: 34px 0;
+}
+
+.article-body img {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    border: 1px solid var(--hairline);
+    border-radius: 6px;
+}
+
+.article-body figcaption {
+    margin-top: 10px;
+    color: var(--text-faint);
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    line-height: 1.5;
 }
 
 .article-body blockquote {

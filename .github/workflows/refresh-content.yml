@@ -4,9 +4,11 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "content/field-notes/**"
+      - "content/field-notes-src/**"
+      - "content/medium-field-notes/**"
       - "news-sources.json"
       - "scripts/build_field_notes.py"
+      - "scripts/import_medium_notes.py"
       - "scripts/update_news.py"
       - "requirements.txt"
       - ".github/workflows/refresh-content.yml"
@@ -42,6 +44,9 @@ jobs:
       - name: Refresh news
         run: python scripts/update_news.py
 
+      - name: Import Medium Field Notes
+        run: python scripts/import_medium_notes.py
+
       - name: Build Field Notes
         run: python scripts/build_field_notes.py
 
@@ -49,7 +54,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json data/field-notes.json field-notes news.xml
+          git add content/medium-field-notes data/news.json data/field-notes.json field-notes news.xml
           if git diff --cached --quiet; then
             echo "No content changes to publish."
             exit 0
