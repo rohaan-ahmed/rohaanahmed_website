@@ -2,7 +2,7 @@
 title: "Who is using Fable 5"
 date: "2026-07-30"
 slug: "who-is-using-fable-5"
-summary: "Anthropic went from being beloved to distrusted by the average developer in less time than it takes for Claude to return $1000"
+summary: "Anthropic went from being beloved to distrusted by the average developer in less time than it takes Claude to burn $1,000"
 tags:
   - artificial intelligence
   - frontier models
