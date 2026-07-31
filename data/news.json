@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T19:00:28+00:00",
+  "generatedAt": "2026-07-31T19:47:50+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-31T19:00:28+00:00",
+      "updatedAt": "2026-07-31T19:47:50+00:00",
       "stories": [
         {
           "title": "Spain commits up to $2.3 billion for national military communications for IRIS²",
@@ -35,6 +35,12 @@
           "url": "https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east",
           "publishedAt": "2026-07-31T12:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
+          "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments",
+          "publishedAt": "2026-07-31T19:05:25+00:00",
+          "source": "NASA"
         },
         {
           "title": "Our 1st look at 'Blade Runner 2099' shows replicants ruling future Los Angeles: 'It's our time now'",
@@ -79,12 +85,6 @@
           "source": "Space.com"
         },
         {
-          "title": "Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?",
-          "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record",
-          "publishedAt": "2026-07-31T14:41:02+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "This Month at ESA: July 2026",
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/This_Month_at_ESA_July_2026",
           "publishedAt": "2026-07-31T11:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-31T19:00:28+00:00",
+      "updatedAt": "2026-07-31T19:47:50+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-31T19:00:28+00:00",
+      "updatedAt": "2026-07-31T19:47:50+00:00",
       "stories": [
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
@@ -271,8 +271,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-31T19:00:28+00:00",
+      "updatedAt": "2026-07-31T19:47:50+00:00",
       "stories": [
+        {
+          "title": "Marine Corps F-35 suffers crash in California",
+          "url": "https://breakingdefense.com/2026/07/marine-corps-f-35-suffers-crash-in-california",
+          "publishedAt": "2026-07-31T19:36:07+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Key B-52 upgrades face cost, schedule risks: GAO",
+          "url": "https://breakingdefense.com/2026/07/key-b-52-upgrades-face-cost-schedule-risks-gao",
+          "publishedAt": "2026-07-31T19:09:48+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Just one in three Americans back Iran war, most unsure of Trump’s goals, poll finds",
           "url": "https://www.defensenews.com/news/pentagon-congress/2026/07/31/just-one-in-three-americans-back-iran-war-most-unsure-of-trumps-goals-poll-finds",
@@ -316,22 +328,10 @@
           "source": "Defense News"
         },
         {
-          "title": "JIATF-401 awards CACI $500M for non-kinetic cUAS",
-          "url": "https://breakingdefense.com/2026/07/jiatf-401-awards-caci-500m-for-non-kinetic-cuas",
-          "publishedAt": "2026-07-30T21:20:18+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "The arms race for cheaper anti-ballistic weapons is underway",
           "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/the-arms-race-for-cheaper-anti-ballistic-weapons-is-underway",
           "publishedAt": "2026-07-30T21:25:53+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "How the Pentagon plans to help mitigate industry concerns over critical mineral EO",
-          "url": "https://breakingdefense.com/2026/07/how-the-pentagon-plans-to-help-mitigate-industry-concerns-over-critical-mineral-eo",
-          "publishedAt": "2026-07-30T19:40:46+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "F-47 program producing test aircraft, on schedule for 2028 flight",
@@ -368,13 +368,19 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-31T19:00:28+00:00",
+      "updatedAt": "2026-07-31T19:47:50+00:00",
       "stories": [
         {
           "title": "OpenAI resets the cost curve with GPT 5.6 price drops",
           "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
           "publishedAt": "2026-07-31T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation",
+          "publishedAt": "2026-07-31T19:47:28+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
@@ -389,28 +395,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Siri AI could come with a paywall for power users",
-          "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users",
-          "publishedAt": "2026-07-31T16:08:18+00:00",
-          "source": "TechCrunch AI"
+          "title": "Inkling-Small (4 minute read)",
+          "url": "https://thinkingmachines.ai/news/inkling-small",
+          "publishedAt": "2026-07-31T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-          "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year",
-          "publishedAt": "2026-07-31T15:16:17+00:00",
-          "source": "TechCrunch AI"
+          "title": "Gemini Robotics ER 2 (1 minute read)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2",
+          "publishedAt": "2026-07-31T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-          "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human",
-          "publishedAt": "2026-07-31T14:47:11+00:00",
-          "source": "TechCrunch AI"
+          "title": "Building Cloud Environments for Coding Agents (13 minute read)",
+          "url": "https://cursor.com/blog/cloud-agent-environment",
+          "publishedAt": "2026-07-31T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-          "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off",
-          "publishedAt": "2026-07-31T14:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "The Agent Graveyard Isn't Real Anymore (6 minute read)",
+          "url": "https://x.com/thejessezhang/status/2082885504371171639",
+          "publishedAt": "2026-07-31T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Open-Weight LLMs Have Caught Up on Accuracy (21 minute read)",
+          "url": "https://arjunbansal.substack.com/p/open-weight-llms-have-caught-up-on",
+          "publishedAt": "2026-07-31T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The WASTE inference engine (14 minute read)",
+          "url": "https://marcobambini.substack.com/p/the-waste-inference-engine",
+          "publishedAt": "2026-07-31T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI's escaped AIs claim another victim",
@@ -441,31 +459,13 @@
           "url": "https://huggingface.co/moonshotai/Kimi-K3",
           "publishedAt": "2026-07-28T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic sets the record straight on open weights",
-          "url": "https://www.anthropic.com/news/position-open-weights-models",
-          "publishedAt": "2026-07-28T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Microsoft’s powerful new cybersecurity model",
-          "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash",
-          "publishedAt": "2026-07-28T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic punches up with Claude Opus 5",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "publishedAt": "2026-07-27T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-31T19:00:28+00:00",
+      "updatedAt": "2026-07-31T19:47:50+00:00",
       "stories": [
         {
           "title": "Procore Technologies acquires DroneDeploy for $845M",
@@ -561,7 +561,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-07-31T19:00:28+00:00",
+    "updatedAt": "2026-07-31T19:47:50+00:00",
     "stories": [
       {
         "title": "OpenAI resets the cost curve with GPT 5.6 price drops",
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-        "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai",
-        "publishedAt": "2026-07-31T17:26:32+00:00",
+        "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+        "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation",
+        "publishedAt": "2026-07-31T19:47:28+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -609,10 +609,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Just one in three Americans back Iran war, most unsure of Trump’s goals, poll finds",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/07/31/just-one-in-three-americans-back-iran-war-most-unsure-of-trumps-goals-poll-finds",
-        "publishedAt": "2026-07-31T17:33:29+00:00",
-        "source": "Defense News",
+        "title": "Marine Corps F-35 suffers crash in California",
+        "url": "https://breakingdefense.com/2026/07/marine-corps-f-35-suffers-crash-in-california",
+        "publishedAt": "2026-07-31T19:36:07+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -765,7 +765,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-13"
-  ]
+  "warnings": []
 }
