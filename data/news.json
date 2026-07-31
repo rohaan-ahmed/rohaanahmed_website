@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-07-31T08:00:27+00:00",
+  "generatedAt": "2026-07-31T09:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-31T08:00:27+00:00",
+      "updatedAt": "2026-07-31T09:00:26+00:00",
       "stories": [
         {
           "title": "Rules of the road needed for orbital data center constellations",
           "url": "https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations",
           "publishedAt": "2026-07-31T00:00:37+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Earth from Space: New Orleans and the mighty Mississippi",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi",
+          "publishedAt": "2026-07-31T08:00:00+00:00",
+          "source": "European Space Agency"
         },
         {
           "title": "K2 Space raises $500 million for commercial, defense satellite expansion",
@@ -89,19 +95,13 @@
           "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/How_Sentinel-1_measured_movement_of_Venezuela_quakes",
           "publishedAt": "2026-07-28T12:04:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Liftoff as Ariane 6 takes flight for the first time",
-          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Liftoff_as_Ariane_6_takes_flight_for_the_first_time",
-          "publishedAt": "2026-07-28T07:00:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-31T08:00:27+00:00",
+      "updatedAt": "2026-07-31T09:00:26+00:00",
       "stories": [
         {
           "title": "Canada launches Strategic Exports Office to centralize dealmaking",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-31T08:00:27+00:00",
+      "updatedAt": "2026-07-31T09:00:26+00:00",
       "stories": [
         {
           "title": "NordSpace bets on Calgary’s missile makers",
@@ -271,7 +271,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-31T08:00:27+00:00",
+      "updatedAt": "2026-07-31T09:00:26+00:00",
       "stories": [
         {
           "title": "JIATF-401 awards CACI $500M for non-kinetic cUAS",
@@ -368,7 +368,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-31T08:00:27+00:00",
+      "updatedAt": "2026-07-31T09:00:26+00:00",
       "stories": [
         {
           "title": "Anthropic says its own AI models breached three companies during security tests",
@@ -465,7 +465,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-31T08:00:27+00:00",
+      "updatedAt": "2026-07-31T09:00:26+00:00",
       "stories": [
         {
           "title": "5 Physical AI Infrastructure Platforms Shaping Robotics in 2026",
@@ -561,7 +561,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-07-31T08:00:27+00:00",
+    "updatedAt": "2026-07-31T09:00:26+00:00",
     "stories": [
       {
         "title": "Anthropic says its own AI models breached three companies during security tests",
@@ -627,6 +627,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Earth from Space: New Orleans and the mighty Mississippi",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi",
+        "publishedAt": "2026-07-31T08:00:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "K2 Space raises $500 million for commercial, defense satellite expansion",
         "url": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion",
         "publishedAt": "2026-07-30T18:42:21+00:00",
@@ -639,15 +648,6 @@
         "title": "Roman Space Telescope on track for late August launch",
         "url": "https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch",
         "publishedAt": "2026-07-30T17:51:10+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Jim Bridenstine on his new role at Quantum Space",
-        "url": "https://spacenews.com/jim-bridenstine-on-his-new-role-at-quantum-space",
-        "publishedAt": "2026-07-30T17:47:51+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
