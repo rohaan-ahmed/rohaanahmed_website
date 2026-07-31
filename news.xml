@@ -5,21 +5,63 @@
     <link>https://rohaanahmed.com/news.html</link>
     <description>An automatically curated news feed built around my areas of interest</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 31 Jul 2026 11:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 12:00:30 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <guid isPermaLink="false">f94291caff00bf12cde1db9aae466a24129e06fdd887752a010248af6d7a33ba</guid>
+      <guid isPermaLink="false">fd658e3da2257f13c61483925d5c0a17c1560a31cc5971b4a41d08dcbeaf6536</guid>
       <title>International Space (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-space</link>
-      <pubDate>Fri, 31 Jul 2026 11:00:26 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 12:00:30 +0000</pubDate>
       <category>International Space</category>
       <description>Topic: International Space
-Updated: 2026-07-31T11:00:26+00:00
+Updated: 2026-07-31T12:00:30+00:00
 Stories: 15</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
       <ra:kind>topic</ra:kind>
+    </item>
+    <item>
+      <title>The new space wars: lessons from Ukraine and the Middle East</title>
+      <link>https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east</link>
+      <guid isPermaLink="false">ee3de12c1faa21a65b4d3b0ae627dcbd969ce7e6917ab461649b146ff844c4d7</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 +0000</pubDate>
+      <category>International Space</category>
+      <category>Bulletin</category>
+      <source url="https://spacenews.com/">SpaceNews</source>
+      <description>Topic: International Space
+Source: SpaceNews
+Published: 2026-07-31T12:00:00+00:00
+Headline: The new space wars: lessons from Ukraine and the Middle East</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>4</ra:bulletinPosition>
+      <ra:publishedAt>2026-07-31T12:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceNews</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>This Month at ESA: July 2026</title>
+      <link>https://www.esa.int/ESA_Multimedia/Videos/2026/07/This_Month_at_ESA_July_2026</link>
+      <guid isPermaLink="false">c2a1bbea976c79397a03c32de97c357014728d7d7c15b248012da2829a4277a0</guid>
+      <pubDate>Fri, 31 Jul 2026 11:00:00 +0000</pubDate>
+      <category>International Space</category>
+      <category>Bulletin</category>
+      <source url="https://www.esa.int/">European Space Agency</source>
+      <description>Topic: International Space
+Source: European Space Agency
+Published: 2026-07-31T11:00:00+00:00
+Headline: This Month at ESA: July 2026</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:bulletinPosition>8</ra:bulletinPosition>
+      <ra:publishedAt>2026-07-31T11:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>European Space Agency</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Rules of the road needed for orbital data center constellations</title>
@@ -36,10 +78,31 @@ Headline: Rules of the road needed for orbital data center constellations</descr
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>4</ra:bulletinPosition>
+      <ra:storyPosition>3</ra:storyPosition>
+      <ra:bulletinPosition>9</ra:bulletinPosition>
       <ra:publishedAt>2026-07-31T00:00:37+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>HydroGNSS data open for new insights into Earth’s water</title>
+      <link>https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water</link>
+      <guid isPermaLink="false">e44cfd441a58742163381ae2b41fd22aa922624a001a29000495119853cac44c</guid>
+      <pubDate>Fri, 31 Jul 2026 09:36:00 +0000</pubDate>
+      <category>International Space</category>
+      <category>Bulletin</category>
+      <source url="https://www.esa.int/">European Space Agency</source>
+      <description>Topic: International Space
+Source: European Space Agency
+Published: 2026-07-31T09:36:00+00:00
+Headline: HydroGNSS data open for new insights into Earth’s water</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>4</ra:storyPosition>
+      <ra:bulletinPosition>10</ra:bulletinPosition>
+      <ra:publishedAt>2026-07-31T09:36:00+00:00</ra:publishedAt>
+      <ra:sourceName>European Space Agency</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
@@ -48,7 +111,6 @@ Headline: Rules of the road needed for orbital data center constellations</descr
       <guid isPermaLink="false">7fdf80bdeeec9d0ed9343317e96a0727d24f0ec8b4031c3ff1babb2112e49e2c</guid>
       <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
       <category>International Space</category>
-      <category>Bulletin</category>
       <source url="https://www.esa.int/">European Space Agency</source>
       <description>Topic: International Space
 Source: European Space Agency
@@ -57,8 +119,7 @@ Headline: Earth from Space: New Orleans and the mighty Mississippi</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
-      <ra:bulletinPosition>8</ra:bulletinPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-07-31T08:00:00+00:00</ra:publishedAt>
       <ra:sourceName>European Space Agency</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -69,7 +130,6 @@ Headline: Earth from Space: New Orleans and the mighty Mississippi</description>
       <guid isPermaLink="false">20b7ab85ace3ec7b482244a152751af1b9c50ebbfb1973bc7d02dd8b0df2d4de</guid>
       <pubDate>Fri, 31 Jul 2026 10:00:00 +0000</pubDate>
       <category>International Space</category>
-      <category>Bulletin</category>
       <source url="https://www.space.com/">Space.com</source>
       <description>Topic: International Space
 Source: Space.com
@@ -78,8 +138,7 @@ Headline: The night sky is changing this August — here's which planets to watc
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
-      <ra:bulletinPosition>9</ra:bulletinPosition>
+      <ra:storyPosition>6</ra:storyPosition>
       <ra:publishedAt>2026-07-31T10:00:00+00:00</ra:publishedAt>
       <ra:sourceName>Space.com</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -90,7 +149,6 @@ Headline: The night sky is changing this August — here's which planets to watc
       <guid isPermaLink="false">d2a7bd5f79f61e9e264623aa800eff2687ec9913cdbb1a451a8b79839a0b5e06</guid>
       <pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
       <category>International Space</category>
-      <category>Bulletin</category>
       <source url="https://www.space.com/">Space.com</source>
       <description>Topic: International Space
 Source: Space.com
@@ -99,8 +157,7 @@ Headline: Our favorite space and sci-fi Playmobil sets: From Star Trek playsets 
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
-      <ra:bulletinPosition>10</ra:bulletinPosition>
+      <ra:storyPosition>7</ra:storyPosition>
       <ra:publishedAt>2026-07-31T09:00:00+00:00</ra:publishedAt>
       <ra:sourceName>Space.com</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -119,7 +176,7 @@ Headline: K2 Space raises $500 million for commercial, defense satellite expansi
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
+      <ra:storyPosition>8</ra:storyPosition>
       <ra:publishedAt>2026-07-30T18:42:21+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -138,7 +195,7 @@ Headline: Roman Space Telescope on track for late August launch</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>6</ra:storyPosition>
+      <ra:storyPosition>9</ra:storyPosition>
       <ra:publishedAt>2026-07-30T17:51:10+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -157,7 +214,7 @@ Headline: Jim Bridenstine on his new role at Quantum Space</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>7</ra:storyPosition>
+      <ra:storyPosition>10</ra:storyPosition>
       <ra:publishedAt>2026-07-30T17:47:51+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -176,7 +233,7 @@ Headline: APOD: 2026 July 31 – NGC 4372 and the Dark Doodad</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>8</ra:storyPosition>
+      <ra:storyPosition>11</ra:storyPosition>
       <ra:publishedAt>2026-07-31T04:05:00+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -195,7 +252,7 @@ Headline: Destructive Fires Char Western Europe</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>9</ra:storyPosition>
+      <ra:storyPosition>12</ra:storyPosition>
       <ra:publishedAt>2026-07-31T04:01:00+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -214,7 +271,7 @@ Headline: Rocket Lab wins another launch contract from Japan’s iQPS</descripti
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
+      <ra:storyPosition>13</ra:storyPosition>
       <ra:publishedAt>2026-07-30T11:59:29+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -233,7 +290,7 @@ Headline: The US government wants to bypass environmental laws for commercial la
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>11</ra:storyPosition>
+      <ra:storyPosition>14</ra:storyPosition>
       <ra:publishedAt>2026-07-30T21:00:00+00:00</ra:publishedAt>
       <ra:sourceName>Space.com</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -252,76 +309,19 @@ Headline: Students Take on Airborne Field Research with NASA</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>12</ra:storyPosition>
+      <ra:storyPosition>15</ra:storyPosition>
       <ra:publishedAt>2026-07-30T20:36:56+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Sophia Space and Caltech claim patent for space data centers</title>
-      <link>https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers</link>
-      <guid isPermaLink="false">18ffa9b9a3e39da3a43acb96d8a10c31c104de14e8f4fe58ff069cc01a5f4a55</guid>
-      <pubDate>Thu, 30 Jul 2026 04:00:00 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://spacenews.com/">SpaceNews</source>
-      <description>Topic: International Space
-Source: SpaceNews
-Published: 2026-07-30T04:00:00+00:00
-Headline: Sophia Space and Caltech claim patent for space data centers</description>
-      <ra:topicId>international-space</ra:topicId>
-      <ra:topicName>International Space</ra:topicName>
-      <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>13</ra:storyPosition>
-      <ra:publishedAt>2026-07-30T04:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>SpaceNews</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>SMOS salinity could offer early indicator of El Niño</title>
-      <link>https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/SMOS_salinity_could_offer_early_indicator_of_El_Nino</link>
-      <guid isPermaLink="false">bfbaac3c8c561cb34da942abddcfc761b04aaf3cc2fc205e7a930dde9c2217b3</guid>
-      <pubDate>Thu, 30 Jul 2026 07:20:00 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.esa.int/">European Space Agency</source>
-      <description>Topic: International Space
-Source: European Space Agency
-Published: 2026-07-30T07:20:00+00:00
-Headline: SMOS salinity could offer early indicator of El Niño</description>
-      <ra:topicId>international-space</ra:topicId>
-      <ra:topicName>International Space</ra:topicName>
-      <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>14</ra:storyPosition>
-      <ra:publishedAt>2026-07-30T07:20:00+00:00</ra:publishedAt>
-      <ra:sourceName>European Space Agency</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>How Sentinel-1 measured movement of Venezuela quakes</title>
-      <link>https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/How_Sentinel-1_measured_movement_of_Venezuela_quakes</link>
-      <guid isPermaLink="false">be1194605fc70bb969e01dc6bee2a61d94f3eabd344fc2f770d57131b34e7a30</guid>
-      <pubDate>Tue, 28 Jul 2026 12:04:00 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.esa.int/">European Space Agency</source>
-      <description>Topic: International Space
-Source: European Space Agency
-Published: 2026-07-28T12:04:00+00:00
-Headline: How Sentinel-1 measured movement of Venezuela quakes</description>
-      <ra:topicId>international-space</ra:topicId>
-      <ra:topicName>International Space</ra:topicName>
-      <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>15</ra:storyPosition>
-      <ra:publishedAt>2026-07-28T12:04:00+00:00</ra:publishedAt>
-      <ra:sourceName>European Space Agency</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <guid isPermaLink="false">d23656f13409453bc0d96b069fe2640ee74b810273be7286e6a92dc03860865a</guid>
+      <guid isPermaLink="false">fa639fbf4628a153a11ba8995520f826757285e6da37257515f6bd963448c3fd</guid>
       <title>Canadian Space (11 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
-      <pubDate>Fri, 31 Jul 2026 11:00:26 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 12:00:30 +0000</pubDate>
       <category>Canadian Space</category>
       <description>Topic: Canadian Space
-Updated: 2026-07-31T11:00:26+00:00
+Updated: 2026-07-31T12:00:30+00:00
 Stories: 11</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
@@ -540,13 +540,13 @@ Headline: New CDA Institute report calls for resilient Arctic defence infrastruc
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">6860065b592bf1976a674e0bcda133e53d896322bb4353bad9392d965f1363be</guid>
+      <guid isPermaLink="false">1be0b4183d7fc881f7b8674771239e00d46624ea39f65dd3291ac38657d32927</guid>
       <title>Canadian Defence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
-      <pubDate>Fri, 31 Jul 2026 11:00:26 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 12:00:30 +0000</pubDate>
       <category>Canadian Defence</category>
       <description>Topic: Canadian Defence
-Updated: 2026-07-31T11:00:26+00:00
+Updated: 2026-07-31T12:00:30+00:00
 Stories: 15</description>
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
@@ -841,13 +841,13 @@ Headline: QUADRILATERAL Joint Statement on Canada becoming an Observer to GCAP</
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">68b4ca5a5950b3028bba26dea7f25fc11b2960407fbf527dfa68206016be9cc8</guid>
+      <guid isPermaLink="false">5d08d3c61580e939e43a9d8f608d390d268520a5c546ad05170db81cf8e9bb66</guid>
       <title>International Defence Technology (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
-      <pubDate>Fri, 31 Jul 2026 11:00:26 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 12:00:30 +0000</pubDate>
       <category>International Defence Technology</category>
       <description>Topic: International Defence Technology
-Updated: 2026-07-31T11:00:26+00:00
+Updated: 2026-07-31T12:00:30+00:00
 Stories: 15</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
@@ -1142,13 +1142,13 @@ Headline: Navy using LETHALITY Consortium to advance network consolidation initi
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">39a880c69384dc485832b634567c150014d0b2b5df799191f802fa6124f8e8c8</guid>
+      <guid isPermaLink="false">f6f09099199301d25bc9d84dd8d452ab80300bd9eb5353c12a360c3281494b27</guid>
       <title>Artificial Intelligence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
-      <pubDate>Fri, 31 Jul 2026 11:00:26 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 12:00:30 +0000</pubDate>
       <category>Artificial Intelligence</category>
       <description>Topic: Artificial Intelligence
-Updated: 2026-07-31T11:00:26+00:00
+Updated: 2026-07-31T12:00:30+00:00
 Stories: 15</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
@@ -1236,25 +1236,6 @@ Headline: Reddit reports a solid quarter but shows signs of AI’s impact</descr
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Investors love AI, as long as you’re a cloud host</title>
-      <link>https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host</link>
-      <guid isPermaLink="false">1620cde0c82cc107360ba9573f6b6531099cb367e8e4952e9a87f0d7f591c37c</guid>
-      <pubDate>Thu, 30 Jul 2026 22:41:41 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
-      <description>Topic: Artificial Intelligence
-Source: TechCrunch AI
-Published: 2026-07-30T22:41:41+00:00
-Headline: Investors love AI, as long as you’re a cloud host</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
-      <ra:publishedAt>2026-07-30T22:41:41+00:00</ra:publishedAt>
-      <ra:sourceName>TechCrunch AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
       <title>OpenAI's escaped AIs claim another victim</title>
       <link>https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28</link>
       <guid isPermaLink="false">b9df03fb366d7fbdaf78c9c0a236e8aa4f95432fcca2fc27841563432da9f4b1</guid>
@@ -1268,7 +1249,7 @@ Headline: OpenAI's escaped AIs claim another victim</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>6</ra:storyPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-07-30T09:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1287,47 +1268,123 @@ Headline: Altman heads to Capitol Hill to talk models, security</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>7</ra:storyPosition>
+      <ra:storyPosition>6</ra:storyPosition>
       <ra:publishedAt>2026-07-30T09:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label</title>
-      <link>https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label</link>
-      <guid isPermaLink="false">e9375d3c1ce0b066d5339f2fa4bcf4ea5326ed61d29f7e5bba85f88340c972ac</guid>
-      <pubDate>Thu, 30 Jul 2026 20:26:38 +0000</pubDate>
+      <title>Thinking Machines Cofounder Joined OpenAI (4 minute read)</title>
+      <link>https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai</link>
+      <guid isPermaLink="false">98bc6669f7574882e9d44851540aa25e09faae19a8751f071913c692ae90ea82</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <category>Artificial Intelligence</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
       <description>Topic: Artificial Intelligence
-Source: TechCrunch AI
-Published: 2026-07-30T20:26:38+00:00
-Headline: Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label</description>
+Source: TLDR AI
+Published: 2026-07-30T00:00:00+00:00
+Headline: Thinking Machines Cofounder Joined OpenAI (4 minute read)</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>7</ra:storyPosition>
+      <ra:publishedAt>2026-07-30T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>SpaceXAI launches Grok Voice Think Fast 2.0 on Agent Builder (2 minute read)</title>
+      <link>https://www.testingcatalog.com/spacexai-launches-grok-voice-think-fast-2-0-on-agent-builder</link>
+      <guid isPermaLink="false">386bc8e5573c91217f11555aeba748eebf7aa5b9179d18f8224735bc8adb5456</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TLDR AI
+Published: 2026-07-30T00:00:00+00:00
+Headline: SpaceXAI launches Grok Voice Think Fast 2.0 on Agent Builder (2 minute read)</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
       <ra:storyPosition>8</ra:storyPosition>
-      <ra:publishedAt>2026-07-30T20:26:38+00:00</ra:publishedAt>
-      <ra:sourceName>TechCrunch AI</ra:sourceName>
+      <ra:publishedAt>2026-07-30T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag</title>
-      <link>https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag</link>
-      <guid isPermaLink="false">6a5dfba916fddc9e75e18bfd245ae6f52f6e6039554bf3fc8b72bf6c9ed98c55</guid>
-      <pubDate>Thu, 30 Jul 2026 19:44:16 +0000</pubDate>
+      <title>How enabling two settings tripled our scores on the ARC-AGI-3 benchmark (5 minute read)</title>
+      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</link>
+      <guid isPermaLink="false">55fcbc372ad7900ba61a434af09db3ef8063d5d27773debef1398f3541005cf7</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <category>Artificial Intelligence</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
       <description>Topic: Artificial Intelligence
-Source: TechCrunch AI
-Published: 2026-07-30T19:44:16+00:00
-Headline: Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag</description>
+Source: TLDR AI
+Published: 2026-07-30T00:00:00+00:00
+Headline: How enabling two settings tripled our scores on the ARC-AGI-3 benchmark (5 minute read)</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
       <ra:storyPosition>9</ra:storyPosition>
-      <ra:publishedAt>2026-07-30T19:44:16+00:00</ra:publishedAt>
-      <ra:sourceName>TechCrunch AI</ra:sourceName>
+      <ra:publishedAt>2026-07-30T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>We're launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control (1 minute read)</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5</link>
+      <guid isPermaLink="false">2fd67acd745d32a15d403a704ec6935b482f1dbd1dfebab8859d4728bbdeb7e5</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TLDR AI
+Published: 2026-07-30T00:00:00+00:00
+Headline: We're launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control (1 minute read)</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>10</ra:storyPosition>
+      <ra:publishedAt>2026-07-30T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Escha-W2 (Hugging Face Repo)</title>
+      <link>https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2</link>
+      <guid isPermaLink="false">50cb2ec2cdd577be4bc65ccc9cf375cafcfc87927694304a8c3977a29de5307c</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TLDR AI
+Published: 2026-07-30T00:00:00+00:00
+Headline: Escha-W2 (Hugging Face Repo)</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>11</ra:storyPosition>
+      <ra:publishedAt>2026-07-30T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>CPU-Friendly Long-Context Encoders (18 minute read)</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-encoders</link>
+      <guid isPermaLink="false">453872165a6ceff7ea313ff72ae804570c4989f137e711a58cc4bb08bd5e4c3c</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TLDR AI
+Published: 2026-07-30T00:00:00+00:00
+Headline: CPU-Friendly Long-Context Encoders (18 minute read)</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>12</ra:storyPosition>
+      <ra:publishedAt>2026-07-30T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
@@ -1344,7 +1401,7 @@ Headline: 1,000+ frontier staffers ask U.S. for an AI brake pedal</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
+      <ra:storyPosition>13</ra:storyPosition>
       <ra:publishedAt>2026-07-29T09:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1363,7 +1420,7 @@ Headline: Zuck pushes superintelligence for all in new op-ed</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>11</ra:storyPosition>
+      <ra:storyPosition>14</ra:storyPosition>
       <ra:publishedAt>2026-07-29T09:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1382,76 +1439,19 @@ Headline: Moonshot publishes weights for powerful Kimi K3</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>12</ra:storyPosition>
-      <ra:publishedAt>2026-07-28T09:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>The Rundown AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Anthropic sets the record straight on open weights</title>
-      <link>https://www.anthropic.com/news/position-open-weights-models</link>
-      <guid isPermaLink="false">20729bba0404014f80eb621d5b9b842db50941bc9ef50ce846d93feda85ee8d2</guid>
-      <pubDate>Tue, 28 Jul 2026 09:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://www.therundown.ai/">The Rundown AI</source>
-      <description>Topic: Artificial Intelligence
-Source: The Rundown AI
-Published: 2026-07-28T09:00:00+00:00
-Headline: Anthropic sets the record straight on open weights</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>13</ra:storyPosition>
-      <ra:publishedAt>2026-07-28T09:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>The Rundown AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Microsoft’s powerful new cybersecurity model</title>
-      <link>https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash</link>
-      <guid isPermaLink="false">5465366387f180076a85682b4c3020f07a2ada82dbf1ab7476b55bed5114fe39</guid>
-      <pubDate>Tue, 28 Jul 2026 09:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://www.therundown.ai/">The Rundown AI</source>
-      <description>Topic: Artificial Intelligence
-Source: The Rundown AI
-Published: 2026-07-28T09:00:00+00:00
-Headline: Microsoft’s powerful new cybersecurity model</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>14</ra:storyPosition>
-      <ra:publishedAt>2026-07-28T09:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>The Rundown AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Anthropic punches up with Claude Opus 5</title>
-      <link>https://www.anthropic.com/news/claude-opus-5</link>
-      <guid isPermaLink="false">12fcca7f591035601fa05b7ae28455b57aa91bdb80cd1158dc9fd75141c4cf63</guid>
-      <pubDate>Mon, 27 Jul 2026 09:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://www.therundown.ai/">The Rundown AI</source>
-      <description>Topic: Artificial Intelligence
-Source: The Rundown AI
-Published: 2026-07-27T09:00:00+00:00
-Headline: Anthropic punches up with Claude Opus 5</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
       <ra:storyPosition>15</ra:storyPosition>
-      <ra:publishedAt>2026-07-27T09:00:00+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-07-28T09:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">80b8c9db4ca8f4598e7b2898e91fd9c2c547ce07360752b17ae46e03f597facd</guid>
+      <guid isPermaLink="false">77936056332ba5a9d27fd32b810ddd33f9b2193788f411c41fe181e354d1910c</guid>
       <title>Robotics (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-robotics</link>
-      <pubDate>Fri, 31 Jul 2026 11:00:26 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 12:00:30 +0000</pubDate>
       <category>Robotics</category>
       <description>Topic: Robotics
-Updated: 2026-07-31T11:00:26+00:00
+Updated: 2026-07-31T12:00:30+00:00
 Stories: 15</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
