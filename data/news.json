@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-07-31T12:00:30+00:00",
+  "generatedAt": "2026-07-31T12:22:41+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-31T12:00:30+00:00",
+      "updatedAt": "2026-07-31T12:22:41+00:00",
       "stories": [
+        {
+          "title": "NASA still assessing Starliner-1 flight opportunities",
+          "url": "https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities",
+          "publishedAt": "2026-07-31T12:13:25+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "The new space wars: lessons from Ukraine and the Middle East",
           "url": "https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east",
@@ -79,12 +85,6 @@
           "source": "NASA"
         },
         {
-          "title": "Rocket Lab wins another launch contract from Japan’s iQPS",
-          "url": "https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps",
-          "publishedAt": "2026-07-30T11:59:29+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "The US government wants to bypass environmental laws for commercial launches and spacecraft reentries",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/the-us-government-wants-to-bypass-environmental-laws-for-commercial-launches-and-spacecraft-reentries",
           "publishedAt": "2026-07-30T21:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-31T12:00:30+00:00",
+      "updatedAt": "2026-07-31T12:22:41+00:00",
       "stories": [
         {
           "title": "Canada launches Strategic Exports Office to centralize dealmaking",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-31T12:00:30+00:00",
+      "updatedAt": "2026-07-31T12:22:41+00:00",
       "stories": [
         {
           "title": "NordSpace bets on Calgary’s missile makers",
@@ -271,8 +271,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-31T12:00:30+00:00",
+      "updatedAt": "2026-07-31T12:22:41+00:00",
       "stories": [
+        {
+          "title": "Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027",
+          "url": "https://breakingdefense.com/2026/07/light-at-the-end-of-m-codes-tunnel-receivers-for-ships-planes-to-finish-tests-by-2027",
+          "publishedAt": "2026-07-31T12:08:03+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "JIATF-401 awards CACI $500M for non-kinetic cUAS",
           "url": "https://breakingdefense.com/2026/07/jiatf-401-awards-caci-500m-for-non-kinetic-cuas",
@@ -313,12 +319,6 @@
           "title": "Fixing the Achilles’ heel of air-and-missile defense with solid rocket motors",
           "url": "https://breakingdefense.com/2026/07/fixing-the-achilles-heel-of-air-and-missile-defense-with-solid-rocket-motors",
           "publishedAt": "2026-07-30T17:43:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "L3Harris postpones missile unit IPO until mid-2027",
-          "url": "https://breakingdefense.com/2026/07/l3harris-postpones-missile-unit-ipo-until-mid-2027",
-          "publishedAt": "2026-07-30T17:10:10+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -368,7 +368,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-31T12:00:30+00:00",
+      "updatedAt": "2026-07-31T12:22:41+00:00",
       "stories": [
         {
           "title": "OpenAI resets the cost curve with GPT 5.6 price drops",
@@ -465,7 +465,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-31T12:00:30+00:00",
+      "updatedAt": "2026-07-31T12:22:41+00:00",
       "stories": [
         {
           "title": "5 Physical AI Infrastructure Platforms Shaping Robotics in 2026",
@@ -561,7 +561,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-07-31T12:00:30+00:00",
+    "updatedAt": "2026-07-31T12:22:41+00:00",
     "stories": [
       {
         "title": "OpenAI resets the cost curve with GPT 5.6 price drops",
@@ -591,9 +591,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The new space wars: lessons from Ukraine and the Middle East",
-        "url": "https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east",
-        "publishedAt": "2026-07-31T12:00:00+00:00",
+        "title": "NASA still assessing Starliner-1 flight opportunities",
+        "url": "https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities",
+        "publishedAt": "2026-07-31T12:13:25+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -609,9 +609,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "JIATF-401 awards CACI $500M for non-kinetic cUAS",
-        "url": "https://breakingdefense.com/2026/07/jiatf-401-awards-caci-500m-for-non-kinetic-cuas",
-        "publishedAt": "2026-07-30T21:20:18+00:00",
+        "title": "Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027",
+        "url": "https://breakingdefense.com/2026/07/light-at-the-end-of-m-codes-tunnel-receivers-for-ships-planes-to-finish-tests-by-2027",
+        "publishedAt": "2026-07-31T12:08:03+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -627,6 +627,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "The new space wars: lessons from Ukraine and the Middle East",
+        "url": "https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east",
+        "publishedAt": "2026-07-31T12:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "This Month at ESA: July 2026",
         "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/This_Month_at_ESA_July_2026",
         "publishedAt": "2026-07-31T11:00:00+00:00",
@@ -640,15 +649,6 @@
         "url": "https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations",
         "publishedAt": "2026-07-31T00:00:37+00:00",
         "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "HydroGNSS data open for new insights into Earth’s water",
-        "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/HydroGNSS_data_open_for_new_insights_into_Earth_s_water",
-        "publishedAt": "2026-07-31T09:36:00+00:00",
-        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
