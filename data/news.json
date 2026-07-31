@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T21:00:26+00:00",
+  "generatedAt": "2026-07-31T21:18:14+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-31T21:00:26+00:00",
+      "updatedAt": "2026-07-31T21:18:14+00:00",
       "stories": [
         {
           "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
@@ -49,6 +49,12 @@
           "source": "Space.com"
         },
         {
+          "title": "NASA to Host Florida Event Celebrating American Air, Space Leadership",
+          "url": "https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership",
+          "publishedAt": "2026-07-31T21:08:10+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "The Milky Way has a hidden feature you've probably never noticed. Here's how to find it",
           "url": "https://www.space.com/stargazing/the-milky-way-has-a-hidden-feature-youve-probably-never-noticed-heres-how-to-find-it",
           "publishedAt": "2026-07-31T20:00:00+00:00",
@@ -73,12 +79,6 @@
           "source": "Space.com"
         },
         {
-          "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
-          "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket",
-          "publishedAt": "2026-07-31T18:39:47+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "How to safely watch a solar eclipse",
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse",
           "publishedAt": "2026-07-31T14:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-31T21:00:26+00:00",
+      "updatedAt": "2026-07-31T21:18:14+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-31T21:00:26+00:00",
+      "updatedAt": "2026-07-31T21:18:14+00:00",
       "stories": [
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
@@ -271,7 +271,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-31T21:00:26+00:00",
+      "updatedAt": "2026-07-31T21:18:14+00:00",
       "stories": [
         {
           "title": "Facing a lack of kit, Space Force creates $981M pool to buy training capabilities",
@@ -290,6 +290,12 @@
           "url": "https://breakingdefense.com/2026/07/key-b-52-upgrades-face-cost-schedule-risks-gao",
           "publishedAt": "2026-07-31T19:09:48+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "‘Ready, but not done’: The Army will start scaling parts of its new C2 ecosystem to more units, but some of it might not move forward.",
+          "url": "https://defensescoop.com/2026/07/31/army-ngc2-start-scaling-parts-to-more-units",
+          "publishedAt": "2026-07-31T21:04:02+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Just one in three Americans back Iran war, most unsure of Trump’s goals, poll finds",
@@ -356,20 +362,20 @@
           "url": "https://defensescoop.com/2026/07/30/air-force-ngap-program-next-gen-engine-aircraft-integration",
           "publishedAt": "2026-07-30T19:06:44+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Air Force could tap up to 6 vendors for second increment of CCA drone program",
-          "url": "https://defensescoop.com/2026/07/30/air-force-cca-drone-program-increment-2-downselect",
-          "publishedAt": "2026-07-30T16:31:43+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-31T21:00:26+00:00",
+      "updatedAt": "2026-07-31T21:18:14+00:00",
       "stories": [
+        {
+          "title": "India is starting to pay for apps, not just download them",
+          "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them",
+          "publishedAt": "2026-07-31T21:07:45+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "OpenAI resets the cost curve with GPT 5.6 price drops",
           "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
@@ -404,12 +410,6 @@
           "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
           "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year",
           "publishedAt": "2026-07-31T15:16:17+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-          "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human",
-          "publishedAt": "2026-07-31T14:47:11+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -465,7 +465,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-31T21:00:26+00:00",
+      "updatedAt": "2026-07-31T21:18:14+00:00",
       "stories": [
         {
           "title": "KUKA deploys Automation Management Platform for North American automakers",
@@ -561,22 +561,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-07-31T21:00:26+00:00",
+    "updatedAt": "2026-07-31T21:18:14+00:00",
     "stories": [
       {
-        "title": "OpenAI resets the cost curve with GPT 5.6 price drops",
-        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-        "publishedAt": "2026-07-31T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "India is starting to pay for apps, not just download them",
+        "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them",
+        "publishedAt": "2026-07-31T21:07:45+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-        "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation",
-        "publishedAt": "2026-07-31T19:47:28+00:00",
-        "source": "TechCrunch AI",
+        "title": "OpenAI resets the cost curve with GPT 5.6 price drops",
+        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+        "publishedAt": "2026-07-31T09:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -766,6 +766,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-23"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-22"
   ]
 }
