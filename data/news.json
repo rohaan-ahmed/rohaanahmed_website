@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-31T09:00:26+00:00",
+  "generatedAt": "2026-07-31T10:00:24+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-07-31T09:00:26+00:00",
+      "updatedAt": "2026-07-31T10:00:24+00:00",
       "stories": [
         {
           "title": "Rules of the road needed for orbital data center constellations",
@@ -17,6 +17,12 @@
           "url": "https://www.esa.int/ESA_Multimedia/Images/2026/07/Earth_from_Space_New_Orleans_and_the_mighty_Mississippi",
           "publishedAt": "2026-07-31T08:00:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "Our favorite space and sci-fi Playmobil sets: From Star Trek playsets to ESA-collaborated models",
+          "url": "https://www.space.com/entertainment/space-toys-lego/our-favorite-space-and-sci-fi-playmobil-sets-from-star-trek-playsets-to-esa-collaborated-models",
+          "publishedAt": "2026-07-31T09:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "K2 Space raises $500 million for commercial, defense satellite expansion",
@@ -79,12 +85,6 @@
           "source": "Space.com"
         },
         {
-          "title": "HBO's 'Lanterns' teases shape-shifting Manhunters: 'The most dangerous beings to ever exist in the galaxy' (video)",
-          "url": "https://www.space.com/entertainment/hbos-lanterns-teases-shape-shifting-manhunters-the-most-dangerous-beings-to-ever-exist-in-the-galaxy-video",
-          "publishedAt": "2026-07-30T16:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "SMOS salinity could offer early indicator of El Niño",
           "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/SMOS_salinity_could_offer_early_indicator_of_El_Nino",
           "publishedAt": "2026-07-30T07:20:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-07-31T09:00:26+00:00",
+      "updatedAt": "2026-07-31T10:00:24+00:00",
       "stories": [
         {
           "title": "Canada launches Strategic Exports Office to centralize dealmaking",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-07-31T09:00:26+00:00",
+      "updatedAt": "2026-07-31T10:00:24+00:00",
       "stories": [
         {
           "title": "NordSpace bets on Calgary’s missile makers",
@@ -271,7 +271,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-07-31T09:00:26+00:00",
+      "updatedAt": "2026-07-31T10:00:24+00:00",
       "stories": [
         {
           "title": "JIATF-401 awards CACI $500M for non-kinetic cUAS",
@@ -368,8 +368,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-07-31T09:00:26+00:00",
+      "updatedAt": "2026-07-31T10:00:24+00:00",
       "stories": [
+        {
+          "title": "OpenAI resets the cost curve with GPT 5.6 price drops",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "publishedAt": "2026-07-31T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Anthropic says its own AI models breached three companies during security tests",
           "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests",
@@ -389,6 +395,12 @@
           "source": "TechCrunch AI"
         },
         {
+          "title": "Investors love AI, as long as you’re a cloud host",
+          "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host",
+          "publishedAt": "2026-07-30T22:41:41+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "OpenAI's escaped AIs claim another victim",
           "url": "https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28",
           "publishedAt": "2026-07-30T09:00:00+00:00",
@@ -401,40 +413,16 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Thinking Machines Cofounder Joined OpenAI (4 minute read)",
-          "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai",
-          "publishedAt": "2026-07-30T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "publishedAt": "2026-07-30T20:26:38+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "SpaceXAI launches Grok Voice Think Fast 2.0 on Agent Builder (2 minute read)",
-          "url": "https://www.testingcatalog.com/spacexai-launches-grok-voice-think-fast-2-0-on-agent-builder",
-          "publishedAt": "2026-07-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark (5 minute read)",
-          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-          "publishedAt": "2026-07-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "We're launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control (1 minute read)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5",
-          "publishedAt": "2026-07-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Escha-W2 (Hugging Face Repo)",
-          "url": "https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
-          "publishedAt": "2026-07-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "CPU-Friendly Long-Context Encoders (18 minute read)",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-          "publishedAt": "2026-07-30T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+          "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag",
+          "publishedAt": "2026-07-30T19:44:16+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "1,000+ frontier staffers ask U.S. for an AI brake pedal",
@@ -459,13 +447,25 @@
           "url": "https://www.anthropic.com/news/position-open-weights-models",
           "publishedAt": "2026-07-28T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Microsoft’s powerful new cybersecurity model",
+          "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash",
+          "publishedAt": "2026-07-28T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic punches up with Claude Opus 5",
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "publishedAt": "2026-07-27T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-07-31T09:00:26+00:00",
+      "updatedAt": "2026-07-31T10:00:24+00:00",
       "stories": [
         {
           "title": "5 Physical AI Infrastructure Platforms Shaping Robotics in 2026",
@@ -522,6 +522,12 @@
           "source": "The Robot Report"
         },
         {
+          "title": "How integrated actuators improve humanoid robot joint performance and system integration",
+          "url": "https://www.therobotreport.com/how-integrated-actuators-improve-humanoid-robot-joint-performance-and-system-integration",
+          "publishedAt": "2026-07-28T13:25:37+00:00",
+          "source": "The Robot Report"
+        },
+        {
           "title": "Robot Finger Feels in Color",
           "url": "https://spectrum.ieee.org/robot-finger",
           "publishedAt": "2026-07-28T15:00:03+00:00",
@@ -550,32 +556,26 @@
           "url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
           "publishedAt": "2026-07-24T15:30:01+00:00",
           "source": "IEEE Spectrum Robotics"
-        },
-        {
-          "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
-          "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else",
-          "publishedAt": "2026-07-21T10:00:00+00:00",
-          "source": "TechCrunch Robotics"
         }
       ]
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-07-31T09:00:26+00:00",
+    "updatedAt": "2026-07-31T10:00:24+00:00",
     "stories": [
       {
-        "title": "Anthropic says its own AI models breached three companies during security tests",
-        "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests",
-        "publishedAt": "2026-07-31T01:06:54+00:00",
-        "source": "TechCrunch AI",
+        "title": "OpenAI resets the cost curve with GPT 5.6 price drops",
+        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+        "publishedAt": "2026-07-31T09:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-        "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares",
-        "publishedAt": "2026-07-30T23:25:58+00:00",
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests",
+        "publishedAt": "2026-07-31T01:06:54+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -636,18 +636,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "K2 Space raises $500 million for commercial, defense satellite expansion",
-        "url": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion",
-        "publishedAt": "2026-07-30T18:42:21+00:00",
-        "source": "SpaceNews",
+        "title": "Our favorite space and sci-fi Playmobil sets: From Star Trek playsets to ESA-collaborated models",
+        "url": "https://www.space.com/entertainment/space-toys-lego/our-favorite-space-and-sci-fi-playmobil-sets-from-star-trek-playsets-to-esa-collaborated-models",
+        "publishedAt": "2026-07-31T09:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Roman Space Telescope on track for late August launch",
-        "url": "https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch",
-        "publishedAt": "2026-07-30T17:51:10+00:00",
+        "title": "K2 Space raises $500 million for commercial, defense satellite expansion",
+        "url": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion",
+        "publishedAt": "2026-07-30T18:42:21+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -765,5 +765,7 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": []
+  "warnings": [
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-20"
+  ]
 }
