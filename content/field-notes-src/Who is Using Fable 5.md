@@ -10,7 +10,7 @@ sample: false
 ---
 
 
-Fable 5. Anthropic's "Mythos-class" Artificial Intelligence model which they have bubble-wrapped *just* enough to permit us less civilized chimps to touch. "Mythos-class", I say, but not the actual "Mythos" because *that* model is too dangerous for the average yous-and-mes - we could hurt ourselves and those around us. It is for our own good, of course, in the same way that I don't let my young kids play knives. We thank you, Your Grace, King Dario, the First of His Name, Father of the Claudes, Protector of the Neural Nets.
+Fable 5. Anthropic's "Mythos-class" Artificial Intelligence model which they have bubble-wrapped *just* enough to permit us less civilized chimps to touch. "Mythos-class", I say, but not actually "Mythos" because *that* model is too dangerous for the average yous-and-mes - we could hurt ourselves and those around us. It is for our own good, of course, in the same way that I don't let my young kids play with knives. We thank His Grace, King Dario, the First of His Name, Father of the Claudes, Protector of the Neural Nets.
 
 
 
@@ -18,11 +18,11 @@ Fable 5. Anthropic's "Mythos-class" Artificial Intelligence model which they hav
 
 
 
-If I sound bitter, it's because I am. I've been working in AI for a long time - long before the term "Prompt Engineering" existed - back when, if you made significant advanvement in the field, the obvious thing to do was to publish everything - the code, the paper, the metrics. We didn't just stand on the shoulders of giants, we got together to make human-pyramids.
+If I sound bitter, it's because I am. I've been working in AI for a long time - long before the term "Prompt Engineering" existed - back when, if you did something significant in the field, the obvious thing to do was to publish everything - the code, the paper, the metrics. We didn't just stand on the shoulders of giants, we got together to make human-pyramids.
 
 
 
-The reason we moved away from this paradigm, the reason so much of AI became proprietary and closed-source, was because, post ChatGPT, the tremendous commercial benefits of AI became apparent to the investor-class. *Investors* don't *invest* if what they are *investing* in can be *replicated* by others - obviously. From then on, the deal was that the so-called "fronter-labs" - the OpenAI and DeepMinds of the world - would continue carrying our torch and pushing the R\&D, using their disgusting amounts of funding, and making that available to us, the peasants, at an affordable cost. In return, we would build, build, build like never before - at home, at work, on vacation, everywhere - and make their *investors* happy with the increasing subscription numbers.
+The reason we moved away from this paradigm, the reason so much of AI became proprietary and closed-source, was because, post ChatGPT, the tremendous commercial benefits of AI became apparent to the investor-class. *Investors* don't *invest* if what they are *investing* in can be *stolen* by others - obviously. From then on, the deal was that the so-called "frontier-labs" - the OpenAI and DeepMinds of the world - would continue carrying our torch, using their disgusting amounts of funding to push R\&D and make it accessible to the rest of us, the peasants, at an affordable cost. In return, we would build, build, build like never before - at home, at work, on vacation, everywhere - and make their *investors* happy with the increasing subscription numbers.
 
 
 
@@ -30,11 +30,11 @@ The reason we moved away from this paradigm, the reason so much of AI became pro
 
 
 
-Anthropic, specifically, made its name as the company for the little-guy - the pro-developer, pro-safety, anti-OpenAI hero, offering more "Open" and more "AI". Claude Code was a masterstroke, and was quickly adopted by the hackers and the nerds almost overnight. Anthropic used this base to become favourable to enterprise customers (think big business behemoths, like Warlmart, or TD Bank, or PwC, or the Government). The pitch was simple - your tech-people already use Claude Code at home, why not wrap it in a security blanket and use it at work to increase every engineer's efficiency? The pitch worked fantastically. Within a matter of months, I saw "ChatGPT" fade away from business vocabulary whilst everyone in the industry had a buddy named "Claude".
+Anthropic, specifically, made its name as the company for the little-guy - the pro-developer and pro-safety alternative to OpenAI which was both more "Open" and more "AI". Claude Code was a masterstroke, and was adopted by the hackers and the nerds en-masse almost overnight. Anthropic used this baseline adoption and fervor to become favourable to enterprise customers (think big business behemoths, like Warlmart, or TD Bank, or PwC, or the Government). The pitch was simple - your tech-people already use Claude Code at home, why not wrap it in a security blanket and use it at work to increase every engineer's efficiency? The pitch worked fantastically. Within a matter of months, I saw "ChatGPT" fade away from business vocabulary whilst everyone in the industry had a buddy named "Claude".
 
 
 
-When, in early 2026, Anthropic refused to bend the knee to part-time Secetary of Defence, full-time war enthusiast*,* and the greatest strategist the world has evern known - Pete "Gengis" Hegseth - it endeared them to the average AI user even more. Not allowing their models to be used for *autonomous killing* and *surveillance of US civilians* seemed like a pretty low bar, and yet, Anthropic ended up being the standard bearer of AI resistance. OpenAI, Google, xAI - all silently agreed to DoD's terms, but Anthropic refused. I remember having conversations with multiple people in my relatively small circle who claimed to have cancelled their ChatGPT subscriptions in the following weeks. Anthropic could do no wrong, and the numbers showed it.
+When, in early 2026, Anthropic refused to bend the knee to part-time Secretary of Defence, full-time war enthusiast, and the greatest strategist the world has ever known - Pete "Genghis" Hegseth - it endeared them to the average person even more. Not allowing their models to be used for *autonomous killing* and *surveillance of US civilians* seemed like a pretty low bar, and yet, Anthropic ended up being the standard bearer of AI resistance. OpenAI, Google, xAI - all silently agreed to DoD's terms, but Anthropic refused. I remember having conversations with multiple people in my relatively small circle who claimed to have cancelled their ChatGPT subscriptions in the following weeks. Anthropic was on an historic rise, and the numbers proved it.
 
 
 
@@ -42,21 +42,21 @@ When, in early 2026, Anthropic refused to bend the knee to part-time Secetary of
 
 
 
-That brings me back to Mythos and Fable. With the announcement of Mythos, Anthropic decided to reneg on their unspoken promise - they screwed the little guy who helped build them by allowing only a select few companies access to, what they claimed was, the unprecedented intelligence of Mythos under Project Glasswing. This, obviously, didn't go down well with the public - me included. Nobody likes to be told they cannot have the new toy because they cannot be trusted with it. 
+That brings me back to Mythos and Fable. With the announcement of Mythos, Anthropic decided to renege on their unspoken promise - they screwed-over the *little guy* who made them mainstream by allowing only a select few companies access to, what they claimed was, the unprecedented intelligence of Mythos. The name of the initative? Project Glasswing - more Johnny English than James Bond. This, obviously, didn't go down well with the public - me included. Nobody likes being told they cannot have the new toy because they cannot be trusted with it. 
 
 
 
-A few weeks later, when they released the much softened version of Mythos called Fable 5, they exceeded their own silliness. They put unfathomably ridiculous guardrails and rules around it. The THREE most notables ones were:
+A few weeks later, when they released the much softened version of Mythos called Fable 5, they exceeded their own silliness by putting unfathomably ridiculous guardrails and rules around it. The three most notables ones were:
 
 
 
-1. The **30-day data retention** policy, stating that Anthropic would store *all* data sent to Fable 5 for 30-days regardless of who it comes from, essentially ensured that Enterprise customers, for whom data is a competitive advantage, could never use it. 
-2. **Silent-degradation**, where the Fable 5 silently delegates its task to Opus if it deems the request to be too dangerous, ensured that nobody would trust its outputs.
-3. **Removing Fable 5 from their least expensive paid plans**, kicking their largest and most staunch user-base in the teeth.
+1. The **30-day data retention** policy, stating that Anthropic would store *all* data sent to Fable 5 for 30-days regardless of who it comes from, essentially ensuring that Enterprise customers, for whom data is a competitive advantage, would never use it. 
+2. **Silent-degradation**, where the Fable 5 silently delegates its tasks to Opus if it deems the request to be too dangerous, ensured that nobody would trust its outputs. 
+3. **Removing Fable 5 from their lowest-tier paid plans**, kicking their largest and most staunch user-base in the teeth - the average coder just trying to vibe-code something cool.
 
 
 
-Honestly, I have rarely seen so much goodwill lost so quickly. It took Meta years to accomplish the level of public distrust that Anthropic managed in 60-odd days starting June 2026. It's quite commendable in its own way.
+Honestly, I have rarely seen so much goodwill lost so quickly. It took Meta years to accomplish the level of public distrust that Anthropic managed to acquire in 60 days starting June 2026. It's quite commendable in its own way.
 
 
 
@@ -64,7 +64,7 @@ Honestly, I have rarely seen so much goodwill lost so quickly. It took Meta year
 
 
 
-The only people I know using Fable 5 regularly are YouTubers and Podcasters, and for the same reason, to tell the rest of us what we are missing out on. What percentage of Claude's users subscribe to a paid plan? What percentage of those subscriptions are for the Max plan? What percentage of API-based users are also non-Enterprise users?
+The only people I see using Fable 5 regularly are YouTubers and Podcasters, and for the same reason - to tell the rest of us what we are missing out on. What percentage of Claude's users subscribe to a paid plan? What percentage of those subscriptions are for the Max plan? What percentage of API-based users are also non-Enterprise users?
 
 
 
