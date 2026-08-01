@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01T04:00:29+00:00",
+  "generatedAt": "2026-08-01T04:42:39+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-01T04:00:29+00:00",
+      "updatedAt": "2026-08-01T04:42:39+00:00",
       "stories": [
         {
           "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
@@ -17,6 +17,12 @@
           "url": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2",
           "publishedAt": "2026-07-31T15:57:52+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
+          "url": "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus",
+          "publishedAt": "2026-08-01T04:05:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "Inside the effort to show Congress what war in space looks like",
@@ -73,12 +79,6 @@
           "source": "NASA"
         },
         {
-          "title": "NASA’s Newest Wind Tunnel Opens at NASA Langley",
-          "url": "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley",
-          "publishedAt": "2026-07-31T20:19:37+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "How to safely watch a solar eclipse",
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse",
           "publishedAt": "2026-07-31T14:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-01T04:00:29+00:00",
+      "updatedAt": "2026-08-01T04:42:39+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-01T04:00:29+00:00",
+      "updatedAt": "2026-08-01T04:42:39+00:00",
       "stories": [
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
@@ -271,7 +271,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-01T04:00:29+00:00",
+      "updatedAt": "2026-08-01T04:42:39+00:00",
       "stories": [
         {
           "title": "Facing a lack of kit, Space Force creates $981M pool to buy training capabilities",
@@ -368,7 +368,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-01T04:00:29+00:00",
+      "updatedAt": "2026-08-01T04:42:39+00:00",
       "stories": [
         {
           "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -465,7 +465,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-01T04:00:29+00:00",
+      "updatedAt": "2026-08-01T04:42:39+00:00",
       "stories": [
         {
           "title": "FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing",
@@ -561,7 +561,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-01T04:00:29+00:00",
+    "updatedAt": "2026-08-01T04:42:39+00:00",
     "stories": [
       {
         "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -636,18 +636,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Inside the effort to show Congress what war in space looks like",
-        "url": "https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like",
-        "publishedAt": "2026-07-31T13:30:00+00:00",
-        "source": "SpaceNews",
+        "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
+        "url": "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus",
+        "publishedAt": "2026-08-01T04:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Space Force picks 15 companies for $981 million training range contract",
-        "url": "https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract",
-        "publishedAt": "2026-07-31T13:18:20+00:00",
+        "title": "Inside the effort to show Congress what war in space looks like",
+        "url": "https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like",
+        "publishedAt": "2026-07-31T13:30:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
