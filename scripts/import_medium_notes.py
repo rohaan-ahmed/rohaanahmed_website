@@ -164,12 +164,9 @@ def sanitize_medium_html(raw_html: str) -> tuple[str, list[str]]:
 
 def derive_summary(paragraphs: list[str]) -> str:
     for paragraph in paragraphs:
-        lowered = paragraph.lower()
-        if lowered.startswith("disclaimer"):
-            continue
-        if len(paragraph) < 40:
-            continue
-        return paragraph[:260].rsplit(" ", 1)[0].rstrip(".,;:") + "."
+        summary = re.sub(r"\s+", " ", paragraph).strip()
+        if summary:
+            return summary
     return "Imported from Medium."
 
 
