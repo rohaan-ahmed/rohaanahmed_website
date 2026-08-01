@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-08-01T16:00:28+00:00",
+  "generatedAt": "2026-08-01T16:41:58+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-01T16:00:28+00:00",
+      "updatedAt": "2026-08-01T16:41:58+00:00",
       "stories": [
         {
           "title": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
           "url": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat",
           "publishedAt": "2026-08-01T13:38:42+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Move over He-Man, Mattel's Major Matt Mason space toys could still be blasting off for Hollywood",
+          "url": "https://www.space.com/entertainment/space-movies-shows/move-over-he-man-mattels-major-matt-mason-space-toys-could-still-be-blasting-off-for-hollywood",
+          "publishedAt": "2026-08-01T16:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Dinosaur-killing asteroid may have caused firestorms 17 times hotter than the thermal limit lethal to humans",
@@ -22,12 +28,6 @@
           "title": "On this day in space! Aug. 1, 1968: NASA ends production of Saturn V moon rocket",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-1-2026",
           "publishedAt": "2026-08-01T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "'Flight of the Navigator' at 40: the Disney space movie that messed with time dilation long before 'Interstellar'",
-          "url": "https://www.space.com/entertainment/space-movies-shows/flight-of-the-navigator-at-40-the-disney-space-movie-that-messed-with-time-dilation-long-before-interstellar",
-          "publishedAt": "2026-08-01T12:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-01T16:00:28+00:00",
+      "updatedAt": "2026-08-01T16:41:58+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-01T16:00:28+00:00",
+      "updatedAt": "2026-08-01T16:41:58+00:00",
       "stories": [
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
@@ -271,7 +271,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-01T16:00:28+00:00",
+      "updatedAt": "2026-08-01T16:41:58+00:00",
       "stories": [
         {
           "title": "Facing a lack of kit, Space Force creates $981M pool to buy training capabilities",
@@ -368,7 +368,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-01T16:00:28+00:00",
+      "updatedAt": "2026-08-01T16:41:58+00:00",
       "stories": [
         {
           "title": "This $9 key physically locks your most addictive apps",
@@ -465,7 +465,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-01T16:00:28+00:00",
+      "updatedAt": "2026-08-01T16:41:58+00:00",
       "stories": [
         {
           "title": "Top 10 robotics stories of July 2026",
@@ -561,7 +561,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-01T16:00:28+00:00",
+    "updatedAt": "2026-08-01T16:41:58+00:00",
     "stories": [
       {
         "title": "This $9 key physically locks your most addictive apps",
@@ -627,6 +627,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Move over He-Man, Mattel's Major Matt Mason space toys could still be blasting off for Hollywood",
+        "url": "https://www.space.com/entertainment/space-movies-shows/move-over-he-man-mattels-major-matt-mason-space-toys-could-still-be-blasting-off-for-hollywood",
+        "publishedAt": "2026-08-01T16:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Dinosaur-killing asteroid may have caused firestorms 17 times hotter than the thermal limit lethal to humans",
         "url": "https://www.space.com/astronomy/asteroids/dinosaur-killing-asteroid-may-have-caused-firestorms-17-times-hotter-than-the-thermal-limit-lethal-to-humans",
         "publishedAt": "2026-08-01T14:00:00+00:00",
@@ -639,15 +648,6 @@
         "title": "On this day in space! Aug. 1, 1968: NASA ends production of Saturn V moon rocket",
         "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-1-2026",
         "publishedAt": "2026-08-01T14:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "'Flight of the Navigator' at 40: the Disney space movie that messed with time dilation long before 'Interstellar'",
-        "url": "https://www.space.com/entertainment/space-movies-shows/flight-of-the-navigator-at-40-the-disney-space-movie-that-messed-with-time-dilation-long-before-interstellar",
-        "publishedAt": "2026-08-01T12:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
