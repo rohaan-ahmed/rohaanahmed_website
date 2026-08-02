@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-02T20:38:25+00:00",
+  "generatedAt": "2026-08-02T21:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-02T20:38:25+00:00",
+      "updatedAt": "2026-08-02T21:00:30+00:00",
       "stories": [
         {
           "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-02T20:38:25+00:00",
+      "updatedAt": "2026-08-02T21:00:30+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-02T20:38:25+00:00",
+      "updatedAt": "2026-08-02T21:00:30+00:00",
       "stories": [
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-02T20:38:25+00:00",
+      "updatedAt": "2026-08-02T21:00:30+00:00",
       "stories": [
         {
           "title": "Facing a lack of kit, Space Force creates $981M pool to buy training capabilities",
@@ -338,8 +338,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-02T20:38:25+00:00",
+      "updatedAt": "2026-08-02T21:00:30+00:00",
       "stories": [
+        {
+          "title": "Sam Altman and AI’s decel debate",
+          "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate",
+          "publishedAt": "2026-08-02T20:54:22+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
           "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps",
@@ -368,12 +374,6 @@
           "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
           "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok",
           "publishedAt": "2026-07-31T22:47:26+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "India is starting to pay for apps, not just download them",
-          "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them",
-          "publishedAt": "2026-07-31T21:07:45+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-02T20:38:25+00:00",
+      "updatedAt": "2026-08-02T21:00:30+00:00",
       "stories": [
         {
           "title": "Google DeepMind says Gemini Robotics 2 enables full body control",
@@ -531,21 +531,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-02T20:38:25+00:00",
+    "updatedAt": "2026-08-02T21:00:30+00:00",
     "stories": [
       {
-        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-        "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps",
-        "publishedAt": "2026-08-01T20:26:04+00:00",
+        "title": "Sam Altman and AI’s decel debate",
+        "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate",
+        "publishedAt": "2026-08-02T20:54:22+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-        "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy",
-        "publishedAt": "2026-08-01T19:45:45+00:00",
+        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+        "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps",
+        "publishedAt": "2026-08-01T20:26:04+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -736,6 +736,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-16"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-17"
   ]
 }
