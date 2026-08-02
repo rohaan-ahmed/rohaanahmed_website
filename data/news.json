@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-02T21:00:30+00:00",
+  "generatedAt": "2026-08-02T21:31:56+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-02T21:00:30+00:00",
+      "updatedAt": "2026-08-02T21:31:56+00:00",
       "stories": [
         {
           "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-02T21:00:30+00:00",
+      "updatedAt": "2026-08-02T21:31:56+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-02T21:00:30+00:00",
+      "updatedAt": "2026-08-02T21:31:56+00:00",
       "stories": [
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-02T21:00:30+00:00",
+      "updatedAt": "2026-08-02T21:31:56+00:00",
       "stories": [
         {
           "title": "Facing a lack of kit, Space Force creates $981M pool to buy training capabilities",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-02T21:00:30+00:00",
+      "updatedAt": "2026-08-02T21:31:56+00:00",
       "stories": [
         {
           "title": "Sam Altman and AI’s decel debate",
@@ -359,28 +359,46 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Sam Altman is still making the case for parenting via ChatGPT",
-          "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt",
-          "publishedAt": "2026-08-01T17:07:34+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "This $9 key physically locks your most addictive apps",
-          "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps",
-          "publishedAt": "2026-08-01T15:58:17+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-          "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok",
-          "publishedAt": "2026-07-31T22:47:26+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "OpenAI resets the cost curve with GPT 5.6 price drops",
           "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
           "publishedAt": "2026-07-31T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Inkling-Small (4 minute read)",
+          "url": "https://thinkingmachines.ai/news/inkling-small",
+          "publishedAt": "2026-07-31T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Gemini Robotics ER 2 (1 minute read)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2",
+          "publishedAt": "2026-07-31T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Building Cloud Environments for Coding Agents (13 minute read)",
+          "url": "https://cursor.com/blog/cloud-agent-environment",
+          "publishedAt": "2026-07-31T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Agent Graveyard Isn't Real Anymore (6 minute read)",
+          "url": "https://x.com/thejessezhang/status/2082885504371171639",
+          "publishedAt": "2026-07-31T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Open-Weight LLMs Have Caught Up on Accuracy (21 minute read)",
+          "url": "https://arjunbansal.substack.com/p/open-weight-llms-have-caught-up-on",
+          "publishedAt": "2026-07-31T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The WASTE inference engine (14 minute read)",
+          "url": "https://marcobambini.substack.com/p/the-waste-inference-engine",
+          "publishedAt": "2026-07-31T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI's escaped AIs claim another victim",
@@ -411,31 +429,13 @@
           "url": "https://huggingface.co/moonshotai/Kimi-K3",
           "publishedAt": "2026-07-28T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic sets the record straight on open weights",
-          "url": "https://www.anthropic.com/news/position-open-weights-models",
-          "publishedAt": "2026-07-28T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Microsoft’s powerful new cybersecurity model",
-          "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash",
-          "publishedAt": "2026-07-28T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic punches up with Claude Opus 5",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "publishedAt": "2026-07-27T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-02T21:00:30+00:00",
+      "updatedAt": "2026-08-02T21:31:56+00:00",
       "stories": [
         {
           "title": "Google DeepMind says Gemini Robotics 2 enables full body control",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-02T21:00:30+00:00",
+    "updatedAt": "2026-08-02T21:31:56+00:00",
     "stories": [
       {
         "title": "Sam Altman and AI’s decel debate",
@@ -735,7 +735,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-17"
-  ]
+  "warnings": []
 }
