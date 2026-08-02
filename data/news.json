@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-02T14:00:27+00:00",
+  "generatedAt": "2026-08-02T14:13:06+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-02T14:00:27+00:00",
+      "updatedAt": "2026-08-02T14:13:06+00:00",
       "stories": [
         {
           "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
@@ -13,15 +13,21 @@
           "source": "SpaceNews"
         },
         {
-          "title": "From Hardspace to Clearspace: How space salvage games compare to real debris removal",
-          "url": "https://www.space.com/entertainment/space-games/from-hardspace-to-clearspace-how-space-salvage-games-compare-to-real-debris-removal",
-          "publishedAt": "2026-08-02T12:00:00+00:00",
+          "title": "Double digits! Air-launched 'Talon A' hypersonic vehicle notches big flight milestone",
+          "url": "https://www.space.com/technology/double-digits-air-launched-talon-a-hypersonic-vehicle-notches-big-flight-milestone",
+          "publishedAt": "2026-08-02T14:00:00+00:00",
           "source": "Space.com"
         },
         {
-          "title": "Rocket issue delays 1st orbital rocket launch from the UK",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-issue-delays-1st-orbital-rocket-launch-from-the-uk",
-          "publishedAt": "2026-08-02T10:00:00+00:00",
+          "title": "On this day in space! Aug. 2, 1971: Apollo 15 makes 1st-ever televised liftoff from the moon",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-2-2026",
+          "publishedAt": "2026-08-02T14:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "From Hardspace to Clearspace: How space salvage games compare to real debris removal",
+          "url": "https://www.space.com/entertainment/space-games/from-hardspace-to-clearspace-how-space-salvage-games-compare-to-real-debris-removal",
+          "publishedAt": "2026-08-02T12:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -29,12 +35,6 @@
           "url": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration",
           "publishedAt": "2026-08-01T20:28:39+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Celestron Moon Mission 100mm tabletop Dobsonian review",
-          "url": "https://www.space.com/stargazing/skywatching-kit/celestron-moon-mission-100mm-tabletop-dobsonian-review",
-          "publishedAt": "2026-08-02T09:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-02T14:00:27+00:00",
+      "updatedAt": "2026-08-02T14:13:06+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-02T14:00:27+00:00",
+      "updatedAt": "2026-08-02T14:13:06+00:00",
       "stories": [
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
@@ -265,7 +265,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-02T14:00:27+00:00",
+      "updatedAt": "2026-08-02T14:13:06+00:00",
       "stories": [
         {
           "title": "Facing a lack of kit, Space Force creates $981M pool to buy training capabilities",
@@ -362,7 +362,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-02T14:00:27+00:00",
+      "updatedAt": "2026-08-02T14:13:06+00:00",
       "stories": [
         {
           "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
@@ -459,7 +459,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-02T14:00:27+00:00",
+      "updatedAt": "2026-08-02T14:13:06+00:00",
       "stories": [
         {
           "title": "Google DeepMind says Gemini Robotics 2 enables full body control",
@@ -555,7 +555,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-02T14:00:27+00:00",
+    "updatedAt": "2026-08-02T14:13:06+00:00",
     "stories": [
       {
         "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
@@ -621,28 +621,28 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Double digits! Air-launched 'Talon A' hypersonic vehicle notches big flight milestone",
+        "url": "https://www.space.com/technology/double-digits-air-launched-talon-a-hypersonic-vehicle-notches-big-flight-milestone",
+        "publishedAt": "2026-08-02T14:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "On this day in space! Aug. 2, 1971: Apollo 15 makes 1st-ever televised liftoff from the moon",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-2-2026",
+        "publishedAt": "2026-08-02T14:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "From Hardspace to Clearspace: How space salvage games compare to real debris removal",
         "url": "https://www.space.com/entertainment/space-games/from-hardspace-to-clearspace-how-space-salvage-games-compare-to-real-debris-removal",
         "publishedAt": "2026-08-02T12:00:00+00:00",
         "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Rocket issue delays 1st orbital rocket launch from the UK",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-issue-delays-1st-orbital-rocket-launch-from-the-uk",
-        "publishedAt": "2026-08-02T10:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Space Force awards K2 Space $22.9 million for laser communications demonstration",
-        "url": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration",
-        "publishedAt": "2026-08-01T20:28:39+00:00",
-        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
