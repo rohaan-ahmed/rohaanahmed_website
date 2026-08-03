@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-03T21:16:32+00:00",
+  "generatedAt": "2026-08-03T22:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-03T21:16:32+00:00",
+      "updatedAt": "2026-08-03T22:00:32+00:00",
       "stories": [
         {
           "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-03T21:16:32+00:00",
+      "updatedAt": "2026-08-03T22:00:32+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-03T21:16:32+00:00",
+      "updatedAt": "2026-08-03T22:00:32+00:00",
       "stories": [
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-03T21:16:32+00:00",
+      "updatedAt": "2026-08-03T22:00:32+00:00",
       "stories": [
         {
           "title": "K2 tapped to host Space Force satellite laser links tests",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-03T21:16:32+00:00",
+      "updatedAt": "2026-08-03T22:00:32+00:00",
       "stories": [
         {
           "title": "OpenAI’s ‘Astra’ cracks long-open math problems",
@@ -359,7 +359,7 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+          "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
           "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models",
           "publishedAt": "2026-08-03T19:28:57+00:00",
           "source": "TechCrunch AI"
@@ -435,8 +435,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-03T21:16:32+00:00",
+      "updatedAt": "2026-08-03T22:00:32+00:00",
       "stories": [
+        {
+          "title": "igus launches energy chain with 600-degree rotation for industrial robots",
+          "url": "https://www.therobotreport.com/igus-launches-energy-chain-600-degree-rotation-industrial-robots",
+          "publishedAt": "2026-08-03T21:06:07+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators",
           "url": "https://www.therobotreport.com/hebi-robotics-earns-nasa-sbir-grant-fast-track-miniaturized-actuators",
@@ -492,12 +498,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "DoorDash gains FAA certification to operate its own drone delivery program",
-          "url": "https://www.therobotreport.com/doordash-gains-faa-certification-to-operate-its-own-drone-delivery-program",
-          "publishedAt": "2026-07-30T18:06:18+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
           "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security",
           "publishedAt": "2026-07-29T17:41:09+00:00",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-03T21:16:32+00:00",
+    "updatedAt": "2026-08-03T22:00:32+00:00",
     "stories": [
       {
         "title": "OpenAI’s ‘Astra’ cracks long-open math problems",
@@ -588,9 +588,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators",
-        "url": "https://www.therobotreport.com/hebi-robotics-earns-nasa-sbir-grant-fast-track-miniaturized-actuators",
-        "publishedAt": "2026-08-03T17:17:46+00:00",
+        "title": "igus launches energy chain with 600-degree rotation for industrial robots",
+        "url": "https://www.therobotreport.com/igus-launches-energy-chain-600-degree-rotation-industrial-robots",
+        "publishedAt": "2026-08-03T21:06:07+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
