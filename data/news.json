@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-03T04:00:25+00:00",
+  "generatedAt": "2026-08-03T04:45:09+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-03T04:00:25+00:00",
+      "updatedAt": "2026-08-03T04:45:09+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
+          "url": "https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula",
+          "publishedAt": "2026-08-03T04:05:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
           "url": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract",
@@ -73,12 +79,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "What’s Up: August 2026 Skywatching Tips from NASA",
-          "url": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa",
-          "publishedAt": "2026-07-31T22:35:36+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "How to safely watch a solar eclipse",
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse",
           "publishedAt": "2026-07-31T14:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-03T04:00:25+00:00",
+      "updatedAt": "2026-08-03T04:45:09+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-03T04:00:25+00:00",
+      "updatedAt": "2026-08-03T04:45:09+00:00",
       "stories": [
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-03T04:00:25+00:00",
+      "updatedAt": "2026-08-03T04:45:09+00:00",
       "stories": [
         {
           "title": "Facing a lack of kit, Space Force creates $981M pool to buy training capabilities",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-03T04:00:25+00:00",
+      "updatedAt": "2026-08-03T04:45:09+00:00",
       "stories": [
         {
           "title": "Sam Altman and AI’s decel debate",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-03T04:00:25+00:00",
+      "updatedAt": "2026-08-03T04:45:09+00:00",
       "stories": [
         {
           "title": "Google DeepMind says Gemini Robotics 2 enables full body control",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-03T04:00:25+00:00",
+    "updatedAt": "2026-08-03T04:45:09+00:00",
     "stories": [
       {
         "title": "Sam Altman and AI’s decel debate",
@@ -561,10 +561,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
-        "url": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract",
-        "publishedAt": "2026-08-02T12:03:27+00:00",
-        "source": "SpaceNews",
+        "title": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
+        "url": "https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula",
+        "publishedAt": "2026-08-03T04:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -597,6 +597,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
+        "url": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract",
+        "publishedAt": "2026-08-02T12:03:27+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Gears of War: E-Day: Release date, platforms & everything else we know about Marcus Fenix's return",
         "url": "https://www.space.com/entertainment/space-games/gears-of-war-e-day-release-date-platforms-and-everything-else-we-know-about-marcus-fenixs-return",
         "publishedAt": "2026-08-02T16:00:00+00:00",
@@ -608,15 +617,6 @@
       {
         "title": "Double digits! Air-launched 'Talon A' hypersonic vehicle notches big flight milestone",
         "url": "https://www.space.com/technology/double-digits-air-launched-talon-a-hypersonic-vehicle-notches-big-flight-milestone",
-        "publishedAt": "2026-08-02T14:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "On this day in space! Aug. 2, 1971: Apollo 15 makes 1st-ever televised liftoff from the moon",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-2-2026",
         "publishedAt": "2026-08-02T14:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
@@ -736,6 +736,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-21"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-17"
   ]
 }
