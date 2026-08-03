@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-03T18:00:39+00:00",
+  "generatedAt": "2026-08-03T18:21:57+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-03T18:00:39+00:00",
+      "updatedAt": "2026-08-03T18:21:57+00:00",
       "stories": [
         {
           "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
@@ -23,6 +23,12 @@
           "url": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement",
           "publishedAt": "2026-08-03T12:15:34+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Jupiter's moon Europa may have signs of life in its buried ocean — but can we get to them?",
+          "url": "https://www.space.com/space-exploration/search-for-life/jupiters-moon-europa-may-have-signs-of-life-in-its-buried-ocean-but-can-we-get-to-them",
+          "publishedAt": "2026-08-03T18:12:21+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Guinea-Bissau Tidal Waters",
@@ -46,12 +52,6 @@
           "title": "The 1st 'three-headed' asteroid | Space photo of the day for Aug. 3, 2026",
           "url": "https://www.space.com/astronomy/asteroids/the-1st-three-headed-asteroid-space-photo-of-the-day-for-aug-3-2026",
           "publishedAt": "2026-08-03T14:20:32+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "On this day in space! Aug. 3, 2004: NASA launches MESSENGER spacecraft to orbit Mercury",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-3-2026",
-          "publishedAt": "2026-08-03T14:05:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-03T18:00:39+00:00",
+      "updatedAt": "2026-08-03T18:21:57+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-03T18:00:39+00:00",
+      "updatedAt": "2026-08-03T18:21:57+00:00",
       "stories": [
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
@@ -241,8 +241,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-03T18:00:39+00:00",
+      "updatedAt": "2026-08-03T18:21:57+00:00",
       "stories": [
+        {
+          "title": "With Hormuz in the spotlight, the Navy can do better",
+          "url": "https://breakingdefense.com/2026/08/with-hormuz-in-the-spotlight-the-navy-can-do-better",
+          "publishedAt": "2026-08-03T18:10:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Rheinmetall unveils new guided-missile frigate projected for North American tender",
           "url": "https://breakingdefense.com/2026/08/rheinmetall-unveils-new-guided-missile-frigate-projected-for-north-american-tender",
@@ -292,12 +298,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Facing a lack of kit, Space Force creates $981M pool to buy training capabilities",
-          "url": "https://breakingdefense.com/2026/07/facing-a-lack-of-kit-space-force-creates-981m-pool-to-buy-training-capabilities",
-          "publishedAt": "2026-07-31T20:01:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Pentagon’s counter-drone task force inks $500M contract for SkyValor ‘detect and defeat’ system after border testing",
           "url": "https://defensescoop.com/2026/07/31/pentagon-counter-drone-task-force-500m-contract-caci-skyvalor",
           "publishedAt": "2026-07-31T21:45:27+00:00",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-03T18:00:39+00:00",
+      "updatedAt": "2026-08-03T18:21:57+00:00",
       "stories": [
         {
           "title": "OpenAI’s ‘Astra’ cracks long-open math problems",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-03T18:00:39+00:00",
+      "updatedAt": "2026-08-03T18:21:57+00:00",
       "stories": [
         {
           "title": "HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-03T18:00:39+00:00",
+    "updatedAt": "2026-08-03T18:21:57+00:00",
     "stories": [
       {
         "title": "OpenAI’s ‘Astra’ cracks long-open math problems",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Rheinmetall unveils new guided-missile frigate projected for North American tender",
-        "url": "https://breakingdefense.com/2026/08/rheinmetall-unveils-new-guided-missile-frigate-projected-for-north-american-tender",
-        "publishedAt": "2026-08-03T17:38:42+00:00",
+        "title": "With Hormuz in the spotlight, the Navy can do better",
+        "url": "https://breakingdefense.com/2026/08/with-hormuz-in-the-spotlight-the-navy-can-do-better",
+        "publishedAt": "2026-08-03T18:10:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -615,9 +615,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Senate’s stopgap funding bill rejects special requests for Trump battleship, munitions",
-        "url": "https://breakingdefense.com/2026/08/senates-stopgap-funding-bill-rejects-special-requests-for-trump-battleship-munitions",
-        "publishedAt": "2026-08-03T16:00:56+00:00",
+        "title": "Rheinmetall unveils new guided-missile frigate projected for North American tender",
+        "url": "https://breakingdefense.com/2026/08/rheinmetall-unveils-new-guided-missile-frigate-projected-for-north-american-tender",
+        "publishedAt": "2026-08-03T17:38:42+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
