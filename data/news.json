@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-03T21:00:31+00:00",
+  "generatedAt": "2026-08-03T21:16:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-03T21:00:31+00:00",
+      "updatedAt": "2026-08-03T21:16:32+00:00",
       "stories": [
         {
           "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
@@ -23,6 +23,12 @@
           "url": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement",
           "publishedAt": "2026-08-03T12:15:34+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "A SpaceX rocket will crash into the moon this week. Why is it on a collision course?",
+          "url": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-this-week-why-is-it-on-a-collision-course",
+          "publishedAt": "2026-08-03T21:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Jack in for a cyberpunk jolt with this energized first trailer for Apple TV's 'Neuromancer'",
@@ -47,12 +53,6 @@
           "url": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters",
           "publishedAt": "2026-08-03T17:15:39+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "3 moons of Neptune may be remnants of ice worlds shattered in a catastrophic crash",
-          "url": "https://www.space.com/astronomy/neptune/3-moons-of-neptune-may-be-remnants-of-ice-worlds-shattered-in-a-catastrophic-crash",
-          "publishedAt": "2026-08-03T16:17:26+00:00",
-          "source": "Space.com"
         },
         {
           "title": "The journey of Sophie Adenot's bonus food",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-03T21:00:31+00:00",
+      "updatedAt": "2026-08-03T21:16:32+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-03T21:00:31+00:00",
+      "updatedAt": "2026-08-03T21:16:32+00:00",
       "stories": [
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-03T21:00:31+00:00",
+      "updatedAt": "2026-08-03T21:16:32+00:00",
       "stories": [
         {
           "title": "K2 tapped to host Space Force satellite laser links tests",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-03T21:00:31+00:00",
+      "updatedAt": "2026-08-03T21:16:32+00:00",
       "stories": [
         {
           "title": "OpenAI’s ‘Astra’ cracks long-open math problems",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-03T21:00:31+00:00",
+      "updatedAt": "2026-08-03T21:16:32+00:00",
       "stories": [
         {
           "title": "HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-03T21:00:31+00:00",
+    "updatedAt": "2026-08-03T21:16:32+00:00",
     "stories": [
       {
         "title": "OpenAI’s ‘Astra’ cracks long-open math problems",
@@ -615,12 +615,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "With Hormuz in the spotlight, the Navy can do better",
-        "url": "https://breakingdefense.com/2026/08/with-hormuz-in-the-spotlight-the-navy-can-do-better",
-        "publishedAt": "2026-08-03T18:10:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "A SpaceX rocket will crash into the moon this week. Why is it on a collision course?",
+        "url": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-this-week-why-is-it-on-a-collision-course",
+        "publishedAt": "2026-08-03T21:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
