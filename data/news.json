@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-03T10:00:26+00:00",
+  "generatedAt": "2026-08-03T11:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-03T10:00:26+00:00",
+      "updatedAt": "2026-08-03T11:00:29+00:00",
       "stories": [
+        {
+          "title": "AI is ready to run spacecraft. Is the space industry ready for it? (op-ed)",
+          "url": "https://www.space.com/space-exploration/satellites/ai-is-ready-to-run-spacecraft-is-the-space-industry-ready-for-it",
+          "publishedAt": "2026-08-03T10:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
           "url": "https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula",
@@ -27,12 +33,6 @@
         {
           "title": "Double digits! Air-launched 'Talon A' hypersonic vehicle notches big flight milestone",
           "url": "https://www.space.com/technology/double-digits-air-launched-talon-a-hypersonic-vehicle-notches-big-flight-milestone",
-          "publishedAt": "2026-08-02T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "On this day in space! Aug. 2, 1971: Apollo 15 makes 1st-ever televised liftoff from the moon",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-2-2026",
           "publishedAt": "2026-08-02T14:00:00+00:00",
           "source": "Space.com"
         },
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-03T10:00:26+00:00",
+      "updatedAt": "2026-08-03T11:00:29+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-03T10:00:26+00:00",
+      "updatedAt": "2026-08-03T11:00:29+00:00",
       "stories": [
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-03T10:00:26+00:00",
+      "updatedAt": "2026-08-03T11:00:29+00:00",
       "stories": [
         {
           "title": "Facing a lack of kit, Space Force creates $981M pool to buy training capabilities",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-03T10:00:26+00:00",
+      "updatedAt": "2026-08-03T11:00:29+00:00",
       "stories": [
         {
           "title": "OpenAI’s ‘Astra’ cracks long-open math problems",
@@ -351,6 +351,12 @@
           "url": "https://qwen.ai/blog?id=qwen3.8",
           "publishedAt": "2026-08-03T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+          "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem",
+          "publishedAt": "2026-08-03T10:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Sam Altman and AI’s decel debate",
@@ -380,12 +386,6 @@
           "title": "This $9 key physically locks your most addictive apps",
           "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps",
           "publishedAt": "2026-08-01T15:58:17+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-          "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok",
-          "publishedAt": "2026-07-31T22:47:26+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-03T10:00:26+00:00",
+      "updatedAt": "2026-08-03T11:00:29+00:00",
       "stories": [
         {
           "title": "Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-03T10:00:26+00:00",
+    "updatedAt": "2026-08-03T11:00:29+00:00",
     "stories": [
       {
         "title": "OpenAI’s ‘Astra’ cracks long-open math problems",
@@ -561,10 +561,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
-        "url": "https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula",
-        "publishedAt": "2026-08-03T04:05:00+00:00",
-        "source": "NASA",
+        "title": "AI is ready to run spacecraft. Is the space industry ready for it? (op-ed)",
+        "url": "https://www.space.com/space-exploration/satellites/ai-is-ready-to-run-spacecraft-is-the-space-industry-ready-for-it",
+        "publishedAt": "2026-08-03T10:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -597,28 +597,28 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
-        "url": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract",
-        "publishedAt": "2026-08-02T12:03:27+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Sam Altman and AI’s decel debate",
-        "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate",
-        "publishedAt": "2026-08-02T20:54:22+00:00",
+        "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+        "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem",
+        "publishedAt": "2026-08-03T10:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Gears of War: E-Day: Release date, platforms & everything else we know about Marcus Fenix's return",
-        "url": "https://www.space.com/entertainment/space-games/gears-of-war-e-day-release-date-platforms-and-everything-else-we-know-about-marcus-fenixs-return",
-        "publishedAt": "2026-08-02T16:00:00+00:00",
-        "source": "Space.com",
+        "title": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
+        "url": "https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula",
+        "publishedAt": "2026-08-03T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
+        "url": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract",
+        "publishedAt": "2026-08-02T12:03:27+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -736,7 +736,7 @@
     }
   ],
   "warnings": [
-    "Ottawa Citizen Defence Watch: 502 Server Error: Bad Gateway for url: https://ottawacitizen.com/tag/defence-watch/feed.xml",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-09"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-22",
+    "Ottawa Citizen Defence Watch: 503 Server Error: Service Unavailable for url: https://ottawacitizen.com/tag/defence-watch/feed.xml"
   ]
 }
