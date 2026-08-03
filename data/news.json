@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-03T20:03:33+00:00",
+  "generatedAt": "2026-08-03T21:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-03T20:03:33+00:00",
+      "updatedAt": "2026-08-03T21:00:31+00:00",
       "stories": [
         {
           "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-03T20:03:33+00:00",
+      "updatedAt": "2026-08-03T21:00:31+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-03T20:03:33+00:00",
+      "updatedAt": "2026-08-03T21:00:31+00:00",
       "stories": [
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
@@ -241,8 +241,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-03T20:03:33+00:00",
+      "updatedAt": "2026-08-03T21:00:31+00:00",
       "stories": [
+        {
+          "title": "K2 tapped to host Space Force satellite laser links tests",
+          "url": "https://breakingdefense.com/2026/08/k2-tapped-to-host-space-force-satellite-laser-links-tests",
+          "publishedAt": "2026-08-03T20:21:22+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "With Hormuz in the spotlight, the Navy can do better",
           "url": "https://breakingdefense.com/2026/08/with-hormuz-in-the-spotlight-the-navy-can-do-better",
@@ -304,12 +310,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Multinational RIMPAC exercise played ‘primary laboratory’ for cutting edge tech",
-          "url": "https://breakingdefense.com/2026/08/multinational-rimpac-exercise-was-primary-laboratory-for-cutting-edge-tech",
-          "publishedAt": "2026-08-03T11:33:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Pentagon’s counter-drone task force inks $500M contract for SkyValor ‘detect and defeat’ system after border testing",
           "url": "https://defensescoop.com/2026/07/31/pentagon-counter-drone-task-force-500m-contract-caci-skyvalor",
           "publishedAt": "2026-07-31T21:45:27+00:00",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-03T20:03:33+00:00",
+      "updatedAt": "2026-08-03T21:00:31+00:00",
       "stories": [
         {
           "title": "OpenAI’s ‘Astra’ cracks long-open math problems",
@@ -371,28 +371,46 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-          "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic",
-          "publishedAt": "2026-08-03T18:43:43+00:00",
-          "source": "TechCrunch AI"
+          "title": "Qwen3.8-Max: A New Bar for Coding and Cowork (25 minute read)",
+          "url": "https://qwen.ai/blog?id=qwen3.8&amp%3Butm_source=tldrai",
+          "publishedAt": "2026-08-03T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Congress’ favorite AI tool? ChatGPT",
-          "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt",
-          "publishedAt": "2026-08-03T16:40:55+00:00",
-          "source": "TechCrunch AI"
+          "title": "Microsoft tests new MAI Realtime voice model (2 minute read)",
+          "url": "https://www.testingcatalog.com/exclusive-microsoft-tests-new-mai-realtime-voice-model",
+          "publishedAt": "2026-08-03T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-          "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem",
-          "publishedAt": "2026-08-03T10:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "smevals (GitHub Repo)",
+          "url": "https://github.com/prime-radiant-inc/smevals",
+          "publishedAt": "2026-08-03T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Ramp SWE-Bench (3 minute read)",
+          "url": "https://labs.ramp.com/swebench",
+          "publishedAt": "2026-08-03T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "MSLK kernel reference (Website)",
+          "url": "https://lucasb.eyer.be/lab/mslk",
+          "publishedAt": "2026-08-03T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI resets the cost curve with GPT 5.6 price drops",
           "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
           "publishedAt": "2026-07-31T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Inkling-Small (4 minute read)",
+          "url": "https://thinkingmachines.ai/news/inkling-small",
+          "publishedAt": "2026-07-31T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI's escaped AIs claim another victim",
@@ -411,31 +429,13 @@
           "url": "https://www.pacingthefrontier.com/",
           "publishedAt": "2026-07-29T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Zuck pushes superintelligence for all in new op-ed",
-          "url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20",
-          "publishedAt": "2026-07-29T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Moonshot publishes weights for powerful Kimi K3",
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "publishedAt": "2026-07-28T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic sets the record straight on open weights",
-          "url": "https://www.anthropic.com/news/position-open-weights-models",
-          "publishedAt": "2026-07-28T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-03T20:03:33+00:00",
+      "updatedAt": "2026-08-03T21:00:31+00:00",
       "stories": [
         {
           "title": "HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-03T20:03:33+00:00",
+    "updatedAt": "2026-08-03T21:00:31+00:00",
     "stories": [
       {
         "title": "OpenAI’s ‘Astra’ cracks long-open math problems",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "With Hormuz in the spotlight, the Navy can do better",
-        "url": "https://breakingdefense.com/2026/08/with-hormuz-in-the-spotlight-the-navy-can-do-better",
-        "publishedAt": "2026-08-03T18:10:00+00:00",
+        "title": "K2 tapped to host Space Force satellite laser links tests",
+        "url": "https://breakingdefense.com/2026/08/k2-tapped-to-host-space-force-satellite-laser-links-tests",
+        "publishedAt": "2026-08-03T20:21:22+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -615,10 +615,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "US Air Force jet engine manufacturing plagued by ‘significant challenges’",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/03/us-air-force-jet-engine-manufacturing-plagued-by-significant-challenges",
-        "publishedAt": "2026-08-03T18:41:46+00:00",
-        "source": "Defense News",
+        "title": "With Hormuz in the spotlight, the Navy can do better",
+        "url": "https://breakingdefense.com/2026/08/with-hormuz-in-the-spotlight-the-navy-can-do-better",
+        "publishedAt": "2026-08-03T18:10:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
@@ -735,7 +735,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-17"
-  ]
+  "warnings": []
 }
