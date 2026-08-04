@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-04T20:02:44+00:00",
+  "generatedAt": "2026-08-04T21:00:24+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-04T20:02:44+00:00",
+      "updatedAt": "2026-08-04T21:00:24+00:00",
       "stories": [
+        {
+          "title": "NOAA purchases Spire hyperspectral microwave sounder data",
+          "url": "https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data",
+          "publishedAt": "2026-08-04T20:05:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Rubicon ASCENT thruster moves from hot-fire testing to production",
           "url": "https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production",
@@ -61,12 +67,6 @@
           "source": "Space.com"
         },
         {
-          "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
-          "url": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus",
-          "publishedAt": "2026-08-04T04:01:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
           "url": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test",
           "publishedAt": "2026-08-04T18:02:55+00:00",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-04T20:02:44+00:00",
+      "updatedAt": "2026-08-04T21:00:24+00:00",
       "stories": [
+        {
+          "title": "Defence Investment Agency awards Telesat and MDA Space a major Arctic security connectivity contract initially valued at $2.3 billion",
+          "url": "https://spaceq.ca/defence-investment-agency-awards-telesat-and-mda-space-a-major-arctic-security-connectivity-contract-initially-valued-at-2-3-billion",
+          "publishedAt": "2026-08-04T20:52:06+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Canadian Astronaut Joshua Kutryk prepares for a six month stay aboard the International Space Station",
           "url": "https://spaceq.ca/canadian-astronaut-joshua-kutryk-prepares-for-a-six-month-stay-aboard-the-international-space-station",
@@ -162,19 +168,13 @@
           "url": "https://spaceq.ca/in-defence-of-canada-briefing-spaceport-polling-and-norads-arctic-resilience",
           "publishedAt": "2026-07-27T17:44:20+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "MDA Space issues $600-million in senior notes to finance U.S. expansion",
-          "url": "https://spaceq.ca/mda-space-issues-600-million-in-senior-notes-to-finance-u-s-expansion",
-          "publishedAt": "2026-07-27T17:06:31+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-04T20:02:44+00:00",
+      "updatedAt": "2026-08-04T21:00:24+00:00",
       "stories": [
         {
           "title": "Closing the Arctic Gap: Canada Awards $2.3B Satellite Contract to Telesat",
@@ -247,13 +247,19 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-04T20:02:44+00:00",
+      "updatedAt": "2026-08-04T21:00:24+00:00",
       "stories": [
         {
           "title": "Defense execs feel good about Pentagon spending despite uncertainty on FY27 budget",
           "url": "https://breakingdefense.com/2026/08/defense-execs-feel-good-about-pentagon-spending-despite-uncertainty-on-fy27-budget",
           "publishedAt": "2026-08-04T19:30:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Lockheed seeks US mineral supplies after Trump supply-chain push, sources say",
+          "url": "https://www.defensenews.com/industry/2026/08/04/lockheed-seeks-us-mineral-supplies-after-trump-supply-chain-push-sources-say",
+          "publishedAt": "2026-08-04T20:00:08+00:00",
+          "source": "Defense News"
         },
         {
           "title": "US Army wants a surface-to-air missile that can destroy small drones",
@@ -310,12 +316,6 @@
           "source": "Defense News"
         },
         {
-          "title": "US used ‘virtually all’ long-range precision missiles during Iran war, sources say",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/08/04/us-used-virtually-all-long-range-precision-missiles-during-iran-war-sources-say",
-          "publishedAt": "2026-08-04T13:08:32+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "DISA seeks industry input on CommandNet migration following GAO protest",
           "url": "https://defensescoop.com/2026/08/04/disa-commandnet-migration-dodnet",
           "publishedAt": "2026-08-04T14:53:10+00:00",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-04T20:02:44+00:00",
+      "updatedAt": "2026-08-04T21:00:24+00:00",
       "stories": [
         {
           "title": "AI labs head to the White House to discuss safety",
@@ -359,9 +359,21 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
+          "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+          "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains",
+          "publishedAt": "2026-08-04T20:05:26+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Anthropic signs $10B deal with AI cloud startup Volta",
           "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
           "publishedAt": "2026-08-04T19:48:40+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+          "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you",
+          "publishedAt": "2026-08-04T19:34:34+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -380,18 +392,6 @@
           "title": "Texas halts new data centers as governor calls for audits",
           "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits",
           "publishedAt": "2026-08-04T15:42:35+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-          "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls",
-          "publishedAt": "2026-08-04T15:20:06+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-          "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
-          "publishedAt": "2026-08-04T14:03:01+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-04T20:02:44+00:00",
+      "updatedAt": "2026-08-04T21:00:24+00:00",
       "stories": [
         {
           "title": "Zoox unveils production-ready robotaxi for U.S. expansion",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-04T20:02:44+00:00",
+    "updatedAt": "2026-08-04T21:00:24+00:00",
     "stories": [
       {
         "title": "AI labs head to the White House to discuss safety",
@@ -558,18 +558,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Canadian Astronaut Joshua Kutryk prepares for a six month stay aboard the International Space Station",
-        "url": "https://spaceq.ca/canadian-astronaut-joshua-kutryk-prepares-for-a-six-month-stay-aboard-the-international-space-station",
-        "publishedAt": "2026-08-04T17:37:53+00:00",
+        "title": "Defence Investment Agency awards Telesat and MDA Space a major Arctic security connectivity contract initially valued at $2.3 billion",
+        "url": "https://spaceq.ca/defence-investment-agency-awards-telesat-and-mda-space-a-major-arctic-security-connectivity-contract-initially-valued-at-2-3-billion",
+        "publishedAt": "2026-08-04T20:52:06+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "Rubicon ASCENT thruster moves from hot-fire testing to production",
-        "url": "https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production",
-        "publishedAt": "2026-08-04T15:48:20+00:00",
+        "title": "NOAA purchases Spire hyperspectral microwave sounder data",
+        "url": "https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data",
+        "publishedAt": "2026-08-04T20:05:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -603,27 +603,27 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Canadian Astronaut Joshua Kutryk prepares for a six month stay aboard the International Space Station",
+        "url": "https://spaceq.ca/canadian-astronaut-joshua-kutryk-prepares-for-a-six-month-stay-aboard-the-international-space-station",
+        "publishedAt": "2026-08-04T17:37:53+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Rubicon ASCENT thruster moves from hot-fire testing to production",
+        "url": "https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production",
+        "publishedAt": "2026-08-04T15:48:20+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Military demand shapes market for satellite propulsion",
         "url": "https://spacenews.com/military-demand-shapes-market-for-sat-propulsion",
         "publishedAt": "2026-08-04T15:00:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Future of Crew Dragon weighs on commercial spaceflight industry",
-        "url": "https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry",
-        "publishedAt": "2026-08-04T12:14:03+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "SpaceX’s new Starfall program offers validation and competition for reentry startups",
-        "url": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups",
-        "publishedAt": "2026-08-04T12:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -742,6 +742,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-17"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-21"
   ]
 }
