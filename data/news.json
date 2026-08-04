@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-04T09:00:31+00:00",
+  "generatedAt": "2026-08-04T10:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-04T09:00:31+00:00",
+      "updatedAt": "2026-08-04T10:00:25+00:00",
       "stories": [
+        {
+          "title": "Rocketdyne reemerges as standalone space company",
+          "url": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company",
+          "publishedAt": "2026-08-04T09:20:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
           "url": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus",
@@ -23,6 +29,12 @@
           "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week",
           "publishedAt": "2026-08-04T08:00:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "I bought a $50 telescope on Facebook Marketplace — here's what I learned",
+          "url": "https://www.space.com/stargazing/skywatching-kit/i-bought-a-50-dollar-telescope-on-facebook-marketplace-heres-what-i-learned",
+          "publishedAt": "2026-08-04T09:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "This Sky-Watcher is an ideal beginner telescope for solar observing",
@@ -55,12 +67,6 @@
           "source": "Space.com"
         },
         {
-          "title": "A SpaceX rocket will crash into the moon this week. Why is it on a collision course?",
-          "url": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-this-week-why-is-it-on-a-collision-course",
-          "publishedAt": "2026-08-03T21:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Louisiana Students Loft Payloads from NASA Balloon Facility in Texas",
           "url": "https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas",
           "publishedAt": "2026-08-03T19:22:43+00:00",
@@ -85,12 +91,6 @@
           "source": "NASA"
         },
         {
-          "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
-          "url": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract",
-          "publishedAt": "2026-08-02T12:03:27+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "How to safely watch a solar eclipse",
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse",
           "publishedAt": "2026-07-31T14:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-04T09:00:31+00:00",
+      "updatedAt": "2026-08-04T10:00:25+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-04T09:00:31+00:00",
+      "updatedAt": "2026-08-04T10:00:25+00:00",
       "stories": [
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
@@ -241,8 +241,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-04T09:00:31+00:00",
+      "updatedAt": "2026-08-04T10:00:25+00:00",
       "stories": [
+        {
+          "title": "Navy renews Saildrone’s counter-drug mission in the Caribbean, Eastern Pacific",
+          "url": "https://breakingdefense.com/2026/08/navy-renews-saildrones-counter-drug-mission-in-the-caribbean-eastern-pacific",
+          "publishedAt": "2026-08-04T09:05:00+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Pentagon’s counter-drone hub picked software startup Kaizen to develop c-UAS marketplace for $15M",
+          "url": "https://defensescoop.com/2026/08/04/pentagon-counter-drone-hub-picks-software-startup-kaizen-to-develop-c-uas-marketplace-for-15m",
+          "publishedAt": "2026-08-04T09:00:00+00:00",
+          "source": "DefenseScoop"
+        },
         {
           "title": "K2 tapped to host Space Force satellite laser links tests",
           "url": "https://breakingdefense.com/2026/08/k2-tapped-to-host-space-force-satellite-laser-links-tests",
@@ -304,12 +316,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Northrop gets $3B framework deal to increase motor production for PAC-3, THAAD",
-          "url": "https://breakingdefense.com/2026/08/northrop-gets-3b-framework-deal-to-increase-motor-production-for-pac-3-thaad",
-          "publishedAt": "2026-08-03T12:18:14+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "UNIFIL’s final months: Uncertainty persists in Lebanon over what comes next",
           "url": "https://www.defensenews.com/global/mideast-africa/2026/08/03/unifils-final-months-uncertainty-persists-in-lebanon-over-what-comes-next",
           "publishedAt": "2026-08-03T12:45:45+00:00",
@@ -326,20 +332,26 @@
           "url": "https://defensescoop.com/2026/07/31/army-ngc2-start-scaling-parts-to-more-units",
           "publishedAt": "2026-07-31T21:04:02+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Space Force establishes $981M contract vehicle to develop testing, training infrastructure",
-          "url": "https://defensescoop.com/2026/07/31/space-force-contract-vehicle-develop-testing-training-infrastructure",
-          "publishedAt": "2026-07-31T18:11:47+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-04T09:00:31+00:00",
+      "updatedAt": "2026-08-04T10:00:25+00:00",
       "stories": [
+        {
+          "title": "AI labs head to the White House to discuss safety",
+          "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
+          "publishedAt": "2026-08-04T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Finance execs find AI skills more valuable than an MBA",
+          "url": "https://www.pwc.com/us/en/industries/financial-services/library/ai-workforce-gap-financial-services.html",
+          "publishedAt": "2026-08-04T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
           "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
@@ -417,25 +429,13 @@
           "url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20",
           "publishedAt": "2026-07-29T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Moonshot publishes weights for powerful Kimi K3",
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "publishedAt": "2026-07-28T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic sets the record straight on open weights",
-          "url": "https://www.anthropic.com/news/position-open-weights-models",
-          "publishedAt": "2026-07-28T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-04T09:00:31+00:00",
+      "updatedAt": "2026-08-04T10:00:25+00:00",
       "stories": [
         {
           "title": "igus launches energy chain with 600-degree rotation for industrial robots",
@@ -531,21 +531,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-04T09:00:31+00:00",
+    "updatedAt": "2026-08-04T10:00:25+00:00",
     "stories": [
       {
-        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
-        "publishedAt": "2026-08-03T23:19:50+00:00",
-        "source": "TechCrunch AI",
+        "title": "AI labs head to the White House to discuss safety",
+        "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
+        "publishedAt": "2026-08-04T09:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI’s ‘Astra’ cracks long-open math problems",
-        "url": "https://openai.com/index/ten-advances-in-mathematics",
-        "publishedAt": "2026-08-03T09:00:00+00:00",
+        "title": "Finance execs find AI skills more valuable than an MBA",
+        "url": "https://www.pwc.com/us/en/industries/financial-services/library/ai-workforce-gap-financial-services.html",
+        "publishedAt": "2026-08-04T09:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
-        "url": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus",
-        "publishedAt": "2026-08-04T04:01:00+00:00",
+        "title": "Rocketdyne reemerges as standalone space company",
+        "url": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company",
+        "publishedAt": "2026-08-04T09:20:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "K2 tapped to host Space Force satellite laser links tests",
-        "url": "https://breakingdefense.com/2026/08/k2-tapped-to-host-space-force-satellite-laser-links-tests",
-        "publishedAt": "2026-08-03T20:21:22+00:00",
+        "title": "Navy renews Saildrone’s counter-drug mission in the Caribbean, Eastern Pacific",
+        "url": "https://breakingdefense.com/2026/08/navy-renews-saildrones-counter-drug-mission-in-the-caribbean-eastern-pacific",
+        "publishedAt": "2026-08-04T09:05:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -597,6 +597,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
+        "url": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus",
+        "publishedAt": "2026-08-04T04:01:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
         "url": "https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions",
         "publishedAt": "2026-08-04T02:03:57+00:00",
@@ -610,15 +619,6 @@
         "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week",
         "publishedAt": "2026-08-04T08:00:00+00:00",
         "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "This Sky-Watcher is an ideal beginner telescope for solar observing",
-        "url": "https://www.space.com/stargazing/skywatching-kit/sky-watcher-heliostar-76mm-h-alpha-solar-telescope-review",
-        "publishedAt": "2026-08-04T07:00:00+00:00",
-        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -736,6 +736,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-22"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-21"
   ]
 }
