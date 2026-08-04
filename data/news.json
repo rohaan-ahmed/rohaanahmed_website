@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-04T20:00:35+00:00",
+  "generatedAt": "2026-08-04T20:02:44+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-04T20:00:35+00:00",
+      "updatedAt": "2026-08-04T20:02:44+00:00",
       "stories": [
         {
           "title": "Rubicon ASCENT thruster moves from hot-fire testing to production",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-04T20:00:35+00:00",
+      "updatedAt": "2026-08-04T20:02:44+00:00",
       "stories": [
         {
           "title": "Canadian Astronaut Joshua Kutryk prepares for a six month stay aboard the International Space Station",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-04T20:00:35+00:00",
+      "updatedAt": "2026-08-04T20:02:44+00:00",
       "stories": [
         {
           "title": "Closing the Arctic Gap: Canada Awards $2.3B Satellite Contract to Telesat",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-04T20:00:35+00:00",
+      "updatedAt": "2026-08-04T20:02:44+00:00",
       "stories": [
         {
           "title": "Defense execs feel good about Pentagon spending despite uncertainty on FY27 budget",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-04T20:00:35+00:00",
+      "updatedAt": "2026-08-04T20:02:44+00:00",
       "stories": [
         {
           "title": "AI labs head to the White House to discuss safety",
@@ -441,8 +441,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-04T20:00:35+00:00",
+      "updatedAt": "2026-08-04T20:02:44+00:00",
       "stories": [
+        {
+          "title": "Zoox unveils production-ready robotaxi for U.S. expansion",
+          "url": "https://www.therobotreport.com/zoox-unveils-production-ready-robotaxi-for-u-s-expansion",
+          "publishedAt": "2026-08-04T19:40:40+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "U.S. Navy picks Blue Water Autonomy to use autonomous vessels for deep ocean surveys",
           "url": "https://www.therobotreport.com/u-s-navy-picks-blue-water-autonomy-to-use-autonomous-vessels-for-deep-ocean-surveys",
@@ -492,12 +498,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Top 10 robotics stories of July 2026",
-          "url": "https://www.therobotreport.com/top-10-robotics-stories-july-2026",
-          "publishedAt": "2026-08-01T12:00:30+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
           "url": "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
           "publishedAt": "2026-07-31T16:00:03+00:00",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-04T20:00:35+00:00",
+    "updatedAt": "2026-08-04T20:02:44+00:00",
     "stories": [
       {
         "title": "AI labs head to the White House to discuss safety",
@@ -594,9 +594,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "U.S. Navy picks Blue Water Autonomy to use autonomous vessels for deep ocean surveys",
-        "url": "https://www.therobotreport.com/u-s-navy-picks-blue-water-autonomy-to-use-autonomous-vessels-for-deep-ocean-surveys",
-        "publishedAt": "2026-08-04T19:33:53+00:00",
+        "title": "Zoox unveils production-ready robotaxi for U.S. expansion",
+        "url": "https://www.therobotreport.com/zoox-unveils-production-ready-robotaxi-for-u-s-expansion",
+        "publishedAt": "2026-08-04T19:40:40+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -742,6 +742,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-22"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-17"
   ]
 }
