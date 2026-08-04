@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-04T19:00:31+00:00",
+  "generatedAt": "2026-08-04T20:00:35+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-04T19:00:31+00:00",
+      "updatedAt": "2026-08-04T20:00:35+00:00",
       "stories": [
         {
           "title": "Rubicon ASCENT thruster moves from hot-fire testing to production",
@@ -37,6 +37,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
+          "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact",
+          "publishedAt": "2026-08-04T20:00:14+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "When a total solar eclipse darkens the sky on Aug. 12, these citizen scientists will be watching",
           "url": "https://www.space.com/stargazing/solar-eclipses/when-a-total-solar-eclipse-darkens-the-sky-on-aug-12-these-citizen-scientists-will-be-watching",
           "publishedAt": "2026-08-04T18:00:00+00:00",
@@ -61,21 +67,15 @@
           "source": "SpaceNews"
         },
         {
+          "title": "NASA’s PUNCH Sharpens Solar Storm Forecasting in First Test",
+          "url": "https://science.nasa.gov/science-research/heliophysics/nasas-punch-sharpens-solar-storm-forecasting-in-first-test",
+          "publishedAt": "2026-08-04T18:02:55+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "Ames Science Stars of the Month – August 2026",
           "url": "https://www.nasa.gov/general/ames-science-stars-of-the-month-august-2026",
           "publishedAt": "2026-08-04T17:08:04+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Provides Updates on Moon Base Cargo Landers, Tech Demonstrations",
-          "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations",
-          "publishedAt": "2026-08-04T16:14:51+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Roman Space Telescope Plaque Install",
-          "url": "https://www.nasa.gov/image-article/roman-space-telescope-plaque-install",
-          "publishedAt": "2026-08-04T15:50:44+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-04T19:00:31+00:00",
+      "updatedAt": "2026-08-04T20:00:35+00:00",
       "stories": [
         {
           "title": "Canadian Astronaut Joshua Kutryk prepares for a six month stay aboard the International Space Station",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-04T19:00:31+00:00",
+      "updatedAt": "2026-08-04T20:00:35+00:00",
       "stories": [
         {
           "title": "Closing the Arctic Gap: Canada Awards $2.3B Satellite Contract to Telesat",
@@ -247,8 +247,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-04T19:00:31+00:00",
+      "updatedAt": "2026-08-04T20:00:35+00:00",
       "stories": [
+        {
+          "title": "Defense execs feel good about Pentagon spending despite uncertainty on FY27 budget",
+          "url": "https://breakingdefense.com/2026/08/defense-execs-feel-good-about-pentagon-spending-despite-uncertainty-on-fy27-budget",
+          "publishedAt": "2026-08-04T19:30:00+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "US Army wants a surface-to-air missile that can destroy small drones",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/08/04/us-army-wants-a-surface-to-air-missile-that-can-destroy-small-drones",
+          "publishedAt": "2026-08-04T19:29:22+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Telesat wins $1.6B for Canadian Arctic MILSATCOM",
           "url": "https://breakingdefense.com/2026/08/telesat-wins-1-6b-for-canadian-arctic-milsatcom",
@@ -278,12 +290,6 @@
           "url": "https://www.defensenews.com/news/your-military/2026/08/04/325-narcan-doses-43-lost-children-dc-national-guard-mission-wraps-first-year",
           "publishedAt": "2026-08-04T16:12:54+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "Farnborough last looks, plus how the Iran war is affecting arms sales",
-          "url": "https://breakingdefense.com/2026/08/farnborough-last-looks-plus-how-the-iran-war-is-affecting-arms-sales",
-          "publishedAt": "2026-08-04T14:55:00+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Army seeks next-gen missile that could shoot down small drones for less than $150K a pop",
@@ -328,12 +334,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "US Air Force jet engine manufacturing plagued by ‘significant challenges’",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/08/03/us-air-force-jet-engine-manufacturing-plagued-by-significant-challenges",
-          "publishedAt": "2026-08-03T18:41:46+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Pentagon exploring AI to monitor military inmates’ phone calls",
           "url": "https://defensescoop.com/2026/08/03/pentagon-exploring-ai-to-monitor-military-inmates-phone-calls",
           "publishedAt": "2026-08-03T19:29:43+00:00",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-04T19:00:31+00:00",
+      "updatedAt": "2026-08-04T20:00:35+00:00",
       "stories": [
         {
           "title": "AI labs head to the White House to discuss safety",
@@ -357,6 +357,18 @@
           "url": "https://www.pwc.com/us/en/industries/financial-services/library/ai-workforce-gap-financial-services.html",
           "publishedAt": "2026-08-04T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
+          "publishedAt": "2026-08-04T19:48:40+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+          "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress",
+          "publishedAt": "2026-08-04T19:28:49+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Spotify expands AI remix and covers project with Merlin partnership",
@@ -380,18 +392,6 @@
           "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
           "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
           "publishedAt": "2026-08-04T14:03:01+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Is the future of data centers portable? Runware builds a pod to find out",
-          "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out",
-          "publishedAt": "2026-08-04T13:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-          "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers",
-          "publishedAt": "2026-08-04T12:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -441,8 +441,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-04T19:00:31+00:00",
+      "updatedAt": "2026-08-04T20:00:35+00:00",
       "stories": [
+        {
+          "title": "U.S. Navy picks Blue Water Autonomy to use autonomous vessels for deep ocean surveys",
+          "url": "https://www.therobotreport.com/u-s-navy-picks-blue-water-autonomy-to-use-autonomous-vessels-for-deep-ocean-surveys",
+          "publishedAt": "2026-08-04T19:33:53+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Humanoids won’t scale on factory floors until costs drop",
           "url": "https://www.therobotreport.com/humanoids-wont-scale-on-factory-floors-until-costs-drop",
@@ -492,12 +498,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing",
-          "url": "https://www.therobotreport.com/fcc-robot-ruling-shines-spotlight-on-u-s-policy-how-next-gen-ai-can-help-warehousing",
-          "publishedAt": "2026-07-31T22:41:44+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
           "url": "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
           "publishedAt": "2026-07-31T16:00:03+00:00",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-04T19:00:31+00:00",
+    "updatedAt": "2026-08-04T20:00:35+00:00",
     "stories": [
       {
         "title": "AI labs head to the White House to discuss safety",
@@ -585,18 +585,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Telesat wins $1.6B for Canadian Arctic MILSATCOM",
-        "url": "https://breakingdefense.com/2026/08/telesat-wins-1-6b-for-canadian-arctic-milsatcom",
-        "publishedAt": "2026-08-04T18:13:07+00:00",
+        "title": "Defense execs feel good about Pentagon spending despite uncertainty on FY27 budget",
+        "url": "https://breakingdefense.com/2026/08/defense-execs-feel-good-about-pentagon-spending-despite-uncertainty-on-fy27-budget",
+        "publishedAt": "2026-08-04T19:30:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Humanoids won’t scale on factory floors until costs drop",
-        "url": "https://www.therobotreport.com/humanoids-wont-scale-on-factory-floors-until-costs-drop",
-        "publishedAt": "2026-08-04T15:15:10+00:00",
+        "title": "U.S. Navy picks Blue Water Autonomy to use autonomous vessels for deep ocean surveys",
+        "url": "https://www.therobotreport.com/u-s-navy-picks-blue-water-autonomy-to-use-autonomous-vessels-for-deep-ocean-surveys",
+        "publishedAt": "2026-08-04T19:33:53+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -742,6 +742,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-16"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-22"
   ]
 }
