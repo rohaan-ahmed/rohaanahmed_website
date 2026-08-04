@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-04T21:22:58+00:00",
+  "generatedAt": "2026-08-04T22:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-04T21:22:58+00:00",
+      "updatedAt": "2026-08-04T22:00:28+00:00",
       "stories": [
+        {
+          "title": "Telesat lands $1.63 billion Canadian defense contract",
+          "url": "https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract",
+          "publishedAt": "2026-08-04T22:00:15+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "NOAA purchases Spire hyperspectral microwave sounder data",
           "url": "https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data",
@@ -34,12 +40,6 @@
           "title": "SpaceX’s new Starfall program offers validation and competition for reentry startups",
           "url": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups",
           "publishedAt": "2026-08-04T12:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Rocketdyne reemerges as standalone space company",
-          "url": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company",
-          "publishedAt": "2026-08-04T09:20:00+00:00",
           "source": "SpaceNews"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-04T21:22:58+00:00",
+      "updatedAt": "2026-08-04T22:00:28+00:00",
       "stories": [
         {
           "title": "Defence Investment Agency awards Telesat and MDA Space a major Arctic security connectivity contract initially valued at $2.3 billion",
@@ -174,8 +174,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-04T21:22:58+00:00",
+      "updatedAt": "2026-08-04T22:00:28+00:00",
       "stories": [
+        {
+          "title": "Minister McGuinty to deliver keynote address on Alberta’s support to Canada's defence and security",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/minister-mcguinty-to-deliver-keynote-address-on-albertas-support-to-canadas-defence-and-security.html",
+          "publishedAt": "2026-08-04T21:50:40+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Closing the Arctic Gap: Canada Awards $2.3B Satellite Contract to Telesat",
           "url": "https://vanguardcanada.com/mda-space-lands-474m-boost-as-telesat-supersizes-arctic-satellite-fleet",
@@ -247,7 +253,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-04T21:22:58+00:00",
+      "updatedAt": "2026-08-04T22:00:28+00:00",
       "stories": [
         {
           "title": "Defense execs feel good about Pentagon spending despite uncertainty on FY27 budget",
@@ -344,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-04T21:22:58+00:00",
+      "updatedAt": "2026-08-04T22:00:28+00:00",
       "stories": [
         {
           "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
@@ -441,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-04T21:22:58+00:00",
+      "updatedAt": "2026-08-04T22:00:28+00:00",
       "stories": [
         {
           "title": "Zoox unveils production-ready robotaxi for U.S. expansion",
@@ -537,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-04T21:22:58+00:00",
+    "updatedAt": "2026-08-04T22:00:28+00:00",
     "stories": [
       {
         "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
@@ -567,19 +573,19 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NOAA purchases Spire hyperspectral microwave sounder data",
-        "url": "https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data",
-        "publishedAt": "2026-08-04T20:05:00+00:00",
+        "title": "Telesat lands $1.63 billion Canadian defense contract",
+        "url": "https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract",
+        "publishedAt": "2026-08-04T22:00:15+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "Closing the Arctic Gap: Canada Awards $2.3B Satellite Contract to Telesat",
-        "url": "https://vanguardcanada.com/mda-space-lands-474m-boost-as-telesat-supersizes-arctic-satellite-fleet",
-        "publishedAt": "2026-08-04T12:31:21+00:00",
-        "source": "Vanguard",
+        "title": "Minister McGuinty to deliver keynote address on Alberta’s support to Canada's defence and security",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/minister-mcguinty-to-deliver-keynote-address-on-albertas-support-to-canadas-defence-and-security.html",
+        "publishedAt": "2026-08-04T21:50:40+00:00",
+        "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
         "bulletinRole": "lead"
@@ -603,6 +609,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "NOAA purchases Spire hyperspectral microwave sounder data",
+        "url": "https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data",
+        "publishedAt": "2026-08-04T20:05:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Canadian Astronaut Joshua Kutryk prepares for a six month stay aboard the International Space Station",
         "url": "https://spaceq.ca/canadian-astronaut-joshua-kutryk-prepares-for-a-six-month-stay-aboard-the-international-space-station",
         "publishedAt": "2026-08-04T17:37:53+00:00",
@@ -615,15 +630,6 @@
         "title": "Rubicon ASCENT thruster moves from hot-fire testing to production",
         "url": "https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production",
         "publishedAt": "2026-08-04T15:48:20+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Military demand shapes market for satellite propulsion",
-        "url": "https://spacenews.com/military-demand-shapes-market-for-sat-propulsion",
-        "publishedAt": "2026-08-04T15:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
