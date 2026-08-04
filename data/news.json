@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-04T12:00:32+00:00",
+  "generatedAt": "2026-08-04T12:11:12+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-04T12:00:32+00:00",
+      "updatedAt": "2026-08-04T12:11:12+00:00",
       "stories": [
+        {
+          "title": "SpaceX’s new Starfall program offers validation and competition for reentry startups",
+          "url": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups",
+          "publishedAt": "2026-08-04T12:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Rocketdyne reemerges as standalone space company",
           "url": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company",
@@ -61,12 +67,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Airbus and Thales win order for SpainSat replacement",
-          "url": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement",
-          "publishedAt": "2026-08-03T12:15:34+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Louisiana Students Loft Payloads from NASA Balloon Facility in Texas",
           "url": "https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas",
           "publishedAt": "2026-08-03T19:22:43+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-04T12:00:32+00:00",
+      "updatedAt": "2026-08-04T12:11:12+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-04T12:00:32+00:00",
+      "updatedAt": "2026-08-04T12:11:12+00:00",
       "stories": [
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-04T12:00:32+00:00",
+      "updatedAt": "2026-08-04T12:11:12+00:00",
       "stories": [
         {
           "title": "Navy renews Saildrone’s counter-drug mission in the Caribbean, Eastern Pacific",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-04T12:00:32+00:00",
+      "updatedAt": "2026-08-04T12:11:12+00:00",
       "stories": [
         {
           "title": "AI labs head to the White House to discuss safety",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-04T12:00:32+00:00",
+      "updatedAt": "2026-08-04T12:11:12+00:00",
       "stories": [
         {
           "title": "igus launches energy chain with 600-degree rotation for industrial robots",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-04T12:00:32+00:00",
+    "updatedAt": "2026-08-04T12:11:12+00:00",
     "stories": [
       {
         "title": "AI labs head to the White House to discuss safety",
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Rocketdyne reemerges as standalone space company",
-        "url": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company",
-        "publishedAt": "2026-08-04T09:20:00+00:00",
+        "title": "SpaceX’s new Starfall program offers validation and competition for reentry startups",
+        "url": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups",
+        "publishedAt": "2026-08-04T12:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -597,6 +597,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Rocketdyne reemerges as standalone space company",
+        "url": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company",
+        "publishedAt": "2026-08-04T09:20:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
         "url": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus",
         "publishedAt": "2026-08-04T04:01:00+00:00",
@@ -612,15 +621,6 @@
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-        "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers",
-        "publishedAt": "2026-08-04T12:00:00+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
