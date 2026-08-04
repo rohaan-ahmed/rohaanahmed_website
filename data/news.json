@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-04T12:11:12+00:00",
+  "generatedAt": "2026-08-04T13:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-04T12:11:12+00:00",
+      "updatedAt": "2026-08-04T13:00:27+00:00",
       "stories": [
+        {
+          "title": "Future of Crew Dragon weighs on commercial spaceflight industry",
+          "url": "https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry",
+          "publishedAt": "2026-08-04T12:14:03+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "SpaceX’s new Starfall program offers validation and competition for reentry startups",
           "url": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups",
@@ -61,12 +67,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Xona secures spectrum approval for satellite navigation network",
-          "url": "https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network",
-          "publishedAt": "2026-08-03T15:36:37+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Louisiana Students Loft Payloads from NASA Balloon Facility in Texas",
           "url": "https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas",
           "publishedAt": "2026-08-03T19:22:43+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-04T12:11:12+00:00",
+      "updatedAt": "2026-08-04T13:00:27+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,8 +174,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-04T12:11:12+00:00",
+      "updatedAt": "2026-08-04T13:00:27+00:00",
       "stories": [
+        {
+          "title": "MDA Space lands $474M boost as Telesat supersizes Arctic satellite fleet",
+          "url": "https://vanguardcanada.com/mda-space-lands-474m-boost-as-telesat-supersizes-arctic-satellite-fleet",
+          "publishedAt": "2026-08-04T12:31:21+00:00",
+          "source": "Vanguard"
+        },
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
           "url": "https://vanguardcanada.com/caf-launches-arctic-infrastructure-push-under-op-nanook-qimaavivut",
@@ -241,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-04T12:11:12+00:00",
+      "updatedAt": "2026-08-04T13:00:27+00:00",
       "stories": [
         {
           "title": "Navy renews Saildrone’s counter-drug mission in the Caribbean, Eastern Pacific",
@@ -338,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-04T12:11:12+00:00",
+      "updatedAt": "2026-08-04T13:00:27+00:00",
       "stories": [
         {
           "title": "AI labs head to the White House to discuss safety",
@@ -435,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-04T12:11:12+00:00",
+      "updatedAt": "2026-08-04T13:00:27+00:00",
       "stories": [
         {
           "title": "igus launches energy chain with 600-degree rotation for industrial robots",
@@ -531,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-04T12:11:12+00:00",
+    "updatedAt": "2026-08-04T13:00:27+00:00",
     "stories": [
       {
         "title": "AI labs head to the White House to discuss safety",
@@ -561,18 +567,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "SpaceX’s new Starfall program offers validation and competition for reentry startups",
-        "url": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups",
-        "publishedAt": "2026-08-04T12:00:00+00:00",
+        "title": "Future of Crew Dragon weighs on commercial spaceflight industry",
+        "url": "https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry",
+        "publishedAt": "2026-08-04T12:14:03+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
-        "url": "https://vanguardcanada.com/caf-launches-arctic-infrastructure-push-under-op-nanook-qimaavivut",
-        "publishedAt": "2026-07-31T14:16:00+00:00",
+        "title": "MDA Space lands $474M boost as Telesat supersizes Arctic satellite fleet",
+        "url": "https://vanguardcanada.com/mda-space-lands-474m-boost-as-telesat-supersizes-arctic-satellite-fleet",
+        "publishedAt": "2026-08-04T12:31:21+00:00",
         "source": "Vanguard",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
@@ -597,6 +603,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "SpaceX’s new Starfall program offers validation and competition for reentry startups",
+        "url": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups",
+        "publishedAt": "2026-08-04T12:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Rocketdyne reemerges as standalone space company",
         "url": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company",
         "publishedAt": "2026-08-04T09:20:00+00:00",
@@ -609,15 +624,6 @@
         "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
         "url": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus",
         "publishedAt": "2026-08-04T04:01:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
-        "url": "https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions",
-        "publishedAt": "2026-08-04T02:03:57+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
