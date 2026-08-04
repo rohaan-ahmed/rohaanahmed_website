@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-04T04:00:26+00:00",
+  "generatedAt": "2026-08-04T04:28:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-04T04:00:26+00:00",
+      "updatedAt": "2026-08-04T04:28:34+00:00",
       "stories": [
+        {
+          "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
+          "url": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus",
+          "publishedAt": "2026-08-04T04:01:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
           "url": "https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions",
@@ -79,12 +85,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Space Force awards K2 Space $22.9 million for laser communications demonstration",
-          "url": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration",
-          "publishedAt": "2026-08-01T20:28:39+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "How to safely watch a solar eclipse",
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse",
           "publishedAt": "2026-07-31T14:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-04T04:00:26+00:00",
+      "updatedAt": "2026-08-04T04:28:34+00:00",
       "stories": [
         {
           "title": "Intermap signs $11 million deal to acquire remaining PCI Geomatics shares",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-04T04:00:26+00:00",
+      "updatedAt": "2026-08-04T04:28:34+00:00",
       "stories": [
         {
           "title": "CAF engineers head north to find out what Canada’s Arctic actually needs",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-04T04:00:26+00:00",
+      "updatedAt": "2026-08-04T04:28:34+00:00",
       "stories": [
         {
           "title": "K2 tapped to host Space Force satellite laser links tests",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-04T04:00:26+00:00",
+      "updatedAt": "2026-08-04T04:28:34+00:00",
       "stories": [
         {
           "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-04T04:00:26+00:00",
+      "updatedAt": "2026-08-04T04:28:34+00:00",
       "stories": [
         {
           "title": "igus launches energy chain with 600-degree rotation for industrial robots",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-04T04:00:26+00:00",
+    "updatedAt": "2026-08-04T04:28:34+00:00",
     "stories": [
       {
         "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
-        "url": "https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions",
-        "publishedAt": "2026-08-04T02:03:57+00:00",
+        "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
+        "url": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus",
+        "publishedAt": "2026-08-04T04:01:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -597,6 +597,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
+        "url": "https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions",
+        "publishedAt": "2026-08-04T02:03:57+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
         "url": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink",
         "publishedAt": "2026-08-03T16:06:47+00:00",
@@ -609,15 +618,6 @@
         "title": "Xona secures spectrum approval for satellite navigation network",
         "url": "https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network",
         "publishedAt": "2026-08-03T15:36:37+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Airbus and Thales win order for SpainSat replacement",
-        "url": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement",
-        "publishedAt": "2026-08-03T12:15:34+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
