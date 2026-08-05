@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T16:00:25+00:00",
+  "generatedAt": "2026-08-05T17:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-05T16:00:25+00:00",
+      "updatedAt": "2026-08-05T17:00:32+00:00",
       "stories": [
         {
           "title": "Finding room in Starlink’s shadow",
@@ -43,6 +43,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "Astronomers witness the strange final moments of a massive star's supernova death (video)",
+          "url": "https://www.space.com/astronomy/stars/astronomers-witness-the-strange-final-moments-of-a-massive-stars-supernova-death-video",
+          "publishedAt": "2026-08-05T16:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon",
           "url": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon",
           "publishedAt": "2026-08-05T15:25:27+00:00",
@@ -65,12 +71,6 @@
           "url": "https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research",
           "publishedAt": "2026-08-05T14:00:00+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Mars dust is toxic. How will future astronauts deal with it?",
-          "url": "https://www.space.com/astronomy/mars/mars-dust-is-toxic-how-will-future-astronauts-deal-with-it",
-          "publishedAt": "2026-08-05T13:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "SpaceX to begin Starship orbital flights",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-05T16:00:25+00:00",
+      "updatedAt": "2026-08-05T17:00:32+00:00",
       "stories": [
+        {
+          "title": "The Canadian Space Agency opens $2.4 million CUBICS 2026 opportunity for university CubeSat projects",
+          "url": "https://spaceq.ca/the-canadian-space-agency-opens-2-4-million-cubics-2026-opportunity-for-university-cubesat-projects",
+          "publishedAt": "2026-08-05T16:00:58+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Defence Investment Agency awards Telesat and MDA Space a major Arctic security connectivity contract initially valued at $2.3 billion",
           "url": "https://spaceq.ca/defence-investment-agency-awards-telesat-and-mda-space-a-major-arctic-security-connectivity-contract-initially-valued-at-2-3-billion",
@@ -162,19 +168,13 @@
           "url": "https://spaceq.ca/canadian-satellites-to-support-fight-against-illegal-fishing-in-mexico",
           "publishedAt": "2026-07-28T16:52:40+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "In Defence of Canada briefing: Spaceport polling and NORAD’s Arctic resilience",
-          "url": "https://spaceq.ca/in-defence-of-canada-briefing-spaceport-polling-and-norads-arctic-resilience",
-          "publishedAt": "2026-07-27T17:44:20+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-05T16:00:25+00:00",
+      "updatedAt": "2026-08-05T17:00:32+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to deliver keynote address on Alberta’s support to Canada's defence and security",
@@ -253,8 +253,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-05T16:00:25+00:00",
+      "updatedAt": "2026-08-05T17:00:32+00:00",
       "stories": [
+        {
+          "title": "Everyone is learning the wrong lessons from Ukraine’s drone war",
+          "url": "https://breakingdefense.com/2026/08/everyone-is-learning-the-wrong-lessons-from-ukraines-drone-war",
+          "publishedAt": "2026-08-05T16:27:37+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "US Navy, Saildrone to use unmanned systems in expanded counternarcotics role",
           "url": "https://www.defensenews.com/industry/techwatch/2026/08/05/us-navy-saildrone-to-use-unmanned-systems-in-expanded-counternarcotics-role",
@@ -322,12 +328,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Colombia buys 2 KC-390s from Embraer in $336 million deal",
-          "url": "https://breakingdefense.com/2026/08/colombia-buys-2-kc-390s-from-embraer-in-336-million-deal",
-          "publishedAt": "2026-08-04T17:14:39+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Army seeks next-gen missile that could shoot down small drones for less than $150K a pop",
           "url": "https://defensescoop.com/2026/08/04/army-new-missile-shoot-down-drones",
           "publishedAt": "2026-08-04T18:07:43+00:00",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-05T16:00:25+00:00",
+      "updatedAt": "2026-08-05T17:00:32+00:00",
       "stories": [
         {
           "title": "Anthropic and OpenAI agents went rogue again",
@@ -447,8 +447,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-05T16:00:25+00:00",
+      "updatedAt": "2026-08-05T17:00:32+00:00",
       "stories": [
+        {
+          "title": "Why perception is the key to scaling industrial autonomy",
+          "url": "https://www.therobotreport.com/why-perception-is-the-key-to-scaling-industrial-autonomy",
+          "publishedAt": "2026-08-05T15:56:45+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Zoox unveils production-ready robotaxi for U.S. expansion",
           "url": "https://www.therobotreport.com/zoox-unveils-production-ready-robotaxi-for-u-s-expansion",
@@ -504,12 +510,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Top 10 robotics stories of July 2026",
-          "url": "https://www.therobotreport.com/top-10-robotics-stories-july-2026",
-          "publishedAt": "2026-08-01T12:00:30+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
           "url": "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
           "publishedAt": "2026-07-31T16:00:03+00:00",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-05T16:00:25+00:00",
+    "updatedAt": "2026-08-05T17:00:32+00:00",
     "stories": [
       {
         "title": "Anthropic and OpenAI agents went rogue again",
@@ -564,9 +564,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Defence Investment Agency awards Telesat and MDA Space a major Arctic security connectivity contract initially valued at $2.3 billion",
-        "url": "https://spaceq.ca/defence-investment-agency-awards-telesat-and-mda-space-a-major-arctic-security-connectivity-contract-initially-valued-at-2-3-billion",
-        "publishedAt": "2026-08-04T20:52:06+00:00",
+        "title": "The Canadian Space Agency opens $2.4 million CUBICS 2026 opportunity for university CubeSat projects",
+        "url": "https://spaceq.ca/the-canadian-space-agency-opens-2-4-million-cubics-2026-opportunity-for-university-cubesat-projects",
+        "publishedAt": "2026-08-05T16:00:58+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -591,18 +591,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "US Navy, Saildrone to use unmanned systems in expanded counternarcotics role",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/05/us-navy-saildrone-to-use-unmanned-systems-in-expanded-counternarcotics-role",
-        "publishedAt": "2026-08-05T14:37:54+00:00",
-        "source": "Defense News",
+        "title": "Everyone is learning the wrong lessons from Ukraine’s drone war",
+        "url": "https://breakingdefense.com/2026/08/everyone-is-learning-the-wrong-lessons-from-ukraines-drone-war",
+        "publishedAt": "2026-08-05T16:27:37+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Zoox unveils production-ready robotaxi for U.S. expansion",
-        "url": "https://www.therobotreport.com/zoox-unveils-production-ready-robotaxi-for-u-s-expansion",
-        "publishedAt": "2026-08-04T19:40:40+00:00",
+        "title": "Why perception is the key to scaling industrial autonomy",
+        "url": "https://www.therobotreport.com/why-perception-is-the-key-to-scaling-industrial-autonomy",
+        "publishedAt": "2026-08-05T15:56:45+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -748,6 +748,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-16"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-24"
   ]
 }
