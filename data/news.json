@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T21:51:52+00:00",
+  "generatedAt": "2026-08-05T22:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-05T21:51:52+00:00",
+      "updatedAt": "2026-08-05T22:00:30+00:00",
       "stories": [
         {
           "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
@@ -49,12 +49,6 @@
           "source": "Space.com"
         },
         {
-          "title": "NASA’s IXPE May Have Proven 90-Year-Old Theory",
-          "url": "https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory",
-          "publishedAt": "2026-08-05T18:49:14+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "A SpaceX rocket just crashed into the moon. Now, the race is on to get a look at the impact site",
           "url": "https://www.space.com/astronomy/moon/a-spacex-rocket-just-crashed-into-the-moon-now-the-race-is-on-to-get-a-look-at-the-impact-site",
           "publishedAt": "2026-08-05T17:43:30+00:00",
@@ -67,22 +61,22 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Artemis III Orion Crew and Service Models Joined",
-          "url": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined",
-          "publishedAt": "2026-08-05T17:27:18+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
           "url": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp",
           "publishedAt": "2026-08-05T03:01:23+00:00",
           "source": "SpaceNews"
         },
         {
-          "title": "NASA’s Perseverance Captures Phobos and Earth",
-          "url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth",
-          "publishedAt": "2026-08-05T15:28:03+00:00",
-          "source": "NASA"
+          "title": "Astronomers witness the strange final moments of a massive star's supernova death (video)",
+          "url": "https://www.space.com/astronomy/stars/astronomers-witness-the-strange-final-moments-of-a-massive-stars-supernova-death-video",
+          "publishedAt": "2026-08-05T16:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "SpaceX to begin Starship orbital flights",
+          "url": "https://spacenews.com/spacex-to-begin-starship-orbital-flights",
+          "publishedAt": "2026-08-04T22:51:13+00:00",
+          "source": "SpaceNews"
         },
         {
           "title": "Europe’s forests losing more biomass since 2018",
@@ -95,13 +89,19 @@
           "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
           "publishedAt": "2026-08-05T08:00:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "ESA and Pokémon team up to celebrate World Space Week",
+          "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week",
+          "publishedAt": "2026-08-04T08:00:00+00:00",
+          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-05T21:51:52+00:00",
+      "updatedAt": "2026-08-05T22:00:30+00:00",
       "stories": [
         {
           "title": "SpaceX reports first earnings since going public – makes big bet on AI",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-05T21:51:52+00:00",
+      "updatedAt": "2026-08-05T22:00:30+00:00",
       "stories": [
         {
           "title": "North Vector Dynamics Bags European Cash, Eyes NATO Missile Market",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-05T21:51:52+00:00",
+      "updatedAt": "2026-08-05T22:00:30+00:00",
       "stories": [
         {
           "title": "First Trump-class battleship could cost more than $23B: CBO",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-05T21:51:52+00:00",
+      "updatedAt": "2026-08-05T22:00:30+00:00",
       "stories": [
         {
           "title": "Meta launches Muse Code, an AI agent for large code bases",
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-05T21:51:52+00:00",
+      "updatedAt": "2026-08-05T22:00:30+00:00",
       "stories": [
         {
           "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-05T21:51:52+00:00",
+    "updatedAt": "2026-08-05T22:00:30+00:00",
     "stories": [
       {
         "title": "Meta launches Muse Code, an AI agent for large code bases",
@@ -753,5 +753,7 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": []
+  "warnings": [
+    "NASA: 429 Client Error: Too Many Requests for url: https://www.nasa.gov/feed/"
+  ]
 }
