@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-05T22:00:30+00:00",
+  "generatedAt": "2026-08-05T22:45:05+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-05T22:00:30+00:00",
+      "updatedAt": "2026-08-05T22:45:05+00:00",
       "stories": [
+        {
+          "title": "New Glenn explosion linked to rocket engine valve",
+          "url": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve",
+          "publishedAt": "2026-08-05T22:30:16+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
           "url": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts",
@@ -49,6 +55,12 @@
           "source": "Space.com"
         },
         {
+          "title": "NASA’s IXPE May Have Proven 90-Year-Old Theory",
+          "url": "https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory",
+          "publishedAt": "2026-08-05T18:49:14+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "A SpaceX rocket just crashed into the moon. Now, the race is on to get a look at the impact site",
           "url": "https://www.space.com/astronomy/moon/a-spacex-rocket-just-crashed-into-the-moon-now-the-race-is-on-to-get-a-look-at-the-impact-site",
           "publishedAt": "2026-08-05T17:43:30+00:00",
@@ -61,22 +73,16 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
-          "url": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp",
-          "publishedAt": "2026-08-05T03:01:23+00:00",
-          "source": "SpaceNews"
+          "title": "Artemis III Orion Crew and Service Models Joined",
+          "url": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined",
+          "publishedAt": "2026-08-05T17:27:18+00:00",
+          "source": "NASA"
         },
         {
-          "title": "Astronomers witness the strange final moments of a massive star's supernova death (video)",
-          "url": "https://www.space.com/astronomy/stars/astronomers-witness-the-strange-final-moments-of-a-massive-stars-supernova-death-video",
-          "publishedAt": "2026-08-05T16:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "SpaceX to begin Starship orbital flights",
-          "url": "https://spacenews.com/spacex-to-begin-starship-orbital-flights",
-          "publishedAt": "2026-08-04T22:51:13+00:00",
-          "source": "SpaceNews"
+          "title": "NASA’s Perseverance Captures Phobos and Earth",
+          "url": "https://science.nasa.gov/photojournal/nasas-perseverance-captures-phobos-and-earth",
+          "publishedAt": "2026-08-05T15:28:03+00:00",
+          "source": "NASA"
         },
         {
           "title": "Europe’s forests losing more biomass since 2018",
@@ -89,19 +95,13 @@
           "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
           "publishedAt": "2026-08-05T08:00:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "ESA and Pokémon team up to celebrate World Space Week",
-          "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week",
-          "publishedAt": "2026-08-04T08:00:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-05T22:00:30+00:00",
+      "updatedAt": "2026-08-05T22:45:05+00:00",
       "stories": [
         {
           "title": "SpaceX reports first earnings since going public – makes big bet on AI",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-05T22:00:30+00:00",
+      "updatedAt": "2026-08-05T22:45:05+00:00",
       "stories": [
         {
           "title": "North Vector Dynamics Bags European Cash, Eyes NATO Missile Market",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-05T22:00:30+00:00",
+      "updatedAt": "2026-08-05T22:45:05+00:00",
       "stories": [
         {
           "title": "First Trump-class battleship could cost more than $23B: CBO",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-05T22:00:30+00:00",
+      "updatedAt": "2026-08-05T22:45:05+00:00",
       "stories": [
         {
           "title": "Meta launches Muse Code, an AI agent for large code bases",
@@ -395,40 +395,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Cloudflare Introduced Programmable Wallets for AI Agents (4 minute read)",
-          "url": "https://blog.cloudflare.com/wallets",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+          "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google",
+          "publishedAt": "2026-08-05T15:56:14+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Anthropic Reportedly Signed a $10B Cloud Deal with Volta (3 minute read)",
-          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Hark previews its browser use agent for completing tasks",
+          "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks",
+          "publishedAt": "2026-08-05T15:46:27+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "A unified API for AI model routing (3 minute read)",
-          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "What Codex Actually Sends to the Model (10 minute read)",
-          "url": "https://www.0xkato.xyz/what-codex-actually-sends-to-the-model",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Unpacking ChatGPT Work: the Agent for a Billion Users (18 minute read)",
-          "url": "https://www.latent.space/p/unpacking-chatgpt-work",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "NVIDIA Released Alpamayo 2 (4 minute read)",
-          "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+          "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals",
+          "publishedAt": "2026-08-05T15:05:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "AI labs head to the White House to discuss safety",
@@ -447,13 +429,31 @@
           "url": "https://openai.com/index/ten-advances-in-mathematics",
           "publishedAt": "2026-08-03T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "China’s Qwen now challenges the frontier",
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "publishedAt": "2026-08-03T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI resets the cost curve with GPT 5.6 price drops",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "publishedAt": "2026-07-31T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI's escaped AIs claim another victim",
+          "url": "https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28",
+          "publishedAt": "2026-07-30T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-05T22:00:30+00:00",
+      "updatedAt": "2026-08-05T22:45:05+00:00",
       "stories": [
         {
           "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-05T22:00:30+00:00",
+    "updatedAt": "2026-08-05T22:45:05+00:00",
     "stories": [
       {
         "title": "Meta launches Muse Code, an AI agent for large code bases",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
-        "url": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts",
-        "publishedAt": "2026-08-05T17:05:00+00:00",
+        "title": "New Glenn explosion linked to rocket engine valve",
+        "url": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve",
+        "publishedAt": "2026-08-05T22:30:16+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -615,6 +615,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
+        "url": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts",
+        "publishedAt": "2026-08-05T17:05:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "The Canadian Space Agency opens $2.4 million CUBICS 2026 opportunity for university CubeSat projects",
         "url": "https://spaceq.ca/the-canadian-space-agency-opens-2-4-million-cubics-2026-opportunity-for-university-cubesat-projects",
         "publishedAt": "2026-08-05T16:00:58+00:00",
@@ -627,15 +636,6 @@
         "title": "Finding room in Starlink’s shadow",
         "url": "https://spacenews.com/finding-room-in-starlinks-shadow",
         "publishedAt": "2026-08-05T15:00:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Satellite manufacturing thrives in California despite cost and regulatory pressures",
-        "url": "https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures",
-        "publishedAt": "2026-08-05T12:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -754,6 +754,6 @@
     }
   ],
   "warnings": [
-    "NASA: 429 Client Error: Too Many Requests for url: https://www.nasa.gov/feed/"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-24"
   ]
 }
