@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-05T17:00:32+00:00",
+  "generatedAt": "2026-08-05T17:13:56+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-05T17:00:32+00:00",
+      "updatedAt": "2026-08-05T17:13:56+00:00",
       "stories": [
+        {
+          "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
+          "url": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts",
+          "publishedAt": "2026-08-05T17:05:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Finding room in Starlink’s shadow",
           "url": "https://spacenews.com/finding-room-in-starlinks-shadow",
@@ -73,12 +79,6 @@
           "source": "NASA"
         },
         {
-          "title": "SpaceX to begin Starship orbital flights",
-          "url": "https://spacenews.com/spacex-to-begin-starship-orbital-flights",
-          "publishedAt": "2026-08-04T22:51:13+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Europe’s forests losing more biomass since 2018",
           "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018",
           "publishedAt": "2026-08-05T09:30:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-05T17:00:32+00:00",
+      "updatedAt": "2026-08-05T17:13:56+00:00",
       "stories": [
         {
           "title": "The Canadian Space Agency opens $2.4 million CUBICS 2026 opportunity for university CubeSat projects",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-05T17:00:32+00:00",
+      "updatedAt": "2026-08-05T17:13:56+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to deliver keynote address on Alberta’s support to Canada's defence and security",
@@ -253,7 +253,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-05T17:00:32+00:00",
+      "updatedAt": "2026-08-05T17:13:56+00:00",
       "stories": [
         {
           "title": "Everyone is learning the wrong lessons from Ukraine’s drone war",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-05T17:00:32+00:00",
+      "updatedAt": "2026-08-05T17:13:56+00:00",
       "stories": [
         {
           "title": "Anthropic and OpenAI agents went rogue again",
@@ -447,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-05T17:00:32+00:00",
+      "updatedAt": "2026-08-05T17:13:56+00:00",
       "stories": [
         {
           "title": "Why perception is the key to scaling industrial autonomy",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-05T17:00:32+00:00",
+    "updatedAt": "2026-08-05T17:13:56+00:00",
     "stories": [
       {
         "title": "Anthropic and OpenAI agents went rogue again",
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Finding room in Starlink’s shadow",
-        "url": "https://spacenews.com/finding-room-in-starlinks-shadow",
-        "publishedAt": "2026-08-05T15:00:00+00:00",
+        "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
+        "url": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts",
+        "publishedAt": "2026-08-05T17:05:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -609,6 +609,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Finding room in Starlink’s shadow",
+        "url": "https://spacenews.com/finding-room-in-starlinks-shadow",
+        "publishedAt": "2026-08-05T15:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Satellite manufacturing thrives in California despite cost and regulatory pressures",
         "url": "https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures",
         "publishedAt": "2026-08-05T12:00:00+00:00",
@@ -624,15 +633,6 @@
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Business students go all in on AI amid demand surge",
-        "url": "https://kogod.american.edu/news/ai-at-kogod-a-three-year-student-research-report",
-        "publishedAt": "2026-08-05T09:00:00+00:00",
-        "source": "The Rundown AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -748,6 +748,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-24"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-23"
   ]
 }
