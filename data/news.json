@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-05T07:06:00+00:00",
+  "generatedAt": "2026-08-05T08:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-05T07:06:00+00:00",
+      "updatedAt": "2026-08-05T08:00:34+00:00",
       "stories": [
+        {
+          "title": "Think tank warns Europe’s orbital compute gap is widening",
+          "url": "https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening",
+          "publishedAt": "2026-08-05T08:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Neuraspace raises $18 million to expand sovereign space awareness",
           "url": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness",
@@ -37,10 +43,10 @@
           "source": "SpaceNews"
         },
         {
-          "title": "NOAA purchases Spire hyperspectral microwave sounder data",
-          "url": "https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data",
-          "publishedAt": "2026-08-04T20:05:00+00:00",
-          "source": "SpaceNews"
+          "title": "Total solar eclipse: how to watch live from home",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Total_solar_eclipse_how_to_watch_live_from_home",
+          "publishedAt": "2026-08-05T08:00:00+00:00",
+          "source": "European Space Agency"
         },
         {
           "title": "Total solar eclipse Aug. 12, 2026 live updates — 1 week to go",
@@ -89,19 +95,13 @@
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/The_journey_of_Sophie_Adenot_s_bonus_food",
           "publishedAt": "2026-08-03T12:00:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "How to safely watch a solar eclipse",
-          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/07/How_to_safely_watch_a_solar_eclipse",
-          "publishedAt": "2026-07-31T14:00:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-05T07:06:00+00:00",
+      "updatedAt": "2026-08-05T08:00:34+00:00",
       "stories": [
         {
           "title": "Defence Investment Agency awards Telesat and MDA Space a major Arctic security connectivity contract initially valued at $2.3 billion",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-05T07:06:00+00:00",
+      "updatedAt": "2026-08-05T08:00:34+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to deliver keynote address on Alberta’s support to Canada's defence and security",
@@ -253,7 +253,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-05T07:06:00+00:00",
+      "updatedAt": "2026-08-05T08:00:34+00:00",
       "stories": [
         {
           "title": "Defense execs feel good about Pentagon spending despite uncertainty on FY27 budget",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-05T07:06:00+00:00",
+      "updatedAt": "2026-08-05T08:00:34+00:00",
       "stories": [
         {
           "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
@@ -383,22 +383,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-          "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you",
-          "publishedAt": "2026-08-04T19:34:34+00:00",
-          "source": "TechCrunch AI"
+          "title": "Anthropic pays AI's biggest salaries. Its CEO just discovered people might take them for the money (4 minute read)",
+          "url": "https://thenextweb.com/news/ai-talent-wars-loyalty-money-mission-anthropic",
+          "publishedAt": "2026-08-04T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-          "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress",
-          "publishedAt": "2026-08-04T19:28:49+00:00",
-          "source": "TechCrunch AI"
+          "title": "Mind Lab puts continual learning to the test with Macaron-V1 (11 minute read)",
+          "url": "https://kr-asia.com/mind-lab-puts-continual-learning-to-the-test-with-macaron-v1",
+          "publishedAt": "2026-08-04T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Spotify expands AI remix and covers project with Merlin partnership",
-          "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort",
-          "publishedAt": "2026-08-04T15:50:06+00:00",
-          "source": "TechCrunch AI"
+          "title": "Former OpenAI exec Fidji Simo discusses her battle with POTS and her startup's plans to cure it with AI and 3,500 vials of blood (11 minute read)",
+          "url": "https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html",
+          "publishedAt": "2026-08-04T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How OpenAI Built GPT-Live (8 minute read)",
+          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "publishedAt": "2026-08-04T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "One agent, every surface: how we built the Kiro agent harness (20 minute read)",
+          "url": "https://kiro.dev/blog/one-agent",
+          "publishedAt": "2026-08-04T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "OpenAI's Unreleased Model Astra Solves Ten Major Open Mathematics Problems (34 minute read)",
+          "url": "https://thezvi.wordpress.com/2026/08/03/openais-unreleased-model-astra-solves-ten-major-open-mathematics-problems",
+          "publishedAt": "2026-08-04T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI’s ‘Astra’ cracks long-open math problems",
@@ -423,31 +441,13 @@
           "url": "https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28",
           "publishedAt": "2026-07-30T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Altman heads to Capitol Hill to talk models, security",
-          "url": "https://www.politico.com/news/2026/07/29/sam-altman-previews-new-ai-model-on-capitol-hill-after-cyber-breach-01015247",
-          "publishedAt": "2026-07-30T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "1,000+ frontier staffers ask U.S. for an AI brake pedal",
-          "url": "https://www.pacingthefrontier.com/",
-          "publishedAt": "2026-07-29T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Zuck pushes superintelligence for all in new op-ed",
-          "url": "https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20",
-          "publishedAt": "2026-07-29T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-05T07:06:00+00:00",
+      "updatedAt": "2026-08-05T08:00:34+00:00",
       "stories": [
         {
           "title": "Zoox unveils production-ready robotaxi for U.S. expansion",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-05T07:06:00+00:00",
+    "updatedAt": "2026-08-05T08:00:34+00:00",
     "stories": [
       {
         "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Neuraspace raises $18 million to expand sovereign space awareness",
-        "url": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness",
-        "publishedAt": "2026-08-05T06:00:00+00:00",
+        "title": "Think tank warns Europe’s orbital compute gap is widening",
+        "url": "https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening",
+        "publishedAt": "2026-08-05T08:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -609,6 +609,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Neuraspace raises $18 million to expand sovereign space awareness",
+        "url": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness",
+        "publishedAt": "2026-08-05T06:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
         "url": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp",
         "publishedAt": "2026-08-05T03:01:23+00:00",
@@ -621,15 +630,6 @@
         "title": "SpaceX to begin Starship orbital flights",
         "url": "https://spacenews.com/spacex-to-begin-starship-orbital-flights",
         "publishedAt": "2026-08-04T22:51:13+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Rocket Lab, STR win Space Force contracts for airborne-target tracking",
-        "url": "https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies",
-        "publishedAt": "2026-08-04T22:47:07+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -747,8 +747,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "Ottawa Citizen Defence Watch: 503 Server Error: Service Unavailable for url: https://ottawacitizen.com/tag/defence-watch/feed.xml",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-15"
-  ]
+  "warnings": []
 }
