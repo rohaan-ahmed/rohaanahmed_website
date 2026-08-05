@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-05T06:00:32+00:00",
+  "generatedAt": "2026-08-05T07:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-05T06:00:32+00:00",
+      "updatedAt": "2026-08-05T07:00:28+00:00",
       "stories": [
+        {
+          "title": "Neuraspace raises $18 million to expand sovereign space awareness",
+          "url": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness",
+          "publishedAt": "2026-08-05T06:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
           "url": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp",
@@ -41,12 +47,6 @@
           "url": "https://www.space.com/news/live/total-solar-eclipse-aug-12-2026-live-updates-one-week-to-go",
           "publishedAt": "2026-08-05T05:30:17+00:00",
           "source": "Space.com"
-        },
-        {
-          "title": "Rubicon ASCENT thruster moves from hot-fire testing to production",
-          "url": "https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production",
-          "publishedAt": "2026-08-04T15:48:20+00:00",
-          "source": "SpaceNews"
         },
         {
           "title": "1 week to go until a dramatic total solar eclipse darkens the skies over Spain, Iceland and Greenland",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-05T06:00:32+00:00",
+      "updatedAt": "2026-08-05T07:00:28+00:00",
       "stories": [
         {
           "title": "Defence Investment Agency awards Telesat and MDA Space a major Arctic security connectivity contract initially valued at $2.3 billion",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-05T06:00:32+00:00",
+      "updatedAt": "2026-08-05T07:00:28+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to deliver keynote address on Alberta’s support to Canada's defence and security",
@@ -253,7 +253,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-05T06:00:32+00:00",
+      "updatedAt": "2026-08-05T07:00:28+00:00",
       "stories": [
         {
           "title": "Defense execs feel good about Pentagon spending despite uncertainty on FY27 budget",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-05T06:00:32+00:00",
+      "updatedAt": "2026-08-05T07:00:28+00:00",
       "stories": [
         {
           "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
@@ -447,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-05T06:00:32+00:00",
+      "updatedAt": "2026-08-05T07:00:28+00:00",
       "stories": [
         {
           "title": "Zoox unveils production-ready robotaxi for U.S. expansion",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-05T06:00:32+00:00",
+    "updatedAt": "2026-08-05T07:00:28+00:00",
     "stories": [
       {
         "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
-        "url": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp",
-        "publishedAt": "2026-08-05T03:01:23+00:00",
+        "title": "Neuraspace raises $18 million to expand sovereign space awareness",
+        "url": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness",
+        "publishedAt": "2026-08-05T06:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -609,6 +609,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
+        "url": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp",
+        "publishedAt": "2026-08-05T03:01:23+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "SpaceX to begin Starship orbital flights",
         "url": "https://spacenews.com/spacex-to-begin-starship-orbital-flights",
         "publishedAt": "2026-08-04T22:51:13+00:00",
@@ -621,15 +630,6 @@
         "title": "Rocket Lab, STR win Space Force contracts for airborne-target tracking",
         "url": "https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies",
         "publishedAt": "2026-08-04T22:47:07+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Telesat lands $1.63 billion Canadian defense contract",
-        "url": "https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract",
-        "publishedAt": "2026-08-04T22:00:15+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
