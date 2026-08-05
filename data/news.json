@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T13:26:40+00:00",
+  "generatedAt": "2026-08-05T14:00:42+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-05T13:26:40+00:00",
+      "updatedAt": "2026-08-05T14:00:42+00:00",
       "stories": [
         {
           "title": "Satellite manufacturing thrives in California despite cost and regulatory pressures",
@@ -29,6 +29,12 @@
           "url": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp",
           "publishedAt": "2026-08-05T03:01:23+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Advanced Mini-laboratories Automate Space Station Research",
+          "url": "https://www.nasa.gov/image-article/advanced-mini-laboratories-automate-space-station-research",
+          "publishedAt": "2026-08-05T14:00:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "Mars dust is toxic. How will future astronauts deal with it?",
@@ -85,12 +91,6 @@
           "source": "NASA"
         },
         {
-          "title": "NASA Will Attempt to Observe Rocket Part’s Lunar Impact",
-          "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact",
-          "publishedAt": "2026-08-04T20:00:14+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "ESA and Pokémon team up to celebrate World Space Week",
           "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_Pokemon_team_up_to_celebrate_World_Space_Week",
           "publishedAt": "2026-08-04T08:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-05T13:26:40+00:00",
+      "updatedAt": "2026-08-05T14:00:42+00:00",
       "stories": [
         {
           "title": "Defence Investment Agency awards Telesat and MDA Space a major Arctic security connectivity contract initially valued at $2.3 billion",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-05T13:26:40+00:00",
+      "updatedAt": "2026-08-05T14:00:42+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to deliver keynote address on Alberta’s support to Canada's defence and security",
@@ -253,8 +253,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-05T13:26:40+00:00",
+      "updatedAt": "2026-08-05T14:00:42+00:00",
       "stories": [
+        {
+          "title": "How ITAR concerns are affecting US defense sales abroad",
+          "url": "https://breakingdefense.com/2026/08/how-itar-concerns-are-affecting-us-defense-sales-abroad",
+          "publishedAt": "2026-08-05T13:43:10+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "The reasons why Group 2 drones are right-sized for the fight",
           "url": "https://breakingdefense.com/2026/08/the-reasons-why-group-2-drones-are-right-sized-for-the-fight",
@@ -316,12 +322,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Italy’s controversial Gulf military mission enters public spotlight",
-          "url": "https://breakingdefense.com/2026/08/italys-controversial-gulf-military-mission-enters-public-spotlight",
-          "publishedAt": "2026-08-04T16:15:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "325 Narcan doses, 43 lost children: DC National Guard mission wraps first year",
           "url": "https://www.defensenews.com/news/your-military/2026/08/04/325-narcan-doses-43-lost-children-dc-national-guard-mission-wraps-first-year",
           "publishedAt": "2026-08-04T16:12:54+00:00",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-05T13:26:40+00:00",
+      "updatedAt": "2026-08-05T14:00:42+00:00",
       "stories": [
         {
           "title": "Anthropic and OpenAI agents went rogue again",
@@ -369,6 +369,42 @@
           "url": "https://kogod.american.edu/news/ai-at-kogod-a-three-year-student-research-report",
           "publishedAt": "2026-08-05T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Cloudflare Introduced Programmable Wallets for AI Agents (4 minute read)",
+          "url": "https://blog.cloudflare.com/wallets",
+          "publishedAt": "2026-08-05T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Anthropic Reportedly Signed a $10B Cloud Deal with Volta (3 minute read)",
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
+          "publishedAt": "2026-08-05T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "A unified API for AI model routing (3 minute read)",
+          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+          "publishedAt": "2026-08-05T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "What Codex Actually Sends to the Model (10 minute read)",
+          "url": "https://www.0xkato.xyz/what-codex-actually-sends-to-the-model",
+          "publishedAt": "2026-08-05T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Unpacking ChatGPT Work: the Agent for a Billion Users (18 minute read)",
+          "url": "https://www.latent.space/p/unpacking-chatgpt-work",
+          "publishedAt": "2026-08-05T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "NVIDIA Released Alpamayo 2 (4 minute read)",
+          "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
+          "publishedAt": "2026-08-05T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
@@ -401,45 +437,9 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-          "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains",
-          "publishedAt": "2026-08-04T20:05:26+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
-          "publishedAt": "2026-08-04T19:48:40+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-          "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you",
-          "publishedAt": "2026-08-04T19:34:34+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "OpenAI’s ‘Astra’ cracks long-open math problems",
           "url": "https://openai.com/index/ten-advances-in-mathematics",
           "publishedAt": "2026-08-03T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "China’s Qwen now challenges the frontier",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "publishedAt": "2026-08-03T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI resets the cost curve with GPT 5.6 price drops",
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-          "publishedAt": "2026-07-31T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI's escaped AIs claim another victim",
-          "url": "https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28",
-          "publishedAt": "2026-07-30T09:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -447,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-05T13:26:40+00:00",
+      "updatedAt": "2026-08-05T14:00:42+00:00",
       "stories": [
         {
           "title": "Zoox unveils production-ready robotaxi for U.S. expansion",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-05T13:26:40+00:00",
+    "updatedAt": "2026-08-05T14:00:42+00:00",
     "stories": [
       {
         "title": "Anthropic and OpenAI agents went rogue again",
@@ -591,9 +591,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The reasons why Group 2 drones are right-sized for the fight",
-        "url": "https://breakingdefense.com/2026/08/the-reasons-why-group-2-drones-are-right-sized-for-the-fight",
-        "publishedAt": "2026-08-05T12:30:00+00:00",
+        "title": "How ITAR concerns are affecting US defense sales abroad",
+        "url": "https://breakingdefense.com/2026/08/how-itar-concerns-are-affecting-us-defense-sales-abroad",
+        "publishedAt": "2026-08-05T13:43:10+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -747,7 +747,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-24"
-  ]
+  "warnings": []
 }
