@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T13:00:31+00:00",
+  "generatedAt": "2026-08-05T13:26:40+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-05T13:00:31+00:00",
+      "updatedAt": "2026-08-05T13:26:40+00:00",
       "stories": [
         {
           "title": "Satellite manufacturing thrives in California despite cost and regulatory pressures",
@@ -29,6 +29,12 @@
           "url": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp",
           "publishedAt": "2026-08-05T03:01:23+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Mars dust is toxic. How will future astronauts deal with it?",
+          "url": "https://www.space.com/astronomy/mars/mars-dust-is-toxic-how-will-future-astronauts-deal-with-it",
+          "publishedAt": "2026-08-05T13:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "SpaceX to begin Starship orbital flights",
@@ -67,12 +73,6 @@
           "source": "Space.com"
         },
         {
-          "title": "Total solar eclipse Aug. 12, 2026 live updates — 1 week to go",
-          "url": "https://www.space.com/news/live/total-solar-eclipse-aug-12-2026-live-updates-one-week-to-go",
-          "publishedAt": "2026-08-05T05:30:17+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "APOD: 2026 August 5 – Spokes on Saturn’s B Ring",
           "url": "https://science.nasa.gov/image-article/apod-2026-august-5-spokes-on-saturns-b-ring",
           "publishedAt": "2026-08-05T04:05:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-05T13:00:31+00:00",
+      "updatedAt": "2026-08-05T13:26:40+00:00",
       "stories": [
         {
           "title": "Defence Investment Agency awards Telesat and MDA Space a major Arctic security connectivity contract initially valued at $2.3 billion",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-05T13:00:31+00:00",
+      "updatedAt": "2026-08-05T13:26:40+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to deliver keynote address on Alberta’s support to Canada's defence and security",
@@ -253,13 +253,19 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-05T13:00:31+00:00",
+      "updatedAt": "2026-08-05T13:26:40+00:00",
       "stories": [
         {
           "title": "The reasons why Group 2 drones are right-sized for the fight",
           "url": "https://breakingdefense.com/2026/08/the-reasons-why-group-2-drones-are-right-sized-for-the-fight",
           "publishedAt": "2026-08-05T12:30:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Taiwan launches major war games to test command flexibility",
+          "url": "https://www.defensenews.com/global/asia-pacific/2026/08/05/taiwan-launches-major-war-games-to-test-command-flexibility",
+          "publishedAt": "2026-08-05T13:09:54+00:00",
+          "source": "Defense News"
         },
         {
           "title": "France’s drone production shifts from policy ambition to factory floor",
@@ -328,12 +334,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "Thales Australia whips together armed UGV in just 6 weeks",
-          "url": "https://www.defensenews.com/global/asia-pacific/2026/08/04/thales-australia-whips-together-armed-ugv-in-just-6-weeks",
-          "publishedAt": "2026-08-04T13:59:38+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "DISA seeks industry input on CommandNet migration following GAO protest",
           "url": "https://defensescoop.com/2026/08/04/disa-commandnet-migration-dodnet",
           "publishedAt": "2026-08-04T14:53:10+00:00",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-05T13:00:31+00:00",
+      "updatedAt": "2026-08-05T13:26:40+00:00",
       "stories": [
         {
           "title": "Anthropic and OpenAI agents went rogue again",
@@ -401,45 +401,45 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Anthropic pays AI's biggest salaries. Its CEO just discovered people might take them for the money (4 minute read)",
-          "url": "https://thenextweb.com/news/ai-talent-wars-loyalty-money-mission-anthropic",
-          "publishedAt": "2026-08-04T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+          "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains",
+          "publishedAt": "2026-08-04T20:05:26+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Mind Lab puts continual learning to the test with Macaron-V1 (11 minute read)",
-          "url": "https://kr-asia.com/mind-lab-puts-continual-learning-to-the-test-with-macaron-v1",
-          "publishedAt": "2026-08-04T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
+          "publishedAt": "2026-08-04T19:48:40+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Former OpenAI exec Fidji Simo discusses her battle with POTS and her startup's plans to cure it with AI and 3,500 vials of blood (11 minute read)",
-          "url": "https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html",
-          "publishedAt": "2026-08-04T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How OpenAI Built GPT-Live (8 minute read)",
-          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-          "publishedAt": "2026-08-04T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "One agent, every surface: how we built the Kiro agent harness (20 minute read)",
-          "url": "https://kiro.dev/blog/one-agent",
-          "publishedAt": "2026-08-04T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "OpenAI's Unreleased Model Astra Solves Ten Major Open Mathematics Problems (34 minute read)",
-          "url": "https://thezvi.wordpress.com/2026/08/03/openais-unreleased-model-astra-solves-ten-major-open-mathematics-problems",
-          "publishedAt": "2026-08-04T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+          "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you",
+          "publishedAt": "2026-08-04T19:34:34+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI’s ‘Astra’ cracks long-open math problems",
           "url": "https://openai.com/index/ten-advances-in-mathematics",
           "publishedAt": "2026-08-03T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "China’s Qwen now challenges the frontier",
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "publishedAt": "2026-08-03T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI resets the cost curve with GPT 5.6 price drops",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "publishedAt": "2026-07-31T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI's escaped AIs claim another victim",
+          "url": "https://www.reuters.com/business/openais-rogue-agent-compromised-an-account-second-tech-firm-sources-say-2026-07-28",
+          "publishedAt": "2026-07-30T09:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -447,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-05T13:00:31+00:00",
+      "updatedAt": "2026-08-05T13:26:40+00:00",
       "stories": [
         {
           "title": "Zoox unveils production-ready robotaxi for U.S. expansion",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-05T13:00:31+00:00",
+    "updatedAt": "2026-08-05T13:26:40+00:00",
     "stories": [
       {
         "title": "Anthropic and OpenAI agents went rogue again",
@@ -747,5 +747,7 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": []
+  "warnings": [
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-24"
+  ]
 }
