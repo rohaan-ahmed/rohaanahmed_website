@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T18:00:31+00:00",
+  "generatedAt": "2026-08-05T18:57:55+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-05T18:00:31+00:00",
+      "updatedAt": "2026-08-05T18:57:55+00:00",
       "stories": [
         {
           "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-05T18:00:31+00:00",
+      "updatedAt": "2026-08-05T18:57:55+00:00",
       "stories": [
         {
           "title": "The Canadian Space Agency opens $2.4 million CUBICS 2026 opportunity for university CubeSat projects",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-05T18:00:31+00:00",
+      "updatedAt": "2026-08-05T18:57:55+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to deliver keynote address on Alberta’s support to Canada's defence and security",
@@ -253,8 +253,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-05T18:00:31+00:00",
+      "updatedAt": "2026-08-05T18:57:55+00:00",
       "stories": [
+        {
+          "title": "Command overseeing Air Force operations in Middle East gets new boss amid Iran war",
+          "url": "https://breakingdefense.com/2026/08/command-overseeing-air-force-operations-in-middle-east-gets-new-boss-amid-iran-war",
+          "publishedAt": "2026-08-05T18:30:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Army launches search for counter-drone missile priced under $150K",
           "url": "https://breakingdefense.com/2026/08/army-launches-search-for-counter-drone-missile-priced-under-150k",
@@ -310,12 +316,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "Defense execs feel good about Pentagon spending despite uncertainty on FY27 budget",
-          "url": "https://breakingdefense.com/2026/08/defense-execs-feel-good-about-pentagon-spending-despite-uncertainty-on-fy27-budget",
-          "publishedAt": "2026-08-04T19:30:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Lockheed seeks US mineral supplies after Trump supply-chain push, sources say",
           "url": "https://www.defensenews.com/industry/2026/08/04/lockheed-seeks-us-mineral-supplies-after-trump-supply-chain-push-sources-say",
           "publishedAt": "2026-08-04T20:00:08+00:00",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-05T18:00:31+00:00",
+      "updatedAt": "2026-08-05T18:57:55+00:00",
       "stories": [
         {
           "title": "Anthropic and OpenAI agents went rogue again",
@@ -447,8 +447,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-05T18:00:31+00:00",
+      "updatedAt": "2026-08-05T18:57:55+00:00",
       "stories": [
+        {
+          "title": "University of Florida opens new robotics lab dedicated to industrialized construction",
+          "url": "https://www.therobotreport.com/university-of-florida-opens-new-robotics-lab-dedicated-to-industrialized-construction",
+          "publishedAt": "2026-08-05T17:41:55+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Moove raises $250M to build infrastructure for autonomous vehicles",
           "url": "https://www.therobotreport.com/moove-raises-250m-to-build-infrastructure-for-autonomous-vehicles",
@@ -504,12 +510,6 @@
           "source": "IEEE Spectrum Robotics"
         },
         {
-          "title": "Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
-          "url": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job",
-          "publishedAt": "2026-08-03T07:00:51+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
           "url": "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
           "publishedAt": "2026-07-31T16:00:03+00:00",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-05T18:00:31+00:00",
+    "updatedAt": "2026-08-05T18:57:55+00:00",
     "stories": [
       {
         "title": "Anthropic and OpenAI agents went rogue again",
@@ -591,18 +591,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Army launches search for counter-drone missile priced under $150K",
-        "url": "https://breakingdefense.com/2026/08/army-launches-search-for-counter-drone-missile-priced-under-150k",
-        "publishedAt": "2026-08-05T17:38:11+00:00",
+        "title": "Command overseeing Air Force operations in Middle East gets new boss amid Iran war",
+        "url": "https://breakingdefense.com/2026/08/command-overseeing-air-force-operations-in-middle-east-gets-new-boss-amid-iran-war",
+        "publishedAt": "2026-08-05T18:30:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Moove raises $250M to build infrastructure for autonomous vehicles",
-        "url": "https://www.therobotreport.com/moove-raises-250m-to-build-infrastructure-for-autonomous-vehicles",
-        "publishedAt": "2026-08-05T16:53:38+00:00",
+        "title": "University of Florida opens new robotics lab dedicated to industrialized construction",
+        "url": "https://www.therobotreport.com/university-of-florida-opens-new-robotics-lab-dedicated-to-industrialized-construction",
+        "publishedAt": "2026-08-05T17:41:55+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
