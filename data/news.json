@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-06T11:00:28+00:00",
+  "generatedAt": "2026-08-06T12:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-06T11:00:28+00:00",
+      "updatedAt": "2026-08-06T12:00:26+00:00",
       "stories": [
+        {
+          "title": "Three companies building the tech to grow crops on the moon",
+          "url": "https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon",
+          "publishedAt": "2026-08-06T12:00:00+00:00",
+          "source": "SpaceNews"
+        },
+        {
+          "title": "Rocket Lab launches 8th iQPS satellite",
+          "url": "https://spacenews.com/rocket-lab-launches-8th-iqps-satellite",
+          "publishedAt": "2026-08-06T11:17:27+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket",
           "url": "https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket",
@@ -55,22 +67,10 @@
           "source": "Space.com"
         },
         {
-          "title": "Finding room in Starlink’s shadow",
-          "url": "https://spacenews.com/finding-room-in-starlinks-shadow",
-          "publishedAt": "2026-08-05T15:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability",
           "url": "https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability",
           "publishedAt": "2026-08-06T04:05:00+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Satellite manufacturing thrives in California despite cost and regulatory pressures",
-          "url": "https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures",
-          "publishedAt": "2026-08-05T12:00:00+00:00",
-          "source": "SpaceNews"
         },
         {
           "title": "'Warhammer 40,000' animated series coming to Prime Video, with Henry Cavill onboard as executive producer",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-06T11:00:28+00:00",
+      "updatedAt": "2026-08-06T12:00:26+00:00",
       "stories": [
         {
           "title": "SpaceX reports first earnings since going public – makes big bet on AI",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-06T11:00:28+00:00",
+      "updatedAt": "2026-08-06T12:00:26+00:00",
       "stories": [
         {
           "title": "North Vector Dynamics Bags European Cash, Eyes NATO Missile Market",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-06T11:00:28+00:00",
+      "updatedAt": "2026-08-06T12:00:26+00:00",
       "stories": [
         {
           "title": "Japanese MoD report highlights push to bolster defense industry",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-06T11:00:28+00:00",
+      "updatedAt": "2026-08-06T12:00:26+00:00",
       "stories": [
         {
           "title": "Google reshuffles AI leadership as rivals pull ahead",
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-06T11:00:28+00:00",
+      "updatedAt": "2026-08-06T12:00:26+00:00",
       "stories": [
         {
           "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-06T11:00:28+00:00",
+    "updatedAt": "2026-08-06T12:00:26+00:00",
     "stories": [
       {
         "title": "Google reshuffles AI leadership as rivals pull ahead",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket",
-        "url": "https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket",
-        "publishedAt": "2026-08-06T10:48:03+00:00",
+        "title": "Three companies building the tech to grow crops on the moon",
+        "url": "https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon",
+        "publishedAt": "2026-08-06T12:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -615,28 +615,28 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Rocket Lab launches 8th iQPS satellite",
+        "url": "https://spacenews.com/rocket-lab-launches-8th-iqps-satellite",
+        "publishedAt": "2026-08-06T11:17:27+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket",
+        "url": "https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket",
+        "publishedAt": "2026-08-06T10:48:03+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "NASA and Roscosmos continue seat barter agreement",
         "url": "https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement",
         "publishedAt": "2026-08-06T02:23:47+00:00",
         "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "New Glenn explosion linked to rocket engine valve",
-        "url": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve",
-        "publishedAt": "2026-08-05T22:30:16+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "ExoMars stretches out its legs",
-        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/ExoMars_stretches_out_its_legs",
-        "publishedAt": "2026-08-06T09:00:00+00:00",
-        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -754,6 +754,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-23"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-27"
   ]
 }
