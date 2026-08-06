@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-06T14:40:09+00:00",
+  "generatedAt": "2026-08-06T15:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-06T14:40:09+00:00",
+      "updatedAt": "2026-08-06T15:00:27+00:00",
       "stories": [
         {
           "title": "Redwire to fly dedicated Starfall mission for microgravity research",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-06T14:40:09+00:00",
+      "updatedAt": "2026-08-06T15:00:27+00:00",
       "stories": [
         {
           "title": "SpaceX reports first earnings since going public – makes big bet on AI",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-06T14:40:09+00:00",
+      "updatedAt": "2026-08-06T15:00:27+00:00",
       "stories": [
         {
           "title": "North Vector Dynamics Bags European Cash, Eyes NATO Missile Market",
@@ -259,13 +259,19 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-06T14:40:09+00:00",
+      "updatedAt": "2026-08-06T15:00:27+00:00",
       "stories": [
         {
           "title": "Navy creates new robotic and autonomous systems DRPM",
           "url": "https://breakingdefense.com/2026/08/navy-creates-new-robotic-and-autonomous-systems-drpm",
           "publishedAt": "2026-08-06T14:35:21+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Rheinmetall scales down 2026 sales outlook on scrapped frigate program",
+          "url": "https://www.defensenews.com/global/europe/2026/08/06/rheinmetall-scales-down-2026-sales-outlook-on-scrapped-frigate-program",
+          "publishedAt": "2026-08-06T14:50:26+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Rheinmetall projects $346 million naval loss after F126 frigate cancellation",
@@ -328,12 +334,6 @@
           "source": "Defense News"
         },
         {
-          "title": "France’s drone production shifts from policy ambition to factory floor",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/08/05/frances-drone-production-shifts-from-policy-ambition-to-factory-floor",
-          "publishedAt": "2026-08-05T12:48:10+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Salesforce previews plans to deliver newly authorized ‘AI agents’ across DOD",
           "url": "https://defensescoop.com/2026/08/05/salesforce-plans-deliver-newly-authorized-ai-agents-across-dod",
           "publishedAt": "2026-08-05T09:00:00+00:00",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-06T14:40:09+00:00",
+      "updatedAt": "2026-08-06T15:00:27+00:00",
       "stories": [
         {
           "title": "Google reshuffles AI leadership as rivals pull ahead",
@@ -377,42 +377,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Google DeepMind Leadership Changes (4 minute read)",
-          "url": "https://www.implicator.ai/google-deepmind-hassabis-steps-aside-jeff-dean-exit",
-          "publishedAt": "2026-08-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Anthropic hiring an AI Chip Design Team (3 minute read)",
-          "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team",
-          "publishedAt": "2026-08-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Agent Access Model (27 minute read)",
-          "url": "https://blog.cloudflare.com/the-agent-access-model",
-          "publishedAt": "2026-08-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Three AI Pills (21 minute read)",
-          "url": "https://thezvi.wordpress.com/2026/08/05/the-three-ai-pills",
-          "publishedAt": "2026-08-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Introducing Flex: Let the Model Write the Code (16 minute read)",
-          "url": "https://www.cmpnd.ai/blog/let-the-model-write-the-code.html",
-          "publishedAt": "2026-08-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "ByteDance SeedRealtime (4 minute read)",
-          "url": "https://seed.bytedance.com/en/SeedRealtime",
-          "publishedAt": "2026-08-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
           "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce",
           "publishedAt": "2026-08-06T13:00:00+00:00",
@@ -422,6 +386,24 @@
           "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
           "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
           "publishedAt": "2026-08-06T13:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+          "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings",
+          "publishedAt": "2026-08-06T12:30:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Omilia raises $67M to scale its customer support platform",
+          "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform",
+          "publishedAt": "2026-08-06T12:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Meta launches Muse Code, an AI agent for large code bases",
+          "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases",
+          "publishedAt": "2026-08-05T21:21:28+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -447,13 +429,31 @@
           "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
           "publishedAt": "2026-08-04T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Finance execs find AI skills more valuable than an MBA",
+          "url": "https://www.pwc.com/us/en/industries/financial-services/library/ai-workforce-gap-financial-services.html",
+          "publishedAt": "2026-08-04T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI’s ‘Astra’ cracks long-open math problems",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "publishedAt": "2026-08-03T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "China’s Qwen now challenges the frontier",
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "publishedAt": "2026-08-03T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-06T14:40:09+00:00",
+      "updatedAt": "2026-08-06T15:00:27+00:00",
       "stories": [
         {
           "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-06T14:40:09+00:00",
+    "updatedAt": "2026-08-06T15:00:27+00:00",
     "stories": [
       {
         "title": "Google reshuffles AI leadership as rivals pull ahead",
@@ -753,5 +753,7 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": []
+  "warnings": [
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-13"
+  ]
 }
