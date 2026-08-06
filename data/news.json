@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-06T10:03:50+00:00",
+  "generatedAt": "2026-08-06T11:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-06T10:03:50+00:00",
+      "updatedAt": "2026-08-06T11:00:28+00:00",
       "stories": [
+        {
+          "title": "Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket",
+          "url": "https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket",
+          "publishedAt": "2026-08-06T10:48:03+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "NASA and Roscosmos continue seat barter agreement",
           "url": "https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement",
@@ -67,12 +73,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Think tank warns Europe’s orbital compute gap is widening",
-          "url": "https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening",
-          "publishedAt": "2026-08-05T08:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "'Warhammer 40,000' animated series coming to Prime Video, with Henry Cavill onboard as executive producer",
           "url": "https://www.space.com/entertainment/space-movies-shows/warhammer-40-000-animated-series-coming-to-prime-video-with-henry-cavill-onboard-as-executive-producer",
           "publishedAt": "2026-08-05T21:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-06T10:03:50+00:00",
+      "updatedAt": "2026-08-06T11:00:28+00:00",
       "stories": [
         {
           "title": "SpaceX reports first earnings since going public – makes big bet on AI",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-06T10:03:50+00:00",
+      "updatedAt": "2026-08-06T11:00:28+00:00",
       "stories": [
         {
           "title": "North Vector Dynamics Bags European Cash, Eyes NATO Missile Market",
@@ -259,8 +259,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-06T10:03:50+00:00",
+      "updatedAt": "2026-08-06T11:00:28+00:00",
       "stories": [
+        {
+          "title": "Japanese MoD report highlights push to bolster defense industry",
+          "url": "https://breakingdefense.com/2026/08/japanese-mod-report-highlights-push-to-bolster-defense-industry",
+          "publishedAt": "2026-08-06T10:46:37+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Trump-class battleship program will cost $275 billion, CBO report says",
           "url": "https://www.defensenews.com/news/your-military/2026/08/05/trump-class-battleship-program-will-cost-275-billion-cbo-report-says",
@@ -295,12 +301,6 @@
           "title": "Command overseeing Air Force operations in Middle East gets new boss amid Iran war",
           "url": "https://breakingdefense.com/2026/08/command-overseeing-air-force-operations-in-middle-east-gets-new-boss-amid-iran-war",
           "publishedAt": "2026-08-05T18:30:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Army launches search for counter-drone missile priced under $150K",
-          "url": "https://breakingdefense.com/2026/08/army-launches-search-for-counter-drone-missile-priced-under-150k",
-          "publishedAt": "2026-08-05T17:38:11+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-06T10:03:50+00:00",
+      "updatedAt": "2026-08-06T11:00:28+00:00",
       "stories": [
         {
           "title": "Google reshuffles AI leadership as rivals pull ahead",
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-06T10:03:50+00:00",
+      "updatedAt": "2026-08-06T11:00:28+00:00",
       "stories": [
         {
           "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-06T10:03:50+00:00",
+    "updatedAt": "2026-08-06T11:00:28+00:00",
     "stories": [
       {
         "title": "Google reshuffles AI leadership as rivals pull ahead",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NASA and Roscosmos continue seat barter agreement",
-        "url": "https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement",
-        "publishedAt": "2026-08-06T02:23:47+00:00",
+        "title": "Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket",
+        "url": "https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket",
+        "publishedAt": "2026-08-06T10:48:03+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -597,10 +597,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Trump-class battleship program will cost $275 billion, CBO report says",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/05/trump-class-battleship-program-will-cost-275-billion-cbo-report-says",
-        "publishedAt": "2026-08-05T23:17:27+00:00",
-        "source": "Defense News",
+        "title": "Japanese MoD report highlights push to bolster defense industry",
+        "url": "https://breakingdefense.com/2026/08/japanese-mod-report-highlights-push-to-bolster-defense-industry",
+        "publishedAt": "2026-08-06T10:46:37+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -615,6 +615,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "NASA and Roscosmos continue seat barter agreement",
+        "url": "https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement",
+        "publishedAt": "2026-08-06T02:23:47+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "New Glenn explosion linked to rocket engine valve",
         "url": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve",
         "publishedAt": "2026-08-05T22:30:16+00:00",
@@ -627,15 +636,6 @@
         "title": "ExoMars stretches out its legs",
         "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/ExoMars_stretches_out_its_legs",
         "publishedAt": "2026-08-06T09:00:00+00:00",
-        "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Webb opens a Treasure Chest filled with stars",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
-        "publishedAt": "2026-08-06T08:00:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -754,6 +754,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-24"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-23"
   ]
 }
