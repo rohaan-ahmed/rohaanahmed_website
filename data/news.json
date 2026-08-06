@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-06T13:00:31+00:00",
+  "generatedAt": "2026-08-06T14:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-06T13:00:31+00:00",
+      "updatedAt": "2026-08-06T14:00:30+00:00",
       "stories": [
         {
           "title": "Three companies building the tech to grow crops on the moon",
@@ -29,6 +29,12 @@
           "url": "https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement",
           "publishedAt": "2026-08-06T02:23:47+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "SpaceX’s Falcon 9 wasn't the first rocket to crash into the moon. Here's a rundown",
+          "url": "https://www.space.com/astronomy/moon/rocket-peppered-moon-a-brief-history-of-impacts-from-luna-2-to-spacexs-upper-stage",
+          "publishedAt": "2026-08-06T13:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "New Glenn explosion linked to rocket engine valve",
@@ -73,10 +79,10 @@
           "source": "NASA"
         },
         {
-          "title": "'Warhammer 40,000' animated series coming to Prime Video, with Henry Cavill onboard as executive producer",
-          "url": "https://www.space.com/entertainment/space-movies-shows/warhammer-40-000-animated-series-coming-to-prime-video-with-henry-cavill-onboard-as-executive-producer",
-          "publishedAt": "2026-08-05T21:00:00+00:00",
-          "source": "Space.com"
+          "title": "How the Tide Turns at the Mouth of the Elbe",
+          "url": "https://science.nasa.gov/earth/earth-observatory/how-the-tide-turns-at-the-mouth-of-the-elbe",
+          "publishedAt": "2026-08-06T04:01:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "NASA’s IXPE May Have Proven 90-Year-Old Theory",
@@ -89,19 +95,13 @@
           "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission",
           "publishedAt": "2026-08-05T14:04:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Artemis III Orion Crew and Service Models Joined",
-          "url": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined",
-          "publishedAt": "2026-08-05T17:27:18+00:00",
-          "source": "NASA"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-06T13:00:31+00:00",
+      "updatedAt": "2026-08-06T14:00:30+00:00",
       "stories": [
         {
           "title": "SpaceX reports first earnings since going public – makes big bet on AI",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-06T13:00:31+00:00",
+      "updatedAt": "2026-08-06T14:00:30+00:00",
       "stories": [
         {
           "title": "North Vector Dynamics Bags European Cash, Eyes NATO Missile Market",
@@ -259,8 +259,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-06T13:00:31+00:00",
+      "updatedAt": "2026-08-06T14:00:30+00:00",
       "stories": [
+        {
+          "title": "Rheinmetall projects $346 million naval loss after F126 frigate cancellation",
+          "url": "https://breakingdefense.com/2026/08/rheinmetall-projects-346-million-naval-loss-after-f126-frigate-cancellation",
+          "publishedAt": "2026-08-06T13:51:16+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "How Ukraine tries to intercept Russian drones more effectively — and affordably",
           "url": "https://breakingdefense.com/2026/08/how-ukraine-tries-to-intercept-russian-drones-more-effectively-and-affordably",
@@ -295,12 +301,6 @@
           "title": "NRO issues 3 SAR satellite data providers ‘rigorous’ new contracts",
           "url": "https://breakingdefense.com/2026/08/nro-issues-3-sar-satellite-data-providers-rigorous-new-contracts",
           "publishedAt": "2026-08-05T20:28:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Space Force awards 3 firms $615M to track airborne targets",
-          "url": "https://breakingdefense.com/2026/08/space-force-awards-3-firms-615m-to-track-airborne-targets",
-          "publishedAt": "2026-08-05T19:56:39+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-06T13:00:31+00:00",
+      "updatedAt": "2026-08-06T14:00:30+00:00",
       "stories": [
         {
           "title": "Google reshuffles AI leadership as rivals pull ahead",
@@ -371,6 +371,48 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Amid legal battles, Suno says it will start watermarking songs",
+          "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs",
+          "publishedAt": "2026-08-06T13:31:57+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Google DeepMind Leadership Changes (4 minute read)",
+          "url": "https://www.implicator.ai/google-deepmind-hassabis-steps-aside-jeff-dean-exit",
+          "publishedAt": "2026-08-06T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Anthropic hiring an AI Chip Design Team (3 minute read)",
+          "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team",
+          "publishedAt": "2026-08-06T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Agent Access Model (27 minute read)",
+          "url": "https://blog.cloudflare.com/the-agent-access-model",
+          "publishedAt": "2026-08-06T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Three AI Pills (21 minute read)",
+          "url": "https://thezvi.wordpress.com/2026/08/05/the-three-ai-pills",
+          "publishedAt": "2026-08-06T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Flex: Let the Model Write the Code (16 minute read)",
+          "url": "https://www.cmpnd.ai/blog/let-the-model-write-the-code.html",
+          "publishedAt": "2026-08-06T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "ByteDance SeedRealtime (4 minute read)",
+          "url": "https://seed.bytedance.com/en/SeedRealtime",
+          "publishedAt": "2026-08-06T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
           "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce",
           "publishedAt": "2026-08-06T13:00:00+00:00",
@@ -380,12 +422,6 @@
           "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
           "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
           "publishedAt": "2026-08-06T13:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-          "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings",
-          "publishedAt": "2026-08-06T12:30:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -407,42 +443,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Cloudflare Introduced Programmable Wallets for AI Agents (4 minute read)",
-          "url": "https://blog.cloudflare.com/wallets",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Anthropic Reportedly Signed a $10B Cloud Deal with Volta (3 minute read)",
-          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "A unified API for AI model routing (3 minute read)",
-          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "What Codex Actually Sends to the Model (10 minute read)",
-          "url": "https://www.0xkato.xyz/what-codex-actually-sends-to-the-model",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Unpacking ChatGPT Work: the Agent for a Billion Users (18 minute read)",
-          "url": "https://www.latent.space/p/unpacking-chatgpt-work",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "NVIDIA Released Alpamayo 2 (4 minute read)",
-          "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "AI labs head to the White House to discuss safety",
           "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
           "publishedAt": "2026-08-04T09:00:00+00:00",
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-06T13:00:31+00:00",
+      "updatedAt": "2026-08-06T14:00:30+00:00",
       "stories": [
         {
           "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-06T13:00:31+00:00",
+    "updatedAt": "2026-08-06T14:00:30+00:00",
     "stories": [
       {
         "title": "Google reshuffles AI leadership as rivals pull ahead",
@@ -597,9 +597,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "How Ukraine tries to intercept Russian drones more effectively — and affordably",
-        "url": "https://breakingdefense.com/2026/08/how-ukraine-tries-to-intercept-russian-drones-more-effectively-and-affordably",
-        "publishedAt": "2026-08-06T12:37:45+00:00",
+        "title": "Rheinmetall projects $346 million naval loss after F126 frigate cancellation",
+        "url": "https://breakingdefense.com/2026/08/rheinmetall-projects-346-million-naval-loss-after-f126-frigate-cancellation",
+        "publishedAt": "2026-08-06T13:51:16+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
