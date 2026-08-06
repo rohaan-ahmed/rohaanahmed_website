@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-06T07:00:38+00:00",
+  "generatedAt": "2026-08-06T07:21:42+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-06T07:00:38+00:00",
+      "updatedAt": "2026-08-06T07:21:42+00:00",
       "stories": [
         {
           "title": "NASA and Roscosmos continue seat barter agreement",
@@ -17,6 +17,12 @@
           "url": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve",
           "publishedAt": "2026-08-05T22:30:16+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Plan your perfect 2026 total solar eclipse experience with these smartphone apps",
+          "url": "https://www.space.com/stargazing/solar-eclipses/plan-your-perfect-2026-total-solar-eclipse-experience-with-these-smartphone-apps",
+          "publishedAt": "2026-08-06T07:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
@@ -61,12 +67,6 @@
           "source": "Space.com"
         },
         {
-          "title": "The 'Dark Matter' season 2 trailer is here, and it looks like Apple TV has another sci-fi hit on its hands",
-          "url": "https://www.space.com/entertainment/space-movies-shows/the-dark-matter-season-2-trailer-is-here-and-it-looks-like-apple-tv-has-another-sci-fi-hit-on-its-hands",
-          "publishedAt": "2026-08-05T19:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "NASA’s IXPE May Have Proven 90-Year-Old Theory",
           "url": "https://science.nasa.gov/missions/ixpe/nasas-ixpe-may-have-proven-90-year-old-theory",
           "publishedAt": "2026-08-05T18:49:14+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-06T07:00:38+00:00",
+      "updatedAt": "2026-08-06T07:21:42+00:00",
       "stories": [
         {
           "title": "SpaceX reports first earnings since going public – makes big bet on AI",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-06T07:00:38+00:00",
+      "updatedAt": "2026-08-06T07:21:42+00:00",
       "stories": [
         {
           "title": "North Vector Dynamics Bags European Cash, Eyes NATO Missile Market",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-06T07:00:38+00:00",
+      "updatedAt": "2026-08-06T07:21:42+00:00",
       "stories": [
         {
           "title": "Trump-class battleship program will cost $275 billion, CBO report says",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-06T07:00:38+00:00",
+      "updatedAt": "2026-08-06T07:21:42+00:00",
       "stories": [
         {
           "title": "Meta launches Muse Code, an AI agent for large code bases",
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-06T07:00:38+00:00",
+      "updatedAt": "2026-08-06T07:21:42+00:00",
       "stories": [
         {
           "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-06T07:00:38+00:00",
+    "updatedAt": "2026-08-06T07:21:42+00:00",
     "stories": [
       {
         "title": "Meta launches Muse Code, an AI agent for large code bases",
@@ -624,19 +624,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
-        "url": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts",
-        "publishedAt": "2026-08-05T17:05:00+00:00",
-        "source": "SpaceNews",
+        "title": "Plan your perfect 2026 total solar eclipse experience with these smartphone apps",
+        "url": "https://www.space.com/stargazing/solar-eclipses/plan-your-perfect-2026-total-solar-eclipse-experience-with-these-smartphone-apps",
+        "publishedAt": "2026-08-06T07:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Where will the total solar eclipse 2026 be visible from?",
-        "url": "https://www.space.com/stargazing/solar-eclipses/where-will-the-total-solar-eclipse-2026-be-visible-from",
-        "publishedAt": "2026-08-06T06:00:00+00:00",
-        "source": "Space.com",
+        "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
+        "url": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts",
+        "publishedAt": "2026-08-05T17:05:00+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -754,6 +754,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-22"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-15"
   ]
 }
