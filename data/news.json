@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-06T09:00:29+00:00",
+  "generatedAt": "2026-08-06T10:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-06T09:00:29+00:00",
+      "updatedAt": "2026-08-06T10:00:25+00:00",
       "stories": [
         {
           "title": "NASA and Roscosmos continue seat barter agreement",
@@ -17,6 +17,12 @@
           "url": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve",
           "publishedAt": "2026-08-05T22:30:16+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "ExoMars stretches out its legs",
+          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/ExoMars_stretches_out_its_legs",
+          "publishedAt": "2026-08-06T09:00:00+00:00",
+          "source": "European Space Agency"
         },
         {
           "title": "Webb opens a Treasure Chest filled with stars",
@@ -89,19 +95,13 @@
           "url": "https://www.nasa.gov/image-article/artemis-iii-orion-crew-and-service-models-joined",
           "publishedAt": "2026-08-05T17:27:18+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Europe’s forests losing more biomass since 2018",
-          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018",
-          "publishedAt": "2026-08-05T09:30:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-06T09:00:29+00:00",
+      "updatedAt": "2026-08-06T10:00:25+00:00",
       "stories": [
         {
           "title": "SpaceX reports first earnings since going public – makes big bet on AI",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-06T09:00:29+00:00",
+      "updatedAt": "2026-08-06T10:00:25+00:00",
       "stories": [
         {
           "title": "North Vector Dynamics Bags European Cash, Eyes NATO Missile Market",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-06T09:00:29+00:00",
+      "updatedAt": "2026-08-06T10:00:25+00:00",
       "stories": [
         {
           "title": "Trump-class battleship program will cost $275 billion, CBO report says",
@@ -356,8 +356,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-06T09:00:29+00:00",
+      "updatedAt": "2026-08-06T10:00:25+00:00",
       "stories": [
+        {
+          "title": "Google reshuffles AI leadership as rivals pull ahead",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum",
+          "publishedAt": "2026-08-06T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Meta joins coding-agent race with Muse Code",
+          "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+          "publishedAt": "2026-08-06T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Meta launches Muse Code, an AI agent for large code bases",
           "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases",
@@ -395,40 +407,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Cloudflare Introduced Programmable Wallets for AI Agents (4 minute read)",
-          "url": "https://blog.cloudflare.com/wallets",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+          "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google",
+          "publishedAt": "2026-08-05T15:56:14+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Anthropic Reportedly Signed a $10B Cloud Deal with Volta (3 minute read)",
-          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Hark previews its browser use agent for completing tasks",
+          "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks",
+          "publishedAt": "2026-08-05T15:46:27+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "A unified API for AI model routing (3 minute read)",
-          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "What Codex Actually Sends to the Model (10 minute read)",
-          "url": "https://www.0xkato.xyz/what-codex-actually-sends-to-the-model",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Unpacking ChatGPT Work: the Agent for a Billion Users (18 minute read)",
-          "url": "https://www.latent.space/p/unpacking-chatgpt-work",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "NVIDIA Released Alpamayo 2 (4 minute read)",
-          "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
-          "publishedAt": "2026-08-05T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+          "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals",
+          "publishedAt": "2026-08-05T15:05:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "AI labs head to the White House to discuss safety",
@@ -447,13 +441,19 @@
           "url": "https://openai.com/index/ten-advances-in-mathematics",
           "publishedAt": "2026-08-03T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "China’s Qwen now challenges the frontier",
+          "url": "https://qwen.ai/blog?id=qwen3.8",
+          "publishedAt": "2026-08-03T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-06T09:00:29+00:00",
+      "updatedAt": "2026-08-06T10:00:25+00:00",
       "stories": [
         {
           "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
@@ -549,21 +549,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-06T09:00:29+00:00",
+    "updatedAt": "2026-08-06T10:00:25+00:00",
     "stories": [
       {
-        "title": "Meta launches Muse Code, an AI agent for large code bases",
-        "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases",
-        "publishedAt": "2026-08-05T21:21:28+00:00",
-        "source": "TechCrunch AI",
+        "title": "Google reshuffles AI leadership as rivals pull ahead",
+        "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum",
+        "publishedAt": "2026-08-06T09:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Anthropic and OpenAI agents went rogue again",
-        "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
-        "publishedAt": "2026-08-05T09:00:00+00:00",
+        "title": "Meta joins coding-agent race with Muse Code",
+        "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+        "publishedAt": "2026-08-06T09:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -624,19 +624,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Webb opens a Treasure Chest filled with stars",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
-        "publishedAt": "2026-08-06T08:00:00+00:00",
+        "title": "ExoMars stretches out its legs",
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/ExoMars_stretches_out_its_legs",
+        "publishedAt": "2026-08-06T09:00:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Plan your perfect 2026 total solar eclipse experience with these smartphone apps",
-        "url": "https://www.space.com/stargazing/solar-eclipses/plan-your-perfect-2026-total-solar-eclipse-experience-with-these-smartphone-apps",
-        "publishedAt": "2026-08-06T07:00:00+00:00",
-        "source": "Space.com",
+        "title": "Webb opens a Treasure Chest filled with stars",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars",
+        "publishedAt": "2026-08-06T08:00:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -753,5 +753,7 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": []
+  "warnings": [
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-17"
+  ]
 }
