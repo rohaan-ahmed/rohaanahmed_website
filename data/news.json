@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-06T06:00:26+00:00",
+  "generatedAt": "2026-08-06T07:00:38+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-06T06:00:26+00:00",
+      "updatedAt": "2026-08-06T07:00:38+00:00",
       "stories": [
         {
           "title": "NASA and Roscosmos continue seat barter agreement",
@@ -23,6 +23,12 @@
           "url": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts",
           "publishedAt": "2026-08-05T17:05:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Where will the total solar eclipse 2026 be visible from?",
+          "url": "https://www.space.com/stargazing/solar-eclipses/where-will-the-total-solar-eclipse-2026-be-visible-from",
+          "publishedAt": "2026-08-06T06:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Finding room in Starlink’s shadow",
@@ -67,12 +73,6 @@
           "source": "NASA"
         },
         {
-          "title": "A SpaceX rocket just crashed into the moon. Now, the race is on to get a look at the impact site",
-          "url": "https://www.space.com/astronomy/moon/a-spacex-rocket-just-crashed-into-the-moon-now-the-race-is-on-to-get-a-look-at-the-impact-site",
-          "publishedAt": "2026-08-05T17:43:30+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Your chance to run software in deep space on ESA's asteroid mission",
           "url": "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Your_chance_to_run_software_in_deep_space_on_ESA_s_asteroid_mission",
           "publishedAt": "2026-08-05T14:04:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-06T06:00:26+00:00",
+      "updatedAt": "2026-08-06T07:00:38+00:00",
       "stories": [
         {
           "title": "SpaceX reports first earnings since going public – makes big bet on AI",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-06T06:00:26+00:00",
+      "updatedAt": "2026-08-06T07:00:38+00:00",
       "stories": [
         {
           "title": "North Vector Dynamics Bags European Cash, Eyes NATO Missile Market",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-06T06:00:26+00:00",
+      "updatedAt": "2026-08-06T07:00:38+00:00",
       "stories": [
         {
           "title": "Trump-class battleship program will cost $275 billion, CBO report says",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-06T06:00:26+00:00",
+      "updatedAt": "2026-08-06T07:00:38+00:00",
       "stories": [
         {
           "title": "Meta launches Muse Code, an AI agent for large code bases",
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-06T06:00:26+00:00",
+      "updatedAt": "2026-08-06T07:00:38+00:00",
       "stories": [
         {
           "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-06T06:00:26+00:00",
+    "updatedAt": "2026-08-06T07:00:38+00:00",
     "stories": [
       {
         "title": "Meta launches Muse Code, an AI agent for large code bases",
@@ -633,12 +633,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "The Canadian Space Agency opens $2.4 million CUBICS 2026 opportunity for university CubeSat projects",
-        "url": "https://spaceq.ca/the-canadian-space-agency-opens-2-4-million-cubics-2026-opportunity-for-university-cubesat-projects",
-        "publishedAt": "2026-08-05T16:00:58+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
+        "title": "Where will the total solar eclipse 2026 be visible from?",
+        "url": "https://www.space.com/stargazing/solar-eclipses/where-will-the-total-solar-eclipse-2026-be-visible-from",
+        "publishedAt": "2026-08-06T06:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
