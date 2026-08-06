@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-06T12:11:29+00:00",
+  "generatedAt": "2026-08-06T13:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-06T12:11:29+00:00",
+      "updatedAt": "2026-08-06T13:00:31+00:00",
       "stories": [
         {
           "title": "Three companies building the tech to grow crops on the moon",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-06T12:11:29+00:00",
+      "updatedAt": "2026-08-06T13:00:31+00:00",
       "stories": [
         {
           "title": "SpaceX reports first earnings since going public – makes big bet on AI",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-06T12:11:29+00:00",
+      "updatedAt": "2026-08-06T13:00:31+00:00",
       "stories": [
         {
           "title": "North Vector Dynamics Bags European Cash, Eyes NATO Missile Market",
@@ -259,8 +259,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-06T12:11:29+00:00",
+      "updatedAt": "2026-08-06T13:00:31+00:00",
       "stories": [
+        {
+          "title": "How Ukraine tries to intercept Russian drones more effectively — and affordably",
+          "url": "https://breakingdefense.com/2026/08/how-ukraine-tries-to-intercept-russian-drones-more-effectively-and-affordably",
+          "publishedAt": "2026-08-06T12:37:45+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Japanese MoD report highlights push to bolster defense industry",
           "url": "https://breakingdefense.com/2026/08/japanese-mod-report-highlights-push-to-bolster-defense-industry",
@@ -295,12 +301,6 @@
           "title": "Space Force awards 3 firms $615M to track airborne targets",
           "url": "https://breakingdefense.com/2026/08/space-force-awards-3-firms-615m-to-track-airborne-targets",
           "publishedAt": "2026-08-05T19:56:39+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Command overseeing Air Force operations in Middle East gets new boss amid Iran war",
-          "url": "https://breakingdefense.com/2026/08/command-overseeing-air-force-operations-in-middle-east-gets-new-boss-amid-iran-war",
-          "publishedAt": "2026-08-05T18:30:00+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-06T12:11:29+00:00",
+      "updatedAt": "2026-08-06T13:00:31+00:00",
       "stories": [
         {
           "title": "Google reshuffles AI leadership as rivals pull ahead",
@@ -371,9 +371,21 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Meta launches Muse Code, an AI agent for large code bases",
-          "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases",
-          "publishedAt": "2026-08-05T21:21:28+00:00",
+          "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+          "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce",
+          "publishedAt": "2026-08-06T13:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+          "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai",
+          "publishedAt": "2026-08-06T13:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+          "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings",
+          "publishedAt": "2026-08-06T12:30:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -395,57 +407,45 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-          "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders",
-          "publishedAt": "2026-08-05T20:05:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Cloudflare Introduced Programmable Wallets for AI Agents (4 minute read)",
+          "url": "https://blog.cloudflare.com/wallets",
+          "publishedAt": "2026-08-05T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-          "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup",
-          "publishedAt": "2026-08-05T19:30:19+00:00",
-          "source": "TechCrunch AI"
+          "title": "Anthropic Reportedly Signed a $10B Cloud Deal with Volta (3 minute read)",
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
+          "publishedAt": "2026-08-05T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-          "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google",
-          "publishedAt": "2026-08-05T15:56:14+00:00",
-          "source": "TechCrunch AI"
+          "title": "A unified API for AI model routing (3 minute read)",
+          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+          "publishedAt": "2026-08-05T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Hark previews its browser use agent for completing tasks",
-          "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks",
-          "publishedAt": "2026-08-05T15:46:27+00:00",
-          "source": "TechCrunch AI"
+          "title": "What Codex Actually Sends to the Model (10 minute read)",
+          "url": "https://www.0xkato.xyz/what-codex-actually-sends-to-the-model",
+          "publishedAt": "2026-08-05T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-          "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals",
-          "publishedAt": "2026-08-05T15:05:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Unpacking ChatGPT Work: the Agent for a Billion Users (18 minute read)",
+          "url": "https://www.latent.space/p/unpacking-chatgpt-work",
+          "publishedAt": "2026-08-05T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "NVIDIA Released Alpamayo 2 (4 minute read)",
+          "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
+          "publishedAt": "2026-08-05T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "AI labs head to the White House to discuss safety",
           "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
           "publishedAt": "2026-08-04T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Finance execs find AI skills more valuable than an MBA",
-          "url": "https://www.pwc.com/us/en/industries/financial-services/library/ai-workforce-gap-financial-services.html",
-          "publishedAt": "2026-08-04T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s ‘Astra’ cracks long-open math problems",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "publishedAt": "2026-08-03T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "China’s Qwen now challenges the frontier",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "publishedAt": "2026-08-03T09:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-06T12:11:29+00:00",
+      "updatedAt": "2026-08-06T13:00:31+00:00",
       "stories": [
         {
           "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
@@ -516,6 +516,12 @@
           "source": "The Robot Report"
         },
         {
+          "title": "HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators",
+          "url": "https://www.therobotreport.com/hebi-robotics-earns-nasa-sbir-grant-fast-track-miniaturized-actuators",
+          "publishedAt": "2026-08-03T17:17:46+00:00",
+          "source": "The Robot Report"
+        },
+        {
           "title": "Walden Robotics Partners With Toyota on Practical Humanoids",
           "url": "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
           "publishedAt": "2026-08-03T16:05:39+00:00",
@@ -538,18 +544,12 @@
           "url": "https://spectrum.ieee.org/robot-finger",
           "publishedAt": "2026-07-28T15:00:03+00:00",
           "source": "IEEE Spectrum Robotics"
-        },
-        {
-          "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-          "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume",
-          "publishedAt": "2026-07-27T13:00:00+00:00",
-          "source": "TechCrunch Robotics"
         }
       ]
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-06T12:11:29+00:00",
+    "updatedAt": "2026-08-06T13:00:31+00:00",
     "stories": [
       {
         "title": "Google reshuffles AI leadership as rivals pull ahead",
@@ -597,9 +597,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Japanese MoD report highlights push to bolster defense industry",
-        "url": "https://breakingdefense.com/2026/08/japanese-mod-report-highlights-push-to-bolster-defense-industry",
-        "publishedAt": "2026-08-06T10:46:37+00:00",
+        "title": "How Ukraine tries to intercept Russian drones more effectively — and affordably",
+        "url": "https://breakingdefense.com/2026/08/how-ukraine-tries-to-intercept-russian-drones-more-effectively-and-affordably",
+        "publishedAt": "2026-08-06T12:37:45+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -753,7 +753,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-27"
-  ]
+  "warnings": []
 }
