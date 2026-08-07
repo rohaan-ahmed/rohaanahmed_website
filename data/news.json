@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T21:04:10+00:00",
+  "generatedAt": "2026-08-07T21:51:24+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-07T21:04:10+00:00",
+      "updatedAt": "2026-08-07T21:51:24+00:00",
       "stories": [
         {
           "title": "Senate installs new chiefs for U.S. military space acquisition, spy satellites",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-07T21:04:10+00:00",
+      "updatedAt": "2026-08-07T21:51:24+00:00",
       "stories": [
         {
           "title": "Canadian Space Agency confirms continuation of Canadarm3 space robotics program",
@@ -180,8 +180,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-07T21:04:10+00:00",
+      "updatedAt": "2026-08-07T21:51:24+00:00",
       "stories": [
+        {
+          "title": "The Ant In The Room: How a Muskoka Startup Is Positioned to Protect Canada’s Defence Supply Chain",
+          "url": "https://vanguardcanada.com/the-ant-in-the-room-how-a-muskoka-startup-is-positioned-to-protect-canadas-defence-supply-chain",
+          "publishedAt": "2026-08-07T21:45:23+00:00",
+          "source": "Vanguard"
+        },
         {
           "title": "Ottawa sells off ten retired Hercules to fight wildfires",
           "url": "https://vanguardcanada.com/ottawa-sells-off-ten-retired-hercules-to-fight-wildfires",
@@ -259,7 +265,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-07T21:04:10+00:00",
+      "updatedAt": "2026-08-07T21:51:24+00:00",
       "stories": [
         {
           "title": "The state of DoD Zero Trust: Progress toward target level",
@@ -290,6 +296,12 @@
           "url": "https://www.defensenews.com/global/europe/2026/08/07/how-north-korean-forces-are-bolstering-russias-war-against-ukraine",
           "publishedAt": "2026-08-07T18:29:25+00:00",
           "source": "Defense News"
+        },
+        {
+          "title": "War Data Platform integration plans under scrutiny as DOD hustles to weaponize AI",
+          "url": "https://defensescoop.com/2026/08/07/pentagon-war-data-platform-integration-plans-under-scrutiny",
+          "publishedAt": "2026-08-07T21:10:09+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "EU lays out $18B satellite constellation plan, with Spanish firm winning key role",
@@ -344,20 +356,20 @@
           "url": "https://www.defensenews.com/global/europe/2026/08/06/rheinmetall-scales-down-2026-sales-outlook-on-scrapped-frigate-program",
           "publishedAt": "2026-08-06T14:50:26+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "Marine Corps will hold AI ‘hackathon’ to prototype tools for training, education",
-          "url": "https://defensescoop.com/2026/08/06/marine-corps-ai-hackathon-training-education",
-          "publishedAt": "2026-08-06T17:13:06+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-07T21:04:10+00:00",
+      "updatedAt": "2026-08-07T21:51:24+00:00",
       "stories": [
+        {
+          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
+          "publishedAt": "2026-08-07T21:30:11+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "AI designs working viruses from scratch",
           "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
@@ -383,22 +395,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-          "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers",
-          "publishedAt": "2026-08-07T14:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "GPT-5.6 Luna Became ChatGPT's Default Free Model (5 minute read)",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-          "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case",
-          "publishedAt": "2026-08-07T11:40:37+00:00",
-          "source": "TechCrunch AI"
+          "title": "AMD to Acquire AI Chip Startup Taalas (4 minute read)",
+          "url": "https://betakit.com/us-chip-giant-amd-to-acquire-taalas",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
-          "publishedAt": "2026-08-06T22:43:53+00:00",
-          "source": "TechCrunch AI"
+          "title": "Tradeoffs in Open-Weights Models (9 minute read)",
+          "url": "https://www.astralcodexten.com/p/open-questions-on-open-weights",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "LoopX (GitHub Repo)",
+          "url": "https://github.com/huangruiteng/loopx",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How Modalities Learn Together (49 minute read)",
+          "url": "https://arxiv.org/abs/2608.05000",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones (9 minute read)",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Google reshuffles AI leadership as rivals pull ahead",
@@ -413,12 +443,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "ChatGPT brings unlimited text chats to free users",
-          "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users",
-          "publishedAt": "2026-08-06T17:34:42+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Anthropic and OpenAI agents went rogue again",
           "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
           "publishedAt": "2026-08-05T09:00:00+00:00",
@@ -429,31 +453,13 @@
           "url": "https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04",
           "publishedAt": "2026-08-05T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Business students go all in on AI amid demand surge",
-          "url": "https://kogod.american.edu/news/ai-at-kogod-a-three-year-student-research-report",
-          "publishedAt": "2026-08-05T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI labs head to the White House to discuss safety",
-          "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
-          "publishedAt": "2026-08-04T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Finance execs find AI skills more valuable than an MBA",
-          "url": "https://www.pwc.com/us/en/industries/financial-services/library/ai-workforce-gap-financial-services.html",
-          "publishedAt": "2026-08-04T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-07T21:04:10+00:00",
+      "updatedAt": "2026-08-07T21:51:24+00:00",
       "stories": [
         {
           "title": "Avatar Robotics raises seed round to address industrial labor constraints",
@@ -549,20 +555,20 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-07T21:04:10+00:00",
+    "updatedAt": "2026-08-07T21:51:24+00:00",
     "stories": [
       {
-        "title": "AI designs working viruses from scratch",
-        "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
-        "publishedAt": "2026-08-07T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
+        "publishedAt": "2026-08-07T21:30:11+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Anthropic solves Fable 5’s biggest problem",
-        "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+        "title": "AI designs working viruses from scratch",
+        "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
         "publishedAt": "2026-08-07T09:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
@@ -588,9 +594,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Ottawa sells off ten retired Hercules to fight wildfires",
-        "url": "https://vanguardcanada.com/ottawa-sells-off-ten-retired-hercules-to-fight-wildfires",
-        "publishedAt": "2026-08-07T18:05:57+00:00",
+        "title": "The Ant In The Room: How a Muskoka Startup Is Positioned to Protect Canada’s Defence Supply Chain",
+        "url": "https://vanguardcanada.com/the-ant-in-the-room-how-a-muskoka-startup-is-positioned-to-protect-canadas-defence-supply-chain",
+        "publishedAt": "2026-08-07T21:45:23+00:00",
         "source": "Vanguard",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
@@ -753,7 +759,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-29"
-  ]
+  "warnings": []
 }
