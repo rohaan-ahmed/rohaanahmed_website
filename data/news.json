@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T14:41:49+00:00",
+  "generatedAt": "2026-08-07T15:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-07T14:41:49+00:00",
+      "updatedAt": "2026-08-07T15:00:32+00:00",
       "stories": [
         {
           "title": "U.S. Senate confirms Schiess to lead Space Force",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-07T14:41:49+00:00",
+      "updatedAt": "2026-08-07T15:00:32+00:00",
       "stories": [
         {
           "title": "SpaceX’s rideshare freeze: What it means for the SmallSat market and Canada",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-07T14:41:49+00:00",
+      "updatedAt": "2026-08-07T15:00:32+00:00",
       "stories": [
         {
           "title": "Ottawa puts $20.3 million behind quantum defence hub in Calgary",
@@ -265,7 +265,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-07T14:41:49+00:00",
+      "updatedAt": "2026-08-07T15:00:32+00:00",
       "stories": [
         {
           "title": "Rheinmetall says ramping up ATACMS output will take time as US rebuilds stocks",
@@ -362,7 +362,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-07T14:41:49+00:00",
+      "updatedAt": "2026-08-07T15:00:32+00:00",
       "stories": [
         {
           "title": "AI designs working viruses from scratch",
@@ -381,6 +381,42 @@
           "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
           "publishedAt": "2026-08-07T14:22:49+00:00",
           "source": "TechCrunch AI"
+        },
+        {
+          "title": "GPT-5.6 Luna Became ChatGPT's Default Free Model (5 minute read)",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "AMD to Acquire AI Chip Startup Taalas (4 minute read)",
+          "url": "https://betakit.com/us-chip-giant-amd-to-acquire-taalas",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Tradeoffs in Open-Weights Models (9 minute read)",
+          "url": "https://www.astralcodexten.com/p/open-questions-on-open-weights",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "LoopX (GitHub Repo)",
+          "url": "https://github.com/huangruiteng/loopx",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How Modalities Learn Together (49 minute read)",
+          "url": "https://arxiv.org/abs/2608.05000",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones (9 minute read)",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
@@ -407,24 +443,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "ChatGPT brings unlimited text chats to free users",
-          "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users",
-          "publishedAt": "2026-08-06T17:34:42+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-          "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company",
-          "publishedAt": "2026-08-06T17:00:37+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-          "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking",
-          "publishedAt": "2026-08-06T15:53:03+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Anthropic and OpenAI agents went rogue again",
           "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
           "publishedAt": "2026-08-05T09:00:00+00:00",
@@ -435,31 +453,13 @@
           "url": "https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04",
           "publishedAt": "2026-08-05T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Business students go all in on AI amid demand surge",
-          "url": "https://kogod.american.edu/news/ai-at-kogod-a-three-year-student-research-report",
-          "publishedAt": "2026-08-05T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI labs head to the White House to discuss safety",
-          "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
-          "publishedAt": "2026-08-04T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Finance execs find AI skills more valuable than an MBA",
-          "url": "https://www.pwc.com/us/en/industries/financial-services/library/ai-workforce-gap-financial-services.html",
-          "publishedAt": "2026-08-04T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-07T14:41:49+00:00",
+      "updatedAt": "2026-08-07T15:00:32+00:00",
       "stories": [
         {
           "title": "HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics",
@@ -522,6 +522,12 @@
           "source": "The Robot Report"
         },
         {
+          "title": "Humanoids won’t scale on factory floors until costs drop",
+          "url": "https://www.therobotreport.com/humanoids-wont-scale-on-factory-floors-until-costs-drop",
+          "publishedAt": "2026-08-04T15:15:10+00:00",
+          "source": "The Robot Report"
+        },
+        {
           "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
           "url": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
           "publishedAt": "2026-08-04T11:00:01+00:00",
@@ -544,18 +550,12 @@
           "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security",
           "publishedAt": "2026-07-29T17:41:09+00:00",
           "source": "TechCrunch Robotics"
-        },
-        {
-          "title": "Robot Finger Feels in Color",
-          "url": "https://spectrum.ieee.org/robot-finger",
-          "publishedAt": "2026-07-28T15:00:03+00:00",
-          "source": "IEEE Spectrum Robotics"
         }
       ]
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-07T14:41:49+00:00",
+    "updatedAt": "2026-08-07T15:00:32+00:00",
     "stories": [
       {
         "title": "AI designs working viruses from scratch",
@@ -759,7 +759,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-24"
-  ]
+  "warnings": []
 }
