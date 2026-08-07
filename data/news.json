@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T13:00:32+00:00",
+  "generatedAt": "2026-08-07T13:45:58+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-07T13:00:32+00:00",
+      "updatedAt": "2026-08-07T13:45:58+00:00",
       "stories": [
         {
           "title": "U.S. Senate confirms Schiess to lead Space Force",
@@ -23,6 +23,12 @@
           "url": "https://spacenews.com/bipartisan-senate-bill-would-sharpen-space-force-training-for-conflict-with-china",
           "publishedAt": "2026-08-07T09:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Week in images: 03-07 August 2026",
+          "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_August_2026",
+          "publishedAt": "2026-08-07T13:10:00+00:00",
+          "source": "European Space Agency"
         },
         {
           "title": "Danube’s waters fall to record lows",
@@ -73,35 +79,29 @@
           "source": "SpaceNews"
         },
         {
+          "title": "APOD: 2026 August 7 – Rubin’s Cosmos Field",
+          "url": "https://science.nasa.gov/image-article/apod-2026-august-6-rubins-cosmos-field",
+          "publishedAt": "2026-08-07T04:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Sensing the Poles’ Hidden Heat",
+          "url": "https://science.nasa.gov/earth/earth-observatory/sensing-the-poles-hidden-heat",
+          "publishedAt": "2026-08-07T04:00:00+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "'One more step': NASA astronauts conduct 6.5-hour spacewalk to prep ISS for solar array upgrade",
           "url": "https://www.space.com/space-exploration/international-space-station/1-more-step-nasa-astronauts-conduct-6-5-hour-spacewalk-to-prep-iss-for-solar-array-upgrade",
           "publishedAt": "2026-08-06T20:05:01+00:00",
           "source": "Space.com"
-        },
-        {
-          "title": "Educators & Teens Get Hands-On With TEMPO Data to Help Investigate Local Air Quality",
-          "url": "https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality",
-          "publishedAt": "2026-08-06T19:33:32+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA’s SkyFall Helicopters at Work (Artist’s Concept)",
-          "url": "https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept",
-          "publishedAt": "2026-08-06T18:06:07+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "ExoMars stretches out its legs",
-          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/ExoMars_stretches_out_its_legs",
-          "publishedAt": "2026-08-06T09:00:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-07T13:00:32+00:00",
+      "updatedAt": "2026-08-07T13:45:58+00:00",
       "stories": [
         {
           "title": "SpaceX’s rideshare freeze: What it means for the SmallSat market and Canada",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-07T13:00:32+00:00",
+      "updatedAt": "2026-08-07T13:45:58+00:00",
       "stories": [
         {
           "title": "Ottawa puts $20.3 million behind quantum defence hub in Calgary",
@@ -265,7 +265,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-07T13:00:32+00:00",
+      "updatedAt": "2026-08-07T13:45:58+00:00",
       "stories": [
         {
           "title": "Saudi Arabia, Turkey, Pakistan ink ‘joint defense’ agreement",
@@ -362,7 +362,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-07T13:00:32+00:00",
+      "updatedAt": "2026-08-07T13:45:58+00:00",
       "stories": [
         {
           "title": "AI designs working viruses from scratch",
@@ -375,6 +375,42 @@
           "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
           "publishedAt": "2026-08-07T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "GPT-5.6 Luna Became ChatGPT's Default Free Model (5 minute read)",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "AMD to Acquire AI Chip Startup Taalas (4 minute read)",
+          "url": "https://betakit.com/us-chip-giant-amd-to-acquire-taalas",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Tradeoffs in Open-Weights Models (9 minute read)",
+          "url": "https://www.astralcodexten.com/p/open-questions-on-open-weights",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "LoopX (GitHub Repo)",
+          "url": "https://github.com/huangruiteng/loopx",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones (9 minute read)",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How Modalities Learn Together (49 minute read)",
+          "url": "https://arxiv.org/abs/2608.05000",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
@@ -407,42 +443,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Google DeepMind Leadership Changes (4 minute read)",
-          "url": "https://www.implicator.ai/google-deepmind-hassabis-steps-aside-jeff-dean-exit",
-          "publishedAt": "2026-08-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Anthropic hiring an AI Chip Design Team (3 minute read)",
-          "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team",
-          "publishedAt": "2026-08-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Agent Access Model (27 minute read)",
-          "url": "https://blog.cloudflare.com/the-agent-access-model",
-          "publishedAt": "2026-08-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Three AI Pills (21 minute read)",
-          "url": "https://thezvi.wordpress.com/2026/08/05/the-three-ai-pills",
-          "publishedAt": "2026-08-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Introducing Flex: Let the Model Write the Code (16 minute read)",
-          "url": "https://www.cmpnd.ai/blog/let-the-model-write-the-code.html",
-          "publishedAt": "2026-08-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "ByteDance SeedRealtime (4 minute read)",
-          "url": "https://seed.bytedance.com/en/SeedRealtime",
-          "publishedAt": "2026-08-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Anthropic and OpenAI agents went rogue again",
           "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
           "publishedAt": "2026-08-05T09:00:00+00:00",
@@ -459,7 +459,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-07T13:00:32+00:00",
+      "updatedAt": "2026-08-07T13:45:58+00:00",
       "stories": [
         {
           "title": "HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics",
@@ -555,7 +555,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-07T13:00:32+00:00",
+    "updatedAt": "2026-08-07T13:45:58+00:00",
     "stories": [
       {
         "title": "AI designs working viruses from scratch",
@@ -639,9 +639,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Danube’s waters fall to record lows",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Danube_s_waters_fall_to_record_lows",
-        "publishedAt": "2026-08-07T11:40:00+00:00",
+        "title": "Week in images: 03-07 August 2026",
+        "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_August_2026",
+        "publishedAt": "2026-08-07T13:10:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
