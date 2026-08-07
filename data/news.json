@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T22:20:46+00:00",
+  "generatedAt": "2026-08-07T22:58:50+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-07T22:20:46+00:00",
+      "updatedAt": "2026-08-07T22:58:50+00:00",
       "stories": [
         {
           "title": "Senate installs new chiefs for U.S. military space acquisition, spy satellites",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-07T22:20:46+00:00",
+      "updatedAt": "2026-08-07T22:58:50+00:00",
       "stories": [
         {
           "title": "Canadian Space Agency confirms continuation of Canadarm3 space robotics program",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-07T22:20:46+00:00",
+      "updatedAt": "2026-08-07T22:58:50+00:00",
       "stories": [
         {
           "title": "The Ant In The Room: How a Muskoka Startup Is Positioned to Protect Canada’s Defence Supply Chain",
@@ -271,7 +271,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-07T22:20:46+00:00",
+      "updatedAt": "2026-08-07T22:58:50+00:00",
       "stories": [
         {
           "title": "The state of DoD Zero Trust: Progress toward target level",
@@ -368,8 +368,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-07T22:20:46+00:00",
+      "updatedAt": "2026-08-07T22:58:50+00:00",
       "stories": [
+        {
+          "title": "OpenAI says it slowed Astra model development over security concerns",
+          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+          "publishedAt": "2026-08-07T22:48:24+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
           "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
@@ -401,40 +407,16 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "GPT-5.6 Luna Became ChatGPT's Default Free Model (5 minute read)",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "publishedAt": "2026-08-07T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+          "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers",
+          "publishedAt": "2026-08-07T14:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "AMD to Acquire AI Chip Startup Taalas (4 minute read)",
-          "url": "https://betakit.com/us-chip-giant-amd-to-acquire-taalas",
-          "publishedAt": "2026-08-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Tradeoffs in Open-Weights Models (9 minute read)",
-          "url": "https://www.astralcodexten.com/p/open-questions-on-open-weights",
-          "publishedAt": "2026-08-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "LoopX (GitHub Repo)",
-          "url": "https://github.com/huangruiteng/loopx",
-          "publishedAt": "2026-08-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How Modalities Learn Together (49 minute read)",
-          "url": "https://arxiv.org/abs/2608.05000",
-          "publishedAt": "2026-08-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones (9 minute read)",
-          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-          "publishedAt": "2026-08-07T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+          "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case",
+          "publishedAt": "2026-08-07T11:40:37+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Google reshuffles AI leadership as rivals pull ahead",
@@ -459,14 +441,38 @@
           "url": "https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04",
           "publishedAt": "2026-08-05T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Business students go all in on AI amid demand surge",
+          "url": "https://kogod.american.edu/news/ai-at-kogod-a-three-year-student-research-report",
+          "publishedAt": "2026-08-05T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "AI labs head to the White House to discuss safety",
+          "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
+          "publishedAt": "2026-08-04T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Finance execs find AI skills more valuable than an MBA",
+          "url": "https://www.pwc.com/us/en/industries/financial-services/library/ai-workforce-gap-financial-services.html",
+          "publishedAt": "2026-08-04T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-07T22:20:46+00:00",
+      "updatedAt": "2026-08-07T22:58:50+00:00",
       "stories": [
+        {
+          "title": "Building robots that survive the warehouse",
+          "url": "https://www.therobotreport.com/building-robots-that-survive-warehouse",
+          "publishedAt": "2026-08-07T22:01:38+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Tacta Systems takes aim at high-skilled manufacturing work with TactaBot",
           "url": "https://www.therobotreport.com/tacta-systems-takes-aim-high-skilled-manufacturing-work-tactabot",
@@ -528,12 +534,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Why perception is the key to scaling industrial autonomy",
-          "url": "https://www.therobotreport.com/why-perception-is-the-key-to-scaling-industrial-autonomy",
-          "publishedAt": "2026-08-05T15:56:45+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
           "url": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
           "publishedAt": "2026-08-04T11:00:01+00:00",
@@ -561,22 +561,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-07T22:20:46+00:00",
+    "updatedAt": "2026-08-07T22:58:50+00:00",
     "stories": [
       {
-        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
-        "publishedAt": "2026-08-07T21:30:11+00:00",
+        "title": "OpenAI says it slowed Astra model development over security concerns",
+        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+        "publishedAt": "2026-08-07T22:48:24+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "AI designs working viruses from scratch",
-        "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
-        "publishedAt": "2026-08-07T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
+        "publishedAt": "2026-08-07T21:30:11+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -618,9 +618,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Tacta Systems takes aim at high-skilled manufacturing work with TactaBot",
-        "url": "https://www.therobotreport.com/tacta-systems-takes-aim-high-skilled-manufacturing-work-tactabot",
-        "publishedAt": "2026-08-07T21:53:33+00:00",
+        "title": "Building robots that survive the warehouse",
+        "url": "https://www.therobotreport.com/building-robots-that-survive-warehouse",
+        "publishedAt": "2026-08-07T22:01:38+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -765,5 +765,7 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": []
+  "warnings": [
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-24"
+  ]
 }
