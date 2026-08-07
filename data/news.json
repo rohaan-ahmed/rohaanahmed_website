@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-07T12:25:32+00:00",
+  "generatedAt": "2026-08-07T13:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-07T12:25:32+00:00",
+      "updatedAt": "2026-08-07T13:00:32+00:00",
       "stories": [
+        {
+          "title": "U.S. Senate confirms Schiess to lead Space Force",
+          "url": "https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force",
+          "publishedAt": "2026-08-07T12:42:44+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Europe increases size and cost of IRIS² constellation",
           "url": "https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation",
@@ -67,12 +73,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Three companies building the tech to grow crops on the moon",
-          "url": "https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon",
-          "publishedAt": "2026-08-06T12:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "'One more step': NASA astronauts conduct 6.5-hour spacewalk to prep ISS for solar array upgrade",
           "url": "https://www.space.com/space-exploration/international-space-station/1-more-step-nasa-astronauts-conduct-6-5-hour-spacewalk-to-prep-iss-for-solar-array-upgrade",
           "publishedAt": "2026-08-06T20:05:01+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-07T12:25:32+00:00",
+      "updatedAt": "2026-08-07T13:00:32+00:00",
       "stories": [
         {
           "title": "SpaceX’s rideshare freeze: What it means for the SmallSat market and Canada",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-07T12:25:32+00:00",
+      "updatedAt": "2026-08-07T13:00:32+00:00",
       "stories": [
         {
           "title": "Ottawa puts $20.3 million behind quantum defence hub in Calgary",
@@ -265,8 +265,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-07T12:25:32+00:00",
+      "updatedAt": "2026-08-07T13:00:32+00:00",
       "stories": [
+        {
+          "title": "Saudi Arabia, Turkey, Pakistan ink ‘joint defense’ agreement",
+          "url": "https://breakingdefense.com/2026/08/saudi-arabia-turkey-pakistan-ink-joint-defense-agreement",
+          "publishedAt": "2026-08-07T12:26:52+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Schiess confirmed as third Space Force chief",
           "url": "https://breakingdefense.com/2026/08/schiess-confirmed-as-third-space-force-chief",
@@ -296,12 +302,6 @@
           "url": "https://www.defensenews.com/news/your-military/2026/08/06/boeing-wins-first-production-contract-for-jet-powered-jdam",
           "publishedAt": "2026-08-06T16:50:23+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "Air Force signs off on production of long-range JDAM",
-          "url": "https://breakingdefense.com/2026/08/air-force-signs-off-on-production-of-long-range-jdam",
-          "publishedAt": "2026-08-06T15:45:39+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Iran issues warning to Gulf states: US must desist or you’ll be hit hard",
@@ -362,7 +362,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-07T12:25:32+00:00",
+      "updatedAt": "2026-08-07T13:00:32+00:00",
       "stories": [
         {
           "title": "AI designs working viruses from scratch",
@@ -407,22 +407,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-          "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company",
-          "publishedAt": "2026-08-06T17:00:37+00:00",
-          "source": "TechCrunch AI"
+          "title": "Google DeepMind Leadership Changes (4 minute read)",
+          "url": "https://www.implicator.ai/google-deepmind-hassabis-steps-aside-jeff-dean-exit",
+          "publishedAt": "2026-08-06T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-          "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking",
-          "publishedAt": "2026-08-06T15:53:03+00:00",
-          "source": "TechCrunch AI"
+          "title": "Anthropic hiring an AI Chip Design Team (3 minute read)",
+          "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team",
+          "publishedAt": "2026-08-06T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-          "publishedAt": "2026-08-06T15:10:32+00:00",
-          "source": "TechCrunch AI"
+          "title": "The Agent Access Model (27 minute read)",
+          "url": "https://blog.cloudflare.com/the-agent-access-model",
+          "publishedAt": "2026-08-06T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Three AI Pills (21 minute read)",
+          "url": "https://thezvi.wordpress.com/2026/08/05/the-three-ai-pills",
+          "publishedAt": "2026-08-06T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Flex: Let the Model Write the Code (16 minute read)",
+          "url": "https://www.cmpnd.ai/blog/let-the-model-write-the-code.html",
+          "publishedAt": "2026-08-06T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "ByteDance SeedRealtime (4 minute read)",
+          "url": "https://seed.bytedance.com/en/SeedRealtime",
+          "publishedAt": "2026-08-06T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Anthropic and OpenAI agents went rogue again",
@@ -435,31 +453,13 @@
           "url": "https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04",
           "publishedAt": "2026-08-05T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Business students go all in on AI amid demand surge",
-          "url": "https://kogod.american.edu/news/ai-at-kogod-a-three-year-student-research-report",
-          "publishedAt": "2026-08-05T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI labs head to the White House to discuss safety",
-          "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
-          "publishedAt": "2026-08-04T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Finance execs find AI skills more valuable than an MBA",
-          "url": "https://www.pwc.com/us/en/industries/financial-services/library/ai-workforce-gap-financial-services.html",
-          "publishedAt": "2026-08-04T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-07T12:25:32+00:00",
+      "updatedAt": "2026-08-07T13:00:32+00:00",
       "stories": [
         {
           "title": "HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics",
@@ -555,7 +555,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-07T12:25:32+00:00",
+    "updatedAt": "2026-08-07T13:00:32+00:00",
     "stories": [
       {
         "title": "AI designs working viruses from scratch",
@@ -585,9 +585,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Europe increases size and cost of IRIS² constellation",
-        "url": "https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation",
-        "publishedAt": "2026-08-07T11:51:44+00:00",
+        "title": "U.S. Senate confirms Schiess to lead Space Force",
+        "url": "https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force",
+        "publishedAt": "2026-08-07T12:42:44+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -603,9 +603,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Schiess confirmed as third Space Force chief",
-        "url": "https://breakingdefense.com/2026/08/schiess-confirmed-as-third-space-force-chief",
-        "publishedAt": "2026-08-07T11:31:35+00:00",
+        "title": "Saudi Arabia, Turkey, Pakistan ink ‘joint defense’ agreement",
+        "url": "https://breakingdefense.com/2026/08/saudi-arabia-turkey-pakistan-ink-joint-defense-agreement",
+        "publishedAt": "2026-08-07T12:26:52+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -621,6 +621,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Europe increases size and cost of IRIS² constellation",
+        "url": "https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation",
+        "publishedAt": "2026-08-07T11:51:44+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Bipartisan Senate bill would sharpen Space Force training for conflict with China",
         "url": "https://spacenews.com/bipartisan-senate-bill-would-sharpen-space-force-training-for-conflict-with-china",
         "publishedAt": "2026-08-07T09:00:00+00:00",
@@ -633,15 +642,6 @@
         "title": "Danube’s waters fall to record lows",
         "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Danube_s_waters_fall_to_record_lows",
         "publishedAt": "2026-08-07T11:40:00+00:00",
-        "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "IRIS² reinforced and accelerated as implementation advances",
-        "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances",
-        "publishedAt": "2026-08-07T09:27:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -759,7 +759,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-27"
-  ]
+  "warnings": []
 }
