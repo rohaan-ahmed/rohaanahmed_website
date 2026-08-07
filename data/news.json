@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T18:27:01+00:00",
+  "generatedAt": "2026-08-07T19:00:37+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-07T18:27:01+00:00",
+      "updatedAt": "2026-08-07T19:00:37+00:00",
       "stories": [
         {
           "title": "FCC Space Bureau deputy takes the reins amid licensing overhaul",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-07T18:27:01+00:00",
+      "updatedAt": "2026-08-07T19:00:37+00:00",
       "stories": [
+        {
+          "title": "Canadian Space Agency confirms continuation of Canadarm3 space robotics program",
+          "url": "https://spaceq.ca/canadian-space-agency-confirms-continuation-of-canadarm3-space-robotics-program",
+          "publishedAt": "2026-08-07T18:33:52+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "SpaceX’s rideshare freeze: What it means for the SmallSat market and Canada",
           "url": "https://spaceq.ca/spacexs-rideshare-freeze-what-it-means-for-the-smallsat-market-and-canada",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "Amazon Leo seeks approval for 5,105 satellite direct-to-device constellation",
-          "url": "https://spaceq.ca/amazon-seeks-approval-for-5105-satellite-direct-to-device-constellation",
-          "publishedAt": "2026-07-29T21:39:08+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Live broadcast of Crew-13 technical briefing and news conference",
           "url": "https://www.canada.ca/en/space-agency/news/2026/07/live-broadcast-of-crew-13-technical-briefing-and-news-conference.html",
           "publishedAt": "2026-07-29T13:10:46+00:00",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-07T18:27:01+00:00",
+      "updatedAt": "2026-08-07T19:00:37+00:00",
       "stories": [
         {
           "title": "Ottawa sells off ten retired Hercules to fight wildfires",
@@ -265,13 +265,19 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-07T18:27:01+00:00",
+      "updatedAt": "2026-08-07T19:00:37+00:00",
       "stories": [
         {
           "title": "Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief",
           "url": "https://breakingdefense.com/2026/08/senate-confirms-nominees-for-pentagon-comptroller-space-acquisition-and-nro-chief",
           "publishedAt": "2026-08-07T18:21:44+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "How North Korean forces are bolstering Russia’s war against Ukraine",
+          "url": "https://www.defensenews.com/global/europe/2026/08/07/how-north-korean-forces-are-bolstering-russias-war-against-ukraine",
+          "publishedAt": "2026-08-07T18:29:25+00:00",
+          "source": "Defense News"
         },
         {
           "title": "EU lays out $18B satellite constellation plan, with Spanish firm winning key role",
@@ -290,6 +296,12 @@
           "url": "https://breakingdefense.com/2026/08/updating-navy-warships-at-the-speed-of-software",
           "publishedAt": "2026-08-07T15:40:02+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Army attempting to cut tech-testing wait times down to 30 days through base access, scheduling website",
+          "url": "https://defensescoop.com/2026/08/07/army-test-range-access-scheduling-website-dan-driscoll",
+          "publishedAt": "2026-08-07T18:32:40+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Marine Corps tees up hackathon featuring GenAI.mil",
@@ -344,25 +356,13 @@
           "url": "https://defensescoop.com/2026/08/06/marine-corps-ai-hackathon-training-education",
           "publishedAt": "2026-08-06T17:13:06+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Portfolio executives describe changing roles as Air Force completes acquisition overhaul",
-          "url": "https://defensescoop.com/2026/08/06/air-force-portfolio-executives-acquisition-reform",
-          "publishedAt": "2026-08-06T16:41:38+00:00",
-          "source": "DefenseScoop"
-        },
-        {
-          "title": "Trump-class battleship program will cost $275 billion, CBO report says",
-          "url": "https://www.defensenews.com/news/your-military/2026/08/05/trump-class-battleship-program-will-cost-275-billion-cbo-report-says",
-          "publishedAt": "2026-08-05T23:17:27+00:00",
-          "source": "Defense News"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-07T18:27:01+00:00",
+      "updatedAt": "2026-08-07T19:00:37+00:00",
       "stories": [
         {
           "title": "AI designs working viruses from scratch",
@@ -395,16 +395,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-          "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case",
-          "publishedAt": "2026-08-07T11:40:37+00:00",
-          "source": "TechCrunch AI"
+          "title": "GPT-5.6 Luna Became ChatGPT's Default Free Model (5 minute read)",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
-          "publishedAt": "2026-08-06T22:43:53+00:00",
-          "source": "TechCrunch AI"
+          "title": "AMD to Acquire AI Chip Startup Taalas (4 minute read)",
+          "url": "https://betakit.com/us-chip-giant-amd-to-acquire-taalas",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Tradeoffs in Open-Weights Models (9 minute read)",
+          "url": "https://www.astralcodexten.com/p/open-questions-on-open-weights",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "LoopX (GitHub Repo)",
+          "url": "https://github.com/huangruiteng/loopx",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How Modalities Learn Together (49 minute read)",
+          "url": "https://arxiv.org/abs/2608.05000",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones (9 minute read)",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Google reshuffles AI leadership as rivals pull ahead",
@@ -419,12 +443,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "ChatGPT brings unlimited text chats to free users",
-          "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users",
-          "publishedAt": "2026-08-06T17:34:42+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Anthropic and OpenAI agents went rogue again",
           "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
           "publishedAt": "2026-08-05T09:00:00+00:00",
@@ -435,31 +453,13 @@
           "url": "https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04",
           "publishedAt": "2026-08-05T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Business students go all in on AI amid demand surge",
-          "url": "https://kogod.american.edu/news/ai-at-kogod-a-three-year-student-research-report",
-          "publishedAt": "2026-08-05T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI labs head to the White House to discuss safety",
-          "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
-          "publishedAt": "2026-08-04T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Finance execs find AI skills more valuable than an MBA",
-          "url": "https://www.pwc.com/us/en/industries/financial-services/library/ai-workforce-gap-financial-services.html",
-          "publishedAt": "2026-08-04T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-07T18:27:01+00:00",
+      "updatedAt": "2026-08-07T19:00:37+00:00",
       "stories": [
         {
           "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
@@ -555,7 +555,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-07T18:27:01+00:00",
+    "updatedAt": "2026-08-07T19:00:37+00:00",
     "stories": [
       {
         "title": "AI designs working viruses from scratch",
@@ -576,9 +576,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "SpaceX’s rideshare freeze: What it means for the SmallSat market and Canada",
-        "url": "https://spaceq.ca/spacexs-rideshare-freeze-what-it-means-for-the-smallsat-market-and-canada",
-        "publishedAt": "2026-08-07T00:42:36+00:00",
+        "title": "Canadian Space Agency confirms continuation of Canadarm3 space robotics program",
+        "url": "https://spaceq.ca/canadian-space-agency-confirms-continuation-of-canadarm3-space-robotics-program",
+        "publishedAt": "2026-08-07T18:33:52+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -759,7 +759,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-28"
-  ]
+  "warnings": []
 }
