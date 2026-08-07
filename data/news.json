@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T18:00:26+00:00",
+  "generatedAt": "2026-08-07T18:27:01+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-07T18:00:26+00:00",
+      "updatedAt": "2026-08-07T18:27:01+00:00",
       "stories": [
         {
           "title": "FCC Space Bureau deputy takes the reins amid licensing overhaul",
@@ -31,6 +31,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "Inside the mystery of the James Webb Space Telescope's little red dots — and how they might be evolving",
+          "url": "https://www.space.com/astronomy/james-webb-space-telescope/inside-the-mystery-of-the-james-webb-space-telescopes-little-red-dots-and-how-they-might-be-evolving",
+          "publishedAt": "2026-08-07T18:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "How to safely observe eclipses and the solar surface with a smart telescope",
           "url": "https://www.space.com/stargazing/skywatching-kit/how-to-safely-observe-eclipses-and-the-solar-surface-with-a-smart-telescope",
           "publishedAt": "2026-08-07T17:00:00+00:00",
@@ -46,12 +52,6 @@
           "title": "NASA's SkyFall Mars helicopters will wear tiny capes",
           "url": "https://www.space.com/astronomy/mars/nasas-skyfall-mars-helicopters-will-wear-tiny-capes",
           "publishedAt": "2026-08-07T16:07:14+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Engineers race to save stricken LINK rescue spacecraft before it's too late",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/engineers-race-to-save-stricken-link-rescue-spacecraft-before-its-too-late",
-          "publishedAt": "2026-08-07T16:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-07T18:00:26+00:00",
+      "updatedAt": "2026-08-07T18:27:01+00:00",
       "stories": [
         {
           "title": "SpaceX’s rideshare freeze: What it means for the SmallSat market and Canada",
@@ -180,8 +180,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-07T18:00:26+00:00",
+      "updatedAt": "2026-08-07T18:27:01+00:00",
       "stories": [
+        {
+          "title": "Ottawa sells off ten retired Hercules to fight wildfires",
+          "url": "https://vanguardcanada.com/ottawa-sells-off-ten-retired-hercules-to-fight-wildfires",
+          "publishedAt": "2026-08-07T18:05:57+00:00",
+          "source": "Vanguard"
+        },
         {
           "title": "Ottawa puts $20.3 million behind quantum defence hub in Calgary",
           "url": "https://vanguardcanada.com/ottawa-puts-20-3-million-behind-quantum-defence-hub-in-calgary",
@@ -259,8 +265,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-07T18:00:26+00:00",
+      "updatedAt": "2026-08-07T18:27:01+00:00",
       "stories": [
+        {
+          "title": "Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief",
+          "url": "https://breakingdefense.com/2026/08/senate-confirms-nominees-for-pentagon-comptroller-space-acquisition-and-nro-chief",
+          "publishedAt": "2026-08-07T18:21:44+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "EU lays out $18B satellite constellation plan, with Spanish firm winning key role",
           "url": "https://breakingdefense.com/2026/08/eu-lays-out-18b-satellite-constellation-plan-with-spanish-firm-winning-key-role",
@@ -301,12 +313,6 @@
           "title": "Saudi Arabia, Turkey, Pakistan ink ‘joint defense’ agreement",
           "url": "https://breakingdefense.com/2026/08/saudi-arabia-turkey-pakistan-ink-joint-defense-agreement",
           "publishedAt": "2026-08-07T12:26:52+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Schiess confirmed as third Space Force chief",
-          "url": "https://breakingdefense.com/2026/08/schiess-confirmed-as-third-space-force-chief",
-          "publishedAt": "2026-08-07T11:31:35+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -356,7 +362,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-07T18:00:26+00:00",
+      "updatedAt": "2026-08-07T18:27:01+00:00",
       "stories": [
         {
           "title": "AI designs working viruses from scratch",
@@ -453,7 +459,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-07T18:00:26+00:00",
+      "updatedAt": "2026-08-07T18:27:01+00:00",
       "stories": [
         {
           "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
@@ -549,7 +555,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-07T18:00:26+00:00",
+    "updatedAt": "2026-08-07T18:27:01+00:00",
     "stories": [
       {
         "title": "AI designs working viruses from scratch",
@@ -588,18 +594,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Ottawa puts $20.3 million behind quantum defence hub in Calgary",
-        "url": "https://vanguardcanada.com/ottawa-puts-20-3-million-behind-quantum-defence-hub-in-calgary",
-        "publishedAt": "2026-08-06T18:18:32+00:00",
+        "title": "Ottawa sells off ten retired Hercules to fight wildfires",
+        "url": "https://vanguardcanada.com/ottawa-sells-off-ten-retired-hercules-to-fight-wildfires",
+        "publishedAt": "2026-08-07T18:05:57+00:00",
         "source": "Vanguard",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
         "bulletinRole": "lead"
       },
       {
-        "title": "EU lays out $18B satellite constellation plan, with Spanish firm winning key role",
-        "url": "https://breakingdefense.com/2026/08/eu-lays-out-18b-satellite-constellation-plan-with-spanish-firm-winning-key-role",
-        "publishedAt": "2026-08-07T17:03:30+00:00",
+        "title": "Senate confirms nominees for Pentagon comptroller, space acquisition and NRO chief",
+        "url": "https://breakingdefense.com/2026/08/senate-confirms-nominees-for-pentagon-comptroller-space-acquisition-and-nro-chief",
+        "publishedAt": "2026-08-07T18:21:44+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -754,6 +760,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-29"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-28"
   ]
 }
