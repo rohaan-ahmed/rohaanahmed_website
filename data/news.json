@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-07T17:28:38+00:00",
+  "generatedAt": "2026-08-07T18:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-07T17:28:38+00:00",
+      "updatedAt": "2026-08-07T18:00:26+00:00",
       "stories": [
+        {
+          "title": "FCC Space Bureau deputy takes the reins amid licensing overhaul",
+          "url": "https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul",
+          "publishedAt": "2026-08-07T17:54:30+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "U.S. Senate confirms Schiess to lead Space Force",
           "url": "https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force",
@@ -85,12 +91,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Lessons for the future of NASA Mars exploration from a 1970s mission",
-          "url": "https://spacenews.com/lessons-for-the-future-of-nasa-mars-exploration-from-a-1970s-mission",
-          "publishedAt": "2026-08-06T15:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "APOD: 2026 August 7 – Rubin’s Cosmos Field",
           "url": "https://science.nasa.gov/image-article/apod-2026-august-6-rubins-cosmos-field",
           "publishedAt": "2026-08-07T04:05:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-07T17:28:38+00:00",
+      "updatedAt": "2026-08-07T18:00:26+00:00",
       "stories": [
         {
           "title": "SpaceX’s rideshare freeze: What it means for the SmallSat market and Canada",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-07T17:28:38+00:00",
+      "updatedAt": "2026-08-07T18:00:26+00:00",
       "stories": [
         {
           "title": "Ottawa puts $20.3 million behind quantum defence hub in Calgary",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-07T17:28:38+00:00",
+      "updatedAt": "2026-08-07T18:00:26+00:00",
       "stories": [
         {
           "title": "EU lays out $18B satellite constellation plan, with Spanish firm winning key role",
@@ -278,6 +278,12 @@
           "url": "https://breakingdefense.com/2026/08/updating-navy-warships-at-the-speed-of-software",
           "publishedAt": "2026-08-07T15:40:02+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Marine Corps tees up hackathon featuring GenAI.mil",
+          "url": "https://defensescoop.com/2026/08/07/marine-corps-tees-up-hackathon-featuring-genai-mil",
+          "publishedAt": "2026-08-07T17:48:46+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Rheinmetall says ramping up ATACMS output will take time as US rebuilds stocks",
@@ -340,12 +346,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "Navy considers relocating robotic and autonomous systems staff amid broader portfolio restructuring",
-          "url": "https://defensescoop.com/2026/08/06/navy-robotic-and-autonomous-systems-portfolio-staff",
-          "publishedAt": "2026-08-06T16:33:19+00:00",
-          "source": "DefenseScoop"
-        },
-        {
           "title": "Trump-class battleship program will cost $275 billion, CBO report says",
           "url": "https://www.defensenews.com/news/your-military/2026/08/05/trump-class-battleship-program-will-cost-275-billion-cbo-report-says",
           "publishedAt": "2026-08-05T23:17:27+00:00",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-07T17:28:38+00:00",
+      "updatedAt": "2026-08-07T18:00:26+00:00",
       "stories": [
         {
           "title": "AI designs working viruses from scratch",
@@ -383,45 +383,21 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "GPT-5.6 Luna Became ChatGPT's Default Free Model (5 minute read)",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "publishedAt": "2026-08-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "AMD to Acquire AI Chip Startup Taalas (4 minute read)",
-          "url": "https://betakit.com/us-chip-giant-amd-to-acquire-taalas",
-          "publishedAt": "2026-08-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Tradeoffs in Open-Weights Models (9 minute read)",
-          "url": "https://www.astralcodexten.com/p/open-questions-on-open-weights",
-          "publishedAt": "2026-08-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "LoopX (GitHub Repo)",
-          "url": "https://github.com/huangruiteng/loopx",
-          "publishedAt": "2026-08-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How Modalities Learn Together (49 minute read)",
-          "url": "https://arxiv.org/abs/2608.05000",
-          "publishedAt": "2026-08-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones (9 minute read)",
-          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
-          "publishedAt": "2026-08-07T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+          "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers",
+          "publishedAt": "2026-08-07T14:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
           "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case",
           "publishedAt": "2026-08-07T11:40:37+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400",
+          "publishedAt": "2026-08-06T22:43:53+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -437,6 +413,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "ChatGPT brings unlimited text chats to free users",
+          "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users",
+          "publishedAt": "2026-08-06T17:34:42+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Anthropic and OpenAI agents went rogue again",
           "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
           "publishedAt": "2026-08-05T09:00:00+00:00",
@@ -447,13 +429,31 @@
           "url": "https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04",
           "publishedAt": "2026-08-05T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Business students go all in on AI amid demand surge",
+          "url": "https://kogod.american.edu/news/ai-at-kogod-a-three-year-student-research-report",
+          "publishedAt": "2026-08-05T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "AI labs head to the White House to discuss safety",
+          "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
+          "publishedAt": "2026-08-04T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Finance execs find AI skills more valuable than an MBA",
+          "url": "https://www.pwc.com/us/en/industries/financial-services/library/ai-workforce-gap-financial-services.html",
+          "publishedAt": "2026-08-04T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-07T17:28:38+00:00",
+      "updatedAt": "2026-08-07T18:00:26+00:00",
       "stories": [
         {
           "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-07T17:28:38+00:00",
+    "updatedAt": "2026-08-07T18:00:26+00:00",
     "stories": [
       {
         "title": "AI designs working viruses from scratch",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "U.S. Senate confirms Schiess to lead Space Force",
-        "url": "https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force",
-        "publishedAt": "2026-08-07T12:42:44+00:00",
+        "title": "FCC Space Bureau deputy takes the reins amid licensing overhaul",
+        "url": "https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul",
+        "publishedAt": "2026-08-07T17:54:30+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -615,6 +615,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "U.S. Senate confirms Schiess to lead Space Force",
+        "url": "https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force",
+        "publishedAt": "2026-08-07T12:42:44+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Europe increases size and cost of IRIS² constellation",
         "url": "https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation",
         "publishedAt": "2026-08-07T11:51:44+00:00",
@@ -630,15 +639,6 @@
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Pentagon wants ‘expanding options’ for nuclear weapons, officials say",
-        "url": "https://breakingdefense.com/2026/08/pentagon-wants-expanding-options-for-nuclear-weapons-officials-say",
-        "publishedAt": "2026-08-07T16:21:19+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -753,5 +753,7 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": []
+  "warnings": [
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-29"
+  ]
 }
