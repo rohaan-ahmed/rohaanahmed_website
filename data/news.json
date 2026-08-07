@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T17:00:27+00:00",
+  "generatedAt": "2026-08-07T17:28:38+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-07T17:00:27+00:00",
+      "updatedAt": "2026-08-07T17:28:38+00:00",
       "stories": [
         {
           "title": "U.S. Senate confirms Schiess to lead Space Force",
@@ -23,6 +23,12 @@
           "url": "https://spacenews.com/bipartisan-senate-bill-would-sharpen-space-force-training-for-conflict-with-china",
           "publishedAt": "2026-08-07T09:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "How to safely observe eclipses and the solar surface with a smart telescope",
+          "url": "https://www.space.com/stargazing/skywatching-kit/how-to-safely-observe-eclipses-and-the-solar-surface-with-a-smart-telescope",
+          "publishedAt": "2026-08-07T17:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Join us live and enjoy the total solar eclipse!",
@@ -47,12 +53,6 @@
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_August_2026",
           "publishedAt": "2026-08-07T13:10:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Chinese company Landspace targets Aug. 10 for historic rocket launch and landing attempt",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-targets-aug-10-for-historic-rocket-launch-and-landing-attempt",
-          "publishedAt": "2026-08-07T15:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Danube’s waters fall to record lows",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-07T17:00:27+00:00",
+      "updatedAt": "2026-08-07T17:28:38+00:00",
       "stories": [
         {
           "title": "SpaceX’s rideshare freeze: What it means for the SmallSat market and Canada",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-07T17:00:27+00:00",
+      "updatedAt": "2026-08-07T17:28:38+00:00",
       "stories": [
         {
           "title": "Ottawa puts $20.3 million behind quantum defence hub in Calgary",
@@ -259,8 +259,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-07T17:00:27+00:00",
+      "updatedAt": "2026-08-07T17:28:38+00:00",
       "stories": [
+        {
+          "title": "EU lays out $18B satellite constellation plan, with Spanish firm winning key role",
+          "url": "https://breakingdefense.com/2026/08/eu-lays-out-18b-satellite-constellation-plan-with-spanish-firm-winning-key-role",
+          "publishedAt": "2026-08-07T17:03:30+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Pentagon wants ‘expanding options’ for nuclear weapons, officials say",
           "url": "https://breakingdefense.com/2026/08/pentagon-wants-expanding-options-for-nuclear-weapons-officials-say",
@@ -302,12 +308,6 @@
           "url": "https://defensescoop.com/2026/08/07/commercial-satellite-revolution-changing-warfare-how-america-can-stay-ahead",
           "publishedAt": "2026-08-07T14:15:16+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Army awards contracts to four companies to boost Hydra-70 rocket production",
-          "url": "https://breakingdefense.com/2026/08/army-awards-contracts-to-four-companies-to-boost-hydra-70-rocket-production",
-          "publishedAt": "2026-08-06T18:30:00+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Boeing wins first production contract for jet-powered JDAM",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-07T17:00:27+00:00",
+      "updatedAt": "2026-08-07T17:28:38+00:00",
       "stories": [
         {
           "title": "AI designs working viruses from scratch",
@@ -453,8 +453,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-07T17:00:27+00:00",
+      "updatedAt": "2026-08-07T17:28:38+00:00",
       "stories": [
+        {
+          "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
+          "url": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
+          "publishedAt": "2026-08-07T16:00:01+00:00",
+          "source": "IEEE Spectrum Robotics"
+        },
         {
           "title": "HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics",
           "url": "https://www.therobotreport.com/hii-signs-up-to-900m-agreement-with-path-robotics-graymatter-robotics",
@@ -516,12 +522,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Humanoids won’t scale on factory floors until costs drop",
-          "url": "https://www.therobotreport.com/humanoids-wont-scale-on-factory-floors-until-costs-drop",
-          "publishedAt": "2026-08-04T15:15:10+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
           "url": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
           "publishedAt": "2026-08-04T11:00:01+00:00",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-07T17:00:27+00:00",
+    "updatedAt": "2026-08-07T17:28:38+00:00",
     "stories": [
       {
         "title": "AI designs working viruses from scratch",
@@ -597,19 +597,19 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Pentagon wants ‘expanding options’ for nuclear weapons, officials say",
-        "url": "https://breakingdefense.com/2026/08/pentagon-wants-expanding-options-for-nuclear-weapons-officials-say",
-        "publishedAt": "2026-08-07T16:21:19+00:00",
+        "title": "EU lays out $18B satellite constellation plan, with Spanish firm winning key role",
+        "url": "https://breakingdefense.com/2026/08/eu-lays-out-18b-satellite-constellation-plan-with-spanish-firm-winning-key-role",
+        "publishedAt": "2026-08-07T17:03:30+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics",
-        "url": "https://www.therobotreport.com/hii-signs-up-to-900m-agreement-with-path-robotics-graymatter-robotics",
-        "publishedAt": "2026-08-06T20:19:29+00:00",
-        "source": "The Robot Report",
+        "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
+        "url": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
+        "publishedAt": "2026-08-07T16:00:01+00:00",
+        "source": "IEEE Spectrum Robotics",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
@@ -633,9 +633,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Updating Navy warships at the speed of software",
-        "url": "https://breakingdefense.com/2026/08/updating-navy-warships-at-the-speed-of-software",
-        "publishedAt": "2026-08-07T15:40:02+00:00",
+        "title": "Pentagon wants ‘expanding options’ for nuclear weapons, officials say",
+        "url": "https://breakingdefense.com/2026/08/pentagon-wants-expanding-options-for-nuclear-weapons-officials-say",
+        "publishedAt": "2026-08-07T16:21:19+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
