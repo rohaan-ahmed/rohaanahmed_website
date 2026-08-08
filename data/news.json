@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-08T17:40:51+00:00",
+  "generatedAt": "2026-08-08T18:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-08T17:40:51+00:00",
+      "updatedAt": "2026-08-08T18:00:27+00:00",
       "stories": [
+        {
+          "title": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
+          "url": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects",
+          "publishedAt": "2026-08-08T17:45:40+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids",
           "url": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids",
@@ -89,19 +95,13 @@
           "url": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar",
           "publishedAt": "2026-08-07T14:27:35+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "IRIS² reinforced and accelerated as implementation advances",
-          "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances",
-          "publishedAt": "2026-08-07T09:27:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-08T17:40:51+00:00",
+      "updatedAt": "2026-08-08T18:00:27+00:00",
       "stories": [
         {
           "title": "Canadian Space Agency confirms continuation of Canadarm3 space robotics program",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-08T17:40:51+00:00",
+      "updatedAt": "2026-08-08T18:00:27+00:00",
       "stories": [
         {
           "title": "The Ant In The Room: How a Muskoka Startup Is Positioned to Protect Canada’s Defence Supply Chain",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-08T17:40:51+00:00",
+      "updatedAt": "2026-08-08T18:00:27+00:00",
       "stories": [
         {
           "title": "Senate passes stopgap funding bill",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-08T17:40:51+00:00",
+      "updatedAt": "2026-08-08T18:00:27+00:00",
       "stories": [
         {
           "title": "OpenAI says it slowed Astra model development over security concerns",
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-08T17:40:51+00:00",
+      "updatedAt": "2026-08-08T18:00:27+00:00",
       "stories": [
         {
           "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
@@ -510,6 +510,12 @@
           "source": "The Robot Report"
         },
         {
+          "title": "Moove raises $250M to build infrastructure for autonomous vehicles",
+          "url": "https://www.therobotreport.com/moove-raises-250m-to-build-infrastructure-for-autonomous-vehicles",
+          "publishedAt": "2026-08-05T16:53:38+00:00",
+          "source": "The Robot Report"
+        },
+        {
           "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
           "url": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
           "publishedAt": "2026-08-04T11:00:01+00:00",
@@ -526,18 +532,12 @@
           "url": "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
           "publishedAt": "2026-07-31T16:00:03+00:00",
           "source": "IEEE Spectrum Robotics"
-        },
-        {
-          "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
-          "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security",
-          "publishedAt": "2026-07-29T17:41:09+00:00",
-          "source": "TechCrunch Robotics"
         }
       ]
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-08T17:40:51+00:00",
+    "updatedAt": "2026-08-08T18:00:27+00:00",
     "stories": [
       {
         "title": "OpenAI says it slowed Astra model development over security concerns",
@@ -567,10 +567,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids",
-        "url": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids",
-        "publishedAt": "2026-08-08T16:00:00+00:00",
-        "source": "Space.com",
+        "title": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
+        "url": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects",
+        "publishedAt": "2026-08-08T17:45:40+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -603,6 +603,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids",
+        "url": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids",
+        "publishedAt": "2026-08-08T16:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Don't miss the crescent moon shine close to the red light of Mars before dawn on Aug. 9",
         "url": "https://www.space.com/stargazing/dont-miss-the-crescent-moon-shine-close-to-the-red-light-of-mars-before-dawn-aug-9-2026",
         "publishedAt": "2026-08-08T14:00:00+00:00",
@@ -616,15 +625,6 @@
         "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-8-2026",
         "publishedAt": "2026-08-08T14:00:00+00:00",
         "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Senate installs new chiefs for U.S. military space acquisition, spy satellites",
-        "url": "https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites",
-        "publishedAt": "2026-08-07T21:03:50+00:00",
-        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
