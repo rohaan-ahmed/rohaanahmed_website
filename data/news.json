@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-08-08T19:18:38+00:00",
+  "generatedAt": "2026-08-08T19:47:51+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-08T19:18:38+00:00",
+      "updatedAt": "2026-08-08T19:47:51+00:00",
       "stories": [
         {
           "title": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
           "url": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects",
           "publishedAt": "2026-08-08T17:45:40+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-starlink-group-17-38-ocisly",
+          "publishedAt": "2026-08-08T19:19:16+00:00",
+          "source": "Space.com"
         },
         {
           "title": "'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids",
@@ -21,12 +27,6 @@
         {
           "title": "Don't miss the crescent moon shine close to the red light of Mars before dawn on Aug. 9",
           "url": "https://www.space.com/stargazing/dont-miss-the-crescent-moon-shine-close-to-the-red-light-of-mars-before-dawn-aug-9-2026",
-          "publishedAt": "2026-08-08T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "On this day in space! Aug. 8, 1977: Soviet Union's Salyut 5 reconnaissance space station burns up in Earth's atmosphere",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-8-2026",
           "publishedAt": "2026-08-08T14:00:00+00:00",
           "source": "Space.com"
         },
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-08T19:18:38+00:00",
+      "updatedAt": "2026-08-08T19:47:51+00:00",
       "stories": [
         {
           "title": "Canadian Space Agency confirms continuation of Canadarm3 space robotics program",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-08T19:18:38+00:00",
+      "updatedAt": "2026-08-08T19:47:51+00:00",
       "stories": [
         {
           "title": "The Ant In The Room: How a Muskoka Startup Is Positioned to Protect Canada’s Defence Supply Chain",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-08T19:18:38+00:00",
+      "updatedAt": "2026-08-08T19:47:51+00:00",
       "stories": [
         {
           "title": "Senate passes stopgap funding bill",
@@ -344,8 +344,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-08T19:18:38+00:00",
+      "updatedAt": "2026-08-08T19:47:51+00:00",
       "stories": [
+        {
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
+          "publishedAt": "2026-08-08T19:41:13+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "OpenAI says it slowed Astra model development over security concerns",
           "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
@@ -386,12 +392,6 @@
           "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
           "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers",
           "publishedAt": "2026-08-07T14:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-          "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case",
-          "publishedAt": "2026-08-07T11:40:37+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-08T19:18:38+00:00",
+      "updatedAt": "2026-08-08T19:47:51+00:00",
       "stories": [
         {
           "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
@@ -537,21 +537,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-08T19:18:38+00:00",
+    "updatedAt": "2026-08-08T19:47:51+00:00",
     "stories": [
       {
-        "title": "OpenAI says it slowed Astra model development over security concerns",
-        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-        "publishedAt": "2026-08-07T22:48:24+00:00",
+        "title": "OpenAI acquires presentation startup NextSlide",
+        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
+        "publishedAt": "2026-08-08T19:41:13+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
-        "publishedAt": "2026-08-07T21:30:11+00:00",
+        "title": "OpenAI says it slowed Astra model development over security concerns",
+        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+        "publishedAt": "2026-08-07T22:48:24+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -603,6 +603,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-starlink-group-17-38-ocisly",
+        "publishedAt": "2026-08-08T19:19:16+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids",
         "url": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids",
         "publishedAt": "2026-08-08T16:00:00+00:00",
@@ -614,15 +623,6 @@
       {
         "title": "Don't miss the crescent moon shine close to the red light of Mars before dawn on Aug. 9",
         "url": "https://www.space.com/stargazing/dont-miss-the-crescent-moon-shine-close-to-the-red-light-of-mars-before-dawn-aug-9-2026",
-        "publishedAt": "2026-08-08T14:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "On this day in space! Aug. 8, 1977: Soviet Union's Salyut 5 reconnaissance space station burns up in Earth's atmosphere",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-8-2026",
         "publishedAt": "2026-08-08T14:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
