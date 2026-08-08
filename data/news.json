@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T21:15:39+00:00",
+  "generatedAt": "2026-08-08T21:50:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-08T21:15:39+00:00",
+      "updatedAt": "2026-08-08T21:50:31+00:00",
       "stories": [
         {
           "title": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-08T21:15:39+00:00",
+      "updatedAt": "2026-08-08T21:50:31+00:00",
       "stories": [
         {
           "title": "Canadian Space Agency confirms continuation of Canadarm3 space robotics program",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-08T21:15:39+00:00",
+      "updatedAt": "2026-08-08T21:50:31+00:00",
       "stories": [
         {
           "title": "The Ant In The Room: How a Muskoka Startup Is Positioned to Protect Canada’s Defence Supply Chain",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-08T21:15:39+00:00",
+      "updatedAt": "2026-08-08T21:50:31+00:00",
       "stories": [
         {
           "title": "Senate passes stopgap funding bill",
@@ -344,8 +344,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-08T21:15:39+00:00",
+      "updatedAt": "2026-08-08T21:50:31+00:00",
       "stories": [
+        {
+          "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+          "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s",
+          "publishedAt": "2026-08-08T21:24:02+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "OpenAI acquires presentation startup NextSlide",
           "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
@@ -386,12 +392,6 @@
           "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
           "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
           "publishedAt": "2026-08-07T14:22:49+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-          "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers",
-          "publishedAt": "2026-08-07T14:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-08T21:15:39+00:00",
+      "updatedAt": "2026-08-08T21:50:31+00:00",
       "stories": [
         {
           "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
@@ -537,21 +537,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-08T21:15:39+00:00",
+    "updatedAt": "2026-08-08T21:50:31+00:00",
     "stories": [
       {
-        "title": "OpenAI acquires presentation startup NextSlide",
-        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
-        "publishedAt": "2026-08-08T19:41:13+00:00",
+        "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+        "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s",
+        "publishedAt": "2026-08-08T21:24:02+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI says it slowed Astra model development over security concerns",
-        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
-        "publishedAt": "2026-08-07T22:48:24+00:00",
+        "title": "OpenAI acquires presentation startup NextSlide",
+        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
+        "publishedAt": "2026-08-08T19:41:13+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -742,6 +742,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-24"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-22"
   ]
 }
