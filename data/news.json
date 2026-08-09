@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-09T08:56:42+00:00",
+  "generatedAt": "2026-08-09T09:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-09T08:56:42+00:00",
+      "updatedAt": "2026-08-09T09:00:29+00:00",
       "stories": [
         {
           "title": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
@@ -31,12 +31,6 @@
           "source": "Space.com"
         },
         {
-          "title": "On this day in space! Aug. 8, 1977: Soviet Union's Salyut 5 reconnaissance space station burns up in Earth's atmosphere",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-8-2026",
-          "publishedAt": "2026-08-08T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Senate installs new chiefs for U.S. military space acquisition, spy satellites",
           "url": "https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites",
           "publishedAt": "2026-08-07T21:03:50+00:00",
@@ -47,6 +41,12 @@
           "url": "https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul",
           "publishedAt": "2026-08-07T17:54:30+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
+          "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2",
+          "publishedAt": "2026-08-08T04:05:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "U.S. Senate confirms Schiess to lead Space Force",
@@ -67,6 +67,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "2026 IGARSS Hyperwall Schedule",
+          "url": "https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule",
+          "publishedAt": "2026-08-07T18:57:34+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "Join us live and enjoy the total solar eclipse!",
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Join_us_live_and_enjoy_the_total_solar_eclipse",
           "publishedAt": "2026-08-07T14:00:00+00:00",
@@ -85,23 +91,17 @@
           "source": "European Space Agency"
         },
         {
-          "title": "IRIS² reinforced and accelerated as implementation advances",
-          "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/IRIS2_reinforced_and_accelerated_as_implementation_advances",
-          "publishedAt": "2026-08-07T09:27:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
-          "title": "How should Europe’s militaries respond to space threats",
-          "url": "https://spacenews.com/how-should-europes-militaries-respond-to-space-threats",
-          "publishedAt": "2026-08-06T15:31:26+00:00",
-          "source": "SpaceNews"
+          "title": "NASA’s IXPE Studies Magnetar",
+          "url": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar",
+          "publishedAt": "2026-08-07T14:27:35+00:00",
+          "source": "NASA"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-09T08:56:42+00:00",
+      "updatedAt": "2026-08-09T09:00:29+00:00",
       "stories": [
         {
           "title": "Canadian Space Agency confirms continuation of Canadarm3 space robotics program",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-09T08:56:42+00:00",
+      "updatedAt": "2026-08-09T09:00:29+00:00",
       "stories": [
         {
           "title": "The Ant In The Room: How a Muskoka Startup Is Positioned to Protect Canada’s Defence Supply Chain",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-09T08:56:42+00:00",
+      "updatedAt": "2026-08-09T09:00:29+00:00",
       "stories": [
         {
           "title": "Senate passes stopgap funding bill",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-09T08:56:42+00:00",
+      "updatedAt": "2026-08-09T09:00:29+00:00",
       "stories": [
         {
           "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-09T08:56:42+00:00",
+      "updatedAt": "2026-08-09T09:00:29+00:00",
       "stories": [
         {
           "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-09T08:56:42+00:00",
+    "updatedAt": "2026-08-09T09:00:29+00:00",
     "stories": [
       {
         "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
@@ -741,7 +741,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "NASA: 429 Client Error: Too Many Requests for url: https://www.nasa.gov/feed/"
-  ]
+  "warnings": []
 }
