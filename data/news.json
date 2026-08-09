@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-09T11:59:52+00:00",
+  "generatedAt": "2026-08-09T12:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-09T11:59:52+00:00",
+      "updatedAt": "2026-08-09T12:00:28+00:00",
       "stories": [
+        {
+          "title": "The total solar eclipse on Aug. 12 will reveal something nobody has ever seen before",
+          "url": "https://www.space.com/stargazing/solar-eclipses/the-total-solar-eclipse-on-aug-12-will-reveal-something-nobody-has-ever-seen-before",
+          "publishedAt": "2026-08-09T12:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
           "url": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects",
@@ -22,12 +28,6 @@
           "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-starlink-group-17-38-ocisly",
           "publishedAt": "2026-08-08T19:19:16+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids",
-          "url": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids",
-          "publishedAt": "2026-08-08T16:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-09T11:59:52+00:00",
+      "updatedAt": "2026-08-09T12:00:28+00:00",
       "stories": [
         {
           "title": "Canadian Space Agency confirms continuation of Canadarm3 space robotics program",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-09T11:59:52+00:00",
+      "updatedAt": "2026-08-09T12:00:28+00:00",
       "stories": [
         {
           "title": "The Ant In The Room: How a Muskoka Startup Is Positioned to Protect Canada’s Defence Supply Chain",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-09T11:59:52+00:00",
+      "updatedAt": "2026-08-09T12:00:28+00:00",
       "stories": [
         {
           "title": "Senate passes stopgap funding bill",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-09T11:59:52+00:00",
+      "updatedAt": "2026-08-09T12:00:28+00:00",
       "stories": [
         {
           "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-09T11:59:52+00:00",
+      "updatedAt": "2026-08-09T12:00:28+00:00",
       "stories": [
         {
           "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-09T11:59:52+00:00",
+    "updatedAt": "2026-08-09T12:00:28+00:00",
     "stories": [
       {
         "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
@@ -561,10 +561,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
-        "url": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects",
-        "publishedAt": "2026-08-08T17:45:40+00:00",
-        "source": "SpaceNews",
+        "title": "The total solar eclipse on Aug. 12 will reveal something nobody has ever seen before",
+        "url": "https://www.space.com/stargazing/solar-eclipses/the-total-solar-eclipse-on-aug-12-will-reveal-something-nobody-has-ever-seen-before",
+        "publishedAt": "2026-08-09T12:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -597,6 +597,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
+        "url": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects",
+        "publishedAt": "2026-08-08T17:45:40+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Here's what to expect from 5 stages of the total solar eclipse 2026",
         "url": "https://www.space.com/stargazing/solar-eclipses/heres-what-to-expect-from-5-stages-of-the-total-solar-eclipse-2026",
         "publishedAt": "2026-08-09T06:00:00+00:00",
@@ -609,15 +618,6 @@
         "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
         "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-starlink-group-17-38-ocisly",
         "publishedAt": "2026-08-08T19:19:16+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "'Transformers: The Movie' at 40: the cartoon spin-off that traumatized a generation of kids",
-        "url": "https://www.space.com/entertainment/space-movies-shows/transformers-the-movie-at-40-the-cartoon-spin-off-that-traumatized-a-generation-of-kids",
-        "publishedAt": "2026-08-08T16:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -736,6 +736,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-22"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-21"
   ]
 }
