@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-09T13:56:55+00:00",
+  "generatedAt": "2026-08-09T14:00:37+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-09T13:56:55+00:00",
+      "updatedAt": "2026-08-09T14:00:37+00:00",
       "stories": [
+        {
+          "title": "Exploring 'very low Earth orbit': The world's 1st air-breathing satellite thruster could soon get a test run",
+          "url": "https://www.space.com/space-exploration/satellites/exploring-very-low-earth-orbit-the-worlds-1st-air-breathing-satellite-thruster-could-soon-get-a-test-run",
+          "publishedAt": "2026-08-09T14:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "On this day in space! Aug. 9, 1976: Soviet Luna 24 sample return probe launches to the moon",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-9-2026",
+          "publishedAt": "2026-08-09T14:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "The total solar eclipse on Aug. 12 will reveal something nobody has ever seen before",
           "url": "https://www.space.com/stargazing/solar-eclipses/the-total-solar-eclipse-on-aug-12-will-reveal-something-nobody-has-ever-seen-before",
@@ -17,18 +29,6 @@
           "url": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects",
           "publishedAt": "2026-08-08T17:45:40+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Here's what to expect from 5 stages of the total solar eclipse 2026",
-          "url": "https://www.space.com/stargazing/solar-eclipses/heres-what-to-expect-from-5-stages-of-the-total-solar-eclipse-2026",
-          "publishedAt": "2026-08-09T06:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-starlink-group-17-38-ocisly",
-          "publishedAt": "2026-08-08T19:19:16+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Senate installs new chiefs for U.S. military space acquisition, spy satellites",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-09T13:56:55+00:00",
+      "updatedAt": "2026-08-09T14:00:37+00:00",
       "stories": [
         {
           "title": "Canadian Space Agency confirms continuation of Canadarm3 space robotics program",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-09T13:56:55+00:00",
+      "updatedAt": "2026-08-09T14:00:37+00:00",
       "stories": [
         {
           "title": "The Ant In The Room: How a Muskoka Startup Is Positioned to Protect Canada’s Defence Supply Chain",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-09T13:56:55+00:00",
+      "updatedAt": "2026-08-09T14:00:37+00:00",
       "stories": [
         {
           "title": "Senate passes stopgap funding bill",
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-09T13:56:55+00:00",
+      "updatedAt": "2026-08-09T14:00:37+00:00",
       "stories": [
         {
           "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
@@ -353,12 +353,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
-          "publishedAt": "2026-08-07T21:30:11+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "AI designs working viruses from scratch",
           "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
           "publishedAt": "2026-08-07T09:00:00+00:00",
@@ -371,16 +365,40 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
-          "publishedAt": "2026-08-07T16:16:09+00:00",
-          "source": "TechCrunch AI"
+          "title": "GPT-5.6 Luna Became ChatGPT's Default Free Model (5 minute read)",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-          "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function",
-          "publishedAt": "2026-08-07T14:22:49+00:00",
-          "source": "TechCrunch AI"
+          "title": "AMD to Acquire AI Chip Startup Taalas (4 minute read)",
+          "url": "https://betakit.com/us-chip-giant-amd-to-acquire-taalas",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Tradeoffs in Open-Weights Models (9 minute read)",
+          "url": "https://www.astralcodexten.com/p/open-questions-on-open-weights",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "LoopX (GitHub Repo)",
+          "url": "https://github.com/huangruiteng/loopx",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How Modalities Learn Together (49 minute read)",
+          "url": "https://arxiv.org/abs/2608.05000",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones (9 minute read)",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones",
+          "publishedAt": "2026-08-07T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Google reshuffles AI leadership as rivals pull ahead",
@@ -405,31 +423,13 @@
           "url": "https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04",
           "publishedAt": "2026-08-05T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Business students go all in on AI amid demand surge",
-          "url": "https://kogod.american.edu/news/ai-at-kogod-a-three-year-student-research-report",
-          "publishedAt": "2026-08-05T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI labs head to the White House to discuss safety",
-          "url": "https://www.reuters.com/world/us-finalizes-voluntary-ai-safety-tests-white-house-official-says-2026-08-03",
-          "publishedAt": "2026-08-04T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Finance execs find AI skills more valuable than an MBA",
-          "url": "https://www.pwc.com/us/en/industries/financial-services/library/ai-workforce-gap-financial-services.html",
-          "publishedAt": "2026-08-04T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-09T13:56:55+00:00",
+      "updatedAt": "2026-08-09T14:00:37+00:00",
       "stories": [
         {
           "title": "Analog Devices returns as strategic sponsor to aid MassRobotics startups",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-09T13:56:55+00:00",
+    "updatedAt": "2026-08-09T14:00:37+00:00",
     "stories": [
       {
         "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
@@ -555,9 +555,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The total solar eclipse on Aug. 12 will reveal something nobody has ever seen before",
-        "url": "https://www.space.com/stargazing/solar-eclipses/the-total-solar-eclipse-on-aug-12-will-reveal-something-nobody-has-ever-seen-before",
-        "publishedAt": "2026-08-09T12:00:00+00:00",
+        "title": "Exploring 'very low Earth orbit': The world's 1st air-breathing satellite thruster could soon get a test run",
+        "url": "https://www.space.com/space-exploration/satellites/exploring-very-low-earth-orbit-the-worlds-1st-air-breathing-satellite-thruster-could-soon-get-a-test-run",
+        "publishedAt": "2026-08-09T14:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -591,28 +591,28 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "On this day in space! Aug. 9, 1976: Soviet Luna 24 sample return probe launches to the moon",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-9-2026",
+        "publishedAt": "2026-08-09T14:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "The total solar eclipse on Aug. 12 will reveal something nobody has ever seen before",
+        "url": "https://www.space.com/stargazing/solar-eclipses/the-total-solar-eclipse-on-aug-12-will-reveal-something-nobody-has-ever-seen-before",
+        "publishedAt": "2026-08-09T12:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
         "url": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects",
         "publishedAt": "2026-08-08T17:45:40+00:00",
         "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Here's what to expect from 5 stages of the total solar eclipse 2026",
-        "url": "https://www.space.com/stargazing/solar-eclipses/heres-what-to-expect-from-5-stages-of-the-total-solar-eclipse-2026",
-        "publishedAt": "2026-08-09T06:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "SpaceX launches 24 Starlink satellites to orbit from California (video)",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-starlink-group-17-38-ocisly",
-        "publishedAt": "2026-08-08T19:19:16+00:00",
-        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -729,7 +729,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-21"
-  ]
+  "warnings": []
 }
