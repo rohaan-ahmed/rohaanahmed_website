@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-10T19:00:29+00:00",
+  "generatedAt": "2026-08-10T19:11:11+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-10T19:00:29+00:00",
+      "updatedAt": "2026-08-10T19:11:11+00:00",
       "stories": [
         {
           "title": "Chinese Long March 7A rocket explodes shortly after liftoff",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-10T19:00:29+00:00",
+      "updatedAt": "2026-08-10T19:11:11+00:00",
       "stories": [
         {
           "title": "WildFireSat bulletin released, fall procurement seems likely",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-10T19:00:29+00:00",
+      "updatedAt": "2026-08-10T19:11:11+00:00",
       "stories": [
         {
           "title": "The Ant In The Room: How a Muskoka Startup Is Positioned to Protect Canada’s Defence Supply Chain",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-10T19:00:29+00:00",
+      "updatedAt": "2026-08-10T19:11:11+00:00",
       "stories": [
         {
           "title": "What to expect at America’s largest missile defense expo",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-10T19:00:29+00:00",
+      "updatedAt": "2026-08-10T19:11:11+00:00",
       "stories": [
         {
           "title": "OpenAI puts the safety brakes on Astra",
@@ -417,8 +417,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-10T19:00:29+00:00",
+      "updatedAt": "2026-08-10T19:11:11+00:00",
       "stories": [
+        {
+          "title": "Tate deploys 58 Hirebotics cobot welders across multiple facilities",
+          "url": "https://www.therobotreport.com/tate-deploys-58-hirebotics-cobot-welders-across-multiple-facilities",
+          "publishedAt": "2026-08-10T18:46:22+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "VicOne releases free NVIDIA Isaac Sim cybersecurity extension based on DEF CON 34 research",
           "url": "https://www.therobotreport.com/vicone-releases-free-nviida-isaac-sim-cybersecurity-extension-based-def-con-34-research",
@@ -492,12 +498,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "University of Florida opens new robotics lab dedicated to industrialized construction",
-          "url": "https://www.therobotreport.com/university-of-florida-opens-new-robotics-lab-dedicated-to-industrialized-construction",
-          "publishedAt": "2026-08-05T17:41:55+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
           "url": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
           "publishedAt": "2026-08-04T11:00:01+00:00",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-10T19:00:29+00:00",
+    "updatedAt": "2026-08-10T19:11:11+00:00",
     "stories": [
       {
         "title": "OpenAI puts the safety brakes on Astra",
@@ -570,9 +570,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "VicOne releases free NVIDIA Isaac Sim cybersecurity extension based on DEF CON 34 research",
-        "url": "https://www.therobotreport.com/vicone-releases-free-nviida-isaac-sim-cybersecurity-extension-based-def-con-34-research",
-        "publishedAt": "2026-08-10T17:07:10+00:00",
+        "title": "Tate deploys 58 Hirebotics cobot welders across multiple facilities",
+        "url": "https://www.therobotreport.com/tate-deploys-58-hirebotics-cobot-welders-across-multiple-facilities",
+        "publishedAt": "2026-08-10T18:46:22+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
