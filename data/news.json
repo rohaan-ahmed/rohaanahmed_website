@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-10T19:59:28+00:00",
+  "generatedAt": "2026-08-10T20:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-10T19:59:28+00:00",
+      "updatedAt": "2026-08-10T20:00:33+00:00",
       "stories": [
         {
           "title": "Chinese Long March 7A rocket explodes shortly after liftoff",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-10T19:59:28+00:00",
+      "updatedAt": "2026-08-10T20:00:33+00:00",
       "stories": [
         {
           "title": "WildFireSat bulletin released, fall procurement seems likely",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-10T19:59:28+00:00",
+      "updatedAt": "2026-08-10T20:00:33+00:00",
       "stories": [
         {
           "title": "The Ant In The Room: How a Muskoka Startup Is Positioned to Protect Canada’s Defence Supply Chain",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-10T19:59:28+00:00",
+      "updatedAt": "2026-08-10T20:00:33+00:00",
       "stories": [
         {
           "title": "USS Theodore Roosevelt becomes first carrier with built-in Unmanned Air Warfare Center",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-10T19:59:28+00:00",
+      "updatedAt": "2026-08-10T20:00:33+00:00",
       "stories": [
         {
           "title": "OpenAI puts the safety brakes on Astra",
@@ -341,6 +341,42 @@
           "source": "TechCrunch AI"
         },
         {
+          "title": "Claude Code Makes Auto Mode the Default (2 minute read)",
+          "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+          "publishedAt": "2026-08-10T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "xAI launches Imagine Image 2.0 in Grok Quality Mode (2 minute read)",
+          "url": "https://www.testingcatalog.com/xai-launches-imagine-image-2-0-in-grok-quality-mode",
+          "publishedAt": "2026-08-10T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "What Happened: OpenAI and HuggingFace (18 minute read)",
+          "url": "https://thezvi.wordpress.com/2026/08/08/what-happened-openai-and-huggingface",
+          "publishedAt": "2026-08-10T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How Cursor Router chooses the right model for the task (6 minute read)",
+          "url": "https://cursor.com/blog/how-cursor-router-works",
+          "publishedAt": "2026-08-10T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Google's Westinghouse Bet (9 minute read)",
+          "url": "https://asimovaddendum.substack.com/p/googles-westinghouse-bet",
+          "publishedAt": "2026-08-10T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Advanced AI Sycophancy (4 minute read)",
+          "url": "https://www.seangoedecke.com/advanced-ai-sycophancy",
+          "publishedAt": "2026-08-10T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
           "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
           "publishedAt": "2026-08-10T12:00:00+00:00",
@@ -350,24 +386,6 @@
           "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
           "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry",
           "publishedAt": "2026-08-09T20:35:17+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Anthropic is turning Claude Code’s auto mode on by default",
-          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
-          "publishedAt": "2026-08-09T19:20:32+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-          "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
-          "publishedAt": "2026-08-09T15:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "The AI safety test is becoming a safety risk",
-          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
-          "publishedAt": "2026-08-09T14:30:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -393,31 +411,13 @@
           "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
           "publishedAt": "2026-08-06T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic and OpenAI agents went rogue again",
-          "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
-          "publishedAt": "2026-08-05T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Apple and OpenAI trade fresh blows over trade secrets",
-          "url": "https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04",
-          "publishedAt": "2026-08-05T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Business students go all in on AI amid demand surge",
-          "url": "https://kogod.american.edu/news/ai-at-kogod-a-three-year-student-research-report",
-          "publishedAt": "2026-08-05T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-10T19:59:28+00:00",
+      "updatedAt": "2026-08-10T20:00:33+00:00",
       "stories": [
         {
           "title": "Tate deploys 58 Hirebotics cobot welders across multiple facilities",
@@ -430,12 +430,6 @@
           "url": "https://www.therobotreport.com/vicone-releases-free-nviida-isaac-sim-cybersecurity-extension-based-def-con-34-research",
           "publishedAt": "2026-08-10T17:07:10+00:00",
           "source": "The Robot Report"
-        },
-        {
-          "title": "Robot Recycler Salvages Parts from Broken Machines",
-          "url": "https://spectrum.ieee.org/recycling-robot",
-          "publishedAt": "2026-08-10T18:01:25+00:00",
-          "source": "IEEE Spectrum Robotics"
         },
         {
           "title": "Analog Devices returns as strategic sponsor to aid MassRobotics startups",
@@ -498,6 +492,12 @@
           "source": "The Robot Report"
         },
         {
+          "title": "GAM Enterprises to produce Schaeffler’s PSC gear reducers",
+          "url": "https://www.therobotreport.com/gam-enterprises-to-produce-schaefflers-psc-gear-reducers",
+          "publishedAt": "2026-08-05T19:00:21+00:00",
+          "source": "The Robot Report"
+        },
+        {
           "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
           "url": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
           "publishedAt": "2026-08-04T11:00:01+00:00",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-10T19:59:28+00:00",
+    "updatedAt": "2026-08-10T20:00:33+00:00",
     "stories": [
       {
         "title": "OpenAI puts the safety brakes on Astra",
@@ -717,7 +717,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-30"
-  ]
+  "warnings": []
 }
