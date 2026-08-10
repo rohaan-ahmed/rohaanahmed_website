@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-10T06:00:30+00:00",
+  "generatedAt": "2026-08-10T06:03:35+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-10T06:00:30+00:00",
+      "updatedAt": "2026-08-10T06:03:35+00:00",
       "stories": [
         {
           "title": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
@@ -13,16 +13,16 @@
           "source": "SpaceNews"
         },
         {
+          "title": "What time is the total solar eclipse on Aug. 12, 2026?",
+          "url": "https://www.space.com/stargazing/solar-eclipses/what-time-is-the-total-solar-eclipse-on-aug-12-2026",
+          "publishedAt": "2026-08-10T06:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "APOD: 2026 August 10 – Three Galaxy Pairs",
           "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs",
           "publishedAt": "2026-08-10T04:05:00+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Exploring 'very low Earth orbit': The world's 1st air-breathing satellite thruster could soon get a test run",
-          "url": "https://www.space.com/space-exploration/satellites/exploring-very-low-earth-orbit-the-worlds-1st-air-breathing-satellite-thruster-could-soon-get-a-test-run",
-          "publishedAt": "2026-08-09T14:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "On this day in space! Aug. 9, 1976: Soviet Luna 24 sample return probe launches to the moon",
@@ -31,9 +31,9 @@
           "source": "Space.com"
         },
         {
-          "title": "The total solar eclipse on Aug. 12 will reveal something nobody has ever seen before",
-          "url": "https://www.space.com/stargazing/solar-eclipses/the-total-solar-eclipse-on-aug-12-will-reveal-something-nobody-has-ever-seen-before",
-          "publishedAt": "2026-08-09T12:00:00+00:00",
+          "title": "Exploring 'very low Earth orbit': The world's 1st air-breathing satellite thruster could soon get a test run",
+          "url": "https://www.space.com/space-exploration/satellites/exploring-very-low-earth-orbit-the-worlds-1st-air-breathing-satellite-thruster-could-soon-get-a-test-run",
+          "publishedAt": "2026-08-09T14:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-10T06:00:30+00:00",
+      "updatedAt": "2026-08-10T06:03:35+00:00",
       "stories": [
         {
           "title": "Canadian Space Agency confirms continuation of Canadarm3 space robotics program",
@@ -156,7 +156,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-10T06:00:30+00:00",
+      "updatedAt": "2026-08-10T06:03:35+00:00",
       "stories": [
         {
           "title": "The Ant In The Room: How a Muskoka Startup Is Positioned to Protect Canada’s Defence Supply Chain",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-10T06:00:30+00:00",
+      "updatedAt": "2026-08-10T06:03:35+00:00",
       "stories": [
         {
           "title": "Senate passes stopgap funding bill",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-10T06:00:30+00:00",
+      "updatedAt": "2026-08-10T06:03:35+00:00",
       "stories": [
         {
           "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-10T06:00:30+00:00",
+      "updatedAt": "2026-08-10T06:03:35+00:00",
       "stories": [
         {
           "title": "Analog Devices returns as strategic sponsor to aid MassRobotics startups",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-10T06:00:30+00:00",
+    "updatedAt": "2026-08-10T06:03:35+00:00",
     "stories": [
       {
         "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -573,6 +573,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "What time is the total solar eclipse on Aug. 12, 2026?",
+        "url": "https://www.space.com/stargazing/solar-eclipses/what-time-is-the-total-solar-eclipse-on-aug-12-2026",
+        "publishedAt": "2026-08-10T06:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "APOD: 2026 August 10 – Three Galaxy Pairs",
         "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs",
         "publishedAt": "2026-08-10T04:05:00+00:00",
@@ -588,15 +597,6 @@
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Exploring 'very low Earth orbit': The world's 1st air-breathing satellite thruster could soon get a test run",
-        "url": "https://www.space.com/space-exploration/satellites/exploring-very-low-earth-orbit-the-worlds-1st-air-breathing-satellite-thruster-could-soon-get-a-test-run",
-        "publishedAt": "2026-08-09T14:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
