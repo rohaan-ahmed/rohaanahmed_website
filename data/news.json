@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-10T11:00:28+00:00",
+  "generatedAt": "2026-08-10T11:37:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-10T11:00:28+00:00",
+      "updatedAt": "2026-08-10T11:37:25+00:00",
       "stories": [
         {
           "title": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-10T11:00:28+00:00",
+      "updatedAt": "2026-08-10T11:37:25+00:00",
       "stories": [
+        {
+          "title": "MDA Space books $809 million in Q2 orders",
+          "url": "https://spaceq.ca/mda-space-books-809-million-in-q2",
+          "publishedAt": "2026-08-10T11:28:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Canadian Space Agency confirms continuation of Canadarm3 space robotics program",
           "url": "https://spaceq.ca/canadian-space-agency-confirms-continuation-of-canadarm3-space-robotics-program",
@@ -156,7 +162,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-10T11:00:28+00:00",
+      "updatedAt": "2026-08-10T11:37:25+00:00",
       "stories": [
         {
           "title": "The Ant In The Room: How a Muskoka Startup Is Positioned to Protect Canada’s Defence Supply Chain",
@@ -217,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-10T11:00:28+00:00",
+      "updatedAt": "2026-08-10T11:37:25+00:00",
       "stories": [
         {
           "title": "Marine Corps awards Epirus $11M for high-powered microwave program, company says",
@@ -314,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-10T11:00:28+00:00",
+      "updatedAt": "2026-08-10T11:37:25+00:00",
       "stories": [
         {
           "title": "OpenAI puts the safety brakes on Astra",
@@ -411,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-10T11:00:28+00:00",
+      "updatedAt": "2026-08-10T11:37:25+00:00",
       "stories": [
         {
           "title": "Analog Devices returns as strategic sponsor to aid MassRobotics startups",
@@ -507,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-10T11:00:28+00:00",
+    "updatedAt": "2026-08-10T11:37:25+00:00",
     "stories": [
       {
         "title": "OpenAI puts the safety brakes on Astra",
@@ -528,9 +534,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Canadian Space Agency confirms continuation of Canadarm3 space robotics program",
-        "url": "https://spaceq.ca/canadian-space-agency-confirms-continuation-of-canadarm3-space-robotics-program",
-        "publishedAt": "2026-08-07T18:33:52+00:00",
+        "title": "MDA Space books $809 million in Q2 orders",
+        "url": "https://spaceq.ca/mda-space-books-809-million-in-q2",
+        "publishedAt": "2026-08-10T11:28:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -712,6 +718,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-20"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-15"
   ]
 }
