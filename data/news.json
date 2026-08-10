@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-10T21:00:27+00:00",
+  "generatedAt": "2026-08-10T21:33:19+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-10T21:00:27+00:00",
+      "updatedAt": "2026-08-10T21:33:19+00:00",
       "stories": [
+        {
+          "title": "Rocket Lab builds deployable infrastructure for Electron launches",
+          "url": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches",
+          "publishedAt": "2026-08-10T21:31:34+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Kepler books Neutron for 2028 optical relay launch",
           "url": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch",
@@ -79,12 +85,6 @@
           "source": "NASA"
         },
         {
-          "title": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
-          "url": "https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft",
-          "publishedAt": "2026-08-10T00:55:19+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Launch Into a New School Year With NASA",
           "url": "https://www.nasa.gov/learning-resources/launch-into-a-new-school-year-with-nasa",
           "publishedAt": "2026-08-10T13:59:28+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-10T21:00:27+00:00",
+      "updatedAt": "2026-08-10T21:33:19+00:00",
       "stories": [
         {
           "title": "WildFireSat bulletin released, fall procurement seems likely",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-10T21:00:27+00:00",
+      "updatedAt": "2026-08-10T21:33:19+00:00",
       "stories": [
         {
           "title": "The Ant In The Room: How a Muskoka Startup Is Positioned to Protect Canada’s Defence Supply Chain",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-10T21:00:27+00:00",
+      "updatedAt": "2026-08-10T21:33:19+00:00",
       "stories": [
         {
           "title": "DARPA developing hypersonic cruise missile to evade enemy air defenses",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-10T21:00:27+00:00",
+      "updatedAt": "2026-08-10T21:33:19+00:00",
       "stories": [
         {
           "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-10T21:00:27+00:00",
+      "updatedAt": "2026-08-10T21:33:19+00:00",
       "stories": [
         {
           "title": "Tate deploys 58 Hirebotics cobot welders across multiple facilities",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-10T21:00:27+00:00",
+    "updatedAt": "2026-08-10T21:33:19+00:00",
     "stories": [
       {
         "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Kepler books Neutron for 2028 optical relay launch",
-        "url": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch",
-        "publishedAt": "2026-08-10T20:25:23+00:00",
+        "title": "Rocket Lab builds deployable infrastructure for Electron launches",
+        "url": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches",
+        "publishedAt": "2026-08-10T21:31:34+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -579,6 +579,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Kepler books Neutron for 2028 optical relay launch",
+        "url": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch",
+        "publishedAt": "2026-08-10T20:25:23+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "In Defence of Canada briefing: A $2.3B space communications contract and the SpaceX rideshare launch freeze",
         "url": "https://spaceq.ca/in-defence-of-canada-briefing-a-2-3b-space-communications-contract-and-the-spacex-rideshare-launch-freeze",
         "publishedAt": "2026-08-10T16:05:10+00:00",
@@ -591,15 +600,6 @@
         "title": "Chinese Long March 7A rocket explodes shortly after liftoff",
         "url": "https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff",
         "publishedAt": "2026-08-10T13:24:02+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "National security doesn’t need more maps or imagery; it needs measurement",
-        "url": "https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement",
-        "publishedAt": "2026-08-10T13:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -718,6 +718,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-16"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-27"
   ]
 }
