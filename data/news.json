@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T02:00:29+00:00",
+  "generatedAt": "2026-08-11T02:38:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-11T02:00:29+00:00",
+      "updatedAt": "2026-08-11T02:38:26+00:00",
       "stories": [
         {
           "title": "Rocket Lab builds deployable infrastructure for Electron launches",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-11T02:00:29+00:00",
+      "updatedAt": "2026-08-11T02:38:26+00:00",
       "stories": [
         {
           "title": "WildFireSat bulletin released, fall procurement seems likely",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-11T02:00:29+00:00",
+      "updatedAt": "2026-08-11T02:38:26+00:00",
       "stories": [
         {
           "title": "The Ant In The Room: How a Muskoka Startup Is Positioned to Protect Canada’s Defence Supply Chain",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-11T02:00:29+00:00",
+      "updatedAt": "2026-08-11T02:38:26+00:00",
       "stories": [
         {
           "title": "Hanwha Defense USA seeks to acquire Austal USA in $1.2B potential deal",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-11T02:00:29+00:00",
+      "updatedAt": "2026-08-11T02:38:26+00:00",
       "stories": [
         {
           "title": "OpenAI reportedly completed a $7 billion employee tender offer",
@@ -353,22 +353,40 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-          "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym",
-          "publishedAt": "2026-08-10T20:04:24+00:00",
-          "source": "TechCrunch AI"
+          "title": "Claude Code Makes Auto Mode the Default (2 minute read)",
+          "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+          "publishedAt": "2026-08-10T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-          "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision",
-          "publishedAt": "2026-08-10T16:20:13+00:00",
-          "source": "TechCrunch AI"
+          "title": "xAI launches Imagine Image 2.0 in Grok Quality Mode (2 minute read)",
+          "url": "https://www.testingcatalog.com/xai-launches-imagine-image-2-0-in-grok-quality-mode",
+          "publishedAt": "2026-08-10T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-          "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
-          "publishedAt": "2026-08-10T12:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "What Happened: OpenAI and HuggingFace (18 minute read)",
+          "url": "https://thezvi.wordpress.com/2026/08/08/what-happened-openai-and-huggingface",
+          "publishedAt": "2026-08-10T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How Cursor Router chooses the right model for the task (6 minute read)",
+          "url": "https://cursor.com/blog/how-cursor-router-works",
+          "publishedAt": "2026-08-10T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Google's Westinghouse Bet (9 minute read)",
+          "url": "https://asimovaddendum.substack.com/p/googles-westinghouse-bet",
+          "publishedAt": "2026-08-10T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Advanced AI Sycophancy (4 minute read)",
+          "url": "https://www.seangoedecke.com/advanced-ai-sycophancy",
+          "publishedAt": "2026-08-10T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "AI designs working viruses from scratch",
@@ -393,31 +411,13 @@
           "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
           "publishedAt": "2026-08-06T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic and OpenAI agents went rogue again",
-          "url": "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
-          "publishedAt": "2026-08-05T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Apple and OpenAI trade fresh blows over trade secrets",
-          "url": "https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04",
-          "publishedAt": "2026-08-05T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Business students go all in on AI amid demand surge",
-          "url": "https://kogod.american.edu/news/ai-at-kogod-a-three-year-student-research-report",
-          "publishedAt": "2026-08-05T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-11T02:00:29+00:00",
+      "updatedAt": "2026-08-11T02:38:26+00:00",
       "stories": [
         {
           "title": "RoboStore launches Robo Inc. to help U.S. organizations deploy robots",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-11T02:00:29+00:00",
+    "updatedAt": "2026-08-11T02:38:26+00:00",
     "stories": [
       {
         "title": "OpenAI reportedly completed a $7 billion employee tender offer",
@@ -717,7 +717,5 @@
       "feed": "https://techcrunch.com/category/robotics/feed/"
     }
   ],
-  "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-27"
-  ]
+  "warnings": []
 }
