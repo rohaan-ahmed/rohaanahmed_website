@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T21:26:11+00:00",
+  "generatedAt": "2026-08-11T22:00:36+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-11T21:26:11+00:00",
+      "updatedAt": "2026-08-11T22:00:36+00:00",
       "stories": [
         {
           "title": "National lab visit boosts NASA’s confidence in space nuclear propulsion mission",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-11T21:26:11+00:00",
+      "updatedAt": "2026-08-11T22:00:36+00:00",
       "stories": [
+        {
+          "title": "GHGSat satellites C-16 and C-17 achieve first light with methane detections",
+          "url": "https://spaceq.ca/ghgsat-satellites-c-16-and-c-17-achieve-first-light-with-methane-detections",
+          "publishedAt": "2026-08-11T21:42:56+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Canadian Space Agency returns to the stratosphere for ICARUS 2026",
           "url": "https://spaceq.ca/canadian-space-agency-returns-to-the-stratosphere-for-icarus-2026",
@@ -162,19 +168,13 @@
           "url": "https://spaceq.ca/the-canadian-space-agency-opens-2-4-million-cubics-2026-opportunity-for-university-cubesat-projects",
           "publishedAt": "2026-08-05T16:00:58+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "Defence Investment Agency awards Telesat and MDA Space a major Arctic security connectivity contract initially valued at $2.3 billion",
-          "url": "https://spaceq.ca/defence-investment-agency-awards-telesat-and-mda-space-a-major-arctic-security-connectivity-contract-initially-valued-at-2-3-billion",
-          "publishedAt": "2026-08-04T20:52:06+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-11T21:26:11+00:00",
+      "updatedAt": "2026-08-11T22:00:36+00:00",
       "stories": [
         {
           "title": "Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed Systems Accelerator 2026",
@@ -205,10 +205,16 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-11T21:26:11+00:00",
+      "updatedAt": "2026-08-11T22:00:36+00:00",
       "stories": [
         {
-          "title": "A peek at day 1 of the 2026 Space and Missile Defense Symposium",
+          "title": "Army awards 6 companies prototype contracts for last tactical mile program",
+          "url": "https://breakingdefense.com/2026/08/army-awards-six-companies-prototype-contracts-for-last-tactical-mile-program",
+          "publishedAt": "2026-08-11T21:45:00+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "A peek at Day 1 of the 2026 Space and Missile Defense Symposium",
           "url": "https://breakingdefense.com/2026/08/a-peek-at-day-1-of-the-2026-space-and-missile-defense-symposium",
           "publishedAt": "2026-08-11T21:23:47+00:00",
           "source": "Breaking Defense"
@@ -229,12 +235,6 @@
           "title": "‘No such thing as a regional conflict anymore,’ STRATCOM chief says",
           "url": "https://breakingdefense.com/2026/08/no-such-thing-as-a-regional-conflict-anymore-stratcom-chief-says",
           "publishedAt": "2026-08-11T19:45:26+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Boeing, Northrop unveil low-cost intercept tech",
-          "url": "https://breakingdefense.com/2026/08/boeing-northrop-unveil-low-cost-intercept-tech",
-          "publishedAt": "2026-08-11T19:42:15+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -302,8 +302,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-11T21:26:11+00:00",
+      "updatedAt": "2026-08-11T22:00:36+00:00",
       "stories": [
+        {
+          "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+          "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last",
+          "publishedAt": "2026-08-11T21:39:11+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Meta returns to open-source roots with Glimmer",
           "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
@@ -329,34 +335,46 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Google’s Gemini app surges to one billion users",
+          "title": "Google’s Gemini app surges to 1 billion users",
           "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
           "publishedAt": "2026-08-11T18:49:12+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
-          "publishedAt": "2026-08-11T17:41:34+00:00",
-          "source": "TechCrunch AI"
+          "title": "Learning more about Claude's mathematical capabilities (6 minute read)",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
-          "publishedAt": "2026-08-11T17:41:22+00:00",
-          "source": "TechCrunch AI"
+          "title": "Exploring Claude/GPT Knowledge Cutoffs & Pre-training Timelines (8 minute read)",
+          "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
-          "publishedAt": "2026-08-11T16:25:20+00:00",
-          "source": "TechCrunch AI"
+          "title": "Building an AI-Native Finance Team (11 minute read)",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-          "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations",
-          "publishedAt": "2026-08-11T13:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Are Agents Really Killing UI? (9 minute read)",
+          "url": "https://x.com/posthog/status/2086896332862886283",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Qwen-MM-Plugins (GitHub Repo)",
+          "url": "https://github.com/QwenLM/Qwen-MM-Plugins",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "A Controlled Study of Attention-Only Transformers (1 minute read)",
+          "url": "https://arxiv.org/abs/2607.18363",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI puts the safety brakes on Astra",
@@ -375,31 +393,13 @@
           "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
           "publishedAt": "2026-08-07T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic solves Fable 5’s biggest problem",
-          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-          "publishedAt": "2026-08-07T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Google reshuffles AI leadership as rivals pull ahead",
-          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum",
-          "publishedAt": "2026-08-06T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Meta joins coding-agent race with Muse Code",
-          "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-          "publishedAt": "2026-08-06T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-11T21:26:11+00:00",
+      "updatedAt": "2026-08-11T22:00:36+00:00",
       "stories": [
         {
           "title": "Defense drone developer Cambridge Aerospace raises $300M",
@@ -495,8 +495,17 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-11T21:26:11+00:00",
+    "updatedAt": "2026-08-11T22:00:36+00:00",
     "stories": [
+      {
+        "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+        "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last",
+        "publishedAt": "2026-08-11T21:39:11+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "lead"
+      },
       {
         "title": "Meta returns to open-source roots with Glimmer",
         "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
@@ -507,18 +516,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI expands ‘Daybreak’ for stronger cyber use",
-        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-        "publishedAt": "2026-08-11T09:00:00+00:00",
-        "source": "The Rundown AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
-        "bulletinRole": "lead"
-      },
-      {
-        "title": "Canadian Space Agency returns to the stratosphere for ICARUS 2026",
-        "url": "https://spaceq.ca/canadian-space-agency-returns-to-the-stratosphere-for-icarus-2026",
-        "publishedAt": "2026-08-11T20:09:25+00:00",
+        "title": "GHGSat satellites C-16 and C-17 achieve first light with methane detections",
+        "url": "https://spaceq.ca/ghgsat-satellites-c-16-and-c-17-achieve-first-light-with-methane-detections",
+        "publishedAt": "2026-08-11T21:42:56+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "A peek at day 1 of the 2026 Space and Missile Defense Symposium",
-        "url": "https://breakingdefense.com/2026/08/a-peek-at-day-1-of-the-2026-space-and-missile-defense-symposium",
-        "publishedAt": "2026-08-11T21:23:47+00:00",
+        "title": "Army awards 6 companies prototype contracts for last tactical mile program",
+        "url": "https://breakingdefense.com/2026/08/army-awards-six-companies-prototype-contracts-for-last-tactical-mile-program",
+        "publishedAt": "2026-08-11T21:45:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -559,6 +559,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Canadian Space Agency returns to the stratosphere for ICARUS 2026",
+        "url": "https://spaceq.ca/canadian-space-agency-returns-to-the-stratosphere-for-icarus-2026",
+        "publishedAt": "2026-08-11T20:09:25+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Golden Dome money starting to reach contractors, but long-term funding still unclear",
@@ -576,15 +585,6 @@
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026",
-        "url": "https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026",
-        "publishedAt": "2026-08-11T14:58:05+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -700,7 +700,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-21"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
