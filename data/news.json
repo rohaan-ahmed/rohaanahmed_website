@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T15:33:57+00:00",
+  "generatedAt": "2026-08-11T16:00:38+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-11T15:33:57+00:00",
+      "updatedAt": "2026-08-11T16:00:38+00:00",
       "stories": [
         {
           "title": "Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-11T15:33:57+00:00",
+      "updatedAt": "2026-08-11T16:00:38+00:00",
       "stories": [
+        {
+          "title": "Canadian robotics, mission controllers celebrated during NASA Johnson Space Center tour",
+          "url": "https://spaceq.ca/canadian-robotics-mission-controllers-celebrated-during-nasa-johnson-space-center-tour",
+          "publishedAt": "2026-08-11T15:56:09+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "WildFireSat bulletin released, fall procurement seems likely",
           "url": "https://spaceq.ca/wildfiresat-bulletin-released-fall-procurement-seems-likely",
@@ -168,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-11T15:33:57+00:00",
+      "updatedAt": "2026-08-11T16:00:38+00:00",
       "stories": [
         {
           "title": "Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed Systems Accelerator 2026",
@@ -199,8 +205,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-11T15:33:57+00:00",
+      "updatedAt": "2026-08-11T16:00:38+00:00",
       "stories": [
+        {
+          "title": "Fatalities at CYBERCOM merit Pentagon intervention",
+          "url": "https://breakingdefense.com/2026/08/fatalities-at-cybercom-merit-pentagon-intervention",
+          "publishedAt": "2026-08-11T15:54:03+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Colby pushes back on dwindling stockpile reports amid Southeast Asia tour",
+          "url": "https://www.defensenews.com/global/asia-pacific/2026/08/11/colby-pushes-back-on-dwindling-stockpile-reports-amid-southeast-asia-tour",
+          "publishedAt": "2026-08-11T15:49:20+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Pentagon gives industry 21 days to submit plans for ‘significantly faster’ weapons production",
           "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/11/pentagon-gives-industry-21-days-to-submit-plans-for-significantly-faster-weapons-production",
@@ -250,21 +268,9 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "USS Theodore Roosevelt becomes first carrier with built-in Unmanned Air Warfare Center",
-          "url": "https://www.defensenews.com/news/your-military/2026/08/10/uss-theodore-roosevelt-becomes-first-carrier-with-built-in-unmanned-air-warfare-center",
-          "publishedAt": "2026-08-10T19:39:58+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "What to expect at America’s largest missile defense expo",
           "url": "https://breakingdefense.com/2026/08/what-to-expect-at-americas-largest-missile-defense-expo",
           "publishedAt": "2026-08-10T18:00:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "The defense sector is under water: Maritime investments reflect growing threats",
-          "url": "https://breakingdefense.com/2026/08/the-defense-sector-is-under-water-maritime-investments-reflect-growing-threats",
-          "publishedAt": "2026-08-10T17:13:00+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -296,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-11T15:33:57+00:00",
+      "updatedAt": "2026-08-11T16:00:38+00:00",
       "stories": [
         {
           "title": "Meta returns to open-source roots with Glimmer",
@@ -393,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-11T15:33:57+00:00",
+      "updatedAt": "2026-08-11T16:00:38+00:00",
       "stories": [
         {
           "title": "Webinar to discuss safety and scaling robot fleets in the warehouse",
@@ -489,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-11T15:33:57+00:00",
+    "updatedAt": "2026-08-11T16:00:38+00:00",
     "stories": [
       {
         "title": "Meta returns to open-source roots with Glimmer",
@@ -510,9 +516,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "WildFireSat bulletin released, fall procurement seems likely",
-        "url": "https://spaceq.ca/wildfiresat-bulletin-released-fall-procurement-seems-likely",
-        "publishedAt": "2026-08-10T17:45:00+00:00",
+        "title": "Canadian robotics, mission controllers celebrated during NASA Johnson Space Center tour",
+        "url": "https://spaceq.ca/canadian-robotics-mission-controllers-celebrated-during-nasa-johnson-space-center-tour",
+        "publishedAt": "2026-08-11T15:56:09+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -537,10 +543,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Pentagon gives industry 21 days to submit plans for ‘significantly faster’ weapons production",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/11/pentagon-gives-industry-21-days-to-submit-plans-for-significantly-faster-weapons-production",
-        "publishedAt": "2026-08-11T14:54:22+00:00",
-        "source": "Defense News",
+        "title": "Fatalities at CYBERCOM merit Pentagon intervention",
+        "url": "https://breakingdefense.com/2026/08/fatalities-at-cybercom-merit-pentagon-intervention",
+        "publishedAt": "2026-08-11T15:54:03+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
