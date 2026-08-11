@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-11T09:35:48+00:00",
+  "generatedAt": "2026-08-11T10:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-11T09:35:48+00:00",
+      "updatedAt": "2026-08-11T10:00:29+00:00",
       "stories": [
+        {
+          "title": "H3 launches navigation satellite",
+          "url": "https://spacenews.com/h3-launches-navigation-satellite",
+          "publishedAt": "2026-08-11T09:52:19+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Rocket Lab builds deployable infrastructure for Electron launches",
           "url": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches",
@@ -73,12 +79,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite",
-          "url": "https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite",
-          "publishedAt": "2026-08-10T12:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "'Launching anywhere, anytime and without compromise': Rocket Lab unveils new 'GHOST' portable spaceport system",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/launching-anywhere-anytime-and-without-compromise-rocket-lab-unveils-new-ghost-portable-spaceport-system",
           "publishedAt": "2026-08-10T22:43:51+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-11T09:35:48+00:00",
+      "updatedAt": "2026-08-11T10:00:29+00:00",
       "stories": [
         {
           "title": "WildFireSat bulletin released, fall procurement seems likely",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-11T09:35:48+00:00",
+      "updatedAt": "2026-08-11T10:00:29+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes Alberta visit focused on innovation and strengthening Canada’s defence capabilities",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-11T09:35:48+00:00",
+      "updatedAt": "2026-08-11T10:00:29+00:00",
       "stories": [
         {
           "title": "Hanwha Defense USA seeks to acquire Austal USA in $1.2B potential deal",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-11T09:35:48+00:00",
+      "updatedAt": "2026-08-11T10:00:29+00:00",
       "stories": [
         {
           "title": "Meta returns to open-source roots with Glimmer",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-11T09:35:48+00:00",
+      "updatedAt": "2026-08-11T10:00:29+00:00",
       "stories": [
         {
           "title": "RoboStore launches Robo Inc. to help U.S. organizations deploy robots",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-11T09:35:48+00:00",
+    "updatedAt": "2026-08-11T10:00:29+00:00",
     "stories": [
       {
         "title": "Meta returns to open-source roots with Glimmer",
@@ -513,9 +513,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Rocket Lab builds deployable infrastructure for Electron launches",
-        "url": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches",
-        "publishedAt": "2026-08-10T21:31:34+00:00",
+        "title": "H3 launches navigation satellite",
+        "url": "https://spacenews.com/h3-launches-navigation-satellite",
+        "publishedAt": "2026-08-11T09:52:19+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -558,17 +558,17 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Dust and water spotted close to giant black hole",
-        "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole",
-        "publishedAt": "2026-08-11T08:00:00+00:00",
-        "source": "European Space Agency",
+        "title": "Rocket Lab builds deployable infrastructure for Electron launches",
+        "url": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches",
+        "publishedAt": "2026-08-10T21:31:34+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Sophie Adenot’s first spacewalk",
-        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Sophie_Adenot_s_first_spacewalk",
+        "title": "Dust and water spotted close to giant black hole",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole",
         "publishedAt": "2026-08-11T08:00:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
