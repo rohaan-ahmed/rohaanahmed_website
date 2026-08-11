@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-11T13:00:32+00:00",
+  "generatedAt": "2026-08-11T13:35:00+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-11T13:00:32+00:00",
+      "updatedAt": "2026-08-11T13:35:00+00:00",
       "stories": [
+        {
+          "title": "Former Space Force general joins Lunar Outpost board",
+          "url": "https://spacenews.com/former-space-force-general-joins-lunar-outpost-board",
+          "publishedAt": "2026-08-11T13:00:00+00:00",
+          "source": "SpaceNews"
+        },
+        {
+          "title": "BlackSky wins seven-figure, multiyear international contract",
+          "url": "https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract",
+          "publishedAt": "2026-08-11T12:30:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
           "url": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base",
@@ -31,16 +43,16 @@
           "source": "SpaceNews"
         },
         {
+          "title": "SpaceX wants to put 1 million AI satellites in orbit. What would that do to Earth's climate?",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-put-1-million-ai-satellites-in-orbit-what-would-that-do-to-earths-climate",
+          "publishedAt": "2026-08-11T13:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "Will Perseid shooting stars be visible during the Aug. 12 total solar eclipse?",
           "url": "https://www.space.com/stargazing/meteor-showers/will-perseid-shooting-stars-be-visible-during-the-aug-12-total-solar-eclipse",
           "publishedAt": "2026-08-11T12:00:00+00:00",
           "source": "Space.com"
-        },
-        {
-          "title": "Rocket Lab builds deployable infrastructure for Electron launches",
-          "url": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches",
-          "publishedAt": "2026-08-10T21:31:34+00:00",
-          "source": "SpaceNews"
         },
         {
           "title": "Dust and water spotted close to giant black hole",
@@ -53,12 +65,6 @@
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Sophie_Adenot_s_first_spacewalk",
           "publishedAt": "2026-08-11T08:00:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Kepler books Neutron for 2028 optical relay launch",
-          "url": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch",
-          "publishedAt": "2026-08-10T20:25:23+00:00",
-          "source": "SpaceNews"
         },
         {
           "title": "Watch the total solar eclipse online Aug. 12 with these free livestreams",
@@ -85,12 +91,6 @@
           "source": "NASA"
         },
         {
-          "title": "'Launching anywhere, anytime and without compromise': Rocket Lab unveils new 'GHOST' portable spaceport system",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/launching-anywhere-anytime-and-without-compromise-rocket-lab-unveils-new-ghost-portable-spaceport-system",
-          "publishedAt": "2026-08-10T22:43:51+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Lion Nebula roars to life for Webb",
           "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Lion_Nebula_roars_to_life_for_Webb",
           "publishedAt": "2026-08-10T14:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-11T13:00:32+00:00",
+      "updatedAt": "2026-08-11T13:35:00+00:00",
       "stories": [
         {
           "title": "WildFireSat bulletin released, fall procurement seems likely",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-11T13:00:32+00:00",
+      "updatedAt": "2026-08-11T13:35:00+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes Alberta visit focused on innovation and strengthening Canada’s defence capabilities",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-11T13:00:32+00:00",
+      "updatedAt": "2026-08-11T13:35:00+00:00",
       "stories": [
         {
           "title": "Biodefense is force protection: Ready today, prepared for tomorrow",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-11T13:00:32+00:00",
+      "updatedAt": "2026-08-11T13:35:00+00:00",
       "stories": [
         {
           "title": "Meta returns to open-source roots with Glimmer",
@@ -309,6 +309,42 @@
           "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
           "publishedAt": "2026-08-11T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Learning more about Claude's mathematical capabilities (6 minute read)",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Exploring Claude/GPT Knowledge Cutoffs & Pre-training Timelines (8 minute read)",
+          "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Building an AI-Native Finance Team (11 minute read)",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Are Agents Really Killing UI? (9 minute read)",
+          "url": "https://x.com/posthog/status/2086896332862886283",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "h3-metal (GitHub Repo)",
+          "url": "https://github.com/antirez/h3.c",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Qwen-MM-Plugins (GitHub Repo)",
+          "url": "https://github.com/QwenLM/Qwen-MM-Plugins",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
@@ -341,42 +377,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Claude Code Makes Auto Mode the Default (2 minute read)",
-          "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-          "publishedAt": "2026-08-10T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "xAI launches Imagine Image 2.0 in Grok Quality Mode (2 minute read)",
-          "url": "https://www.testingcatalog.com/xai-launches-imagine-image-2-0-in-grok-quality-mode",
-          "publishedAt": "2026-08-10T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "What Happened: OpenAI and HuggingFace (18 minute read)",
-          "url": "https://thezvi.wordpress.com/2026/08/08/what-happened-openai-and-huggingface",
-          "publishedAt": "2026-08-10T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How Cursor Router chooses the right model for the task (6 minute read)",
-          "url": "https://cursor.com/blog/how-cursor-router-works",
-          "publishedAt": "2026-08-10T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Google's Westinghouse Bet (9 minute read)",
-          "url": "https://asimovaddendum.substack.com/p/googles-westinghouse-bet",
-          "publishedAt": "2026-08-10T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Advanced AI Sycophancy (4 minute read)",
-          "url": "https://www.seangoedecke.com/advanced-ai-sycophancy",
-          "publishedAt": "2026-08-10T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "AI designs working viruses from scratch",
           "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
           "publishedAt": "2026-08-07T09:00:00+00:00",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-11T13:00:32+00:00",
+      "updatedAt": "2026-08-11T13:35:00+00:00",
       "stories": [
         {
           "title": "RoboStore launches Robo Inc. to help U.S. organizations deploy robots",
@@ -412,6 +412,12 @@
           "url": "https://www.therobotreport.com/vicone-releases-free-nviida-isaac-sim-cybersecurity-extension-based-def-con-34-research",
           "publishedAt": "2026-08-10T17:07:10+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "Robot Recycler Salvages Parts from Broken Machines",
+          "url": "https://spectrum.ieee.org/recycling-robot",
+          "publishedAt": "2026-08-10T18:01:25+00:00",
+          "source": "IEEE Spectrum Robotics"
         },
         {
           "title": "Analog Devices returns as strategic sponsor to aid MassRobotics startups",
@@ -462,12 +468,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Report looks at advances in autonomous mobile robots",
-          "url": "https://www.therobotreport.com/report-looks-at-advances-in-autonomous-mobile-robots",
-          "publishedAt": "2026-08-06T12:26:58+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
           "url": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
           "publishedAt": "2026-08-04T11:00:01+00:00",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-11T13:00:32+00:00",
+    "updatedAt": "2026-08-11T13:35:00+00:00",
     "stories": [
       {
         "title": "Meta returns to open-source roots with Glimmer",
@@ -513,9 +513,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
-        "url": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base",
-        "publishedAt": "2026-08-11T12:02:48+00:00",
+        "title": "Former Space Force general joins Lunar Outpost board",
+        "url": "https://spacenews.com/former-space-force-general-joins-lunar-outpost-board",
+        "publishedAt": "2026-08-11T13:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -549,27 +549,27 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "BlackSky wins seven-figure, multiyear international contract",
+        "url": "https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract",
+        "publishedAt": "2026-08-11T12:30:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
+        "url": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base",
+        "publishedAt": "2026-08-11T12:02:48+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "First Neutron launch may slip to 2027",
         "url": "https://spacenews.com/first-neutron-launch-may-slip-to-2027",
         "publishedAt": "2026-08-11T11:13:24+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors",
-        "url": "https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors",
-        "publishedAt": "2026-08-11T10:00:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "H3 launches navigation satellite",
-        "url": "https://spacenews.com/h3-launches-navigation-satellite",
-        "publishedAt": "2026-08-11T09:52:19+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
