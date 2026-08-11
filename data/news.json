@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T16:29:10+00:00",
+  "generatedAt": "2026-08-11T17:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-11T16:29:10+00:00",
+      "updatedAt": "2026-08-11T17:00:29+00:00",
       "stories": [
         {
           "title": "Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-11T16:29:10+00:00",
+      "updatedAt": "2026-08-11T17:00:29+00:00",
       "stories": [
         {
           "title": "Canadian robotics, mission controllers celebrated during NASA Johnson Space Center tour",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-11T16:29:10+00:00",
+      "updatedAt": "2026-08-11T17:00:29+00:00",
       "stories": [
         {
           "title": "Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed Systems Accelerator 2026",
@@ -205,8 +205,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-11T16:29:10+00:00",
+      "updatedAt": "2026-08-11T17:00:29+00:00",
       "stories": [
+        {
+          "title": "Army needs ‘comprehensive missile defeat strategy’ to address air defense challenges",
+          "url": "https://breakingdefense.com/2026/08/army-needs-comprehensive-missile-defeat-strategy-to-address-air-defense-challenges",
+          "publishedAt": "2026-08-11T16:31:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Fatalities at CYBERCOM merit Pentagon intervention",
           "url": "https://breakingdefense.com/2026/08/fatalities-at-cybercom-merit-pentagon-intervention",
@@ -230,6 +236,12 @@
           "url": "https://www.defensenews.com/news/your-military/2026/08/11/lockheed-martin-launches-modular-missile-tech-with-dedicated-storefront",
           "publishedAt": "2026-08-11T14:38:29+00:00",
           "source": "Defense News"
+        },
+        {
+          "title": "MDA pursuing mobile radar to detect and track hypersonic missiles, other advanced threats",
+          "url": "https://defensescoop.com/2026/08/11/mobile-radar-track-hypersonic-missiles-mda",
+          "publishedAt": "2026-08-11T16:49:05+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Biodefense is force protection: Ready today, prepared for tomorrow",
@@ -268,12 +280,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "What to expect at America’s largest missile defense expo",
-          "url": "https://breakingdefense.com/2026/08/what-to-expect-at-americas-largest-missile-defense-expo",
-          "publishedAt": "2026-08-10T18:00:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "DARPA looking to develop ‘foundation’ of next-generation hypersonic missile work",
           "url": "https://defensescoop.com/2026/08/10/darpa-next-generation-hypersonic-cruise-missile",
           "publishedAt": "2026-08-10T19:49:15+00:00",
@@ -290,19 +296,13 @@
           "url": "https://defensescoop.com/2026/08/07/pentagon-war-data-platform-integration-plans-under-scrutiny",
           "publishedAt": "2026-08-07T21:10:09+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Army attempting to cut tech-testing wait times down to 30 days through base access, scheduling website",
-          "url": "https://defensescoop.com/2026/08/07/army-test-range-access-scheduling-website-dan-driscoll",
-          "publishedAt": "2026-08-07T18:32:40+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-11T16:29:10+00:00",
+      "updatedAt": "2026-08-11T17:00:29+00:00",
       "stories": [
         {
           "title": "Meta returns to open-source roots with Glimmer",
@@ -353,14 +353,14 @@
           "source": "TLDR AI"
         },
         {
-          "title": "h3-metal (GitHub Repo)",
-          "url": "https://github.com/antirez/h3.c",
+          "title": "Qwen-MM-Plugins (GitHub Repo)",
+          "url": "https://github.com/QwenLM/Qwen-MM-Plugins",
           "publishedAt": "2026-08-11T00:00:00+00:00",
           "source": "TLDR AI"
         },
         {
-          "title": "Qwen-MM-Plugins (GitHub Repo)",
-          "url": "https://github.com/QwenLM/Qwen-MM-Plugins",
+          "title": "A Controlled Study of Attention-Only Transformers (1 minute read)",
+          "url": "https://arxiv.org/abs/2607.18363",
           "publishedAt": "2026-08-11T00:00:00+00:00",
           "source": "TLDR AI"
         },
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-11T16:29:10+00:00",
+      "updatedAt": "2026-08-11T17:00:29+00:00",
       "stories": [
         {
           "title": "Webinar to discuss safety and scaling robot fleets in the warehouse",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-11T16:29:10+00:00",
+    "updatedAt": "2026-08-11T17:00:29+00:00",
     "stories": [
       {
         "title": "Meta returns to open-source roots with Glimmer",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Fatalities at CYBERCOM merit Pentagon intervention",
-        "url": "https://breakingdefense.com/2026/08/fatalities-at-cybercom-merit-pentagon-intervention",
-        "publishedAt": "2026-08-11T15:54:03+00:00",
+        "title": "Army needs ‘comprehensive missile defeat strategy’ to address air defense challenges",
+        "url": "https://breakingdefense.com/2026/08/army-needs-comprehensive-missile-defeat-strategy-to-address-air-defense-challenges",
+        "publishedAt": "2026-08-11T16:31:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
