@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-11T22:00:36+00:00",
+  "generatedAt": "2026-08-11T22:22:01+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-11T22:00:36+00:00",
+      "updatedAt": "2026-08-11T22:22:01+00:00",
       "stories": [
+        {
+          "title": "Golden Dome faces 2027 funding cliff",
+          "url": "https://spacenews.com/golden-dome-faces-2027-funding-cliff",
+          "publishedAt": "2026-08-11T22:01:21+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "National lab visit boosts NASA’s confidence in space nuclear propulsion mission",
           "url": "https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission",
@@ -34,12 +40,6 @@
           "title": "SpaceX increasing footprint in missile defense",
           "url": "https://spacenews.com/spacex-increasing-footprint-in-missile-defense",
           "publishedAt": "2026-08-11T14:34:01+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Former Space Force general joins Lunar Outpost board",
-          "url": "https://spacenews.com/former-space-force-general-joins-lunar-outpost-board",
-          "publishedAt": "2026-08-11T13:00:00+00:00",
           "source": "SpaceNews"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-11T22:00:36+00:00",
+      "updatedAt": "2026-08-11T22:22:01+00:00",
       "stories": [
         {
           "title": "GHGSat satellites C-16 and C-17 achieve first light with methane detections",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-11T22:00:36+00:00",
+      "updatedAt": "2026-08-11T22:22:01+00:00",
       "stories": [
         {
           "title": "Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed Systems Accelerator 2026",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-11T22:00:36+00:00",
+      "updatedAt": "2026-08-11T22:22:01+00:00",
       "stories": [
         {
           "title": "Army awards 6 companies prototype contracts for last tactical mile program",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-11T22:00:36+00:00",
+      "updatedAt": "2026-08-11T22:22:01+00:00",
       "stories": [
         {
           "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-11T22:00:36+00:00",
+      "updatedAt": "2026-08-11T22:22:01+00:00",
       "stories": [
         {
           "title": "Defense drone developer Cambridge Aerospace raises $300M",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-11T22:00:36+00:00",
+    "updatedAt": "2026-08-11T22:22:01+00:00",
     "stories": [
       {
         "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "National lab visit boosts NASA’s confidence in space nuclear propulsion mission",
-        "url": "https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission",
-        "publishedAt": "2026-08-11T21:01:02+00:00",
+        "title": "Golden Dome faces 2027 funding cliff",
+        "url": "https://spacenews.com/golden-dome-faces-2027-funding-cliff",
+        "publishedAt": "2026-08-11T22:01:21+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -561,6 +561,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "National lab visit boosts NASA’s confidence in space nuclear propulsion mission",
+        "url": "https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission",
+        "publishedAt": "2026-08-11T21:01:02+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Canadian Space Agency returns to the stratosphere for ICARUS 2026",
         "url": "https://spaceq.ca/canadian-space-agency-returns-to-the-stratosphere-for-icarus-2026",
         "publishedAt": "2026-08-11T20:09:25+00:00",
@@ -576,15 +585,6 @@
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Canadian robotics, mission controllers celebrated during NASA Johnson Space Center tour",
-        "url": "https://spaceq.ca/canadian-robotics-mission-controllers-celebrated-during-nasa-johnson-space-center-tour",
-        "publishedAt": "2026-08-11T15:56:09+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
