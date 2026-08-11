@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T20:29:19+00:00",
+  "generatedAt": "2026-08-11T21:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-11T20:29:19+00:00",
+      "updatedAt": "2026-08-11T21:00:26+00:00",
       "stories": [
         {
           "title": "Golden Dome money starting to reach contractors, but long-term funding still unclear",
@@ -43,6 +43,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "Scientists create largest 2D map of the universe with 5.6 trillion pixels and nearly 4 billion cosmic objects",
+          "url": "https://www.space.com/astronomy/scientists-create-largest-2d-map-of-the-universe-with-5-6-trillion-pixels-and-nearly-4-billion-cosmic-objects",
+          "publishedAt": "2026-08-11T21:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "Scientists find 2 million active black holes, exploding stars and more, nearly doubling our view of the high-energy universe",
           "url": "https://www.space.com/astronomy/scientists-find-2-million-active-black-holes-exploding-stars-and-more-nearly-doubling-our-view-of-the-high-energy-universe",
           "publishedAt": "2026-08-11T20:00:00+00:00",
@@ -59,12 +65,6 @@
           "url": "https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface",
           "publishedAt": "2026-08-11T19:41:34+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "1-billion-year-old Mars meteorite found in Algeria is like nothing we've seen from the Red Planet",
-          "url": "https://www.space.com/astronomy/mars/1-billion-year-old-mars-meteorite-found-in-algeria-is-like-nothing-weve-seen-from-the-red-planet",
-          "publishedAt": "2026-08-11T18:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Lion Nebula Roars in Webb’s Sights",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-11T20:29:19+00:00",
+      "updatedAt": "2026-08-11T21:00:26+00:00",
       "stories": [
         {
           "title": "Canadian Space Agency returns to the stratosphere for ICARUS 2026",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-11T20:29:19+00:00",
+      "updatedAt": "2026-08-11T21:00:26+00:00",
       "stories": [
         {
           "title": "Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed Systems Accelerator 2026",
@@ -205,8 +205,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-11T20:29:19+00:00",
+      "updatedAt": "2026-08-11T21:00:26+00:00",
       "stories": [
+        {
+          "title": "If funding falters, ‘there’s no Golden Dome,’ Guetlein warns",
+          "url": "https://breakingdefense.com/2026/08/if-funding-falters-theres-no-golden-dome-general-warns",
+          "publishedAt": "2026-08-11T20:48:59+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Laser weapons for space? US officials see threat, opportunity",
+          "url": "https://breakingdefense.com/2026/08/laser-weapons-for-space-us-officials-see-threat-opportunity",
+          "publishedAt": "2026-08-11T20:39:10+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "‘No such thing as a regional conflict anymore,’ STRATCOM chief says",
           "url": "https://breakingdefense.com/2026/08/no-such-thing-as-a-regional-conflict-anymore-stratcom-chief-says",
@@ -230,18 +242,6 @@
           "url": "https://www.defensenews.com/industry/techwatch/2026/08/11/boeing-unveils-cheap-radar-seeker-built-from-off-the-shelf-parts",
           "publishedAt": "2026-08-11T18:39:53+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "Island surge: The Army’s Next Generation Command and Control in action",
-          "url": "https://breakingdefense.com/2026/08/island-surge-the-armys-next-generation-command-and-control-in-action",
-          "publishedAt": "2026-08-11T17:36:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Joby to buy Resonant Sciences, establish defense business in $500 million deal",
-          "url": "https://breakingdefense.com/2026/08/joby-to-buy-resonant-sciences-establish-defense-business-in-500-million-deal",
-          "publishedAt": "2026-08-11T17:00:00+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Air Force explores AI tools to predict aircraft failures, strengthen sustainment",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-11T20:29:19+00:00",
+      "updatedAt": "2026-08-11T21:00:26+00:00",
       "stories": [
         {
           "title": "Meta returns to open-source roots with Glimmer",
@@ -399,8 +399,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-11T20:29:19+00:00",
+      "updatedAt": "2026-08-11T21:00:26+00:00",
       "stories": [
+        {
+          "title": "Defense drone developer Cambridge Aerospace raises $300M",
+          "url": "https://www.therobotreport.com/defense-drone-developer-cambridge-aerospace-raises-300m",
+          "publishedAt": "2026-08-11T20:34:25+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "PlusAI reaches key milestones ahead of launching its autonomous trucks",
           "url": "https://www.therobotreport.com/plusai-reaches-key-milestones-ahead-launch-autonomous-trucks",
@@ -468,12 +474,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Tacta Systems takes aim at high-skilled manufacturing work with TactaBot",
-          "url": "https://www.therobotreport.com/tacta-systems-takes-aim-high-skilled-manufacturing-work-tactabot",
-          "publishedAt": "2026-08-07T21:53:33+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
           "url": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
           "publishedAt": "2026-08-07T16:00:01+00:00",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-11T20:29:19+00:00",
+    "updatedAt": "2026-08-11T21:00:26+00:00",
     "stories": [
       {
         "title": "Meta returns to open-source roots with Glimmer",
@@ -543,18 +543,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "‘No such thing as a regional conflict anymore,’ STRATCOM chief says",
-        "url": "https://breakingdefense.com/2026/08/no-such-thing-as-a-regional-conflict-anymore-stratcom-chief-says",
-        "publishedAt": "2026-08-11T19:45:26+00:00",
+        "title": "If funding falters, ‘there’s no Golden Dome,’ Guetlein warns",
+        "url": "https://breakingdefense.com/2026/08/if-funding-falters-theres-no-golden-dome-general-warns",
+        "publishedAt": "2026-08-11T20:48:59+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "PlusAI reaches key milestones ahead of launching its autonomous trucks",
-        "url": "https://www.therobotreport.com/plusai-reaches-key-milestones-ahead-launch-autonomous-trucks",
-        "publishedAt": "2026-08-11T17:13:33+00:00",
+        "title": "Defense drone developer Cambridge Aerospace raises $300M",
+        "url": "https://www.therobotreport.com/defense-drone-developer-cambridge-aerospace-raises-300m",
+        "publishedAt": "2026-08-11T20:34:25+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -701,6 +701,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-23"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-28"
   ]
 }
