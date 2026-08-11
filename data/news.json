@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T05:00:26+00:00",
+  "generatedAt": "2026-08-11T05:17:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-11T05:00:26+00:00",
+      "updatedAt": "2026-08-11T05:17:28+00:00",
       "stories": [
         {
           "title": "Rocket Lab builds deployable infrastructure for Electron launches",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-11T05:00:26+00:00",
+      "updatedAt": "2026-08-11T05:17:28+00:00",
       "stories": [
         {
           "title": "WildFireSat bulletin released, fall procurement seems likely",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-11T05:00:26+00:00",
+      "updatedAt": "2026-08-11T05:17:28+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes Alberta visit focused on innovation and strengthening Canada’s defence capabilities",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-11T05:00:26+00:00",
+      "updatedAt": "2026-08-11T05:17:28+00:00",
       "stories": [
         {
           "title": "Hanwha Defense USA seeks to acquire Austal USA in $1.2B potential deal",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-11T05:00:26+00:00",
+      "updatedAt": "2026-08-11T05:17:28+00:00",
       "stories": [
         {
           "title": "OpenAI reportedly completed a $7 billion employee tender offer",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-11T05:00:26+00:00",
+      "updatedAt": "2026-08-11T05:17:28+00:00",
       "stories": [
         {
           "title": "RoboStore launches Robo Inc. to help U.S. organizations deploy robots",
@@ -412,6 +412,12 @@
           "url": "https://www.therobotreport.com/vicone-releases-free-nviida-isaac-sim-cybersecurity-extension-based-def-con-34-research",
           "publishedAt": "2026-08-10T17:07:10+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "Robot Recycler Salvages Parts from Broken Machines",
+          "url": "https://spectrum.ieee.org/recycling-robot",
+          "publishedAt": "2026-08-10T18:01:25+00:00",
+          "source": "IEEE Spectrum Robotics"
         },
         {
           "title": "Analog Devices returns as strategic sponsor to aid MassRobotics startups",
@@ -462,12 +468,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Report looks at advances in autonomous mobile robots",
-          "url": "https://www.therobotreport.com/report-looks-at-advances-in-autonomous-mobile-robots",
-          "publishedAt": "2026-08-06T12:26:58+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
           "url": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
           "publishedAt": "2026-08-04T11:00:01+00:00",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-11T05:00:26+00:00",
+    "updatedAt": "2026-08-11T05:17:28+00:00",
     "stories": [
       {
         "title": "OpenAI reportedly completed a $7 billion employee tender offer",
@@ -688,7 +688,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: 404 Client Error: Not Found for url: https://www.vanguarddefence.ca/feed/",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-27"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-24"
   ]
 }
