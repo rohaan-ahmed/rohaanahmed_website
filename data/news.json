@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T17:00:29+00:00",
+  "generatedAt": "2026-08-11T17:33:40+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-11T17:00:29+00:00",
+      "updatedAt": "2026-08-11T17:33:40+00:00",
       "stories": [
         {
           "title": "Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026",
@@ -43,10 +43,16 @@
           "source": "SpaceNews"
         },
         {
-          "title": "SpaceX launches 29 Starlink satellites to orbit from Florida (photos)",
+          "title": "SpaceX launches 29 Starlink satellites to orbit from Florida (video, photos)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-group-10-19-launch-asog",
           "publishedAt": "2026-08-11T16:21:54+00:00",
           "source": "Space.com"
+        },
+        {
+          "title": "Lion Nebula Roars in Webb’s Sights",
+          "url": "https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights",
+          "publishedAt": "2026-08-11T17:02:49+00:00",
+          "source": "NASA"
         },
         {
           "title": "NASA will chase the Aug. 12 total solar eclipse with balloons and a high-altitude jet",
@@ -79,12 +85,6 @@
           "source": "NASA"
         },
         {
-          "title": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow",
-          "url": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow",
-          "publishedAt": "2026-08-11T14:00:00+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Sophie Adenot’s first spacewalk",
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Sophie_Adenot_s_first_spacewalk",
           "publishedAt": "2026-08-11T08:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-11T17:00:29+00:00",
+      "updatedAt": "2026-08-11T17:33:40+00:00",
       "stories": [
         {
           "title": "Canadian robotics, mission controllers celebrated during NASA Johnson Space Center tour",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-11T17:00:29+00:00",
+      "updatedAt": "2026-08-11T17:33:40+00:00",
       "stories": [
         {
           "title": "Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed Systems Accelerator 2026",
@@ -205,8 +205,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-11T17:00:29+00:00",
+      "updatedAt": "2026-08-11T17:33:40+00:00",
       "stories": [
+        {
+          "title": "Joby to buy Resonant Sciences, establish defense business in $500 million deal",
+          "url": "https://breakingdefense.com/2026/08/joby-to-buy-resonant-sciences-establish-defense-business-in-500-million-deal",
+          "publishedAt": "2026-08-11T17:00:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Army needs ‘comprehensive missile defeat strategy’ to address air defense challenges",
           "url": "https://breakingdefense.com/2026/08/army-needs-comprehensive-missile-defeat-strategy-to-address-air-defense-challenges",
@@ -256,12 +262,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Agentic AI turning Zero Trust cybersecurity ‘on its head’",
-          "url": "https://breakingdefense.com/2026/08/agentic-ai-turning-zero-trust-cybersecurity-on-its-head",
-          "publishedAt": "2026-08-10T21:39:40+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "DOGE said it saved $1.7 billion by terminating a military health IT contract. GAO found the contract was never terminated.",
           "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/10/doge-said-it-saved-17-billion-by-terminating-a-military-health-it-contract-gao-found-the-contract-was-never-terminated",
           "publishedAt": "2026-08-10T21:33:33+00:00",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-11T17:00:29+00:00",
+      "updatedAt": "2026-08-11T17:33:40+00:00",
       "stories": [
         {
           "title": "Meta returns to open-source roots with Glimmer",
@@ -399,8 +399,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-11T17:00:29+00:00",
+      "updatedAt": "2026-08-11T17:33:40+00:00",
       "stories": [
+        {
+          "title": "PlusAI reaches key milestones ahead of launching its autonomous trucks",
+          "url": "https://www.therobotreport.com/plusai-reaches-key-milestones-ahead-launch-autonomous-trucks",
+          "publishedAt": "2026-08-11T17:13:33+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Webinar to discuss safety and scaling robot fleets in the warehouse",
           "url": "https://www.therobotreport.com/webinar-to-discuss-safety-scaling-robot-fleets-warehouse",
@@ -468,12 +474,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Avatar Robotics raises seed round to address industrial labor constraints",
-          "url": "https://www.therobotreport.com/avatar-robotics-raises-6-5-m-seed-round-address-industrial-labor-constraints",
-          "publishedAt": "2026-08-07T19:57:22+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
           "url": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
           "publishedAt": "2026-08-07T16:00:01+00:00",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-11T17:00:29+00:00",
+    "updatedAt": "2026-08-11T17:33:40+00:00",
     "stories": [
       {
         "title": "Meta returns to open-source roots with Glimmer",
@@ -543,18 +543,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Army needs ‘comprehensive missile defeat strategy’ to address air defense challenges",
-        "url": "https://breakingdefense.com/2026/08/army-needs-comprehensive-missile-defeat-strategy-to-address-air-defense-challenges",
-        "publishedAt": "2026-08-11T16:31:00+00:00",
+        "title": "Joby to buy Resonant Sciences, establish defense business in $500 million deal",
+        "url": "https://breakingdefense.com/2026/08/joby-to-buy-resonant-sciences-establish-defense-business-in-500-million-deal",
+        "publishedAt": "2026-08-11T17:00:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Webinar to discuss safety and scaling robot fleets in the warehouse",
-        "url": "https://www.therobotreport.com/webinar-to-discuss-safety-scaling-robot-fleets-warehouse",
-        "publishedAt": "2026-08-11T14:34:31+00:00",
+        "title": "PlusAI reaches key milestones ahead of launching its autonomous trucks",
+        "url": "https://www.therobotreport.com/plusai-reaches-key-milestones-ahead-launch-autonomous-trucks",
+        "publishedAt": "2026-08-11T17:13:33+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
