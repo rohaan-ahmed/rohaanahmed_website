@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T22:00:39+00:00",
+  "generatedAt": "2026-08-12T22:07:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-12T22:00:39+00:00",
+      "updatedAt": "2026-08-12T22:07:32+00:00",
       "stories": [
         {
           "title": "Space Command identifies capabilities it needs for the next space war",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-12T22:00:39+00:00",
+      "updatedAt": "2026-08-12T22:07:32+00:00",
       "stories": [
         {
           "title": "DRDC tasks EarthDaily with geospatial platform for RCMP border monitoring",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-12T22:00:39+00:00",
+      "updatedAt": "2026-08-12T22:07:32+00:00",
       "stories": [
         {
           "title": "Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed Systems Accelerator 2026",
@@ -205,8 +205,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-12T22:00:39+00:00",
+      "updatedAt": "2026-08-12T22:07:32+00:00",
       "stories": [
+        {
+          "title": "Space-based interceptor contractors passed first Golden Dome milestone: Guetlein",
+          "url": "https://breakingdefense.com/2026/08/space-based-interceptor-contractors-passed-first-golden-dome-milestone-guetlein",
+          "publishedAt": "2026-08-12T22:01:31+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Day 2 of the 2026 Space and Missile Defense Symposium",
           "url": "https://breakingdefense.com/2026/08/day-2-of-the-2026-space-and-missile-defense-symposium",
@@ -235,12 +241,6 @@
           "title": "Why patching networks against cyberattacks is ‘very scary’ in the age of AI",
           "url": "https://breakingdefense.com/2026/08/why-patching-networks-against-cyberattacks-is-very-scary-in-the-age-of-ai",
           "publishedAt": "2026-08-12T20:00:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "L3Harris launches new facility in Rhode Island to produce undersea training systems",
-          "url": "https://breakingdefense.com/2026/08/l3harris-launches-new-facility-in-rhode-island-to-produce-undersea-training-systems",
-          "publishedAt": "2026-08-12T19:33:01+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-12T22:00:39+00:00",
+      "updatedAt": "2026-08-12T22:07:32+00:00",
       "stories": [
         {
           "title": "Anthropic adds AI watermarks to Claude outputs",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-12T22:00:39+00:00",
+      "updatedAt": "2026-08-12T22:07:32+00:00",
       "stories": [
         {
           "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-12T22:00:39+00:00",
+    "updatedAt": "2026-08-12T22:07:32+00:00",
     "stories": [
       {
         "title": "Anthropic adds AI watermarks to Claude outputs",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Day 2 of the 2026 Space and Missile Defense Symposium",
-        "url": "https://breakingdefense.com/2026/08/day-2-of-the-2026-space-and-missile-defense-symposium",
-        "publishedAt": "2026-08-12T21:38:47+00:00",
+        "title": "Space-based interceptor contractors passed first Golden Dome milestone: Guetlein",
+        "url": "https://breakingdefense.com/2026/08/space-based-interceptor-contractors-passed-first-golden-dome-milestone-guetlein",
+        "publishedAt": "2026-08-12T22:01:31+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
