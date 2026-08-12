@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T10:30:43+00:00",
+  "generatedAt": "2026-08-12T11:00:36+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-12T10:30:43+00:00",
+      "updatedAt": "2026-08-12T11:00:36+00:00",
       "stories": [
         {
           "title": "Firefly increases vehicle production even as launches lag",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-12T10:30:43+00:00",
+      "updatedAt": "2026-08-12T11:00:36+00:00",
       "stories": [
         {
           "title": "GHGSat satellites C-16 and C-17 achieve first light with methane detections",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-12T10:30:43+00:00",
+      "updatedAt": "2026-08-12T11:00:36+00:00",
       "stories": [
         {
           "title": "Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed Systems Accelerator 2026",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-12T10:30:43+00:00",
+      "updatedAt": "2026-08-12T11:00:36+00:00",
       "stories": [
         {
           "title": "Will money run out for Golden Dome?",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-12T10:30:43+00:00",
+      "updatedAt": "2026-08-12T11:00:36+00:00",
       "stories": [
         {
           "title": "Anthropic adds AI watermarks to Claude outputs",
@@ -399,8 +399,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-12T10:30:43+00:00",
+      "updatedAt": "2026-08-12T11:00:36+00:00",
       "stories": [
+        {
+          "title": "DAF Trucks to integrate Einride Driver to scale autonomous electric freight",
+          "url": "https://www.therobotreport.com/daf-trucks-integrates-einride-driver-scale-autonomous-electric-freight",
+          "publishedAt": "2026-08-12T10:30:51+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Defense drone developer Cambridge Aerospace raises $300M",
           "url": "https://www.therobotreport.com/defense-drone-developer-cambridge-aerospace-raises-300m",
@@ -468,12 +474,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Building robots that survive the warehouse",
-          "url": "https://www.therobotreport.com/building-robots-that-survive-warehouse",
-          "publishedAt": "2026-08-07T22:01:38+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
           "url": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
           "publishedAt": "2026-08-07T16:00:01+00:00",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-12T10:30:43+00:00",
+    "updatedAt": "2026-08-12T11:00:36+00:00",
     "stories": [
       {
         "title": "Anthropic adds AI watermarks to Claude outputs",
@@ -552,9 +552,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Defense drone developer Cambridge Aerospace raises $300M",
-        "url": "https://www.therobotreport.com/defense-drone-developer-cambridge-aerospace-raises-300m",
-        "publishedAt": "2026-08-11T20:34:25+00:00",
+        "title": "DAF Trucks to integrate Einride Driver to scale autonomous electric freight",
+        "url": "https://www.therobotreport.com/daf-trucks-integrates-einride-driver-scale-autonomous-electric-freight",
+        "publishedAt": "2026-08-12T10:30:51+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
