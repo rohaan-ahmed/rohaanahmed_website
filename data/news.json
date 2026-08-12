@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-12T21:24:34+00:00",
+  "generatedAt": "2026-08-12T22:00:39+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-12T21:24:34+00:00",
+      "updatedAt": "2026-08-12T22:00:39+00:00",
       "stories": [
+        {
+          "title": "Space Command identifies capabilities it needs for the next space war",
+          "url": "https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war",
+          "publishedAt": "2026-08-12T22:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Golden Dome creates digital hub to expand commercial participation",
           "url": "https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation",
@@ -79,12 +85,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Golden Dome faces 2027 funding cliff",
-          "url": "https://spacenews.com/golden-dome-faces-2027-funding-cliff",
-          "publishedAt": "2026-08-11T22:01:21+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "A total solar eclipse is coming to Europe",
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/A_total_solar_eclipse_is_coming_to_Europe",
           "publishedAt": "2026-08-11T12:30:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-12T21:24:34+00:00",
+      "updatedAt": "2026-08-12T22:00:39+00:00",
       "stories": [
         {
           "title": "DRDC tasks EarthDaily with geospatial platform for RCMP border monitoring",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-12T21:24:34+00:00",
+      "updatedAt": "2026-08-12T22:00:39+00:00",
       "stories": [
         {
           "title": "Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed Systems Accelerator 2026",
@@ -205,8 +205,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-12T21:24:34+00:00",
+      "updatedAt": "2026-08-12T22:00:39+00:00",
       "stories": [
+        {
+          "title": "Day 2 of the 2026 Space and Missile Defense Symposium",
+          "url": "https://breakingdefense.com/2026/08/day-2-of-the-2026-space-and-missile-defense-symposium",
+          "publishedAt": "2026-08-12T21:38:47+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "TACOM plans further industry engagement amid ‘readiness crisis’",
           "url": "https://breakingdefense.com/2026/08/tacom-plans-further-industry-engagement-amid-readiness-crisis",
@@ -238,10 +244,10 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Defeating modern threats with capable, affordable munitions",
-          "url": "https://breakingdefense.com/2026/08/defeating-modern-threats-with-capable-affordable-munitions",
-          "publishedAt": "2026-08-12T18:05:00+00:00",
-          "source": "Breaking Defense"
+          "title": "Pentagon’s S&T boss touts early benefits of re-org, including ‘virtuous cycles of collaboration’",
+          "url": "https://defensescoop.com/2026/08/12/pentagon-science-and-technology-joseph-jewell",
+          "publishedAt": "2026-08-12T21:56:12+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Guetlein: Golden Dome in jeopardy due to 2027 funding uncertainty",
@@ -290,19 +296,13 @@
           "url": "https://defensescoop.com/2026/08/11/mobile-radar-track-hypersonic-missiles-mda",
           "publishedAt": "2026-08-11T16:49:05+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "New DOD innovation hub will confront ‘unacceptable vulnerabilities’ in production of military fabrics",
-          "url": "https://defensescoop.com/2026/08/10/new-dod-innovation-hub-production-of-military-fabrics",
-          "publishedAt": "2026-08-10T22:34:03+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-12T21:24:34+00:00",
+      "updatedAt": "2026-08-12T22:00:39+00:00",
       "stories": [
         {
           "title": "Anthropic adds AI watermarks to Claude outputs",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-12T21:24:34+00:00",
+      "updatedAt": "2026-08-12T22:00:39+00:00",
       "stories": [
         {
           "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-12T21:24:34+00:00",
+    "updatedAt": "2026-08-12T22:00:39+00:00",
     "stories": [
       {
         "title": "Anthropic adds AI watermarks to Claude outputs",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Golden Dome creates digital hub to expand commercial participation",
-        "url": "https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation",
-        "publishedAt": "2026-08-12T14:00:00+00:00",
+        "title": "Space Command identifies capabilities it needs for the next space war",
+        "url": "https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war",
+        "publishedAt": "2026-08-12T22:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "TACOM plans further industry engagement amid ‘readiness crisis’",
-        "url": "https://breakingdefense.com/2026/08/tacom-plans-further-industry-engagement-amid-readiness-crisis",
-        "publishedAt": "2026-08-12T20:55:00+00:00",
+        "title": "Day 2 of the 2026 Space and Missile Defense Symposium",
+        "url": "https://breakingdefense.com/2026/08/day-2-of-the-2026-space-and-missile-defense-symposium",
+        "publishedAt": "2026-08-12T21:38:47+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -559,6 +559,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Golden Dome creates digital hub to expand commercial participation",
+        "url": "https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation",
+        "publishedAt": "2026-08-12T14:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "China’s iSpace raises first batch of series E funding for reusable rocketry",
@@ -576,15 +585,6 @@
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Army selects air defense unit to prepare for Golden Dome mission",
-        "url": "https://breakingdefense.com/2026/08/army-selects-air-defense-unit-to-prepare-for-golden-dome-mission",
-        "publishedAt": "2026-08-12T20:35:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
