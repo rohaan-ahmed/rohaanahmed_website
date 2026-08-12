@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T16:00:32+00:00",
+  "generatedAt": "2026-08-12T16:30:35+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-12T16:00:32+00:00",
+      "updatedAt": "2026-08-12T16:30:35+00:00",
       "stories": [
         {
           "title": "Golden Dome creates digital hub to expand commercial participation",
@@ -29,6 +29,12 @@
           "url": "https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag",
           "publishedAt": "2026-08-12T02:06:13+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights",
+          "url": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights",
+          "publishedAt": "2026-08-12T16:03:05+00:00",
+          "source": "NASA"
         },
         {
           "title": "Farthest 'black hole star' ever found could help solve the James Webb Space Telescope's little red dot mystery",
@@ -73,12 +79,6 @@
           "source": "NASA"
         },
         {
-          "title": "Quality Assessment Report Evaluates Polar Geospatial Center EarthDEM Elevation Products",
-          "url": "https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-polar-geospatial-center-earthdem-elevation-products",
-          "publishedAt": "2026-08-12T14:13:13+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Golden Dome faces 2027 funding cliff",
           "url": "https://spacenews.com/golden-dome-faces-2027-funding-cliff",
           "publishedAt": "2026-08-11T22:01:21+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-12T16:00:32+00:00",
+      "updatedAt": "2026-08-12T16:30:35+00:00",
       "stories": [
         {
           "title": "DRDC tasks EarthDaily with geospatial platform for RCMP border monitoring",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-12T16:00:32+00:00",
+      "updatedAt": "2026-08-12T16:30:35+00:00",
       "stories": [
         {
           "title": "Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed Systems Accelerator 2026",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-12T16:00:32+00:00",
+      "updatedAt": "2026-08-12T16:30:35+00:00",
       "stories": [
         {
           "title": "Joint force needs kinetic and non-kinetic weapons for space war: Whiting",
@@ -218,12 +218,6 @@
           "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/12/trump-swaps-planes-via-catering-truck-after-iranian-threats-reports-say",
           "publishedAt": "2026-08-12T15:13:20+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "Acquisition reform at the speed of war",
-          "url": "https://breakingdefense.com/2026/08/acquisition-reform-at-the-speed-of-war-2",
-          "publishedAt": "2026-08-12T14:11:29+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Feinberg requested defense industry board members for briefing",
@@ -241,6 +235,12 @@
           "title": "Will money run out for Golden Dome?",
           "url": "https://breakingdefense.com/2026/08/will-money-run-out-for-golden-dome",
           "publishedAt": "2026-08-12T00:36:30+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Army awards 6 companies prototype contracts for last tactical mile program",
+          "url": "https://breakingdefense.com/2026/08/army-awards-six-companies-prototype-contracts-for-last-tactical-mile-program",
+          "publishedAt": "2026-08-11T21:45:00+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-12T16:00:32+00:00",
+      "updatedAt": "2026-08-12T16:30:35+00:00",
       "stories": [
         {
           "title": "Anthropic adds AI watermarks to Claude outputs",
@@ -317,6 +317,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+          "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m",
+          "publishedAt": "2026-08-12T16:04:27+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
           "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures",
           "publishedAt": "2026-08-12T15:44:56+00:00",
@@ -329,45 +335,15 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Brad Lightcap, OpenAI's longtime COO, is leaving to ‘start something new' (2 minute read)",
-          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
-          "publishedAt": "2026-08-12T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Gemini Passed 1 Billion Monthly Users (3 minute read)",
-          "url": "https://x.com/newsfromgoogle/status/2087233951031009665?s=46&t=sVvVqfqtrpFRLF39Bfwg9w",
-          "publishedAt": "2026-08-12T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Nvidia's Switchyard router reshuffles AI models mid-task, cutting task costs to a third in its own tests (8 minute read)",
-          "url": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
-          "publishedAt": "2026-08-12T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Cursor prepares to launch Origin platform for code reviews (2 minute read)",
-          "url": "https://www.testingcatalog.com/cursor-prepares-to-launch-origin-platform-for-code-reviews",
-          "publishedAt": "2026-08-12T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "AGI Will Set Off an Industrial Explosion (23 minute read)",
-          "url": "https://newsletter.ai-frontiers.org/p/agi-will-set-off-an-industrial-explosion",
-          "publishedAt": "2026-08-12T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Ryan Greenblatt – What happens once AI can automate AI research? (2 hour read)",
-          "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-          "publishedAt": "2026-08-12T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
           "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation",
           "publishedAt": "2026-08-12T11:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+          "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last",
+          "publishedAt": "2026-08-11T21:39:11+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -389,9 +365,33 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "OpenAI launches ChatGPT desktop app for Linux",
+          "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
+          "publishedAt": "2026-08-11T19:15:35+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "OpenAI puts the safety brakes on Astra",
           "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
           "publishedAt": "2026-08-10T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "China’s Kimi K3 joins the jailbreak party in testing",
+          "url": "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations",
+          "publishedAt": "2026-08-10T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "AI designs working viruses from scratch",
+          "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
+          "publishedAt": "2026-08-07T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic solves Fable 5’s biggest problem",
+          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+          "publishedAt": "2026-08-07T09:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-12T16:00:32+00:00",
+      "updatedAt": "2026-08-12T16:30:35+00:00",
       "stories": [
         {
           "title": "Q2 2026 robotics demand increased across industries, reports A3",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-12T16:00:32+00:00",
+    "updatedAt": "2026-08-12T16:30:35+00:00",
     "stories": [
       {
         "title": "Anthropic adds AI watermarks to Claude outputs",
@@ -700,6 +700,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-27"
   ]
 }
