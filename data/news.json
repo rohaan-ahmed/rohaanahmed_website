@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-12T12:00:29+00:00",
+  "generatedAt": "2026-08-12T12:05:44+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-12T12:00:29+00:00",
+      "updatedAt": "2026-08-12T12:05:44+00:00",
       "stories": [
+        {
+          "title": "One species, one planet: The moon is our ethical dress rehearsal for Mars",
+          "url": "https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars",
+          "publishedAt": "2026-08-12T12:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Firefly increases vehicle production even as launches lag",
           "url": "https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag",
@@ -55,12 +61,6 @@
           "source": "Space.com"
         },
         {
-          "title": "Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026",
-          "url": "https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026",
-          "publishedAt": "2026-08-11T14:58:05+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Stops Along the Path of Totality",
           "url": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality",
           "publishedAt": "2026-08-12T04:01:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-12T12:00:29+00:00",
+      "updatedAt": "2026-08-12T12:05:44+00:00",
       "stories": [
         {
           "title": "DRDC tasks EarthDaily with geospatial platform for RCMP border monitoring",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-12T12:00:29+00:00",
+      "updatedAt": "2026-08-12T12:05:44+00:00",
       "stories": [
         {
           "title": "Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed Systems Accelerator 2026",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-12T12:00:29+00:00",
+      "updatedAt": "2026-08-12T12:05:44+00:00",
       "stories": [
         {
           "title": "Will money run out for Golden Dome?",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-12T12:00:29+00:00",
+      "updatedAt": "2026-08-12T12:05:44+00:00",
       "stories": [
         {
           "title": "Anthropic adds AI watermarks to Claude outputs",
@@ -353,45 +353,45 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Learning more about Claude's mathematical capabilities (6 minute read)",
-          "url": "https://www.anthropic.com/research/riemann-zeta",
-          "publishedAt": "2026-08-11T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Google’s Gemini app surges to 1 billion users",
+          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
+          "publishedAt": "2026-08-11T18:49:12+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Exploring Claude/GPT Knowledge Cutoffs & Pre-training Timelines (8 minute read)",
-          "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-          "publishedAt": "2026-08-11T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
+          "publishedAt": "2026-08-11T17:41:34+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Building an AI-Native Finance Team (11 minute read)",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "publishedAt": "2026-08-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Are Agents Really Killing UI? (9 minute read)",
-          "url": "https://x.com/posthog/status/2086896332862886283",
-          "publishedAt": "2026-08-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Qwen-MM-Plugins (GitHub Repo)",
-          "url": "https://github.com/QwenLM/Qwen-MM-Plugins",
-          "publishedAt": "2026-08-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "A Controlled Study of Attention-Only Transformers (1 minute read)",
-          "url": "https://arxiv.org/abs/2607.18363",
-          "publishedAt": "2026-08-11T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
+          "publishedAt": "2026-08-11T17:41:22+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI puts the safety brakes on Astra",
           "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
           "publishedAt": "2026-08-10T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "China’s Kimi K3 joins the jailbreak party in testing",
+          "url": "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations",
+          "publishedAt": "2026-08-10T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "AI designs working viruses from scratch",
+          "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
+          "publishedAt": "2026-08-07T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic solves Fable 5’s biggest problem",
+          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+          "publishedAt": "2026-08-07T09:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-12T12:00:29+00:00",
+      "updatedAt": "2026-08-12T12:05:44+00:00",
       "stories": [
         {
           "title": "DAF Trucks to integrate Einride Driver to scale autonomous electric freight",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-12T12:00:29+00:00",
+    "updatedAt": "2026-08-12T12:05:44+00:00",
     "stories": [
       {
         "title": "Anthropic adds AI watermarks to Claude outputs",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Firefly increases vehicle production even as launches lag",
-        "url": "https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag",
-        "publishedAt": "2026-08-12T02:06:13+00:00",
+        "title": "One species, one planet: The moon is our ethical dress rehearsal for Mars",
+        "url": "https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars",
+        "publishedAt": "2026-08-12T12:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -561,6 +561,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Firefly increases vehicle production even as launches lag",
+        "url": "https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag",
+        "publishedAt": "2026-08-12T02:06:13+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "U.S. expands missile production as Army seeks more depth in its arsenal",
         "url": "https://spacenews.com/u-s-expands-missile-production-as-army-seeks-more-depth-in-its-arsenal",
         "publishedAt": "2026-08-12T01:34:00+00:00",
@@ -573,15 +582,6 @@
         "title": "Perseid meteor shower peaks under perfect skies tonight — here's what to expect",
         "url": "https://www.space.com/stargazing/meteor-showers/perseid-meteor-shower-peaks-under-perfect-skies-tonight-heres-what-to-expect",
         "publishedAt": "2026-08-12T12:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "SpaceX wraps Starlink double header day with the launch of 24 Starlink satellites from California",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-group-17-49-b1103-asog",
-        "publishedAt": "2026-08-12T11:48:03+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -700,6 +700,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-28"
   ]
 }
