@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-12T02:00:31+00:00",
+  "generatedAt": "2026-08-12T03:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-12T02:00:31+00:00",
+      "updatedAt": "2026-08-12T03:00:31+00:00",
       "stories": [
+        {
+          "title": "Firefly increases vehicle production even as launches lag",
+          "url": "https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag",
+          "publishedAt": "2026-08-12T02:06:13+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "U.S. expands missile production as Army seeks more depth in its arsenal",
           "url": "https://spacenews.com/u-s-expands-missile-production-as-army-seeks-more-depth-in-its-arsenal",
@@ -34,12 +40,6 @@
           "title": "Webinar on MOSA Interoperability Standards for Space Systems – August 26, 2026",
           "url": "https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026",
           "publishedAt": "2026-08-11T14:58:05+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "TechnoMile’s Five-Year Sustained Growth Recognized with Place on the 2026 Inc. 5000 List",
-          "url": "https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list",
-          "publishedAt": "2026-08-11T14:53:22+00:00",
           "source": "SpaceNews"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-12T02:00:31+00:00",
+      "updatedAt": "2026-08-12T03:00:31+00:00",
       "stories": [
         {
           "title": "GHGSat satellites C-16 and C-17 achieve first light with methane detections",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-12T02:00:31+00:00",
+      "updatedAt": "2026-08-12T03:00:31+00:00",
       "stories": [
         {
           "title": "Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed Systems Accelerator 2026",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-12T02:00:31+00:00",
+      "updatedAt": "2026-08-12T03:00:31+00:00",
       "stories": [
         {
           "title": "Will money run out for Golden Dome?",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-12T02:00:31+00:00",
+      "updatedAt": "2026-08-12T03:00:31+00:00",
       "stories": [
         {
           "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
@@ -341,22 +341,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
-          "publishedAt": "2026-08-11T17:41:34+00:00",
-          "source": "TechCrunch AI"
+          "title": "Learning more about Claude's mathematical capabilities (6 minute read)",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
-          "publishedAt": "2026-08-11T17:41:22+00:00",
-          "source": "TechCrunch AI"
+          "title": "Exploring Claude/GPT Knowledge Cutoffs & Pre-training Timelines (8 minute read)",
+          "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
-          "publishedAt": "2026-08-11T16:25:20+00:00",
-          "source": "TechCrunch AI"
+          "title": "Building an AI-Native Finance Team (11 minute read)",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Are Agents Really Killing UI? (9 minute read)",
+          "url": "https://x.com/posthog/status/2086896332862886283",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Qwen-MM-Plugins (GitHub Repo)",
+          "url": "https://github.com/QwenLM/Qwen-MM-Plugins",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "A Controlled Study of Attention-Only Transformers (1 minute read)",
+          "url": "https://arxiv.org/abs/2607.18363",
+          "publishedAt": "2026-08-11T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI puts the safety brakes on Astra",
@@ -375,31 +393,13 @@
           "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
           "publishedAt": "2026-08-07T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic solves Fable 5’s biggest problem",
-          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-          "publishedAt": "2026-08-07T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Google reshuffles AI leadership as rivals pull ahead",
-          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum",
-          "publishedAt": "2026-08-06T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Meta joins coding-agent race with Muse Code",
-          "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-          "publishedAt": "2026-08-06T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-12T02:00:31+00:00",
+      "updatedAt": "2026-08-12T03:00:31+00:00",
       "stories": [
         {
           "title": "Defense drone developer Cambridge Aerospace raises $300M",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-12T02:00:31+00:00",
+    "updatedAt": "2026-08-12T03:00:31+00:00",
     "stories": [
       {
         "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "U.S. expands missile production as Army seeks more depth in its arsenal",
-        "url": "https://spacenews.com/u-s-expands-missile-production-as-army-seeks-more-depth-in-its-arsenal",
-        "publishedAt": "2026-08-12T01:34:00+00:00",
+        "title": "Firefly increases vehicle production even as launches lag",
+        "url": "https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag",
+        "publishedAt": "2026-08-12T02:06:13+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -561,6 +561,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "U.S. expands missile production as Army seeks more depth in its arsenal",
+        "url": "https://spacenews.com/u-s-expands-missile-production-as-army-seeks-more-depth-in-its-arsenal",
+        "publishedAt": "2026-08-12T01:34:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Golden Dome faces 2027 funding cliff",
         "url": "https://spacenews.com/golden-dome-faces-2027-funding-cliff",
         "publishedAt": "2026-08-11T22:01:21+00:00",
@@ -576,15 +585,6 @@
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Canadian Space Agency returns to the stratosphere for ICARUS 2026",
-        "url": "https://spaceq.ca/canadian-space-agency-returns-to-the-stratosphere-for-icarus-2026",
-        "publishedAt": "2026-08-11T20:09:25+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -700,7 +700,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-16"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
