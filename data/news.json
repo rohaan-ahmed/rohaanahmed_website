@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-12T01:00:36+00:00",
+  "generatedAt": "2026-08-12T02:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-12T01:00:36+00:00",
+      "updatedAt": "2026-08-12T02:00:31+00:00",
       "stories": [
+        {
+          "title": "U.S. expands missile production as Army seeks more depth in its arsenal",
+          "url": "https://spacenews.com/u-s-expands-missile-production-as-army-seeks-more-depth-in-its-arsenal",
+          "publishedAt": "2026-08-12T01:34:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Golden Dome faces 2027 funding cliff",
           "url": "https://spacenews.com/golden-dome-faces-2027-funding-cliff",
@@ -37,18 +43,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "SpaceX increasing footprint in missile defense",
-          "url": "https://spacenews.com/spacex-increasing-footprint-in-missile-defense",
-          "publishedAt": "2026-08-11T14:34:01+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Former Space Force general joins Lunar Outpost board",
-          "url": "https://spacenews.com/former-space-force-general-joins-lunar-outpost-board",
-          "publishedAt": "2026-08-11T13:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "SpaceX could make $500 billion in 2028, Elon Musk says",
           "url": "https://www.space.com/space-exploration/spacex-could-make-usd500-billion-in-2027-elon-musk-says",
           "publishedAt": "2026-08-11T23:42:48+00:00",
@@ -61,16 +55,28 @@
           "source": "Space.com"
         },
         {
+          "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
+          "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8",
+          "publishedAt": "2026-08-11T21:04:39+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "Scientists find 2 million active black holes, exploding stars and more, nearly doubling our view of the high-energy universe",
           "url": "https://www.space.com/astronomy/scientists-find-2-million-active-black-holes-exploding-stars-and-more-nearly-doubling-our-view-of-the-high-energy-universe",
           "publishedAt": "2026-08-11T20:00:00+00:00",
           "source": "Space.com"
         },
         {
-          "title": "'Star Trek: Strange New Worlds': Anson Mount, Rebecca Romijn, & Carol Kane on season 4's big leaps and 'outside the box' episodes",
-          "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-cast-on-taking-bigger-leaps-for-season-4s-outside-the-box-episodes-interview",
-          "publishedAt": "2026-08-11T19:00:00+00:00",
-          "source": "Space.com"
+          "title": "NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface",
+          "url": "https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface",
+          "publishedAt": "2026-08-11T19:41:34+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Lion Nebula Roars in Webb’s Sights",
+          "url": "https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights",
+          "publishedAt": "2026-08-11T17:02:49+00:00",
+          "source": "NASA"
         },
         {
           "title": "A total solar eclipse is coming to Europe",
@@ -89,19 +95,13 @@
           "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole",
           "publishedAt": "2026-08-11T08:00:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Lion Nebula roars to life for Webb",
-          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Lion_Nebula_roars_to_life_for_Webb",
-          "publishedAt": "2026-08-10T14:00:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-12T01:00:36+00:00",
+      "updatedAt": "2026-08-12T02:00:31+00:00",
       "stories": [
         {
           "title": "GHGSat satellites C-16 and C-17 achieve first light with methane detections",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-12T01:00:36+00:00",
+      "updatedAt": "2026-08-12T02:00:31+00:00",
       "stories": [
         {
           "title": "Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed Systems Accelerator 2026",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-12T01:00:36+00:00",
+      "updatedAt": "2026-08-12T02:00:31+00:00",
       "stories": [
         {
           "title": "Will money run out for Golden Dome?",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-12T01:00:36+00:00",
+      "updatedAt": "2026-08-12T02:00:31+00:00",
       "stories": [
         {
           "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
@@ -341,40 +341,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Learning more about Claude's mathematical capabilities (6 minute read)",
-          "url": "https://www.anthropic.com/research/riemann-zeta",
-          "publishedAt": "2026-08-11T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
+          "publishedAt": "2026-08-11T17:41:34+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Exploring Claude/GPT Knowledge Cutoffs & Pre-training Timelines (8 minute read)",
-          "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-          "publishedAt": "2026-08-11T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai",
+          "publishedAt": "2026-08-11T17:41:22+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Building an AI-Native Finance Team (11 minute read)",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "publishedAt": "2026-08-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Are Agents Really Killing UI? (9 minute read)",
-          "url": "https://x.com/posthog/status/2086896332862886283",
-          "publishedAt": "2026-08-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Qwen-MM-Plugins (GitHub Repo)",
-          "url": "https://github.com/QwenLM/Qwen-MM-Plugins",
-          "publishedAt": "2026-08-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "A Controlled Study of Attention-Only Transformers (1 minute read)",
-          "url": "https://arxiv.org/abs/2607.18363",
-          "publishedAt": "2026-08-11T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
+          "publishedAt": "2026-08-11T16:25:20+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI puts the safety brakes on Astra",
@@ -393,13 +375,31 @@
           "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
           "publishedAt": "2026-08-07T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic solves Fable 5’s biggest problem",
+          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+          "publishedAt": "2026-08-07T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Google reshuffles AI leadership as rivals pull ahead",
+          "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum",
+          "publishedAt": "2026-08-06T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Meta joins coding-agent race with Muse Code",
+          "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+          "publishedAt": "2026-08-06T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-12T01:00:36+00:00",
+      "updatedAt": "2026-08-12T02:00:31+00:00",
       "stories": [
         {
           "title": "Defense drone developer Cambridge Aerospace raises $300M",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-12T01:00:36+00:00",
+    "updatedAt": "2026-08-12T02:00:31+00:00",
     "stories": [
       {
         "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Golden Dome faces 2027 funding cliff",
-        "url": "https://spacenews.com/golden-dome-faces-2027-funding-cliff",
-        "publishedAt": "2026-08-11T22:01:21+00:00",
+        "title": "U.S. expands missile production as Army seeks more depth in its arsenal",
+        "url": "https://spacenews.com/u-s-expands-missile-production-as-army-seeks-more-depth-in-its-arsenal",
+        "publishedAt": "2026-08-12T01:34:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -561,6 +561,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Golden Dome faces 2027 funding cliff",
+        "url": "https://spacenews.com/golden-dome-faces-2027-funding-cliff",
+        "publishedAt": "2026-08-11T22:01:21+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "National lab visit boosts NASA’s confidence in space nuclear propulsion mission",
         "url": "https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission",
         "publishedAt": "2026-08-11T21:01:02+00:00",
@@ -576,15 +585,6 @@
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Golden Dome money starting to reach contractors, but long-term funding still unclear",
-        "url": "https://spacenews.com/golden-dome-money-starting-to-reach-contractors-but-long-term-funding-still-unclear",
-        "publishedAt": "2026-08-11T18:00:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -700,7 +700,7 @@
     }
   ],
   "warnings": [
-    "NASA: 429 Client Error: Too Many Requests for url: https://www.nasa.gov/feed/",
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-16"
   ]
 }
