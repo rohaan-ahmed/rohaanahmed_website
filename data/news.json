@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T21:08:04+00:00",
+  "generatedAt": "2026-08-13T21:58:06+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-13T21:08:04+00:00",
+      "updatedAt": "2026-08-13T21:58:06+00:00",
       "stories": [
         {
           "title": "Space Command expands Alabama footprint as headquarters relocation advances",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-13T21:08:04+00:00",
+      "updatedAt": "2026-08-13T21:58:06+00:00",
       "stories": [
         {
           "title": "MDA Space opens CHORUS control centre in Quebec",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-13T21:08:04+00:00",
+      "updatedAt": "2026-08-13T21:58:06+00:00",
       "stories": [
         {
           "title": "Statement from Minister McGuinty on the Defence Team's Commitment to Official Languages and the protection of French",
@@ -217,8 +217,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-13T21:08:04+00:00",
+      "updatedAt": "2026-08-13T21:58:06+00:00",
       "stories": [
+        {
+          "title": "Trump orders return of steam catapults on carriers, fifth public shipyard",
+          "url": "https://breakingdefense.com/2026/08/trump-orders-return-of-steam-catapults-on-carriers-fifth-public-shipyard",
+          "publishedAt": "2026-08-13T21:49:57+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Priorities for Army fires top off SMD Day 3",
+          "url": "https://breakingdefense.com/2026/08/priorities-for-army-fires-top-off-smd-day-3",
+          "publishedAt": "2026-08-13T21:48:40+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Army gears up to ‘engage’ enemy surveillance satellites",
           "url": "https://breakingdefense.com/2026/08/army-gears-up-to-engage-enemy-surveillance-satellites",
@@ -238,16 +250,10 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Polish Navy floats first frigate under major modernization program",
-          "url": "https://breakingdefense.com/2026/08/polish-navy-floats-first-frigate-under-major-modernization-program",
-          "publishedAt": "2026-08-13T18:47:29+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Army’s Iron Horse brigade prepares to test M1E3, XM30 prototypes",
-          "url": "https://breakingdefense.com/2026/08/armys-iron-horse-brigade-prepares-to-test-m1e3-xm30-prototypes",
-          "publishedAt": "2026-08-13T17:49:56+00:00",
-          "source": "Breaking Defense"
+          "title": "Pentagon’s nascent BOND program informed Feinberg’s new ‘Funding Palantir’ memo",
+          "url": "https://defensescoop.com/2026/08/13/feinberg-funding-palantir-memo-pentagon-bond-program",
+          "publishedAt": "2026-08-13T21:33:41+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "US Marines roam far and wide from temporary Darwin base",
@@ -298,12 +304,6 @@
           "source": "Defense News"
         },
         {
-          "title": "More reach, more to carry, more to learn: How soldiers wrestled with drones in the Mojave Desert",
-          "url": "https://defensescoop.com/2026/08/11/how-soldiers-wrestled-with-drones-in-the-mojave-desert",
-          "publishedAt": "2026-08-11T23:03:42+00:00",
-          "source": "DefenseScoop"
-        },
-        {
           "title": "Boeing unveils cheap radar seeker built from off-the-shelf parts",
           "url": "https://www.defensenews.com/industry/techwatch/2026/08/11/boeing-unveils-cheap-radar-seeker-built-from-off-the-shelf-parts",
           "publishedAt": "2026-08-11T18:39:53+00:00",
@@ -314,13 +314,19 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-13T21:08:04+00:00",
+      "updatedAt": "2026-08-13T21:58:06+00:00",
       "stories": [
         {
           "title": "SpaceXAI’s Grok 4.6 storms the frontier",
           "url": "https://x.ai/news/grok-4-6",
           "publishedAt": "2026-08-13T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+          "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs",
+          "publishedAt": "2026-08-13T21:13:24+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
@@ -332,12 +338,6 @@
           "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
           "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
           "publishedAt": "2026-08-13T19:22:40+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "IBM partners with OpenAI to bolster enterprise AI push",
-          "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push",
-          "publishedAt": "2026-08-13T19:19:49+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-13T21:08:04+00:00",
+      "updatedAt": "2026-08-13T21:58:06+00:00",
       "stories": [
         {
           "title": "Mobile manipulators and humanoids: The future of robotics",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-13T21:08:04+00:00",
+    "updatedAt": "2026-08-13T21:58:06+00:00",
     "stories": [
       {
         "title": "SpaceXAI’s Grok 4.6 storms the frontier",
@@ -519,9 +519,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-        "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation",
-        "publishedAt": "2026-08-13T20:14:39+00:00",
+        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs",
+        "publishedAt": "2026-08-13T21:13:24+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -555,9 +555,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Army gears up to ‘engage’ enemy surveillance satellites",
-        "url": "https://breakingdefense.com/2026/08/army-gears-up-to-engage-enemy-surveillance-satellites",
-        "publishedAt": "2026-08-13T20:32:07+00:00",
+        "title": "Trump orders return of steam catapults on carriers, fifth public shipyard",
+        "url": "https://breakingdefense.com/2026/08/trump-orders-return-of-steam-catapults-on-carriers-fifth-public-shipyard",
+        "publishedAt": "2026-08-13T21:49:57+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
