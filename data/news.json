@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-13T22:00:31+00:00",
+  "generatedAt": "2026-08-13T22:56:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-13T22:00:31+00:00",
+      "updatedAt": "2026-08-13T22:56:25+00:00",
       "stories": [
+        {
+          "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
+          "url": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests",
+          "publishedAt": "2026-08-13T22:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Space Command expands Alabama footprint as headquarters relocation advances",
           "url": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances",
@@ -67,12 +73,6 @@
           "source": "NASA"
         },
         {
-          "title": "Virgin Galactic delays resumption of commercial flights to 2027",
-          "url": "https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027",
-          "publishedAt": "2026-08-13T01:46:10+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Perseids Meteor Shower",
           "url": "https://www.nasa.gov/image-article/perseids-meteor-shower-2",
           "publishedAt": "2026-08-13T15:08:34+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-13T22:00:31+00:00",
+      "updatedAt": "2026-08-13T22:56:25+00:00",
       "stories": [
         {
           "title": "MDA Space opens CHORUS control centre in Quebec",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-13T22:00:31+00:00",
+      "updatedAt": "2026-08-13T22:56:25+00:00",
       "stories": [
         {
           "title": "Statement from Minister McGuinty on the Defence Team's Commitment to Official Languages and the protection of French",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-13T22:00:31+00:00",
+      "updatedAt": "2026-08-13T22:56:25+00:00",
       "stories": [
         {
           "title": "Trump orders return of steam catapults on carriers, fifth public shipyard",
@@ -248,6 +248,12 @@
           "url": "https://breakingdefense.com/2026/08/day-3-of-the-2026-space-and-missile-defense-symposium",
           "publishedAt": "2026-08-13T19:14:33+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "DIA’s artificial intelligence chief envisions ‘agent-to-agents’ interactions that support military operations",
+          "url": "https://defensescoop.com/2026/08/13/dia-artificial-intelligence-agent-to-agents",
+          "publishedAt": "2026-08-13T22:27:55+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Pentagon’s nascent BOND program informed Feinberg’s new ‘Funding Palantir’ memo",
@@ -292,12 +298,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "Guetlein: Golden Dome in jeopardy due to 2027 funding uncertainty",
-          "url": "https://defensescoop.com/2026/08/12/guetlein-golden-dome-in-jeopardy-due-to-2027-funding-uncertainty",
-          "publishedAt": "2026-08-12T19:41:28+00:00",
-          "source": "DefenseScoop"
-        },
-        {
           "title": "Trump swaps planes via catering truck after Iranian threats, reports say",
           "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/12/trump-swaps-planes-via-catering-truck-after-iranian-threats-reports-say",
           "publishedAt": "2026-08-12T15:13:20+00:00",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-13T22:00:31+00:00",
+      "updatedAt": "2026-08-13T22:56:25+00:00",
       "stories": [
         {
           "title": "SpaceXAI’s Grok 4.6 storms the frontier",
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-13T22:00:31+00:00",
+      "updatedAt": "2026-08-13T22:56:25+00:00",
       "stories": [
         {
           "title": "Mobile manipulators and humanoids: The future of robotics",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-13T22:00:31+00:00",
+    "updatedAt": "2026-08-13T22:56:25+00:00",
     "stories": [
       {
         "title": "SpaceXAI’s Grok 4.6 storms the frontier",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Space Command expands Alabama footprint as headquarters relocation advances",
-        "url": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances",
-        "publishedAt": "2026-08-13T16:27:05+00:00",
+        "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
+        "url": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests",
+        "publishedAt": "2026-08-13T22:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -582,18 +582,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "An optical link ‘internet’ to connect networks in space",
-        "url": "https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space",
-        "publishedAt": "2026-08-13T14:39:26+00:00",
+        "title": "Space Command expands Alabama footprint as headquarters relocation advances",
+        "url": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances",
+        "publishedAt": "2026-08-13T16:27:05+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity",
-        "url": "https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity",
-        "publishedAt": "2026-08-13T14:27:27+00:00",
+        "title": "An optical link ‘internet’ to connect networks in space",
+        "url": "https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space",
+        "publishedAt": "2026-08-13T14:39:26+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -713,7 +713,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-03",
-    "Ottawa Citizen Defence Watch: HTTPSConnectionPool(host='ottawacitizen.com', port=443): Read timed out. (read timeout=25)"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-30"
   ]
 }
