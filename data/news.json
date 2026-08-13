@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T18:31:34+00:00",
+  "generatedAt": "2026-08-13T19:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-13T18:31:34+00:00",
+      "updatedAt": "2026-08-13T19:00:33+00:00",
       "stories": [
         {
           "title": "Space Command expands Alabama footprint as headquarters relocation advances",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-13T18:31:34+00:00",
+      "updatedAt": "2026-08-13T19:00:33+00:00",
       "stories": [
+        {
+          "title": "Kepler Communications buys first dedicated launch, booking Rocket Lab’s Neutron",
+          "url": "https://spaceq.ca/kepler-communications-buys-first-dedicated-launch-booking-rocket-labs-neutron",
+          "publishedAt": "2026-08-13T18:56:24+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Voyager Technologies Q2 2026 results: growth by acquisition",
           "url": "https://spaceq.ca/voyager-technologies-q2-2026-results",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "Canadian Space Agency confirms continuation of Canadarm3 space robotics program",
-          "url": "https://spaceq.ca/canadian-space-agency-confirms-continuation-of-canadarm3-space-robotics-program",
-          "publishedAt": "2026-08-07T18:33:52+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Canada intends to repurpose Canadarm3 investments to support the next phase of lunar exploration",
           "url": "https://www.canada.ca/en/space-agency/news/2026/08/canada-intends-to-repurpose-canadarm3-investments-to-support-the-next-phase-of-lunar-exploration.html",
           "publishedAt": "2026-08-06T20:40:49+00:00",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-13T18:31:34+00:00",
+      "updatedAt": "2026-08-13T19:00:33+00:00",
       "stories": [
         {
           "title": "Statement from Minister McGuinty on the Defence Team's Commitment to Official Languages and the protection of French",
@@ -217,8 +217,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-13T18:31:34+00:00",
+      "updatedAt": "2026-08-13T19:00:33+00:00",
       "stories": [
+        {
+          "title": "Polish Navy floats first frigate under major modernization program",
+          "url": "https://breakingdefense.com/2026/08/polish-navy-floats-first-frigate-under-major-modernization-program",
+          "publishedAt": "2026-08-13T18:47:29+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Army’s Iron Horse brigade prepares to test M1E3, XM30 prototypes",
           "url": "https://breakingdefense.com/2026/08/armys-iron-horse-brigade-prepares-to-test-m1e3-xm30-prototypes",
@@ -226,7 +232,7 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "U.S. Marines roam far and wide from temporary Darwin base",
+          "title": "US Marines roam far and wide from temporary Darwin base",
           "url": "https://www.defensenews.com/news/your-marine-corps/2026/08/13/us-marines-roam-far-and-wide-from-temporary-darwin-base",
           "publishedAt": "2026-08-13T18:26:28+00:00",
           "source": "Defense News"
@@ -253,12 +259,6 @@
           "title": "AEVEX to acquire BlackSea Technologies for up to $650M",
           "url": "https://breakingdefense.com/2026/08/aevex-to-acquire-blacksea-technologies-for-up-to-650m",
           "publishedAt": "2026-08-13T14:09:08+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Securing the AI flank to provide trusted decision-making capabilities",
-          "url": "https://breakingdefense.com/2026/08/securing-the-ai-flank-to-provide-trusted-decision-making-capabilities",
-          "publishedAt": "2026-08-13T12:24:00+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-13T18:31:34+00:00",
+      "updatedAt": "2026-08-13T19:00:33+00:00",
       "stories": [
         {
           "title": "SpaceXAI’s Grok 4.6 storms the frontier",
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-13T18:31:34+00:00",
+      "updatedAt": "2026-08-13T19:00:33+00:00",
       "stories": [
         {
           "title": "Mobile manipulators and humanoids: The future of robotics",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-13T18:31:34+00:00",
+    "updatedAt": "2026-08-13T19:00:33+00:00",
     "stories": [
       {
         "title": "SpaceXAI’s Grok 4.6 storms the frontier",
@@ -528,9 +528,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Voyager Technologies Q2 2026 results: growth by acquisition",
-        "url": "https://spaceq.ca/voyager-technologies-q2-2026-results",
-        "publishedAt": "2026-08-13T11:18:00+00:00",
+        "title": "Kepler Communications buys first dedicated launch, booking Rocket Lab’s Neutron",
+        "url": "https://spaceq.ca/kepler-communications-buys-first-dedicated-launch-booking-rocket-labs-neutron",
+        "publishedAt": "2026-08-13T18:56:24+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -555,9 +555,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Army’s Iron Horse brigade prepares to test M1E3, XM30 prototypes",
-        "url": "https://breakingdefense.com/2026/08/armys-iron-horse-brigade-prepares-to-test-m1e3-xm30-prototypes",
-        "publishedAt": "2026-08-13T17:49:56+00:00",
+        "title": "Polish Navy floats first frigate under major modernization program",
+        "url": "https://breakingdefense.com/2026/08/polish-navy-floats-first-frigate-under-major-modernization-program",
+        "publishedAt": "2026-08-13T18:47:29+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -591,12 +591,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Paragon lays off staff after Gateway cancellation",
-        "url": "https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation",
-        "publishedAt": "2026-08-13T10:13:56+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Voyager Technologies Q2 2026 results: growth by acquisition",
+        "url": "https://spaceq.ca/voyager-technologies-q2-2026-results",
+        "publishedAt": "2026-08-13T11:18:00+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]

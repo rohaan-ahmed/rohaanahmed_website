@@ -5,16 +5,16 @@
     <link>https://rohaanahmed.com/news.html</link>
     <description>An automatically curated news feed built around my areas of interest</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 13 Aug 2026 18:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 19:00:33 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <guid isPermaLink="false">ec20b52256fc53c862ce8de2e6be013b5ae54e305e7bf815fb0c6553787818cc</guid>
+      <guid isPermaLink="false">f3bf30187340e8810576389c2859e73183a902e7429b5bb152b122d9874fe76f</guid>
       <title>International Space (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-space</link>
-      <pubDate>Thu, 13 Aug 2026 18:31:34 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 19:00:33 +0000</pubDate>
       <category>International Space</category>
       <description>Topic: International Space
-Updated: 2026-08-13T18:31:34+00:00
+Updated: 2026-08-13T19:00:33+00:00
 Stories: 15</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
@@ -90,7 +90,6 @@ Headline: Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as 
       <guid isPermaLink="false">89c1c289dfbabf3359310dae6d5293641acc67cccf7e92b609cc42eb1ccbddc0</guid>
       <pubDate>Thu, 13 Aug 2026 10:13:56 +0000</pubDate>
       <category>International Space</category>
-      <category>Bulletin</category>
       <source url="https://spacenews.com/">SpaceNews</source>
       <description>Topic: International Space
 Source: SpaceNews
@@ -100,7 +99,6 @@ Headline: Paragon lays off staff after Gateway cancellation</description>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
       <ra:storyPosition>4</ra:storyPosition>
-      <ra:bulletinPosition>10</ra:bulletinPosition>
       <ra:publishedAt>2026-08-13T10:13:56+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -315,18 +313,39 @@ Headline: Dust and water spotted close to giant black hole</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">0dbc288e9908e4255f04790b6135a4b6006d1a0a223bb8e4efeb1299b1bd8ce8</guid>
+      <guid isPermaLink="false">1944f22f4e62b0c5a64eba40d1f6c0f3fb84e4e5015734909a0876d22d5a535e</guid>
       <title>Canadian Space (12 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
-      <pubDate>Thu, 13 Aug 2026 18:31:34 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 19:00:33 +0000</pubDate>
       <category>Canadian Space</category>
       <description>Topic: Canadian Space
-Updated: 2026-08-13T18:31:34+00:00
+Updated: 2026-08-13T19:00:33+00:00
 Stories: 12</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
       <ra:kind>topic</ra:kind>
+    </item>
+    <item>
+      <title>Kepler Communications buys first dedicated launch, booking Rocket Lab’s Neutron</title>
+      <link>https://spaceq.ca/kepler-communications-buys-first-dedicated-launch-booking-rocket-labs-neutron</link>
+      <guid isPermaLink="false">6884d2d8a0c4b70023c6131d9184d00b21f8c9886fe76451eb2bf9032bbcbacf</guid>
+      <pubDate>Thu, 13 Aug 2026 18:56:24 +0000</pubDate>
+      <category>Canadian Space</category>
+      <category>Bulletin</category>
+      <source url="https://spaceq.ca/">SpaceQ</source>
+      <description>Topic: Canadian Space
+Source: SpaceQ
+Published: 2026-08-13T18:56:24+00:00
+Headline: Kepler Communications buys first dedicated launch, booking Rocket Lab’s Neutron</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>3</ra:bulletinPosition>
+      <ra:publishedAt>2026-08-13T18:56:24+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceQ</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Voyager Technologies Q2 2026 results: growth by acquisition</title>
@@ -343,8 +362,8 @@ Headline: Voyager Technologies Q2 2026 results: growth by acquisition</descripti
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>3</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:bulletinPosition>10</ra:bulletinPosition>
       <ra:publishedAt>2026-08-13T11:18:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -363,7 +382,7 @@ Headline: STRATOS 2026 Campaign: Canadian experiments to be tested in space-like
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
+      <ra:storyPosition>3</ra:storyPosition>
       <ra:publishedAt>2026-08-13T15:27:21+00:00</ra:publishedAt>
       <ra:sourceName>Canadian Space Agency</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -382,7 +401,7 @@ Headline: Calian lands British Army training contract worth $20M a year</descrip
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-08-12T22:22:08+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -401,7 +420,7 @@ Headline: DRDC tasks EarthDaily with geospatial platform for RCMP border monitor
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-08-12T11:02:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -420,7 +439,7 @@ Headline: GHGSat satellites C-16 and C-17 achieve first light with methane detec
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
+      <ra:storyPosition>6</ra:storyPosition>
       <ra:publishedAt>2026-08-11T21:42:56+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -439,7 +458,7 @@ Headline: Canadian Space Agency returns to the stratosphere for ICARUS 2026</des
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>6</ra:storyPosition>
+      <ra:storyPosition>7</ra:storyPosition>
       <ra:publishedAt>2026-08-11T20:09:25+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -458,7 +477,7 @@ Headline: Canadian robotics, mission controllers celebrated during NASA Johnson 
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>7</ra:storyPosition>
+      <ra:storyPosition>8</ra:storyPosition>
       <ra:publishedAt>2026-08-11T15:56:09+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -477,7 +496,7 @@ Headline: WildFireSat bulletin released, fall procurement seems likely</descript
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>8</ra:storyPosition>
+      <ra:storyPosition>9</ra:storyPosition>
       <ra:publishedAt>2026-08-10T17:45:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -496,7 +515,7 @@ Headline: In Defence of Canada briefing: A $2.3B space communications contract a
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>9</ra:storyPosition>
+      <ra:storyPosition>10</ra:storyPosition>
       <ra:publishedAt>2026-08-10T16:05:10+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -515,27 +534,8 @@ Headline: MDA Space books $809 million in Q2 orders</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
-      <ra:publishedAt>2026-08-10T11:28:00+00:00</ra:publishedAt>
-      <ra:sourceName>SpaceQ</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Canadian Space Agency confirms continuation of Canadarm3 space robotics program</title>
-      <link>https://spaceq.ca/canadian-space-agency-confirms-continuation-of-canadarm3-space-robotics-program</link>
-      <guid isPermaLink="false">062e4e4146dbdd161ca5f0a495446a13fb21a87687a67fbaeff6f07f82ed259b</guid>
-      <pubDate>Fri, 07 Aug 2026 18:33:52 +0000</pubDate>
-      <category>Canadian Space</category>
-      <source url="https://spaceq.ca/">SpaceQ</source>
-      <description>Topic: Canadian Space
-Source: SpaceQ
-Published: 2026-08-07T18:33:52+00:00
-Headline: Canadian Space Agency confirms continuation of Canadarm3 space robotics program</description>
-      <ra:topicId>canadian-space</ra:topicId>
-      <ra:topicName>Canadian Space</ra:topicName>
-      <ra:topicPosition>2</ra:topicPosition>
       <ra:storyPosition>11</ra:storyPosition>
-      <ra:publishedAt>2026-08-07T18:33:52+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-08-10T11:28:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -559,13 +559,13 @@ Headline: Canada intends to repurpose Canadarm3 investments to support the next 
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">7b4f2234c45024d8f0c3618331982d3d280fb4b8ce6fdd434c3a1eda46925e45</guid>
+      <guid isPermaLink="false">072e67df0d689b4fd98bf5da4176fc69076a5cdf909e6ba795ea083cccf852b0</guid>
       <title>Canadian Defence (5 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
-      <pubDate>Thu, 13 Aug 2026 18:31:34 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 19:00:33 +0000</pubDate>
       <category>Canadian Defence</category>
       <description>Topic: Canadian Defence
-Updated: 2026-08-13T18:31:34+00:00
+Updated: 2026-08-13T19:00:33+00:00
 Stories: 5</description>
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
@@ -670,13 +670,13 @@ Headline: Minister McGuinty to deliver keynote address on Alberta’s support to
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">bcbfd51563dea46ef187a87fadb021cf345e6c71fc2f3b34fdd8e58f22a24f09</guid>
+      <guid isPermaLink="false">9acf89b9d8f3f3950ffedc19f3ec6f9011c4d37a7422a2a290fb00e8682e73b2</guid>
       <title>International Defence Technology (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
-      <pubDate>Thu, 13 Aug 2026 18:31:34 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 19:00:33 +0000</pubDate>
       <category>International Defence Technology</category>
       <description>Topic: International Defence Technology
-Updated: 2026-08-13T18:31:34+00:00
+Updated: 2026-08-13T19:00:33+00:00
 Stories: 15</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
@@ -684,12 +684,32 @@ Stories: 15</description>
       <ra:kind>topic</ra:kind>
     </item>
     <item>
+      <title>Polish Navy floats first frigate under major modernization program</title>
+      <link>https://breakingdefense.com/2026/08/polish-navy-floats-first-frigate-under-major-modernization-program</link>
+      <guid isPermaLink="false">ea9c3bc51e258e92d95e3cc98c41088a546503529a3f61be59c9575730276f14</guid>
+      <pubDate>Thu, 13 Aug 2026 18:47:29 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <category>Bulletin</category>
+      <source url="https://breakingdefense.com/">Breaking Defense</source>
+      <description>Topic: International Defence Technology
+Source: Breaking Defense
+Published: 2026-08-13T18:47:29+00:00
+Headline: Polish Navy floats first frigate under major modernization program</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>6</ra:bulletinPosition>
+      <ra:publishedAt>2026-08-13T18:47:29+00:00</ra:publishedAt>
+      <ra:sourceName>Breaking Defense</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
       <title>Army’s Iron Horse brigade prepares to test M1E3, XM30 prototypes</title>
       <link>https://breakingdefense.com/2026/08/armys-iron-horse-brigade-prepares-to-test-m1e3-xm30-prototypes</link>
       <guid isPermaLink="false">797a607ef22f3ad17e9762ee5f810fcefb7739070b31794ad4d47838dcdeec95</guid>
       <pubDate>Thu, 13 Aug 2026 17:49:56 +0000</pubDate>
       <category>International Defence Technology</category>
-      <category>Bulletin</category>
       <source url="https://breakingdefense.com/">Breaking Defense</source>
       <description>Topic: International Defence Technology
 Source: Breaking Defense
@@ -698,14 +718,13 @@ Headline: Army’s Iron Horse brigade prepares to test M1E3, XM30 prototypes</de
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>6</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
       <ra:publishedAt>2026-08-13T17:49:56+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>U.S. Marines roam far and wide from temporary Darwin base</title>
+      <title>US Marines roam far and wide from temporary Darwin base</title>
       <link>https://www.defensenews.com/news/your-marine-corps/2026/08/13/us-marines-roam-far-and-wide-from-temporary-darwin-base</link>
       <guid isPermaLink="false">462221bdbfa3165a33d7eecf1a63c47d6cbb2da56695625a0fa0528ec4036fc5</guid>
       <pubDate>Thu, 13 Aug 2026 18:26:28 +0000</pubDate>
@@ -714,11 +733,11 @@ Headline: Army’s Iron Horse brigade prepares to test M1E3, XM30 prototypes</de
       <description>Topic: International Defence Technology
 Source: Defense News
 Published: 2026-08-13T18:26:28+00:00
-Headline: U.S. Marines roam far and wide from temporary Darwin base</description>
+Headline: US Marines roam far and wide from temporary Darwin base</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
+      <ra:storyPosition>3</ra:storyPosition>
       <ra:publishedAt>2026-08-13T18:26:28+00:00</ra:publishedAt>
       <ra:sourceName>Defense News</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -737,7 +756,7 @@ Headline: On Asia trip, DoD policy chief has praise for AUKUS, and a warning for
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-08-13T16:27:24+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -756,7 +775,7 @@ Headline: AI’s next leap for the Intelligence Community: Agents managing agent
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-08-13T15:00:00+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -775,7 +794,7 @@ Headline: Flight-tracking data shows continued Russian air bridge to sub-Saharan
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
+      <ra:storyPosition>6</ra:storyPosition>
       <ra:publishedAt>2026-08-13T15:07:56+00:00</ra:publishedAt>
       <ra:sourceName>Defense News</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -794,27 +813,8 @@ Headline: AEVEX to acquire BlackSea Technologies for up to $650M</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>6</ra:storyPosition>
-      <ra:publishedAt>2026-08-13T14:09:08+00:00</ra:publishedAt>
-      <ra:sourceName>Breaking Defense</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Securing the AI flank to provide trusted decision-making capabilities</title>
-      <link>https://breakingdefense.com/2026/08/securing-the-ai-flank-to-provide-trusted-decision-making-capabilities</link>
-      <guid isPermaLink="false">7fec9639137c41dccc07a6e247e6ad828b4e7ac794c5cbaa4ce90a71dff9fe39</guid>
-      <pubDate>Thu, 13 Aug 2026 12:24:00 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://breakingdefense.com/">Breaking Defense</source>
-      <description>Topic: International Defence Technology
-Source: Breaking Defense
-Published: 2026-08-13T12:24:00+00:00
-Headline: Securing the AI flank to provide trusted decision-making capabilities</description>
-      <ra:topicId>international-defence-technology</ra:topicId>
-      <ra:topicName>International Defence Technology</ra:topicName>
-      <ra:topicPosition>4</ra:topicPosition>
       <ra:storyPosition>7</ra:storyPosition>
-      <ra:publishedAt>2026-08-13T12:24:00+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-08-13T14:09:08+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -971,13 +971,13 @@ Headline: MDA pursuing mobile radar to detect and track hypersonic missiles, oth
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">0c4d142756bf0e554fdf016415f17c7f13fd269acafea55de232ec16b16ebad9</guid>
+      <guid isPermaLink="false">82eeaedc4341d5e1bdd4910d624452b991c84d4135129db75535f8550da1aed7</guid>
       <title>Artificial Intelligence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
-      <pubDate>Thu, 13 Aug 2026 18:31:34 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 19:00:33 +0000</pubDate>
       <category>Artificial Intelligence</category>
       <description>Topic: Artificial Intelligence
-Updated: 2026-08-13T18:31:34+00:00
+Updated: 2026-08-13T19:00:33+00:00
 Stories: 15</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
@@ -1274,13 +1274,13 @@ Headline: AI agent hacks a gym to jump the waitlist</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">27749b93b4ecb2cc1d616f89af887705e8bdbe0eb7a05c02406353058cf98470</guid>
+      <guid isPermaLink="false">e0f128f075bec5f7284e140aa0f37048461ba17579c2126f375374f303034ed5</guid>
       <title>Robotics (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-robotics</link>
-      <pubDate>Thu, 13 Aug 2026 18:31:34 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 19:00:33 +0000</pubDate>
       <category>Robotics</category>
       <description>Topic: Robotics
-Updated: 2026-08-13T18:31:34+00:00
+Updated: 2026-08-13T19:00:33+00:00
 Stories: 15</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
