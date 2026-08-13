@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-13T10:00:27+00:00",
+  "generatedAt": "2026-08-13T10:32:07+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-13T10:00:27+00:00",
+      "updatedAt": "2026-08-13T10:32:07+00:00",
       "stories": [
+        {
+          "title": "Paragon lays off staff after Gateway cancellation",
+          "url": "https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation",
+          "publishedAt": "2026-08-13T10:13:56+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Astranis unveils geostationary surveillance satellite",
           "url": "https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite",
@@ -47,12 +53,6 @@
           "url": "https://www.space.com/space-exploration/satellites/astranis-perceptor-satellites-geostationary-orbit-space-situational-awareness",
           "publishedAt": "2026-08-13T09:30:00+00:00",
           "source": "Space.com"
-        },
-        {
-          "title": "Golden Dome creates digital hub to expand commercial participation",
-          "url": "https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation",
-          "publishedAt": "2026-08-12T14:00:00+00:00",
-          "source": "SpaceNews"
         },
         {
           "title": "APOD: 2026 August 13 – Total Solar Eclipse Over Spain",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-13T10:00:27+00:00",
+      "updatedAt": "2026-08-13T10:32:07+00:00",
       "stories": [
         {
           "title": "Calian lands British Army training contract worth $20M a year",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-13T10:00:27+00:00",
+      "updatedAt": "2026-08-13T10:32:07+00:00",
       "stories": [
         {
           "title": "Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed Systems Accelerator 2026",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-13T10:00:27+00:00",
+      "updatedAt": "2026-08-13T10:32:07+00:00",
       "stories": [
         {
           "title": "Should the US demonstrate its space weapons?",
@@ -302,8 +302,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-13T10:00:27+00:00",
+      "updatedAt": "2026-08-13T10:32:07+00:00",
       "stories": [
+        {
+          "title": "SpaceXAI’s Grok 4.6 storms the frontier",
+          "url": "https://x.ai/news/grok-4-6",
+          "publishedAt": "2026-08-13T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
           "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
@@ -387,19 +393,13 @@
           "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
           "publishedAt": "2026-08-07T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic solves Fable 5’s biggest problem",
-          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-          "publishedAt": "2026-08-07T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-13T10:00:27+00:00",
+      "updatedAt": "2026-08-13T10:32:07+00:00",
       "stories": [
         {
           "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
@@ -495,22 +495,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-13T10:00:27+00:00",
+    "updatedAt": "2026-08-13T10:32:07+00:00",
     "stories": [
       {
-        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-        "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-        "publishedAt": "2026-08-12T22:26:37+00:00",
-        "source": "TechCrunch AI",
+        "title": "SpaceXAI’s Grok 4.6 storms the frontier",
+        "url": "https://x.ai/news/grok-4-6",
+        "publishedAt": "2026-08-13T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Anthropic adds AI watermarks to Claude outputs",
-        "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-        "publishedAt": "2026-08-12T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+        "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+        "publishedAt": "2026-08-12T22:26:37+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Astranis unveils geostationary surveillance satellite",
-        "url": "https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite",
-        "publishedAt": "2026-08-13T09:30:00+00:00",
+        "title": "Paragon lays off staff after Gateway cancellation",
+        "url": "https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation",
+        "publishedAt": "2026-08-13T10:13:56+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -561,6 +561,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Astranis unveils geostationary surveillance satellite",
+        "url": "https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite",
+        "publishedAt": "2026-08-13T09:30:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Virgin Galactic delays resumption of commercial flights to 2027",
         "url": "https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027",
         "publishedAt": "2026-08-13T01:46:10+00:00",
@@ -573,15 +582,6 @@
         "title": "Space Force orders two more Impulse Space vehicles for maneuvering demonstrations",
         "url": "https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations",
         "publishedAt": "2026-08-12T23:30:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Pentagon missile buildup changing the factory floor",
-        "url": "https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor",
-        "publishedAt": "2026-08-12T23:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -701,6 +701,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-31"
+    "TLDR AI: HTTPSConnectionPool(host='tldr.tech', port=443): Max retries exceeded with url: /api/rss/ai (Caused by ConnectTimeoutError(<HTTPSConnection(host='tldr.tech', port=443) at 0x7f0046fcb770>, 'Connection to tldr.tech timed out. (connect timeout=25)'))"
   ]
 }
