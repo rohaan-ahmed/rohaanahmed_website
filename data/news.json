@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T11:00:31+00:00",
+  "generatedAt": "2026-08-13T11:24:19+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-13T11:00:31+00:00",
+      "updatedAt": "2026-08-13T11:24:19+00:00",
       "stories": [
         {
           "title": "Paragon lays off staff after Gateway cancellation",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-13T11:00:31+00:00",
+      "updatedAt": "2026-08-13T11:24:19+00:00",
       "stories": [
+        {
+          "title": "Voyager Technologies Q2 2026 results: growth by acquisition",
+          "url": "https://spaceq.ca/voyager-technologies-q2-2026-results",
+          "publishedAt": "2026-08-13T11:18:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Calian lands British Army training contract worth $20M a year",
           "url": "https://spaceq.ca/calian-british-army-training-contract",
@@ -158,12 +164,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "SpaceX’s rideshare freeze: What it means for the SmallSat market and Canada",
-          "url": "https://spaceq.ca/spacexs-rideshare-freeze-what-it-means-for-the-smallsat-market-and-canada",
-          "publishedAt": "2026-08-07T00:42:36+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Canada intends to repurpose Canadarm3 investments to support the next phase of lunar exploration",
           "url": "https://www.canada.ca/en/space-agency/news/2026/08/canada-intends-to-repurpose-canadarm3-investments-to-support-the-next-phase-of-lunar-exploration.html",
           "publishedAt": "2026-08-06T20:40:49+00:00",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-13T11:00:31+00:00",
+      "updatedAt": "2026-08-13T11:24:19+00:00",
       "stories": [
         {
           "title": "Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed Systems Accelerator 2026",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-13T11:00:31+00:00",
+      "updatedAt": "2026-08-13T11:24:19+00:00",
       "stories": [
         {
           "title": "Should the US demonstrate its space weapons?",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-13T11:00:31+00:00",
+      "updatedAt": "2026-08-13T11:24:19+00:00",
       "stories": [
         {
           "title": "SpaceXAI’s Grok 4.6 storms the frontier",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-13T11:00:31+00:00",
+      "updatedAt": "2026-08-13T11:24:19+00:00",
       "stories": [
         {
           "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-13T11:00:31+00:00",
+    "updatedAt": "2026-08-13T11:24:19+00:00",
     "stories": [
       {
         "title": "SpaceXAI’s Grok 4.6 storms the frontier",
@@ -516,9 +516,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Calian lands British Army training contract worth $20M a year",
-        "url": "https://spaceq.ca/calian-british-army-training-contract",
-        "publishedAt": "2026-08-12T22:22:08+00:00",
+        "title": "Voyager Technologies Q2 2026 results: growth by acquisition",
+        "url": "https://spaceq.ca/voyager-technologies-q2-2026-results",
+        "publishedAt": "2026-08-13T11:18:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
