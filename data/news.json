@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T20:00:33+00:00",
+  "generatedAt": "2026-08-13T20:17:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-13T20:00:33+00:00",
+      "updatedAt": "2026-08-13T20:17:31+00:00",
       "stories": [
         {
           "title": "Space Command expands Alabama footprint as headquarters relocation advances",
@@ -37,6 +37,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "Supermassive black hole spews energy 300,000 light years into deep space",
+          "url": "https://www.space.com/astronomy/black-holes/supermassive-black-hole-spews-energy-300-000-light-years-into-deep-space",
+          "publishedAt": "2026-08-13T20:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "NASA's canceled lunar space station tech will help build the Artemis moon base",
           "url": "https://www.space.com/space-exploration/artemis/nasas-canceled-lunar-space-station-tech-will-help-build-the-artemis-moon-base",
           "publishedAt": "2026-08-13T19:00:00+00:00",
@@ -58,12 +64,6 @@
           "title": "'The X-Files' creator Chris Carter says new director's cut of 'I Want to Believe' is 'the horror movie that we really wanted to make' (interview)",
           "url": "https://www.space.com/entertainment/space-movies-shows/the-x-files-creator-chris-carter-says-new-directors-cut-of-i-want-to-believe-is-the-horror-movie-that-we-really-wanted-to-make-interview",
           "publishedAt": "2026-08-13T18:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "How to image the planets with a telescope and camera",
-          "url": "https://www.space.com/stargazing/skywatching-kit/how-to-image-the-planets-with-a-telescope-and-camera",
-          "publishedAt": "2026-08-13T17:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-13T20:00:33+00:00",
+      "updatedAt": "2026-08-13T20:17:31+00:00",
       "stories": [
         {
           "title": "Kepler Communications buys first dedicated launch, booking Rocket Lab’s Neutron",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-13T20:00:33+00:00",
+      "updatedAt": "2026-08-13T20:17:31+00:00",
       "stories": [
         {
           "title": "Statement from Minister McGuinty on the Defence Team's Commitment to Official Languages and the protection of French",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-13T20:00:33+00:00",
+      "updatedAt": "2026-08-13T20:17:31+00:00",
       "stories": [
         {
           "title": "Army fires community tackling four ‘capability gaps,’ including magazine depth",
@@ -314,13 +314,19 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-13T20:00:33+00:00",
+      "updatedAt": "2026-08-13T20:17:31+00:00",
       "stories": [
         {
           "title": "SpaceXAI’s Grok 4.6 storms the frontier",
           "url": "https://x.ai/news/grok-4-6",
           "publishedAt": "2026-08-13T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+          "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation",
+          "publishedAt": "2026-08-13T20:14:39+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
@@ -341,34 +347,16 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Claude's Chrome Side Panel Becomes a Full Cowork Session (2 minute read)",
-          "url": "https://claude.com/claude-in-chrome",
-          "publishedAt": "2026-08-13T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "OpenAI hires new CRO as executive shake-up continues",
+          "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues",
+          "publishedAt": "2026-08-13T17:07:13+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Qwen3.8-2.4T-A95B (8 minute read)",
-          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-          "publishedAt": "2026-08-13T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Specula: Scaling formal specifications for autonomous model checking of system code (13 minute read)",
-          "url": "https://muratbuffalo.blogspot.com/2026/08/specula-scaling-formal-specifications.html",
-          "publishedAt": "2026-08-13T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Microsoft Launches MAI-Thinking-1 (5 minute read)",
-          "url": "https://microsoft.ai/news/introducing-mai-thinking-1",
-          "publishedAt": "2026-08-13T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "MAI-Image-2.6 Reaches No. 2 on Arena (4 minute read)",
-          "url": "https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai",
-          "publishedAt": "2026-08-13T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+          "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps",
+          "publishedAt": "2026-08-13T15:30:52+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Anthropic adds AI watermarks to Claude outputs",
@@ -381,12 +369,6 @@
           "url": "https://x.ai/news/introducing-grok-bot",
           "publishedAt": "2026-08-12T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Brad Lightcap, OpenAI's longtime COO, is leaving to ‘start something new' (2 minute read)",
-          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
-          "publishedAt": "2026-08-12T00:00:00+00:00",
-          "source": "TLDR AI"
         },
         {
           "title": "Meta returns to open-source roots with Glimmer",
@@ -405,13 +387,31 @@
           "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
           "publishedAt": "2026-08-11T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI puts the safety brakes on Astra",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "publishedAt": "2026-08-10T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "China’s Kimi K3 joins the jailbreak party in testing",
+          "url": "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations",
+          "publishedAt": "2026-08-10T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "AI designs working viruses from scratch",
+          "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
+          "publishedAt": "2026-08-07T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-13T20:00:33+00:00",
+      "updatedAt": "2026-08-13T20:17:31+00:00",
       "stories": [
         {
           "title": "Mobile manipulators and humanoids: The future of robotics",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-13T20:00:33+00:00",
+    "updatedAt": "2026-08-13T20:17:31+00:00",
     "stories": [
       {
         "title": "SpaceXAI’s Grok 4.6 storms the frontier",
@@ -519,9 +519,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-        "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-        "publishedAt": "2026-08-13T19:22:40+00:00",
+        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+        "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation",
+        "publishedAt": "2026-08-13T20:14:39+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -712,6 +712,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-31"
   ]
 }
