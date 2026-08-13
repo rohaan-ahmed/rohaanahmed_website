@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T17:34:30+00:00",
+  "generatedAt": "2026-08-13T18:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-13T17:34:30+00:00",
+      "updatedAt": "2026-08-13T18:00:30+00:00",
       "stories": [
         {
           "title": "Space Command expands Alabama footprint as headquarters relocation advances",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-13T17:34:30+00:00",
+      "updatedAt": "2026-08-13T18:00:30+00:00",
       "stories": [
         {
           "title": "Voyager Technologies Q2 2026 results: growth by acquisition",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-13T17:34:30+00:00",
+      "updatedAt": "2026-08-13T18:00:30+00:00",
       "stories": [
         {
           "title": "Statement from Minister McGuinty on the Defence Team's Commitment to Official Languages and the protection of French",
@@ -217,8 +217,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-13T17:34:30+00:00",
+      "updatedAt": "2026-08-13T18:00:30+00:00",
       "stories": [
+        {
+          "title": "Army’s Iron Horse brigade prepares to test M1E3, XM30 prototypes",
+          "url": "https://breakingdefense.com/2026/08/armys-iron-horse-brigade-prepares-to-test-m1e3-xm30-prototypes",
+          "publishedAt": "2026-08-13T17:49:56+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "On Asia trip, DoD policy chief has praise for AUKUS, and a warning for ‘middle powers’",
           "url": "https://breakingdefense.com/2026/08/on-asia-trip-dod-policy-chief-has-praise-for-aukus-and-a-warning-for-middle-powers",
@@ -247,12 +253,6 @@
           "title": "Securing the AI flank to provide trusted decision-making capabilities",
           "url": "https://breakingdefense.com/2026/08/securing-the-ai-flank-to-provide-trusted-decision-making-capabilities",
           "publishedAt": "2026-08-13T12:24:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Should the US demonstrate its space weapons?",
-          "url": "https://breakingdefense.com/2026/08/should-the-us-demonstrate-its-space-weapons",
-          "publishedAt": "2026-08-13T00:57:02+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-13T17:34:30+00:00",
+      "updatedAt": "2026-08-13T18:00:30+00:00",
       "stories": [
         {
           "title": "SpaceXAI’s Grok 4.6 storms the frontier",
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-13T17:34:30+00:00",
+      "updatedAt": "2026-08-13T18:00:30+00:00",
       "stories": [
         {
           "title": "Mobile manipulators and humanoids: The future of robotics",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-13T17:34:30+00:00",
+    "updatedAt": "2026-08-13T18:00:30+00:00",
     "stories": [
       {
         "title": "SpaceXAI’s Grok 4.6 storms the frontier",
@@ -555,9 +555,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "On Asia trip, DoD policy chief has praise for AUKUS, and a warning for ‘middle powers’",
-        "url": "https://breakingdefense.com/2026/08/on-asia-trip-dod-policy-chief-has-praise-for-aukus-and-a-warning-for-middle-powers",
-        "publishedAt": "2026-08-13T16:27:24+00:00",
+        "title": "Army’s Iron Horse brigade prepares to test M1E3, XM30 prototypes",
+        "url": "https://breakingdefense.com/2026/08/armys-iron-horse-brigade-prepares-to-test-m1e3-xm30-prototypes",
+        "publishedAt": "2026-08-13T17:49:56+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
