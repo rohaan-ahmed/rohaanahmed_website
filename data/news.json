@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-14T22:02:53+00:00",
+  "generatedAt": "2026-08-14T22:34:17+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-14T22:02:53+00:00",
+      "updatedAt": "2026-08-14T22:34:17+00:00",
       "stories": [
+        {
+          "title": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
+          "url": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation",
+          "publishedAt": "2026-08-14T22:26:27+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Wallops gears up for an increase in launches",
           "url": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches",
@@ -37,12 +43,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Bulgaria advances project to launch new space, defense innovation hub",
-          "url": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub",
-          "publishedAt": "2026-08-14T09:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "'Strap yourself in and feel the Gs': NASA announces 'Max Power' aerospace expo",
           "url": "https://www.space.com/space-exploration/strap-yourself-in-and-feel-the-gs-nasa-announces-max-power-aerospace-expo",
           "publishedAt": "2026-08-14T22:00:00+00:00",
@@ -55,8 +55,8 @@
           "source": "Space.com"
         },
         {
-          "title": "Cards Against Humanity wants to erect a monument to 'honor' Elon Musk",
-          "url": "https://www.space.com/space-exploration/human-spaceflight/cards-against-humanity-wants-to-erect-a-monument-to-honor-elon-musk",
+          "title": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
+          "url": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
           "publishedAt": "2026-08-14T20:00:00+00:00",
           "source": "Space.com"
         },
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-14T22:02:53+00:00",
+      "updatedAt": "2026-08-14T22:34:17+00:00",
       "stories": [
         {
           "title": "Launch Canada Challenge returns to Timmins for fifth year of student rocketry",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-14T22:02:53+00:00",
+      "updatedAt": "2026-08-14T22:34:17+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces launch Operation NANOOK‑TUUGAALIK in Canada’s Arctic",
@@ -217,13 +217,19 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-14T22:02:53+00:00",
+      "updatedAt": "2026-08-14T22:34:17+00:00",
       "stories": [
         {
           "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
           "url": "https://www.defensenews.com/industry/techwatch/2026/08/14/pentagon-inks-deals-with-boeing-rtx-to-boost-production-of-sm-3-components",
           "publishedAt": "2026-08-14T19:57:54+00:00",
           "source": "Defense News"
+        },
+        {
+          "title": "Top Northcom general adds to drumbeat of warnings about weak drone defenses in the homeland",
+          "url": "https://defensescoop.com/2026/08/14/northcom-general-warning-weak-drone-defense-homeland",
+          "publishedAt": "2026-08-14T22:30:03+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "America is sailing through the Taiwan Strait less. Does it matter?",
@@ -302,19 +308,13 @@
           "url": "https://www.defensenews.com/global/europe/2026/08/13/flight-tracking-data-shows-continued-russian-air-bridge-to-sub-saharan-africa",
           "publishedAt": "2026-08-13T15:07:56+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "Pentagon’s S&T boss touts early benefits of re-org, including ‘virtuous cycles of collaboration’",
-          "url": "https://defensescoop.com/2026/08/12/pentagon-science-and-technology-joseph-jewell",
-          "publishedAt": "2026-08-12T21:56:12+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-14T22:02:53+00:00",
+      "updatedAt": "2026-08-14T22:34:17+00:00",
       "stories": [
         {
           "title": "OpenAI previews frontier speed boost",
@@ -411,8 +411,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-14T22:02:53+00:00",
+      "updatedAt": "2026-08-14T22:34:17+00:00",
       "stories": [
+        {
+          "title": "How Protolabs turns CAD files into parts in under 24 hours",
+          "url": "https://www.therobotreport.com/how-protolabs-turns-cad-files-into-parts-under-24-hours",
+          "publishedAt": "2026-08-14T22:14:19+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Neros Technologies raises $250M to deploy its defense drones by the end of 2026",
           "url": "https://www.therobotreport.com/neros-technologies-raises-250m-to-deploy-its-defense-drones-by-the-end-of-2026",
@@ -486,12 +492,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "DAF Trucks to integrate Einride Driver to scale autonomous electric freight",
-          "url": "https://www.therobotreport.com/daf-trucks-integrates-einride-driver-scale-autonomous-electric-freight",
-          "publishedAt": "2026-08-12T10:30:51+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Robot Recycler Salvages Parts From Broken Machines",
           "url": "https://spectrum.ieee.org/recycling-robot",
           "publishedAt": "2026-08-10T18:01:25+00:00",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-14T22:02:53+00:00",
+    "updatedAt": "2026-08-14T22:34:17+00:00",
     "stories": [
       {
         "title": "OpenAI previews frontier speed boost",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Wallops gears up for an increase in launches",
-        "url": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches",
-        "publishedAt": "2026-08-14T22:02:28+00:00",
+        "title": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
+        "url": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation",
+        "publishedAt": "2026-08-14T22:26:27+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -564,13 +564,22 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Neros Technologies raises $250M to deploy its defense drones by the end of 2026",
-        "url": "https://www.therobotreport.com/neros-technologies-raises-250m-to-deploy-its-defense-drones-by-the-end-of-2026",
-        "publishedAt": "2026-08-14T17:38:49+00:00",
+        "title": "How Protolabs turns CAD files into parts in under 24 hours",
+        "url": "https://www.therobotreport.com/how-protolabs-turns-cad-files-into-parts-under-24-hours",
+        "publishedAt": "2026-08-14T22:14:19+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Wallops gears up for an increase in launches",
+        "url": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches",
+        "publishedAt": "2026-08-14T22:02:28+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Calian Q3 2026 results: raised outlook, lighter order book",
@@ -588,15 +597,6 @@
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "In Defence of Canada briefing: The Golden Dome Funding Crisis & Telesat’s $2.3B Controversy",
-        "url": "https://spaceq.ca/in-defence-of-canada-briefing-the-golden-dome-funding-crisis-telesats-2-3b-controversy",
-        "publishedAt": "2026-08-14T15:42:36+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
