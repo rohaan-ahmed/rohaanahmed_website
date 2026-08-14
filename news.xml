@@ -5,16 +5,16 @@
     <link>https://rohaanahmed.com/news.html</link>
     <description>An automatically curated news feed built around my areas of interest</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 14 Aug 2026 20:18:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:50:06 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <guid isPermaLink="false">27f676465209b7d6ccec2290c2ae5cb3c72974093d2a1a140ccf6a8f5337fd96</guid>
+      <guid isPermaLink="false">83655492229c32d692e9156a2e04d8a14fcc877fe1ed594e5da3d5d6d7762815</guid>
       <title>International Space (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-space</link>
-      <pubDate>Fri, 14 Aug 2026 20:18:21 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 20:50:06 +0000</pubDate>
       <category>International Space</category>
       <description>Topic: International Space
-Updated: 2026-08-14T20:18:21+00:00
+Updated: 2026-08-14T20:50:06+00:00
 Stories: 15</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
@@ -58,7 +58,7 @@ Headline: Cheaper launch has moved the spacecraft bottleneck. Mass is out, surfa
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
       <ra:storyPosition>2</ra:storyPosition>
-      <ra:bulletinPosition>9</ra:bulletinPosition>
+      <ra:bulletinPosition>10</ra:bulletinPosition>
       <ra:publishedAt>2026-08-14T13:00:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -69,7 +69,6 @@ Headline: Cheaper launch has moved the spacecraft bottleneck. Mass is out, surfa
       <guid isPermaLink="false">db58adcad03625a5f9b38b4dc5bea82775a98835798ca1d3d4fc7874016c4a1e</guid>
       <pubDate>Fri, 14 Aug 2026 12:08:33 +0000</pubDate>
       <category>International Space</category>
-      <category>Bulletin</category>
       <source url="https://spacenews.com/">SpaceNews</source>
       <description>Topic: International Space
 Source: SpaceNews
@@ -79,7 +78,6 @@ Headline: Blue Origin outlines plans for second Cape Canaveral launch pad</descr
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
       <ra:storyPosition>3</ra:storyPosition>
-      <ra:bulletinPosition>10</ra:bulletinPosition>
       <ra:publishedAt>2026-08-14T12:08:33+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -313,18 +311,39 @@ Headline: MTG-I1 captures eclipse path of totality over Europe</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">e89a35297e8287db4cf6f40a673cb5d7beed7526e2d7708d83de86c89ca6ddf7</guid>
+      <guid isPermaLink="false">cd214656edd8f2c8f3adcfa3051e59f67e4fbdd3a0b9be7d3efdfadbbecbf03d</guid>
       <title>Canadian Space (12 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
-      <pubDate>Fri, 14 Aug 2026 20:18:21 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 20:50:06 +0000</pubDate>
       <category>Canadian Space</category>
       <description>Topic: Canadian Space
-Updated: 2026-08-14T20:18:21+00:00
+Updated: 2026-08-14T20:50:06+00:00
 Stories: 12</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
       <ra:kind>topic</ra:kind>
+    </item>
+    <item>
+      <title>Launch Canada Challenge returns to Timmins for fifth year of student rocketry</title>
+      <link>https://spaceq.ca/launch-canada-challenge-returns-to-timmins-for-fifth-year-of-student-rocketry</link>
+      <guid isPermaLink="false">f5631e5a53d964889ca3d900ea37a3289c2c9435d475bbe865a77a1809a82330</guid>
+      <pubDate>Fri, 14 Aug 2026 20:20:38 +0000</pubDate>
+      <category>Canadian Space</category>
+      <category>Bulletin</category>
+      <source url="https://spaceq.ca/">SpaceQ</source>
+      <description>Topic: Canadian Space
+Source: SpaceQ
+Published: 2026-08-14T20:20:38+00:00
+Headline: Launch Canada Challenge returns to Timmins for fifth year of student rocketry</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>3</ra:bulletinPosition>
+      <ra:publishedAt>2026-08-14T20:20:38+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceQ</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Calian Q3 2026 results: raised outlook, lighter order book</title>
@@ -341,8 +360,8 @@ Headline: Calian Q3 2026 results: raised outlook, lighter order book</descriptio
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>3</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:bulletinPosition>8</ra:bulletinPosition>
       <ra:publishedAt>2026-08-14T18:48:55+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -362,8 +381,8 @@ Headline: In Defence of Canada briefing: The Golden Dome Funding Crisis &amp; Te
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
-      <ra:bulletinPosition>8</ra:bulletinPosition>
+      <ra:storyPosition>3</ra:storyPosition>
+      <ra:bulletinPosition>9</ra:bulletinPosition>
       <ra:publishedAt>2026-08-14T15:42:36+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -382,7 +401,7 @@ Headline: Telesat Q2 2026: Lightspeed expands after $2.7B military contract, but
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-08-14T11:16:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -401,7 +420,7 @@ Headline: MDA Space opens CHORUS control centre in Quebec</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-08-13T20:29:07+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -420,7 +439,7 @@ Headline: Kepler Communications buys first dedicated launch, booking Rocket Lab�
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
+      <ra:storyPosition>6</ra:storyPosition>
       <ra:publishedAt>2026-08-13T18:56:24+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -439,7 +458,7 @@ Headline: Voyager Technologies Q2 2026 results: growth by acquisition</descripti
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>6</ra:storyPosition>
+      <ra:storyPosition>7</ra:storyPosition>
       <ra:publishedAt>2026-08-13T11:18:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -458,7 +477,7 @@ Headline: STRATOS 2026 Campaign: Canadian experiments to be tested in space-like
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>7</ra:storyPosition>
+      <ra:storyPosition>8</ra:storyPosition>
       <ra:publishedAt>2026-08-13T15:27:21+00:00</ra:publishedAt>
       <ra:sourceName>Canadian Space Agency</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -477,7 +496,7 @@ Headline: Calian lands British Army training contract worth $20M a year</descrip
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>8</ra:storyPosition>
+      <ra:storyPosition>9</ra:storyPosition>
       <ra:publishedAt>2026-08-12T22:22:08+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -496,7 +515,7 @@ Headline: DRDC tasks EarthDaily with geospatial platform for RCMP border monitor
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>9</ra:storyPosition>
+      <ra:storyPosition>10</ra:storyPosition>
       <ra:publishedAt>2026-08-12T11:02:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -515,27 +534,8 @@ Headline: GHGSat satellites C-16 and C-17 achieve first light with methane detec
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
-      <ra:publishedAt>2026-08-11T21:42:56+00:00</ra:publishedAt>
-      <ra:sourceName>SpaceQ</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Canadian Space Agency returns to the stratosphere for ICARUS 2026</title>
-      <link>https://spaceq.ca/canadian-space-agency-returns-to-the-stratosphere-for-icarus-2026</link>
-      <guid isPermaLink="false">9707144c0a224dfc8ae3ac31cc4d8ca0dd2e3bf946c7f1c9415fd418f8ab560b</guid>
-      <pubDate>Tue, 11 Aug 2026 20:09:25 +0000</pubDate>
-      <category>Canadian Space</category>
-      <source url="https://spaceq.ca/">SpaceQ</source>
-      <description>Topic: Canadian Space
-Source: SpaceQ
-Published: 2026-08-11T20:09:25+00:00
-Headline: Canadian Space Agency returns to the stratosphere for ICARUS 2026</description>
-      <ra:topicId>canadian-space</ra:topicId>
-      <ra:topicName>Canadian Space</ra:topicName>
-      <ra:topicPosition>2</ra:topicPosition>
       <ra:storyPosition>11</ra:storyPosition>
-      <ra:publishedAt>2026-08-11T20:09:25+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-08-11T21:42:56+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -559,13 +559,13 @@ Headline: Canada intends to repurpose Canadarm3 investments to support the next 
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">0d629146cc179a533314c8d51852d5c5ba157838a3218e60e0daca8d329ec3c8</guid>
+      <guid isPermaLink="false">c279f325ed8b6dcbe3d43c18785a025f681617e950b5ffb918e89b060edfd0fd</guid>
       <title>Canadian Defence (6 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
-      <pubDate>Fri, 14 Aug 2026 20:18:21 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 20:50:06 +0000</pubDate>
       <category>Canadian Defence</category>
       <description>Topic: Canadian Defence
-Updated: 2026-08-14T20:18:21+00:00
+Updated: 2026-08-14T20:50:06+00:00
 Stories: 6</description>
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
@@ -689,13 +689,13 @@ Headline: Minister McGuinty to deliver keynote address on Alberta’s support to
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">e05d2763d8a59d6bec43ce8e6628f2bc7e587b9ca02022479477244df1f71cf5</guid>
+      <guid isPermaLink="false">34ac0cb6c27bc3e0d641daeb2f18a1ffe9993200bbc0ff83e47a10bbb990b343</guid>
       <title>International Defence Technology (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
-      <pubDate>Fri, 14 Aug 2026 20:18:21 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 20:50:06 +0000</pubDate>
       <category>International Defence Technology</category>
       <description>Topic: International Defence Technology
-Updated: 2026-08-14T20:18:21+00:00
+Updated: 2026-08-14T20:50:06+00:00
 Stories: 15</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
@@ -990,13 +990,13 @@ Headline: Pentagon’s S&amp;T boss touts early benefits of re-org, including �
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">c0e19749e11d37937fe05808dab94130a5167be1a3b7facfc810e9a84bdb30c9</guid>
+      <guid isPermaLink="false">804fa89ab3fd28eb4a5d0af32316286074b7ff0728130fcc10cf429f889ac52a</guid>
       <title>Artificial Intelligence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
-      <pubDate>Fri, 14 Aug 2026 20:18:21 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 20:50:06 +0000</pubDate>
       <category>Artificial Intelligence</category>
       <description>Topic: Artificial Intelligence
-Updated: 2026-08-14T20:18:21+00:00
+Updated: 2026-08-14T20:50:06+00:00
 Stories: 15</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
@@ -1103,41 +1103,117 @@ Headline: Kog is going deeper to squeeze more inference out of GPUs</description
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Hyperscalers might regret embracing natural gas if new forecast proves correct</title>
-      <link>https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct</link>
-      <guid isPermaLink="false">889dc6ed72ac270351680dc56d7ca1f60e6736ba21b823812042bb431ffcd8d7</guid>
-      <pubDate>Fri, 14 Aug 2026 14:05:00 +0000</pubDate>
+      <title>Google's Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut (13 minute read)</title>
+      <link>https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut</link>
+      <guid isPermaLink="false">6c262019a1e5887373193a8cf4cc5d2158c72b2a1b8994beca15f15379ca7708</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <category>Artificial Intelligence</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
       <description>Topic: Artificial Intelligence
-Source: TechCrunch AI
-Published: 2026-08-14T14:05:00+00:00
-Headline: Hyperscalers might regret embracing natural gas if new forecast proves correct</description>
+Source: TLDR AI
+Published: 2026-08-14T00:00:00+00:00
+Headline: Google's Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut (13 minute read)</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
       <ra:storyPosition>6</ra:storyPosition>
-      <ra:publishedAt>2026-08-14T14:05:00+00:00</ra:publishedAt>
-      <ra:sourceName>TechCrunch AI</ra:sourceName>
+      <ra:publishedAt>2026-08-14T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Meta’s ‘open’ AI, and a $250M deal gone very wrong</title>
-      <link>https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong</link>
-      <guid isPermaLink="false">ac7377b7a6dd3fc4343357809a7aa2568361db00fda89b2578aedd59a71b9b08</guid>
-      <pubDate>Fri, 14 Aug 2026 14:00:00 +0000</pubDate>
+      <title>Anthropic could be worth $2 trillion when it goes public (4 minute read)</title>
+      <link>https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public</link>
+      <guid isPermaLink="false">9cd3724a9dbada1d8d6f1b30f6be41483162c624ea8dbebdc0f49f33e8d261fa</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <category>Artificial Intelligence</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
       <description>Topic: Artificial Intelligence
-Source: TechCrunch AI
-Published: 2026-08-14T14:00:00+00:00
-Headline: Meta’s ‘open’ AI, and a $250M deal gone very wrong</description>
+Source: TLDR AI
+Published: 2026-08-14T00:00:00+00:00
+Headline: Anthropic could be worth $2 trillion when it goes public (4 minute read)</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
       <ra:storyPosition>7</ra:storyPosition>
-      <ra:publishedAt>2026-08-14T14:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>TechCrunch AI</ra:sourceName>
+      <ra:publishedAt>2026-08-14T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Will financing bottleneck AI compute? An Anthropic case study (15 minute read)</title>
+      <link>https://epochai.substack.com/p/will-financing-bottleneck-ai-compute</link>
+      <guid isPermaLink="false">70240208e66d30c146fbb0671a4beb299e90b2e6d37a73060d5078afefbf642f</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TLDR AI
+Published: 2026-08-14T00:00:00+00:00
+Headline: Will financing bottleneck AI compute? An Anthropic case study (15 minute read)</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>8</ra:storyPosition>
+      <ra:publishedAt>2026-08-14T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Subagents on Subagents: How Many Layers Deep Is Too Many? (7 minute read)</title>
+      <link>https://x.com/JoshARosen/status/2087944178558791874</link>
+      <guid isPermaLink="false">d9b9dc2312495d9d5bf21605ab4021123195078f65f7835a98dc1481607e4fad</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TLDR AI
+Published: 2026-08-14T00:00:00+00:00
+Headline: Subagents on Subagents: How Many Layers Deep Is Too Many? (7 minute read)</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>9</ra:storyPosition>
+      <ra:publishedAt>2026-08-14T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>OCR 4.1 (Website)</title>
+      <link>https://docs.mistral.ai/models/ocr-4-1</link>
+      <guid isPermaLink="false">22e2751fb747b6e7c40882d19862d1a8fd1116ccb217c6f805ea1d57da868ff2</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TLDR AI
+Published: 2026-08-14T00:00:00+00:00
+Headline: OCR 4.1 (Website)</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>10</ra:storyPosition>
+      <ra:publishedAt>2026-08-14T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Agent Plugins are the future of Agent Skills (13 minute read)</title>
+      <link>https://x.com/GoogleCloudTech/status/2087733334617063503</link>
+      <guid isPermaLink="false">31c5900c0a92d0e8ed3f4c0d88c4574425fec2902971b3313b7167b11ce705f6</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TLDR AI
+Published: 2026-08-14T00:00:00+00:00
+Headline: Agent Plugins are the future of Agent Skills (13 minute read)</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>11</ra:storyPosition>
+      <ra:publishedAt>2026-08-14T00:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>TLDR AI</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
@@ -1154,28 +1230,9 @@ Headline: SpaceXAI’s Grok 4.6 storms the frontier</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>8</ra:storyPosition>
+      <ra:storyPosition>12</ra:storyPosition>
       <ra:publishedAt>2026-08-13T10:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Writer introduces new AI model and upgraded harness to contain token costs</title>
-      <link>https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs</link>
-      <guid isPermaLink="false">833f76cbc6904656c93be968d1914e33a8a7f4b9ad166966f15b1707887a4df0</guid>
-      <pubDate>Thu, 13 Aug 2026 21:13:24 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
-      <description>Topic: Artificial Intelligence
-Source: TechCrunch AI
-Published: 2026-08-13T21:13:24+00:00
-Headline: Writer introduces new AI model and upgraded harness to contain token costs</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>9</ra:storyPosition>
-      <ra:publishedAt>2026-08-13T21:13:24+00:00</ra:publishedAt>
-      <ra:sourceName>TechCrunch AI</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
@@ -1192,7 +1249,7 @@ Headline: Anthropic adds AI watermarks to Claude outputs</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
+      <ra:storyPosition>13</ra:storyPosition>
       <ra:publishedAt>2026-08-12T10:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1211,7 +1268,7 @@ Headline: Grok Bot is the latest AI agent teammate build</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>11</ra:storyPosition>
+      <ra:storyPosition>14</ra:storyPosition>
       <ra:publishedAt>2026-08-12T10:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1230,76 +1287,19 @@ Headline: Meta returns to open-source roots with Glimmer</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>12</ra:storyPosition>
-      <ra:publishedAt>2026-08-11T09:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>The Rundown AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>OpenAI expands ‘Daybreak’ for stronger cyber use</title>
-      <link>https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</link>
-      <guid isPermaLink="false">1415c563787d5ad25a8a02daf961233b7dc5266c1d21b73ef3b3ef6a09c01aae</guid>
-      <pubDate>Tue, 11 Aug 2026 09:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://www.therundown.ai/">The Rundown AI</source>
-      <description>Topic: Artificial Intelligence
-Source: The Rundown AI
-Published: 2026-08-11T09:00:00+00:00
-Headline: OpenAI expands ‘Daybreak’ for stronger cyber use</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>13</ra:storyPosition>
-      <ra:publishedAt>2026-08-11T09:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>The Rundown AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>AI agent hacks a gym to jump the waitlist</title>
-      <link>https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986</link>
-      <guid isPermaLink="false">4abf5db779225d4fef2c3bdf73406a293257bfa049616cf3fbaf6d305fec5c19</guid>
-      <pubDate>Tue, 11 Aug 2026 09:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://www.therundown.ai/">The Rundown AI</source>
-      <description>Topic: Artificial Intelligence
-Source: The Rundown AI
-Published: 2026-08-11T09:00:00+00:00
-Headline: AI agent hacks a gym to jump the waitlist</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>14</ra:storyPosition>
-      <ra:publishedAt>2026-08-11T09:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>The Rundown AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>OpenAI puts the safety brakes on Astra</title>
-      <link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</link>
-      <guid isPermaLink="false">d046655fdcddc014aafebdbdface2c9e4f0186ed824e3acc4b41a8429b85fa45</guid>
-      <pubDate>Mon, 10 Aug 2026 09:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://www.therundown.ai/">The Rundown AI</source>
-      <description>Topic: Artificial Intelligence
-Source: The Rundown AI
-Published: 2026-08-10T09:00:00+00:00
-Headline: OpenAI puts the safety brakes on Astra</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
       <ra:storyPosition>15</ra:storyPosition>
-      <ra:publishedAt>2026-08-10T09:00:00+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-08-11T09:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">cf613c5515fe2e7d30b79ad30ac850240de6256369426b2d9df81960b69e02ab</guid>
+      <guid isPermaLink="false">5902742d8e58141aab8424c8fc4fb54a8ec6d26ccc1b59f1cd6bb427cbf90530</guid>
       <title>Robotics (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-robotics</link>
-      <pubDate>Fri, 14 Aug 2026 20:18:21 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 20:50:06 +0000</pubDate>
       <category>Robotics</category>
       <description>Topic: Robotics
-Updated: 2026-08-14T20:18:21+00:00
+Updated: 2026-08-14T20:50:06+00:00
 Stories: 15</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
