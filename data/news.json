@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T23:52:48+00:00",
+  "generatedAt": "2026-08-14T00:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-13T23:52:48+00:00",
+      "updatedAt": "2026-08-14T00:00:30+00:00",
       "stories": [
         {
           "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-13T23:52:48+00:00",
+      "updatedAt": "2026-08-14T00:00:30+00:00",
       "stories": [
         {
           "title": "MDA Space opens CHORUS control centre in Quebec",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-13T23:52:48+00:00",
+      "updatedAt": "2026-08-14T00:00:30+00:00",
       "stories": [
         {
           "title": "Statement from Minister McGuinty on the Defence Team's Commitment to Official Languages and the protection of French",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-13T23:52:48+00:00",
+      "updatedAt": "2026-08-14T00:00:30+00:00",
       "stories": [
         {
           "title": "Trump orders return of steam catapults on carriers, fifth public shipyard",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-13T23:52:48+00:00",
+      "updatedAt": "2026-08-14T00:00:30+00:00",
       "stories": [
         {
           "title": "SpaceXAI’s Grok 4.6 storms the frontier",
@@ -341,22 +341,34 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "IBM partners with OpenAI to bolster enterprise AI push",
-          "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push",
-          "publishedAt": "2026-08-13T19:19:49+00:00",
-          "source": "TechCrunch AI"
+          "title": "Claude's Chrome Side Panel Becomes a Full Cowork Session (2 minute read)",
+          "url": "https://claude.com/claude-in-chrome",
+          "publishedAt": "2026-08-13T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-          "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war",
-          "publishedAt": "2026-08-13T18:28:14+00:00",
-          "source": "TechCrunch AI"
+          "title": "Qwen3.8-2.4T-A95B (8 minute read)",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "publishedAt": "2026-08-13T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "OpenAI hires new CRO as executive shake-up continues",
-          "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues",
-          "publishedAt": "2026-08-13T17:07:13+00:00",
-          "source": "TechCrunch AI"
+          "title": "Specula: Scaling formal specifications for autonomous model checking of system code (13 minute read)",
+          "url": "https://muratbuffalo.blogspot.com/2026/08/specula-scaling-formal-specifications.html",
+          "publishedAt": "2026-08-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Microsoft Launches MAI-Thinking-1 (5 minute read)",
+          "url": "https://microsoft.ai/news/introducing-mai-thinking-1",
+          "publishedAt": "2026-08-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "MAI-Image-2.6 Reaches No. 2 on Arena (4 minute read)",
+          "url": "https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai",
+          "publishedAt": "2026-08-13T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Anthropic adds AI watermarks to Claude outputs",
@@ -369,6 +381,12 @@
           "url": "https://x.ai/news/introducing-grok-bot",
           "publishedAt": "2026-08-12T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Brad Lightcap, OpenAI's longtime COO, is leaving to ‘start something new' (2 minute read)",
+          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
+          "publishedAt": "2026-08-12T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Meta returns to open-source roots with Glimmer",
@@ -387,31 +405,13 @@
           "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
           "publishedAt": "2026-08-11T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI puts the safety brakes on Astra",
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "publishedAt": "2026-08-10T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "China’s Kimi K3 joins the jailbreak party in testing",
-          "url": "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations",
-          "publishedAt": "2026-08-10T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI designs working viruses from scratch",
-          "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
-          "publishedAt": "2026-08-07T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-13T23:52:48+00:00",
+      "updatedAt": "2026-08-14T00:00:30+00:00",
       "stories": [
         {
           "title": "Mobile manipulators and humanoids: The future of robotics",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-13T23:52:48+00:00",
+    "updatedAt": "2026-08-14T00:00:30+00:00",
     "stories": [
       {
         "title": "SpaceXAI’s Grok 4.6 storms the frontier",
@@ -712,7 +712,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-03"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
