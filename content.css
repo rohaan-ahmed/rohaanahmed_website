@@ -136,6 +136,14 @@
     line-height: 1.75;
 }
 
+.content-hero-note {
+    max-width: 720px;
+    margin-top: 14px;
+    color: var(--text-faint);
+    font-size: 0.84rem;
+    line-height: 1.7;
+}
+
 .news-topic-nav {
     max-width: 920px;
     margin-top: 28px;
