@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T17:15:59+00:00",
+  "generatedAt": "2026-08-14T18:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-14T17:15:59+00:00",
+      "updatedAt": "2026-08-14T18:00:30+00:00",
       "stories": [
         {
           "title": "Spire and PlanetiQ win NOAA radio-occultation contracts",
@@ -43,10 +43,22 @@
           "source": "SpaceNews"
         },
         {
+          "title": "Will the new moon race turn Earth's nearest neighbor into a dumping ground?",
+          "url": "https://www.space.com/astronomy/moon/will-the-new-moon-race-turn-earths-nearest-neighbor-into-a-dumping-ground",
+          "publishedAt": "2026-08-14T18:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "US Space Force gives Rocket Lab $397 million to build threat-tracking 'Flatellites'",
           "url": "https://www.space.com/space-exploration/satellites/us-space-force-gives-rocket-lab-usd397-million-to-build-threat-tracking-flatellites",
           "publishedAt": "2026-08-14T17:00:00+00:00",
           "source": "Space.com"
+        },
+        {
+          "title": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun",
+          "url": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun",
+          "publishedAt": "2026-08-14T17:00:23+00:00",
+          "source": "NASA"
         },
         {
           "title": "Can Venus cast a shadow? Here's how to see it for yourself",
@@ -59,12 +71,6 @@
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_August_2026",
           "publishedAt": "2026-08-14T13:10:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Water can survive surprisingly close to the Milky Way's supermassive black hole, James Webb Space Telescope finds",
-          "url": "https://www.space.com/astronomy/james-webb-space-telescope/water-can-survive-surprisingly-close-to-the-milky-ways-supermassive-black-hole-james-webb-space-telescope-finds",
-          "publishedAt": "2026-08-14T15:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Total Solar Eclipse in Sunflower Field",
@@ -85,12 +91,6 @@
           "source": "NASA"
         },
         {
-          "title": "A Sunflower’s View of Totality",
-          "url": "https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality",
-          "publishedAt": "2026-08-14T04:01:00+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "MTG-I1 captures eclipse path of totality over Europe",
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I1_captures_eclipse_path_of_totality_over_Europe",
           "publishedAt": "2026-08-13T08:30:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-14T17:15:59+00:00",
+      "updatedAt": "2026-08-14T18:00:30+00:00",
       "stories": [
         {
           "title": "In Defence of Canada briefing: The Golden Dome Funding Crisis & Telesat’s $2.3B Controversy",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-14T17:15:59+00:00",
+      "updatedAt": "2026-08-14T18:00:30+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces launch Operation NANOOK‑TUUGAALIK in Canada’s Arctic",
@@ -223,13 +223,19 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-14T17:15:59+00:00",
+      "updatedAt": "2026-08-14T18:00:30+00:00",
       "stories": [
         {
           "title": "Army picks M1 to lead Flight School Next pilot training program",
           "url": "https://breakingdefense.com/2026/08/army-picks-m1-to-lead-flight-school-next-pilot-training-program",
           "publishedAt": "2026-08-14T17:08:25+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up",
+          "url": "https://www.defensenews.com/global/europe/2026/08/14/patriot-makers-hedge-on-ukraine-production-deal-as-officials-question-cause-of-hold-up",
+          "publishedAt": "2026-08-14T17:40:00+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Army tells industry: Soldiers need more power, but don’t just offer batteries and generators",
@@ -308,19 +314,13 @@
           "url": "https://defensescoop.com/2026/08/12/pentagon-science-and-technology-joseph-jewell",
           "publishedAt": "2026-08-12T21:56:12+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Trump swaps planes via catering truck after Iranian threats, reports say",
-          "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/12/trump-swaps-planes-via-catering-truck-after-iranian-threats-reports-say",
-          "publishedAt": "2026-08-12T15:13:20+00:00",
-          "source": "Defense News"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-14T17:15:59+00:00",
+      "updatedAt": "2026-08-14T18:00:30+00:00",
       "stories": [
         {
           "title": "OpenAI previews frontier speed boost",
@@ -353,28 +353,46 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-          "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct",
-          "publishedAt": "2026-08-14T14:05:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Google's Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut (13 minute read)",
+          "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+          "publishedAt": "2026-08-14T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-          "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong",
-          "publishedAt": "2026-08-14T14:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Anthropic could be worth $2 trillion when it goes public (4 minute read)",
+          "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public",
+          "publishedAt": "2026-08-14T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Will financing bottleneck AI compute? An Anthropic case study (15 minute read)",
+          "url": "https://epochai.substack.com/p/will-financing-bottleneck-ai-compute",
+          "publishedAt": "2026-08-14T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Subagents on Subagents: How Many Layers Deep Is Too Many? (7 minute read)",
+          "url": "https://x.com/JoshARosen/status/2087944178558791874",
+          "publishedAt": "2026-08-14T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "OCR 4.1 (Website)",
+          "url": "https://docs.mistral.ai/models/ocr-4-1",
+          "publishedAt": "2026-08-14T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Agent Plugins are the future of Agent Skills (13 minute read)",
+          "url": "https://x.com/GoogleCloudTech/status/2087733334617063503",
+          "publishedAt": "2026-08-14T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "SpaceXAI’s Grok 4.6 storms the frontier",
           "url": "https://x.ai/news/grok-4-6",
           "publishedAt": "2026-08-13T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-          "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs",
-          "publishedAt": "2026-08-13T21:13:24+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "Anthropic adds AI watermarks to Claude outputs",
@@ -393,32 +411,20 @@
           "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
           "publishedAt": "2026-08-11T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI expands ‘Daybreak’ for stronger cyber use",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "publishedAt": "2026-08-11T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI agent hacks a gym to jump the waitlist",
-          "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-          "publishedAt": "2026-08-11T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI puts the safety brakes on Astra",
-          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-          "publishedAt": "2026-08-10T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-14T17:15:59+00:00",
+      "updatedAt": "2026-08-14T18:00:30+00:00",
       "stories": [
+        {
+          "title": "Neros Technologies raises $250M to deploy its defense drones by the end of 2026",
+          "url": "https://www.therobotreport.com/neros-technologies-raises-250m-to-deploy-its-defense-drones-by-the-end-of-2026",
+          "publishedAt": "2026-08-14T17:38:49+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Video Friday: Lift Happens",
           "url": "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge",
@@ -492,12 +498,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Defense drone developer Cambridge Aerospace raises $300M",
-          "url": "https://www.therobotreport.com/defense-drone-developer-cambridge-aerospace-raises-300m",
-          "publishedAt": "2026-08-11T20:34:25+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Robot Recycler Salvages Parts From Broken Machines",
           "url": "https://spectrum.ieee.org/recycling-robot",
           "publishedAt": "2026-08-10T18:01:25+00:00",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-14T17:15:59+00:00",
+    "updatedAt": "2026-08-14T18:00:30+00:00",
     "stories": [
       {
         "title": "OpenAI previews frontier speed boost",
@@ -570,10 +570,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Video Friday: Lift Happens",
-        "url": "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge",
-        "publishedAt": "2026-08-14T17:00:01+00:00",
-        "source": "IEEE Spectrum Robotics",
+        "title": "Neros Technologies raises $250M to deploy its defense drones by the end of 2026",
+        "url": "https://www.therobotreport.com/neros-technologies-raises-250m-to-deploy-its-defense-drones-by-the-end-of-2026",
+        "publishedAt": "2026-08-14T17:38:49+00:00",
+        "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
@@ -718,7 +718,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-03",
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
