@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-14T02:00:27+00:00",
+  "generatedAt": "2026-08-14T03:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-14T02:00:27+00:00",
+      "updatedAt": "2026-08-14T03:00:30+00:00",
       "stories": [
+        {
+          "title": "CesiumAstro buys semiconductor specialist to boost constellation plans",
+          "url": "https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans",
+          "publishedAt": "2026-08-14T02:24:02+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
           "url": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests",
@@ -34,12 +40,6 @@
           "title": "Paragon lays off staff after Gateway cancellation",
           "url": "https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation",
           "publishedAt": "2026-08-13T10:13:56+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Astranis unveils geostationary surveillance satellite",
-          "url": "https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite",
-          "publishedAt": "2026-08-13T09:30:00+00:00",
           "source": "SpaceNews"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-14T02:00:27+00:00",
+      "updatedAt": "2026-08-14T03:00:30+00:00",
       "stories": [
         {
           "title": "MDA Space opens CHORUS control centre in Quebec",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-14T02:00:27+00:00",
+      "updatedAt": "2026-08-14T03:00:30+00:00",
       "stories": [
         {
           "title": "Statement from Minister McGuinty on the Defence Team's Commitment to Official Languages and the protection of French",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-14T02:00:27+00:00",
+      "updatedAt": "2026-08-14T03:00:30+00:00",
       "stories": [
         {
           "title": "Trump orders return of steam catapults on carriers, fifth public shipyard",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-14T02:00:27+00:00",
+      "updatedAt": "2026-08-14T03:00:30+00:00",
       "stories": [
         {
           "title": "SpaceXAI’s Grok 4.6 storms the frontier",
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-14T02:00:27+00:00",
+      "updatedAt": "2026-08-14T03:00:30+00:00",
       "stories": [
         {
           "title": "Mobile manipulators and humanoids: The future of robotics",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-14T02:00:27+00:00",
+    "updatedAt": "2026-08-14T03:00:30+00:00",
     "stories": [
       {
         "title": "SpaceXAI’s Grok 4.6 storms the frontier",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
-        "url": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests",
-        "publishedAt": "2026-08-13T22:00:00+00:00",
+        "title": "CesiumAstro buys semiconductor specialist to boost constellation plans",
+        "url": "https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans",
+        "publishedAt": "2026-08-14T02:24:02+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -573,6 +573,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
+        "url": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests",
+        "publishedAt": "2026-08-13T22:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Kepler Communications buys first dedicated launch, booking Rocket Lab’s Neutron",
         "url": "https://spaceq.ca/kepler-communications-buys-first-dedicated-launch-booking-rocket-labs-neutron",
         "publishedAt": "2026-08-13T18:56:24+00:00",
@@ -585,15 +594,6 @@
         "title": "Space Command expands Alabama footprint as headquarters relocation advances",
         "url": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances",
         "publishedAt": "2026-08-13T16:27:05+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "An optical link ‘internet’ to connect networks in space",
-        "url": "https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space",
-        "publishedAt": "2026-08-13T14:39:26+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -712,7 +712,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-03"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-03",
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
