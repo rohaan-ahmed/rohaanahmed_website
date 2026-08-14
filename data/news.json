@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T13:00:30+00:00",
+  "generatedAt": "2026-08-14T13:34:14+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-14T13:00:30+00:00",
+      "updatedAt": "2026-08-14T13:34:14+00:00",
       "stories": [
         {
           "title": "Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-14T13:00:30+00:00",
+      "updatedAt": "2026-08-14T13:34:14+00:00",
       "stories": [
         {
           "title": "Telesat Q2 2026: Lightspeed expands after $2.7B military contract, but debt a worry",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-14T13:00:30+00:00",
+      "updatedAt": "2026-08-14T13:34:14+00:00",
       "stories": [
         {
           "title": "Statement from Minister McGuinty on the Defence Team's Commitment to Official Languages and the protection of French",
@@ -217,8 +217,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-14T13:00:30+00:00",
+      "updatedAt": "2026-08-14T13:34:14+00:00",
       "stories": [
+        {
+          "title": "CENTCOM launches multinational one-way attack drone force",
+          "url": "https://breakingdefense.com/2026/08/centcom-launches-multinational-one-way-attack-drone-force",
+          "publishedAt": "2026-08-14T13:26:22+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Trump orders return of steam catapults on carriers, fifth public shipyard",
           "url": "https://breakingdefense.com/2026/08/trump-orders-return-of-steam-catapults-on-carriers-fifth-public-shipyard",
@@ -241,12 +247,6 @@
           "title": "Army fires community tackling four ‘capability gaps,’ including magazine depth",
           "url": "https://breakingdefense.com/2026/08/army-fires-community-tackling-four-capability-gaps-including-magazine-depth",
           "publishedAt": "2026-08-13T19:34:30+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Day 3 of the 2026 Space and Missile Defense Symposium",
-          "url": "https://breakingdefense.com/2026/08/day-3-of-the-2026-space-and-missile-defense-symposium",
-          "publishedAt": "2026-08-13T19:14:33+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-14T13:00:30+00:00",
+      "updatedAt": "2026-08-14T13:34:14+00:00",
       "stories": [
         {
           "title": "OpenAI previews frontier speed boost",
@@ -327,6 +327,42 @@
           "url": "https://www.anthropic.com/research/multiagent-systems",
           "publishedAt": "2026-08-14T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic could be worth $2 trillion when it goes public (4 minute read)",
+          "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public",
+          "publishedAt": "2026-08-14T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Google's Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut (13 minute read)",
+          "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+          "publishedAt": "2026-08-14T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Will financing bottleneck AI compute? An Anthropic case study (15 minute read)",
+          "url": "https://epochai.substack.com/p/will-financing-bottleneck-ai-compute",
+          "publishedAt": "2026-08-14T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Subagents on Subagents: How Many Layers Deep Is Too Many? (7 minute read)",
+          "url": "https://x.com/JoshARosen/status/2087944178558791874",
+          "publishedAt": "2026-08-14T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "OCR 4.1 (Website)",
+          "url": "https://docs.mistral.ai/models/ocr-4-1",
+          "publishedAt": "2026-08-14T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Agent Plugins are the future of Agent Skills (13 minute read)",
+          "url": "https://x.com/GoogleCloudTech/status/2087733334617063503",
+          "publishedAt": "2026-08-14T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "SpaceXAI’s Grok 4.6 storms the frontier",
@@ -353,36 +389,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Claude's Chrome Side Panel Becomes a Full Cowork Session (2 minute read)",
-          "url": "https://claude.com/claude-in-chrome",
-          "publishedAt": "2026-08-13T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Qwen3.8-2.4T-A95B (8 minute read)",
-          "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-          "publishedAt": "2026-08-13T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Specula: Scaling formal specifications for autonomous model checking of system code (13 minute read)",
-          "url": "https://muratbuffalo.blogspot.com/2026/08/specula-scaling-formal-specifications.html",
-          "publishedAt": "2026-08-13T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Microsoft Launches MAI-Thinking-1 (5 minute read)",
-          "url": "https://microsoft.ai/news/introducing-mai-thinking-1",
-          "publishedAt": "2026-08-13T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "MAI-Image-2.6 Reaches No. 2 on Arena (4 minute read)",
-          "url": "https://microsoft.ai/news/mai-image-2-6-launches-at-no-2-on-arena-ahead-of-google-meta-and-xai",
-          "publishedAt": "2026-08-13T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Anthropic adds AI watermarks to Claude outputs",
           "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
           "publishedAt": "2026-08-12T10:00:00+00:00",
@@ -395,12 +401,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Brad Lightcap, OpenAI's longtime COO, is leaving to ‘start something new' (2 minute read)",
-          "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new",
-          "publishedAt": "2026-08-12T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Meta returns to open-source roots with Glimmer",
           "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
           "publishedAt": "2026-08-11T09:00:00+00:00",
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-14T13:00:30+00:00",
+      "updatedAt": "2026-08-14T13:34:14+00:00",
       "stories": [
         {
           "title": "Robots on Wall Street: Non-traditional paths to public markets for robotics companies",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-14T13:00:30+00:00",
+    "updatedAt": "2026-08-14T13:34:14+00:00",
     "stories": [
       {
         "title": "OpenAI previews frontier speed boost",
@@ -555,9 +555,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Trump orders return of steam catapults on carriers, fifth public shipyard",
-        "url": "https://breakingdefense.com/2026/08/trump-orders-return-of-steam-catapults-on-carriers-fifth-public-shipyard",
-        "publishedAt": "2026-08-13T21:49:57+00:00",
+        "title": "CENTCOM launches multinational one-way attack drone force",
+        "url": "https://breakingdefense.com/2026/08/centcom-launches-multinational-one-way-attack-drone-force",
+        "publishedAt": "2026-08-14T13:26:22+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
