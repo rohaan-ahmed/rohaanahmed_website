@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T17:00:30+00:00",
+  "generatedAt": "2026-08-14T17:15:59+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-14T17:00:30+00:00",
+      "updatedAt": "2026-08-14T17:15:59+00:00",
       "stories": [
         {
           "title": "Spire and PlanetiQ win NOAA radio-occultation contracts",
@@ -43,6 +43,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "US Space Force gives Rocket Lab $397 million to build threat-tracking 'Flatellites'",
+          "url": "https://www.space.com/space-exploration/satellites/us-space-force-gives-rocket-lab-usd397-million-to-build-threat-tracking-flatellites",
+          "publishedAt": "2026-08-14T17:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "Can Venus cast a shadow? Here's how to see it for yourself",
           "url": "https://www.space.com/stargazing/can-venus-cast-a-shadow-heres-how-to-see-it-for-yourself",
           "publishedAt": "2026-08-14T16:00:00+00:00",
@@ -58,12 +64,6 @@
           "title": "Water can survive surprisingly close to the Milky Way's supermassive black hole, James Webb Space Telescope finds",
           "url": "https://www.space.com/astronomy/james-webb-space-telescope/water-can-survive-surprisingly-close-to-the-milky-ways-supermassive-black-hole-james-webb-space-telescope-finds",
           "publishedAt": "2026-08-14T15:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "On this day in space! Aug. 14, 1992: Meteorite shower hits Uganda",
-          "url": "https://www.space.com/stargazing/meteor-showers/on-this-day-in-space-aug-14-1992-meteorite-shower-hits-uganda",
-          "publishedAt": "2026-08-14T14:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-14T17:00:30+00:00",
+      "updatedAt": "2026-08-14T17:15:59+00:00",
       "stories": [
         {
           "title": "In Defence of Canada briefing: The Golden Dome Funding Crisis & Telesat’s $2.3B Controversy",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-14T17:00:30+00:00",
+      "updatedAt": "2026-08-14T17:15:59+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces launch Operation NANOOK‑TUUGAALIK in Canada’s Arctic",
@@ -223,8 +223,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-14T17:00:30+00:00",
+      "updatedAt": "2026-08-14T17:15:59+00:00",
       "stories": [
+        {
+          "title": "Army picks M1 to lead Flight School Next pilot training program",
+          "url": "https://breakingdefense.com/2026/08/army-picks-m1-to-lead-flight-school-next-pilot-training-program",
+          "publishedAt": "2026-08-14T17:08:25+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Army tells industry: Soldiers need more power, but don’t just offer batteries and generators",
           "url": "https://breakingdefense.com/2026/08/army-tells-industry-soldiers-need-more-power-but-dont-offer-us-more-batteries-and-generators",
@@ -253,12 +259,6 @@
           "title": "CENTCOM launches multinational one-way attack drone force",
           "url": "https://breakingdefense.com/2026/08/centcom-launches-multinational-one-way-attack-drone-force",
           "publishedAt": "2026-08-14T13:26:22+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Trump orders return of steam catapults on carriers, fifth public shipyard",
-          "url": "https://breakingdefense.com/2026/08/trump-orders-return-of-steam-catapults-on-carriers-fifth-public-shipyard",
-          "publishedAt": "2026-08-13T21:49:57+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-14T17:00:30+00:00",
+      "updatedAt": "2026-08-14T17:15:59+00:00",
       "stories": [
         {
           "title": "OpenAI previews frontier speed boost",
@@ -353,46 +353,28 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Google's Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut (13 minute read)",
-          "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
-          "publishedAt": "2026-08-14T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+          "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct",
+          "publishedAt": "2026-08-14T14:05:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Anthropic could be worth $2 trillion when it goes public (4 minute read)",
-          "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public",
-          "publishedAt": "2026-08-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Will financing bottleneck AI compute? An Anthropic case study (15 minute read)",
-          "url": "https://epochai.substack.com/p/will-financing-bottleneck-ai-compute",
-          "publishedAt": "2026-08-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Subagents on Subagents: How Many Layers Deep Is Too Many? (7 minute read)",
-          "url": "https://x.com/JoshARosen/status/2087944178558791874",
-          "publishedAt": "2026-08-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "OCR 4.1 (Website)",
-          "url": "https://docs.mistral.ai/models/ocr-4-1",
-          "publishedAt": "2026-08-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Agent Plugins are the future of Agent Skills (13 minute read)",
-          "url": "https://x.com/GoogleCloudTech/status/2087733334617063503",
-          "publishedAt": "2026-08-14T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+          "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong",
+          "publishedAt": "2026-08-14T14:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "SpaceXAI’s Grok 4.6 storms the frontier",
           "url": "https://x.ai/news/grok-4-6",
           "publishedAt": "2026-08-13T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+          "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs",
+          "publishedAt": "2026-08-13T21:13:24+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Anthropic adds AI watermarks to Claude outputs",
@@ -411,13 +393,31 @@
           "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
           "publishedAt": "2026-08-11T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI expands ‘Daybreak’ for stronger cyber use",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "publishedAt": "2026-08-11T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "AI agent hacks a gym to jump the waitlist",
+          "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+          "publishedAt": "2026-08-11T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI puts the safety brakes on Astra",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "publishedAt": "2026-08-10T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-14T17:00:30+00:00",
+      "updatedAt": "2026-08-14T17:15:59+00:00",
       "stories": [
         {
           "title": "Video Friday: Lift Happens",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-14T17:00:30+00:00",
+    "updatedAt": "2026-08-14T17:15:59+00:00",
     "stories": [
       {
         "title": "OpenAI previews frontier speed boost",
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Army tells industry: Soldiers need more power, but don’t just offer batteries and generators",
-        "url": "https://breakingdefense.com/2026/08/army-tells-industry-soldiers-need-more-power-but-dont-offer-us-more-batteries-and-generators",
-        "publishedAt": "2026-08-14T15:48:31+00:00",
+        "title": "Army picks M1 to lead Flight School Next pilot training program",
+        "url": "https://breakingdefense.com/2026/08/army-picks-m1-to-lead-flight-school-next-pilot-training-program",
+        "publishedAt": "2026-08-14T17:08:25+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -718,6 +718,7 @@
     }
   ],
   "warnings": [
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-03",
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
