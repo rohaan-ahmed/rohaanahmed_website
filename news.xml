@@ -5,16 +5,16 @@
     <link>https://rohaanahmed.com/news.html</link>
     <description>An automatically curated news feed built around my areas of interest</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 15 Aug 2026 04:51:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 05:00:29 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <guid isPermaLink="false">e4f0ccea59021d4d17d63c07e548131c88dfe37507bd6e9a200fd6e497874fcd</guid>
+      <guid isPermaLink="false">926afcd72676cc0f9e68d599cfbaa99ff46cff2afa06f65d03ae6f5f831816c4</guid>
       <title>International Space (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-space</link>
-      <pubDate>Sat, 15 Aug 2026 04:51:25 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 05:00:29 +0000</pubDate>
       <category>International Space</category>
       <description>Topic: International Space
-Updated: 2026-08-15T04:51:25+00:00
+Updated: 2026-08-15T05:00:29+00:00
 Stories: 15</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
@@ -85,25 +85,6 @@ Headline: Spire and PlanetiQ win NOAA radio-occultation contracts</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>APOD: 2026 August 15 – Bright Perseids from Sweden</title>
-      <link>https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden</link>
-      <guid isPermaLink="false">7c0a039c79448c514d5ab05dce9bc04ae4984e350361564529099e219c194414</guid>
-      <pubDate>Sat, 15 Aug 2026 04:05:00 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.nasa.gov/">NASA</source>
-      <description>Topic: International Space
-Source: NASA
-Published: 2026-08-15T04:05:00+00:00
-Headline: APOD: 2026 August 15 – Bright Perseids from Sweden</description>
-      <ra:topicId>international-space</ra:topicId>
-      <ra:topicName>International Space</ra:topicName>
-      <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
-      <ra:publishedAt>2026-08-15T04:05:00+00:00</ra:publishedAt>
-      <ra:sourceName>NASA</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
       <title>Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.</title>
       <link>https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in</link>
       <guid isPermaLink="false">61d6f8c402160a7caff367f17e8287b2ab123d122a3ef6cf09f93f33fbc15d77</guid>
@@ -117,7 +98,7 @@ Headline: Cheaper launch has moved the spacecraft bottleneck. Mass is out, surfa
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-08-14T13:00:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -136,7 +117,7 @@ Headline: Blue Origin outlines plans for second Cape Canaveral launch pad</descr
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>6</ra:storyPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-08-14T12:08:33+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -155,8 +136,27 @@ Headline: Intuitive Machines wins contract for three GEO satellites</description
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>7</ra:storyPosition>
+      <ra:storyPosition>6</ra:storyPosition>
       <ra:publishedAt>2026-08-14T11:29:03+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceNews</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Bulgaria advances project to launch new space, defense innovation hub</title>
+      <link>https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub</link>
+      <guid isPermaLink="false">68bc1262841554590d0440a1f98e6271e7d8f4e0332f5670f23918e59099e1c0</guid>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 +0000</pubDate>
+      <category>International Space</category>
+      <source url="https://spacenews.com/">SpaceNews</source>
+      <description>Topic: International Space
+Source: SpaceNews
+Published: 2026-08-14T09:00:00+00:00
+Headline: Bulgaria advances project to launch new space, defense innovation hub</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>7</ra:storyPosition>
+      <ra:publishedAt>2026-08-14T09:00:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -199,6 +199,25 @@ Headline: Is empty space really empty? This magnetic star may finally solve a 90
       <ra:kind>story</ra:kind>
     </item>
     <item>
+      <title>6 space board games to channel the political drama of 'For All Mankind' and 'Star City'</title>
+      <link>https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city</link>
+      <guid isPermaLink="false">51ee5615e624bf2d9e1d2e8d08ce1d06d5e52e1f5b0ed8e1db2d3232ea0279dd</guid>
+      <pubDate>Fri, 14 Aug 2026 20:00:00 +0000</pubDate>
+      <category>International Space</category>
+      <source url="https://www.space.com/">Space.com</source>
+      <description>Topic: International Space
+Source: Space.com
+Published: 2026-08-14T20:00:00+00:00
+Headline: 6 space board games to channel the political drama of 'For All Mankind' and 'Star City'</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>10</ra:storyPosition>
+      <ra:publishedAt>2026-08-14T20:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>Space.com</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
       <title>Cards Against Humanity wants to erect a monument to 'honor' Elon Musk</title>
       <link>https://www.space.com/space-exploration/human-spaceflight/cards-against-humanity-wants-to-erect-a-monument-to-honor-elon-musk</link>
       <guid isPermaLink="false">be596030daa8e54c6ee5afa863b055c3ed8b8a5faca4280fa21c2bcab8689614</guid>
@@ -212,47 +231,9 @@ Headline: Cards Against Humanity wants to erect a monument to 'honor' Elon Musk<
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
+      <ra:storyPosition>11</ra:storyPosition>
       <ra:publishedAt>2026-08-14T20:00:00+00:00</ra:publishedAt>
       <ra:sourceName>Space.com</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies</title>
-      <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies</link>
-      <guid isPermaLink="false">1a78b1f4dee3e40c7233e208335f2c85d61cec6da134231bdc70baad86fb2457</guid>
-      <pubDate>Fri, 14 Aug 2026 20:00:38 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.nasa.gov/">NASA</source>
-      <description>Topic: International Space
-Source: NASA
-Published: 2026-08-14T20:00:38+00:00
-Headline: NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies</description>
-      <ra:topicId>international-space</ra:topicId>
-      <ra:topicName>International Space</ra:topicName>
-      <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>11</ra:storyPosition>
-      <ra:publishedAt>2026-08-14T20:00:38+00:00</ra:publishedAt>
-      <ra:sourceName>NASA</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow</title>
-      <link>https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow</link>
-      <guid isPermaLink="false">ad2c315bba9d92ef3226507a41315488ec1b5c8879f61442184eeae41810e1f3</guid>
-      <pubDate>Fri, 14 Aug 2026 18:44:36 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.nasa.gov/">NASA</source>
-      <description>Topic: International Space
-Source: NASA
-Published: 2026-08-14T18:44:36+00:00
-Headline: NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow</description>
-      <ra:topicId>international-space</ra:topicId>
-      <ra:topicName>International Space</ra:topicName>
-      <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>12</ra:storyPosition>
-      <ra:publishedAt>2026-08-14T18:44:36+00:00</ra:publishedAt>
-      <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
@@ -269,7 +250,7 @@ Headline: Week in images: 10-14 August 2026</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>13</ra:storyPosition>
+      <ra:storyPosition>12</ra:storyPosition>
       <ra:publishedAt>2026-08-14T13:10:00+00:00</ra:publishedAt>
       <ra:sourceName>European Space Agency</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -288,7 +269,7 @@ Headline: A look back at the 2026 total solar eclipse</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>14</ra:storyPosition>
+      <ra:storyPosition>13</ra:storyPosition>
       <ra:publishedAt>2026-08-14T10:00:00+00:00</ra:publishedAt>
       <ra:sourceName>European Space Agency</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -307,19 +288,38 @@ Headline: MTG-I1 captures eclipse path of totality over Europe</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>15</ra:storyPosition>
+      <ra:storyPosition>14</ra:storyPosition>
       <ra:publishedAt>2026-08-13T08:30:00+00:00</ra:publishedAt>
       <ra:sourceName>European Space Agency</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">d465abbd01df6acdc716f7a461505609224bf5fa78756b1388303c8b1bcca407</guid>
+      <title>Musification of the 2026 total solar eclipse</title>
+      <link>https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse</link>
+      <guid isPermaLink="false">82efebf9df1ccce2df5cf5f8e6b43ef3feb589e73cc1039a3694d746c056bc34</guid>
+      <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
+      <category>International Space</category>
+      <source url="https://www.esa.int/">European Space Agency</source>
+      <description>Topic: International Space
+Source: European Space Agency
+Published: 2026-08-12T12:00:00+00:00
+Headline: Musification of the 2026 total solar eclipse</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>15</ra:storyPosition>
+      <ra:publishedAt>2026-08-12T12:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>European Space Agency</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <guid isPermaLink="false">c4ff3e48b1a4bbeed04101efe16d9d9b24d98bc1abbfb37047ad0776723544f3</guid>
       <title>Canadian Space (12 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
-      <pubDate>Sat, 15 Aug 2026 04:51:25 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 05:00:29 +0000</pubDate>
       <category>Canadian Space</category>
       <description>Topic: Canadian Space
-Updated: 2026-08-15T04:51:25+00:00
+Updated: 2026-08-15T05:00:29+00:00
 Stories: 12</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
@@ -559,13 +559,13 @@ Headline: Canada intends to repurpose Canadarm3 investments to support the next 
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">7b692de6d01a87c91c212f2c3f0fe8e12aae84edcdf099c286614d067f5b1d7c</guid>
+      <guid isPermaLink="false">7d020f740676484665bb00bda666479be4918ad29e032155948245f9f8ed35f3</guid>
       <title>Canadian Defence (5 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
-      <pubDate>Sat, 15 Aug 2026 04:51:25 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 05:00:29 +0000</pubDate>
       <category>Canadian Defence</category>
       <description>Topic: Canadian Defence
-Updated: 2026-08-15T04:51:25+00:00
+Updated: 2026-08-15T05:00:29+00:00
 Stories: 5</description>
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
@@ -670,13 +670,13 @@ Headline: Minister McGuinty launches Canada's first Quantum Defence Innovation S
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">3dcfaf339a911c136582b9fe1510c5bc2f7850f58f369e6d6c369957ed519585</guid>
+      <guid isPermaLink="false">40ced2ed2964cf0225cccdb713bd2738a4af4466743092ef55a7054df14ec4d6</guid>
       <title>International Defence Technology (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
-      <pubDate>Sat, 15 Aug 2026 04:51:25 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 05:00:29 +0000</pubDate>
       <category>International Defence Technology</category>
       <description>Topic: International Defence Technology
-Updated: 2026-08-15T04:51:25+00:00
+Updated: 2026-08-15T05:00:29+00:00
 Stories: 15</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
@@ -971,13 +971,13 @@ Headline: Flight-tracking data shows continued Russian air bridge to sub-Saharan
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">124b4597a4421d4aa86a4967021155283d03ce3b04825e16052e17bdf50e809e</guid>
+      <guid isPermaLink="false">132bcee505ca0ad6a44febaffb74a5b78e4ebedef2010d0a41a0d09589ce5184</guid>
       <title>Artificial Intelligence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
-      <pubDate>Sat, 15 Aug 2026 04:51:25 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 05:00:29 +0000</pubDate>
       <category>Artificial Intelligence</category>
       <description>Topic: Artificial Intelligence
-Updated: 2026-08-15T04:51:25+00:00
+Updated: 2026-08-15T05:00:29+00:00
 Stories: 15</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
@@ -1274,13 +1274,13 @@ Headline: OpenAI puts the safety brakes on Astra</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">18866c60e24c67b74c1c0a5d04e541876e6110eb3cc5ac66228478000ce005f4</guid>
+      <guid isPermaLink="false">832f031373d621cefd41233e83c98ba970160858d591302fae5c3d9d3c9d6cbe</guid>
       <title>Robotics (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-robotics</link>
-      <pubDate>Sat, 15 Aug 2026 04:51:25 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 05:00:29 +0000</pubDate>
       <category>Robotics</category>
       <description>Topic: Robotics
-Updated: 2026-08-15T04:51:25+00:00
+Updated: 2026-08-15T05:00:29+00:00
 Stories: 15</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
