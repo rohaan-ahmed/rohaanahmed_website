@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-15T14:00:30+00:00",
+  "generatedAt": "2026-08-15T14:03:36+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-15T14:00:30+00:00",
+      "updatedAt": "2026-08-15T14:03:36+00:00",
       "stories": [
+        {
+          "title": "On this day in space! Aug. 15, 1977: Mysterious 'Wow!' Signal boosts search for E.T.",
+          "url": "https://www.space.com/space-exploration/search-for-life/on-this-day-in-space-aug-15-1977-mysterious-wow-signal-boosts-search-for-e-t",
+          "publishedAt": "2026-08-15T14:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "'Lanterns': Who's who in HBO's Green Lantern show?",
           "url": "https://www.space.com/entertainment/space-movies-shows/lanterns-whos-who-in-hbos-green-lantern-show",
@@ -61,12 +67,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "'Strap yourself in and feel the Gs': NASA announces 'Max Power' aerospace expo",
-          "url": "https://www.space.com/space-exploration/strap-yourself-in-and-feel-the-gs-nasa-announces-max-power-aerospace-expo",
-          "publishedAt": "2026-08-14T22:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
           "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies",
           "publishedAt": "2026-08-14T20:00:38+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-15T14:00:30+00:00",
+      "updatedAt": "2026-08-15T14:03:36+00:00",
       "stories": [
         {
           "title": "Launch Canada Challenge returns to Timmins for fifth year of student rocketry",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-15T14:00:30+00:00",
+      "updatedAt": "2026-08-15T14:03:36+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces launch Operation NANOOK‑TUUGAALIK in Canada’s Arctic",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-15T14:00:30+00:00",
+      "updatedAt": "2026-08-15T14:03:36+00:00",
       "stories": [
         {
           "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-15T14:00:30+00:00",
+      "updatedAt": "2026-08-15T14:03:36+00:00",
       "stories": [
         {
           "title": "OpenAI previews frontier speed boost",
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-15T14:00:30+00:00",
+      "updatedAt": "2026-08-15T14:03:36+00:00",
       "stories": [
         {
           "title": "Why robots that can’t communicate naturally won’t be adopted",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-15T14:00:30+00:00",
+    "updatedAt": "2026-08-15T14:03:36+00:00",
     "stories": [
       {
         "title": "OpenAI previews frontier speed boost",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "'Lanterns': Who's who in HBO's Green Lantern show?",
-        "url": "https://www.space.com/entertainment/space-movies-shows/lanterns-whos-who-in-hbos-green-lantern-show",
-        "publishedAt": "2026-08-15T13:00:00+00:00",
+        "title": "On this day in space! Aug. 15, 1977: Mysterious 'Wow!' Signal boosts search for E.T.",
+        "url": "https://www.space.com/space-exploration/search-for-life/on-this-day-in-space-aug-15-1977-mysterious-wow-signal-boosts-search-for-e-t",
+        "publishedAt": "2026-08-15T14:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -573,6 +573,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "'Lanterns': Who's who in HBO's Green Lantern show?",
+        "url": "https://www.space.com/entertainment/space-movies-shows/lanterns-whos-who-in-hbos-green-lantern-show",
+        "publishedAt": "2026-08-15T13:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
         "url": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation",
         "publishedAt": "2026-08-14T22:26:27+00:00",
@@ -586,15 +595,6 @@
         "url": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches",
         "publishedAt": "2026-08-14T22:02:28+00:00",
         "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "We think these Nikon binoculars are excellent for variable magnification on the go",
-        "url": "https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-these-nikon-binoculars-are-brilliant-for-variable-magnification-on-the-go",
-        "publishedAt": "2026-08-15T09:00:00+00:00",
-        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
