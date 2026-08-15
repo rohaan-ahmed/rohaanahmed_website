@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-15T17:40:25+00:00",
+  "generatedAt": "2026-08-15T17:54:55+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-15T17:40:25+00:00",
+      "updatedAt": "2026-08-15T17:54:55+00:00",
       "stories": [
         {
           "title": "On this day in space! Aug. 15, 1977: Mysterious 'Wow!' Signal boosts search for E.T.",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-15T17:40:25+00:00",
+      "updatedAt": "2026-08-15T17:54:55+00:00",
       "stories": [
         {
           "title": "Launch Canada Challenge returns to Timmins for fifth year of student rocketry",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-15T17:40:25+00:00",
+      "updatedAt": "2026-08-15T17:54:55+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces launch Operation NANOOK‑TUUGAALIK in Canada’s Arctic",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-15T17:40:25+00:00",
+      "updatedAt": "2026-08-15T17:54:55+00:00",
       "stories": [
         {
           "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-15T17:40:25+00:00",
+      "updatedAt": "2026-08-15T17:54:55+00:00",
       "stories": [
         {
           "title": "SpaceX officially closes its Cursor acquisition",
@@ -347,40 +347,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Google's Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut (13 minute read)",
-          "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
-          "publishedAt": "2026-08-14T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Kog is going deeper to squeeze more inference out of GPUs",
+          "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus",
+          "publishedAt": "2026-08-14T14:50:11+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Anthropic could be worth $2 trillion when it goes public (4 minute read)",
-          "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public",
-          "publishedAt": "2026-08-14T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+          "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct",
+          "publishedAt": "2026-08-14T14:05:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Will financing bottleneck AI compute? An Anthropic case study (15 minute read)",
-          "url": "https://epochai.substack.com/p/will-financing-bottleneck-ai-compute",
-          "publishedAt": "2026-08-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Subagents on Subagents: How Many Layers Deep Is Too Many? (7 minute read)",
-          "url": "https://x.com/JoshARosen/status/2087944178558791874",
-          "publishedAt": "2026-08-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "OCR 4.1 (Website)",
-          "url": "https://docs.mistral.ai/models/ocr-4-1",
-          "publishedAt": "2026-08-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Agent Plugins are the future of Agent Skills (13 minute read)",
-          "url": "https://x.com/GoogleCloudTech/status/2087733334617063503",
-          "publishedAt": "2026-08-14T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+          "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong",
+          "publishedAt": "2026-08-14T14:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "SpaceXAI’s Grok 4.6 storms the frontier",
@@ -405,13 +387,31 @@
           "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
           "publishedAt": "2026-08-11T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI expands ‘Daybreak’ for stronger cyber use",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "publishedAt": "2026-08-11T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "AI agent hacks a gym to jump the waitlist",
+          "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+          "publishedAt": "2026-08-11T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI puts the safety brakes on Astra",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "publishedAt": "2026-08-10T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-15T17:40:25+00:00",
+      "updatedAt": "2026-08-15T17:54:55+00:00",
       "stories": [
         {
           "title": "Why robots that can’t communicate naturally won’t be adopted",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-15T17:40:25+00:00",
+    "updatedAt": "2026-08-15T17:54:55+00:00",
     "stories": [
       {
         "title": "SpaceX officially closes its Cursor acquisition",
@@ -712,6 +712,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-31"
   ]
 }
