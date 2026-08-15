@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-15T09:00:31+00:00",
+  "generatedAt": "2026-08-15T09:35:17+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-15T09:00:31+00:00",
+      "updatedAt": "2026-08-15T09:35:17+00:00",
       "stories": [
         {
           "title": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
@@ -17,6 +17,12 @@
           "url": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches",
           "publishedAt": "2026-08-14T22:02:28+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "We think these Nikon binoculars are excellent for variable magnification on the go",
+          "url": "https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-these-nikon-binoculars-are-brilliant-for-variable-magnification-on-the-go",
+          "publishedAt": "2026-08-15T09:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Spire and PlanetiQ win NOAA radio-occultation contracts",
@@ -61,12 +67,6 @@
           "source": "Space.com"
         },
         {
-          "title": "6 space board games to channel the political drama of 'For All Mankind' and 'Star City'",
-          "url": "https://www.space.com/entertainment/space-games/6-space-board-games-to-channel-the-political-drama-of-for-all-mankind-and-star-city",
-          "publishedAt": "2026-08-14T20:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
           "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies",
           "publishedAt": "2026-08-14T20:00:38+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-15T09:00:31+00:00",
+      "updatedAt": "2026-08-15T09:35:17+00:00",
       "stories": [
         {
           "title": "Launch Canada Challenge returns to Timmins for fifth year of student rocketry",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-15T09:00:31+00:00",
+      "updatedAt": "2026-08-15T09:35:17+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces launch Operation NANOOK‑TUUGAALIK in Canada’s Arctic",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-15T09:00:31+00:00",
+      "updatedAt": "2026-08-15T09:35:17+00:00",
       "stories": [
         {
           "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-15T09:00:31+00:00",
+      "updatedAt": "2026-08-15T09:35:17+00:00",
       "stories": [
         {
           "title": "OpenAI previews frontier speed boost",
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-15T09:00:31+00:00",
+      "updatedAt": "2026-08-15T09:35:17+00:00",
       "stories": [
         {
           "title": "How Protolabs turns CAD files into parts in under 24 hours",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-15T09:00:31+00:00",
+    "updatedAt": "2026-08-15T09:35:17+00:00",
     "stories": [
       {
         "title": "OpenAI previews frontier speed boost",
@@ -582,21 +582,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "We think these Nikon binoculars are excellent for variable magnification on the go",
+        "url": "https://www.space.com/stargazing/skywatching-kit/our-expert-thinks-these-nikon-binoculars-are-brilliant-for-variable-magnification-on-the-go",
+        "publishedAt": "2026-08-15T09:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Calian Q3 2026 results: raised outlook, lighter order book",
         "url": "https://spaceq.ca/calian-q3-2026-results-raised-outlook-lighter-order-book",
         "publishedAt": "2026-08-14T18:48:55+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Spire and PlanetiQ win NOAA radio-occultation contracts",
-        "url": "https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts",
-        "publishedAt": "2026-08-14T16:33:58+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -713,6 +713,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-04"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-23"
   ]
 }
