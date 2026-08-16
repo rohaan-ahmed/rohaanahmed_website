@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-16T10:34:28+00:00",
+  "generatedAt": "2026-08-16T11:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-16T10:34:28+00:00",
+      "updatedAt": "2026-08-16T11:00:29+00:00",
       "stories": [
+        {
+          "title": "U.S. defense agencies tap three companies for satellite disposal study",
+          "url": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study",
+          "publishedAt": "2026-08-16T10:50:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Lunar orbiter among upcoming NASA CLPS task orders",
           "url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders",
@@ -67,12 +73,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Blue Origin outlines plans for second Cape Canaveral launch pad",
-          "url": "https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad",
-          "publishedAt": "2026-08-14T12:08:33+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
           "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies",
           "publishedAt": "2026-08-14T20:00:38+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-16T10:34:28+00:00",
+      "updatedAt": "2026-08-16T11:00:29+00:00",
       "stories": [
         {
           "title": "Launch Canada Challenge returns to Timmins for fifth year of student rocketry",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-16T10:34:28+00:00",
+      "updatedAt": "2026-08-16T11:00:29+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces launch Operation NANOOK‑TUUGAALIK in Canada’s Arctic",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-16T10:34:28+00:00",
+      "updatedAt": "2026-08-16T11:00:29+00:00",
       "stories": [
         {
           "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-16T10:34:28+00:00",
+      "updatedAt": "2026-08-16T11:00:29+00:00",
       "stories": [
         {
           "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-16T10:34:28+00:00",
+      "updatedAt": "2026-08-16T11:00:29+00:00",
       "stories": [
         {
           "title": "Why robots that can’t communicate naturally won’t be adopted",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-16T10:34:28+00:00",
+    "updatedAt": "2026-08-16T11:00:29+00:00",
     "stories": [
       {
         "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Lunar orbiter among upcoming NASA CLPS task orders",
-        "url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders",
-        "publishedAt": "2026-08-15T23:49:58+00:00",
+        "title": "U.S. defense agencies tap three companies for satellite disposal study",
+        "url": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study",
+        "publishedAt": "2026-08-16T10:50:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -573,6 +573,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Lunar orbiter among upcoming NASA CLPS task orders",
+        "url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders",
+        "publishedAt": "2026-08-15T23:49:58+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "'This goes beyond showcasing technological soft power': China's new moon map signals bold space ambitions (video)",
         "url": "https://www.space.com/astronomy/moon/this-goes-beyond-showcasing-technological-soft-power-chinas-new-moon-map-signals-bold-space-ambitions-video",
         "publishedAt": "2026-08-16T10:00:00+00:00",
@@ -586,15 +595,6 @@
         "url": "https://www.space.com/stargazing/skywatching-kit/stomp-rockets-the-perfect-start-to-model-rocketry-for-kids",
         "publishedAt": "2026-08-16T09:00:00+00:00",
         "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
-        "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone",
-        "publishedAt": "2026-08-16T04:05:00+00:00",
-        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -713,6 +713,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-29"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-04"
   ]
 }
