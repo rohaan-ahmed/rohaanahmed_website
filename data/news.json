@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-08-16T09:00:25+00:00",
+  "generatedAt": "2026-08-16T09:12:22+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-16T09:00:25+00:00",
+      "updatedAt": "2026-08-16T09:12:22+00:00",
       "stories": [
         {
           "title": "Lunar orbiter among upcoming NASA CLPS task orders",
           "url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders",
           "publishedAt": "2026-08-15T23:49:58+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Stomp Rockets: The perfect start to model rocketry for kids?",
+          "url": "https://www.space.com/stargazing/skywatching-kit/stomp-rockets-the-perfect-start-to-model-rocketry-for-kids",
+          "publishedAt": "2026-08-16T09:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
@@ -28,12 +34,6 @@
           "title": "On this day in space! Aug. 15, 1977: Mysterious 'Wow!' Signal boosts search for E.T.",
           "url": "https://www.space.com/space-exploration/search-for-life/on-this-day-in-space-aug-15-1977-mysterious-wow-signal-boosts-search-for-e-t",
           "publishedAt": "2026-08-15T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "'Lanterns': Who's who in HBO's Green Lantern show?",
-          "url": "https://www.space.com/entertainment/space-movies-shows/lanterns-whos-who-in-hbos-green-lantern-show",
-          "publishedAt": "2026-08-15T13:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-16T09:00:25+00:00",
+      "updatedAt": "2026-08-16T09:12:22+00:00",
       "stories": [
         {
           "title": "Launch Canada Challenge returns to Timmins for fifth year of student rocketry",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-16T09:00:25+00:00",
+      "updatedAt": "2026-08-16T09:12:22+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces launch Operation NANOOK‑TUUGAALIK in Canada’s Arctic",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-16T09:00:25+00:00",
+      "updatedAt": "2026-08-16T09:12:22+00:00",
       "stories": [
         {
           "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-16T09:00:25+00:00",
+      "updatedAt": "2026-08-16T09:12:22+00:00",
       "stories": [
         {
           "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-16T09:00:25+00:00",
+      "updatedAt": "2026-08-16T09:12:22+00:00",
       "stories": [
         {
           "title": "Why robots that can’t communicate naturally won’t be adopted",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-16T09:00:25+00:00",
+    "updatedAt": "2026-08-16T09:12:22+00:00",
     "stories": [
       {
         "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -573,6 +573,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Stomp Rockets: The perfect start to model rocketry for kids?",
+        "url": "https://www.space.com/stargazing/skywatching-kit/stomp-rockets-the-perfect-start-to-model-rocketry-for-kids",
+        "publishedAt": "2026-08-16T09:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
         "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone",
         "publishedAt": "2026-08-16T04:05:00+00:00",
@@ -588,15 +597,6 @@
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "SpaceX officially closes its Cursor acquisition",
-        "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
-        "publishedAt": "2026-08-15T16:30:00+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -713,6 +713,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-04"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-28"
   ]
 }
