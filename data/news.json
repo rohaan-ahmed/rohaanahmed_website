@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T12:01:23+00:00",
+  "generatedAt": "2026-08-16T12:56:37+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-16T12:01:23+00:00",
+      "updatedAt": "2026-08-16T12:56:37+00:00",
       "stories": [
         {
           "title": "U.S. defense agencies tap three companies for satellite disposal study",
@@ -37,7 +37,7 @@
           "source": "NASA"
         },
         {
-          "title": "New record! SpaceX launches 2 Falcon 9 rockets just 38 minutes apart",
+          "title": "New record! SpaceX launches 2 Falcon 9 rockets just 38 minutes apart (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-breaks-record-launch-doubleheader-ussf-366-globalstar-2r",
           "publishedAt": "2026-08-16T02:54:47+00:00",
           "source": "Space.com"
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-16T12:01:23+00:00",
+      "updatedAt": "2026-08-16T12:56:37+00:00",
       "stories": [
         {
           "title": "Launch Canada Challenge returns to Timmins for fifth year of student rocketry",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-16T12:01:23+00:00",
+      "updatedAt": "2026-08-16T12:56:37+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces launch Operation NANOOK‑TUUGAALIK in Canada’s Arctic",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-16T12:01:23+00:00",
+      "updatedAt": "2026-08-16T12:56:37+00:00",
       "stories": [
         {
           "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-16T12:01:23+00:00",
+      "updatedAt": "2026-08-16T12:56:37+00:00",
       "stories": [
         {
           "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -411,8 +411,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-16T12:01:23+00:00",
+      "updatedAt": "2026-08-16T12:56:37+00:00",
       "stories": [
+        {
+          "title": "How robotics is revolutionizing stroke rehabilitation",
+          "url": "https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation",
+          "publishedAt": "2026-08-16T12:30:18+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Why robots that can’t communicate naturally won’t be adopted",
           "url": "https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble",
@@ -486,12 +492,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Strengthening U.S. Army sustainment: TALUS to deliver autonomous distribution",
-          "url": "https://www.therobotreport.com/strengthening-u-s-army-sustainment-talus-to-deliver-autonomous-distribution",
-          "publishedAt": "2026-08-12T13:36:55+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Robot Recycler Salvages Parts From Broken Machines",
           "url": "https://spectrum.ieee.org/recycling-robot",
           "publishedAt": "2026-08-10T18:01:25+00:00",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-16T12:01:23+00:00",
+    "updatedAt": "2026-08-16T12:56:37+00:00",
     "stories": [
       {
         "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -564,9 +564,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Why robots that can’t communicate naturally won’t be adopted",
-        "url": "https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble",
-        "publishedAt": "2026-08-15T12:20:18+00:00",
+        "title": "How robotics is revolutionizing stroke rehabilitation",
+        "url": "https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation",
+        "publishedAt": "2026-08-16T12:30:18+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -713,6 +713,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-04"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-05"
   ]
 }
