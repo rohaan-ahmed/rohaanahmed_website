@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-08-16T04:17:39+00:00",
+  "generatedAt": "2026-08-16T04:53:58+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-16T04:17:39+00:00",
+      "updatedAt": "2026-08-16T04:53:58+00:00",
       "stories": [
         {
           "title": "Lunar orbiter among upcoming NASA CLPS task orders",
           "url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders",
           "publishedAt": "2026-08-15T23:49:58+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
+          "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone",
+          "publishedAt": "2026-08-16T04:05:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "New record! SpaceX launches 2 Falcon 9 rockets just 38 minutes apart",
@@ -73,12 +79,6 @@
           "source": "NASA"
         },
         {
-          "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
-          "url": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow",
-          "publishedAt": "2026-08-14T18:44:36+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Week in images: 10-14 August 2026",
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_August_2026",
           "publishedAt": "2026-08-14T13:10:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-16T04:17:39+00:00",
+      "updatedAt": "2026-08-16T04:53:58+00:00",
       "stories": [
         {
           "title": "Launch Canada Challenge returns to Timmins for fifth year of student rocketry",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-16T04:17:39+00:00",
+      "updatedAt": "2026-08-16T04:53:58+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces launch Operation NANOOK‑TUUGAALIK in Canada’s Arctic",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-16T04:17:39+00:00",
+      "updatedAt": "2026-08-16T04:53:58+00:00",
       "stories": [
         {
           "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-16T04:17:39+00:00",
+      "updatedAt": "2026-08-16T04:53:58+00:00",
       "stories": [
         {
           "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-16T04:17:39+00:00",
+      "updatedAt": "2026-08-16T04:53:58+00:00",
       "stories": [
         {
           "title": "Why robots that can’t communicate naturally won’t be adopted",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-16T04:17:39+00:00",
+    "updatedAt": "2026-08-16T04:53:58+00:00",
     "stories": [
       {
         "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -573,6 +573,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
+        "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone",
+        "publishedAt": "2026-08-16T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "New record! SpaceX launches 2 Falcon 9 rockets just 38 minutes apart",
         "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-breaks-record-launch-doubleheader-ussf-366-globalstar-2r",
         "publishedAt": "2026-08-16T02:54:47+00:00",
@@ -588,15 +597,6 @@
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "On this day in space! Aug. 15, 1977: Mysterious 'Wow!' Signal boosts search for E.T.",
-        "url": "https://www.space.com/space-exploration/search-for-life/on-this-day-in-space-aug-15-1977-mysterious-wow-signal-boosts-search-for-e-t",
-        "publishedAt": "2026-08-15T14:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
