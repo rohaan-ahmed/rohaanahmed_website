@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-16T16:37:03+00:00",
+  "generatedAt": "2026-08-16T16:56:21+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-16T16:37:03+00:00",
+      "updatedAt": "2026-08-16T16:56:21+00:00",
       "stories": [
         {
           "title": "U.S. defense agencies tap three companies for satellite disposal study",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-16T16:37:03+00:00",
+      "updatedAt": "2026-08-16T16:56:21+00:00",
       "stories": [
         {
           "title": "Launch Canada Challenge returns to Timmins for fifth year of student rocketry",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-16T16:37:03+00:00",
+      "updatedAt": "2026-08-16T16:56:21+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces launch Operation NANOOK‑TUUGAALIK in Canada’s Arctic",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-16T16:37:03+00:00",
+      "updatedAt": "2026-08-16T16:56:21+00:00",
       "stories": [
         {
           "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
@@ -314,8 +314,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-16T16:37:03+00:00",
+      "updatedAt": "2026-08-16T16:56:21+00:00",
       "stories": [
+        {
+          "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+          "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
+          "publishedAt": "2026-08-16T16:53:51+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
           "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery",
@@ -356,12 +362,6 @@
           "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
           "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone",
           "publishedAt": "2026-08-14T15:43:28+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Kog is going deeper to squeeze more inference out of GPUs",
-          "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus",
-          "publishedAt": "2026-08-14T14:50:11+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-16T16:37:03+00:00",
+      "updatedAt": "2026-08-16T16:56:21+00:00",
       "stories": [
         {
           "title": "How robotics is revolutionizing stroke rehabilitation",
@@ -507,21 +507,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-16T16:37:03+00:00",
+    "updatedAt": "2026-08-16T16:56:21+00:00",
     "stories": [
       {
-        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery",
-        "publishedAt": "2026-08-15T21:29:19+00:00",
+        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+        "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
+        "publishedAt": "2026-08-16T16:53:51+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-        "publishedAt": "2026-08-15T18:58:39+00:00",
+        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery",
+        "publishedAt": "2026-08-15T21:29:19+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -713,6 +713,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-31"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-30"
   ]
 }
