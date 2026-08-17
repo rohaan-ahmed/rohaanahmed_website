@@ -5,16 +5,16 @@
     <link>https://rohaanahmed.com/news.html</link>
     <description>An automatically curated news feed built around my areas of interest</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 17 Aug 2026 13:10:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 13:51:03 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <guid isPermaLink="false">0f61fa4e5cf0e100b3edd671476305365f4c33a2c4b7663100de8f201db95e32</guid>
+      <guid isPermaLink="false">74c5a57b5875a5e120c0abe433d2040e388779bdc6d8fe1855d769ce6c42cd76</guid>
       <title>International Space (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-space</link>
-      <pubDate>Mon, 17 Aug 2026 13:10:39 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 13:51:03 +0000</pubDate>
       <category>International Space</category>
       <description>Topic: International Space
-Updated: 2026-08-17T13:10:39+00:00
+Updated: 2026-08-17T13:51:03+00:00
 Stories: 15</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
@@ -239,6 +239,25 @@ Headline: APOD: 2026 August 17 – A Golden Corona Eclipse</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
+      <title>Chasing Fire Clouds in Utah</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah</link>
+      <guid isPermaLink="false">522587faa549a806924d363b61c0d1149fc418b70995da99dddf0ebb9667b298</guid>
+      <pubDate>Mon, 17 Aug 2026 04:01:00 +0000</pubDate>
+      <category>International Space</category>
+      <source url="https://www.nasa.gov/">NASA</source>
+      <description>Topic: International Space
+Source: NASA
+Published: 2026-08-17T04:01:00+00:00
+Headline: Chasing Fire Clouds in Utah</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>12</ra:storyPosition>
+      <ra:publishedAt>2026-08-17T04:01:00+00:00</ra:publishedAt>
+      <ra:sourceName>NASA</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
       <title>APOD: 2026 August 16 – Milky Way over Yellowstone</title>
       <link>https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone</link>
       <guid isPermaLink="false">d7f8c7d4000b00e26d10bf29413b7cef7acaa38f8b009e07d24579db787deee3</guid>
@@ -252,27 +271,8 @@ Headline: APOD: 2026 August 16 – Milky Way over Yellowstone</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>12</ra:storyPosition>
-      <ra:publishedAt>2026-08-16T04:05:00+00:00</ra:publishedAt>
-      <ra:sourceName>NASA</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>APOD: 2026 August 15 – Bright Perseids from Sweden</title>
-      <link>https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden</link>
-      <guid isPermaLink="false">7c0a039c79448c514d5ab05dce9bc04ae4984e350361564529099e219c194414</guid>
-      <pubDate>Sat, 15 Aug 2026 04:05:00 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.nasa.gov/">NASA</source>
-      <description>Topic: International Space
-Source: NASA
-Published: 2026-08-15T04:05:00+00:00
-Headline: APOD: 2026 August 15 – Bright Perseids from Sweden</description>
-      <ra:topicId>international-space</ra:topicId>
-      <ra:topicName>International Space</ra:topicName>
-      <ra:topicPosition>1</ra:topicPosition>
       <ra:storyPosition>13</ra:storyPosition>
-      <ra:publishedAt>2026-08-15T04:05:00+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-08-16T04:05:00+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -315,13 +315,13 @@ Headline: A look back at the 2026 total solar eclipse</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">fe2202563ed2699b81eeebbe7d7e5e819aab492995a1e29ecb4ad2c54823b43b</guid>
+      <guid isPermaLink="false">d264f25664fedbff6c5ee69530a47d2b3809836045f33cbe7302a27ba8384855</guid>
       <title>Canadian Space (11 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
-      <pubDate>Mon, 17 Aug 2026 13:10:39 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 13:51:03 +0000</pubDate>
       <category>Canadian Space</category>
       <description>Topic: Canadian Space
-Updated: 2026-08-17T13:10:39+00:00
+Updated: 2026-08-17T13:51:03+00:00
 Stories: 11</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
@@ -540,18 +540,39 @@ Headline: DRDC tasks EarthDaily with geospatial platform for RCMP border monitor
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">efa33d6c1b25752ac2f79113d6fafde48fe0dbf4066a84d5eac20a8b6de08ad5</guid>
-      <title>Canadian Defence (4 stories)</title>
+      <guid isPermaLink="false">d6f40c7b8879e91f91a3b0b85efb961e7e48386986326b7bafc898d8431150bc</guid>
+      <title>Canadian Defence (5 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
-      <pubDate>Mon, 17 Aug 2026 13:10:39 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 13:51:03 +0000</pubDate>
       <category>Canadian Defence</category>
       <description>Topic: Canadian Defence
-Updated: 2026-08-17T13:10:39+00:00
-Stories: 4</description>
+Updated: 2026-08-17T13:51:03+00:00
+Stories: 5</description>
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
       <ra:topicPosition>3</ra:topicPosition>
       <ra:kind>topic</ra:kind>
+    </item>
+    <item>
+      <title>HMCS Charlottetown returns from Operations HORIZON and NEON</title>
+      <link>https://www.canada.ca/en/department-national-defence/news/2026/08/hmcs-charlottetown-returns-from-operations-horizon-and-neon.html</link>
+      <guid isPermaLink="false">edf43ecab2f8fc64f8f1c48cdc88e5dc244a134094d6eb828caac0f29c9b373b</guid>
+      <pubDate>Mon, 17 Aug 2026 13:28:29 +0000</pubDate>
+      <category>Canadian Defence</category>
+      <category>Bulletin</category>
+      <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
+      <description>Topic: Canadian Defence
+Source: National Defence
+Published: 2026-08-17T13:28:29+00:00
+Headline: HMCS Charlottetown returns from Operations HORIZON and NEON</description>
+      <ra:topicId>canadian-defence</ra:topicId>
+      <ra:topicName>Canadian Defence</ra:topicName>
+      <ra:topicPosition>3</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>5</ra:bulletinPosition>
+      <ra:publishedAt>2026-08-17T13:28:29+00:00</ra:publishedAt>
+      <ra:sourceName>National Defence</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Canadian Armed Forces launch Operation NANOOK‑TUUGAALIK in Canada’s Arctic</title>
@@ -559,7 +580,6 @@ Stories: 4</description>
       <guid isPermaLink="false">54933bace776fc9e74f3f29c7f297c0f64140a7a3a1db96e46ff06a793611699</guid>
       <pubDate>Fri, 14 Aug 2026 14:27:12 +0000</pubDate>
       <category>Canadian Defence</category>
-      <category>Bulletin</category>
       <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
       <description>Topic: Canadian Defence
 Source: National Defence
@@ -568,8 +588,7 @@ Headline: Canadian Armed Forces launch Operation NANOOK‑TUUGAALIK in Canada’
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
       <ra:topicPosition>3</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>5</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
       <ra:publishedAt>2026-08-14T14:27:12+00:00</ra:publishedAt>
       <ra:sourceName>National Defence</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -588,7 +607,7 @@ Headline: Statement from Minister McGuinty on the Defence Team's Commitment to O
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
       <ra:topicPosition>3</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
+      <ra:storyPosition>3</ra:storyPosition>
       <ra:publishedAt>2026-08-13T13:06:42+00:00</ra:publishedAt>
       <ra:sourceName>National Defence</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -607,7 +626,7 @@ Headline: Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
       <ra:topicPosition>3</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-08-11T13:42:59+00:00</ra:publishedAt>
       <ra:sourceName>National Defence</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -626,19 +645,19 @@ Headline: Minister McGuinty concludes Alberta visit focused on innovation and st
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
       <ra:topicPosition>3</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-08-07T22:00:00+00:00</ra:publishedAt>
       <ra:sourceName>National Defence</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">70f0d7db3bfbb5a259f0ff99509b1851d6b4f7d91037e7f3978c807005fede32</guid>
+      <guid isPermaLink="false">9aec3a3683fd365dfdaae221812d072b69d3a624a54ef7fd9feefbd319e57252</guid>
       <title>International Defence Technology (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
-      <pubDate>Mon, 17 Aug 2026 13:10:39 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 13:51:03 +0000</pubDate>
       <category>International Defence Technology</category>
       <description>Topic: International Defence Technology
-Updated: 2026-08-17T13:10:39+00:00
+Updated: 2026-08-17T13:51:03+00:00
 Stories: 15</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
@@ -646,12 +665,32 @@ Stories: 15</description>
       <ra:kind>topic</ra:kind>
     </item>
     <item>
+      <title>Space Force brings 5 companies on-board Space Data Network</title>
+      <link>https://breakingdefense.com/2026/08/space-force-brings-5-companies-on-board-space-data-network</link>
+      <guid isPermaLink="false">9ee2e294d2fa22bf39646eb7222582d771c126a557a53220e3313c4a8337236e</guid>
+      <pubDate>Mon, 17 Aug 2026 13:17:00 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <category>Bulletin</category>
+      <source url="https://breakingdefense.com/">Breaking Defense</source>
+      <description>Topic: International Defence Technology
+Source: Breaking Defense
+Published: 2026-08-17T13:17:00+00:00
+Headline: Space Force brings 5 companies on-board Space Data Network</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>6</ra:bulletinPosition>
+      <ra:publishedAt>2026-08-17T13:17:00+00:00</ra:publishedAt>
+      <ra:sourceName>Breaking Defense</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
       <title>After traumatic health ‘crash,’ Austin Tice’s mom renews search for answers</title>
       <link>https://www.defensenews.com/news/your-military/2026/08/17/after-traumatic-health-crash-austin-tices-mom-renews-search-for-answers</link>
       <guid isPermaLink="false">d41b6a24e9aedc0ac47729f7bda32118027ed8ffa7f010584d405f54ca3492fc</guid>
       <pubDate>Mon, 17 Aug 2026 13:00:28 +0000</pubDate>
       <category>International Defence Technology</category>
-      <category>Bulletin</category>
       <source url="https://www.defensenews.com/">Defense News</source>
       <description>Topic: International Defence Technology
 Source: Defense News
@@ -660,8 +699,7 @@ Headline: After traumatic health ‘crash,’ Austin Tice’s mom renews search 
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>6</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
       <ra:publishedAt>2026-08-17T13:00:28+00:00</ra:publishedAt>
       <ra:sourceName>Defense News</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -680,7 +718,7 @@ Headline: Pentagon inks deals with Boeing, RTX to boost production of SM-3 compo
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
+      <ra:storyPosition>3</ra:storyPosition>
       <ra:publishedAt>2026-08-14T19:57:54+00:00</ra:publishedAt>
       <ra:sourceName>Defense News</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -699,7 +737,7 @@ Headline: Top Northcom general adds to drumbeat of warnings about weak drone def
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-08-14T22:30:03+00:00</ra:publishedAt>
       <ra:sourceName>DefenseScoop</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -718,7 +756,7 @@ Headline: America is sailing through the Taiwan Strait less. Does it matter?</de
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-08-14T18:00:00+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -737,7 +775,7 @@ Headline: Army picks M1 to lead Flight School Next pilot training program</descr
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
+      <ra:storyPosition>6</ra:storyPosition>
       <ra:publishedAt>2026-08-14T17:08:25+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -756,7 +794,7 @@ Headline: Patriot makers hedge on Ukraine production deal as officials question 
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>6</ra:storyPosition>
+      <ra:storyPosition>7</ra:storyPosition>
       <ra:publishedAt>2026-08-14T17:40:00+00:00</ra:publishedAt>
       <ra:sourceName>Defense News</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -775,7 +813,7 @@ Headline: Army tells industry: Soldiers need more power, but don’t just offer 
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>7</ra:storyPosition>
+      <ra:storyPosition>8</ra:storyPosition>
       <ra:publishedAt>2026-08-14T15:48:31+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -794,7 +832,7 @@ Headline: Pentagon inks SM-3 framework deals with RTX, Boeing on critical compon
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>8</ra:storyPosition>
+      <ra:storyPosition>9</ra:storyPosition>
       <ra:publishedAt>2026-08-14T14:55:00+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -813,28 +851,9 @@ Headline: CENTCOM launches multinational attack drone task force</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>9</ra:storyPosition>
+      <ra:storyPosition>10</ra:storyPosition>
       <ra:publishedAt>2026-08-14T15:09:04+00:00</ra:publishedAt>
       <ra:sourceName>Defense News</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Trump opens door for foreign-built Navy ships. It could get complicated.</title>
-      <link>https://breakingdefense.com/2026/08/what-would-integrating-foreign-ships-into-the-us-fleet-look-like</link>
-      <guid isPermaLink="false">5a1880b4470665df39817d896e1fab4daad486d3fa58be85f8b13e71eb521857</guid>
-      <pubDate>Fri, 14 Aug 2026 14:02:00 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://breakingdefense.com/">Breaking Defense</source>
-      <description>Topic: International Defence Technology
-Source: Breaking Defense
-Published: 2026-08-14T14:02:00+00:00
-Headline: Trump opens door for foreign-built Navy ships. It could get complicated.</description>
-      <ra:topicId>international-defence-technology</ra:topicId>
-      <ra:topicName>International Defence Technology</ra:topicName>
-      <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
-      <ra:publishedAt>2026-08-14T14:02:00+00:00</ra:publishedAt>
-      <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
@@ -933,13 +952,13 @@ Headline: Centcom creates first ‘multinational’ attack drone task force afte
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">7027ea2d1d1b7dbae000a79ae5f4a6b57dfd188b9babfbba05aab3ea1813f554</guid>
+      <guid isPermaLink="false">f2f76d090361f7752f1c11aaacc8567eb6290fa722f8eb53170a9cf5e5adeb79</guid>
       <title>Artificial Intelligence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
-      <pubDate>Mon, 17 Aug 2026 13:10:39 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 13:51:03 +0000</pubDate>
       <category>Artificial Intelligence</category>
       <description>Topic: Artificial Intelligence
-Updated: 2026-08-17T13:10:39+00:00
+Updated: 2026-08-17T13:51:03+00:00
 Stories: 15</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
@@ -1027,6 +1046,63 @@ Headline: Why people aren’t buying Mark Zuckerberg’s AI future</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
+      <title>Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’</title>
+      <link>https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust</link>
+      <guid isPermaLink="false">43e298ab278b26ba4b6fbdecd3d97854c58c2fa99f076e635dab77a299ebe046</guid>
+      <pubDate>Sun, 16 Aug 2026 16:53:51 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TechCrunch AI
+Published: 2026-08-16T16:53:51+00:00
+Headline: Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>5</ra:storyPosition>
+      <ra:publishedAt>2026-08-16T16:53:51+00:00</ra:publishedAt>
+      <ra:sourceName>TechCrunch AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Woman claims her stepfather used Grok to transform childhood photo into explicit imagery</title>
+      <link>https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery</link>
+      <guid isPermaLink="false">2b7d2c8ad30f3f37c5d50237ee28c52834bd6d0be0860bc0e9f7a15958f9c07a</guid>
+      <pubDate>Sat, 15 Aug 2026 21:29:19 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TechCrunch AI
+Published: 2026-08-15T21:29:19+00:00
+Headline: Woman claims her stepfather used Grok to transform childhood photo into explicit imagery</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>6</ra:storyPosition>
+      <ra:publishedAt>2026-08-15T21:29:19+00:00</ra:publishedAt>
+      <ra:sourceName>TechCrunch AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Anthropic shares more details about how Claude’s new watermarks will work</title>
+      <link>https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work</link>
+      <guid isPermaLink="false">81d79d754e3795848fecfd10c49b9535051f2d2505c0f2c497253d163151a933</guid>
+      <pubDate>Sat, 15 Aug 2026 18:58:39 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TechCrunch AI
+Published: 2026-08-15T18:58:39+00:00
+Headline: Anthropic shares more details about how Claude’s new watermarks will work</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>7</ra:storyPosition>
+      <ra:publishedAt>2026-08-15T18:58:39+00:00</ra:publishedAt>
+      <ra:sourceName>TechCrunch AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
       <title>OpenAI previews frontier speed boost</title>
       <link>https://openai.com/index/previewing-ultrafast</link>
       <guid isPermaLink="false">3a4e55598dc53a0e555ed4f4ed38c78185cc4b80043531e1bd263eed183c359e</guid>
@@ -1040,7 +1116,7 @@ Headline: OpenAI previews frontier speed boost</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
+      <ra:storyPosition>8</ra:storyPosition>
       <ra:publishedAt>2026-08-14T10:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1059,123 +1135,9 @@ Headline: Anthropic's AI agents wage a turf war</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>6</ra:storyPosition>
+      <ra:storyPosition>9</ra:storyPosition>
       <ra:publishedAt>2026-08-14T10:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Google's Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut (13 minute read)</title>
-      <link>https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut</link>
-      <guid isPermaLink="false">6c262019a1e5887373193a8cf4cc5d2158c72b2a1b8994beca15f15379ca7708</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
-      <description>Topic: Artificial Intelligence
-Source: TLDR AI
-Published: 2026-08-14T00:00:00+00:00
-Headline: Google's Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut (13 minute read)</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>7</ra:storyPosition>
-      <ra:publishedAt>2026-08-14T00:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>TLDR AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Anthropic could be worth $2 trillion when it goes public (4 minute read)</title>
-      <link>https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public</link>
-      <guid isPermaLink="false">9cd3724a9dbada1d8d6f1b30f6be41483162c624ea8dbebdc0f49f33e8d261fa</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
-      <description>Topic: Artificial Intelligence
-Source: TLDR AI
-Published: 2026-08-14T00:00:00+00:00
-Headline: Anthropic could be worth $2 trillion when it goes public (4 minute read)</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>8</ra:storyPosition>
-      <ra:publishedAt>2026-08-14T00:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>TLDR AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Will financing bottleneck AI compute? An Anthropic case study (15 minute read)</title>
-      <link>https://epochai.substack.com/p/will-financing-bottleneck-ai-compute</link>
-      <guid isPermaLink="false">70240208e66d30c146fbb0671a4beb299e90b2e6d37a73060d5078afefbf642f</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
-      <description>Topic: Artificial Intelligence
-Source: TLDR AI
-Published: 2026-08-14T00:00:00+00:00
-Headline: Will financing bottleneck AI compute? An Anthropic case study (15 minute read)</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>9</ra:storyPosition>
-      <ra:publishedAt>2026-08-14T00:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>TLDR AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Subagents on Subagents: How Many Layers Deep Is Too Many? (7 minute read)</title>
-      <link>https://x.com/JoshARosen/status/2087944178558791874</link>
-      <guid isPermaLink="false">d9b9dc2312495d9d5bf21605ab4021123195078f65f7835a98dc1481607e4fad</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
-      <description>Topic: Artificial Intelligence
-Source: TLDR AI
-Published: 2026-08-14T00:00:00+00:00
-Headline: Subagents on Subagents: How Many Layers Deep Is Too Many? (7 minute read)</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
-      <ra:publishedAt>2026-08-14T00:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>TLDR AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>OCR 4.1 (Website)</title>
-      <link>https://docs.mistral.ai/models/ocr-4-1</link>
-      <guid isPermaLink="false">22e2751fb747b6e7c40882d19862d1a8fd1116ccb217c6f805ea1d57da868ff2</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
-      <description>Topic: Artificial Intelligence
-Source: TLDR AI
-Published: 2026-08-14T00:00:00+00:00
-Headline: OCR 4.1 (Website)</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>11</ra:storyPosition>
-      <ra:publishedAt>2026-08-14T00:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>TLDR AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Agent Plugins are the future of Agent Skills (13 minute read)</title>
-      <link>https://x.com/GoogleCloudTech/status/2087733334617063503</link>
-      <guid isPermaLink="false">31c5900c0a92d0e8ed3f4c0d88c4574425fec2902971b3313b7167b11ce705f6</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
-      <description>Topic: Artificial Intelligence
-Source: TLDR AI
-Published: 2026-08-14T00:00:00+00:00
-Headline: Agent Plugins are the future of Agent Skills (13 minute read)</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>12</ra:storyPosition>
-      <ra:publishedAt>2026-08-14T00:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>TLDR AI</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
@@ -1192,7 +1154,7 @@ Headline: SpaceXAI’s Grok 4.6 storms the frontier</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>13</ra:storyPosition>
+      <ra:storyPosition>10</ra:storyPosition>
       <ra:publishedAt>2026-08-13T10:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1211,7 +1173,7 @@ Headline: Anthropic adds AI watermarks to Claude outputs</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>14</ra:storyPosition>
+      <ra:storyPosition>11</ra:storyPosition>
       <ra:publishedAt>2026-08-12T10:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1230,19 +1192,76 @@ Headline: Grok Bot is the latest AI agent teammate build</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>15</ra:storyPosition>
+      <ra:storyPosition>12</ra:storyPosition>
       <ra:publishedAt>2026-08-12T10:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">fc42e3648d0bb743e12326e0b7d0fb039db5cd7f6a9f9ee3b85bf2f262ad4b07</guid>
+      <title>Meta returns to open-source roots with Glimmer</title>
+      <link>https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</link>
+      <guid isPermaLink="false">32e5fe917e0c98c463826b79c749925ba370760796b5c001224abab92c555fb9</guid>
+      <pubDate>Tue, 11 Aug 2026 09:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://www.therundown.ai/">The Rundown AI</source>
+      <description>Topic: Artificial Intelligence
+Source: The Rundown AI
+Published: 2026-08-11T09:00:00+00:00
+Headline: Meta returns to open-source roots with Glimmer</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>13</ra:storyPosition>
+      <ra:publishedAt>2026-08-11T09:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>The Rundown AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>OpenAI expands ‘Daybreak’ for stronger cyber use</title>
+      <link>https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</link>
+      <guid isPermaLink="false">1415c563787d5ad25a8a02daf961233b7dc5266c1d21b73ef3b3ef6a09c01aae</guid>
+      <pubDate>Tue, 11 Aug 2026 09:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://www.therundown.ai/">The Rundown AI</source>
+      <description>Topic: Artificial Intelligence
+Source: The Rundown AI
+Published: 2026-08-11T09:00:00+00:00
+Headline: OpenAI expands ‘Daybreak’ for stronger cyber use</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>14</ra:storyPosition>
+      <ra:publishedAt>2026-08-11T09:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>The Rundown AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>AI agent hacks a gym to jump the waitlist</title>
+      <link>https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986</link>
+      <guid isPermaLink="false">4abf5db779225d4fef2c3bdf73406a293257bfa049616cf3fbaf6d305fec5c19</guid>
+      <pubDate>Tue, 11 Aug 2026 09:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://www.therundown.ai/">The Rundown AI</source>
+      <description>Topic: Artificial Intelligence
+Source: The Rundown AI
+Published: 2026-08-11T09:00:00+00:00
+Headline: AI agent hacks a gym to jump the waitlist</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>15</ra:storyPosition>
+      <ra:publishedAt>2026-08-11T09:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>The Rundown AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <guid isPermaLink="false">9d3f2667480961b1ff555f28f563a9f8dd5581354d4ecfccc4af433eb69faa07</guid>
       <title>Robotics (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-robotics</link>
-      <pubDate>Mon, 17 Aug 2026 13:10:39 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 13:51:03 +0000</pubDate>
       <category>Robotics</category>
       <description>Topic: Robotics
-Updated: 2026-08-17T13:10:39+00:00
+Updated: 2026-08-17T13:51:03+00:00
 Stories: 15</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
@@ -1250,12 +1269,32 @@ Stories: 15</description>
       <ra:kind>topic</ra:kind>
     </item>
     <item>
+      <title>Gravis Robotics raises $200M for autonomous construction</title>
+      <link>https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction</link>
+      <guid isPermaLink="false">0f46a268b680440cdbd8b6a450411451c416992cd089deaa6811cd5700ae829a</guid>
+      <pubDate>Mon, 17 Aug 2026 13:00:16 +0000</pubDate>
+      <category>Robotics</category>
+      <category>Bulletin</category>
+      <source url="https://www.therobotreport.com/">The Robot Report</source>
+      <description>Topic: Robotics
+Source: The Robot Report
+Published: 2026-08-17T13:00:16+00:00
+Headline: Gravis Robotics raises $200M for autonomous construction</description>
+      <ra:topicId>robotics</ra:topicId>
+      <ra:topicName>Robotics</ra:topicName>
+      <ra:topicPosition>6</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>7</ra:bulletinPosition>
+      <ra:publishedAt>2026-08-17T13:00:16+00:00</ra:publishedAt>
+      <ra:sourceName>The Robot Report</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
       <title>How robotics is revolutionizing stroke rehabilitation</title>
       <link>https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation</link>
       <guid isPermaLink="false">654c56e5bd030f00a3ad5a14e117dc4eeedb0d9e1a8dcafd1cd57a540f0d3e2f</guid>
       <pubDate>Sun, 16 Aug 2026 12:30:18 +0000</pubDate>
       <category>Robotics</category>
-      <category>Bulletin</category>
       <source url="https://www.therobotreport.com/">The Robot Report</source>
       <description>Topic: Robotics
 Source: The Robot Report
@@ -1264,8 +1303,7 @@ Headline: How robotics is revolutionizing stroke rehabilitation</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
       <ra:topicPosition>6</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>7</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
       <ra:publishedAt>2026-08-16T12:30:18+00:00</ra:publishedAt>
       <ra:sourceName>The Robot Report</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1284,7 +1322,7 @@ Headline: Why robots that can’t communicate naturally won’t be adopted</desc
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
       <ra:topicPosition>6</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
+      <ra:storyPosition>3</ra:storyPosition>
       <ra:publishedAt>2026-08-15T12:20:18+00:00</ra:publishedAt>
       <ra:sourceName>The Robot Report</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1303,7 +1341,7 @@ Headline: How Protolabs turns CAD files into parts in under 24 hours</descriptio
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
       <ra:topicPosition>6</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-08-14T22:14:19+00:00</ra:publishedAt>
       <ra:sourceName>The Robot Report</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1322,7 +1360,7 @@ Headline: Neros Technologies raises $250M to deploy its defense drones by the en
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
       <ra:topicPosition>6</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-08-14T17:38:49+00:00</ra:publishedAt>
       <ra:sourceName>The Robot Report</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1341,7 +1379,7 @@ Headline: Video Friday: Lift Happens</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
       <ra:topicPosition>6</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
+      <ra:storyPosition>6</ra:storyPosition>
       <ra:publishedAt>2026-08-14T17:00:01+00:00</ra:publishedAt>
       <ra:sourceName>IEEE Spectrum Robotics</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1360,7 +1398,7 @@ Headline: Robots on Wall Street: Non-traditional paths to public markets for rob
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
       <ra:topicPosition>6</ra:topicPosition>
-      <ra:storyPosition>6</ra:storyPosition>
+      <ra:storyPosition>7</ra:storyPosition>
       <ra:publishedAt>2026-08-14T12:30:40+00:00</ra:publishedAt>
       <ra:sourceName>The Robot Report</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1379,7 +1417,7 @@ Headline: Mobile manipulators and humanoids: The future of robotics</description
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
       <ra:topicPosition>6</ra:topicPosition>
-      <ra:storyPosition>7</ra:storyPosition>
+      <ra:storyPosition>8</ra:storyPosition>
       <ra:publishedAt>2026-08-13T15:06:47+00:00</ra:publishedAt>
       <ra:sourceName>The Robot Report</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1398,7 +1436,7 @@ Headline: ARM Institute calls for defense manufacturing technology projects</des
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
       <ra:topicPosition>6</ra:topicPosition>
-      <ra:storyPosition>8</ra:storyPosition>
+      <ra:storyPosition>9</ra:storyPosition>
       <ra:publishedAt>2026-08-13T12:35:42+00:00</ra:publishedAt>
       <ra:sourceName>The Robot Report</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1417,7 +1455,7 @@ Headline: Experts to discuss the state of humanoid robots at RoboBusiness</descr
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
       <ra:topicPosition>6</ra:topicPosition>
-      <ra:storyPosition>9</ra:storyPosition>
+      <ra:storyPosition>10</ra:storyPosition>
       <ra:publishedAt>2026-08-13T12:30:25+00:00</ra:publishedAt>
       <ra:sourceName>The Robot Report</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1436,7 +1474,7 @@ Headline: BioflexBot robot hand aims to replicate key human hand motions</descri
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
       <ra:topicPosition>6</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
+      <ra:storyPosition>11</ra:storyPosition>
       <ra:publishedAt>2026-08-13T12:15:02+00:00</ra:publishedAt>
       <ra:sourceName>The Robot Report</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1455,7 +1493,7 @@ Headline: Northrop’s robot space mechanic is a new way to keep satellites at w
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
       <ra:topicPosition>6</ra:topicPosition>
-      <ra:storyPosition>11</ra:storyPosition>
+      <ra:storyPosition>12</ra:storyPosition>
       <ra:publishedAt>2026-08-12T20:53:41+00:00</ra:publishedAt>
       <ra:sourceName>TechCrunch Robotics</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1474,27 +1512,8 @@ Headline: SEW-EURODRIVE adds economy series to its planetary servo gear unit por
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
       <ra:topicPosition>6</ra:topicPosition>
-      <ra:storyPosition>12</ra:storyPosition>
-      <ra:publishedAt>2026-08-12T16:40:31+00:00</ra:publishedAt>
-      <ra:sourceName>The Robot Report</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Q2 2026 robotics demand increased across industries, reports A3</title>
-      <link>https://www.therobotreport.com/q2-2026-robotics-demand-increased-across-industries-reports-a3</link>
-      <guid isPermaLink="false">4a23a6ff6a930732c5b9e850cb237124ee841c80a30ff7766cf44b27051b0fde</guid>
-      <pubDate>Wed, 12 Aug 2026 14:18:56 +0000</pubDate>
-      <category>Robotics</category>
-      <source url="https://www.therobotreport.com/">The Robot Report</source>
-      <description>Topic: Robotics
-Source: The Robot Report
-Published: 2026-08-12T14:18:56+00:00
-Headline: Q2 2026 robotics demand increased across industries, reports A3</description>
-      <ra:topicId>robotics</ra:topicId>
-      <ra:topicName>Robotics</ra:topicName>
-      <ra:topicPosition>6</ra:topicPosition>
       <ra:storyPosition>13</ra:storyPosition>
-      <ra:publishedAt>2026-08-12T14:18:56+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-08-12T16:40:31+00:00</ra:publishedAt>
       <ra:sourceName>The Robot Report</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
