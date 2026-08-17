@@ -5,21 +5,42 @@
     <link>https://rohaanahmed.com/news.html</link>
     <description>An automatically curated news feed built around my areas of interest</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 17 Aug 2026 10:52:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 11:00:25 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <guid isPermaLink="false">63dafdfc3e29b83a6db178ff6d3eb3185969ad5dba5ce4b32444b4a16c23ec0d</guid>
+      <guid isPermaLink="false">88e7ce531de4e20ea398d8e4fb5d5a020b16795cca901695fdfe6faf2ebdc2c4</guid>
       <title>International Space (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-space</link>
-      <pubDate>Mon, 17 Aug 2026 10:52:01 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 11:00:25 +0000</pubDate>
       <category>International Space</category>
       <description>Topic: International Space
-Updated: 2026-08-17T10:52:01+00:00
+Updated: 2026-08-17T11:00:25+00:00
 Stories: 15</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
       <ra:kind>topic</ra:kind>
+    </item>
+    <item>
+      <title>A rocket crashed into the moon. It was harmless, but the next one might not be.</title>
+      <link>https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be</link>
+      <guid isPermaLink="false">4782fde9a02b5bd0e78eda7c147c794a85e1bd86ae123225ed42fa476a96a938</guid>
+      <pubDate>Mon, 17 Aug 2026 11:00:00 +0000</pubDate>
+      <category>International Space</category>
+      <category>Bulletin</category>
+      <source url="https://spacenews.com/">SpaceNews</source>
+      <description>Topic: International Space
+Source: SpaceNews
+Published: 2026-08-17T11:00:00+00:00
+Headline: A rocket crashed into the moon. It was harmless, but the next one might not be.</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>4</ra:bulletinPosition>
+      <ra:publishedAt>2026-08-17T11:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceNews</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE</title>
@@ -36,8 +57,8 @@ Headline: Long March 12 launches despite recent 7A failure, Long March 2C launch
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>4</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:bulletinPosition>8</ra:bulletinPosition>
       <ra:publishedAt>2026-08-17T09:56:15+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -57,8 +78,8 @@ Headline: Lynk and Omnispace form Elveo Mobile to advance D2D services</descript
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
-      <ra:bulletinPosition>8</ra:bulletinPosition>
+      <ra:storyPosition>3</ra:storyPosition>
+      <ra:bulletinPosition>9</ra:bulletinPosition>
       <ra:publishedAt>2026-08-17T04:30:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -78,8 +99,8 @@ Headline: Satellite operators emphasize launch deals in a constrained market</de
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
-      <ra:bulletinPosition>9</ra:bulletinPosition>
+      <ra:storyPosition>4</ra:storyPosition>
+      <ra:bulletinPosition>10</ra:bulletinPosition>
       <ra:publishedAt>2026-08-16T23:05:35+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -90,7 +111,6 @@ Headline: Satellite operators emphasize launch deals in a constrained market</de
       <guid isPermaLink="false">0fe3a8a9990026ee143fa45c48cef77197450a182bbee4c0eef3a7d6f6d1ec50</guid>
       <pubDate>Mon, 17 Aug 2026 10:00:00 +0000</pubDate>
       <category>International Space</category>
-      <category>Bulletin</category>
       <source url="https://www.space.com/">Space.com</source>
       <description>Topic: International Space
 Source: Space.com
@@ -99,8 +119,7 @@ Headline: 'This is unprecedented': Why the Pentagon's recent UFO file releases a
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
-      <ra:bulletinPosition>10</ra:bulletinPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-08-17T10:00:00+00:00</ra:publishedAt>
       <ra:sourceName>Space.com</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -119,7 +138,7 @@ Headline: Blue Origin adding second pad to Cape Canaveral launch complex amid ro
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
+      <ra:storyPosition>6</ra:storyPosition>
       <ra:publishedAt>2026-08-17T10:00:00+00:00</ra:publishedAt>
       <ra:sourceName>Space.com</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -138,7 +157,7 @@ Headline: Watch Sophie Adenot’s spacewalk live</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>6</ra:storyPosition>
+      <ra:storyPosition>7</ra:storyPosition>
       <ra:publishedAt>2026-08-17T06:00:00+00:00</ra:publishedAt>
       <ra:sourceName>European Space Agency</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -157,7 +176,7 @@ Headline: APOD: 2026 August 17 – A Golden Corona Eclipse</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>7</ra:storyPosition>
+      <ra:storyPosition>8</ra:storyPosition>
       <ra:publishedAt>2026-08-17T04:05:00+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -176,7 +195,7 @@ Headline: U.S. defense agencies tap three companies for satellite disposal study
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>8</ra:storyPosition>
+      <ra:storyPosition>9</ra:storyPosition>
       <ra:publishedAt>2026-08-16T10:50:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -195,7 +214,7 @@ Headline: How to watch 'Lanterns' — HBO's gritty new Green Lantern show</descr
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>9</ra:storyPosition>
+      <ra:storyPosition>10</ra:storyPosition>
       <ra:publishedAt>2026-08-16T23:02:58+00:00</ra:publishedAt>
       <ra:sourceName>Space.com</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -214,7 +233,7 @@ Headline: Lunar orbiter among upcoming NASA CLPS task orders</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
+      <ra:storyPosition>11</ra:storyPosition>
       <ra:publishedAt>2026-08-15T23:49:58+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -233,28 +252,9 @@ Headline: APOD: 2026 August 16 – Milky Way over Yellowstone</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>11</ra:storyPosition>
+      <ra:storyPosition>12</ra:storyPosition>
       <ra:publishedAt>2026-08-16T04:05:00+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>U.S. Space Force adds second surveillance sensor to Japanese constellation</title>
-      <link>https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation</link>
-      <guid isPermaLink="false">1dd947679cd676c615a3510794fd883456cde8c1ad31cadb0785c223bb93c7d4</guid>
-      <pubDate>Fri, 14 Aug 2026 22:26:27 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://spacenews.com/">SpaceNews</source>
-      <description>Topic: International Space
-Source: SpaceNews
-Published: 2026-08-14T22:26:27+00:00
-Headline: U.S. Space Force adds second surveillance sensor to Japanese constellation</description>
-      <ra:topicId>international-space</ra:topicId>
-      <ra:topicName>International Space</ra:topicName>
-      <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>12</ra:storyPosition>
-      <ra:publishedAt>2026-08-14T22:26:27+00:00</ra:publishedAt>
-      <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
@@ -315,13 +315,13 @@ Headline: A look back at the 2026 total solar eclipse</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">d2e3937ac3ef3eb2635dc7a022e6dce4e556b20295421931397b747d9590098c</guid>
+      <guid isPermaLink="false">1c3a5acb973a55330fa72146f0e25cdc4216d402066b5098cc76f57ddaf64048</guid>
       <title>Canadian Space (11 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
-      <pubDate>Mon, 17 Aug 2026 10:52:01 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 11:00:25 +0000</pubDate>
       <category>Canadian Space</category>
       <description>Topic: Canadian Space
-Updated: 2026-08-17T10:52:01+00:00
+Updated: 2026-08-17T11:00:25+00:00
 Stories: 11</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
@@ -540,13 +540,13 @@ Headline: GHGSat satellites C-16 and C-17 achieve first light with methane detec
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">c7e2d14368d1323a15005d4e886d124d4458b6b9d5f340f78e94b17929930f2e</guid>
+      <guid isPermaLink="false">02d16582204392399889b244e22d2c562f298062eafb539c3fb8dd27fcc0d067</guid>
       <title>Canadian Defence (4 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
-      <pubDate>Mon, 17 Aug 2026 10:52:01 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 11:00:25 +0000</pubDate>
       <category>Canadian Defence</category>
       <description>Topic: Canadian Defence
-Updated: 2026-08-17T10:52:01+00:00
+Updated: 2026-08-17T11:00:25+00:00
 Stories: 4</description>
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
@@ -632,13 +632,13 @@ Headline: Minister McGuinty concludes Alberta visit focused on innovation and st
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">4e3031416796b0902df1c67a82fb1f0871a83cf709aad0854647b5984f858dbc</guid>
+      <guid isPermaLink="false">c0f3450fda0211f1f09ff387821b3e941cadd898ae0f0602c6093298b46e3d61</guid>
       <title>International Defence Technology (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
-      <pubDate>Mon, 17 Aug 2026 10:52:01 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 11:00:25 +0000</pubDate>
       <category>International Defence Technology</category>
       <description>Topic: International Defence Technology
-Updated: 2026-08-17T10:52:01+00:00
+Updated: 2026-08-17T11:00:25+00:00
 Stories: 15</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
@@ -933,13 +933,13 @@ Headline: Flight-tracking data shows continued Russian air bridge to sub-Saharan
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">96e7f3bf05140dda5e4cef95cb18ab4027d85d76e60d46fe83deb11868054920</guid>
+      <guid isPermaLink="false">e680f894339b280bd57a9e6993d7712b3230d30099bfbc8037f3b6ed9d4d114c</guid>
       <title>Artificial Intelligence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
-      <pubDate>Mon, 17 Aug 2026 10:52:01 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 11:00:25 +0000</pubDate>
       <category>Artificial Intelligence</category>
       <description>Topic: Artificial Intelligence
-Updated: 2026-08-17T10:52:01+00:00
+Updated: 2026-08-17T11:00:25+00:00
 Stories: 15</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
@@ -1236,13 +1236,13 @@ Headline: AI agent hacks a gym to jump the waitlist</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">ff89ff6481f52d91a82a7a55c4f100d45456dc68166d14f89c6fa116bf780e6b</guid>
+      <guid isPermaLink="false">45177f51cbaa2cd4b154e17214b8e9b239b914b210736439d740a84dec5ad929</guid>
       <title>Robotics (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-robotics</link>
-      <pubDate>Mon, 17 Aug 2026 10:52:01 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 11:00:25 +0000</pubDate>
       <category>Robotics</category>
       <description>Topic: Robotics
-Updated: 2026-08-17T10:52:01+00:00
+Updated: 2026-08-17T11:00:25+00:00
 Stories: 15</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>

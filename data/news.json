@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-17T10:52:01+00:00",
+  "generatedAt": "2026-08-17T11:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-17T10:52:01+00:00",
+      "updatedAt": "2026-08-17T11:00:25+00:00",
       "stories": [
+        {
+          "title": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
+          "url": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be",
+          "publishedAt": "2026-08-17T11:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE",
           "url": "https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae",
@@ -73,12 +79,6 @@
           "source": "NASA"
         },
         {
-          "title": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
-          "url": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation",
-          "publishedAt": "2026-08-14T22:26:27+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
           "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden",
           "publishedAt": "2026-08-15T04:05:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-17T10:52:01+00:00",
+      "updatedAt": "2026-08-17T11:00:25+00:00",
       "stories": [
         {
           "title": "Launch Canada Challenge returns to Timmins for fifth year of student rocketry",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-17T10:52:01+00:00",
+      "updatedAt": "2026-08-17T11:00:25+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces launch Operation NANOOK‑TUUGAALIK in Canada’s Arctic",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-17T10:52:01+00:00",
+      "updatedAt": "2026-08-17T11:00:25+00:00",
       "stories": [
         {
           "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-17T10:52:01+00:00",
+      "updatedAt": "2026-08-17T11:00:25+00:00",
       "stories": [
         {
           "title": "Doctor solves 22-year math problem with ChatGPT",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-17T10:52:01+00:00",
+      "updatedAt": "2026-08-17T11:00:25+00:00",
       "stories": [
         {
           "title": "How robotics is revolutionizing stroke rehabilitation",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-17T10:52:01+00:00",
+    "updatedAt": "2026-08-17T11:00:25+00:00",
     "stories": [
       {
         "title": "Doctor solves 22-year math problem with ChatGPT",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE",
-        "url": "https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae",
-        "publishedAt": "2026-08-17T09:56:15+00:00",
+        "title": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
+        "url": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be",
+        "publishedAt": "2026-08-17T11:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -561,6 +561,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE",
+        "url": "https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae",
+        "publishedAt": "2026-08-17T09:56:15+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Lynk and Omnispace form Elveo Mobile to advance D2D services",
         "url": "https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services",
         "publishedAt": "2026-08-17T04:30:00+00:00",
@@ -574,15 +583,6 @@
         "url": "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market",
         "publishedAt": "2026-08-16T23:05:35+00:00",
         "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "'This is unprecedented': Why the Pentagon's recent UFO file releases are so important",
-        "url": "https://www.space.com/space-exploration/search-for-life/this-is-unprecedented-why-the-pentagons-recent-ufo-file-releases-are-so-important",
-        "publishedAt": "2026-08-17T10:00:00+00:00",
-        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
