@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-17T11:00:25+00:00",
+  "generatedAt": "2026-08-17T11:11:42+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-17T11:00:25+00:00",
+      "updatedAt": "2026-08-17T11:11:42+00:00",
       "stories": [
         {
           "title": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-17T11:00:25+00:00",
+      "updatedAt": "2026-08-17T11:11:42+00:00",
       "stories": [
+        {
+          "title": "Maritime Launch Services Q2 2026 results: spaceport turns a profit",
+          "url": "https://spaceq.ca/maritime-launch-services-q2-2026-results-spaceport-turns-a-profit",
+          "publishedAt": "2026-08-17T11:02:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Launch Canada Challenge returns to Timmins for fifth year of student rocketry",
           "url": "https://spaceq.ca/launch-canada-challenge-returns-to-timmins-for-fifth-year-of-student-rocketry",
@@ -162,19 +168,13 @@
           "url": "https://spaceq.ca/drdc-tasks-earthdaily-with-geospatial-platform-for-rcmp-border-monitoring",
           "publishedAt": "2026-08-12T11:02:00+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "GHGSat satellites C-16 and C-17 achieve first light with methane detections",
-          "url": "https://spaceq.ca/ghgsat-satellites-c-16-and-c-17-achieve-first-light-with-methane-detections",
-          "publishedAt": "2026-08-11T21:42:56+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-17T11:00:25+00:00",
+      "updatedAt": "2026-08-17T11:11:42+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces launch Operation NANOOK‑TUUGAALIK in Canada’s Arctic",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-17T11:00:25+00:00",
+      "updatedAt": "2026-08-17T11:11:42+00:00",
       "stories": [
         {
           "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-17T11:00:25+00:00",
+      "updatedAt": "2026-08-17T11:11:42+00:00",
       "stories": [
         {
           "title": "Doctor solves 22-year math problem with ChatGPT",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-17T11:00:25+00:00",
+      "updatedAt": "2026-08-17T11:11:42+00:00",
       "stories": [
         {
           "title": "How robotics is revolutionizing stroke rehabilitation",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-17T11:00:25+00:00",
+    "updatedAt": "2026-08-17T11:11:42+00:00",
     "stories": [
       {
         "title": "Doctor solves 22-year math problem with ChatGPT",
@@ -516,9 +516,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Launch Canada Challenge returns to Timmins for fifth year of student rocketry",
-        "url": "https://spaceq.ca/launch-canada-challenge-returns-to-timmins-for-fifth-year-of-student-rocketry",
-        "publishedAt": "2026-08-14T20:20:38+00:00",
+        "title": "Maritime Launch Services Q2 2026 results: spaceport turns a profit",
+        "url": "https://spaceq.ca/maritime-launch-services-q2-2026-results-spaceport-turns-a-profit",
+        "publishedAt": "2026-08-17T11:02:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -701,6 +701,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-03"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-04"
   ]
 }
