@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-17T11:44:54+00:00",
+  "generatedAt": "2026-08-17T12:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-17T11:44:54+00:00",
+      "updatedAt": "2026-08-17T12:00:30+00:00",
       "stories": [
+        {
+          "title": "SEOPS adds second Waymaker rideshare mission",
+          "url": "https://spacenews.com/seops-adds-second-waymaker-rideshare-mission",
+          "publishedAt": "2026-08-17T12:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
           "url": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be",
@@ -67,12 +73,6 @@
           "source": "Space.com"
         },
         {
-          "title": "Lunar orbiter among upcoming NASA CLPS task orders",
-          "url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders",
-          "publishedAt": "2026-08-15T23:49:58+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "APOD: 2026 August 16 – Milky Way over Yellowstone",
           "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone",
           "publishedAt": "2026-08-16T04:05:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-17T11:44:54+00:00",
+      "updatedAt": "2026-08-17T12:00:30+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services Q2 2026 results: spaceport turns a profit",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-17T11:44:54+00:00",
+      "updatedAt": "2026-08-17T12:00:30+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces launch Operation NANOOK‑TUUGAALIK in Canada’s Arctic",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-17T11:44:54+00:00",
+      "updatedAt": "2026-08-17T12:00:30+00:00",
       "stories": [
         {
           "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-17T11:44:54+00:00",
+      "updatedAt": "2026-08-17T12:00:30+00:00",
       "stories": [
         {
           "title": "Doctor solves 22-year math problem with ChatGPT",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-17T11:44:54+00:00",
+      "updatedAt": "2026-08-17T12:00:30+00:00",
       "stories": [
         {
           "title": "How robotics is revolutionizing stroke rehabilitation",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-17T11:44:54+00:00",
+    "updatedAt": "2026-08-17T12:00:30+00:00",
     "stories": [
       {
         "title": "Doctor solves 22-year math problem with ChatGPT",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
-        "url": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be",
-        "publishedAt": "2026-08-17T11:00:00+00:00",
+        "title": "SEOPS adds second Waymaker rideshare mission",
+        "url": "https://spacenews.com/seops-adds-second-waymaker-rideshare-mission",
+        "publishedAt": "2026-08-17T12:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -561,6 +561,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
+        "url": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be",
+        "publishedAt": "2026-08-17T11:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE",
         "url": "https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae",
         "publishedAt": "2026-08-17T09:56:15+00:00",
@@ -573,15 +582,6 @@
         "title": "Lynk and Omnispace form Elveo Mobile to advance D2D services",
         "url": "https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services",
         "publishedAt": "2026-08-17T04:30:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Satellite operators emphasize launch deals in a constrained market",
-        "url": "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market",
-        "publishedAt": "2026-08-16T23:05:35+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
