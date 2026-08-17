@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-17T22:00:26+00:00",
+  "generatedAt": "2026-08-17T22:08:17+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-17T22:00:26+00:00",
+      "updatedAt": "2026-08-17T22:08:17+00:00",
       "stories": [
+        {
+          "title": "HEO to use Planet satellites for non-Earth imaging",
+          "url": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging",
+          "publishedAt": "2026-08-17T22:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "New EU sanctions target leaders of Russia’s space industry",
           "url": "https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry",
@@ -34,12 +40,6 @@
           "title": "SEOPS adds second Waymaker rideshare mission",
           "url": "https://spacenews.com/seops-adds-second-waymaker-rideshare-mission",
           "publishedAt": "2026-08-17T12:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
-          "url": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be",
-          "publishedAt": "2026-08-17T11:00:00+00:00",
           "source": "SpaceNews"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-17T22:00:26+00:00",
+      "updatedAt": "2026-08-17T22:08:17+00:00",
       "stories": [
         {
           "title": "First MDA Space Globalstar satellites reach orbit, nine to go",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-17T22:00:26+00:00",
+      "updatedAt": "2026-08-17T22:08:17+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-17T22:00:26+00:00",
+      "updatedAt": "2026-08-17T22:08:17+00:00",
       "stories": [
         {
           "title": "Japan launches second US military payload to monitor space above Indo-Pacific",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-17T22:00:26+00:00",
+      "updatedAt": "2026-08-17T22:08:17+00:00",
       "stories": [
         {
           "title": "Doctor solves 22-year math problem with ChatGPT",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-17T22:00:26+00:00",
+      "updatedAt": "2026-08-17T22:08:17+00:00",
       "stories": [
         {
           "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-17T22:00:26+00:00",
+    "updatedAt": "2026-08-17T22:08:17+00:00",
     "stories": [
       {
         "title": "Doctor solves 22-year math problem with ChatGPT",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "New EU sanctions target leaders of Russia’s space industry",
-        "url": "https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry",
-        "publishedAt": "2026-08-17T21:05:13+00:00",
+        "title": "HEO to use Planet satellites for non-Earth imaging",
+        "url": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging",
+        "publishedAt": "2026-08-17T22:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "New EU sanctions target leaders of Russia’s space industry",
+        "url": "https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry",
+        "publishedAt": "2026-08-17T21:05:13+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "ULA names Peller as new CEO",
         "url": "https://spacenews.com/ula-names-peller-as-new-ceo",
         "publishedAt": "2026-08-17T16:43:51+00:00",
@@ -579,15 +588,6 @@
         "title": "L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down",
         "url": "https://spacenews.com/l3harris-names-space-sector-leader-sam-mehta-ceo-after-kubasik-steps-down",
         "publishedAt": "2026-08-17T12:32:06+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss",
-        "url": "https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss",
-        "publishedAt": "2026-08-17T12:23:27+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -707,6 +707,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-29"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-06"
   ]
 }
