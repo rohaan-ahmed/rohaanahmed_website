@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-18T12:00:30+00:00",
+  "generatedAt": "2026-08-18T13:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-18T12:00:30+00:00",
+      "updatedAt": "2026-08-18T13:00:26+00:00",
       "stories": [
+        {
+          "title": "Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027",
+          "url": "https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027",
+          "publishedAt": "2026-08-18T12:00:00+00:00",
+          "source": "SpaceNews"
+        },
+        {
+          "title": "New report takes closer look at the Space Force spending surge",
+          "url": "https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge",
+          "publishedAt": "2026-08-18T12:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "NRO to expand use of HawkEye 360’s satellite intelligence",
           "url": "https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence",
@@ -55,18 +67,6 @@
           "source": "Space.com"
         },
         {
-          "title": "L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down",
-          "url": "https://spacenews.com/l3harris-names-space-sector-leader-sam-mehta-ceo-after-kubasik-steps-down",
-          "publishedAt": "2026-08-17T12:32:06+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss",
-          "url": "https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss",
-          "publishedAt": "2026-08-17T12:23:27+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
           "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary",
           "publishedAt": "2026-08-17T23:10:41+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-18T12:00:30+00:00",
+      "updatedAt": "2026-08-18T13:00:26+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-18T12:00:30+00:00",
+      "updatedAt": "2026-08-18T13:00:26+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-18T12:00:30+00:00",
+      "updatedAt": "2026-08-18T13:00:26+00:00",
       "stories": [
         {
           "title": "Saildrone expands European footprint with production plans in 3 countries",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-18T12:00:30+00:00",
+      "updatedAt": "2026-08-18T13:00:26+00:00",
       "stories": [
         {
           "title": "Cursor's Origin hits GitHub on its worst day",
@@ -293,22 +293,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud",
-          "publishedAt": "2026-08-17T16:15:12+00:00",
-          "source": "TechCrunch AI"
+          "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities (18 minute read)",
+          "url": "https://z.ai/blog/glm-5.3",
+          "publishedAt": "2026-08-17T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
-          "publishedAt": "2026-08-17T15:16:24+00:00",
-          "source": "TechCrunch AI"
+          "title": "Cursor is now a part of SpaceX (1 minute read)",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "publishedAt": "2026-08-17T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-          "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation",
-          "publishedAt": "2026-08-17T13:10:05+00:00",
-          "source": "TechCrunch AI"
+          "title": "Stripe Will Reportedly Acquire OpenRouter for Over $7B (2 minute read)",
+          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
+          "publishedAt": "2026-08-17T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center (3 minute read)",
+          "url": "https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center-b56c38d3?st=dykJ8J&reflink=desktopwebshare_permalink",
+          "publishedAt": "2026-08-17T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "GLM-5.3: How Chinese labs keep stride with the frontier (11 minute read)",
+          "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+          "publishedAt": "2026-08-17T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The State of Open Models in 2026 (24 minute read)",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "publishedAt": "2026-08-17T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI previews frontier speed boost",
@@ -321,31 +339,13 @@
           "url": "https://www.anthropic.com/research/multiagent-systems",
           "publishedAt": "2026-08-14T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "SpaceXAI’s Grok 4.6 storms the frontier",
-          "url": "https://x.ai/news/grok-4-6",
-          "publishedAt": "2026-08-13T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic adds AI watermarks to Claude outputs",
-          "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-          "publishedAt": "2026-08-12T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Grok Bot is the latest AI agent teammate build",
-          "url": "https://x.ai/news/introducing-grok-bot",
-          "publishedAt": "2026-08-12T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-18T12:00:30+00:00",
+      "updatedAt": "2026-08-18T13:00:26+00:00",
       "stories": [
         {
           "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-18T12:00:30+00:00",
+    "updatedAt": "2026-08-18T13:00:26+00:00",
     "stories": [
       {
         "title": "Cursor's Origin hits GitHub on its worst day",
@@ -471,9 +471,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NRO to expand use of HawkEye 360’s satellite intelligence",
-        "url": "https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence",
-        "publishedAt": "2026-08-18T09:00:00+00:00",
+        "title": "Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027",
+        "url": "https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027",
+        "publishedAt": "2026-08-18T12:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -507,30 +507,30 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "New report takes closer look at the Space Force spending surge",
+        "url": "https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge",
+        "publishedAt": "2026-08-18T12:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "NRO to expand use of HawkEye 360’s satellite intelligence",
+        "url": "https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence",
+        "publishedAt": "2026-08-18T09:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "OpenAI, Nvidia’s new 8 GW AI power push",
         "url": "https://openai.com/index/openai-joins-ports-pike-project",
         "publishedAt": "2026-08-18T09:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Wildfires, drought and extreme heat, 2026",
-        "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026",
-        "publishedAt": "2026-08-18T13:00:00+00:00",
-        "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Hera's Mars flyby guided impact study of Deimos moon",
-        "url": "https://www.esa.int/Space_Safety/Hera/Hera_s_Mars_flyby_guided_impact_study_of_Deimos_moon",
-        "publishedAt": "2026-08-18T09:16:00+00:00",
-        "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -646,7 +646,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-03"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
