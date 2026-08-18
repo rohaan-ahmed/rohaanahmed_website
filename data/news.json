@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T07:09:41+00:00",
+  "generatedAt": "2026-08-18T07:50:15+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-18T07:09:41+00:00",
+      "updatedAt": "2026-08-18T07:50:15+00:00",
       "stories": [
         {
           "title": "HEO to use Planet satellites for non-Earth imaging",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-18T07:09:41+00:00",
+      "updatedAt": "2026-08-18T07:50:15+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-18T07:09:41+00:00",
+      "updatedAt": "2026-08-18T07:50:15+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-18T07:09:41+00:00",
+      "updatedAt": "2026-08-18T07:50:15+00:00",
       "stories": [
         {
           "title": "Japan launches second US military payload to monitor space above Indo-Pacific",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-18T07:09:41+00:00",
+      "updatedAt": "2026-08-18T07:50:15+00:00",
       "stories": [
         {
           "title": "Anthropic’s annualized revenue surges to $65B",
@@ -275,40 +275,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities (18 minute read)",
-          "url": "https://z.ai/blog/glm-5.3",
-          "publishedAt": "2026-08-17T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud",
+          "publishedAt": "2026-08-17T16:15:12+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Cursor is now a part of SpaceX (1 minute read)",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "publishedAt": "2026-08-17T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+          "publishedAt": "2026-08-17T15:16:24+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Stripe Will Reportedly Acquire OpenRouter for Over $7B (2 minute read)",
-          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b",
-          "publishedAt": "2026-08-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center (3 minute read)",
-          "url": "https://www.wsj.com/tech/nvidia-downsizes-plans-for-250-billion-guarantee-of-openai-data-center-b56c38d3?st=dykJ8J&reflink=desktopwebshare_permalink",
-          "publishedAt": "2026-08-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "GLM-5.3: How Chinese labs keep stride with the frontier (11 minute read)",
-          "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
-          "publishedAt": "2026-08-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The State of Open Models in 2026 (24 minute read)",
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "publishedAt": "2026-08-17T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+          "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation",
+          "publishedAt": "2026-08-17T13:10:05+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI previews frontier speed boost",
@@ -339,13 +321,31 @@
           "url": "https://x.ai/news/introducing-grok-bot",
           "publishedAt": "2026-08-12T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Meta returns to open-source roots with Glimmer",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+          "publishedAt": "2026-08-11T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI expands ‘Daybreak’ for stronger cyber use",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "publishedAt": "2026-08-11T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "AI agent hacks a gym to jump the waitlist",
+          "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+          "publishedAt": "2026-08-11T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-18T07:09:41+00:00",
+      "updatedAt": "2026-08-18T07:50:15+00:00",
       "stories": [
         {
           "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-18T07:09:41+00:00",
+    "updatedAt": "2026-08-18T07:50:15+00:00",
     "stories": [
       {
         "title": "Anthropic’s annualized revenue surges to $65B",
@@ -646,6 +646,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-06"
   ]
 }
