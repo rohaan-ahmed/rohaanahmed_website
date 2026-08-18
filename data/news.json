@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T04:00:32+00:00",
+  "generatedAt": "2026-08-18T04:17:56+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-18T04:00:32+00:00",
+      "updatedAt": "2026-08-18T04:17:56+00:00",
       "stories": [
         {
           "title": "HEO to use Planet satellites for non-Earth imaging",
@@ -23,6 +23,12 @@
           "url": "https://spacenews.com/ula-names-peller-as-new-ceo",
           "publishedAt": "2026-08-17T16:43:51+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Watch European astronaut make history during spacewalk today",
+          "url": "https://www.space.com/space-exploration/international-space-station/watch-european-astronaut-make-history-during-spacewalk-today",
+          "publishedAt": "2026-08-18T04:05:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down",
@@ -61,12 +67,6 @@
           "source": "Space.com"
         },
         {
-          "title": "The best Ruko drone to date is half-price at Amazon but you'll have to hurry",
-          "url": "https://www.space.com/technology/drones/the-best-ruko-drone-to-date-is-half-price-at-amazon-but-youll-have-to-hurry",
-          "publishedAt": "2026-08-17T19:56:04+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "NASA Selects Companies to Provide Payload Processing Services",
           "url": "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services",
           "publishedAt": "2026-08-17T20:17:20+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-18T04:00:32+00:00",
+      "updatedAt": "2026-08-18T04:17:56+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-18T04:00:32+00:00",
+      "updatedAt": "2026-08-18T04:17:56+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-18T04:00:32+00:00",
+      "updatedAt": "2026-08-18T04:17:56+00:00",
       "stories": [
         {
           "title": "Japan launches second US military payload to monitor space above Indo-Pacific",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-18T04:00:32+00:00",
+      "updatedAt": "2026-08-18T04:17:56+00:00",
       "stories": [
         {
           "title": "Anthropic’s annualized revenue surges to $65B",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-18T04:00:32+00:00",
+      "updatedAt": "2026-08-18T04:17:56+00:00",
       "stories": [
         {
           "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-18T04:00:32+00:00",
+    "updatedAt": "2026-08-18T04:17:56+00:00",
     "stories": [
       {
         "title": "Anthropic’s annualized revenue surges to $65B",
@@ -525,10 +525,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down",
-        "url": "https://spacenews.com/l3harris-names-space-sector-leader-sam-mehta-ceo-after-kubasik-steps-down",
-        "publishedAt": "2026-08-17T12:32:06+00:00",
-        "source": "SpaceNews",
+        "title": "Watch European astronaut make history during spacewalk today",
+        "url": "https://www.space.com/space-exploration/international-space-station/watch-european-astronaut-make-history-during-spacewalk-today",
+        "publishedAt": "2026-08-18T04:05:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
