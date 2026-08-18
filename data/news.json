@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T11:37:35+00:00",
+  "generatedAt": "2026-08-18T11:56:39+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-18T11:37:35+00:00",
+      "updatedAt": "2026-08-18T11:56:39+00:00",
       "stories": [
         {
           "title": "NRO to expand use of HawkEye 360’s satellite intelligence",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-18T11:37:35+00:00",
+      "updatedAt": "2026-08-18T11:56:39+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-18T11:37:35+00:00",
+      "updatedAt": "2026-08-18T11:56:39+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,8 +151,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-18T11:37:35+00:00",
+      "updatedAt": "2026-08-18T11:56:39+00:00",
       "stories": [
+        {
+          "title": "Saildrone expands European footprint with production plans in 3 countries",
+          "url": "https://breakingdefense.com/2026/08/saildrone-expands-european-footprint-with-production-plans-in-3-countries",
+          "publishedAt": "2026-08-18T11:52:19+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Japan launches second US military payload to monitor space above Indo-Pacific",
           "url": "https://breakingdefense.com/2026/08/japan-launches-second-us-military-payload-to-monitor-space-above-indo-pacific",
@@ -208,12 +214,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "Trump scales back military exercise with S Korea, calling it ‘costly’ and ‘hostile’ to the North",
-          "url": "https://breakingdefense.com/2026/08/trump-scales-back-military-exercise-with-s-korea-calling-it-costly-and-hostile-to-the-north",
-          "publishedAt": "2026-08-17T16:14:35+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Trump orders Pentagon to cut back military exercises with South Korea",
           "url": "https://www.defensenews.com/news/your-military/2026/08/17/trump-orders-pentagon-to-cut-back-military-exercises-with-south-korea",
           "publishedAt": "2026-08-17T15:14:07+00:00",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-18T11:37:35+00:00",
+      "updatedAt": "2026-08-18T11:56:39+00:00",
       "stories": [
         {
           "title": "Cursor's Origin hits GitHub on its worst day",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-18T11:37:35+00:00",
+      "updatedAt": "2026-08-18T11:56:39+00:00",
       "stories": [
         {
           "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-18T11:37:35+00:00",
+    "updatedAt": "2026-08-18T11:56:39+00:00",
     "stories": [
       {
         "title": "Cursor's Origin hits GitHub on its worst day",
@@ -489,9 +489,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Japan launches second US military payload to monitor space above Indo-Pacific",
-        "url": "https://breakingdefense.com/2026/08/japan-launches-second-us-military-payload-to-monitor-space-above-indo-pacific",
-        "publishedAt": "2026-08-17T18:57:04+00:00",
+        "title": "Saildrone expands European footprint with production plans in 3 countries",
+        "url": "https://breakingdefense.com/2026/08/saildrone-expands-european-footprint-with-production-plans-in-3-countries",
+        "publishedAt": "2026-08-18T11:52:19+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
