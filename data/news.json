@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-08-18T09:00:30+00:00",
+  "generatedAt": "2026-08-18T09:44:05+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-18T09:00:30+00:00",
+      "updatedAt": "2026-08-18T09:44:05+00:00",
       "stories": [
+        {
+          "title": "NRO to expand use of HawkEye 360’s satellite intelligence",
+          "url": "https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence",
+          "publishedAt": "2026-08-18T09:00:00+00:00",
+          "source": "SpaceNews"
+        },
+        {
+          "title": "Wildfires, drought and extreme heat, 2026",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026",
+          "publishedAt": "2026-08-18T13:00:00+00:00",
+          "source": "European Space Agency"
+        },
+        {
+          "title": "Hera's Mars flyby guided impact study of Deimos moon",
+          "url": "https://www.esa.int/Space_Safety/Hera/Hera_s_Mars_flyby_guided_impact_study_of_Deimos_moon",
+          "publishedAt": "2026-08-18T09:16:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "HEO to use Planet satellites for non-Earth imaging",
           "url": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging",
@@ -43,12 +61,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "SEOPS adds second Waymaker rideshare mission",
-          "url": "https://spacenews.com/seops-adds-second-waymaker-rideshare-mission",
-          "publishedAt": "2026-08-17T12:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Curiosity Blog, Sols 4975-4981: Happy 14th Landing Anniversary",
           "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary",
           "publishedAt": "2026-08-17T23:10:41+00:00",
@@ -83,25 +95,13 @@
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast",
           "publishedAt": "2026-08-17T14:00:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Watch Sophie Adenot’s spacewalk live",
-          "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_spacewalk_live",
-          "publishedAt": "2026-08-17T06:00:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
-          "title": "Week in images: 10-14 August 2026",
-          "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_August_2026",
-          "publishedAt": "2026-08-14T13:10:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-18T09:00:30+00:00",
+      "updatedAt": "2026-08-18T09:44:05+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-18T09:00:30+00:00",
+      "updatedAt": "2026-08-18T09:44:05+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-18T09:00:30+00:00",
+      "updatedAt": "2026-08-18T09:44:05+00:00",
       "stories": [
         {
           "title": "Japan launches second US military payload to monitor space above Indo-Pacific",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-18T09:00:30+00:00",
+      "updatedAt": "2026-08-18T09:44:05+00:00",
       "stories": [
         {
           "title": "Cursor's Origin hits GitHub on its worst day",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-18T09:00:30+00:00",
+      "updatedAt": "2026-08-18T09:44:05+00:00",
       "stories": [
         {
           "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-18T09:00:30+00:00",
+    "updatedAt": "2026-08-18T09:44:05+00:00",
     "stories": [
       {
         "title": "Cursor's Origin hits GitHub on its worst day",
@@ -471,9 +471,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "HEO to use Planet satellites for non-Earth imaging",
-        "url": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging",
-        "publishedAt": "2026-08-17T22:00:00+00:00",
+        "title": "NRO to expand use of HawkEye 360’s satellite intelligence",
+        "url": "https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence",
+        "publishedAt": "2026-08-18T09:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -516,19 +516,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "New EU sanctions target leaders of Russia’s space industry",
-        "url": "https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry",
-        "publishedAt": "2026-08-17T21:05:13+00:00",
-        "source": "SpaceNews",
+        "title": "Wildfires, drought and extreme heat, 2026",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026",
+        "publishedAt": "2026-08-18T13:00:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "ULA names Peller as new CEO",
-        "url": "https://spacenews.com/ula-names-peller-as-new-ceo",
-        "publishedAt": "2026-08-17T16:43:51+00:00",
-        "source": "SpaceNews",
+        "title": "Hera's Mars flyby guided impact study of Deimos moon",
+        "url": "https://www.esa.int/Space_Safety/Hera/Hera_s_Mars_flyby_guided_impact_study_of_Deimos_moon",
+        "publishedAt": "2026-08-18T09:16:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
