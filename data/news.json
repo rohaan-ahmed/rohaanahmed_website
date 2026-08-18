@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T13:03:22+00:00",
+  "generatedAt": "2026-08-18T13:52:02+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-18T13:03:22+00:00",
+      "updatedAt": "2026-08-18T13:52:02+00:00",
       "stories": [
         {
           "title": "Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027",
@@ -29,6 +29,12 @@
           "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026",
           "publishedAt": "2026-08-18T13:00:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "It's harder to poop in space. Scientists may finally know why",
+          "url": "https://www.space.com/space-exploration/human-spaceflight/its-harder-to-poop-in-space-scientists-may-finally-know-why",
+          "publishedAt": "2026-08-18T13:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Hera's Mars flyby guided impact study of Deimos moon",
@@ -73,12 +79,6 @@
           "source": "NASA"
         },
         {
-          "title": "How an ancient collision with another galaxy transformed the Milky Way",
-          "url": "https://www.space.com/astronomy/galaxies/how-an-ancient-collision-with-another-galaxy-transformed-the-milky-way",
-          "publishedAt": "2026-08-17T21:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "NASA Selects Companies to Provide Payload Processing Services",
           "url": "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services",
           "publishedAt": "2026-08-17T20:17:20+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-18T13:03:22+00:00",
+      "updatedAt": "2026-08-18T13:52:02+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-18T13:03:22+00:00",
+      "updatedAt": "2026-08-18T13:52:02+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,8 +151,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-18T13:03:22+00:00",
+      "updatedAt": "2026-08-18T13:52:02+00:00",
       "stories": [
+        {
+          "title": "RIMPAC exercise tests 3D-printed parts for potential Pacific war",
+          "url": "https://breakingdefense.com/2026/08/rimpac-exercise-tests-3d-printed-parts-for-potential-pacific-war",
+          "publishedAt": "2026-08-18T13:30:00+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "US Army requests 133,000 GMLRS rockets by 2034",
+          "url": "https://www.defensenews.com/news/your-military/2026/08/18/us-army-requests-133000-gmlrs-rockets-by-2034",
+          "publishedAt": "2026-08-18T13:06:13+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Saildrone expands European footprint with production plans in 3 countries",
           "url": "https://breakingdefense.com/2026/08/saildrone-expands-european-footprint-with-production-plans-in-3-countries",
@@ -190,12 +202,6 @@
           "source": "Defense News"
         },
         {
-          "title": "What China’s PLA says it is learning from the Iran war",
-          "url": "https://breakingdefense.com/2026/08/what-chinas-pla-says-it-is-learning-from-the-iran-war",
-          "publishedAt": "2026-08-17T17:19:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Pentagon probes 30 U.S. academic institutions for potential ties to adversaries",
           "url": "https://defensescoop.com/2026/08/17/pentagon-probes-30-u-s-academic-institutions-for-potential-ties-to-adversaries",
           "publishedAt": "2026-08-17T20:53:47+00:00",
@@ -226,12 +232,6 @@
           "source": "Defense News"
         },
         {
-          "title": "US awards Raytheon $22.9 billion deal to boost Tomahawk output",
-          "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/17/us-awards-raytheon-229-billion-deal-to-boost-tomahawk-output",
-          "publishedAt": "2026-08-17T14:35:50+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Top Northcom general adds to drumbeat of warnings about weak drone defenses in the homeland",
           "url": "https://defensescoop.com/2026/08/14/northcom-general-warning-weak-drone-defense-homeland",
           "publishedAt": "2026-08-14T22:30:03+00:00",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-18T13:03:22+00:00",
+      "updatedAt": "2026-08-18T13:52:02+00:00",
       "stories": [
         {
           "title": "Cursor's Origin hits GitHub on its worst day",
@@ -269,6 +269,54 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+          "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it",
+          "publishedAt": "2026-08-18T13:50:30+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Perplexity’s free AI offer left it with millions more users in India",
+          "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india",
+          "publishedAt": "2026-08-18T13:45:40+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Anthropic's Revenue to Exceed $65 Billion (1 minute read)",
+          "url": "https://x.com/business/status/2089438395764240791",
+          "publishedAt": "2026-08-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Groq Raised $350 Million After Nvidia Deal (4 minute read)",
+          "url": "https://www.implicator.ai/groq-350-million-3-5-billion-valuation-after-nvidia-deal",
+          "publishedAt": "2026-08-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race (16 minute read)",
+          "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
+          "publishedAt": "2026-08-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Testing Fable vs Sol in terms of taste (they are both bad) (40 minute read)",
+          "url": "https://magichour.ai/blog/fable-vs-sol-taste-test",
+          "publishedAt": "2026-08-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "When Models Learn (4 minute read)",
+          "url": "https://tomtunguz.com/test-time-training-impact",
+          "publishedAt": "2026-08-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Qwen3.8 vs Qwen3.6 vs Gemma 4 on a 24GB GPU (10 minute read)",
+          "url": "https://kingy.ai/blog/qwen3-8-27b-vs-qwen3-6-27b-vs-gemma-4-31b",
+          "publishedAt": "2026-08-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Anthropic’s annualized revenue surges to $65B",
           "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b",
           "publishedAt": "2026-08-17T23:56:26+00:00",
@@ -281,36 +329,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-          "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team",
-          "publishedAt": "2026-08-17T21:27:05+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-          "publishedAt": "2026-08-17T16:38:44+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud",
-          "publishedAt": "2026-08-17T16:15:12+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
-          "publishedAt": "2026-08-17T15:16:24+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-          "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation",
-          "publishedAt": "2026-08-17T13:10:05+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "OpenAI previews frontier speed boost",
           "url": "https://openai.com/index/previewing-ultrafast",
           "publishedAt": "2026-08-14T10:00:00+00:00",
@@ -321,32 +339,26 @@
           "url": "https://www.anthropic.com/research/multiagent-systems",
           "publishedAt": "2026-08-14T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "SpaceXAI’s Grok 4.6 storms the frontier",
-          "url": "https://x.ai/news/grok-4-6",
-          "publishedAt": "2026-08-13T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic adds AI watermarks to Claude outputs",
-          "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-          "publishedAt": "2026-08-12T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Grok Bot is the latest AI agent teammate build",
-          "url": "https://x.ai/news/introducing-grok-bot",
-          "publishedAt": "2026-08-12T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-18T13:03:22+00:00",
+      "updatedAt": "2026-08-18T13:52:02+00:00",
       "stories": [
+        {
+          "title": "Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market",
+          "url": "https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market",
+          "publishedAt": "2026-08-18T12:49:41+00:00",
+          "source": "The Robot Report"
+        },
+        {
+          "title": "Drones With Claws Perch on Arctic Icebergs",
+          "url": "https://spectrum.ieee.org/arctic-iceberg-drones",
+          "publishedAt": "2026-08-18T13:00:01+00:00",
+          "source": "IEEE Spectrum Robotics"
+        },
         {
           "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
           "url": "https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0",
@@ -414,18 +426,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Mobile manipulators and humanoids: The future of robotics",
-          "url": "https://www.therobotreport.com/mobile-manipulators-and-humanoids",
-          "publishedAt": "2026-08-13T15:06:47+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "ARM Institute calls for defense manufacturing technology projects",
-          "url": "https://www.therobotreport.com/arm-institute-calls-for-defense-manufacturing-technology-project",
-          "publishedAt": "2026-08-13T12:35:42+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
           "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer",
           "publishedAt": "2026-08-12T20:53:41+00:00",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-18T13:03:22+00:00",
+    "updatedAt": "2026-08-18T13:52:02+00:00",
     "stories": [
       {
         "title": "Cursor's Origin hits GitHub on its worst day",
@@ -489,18 +489,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Saildrone expands European footprint with production plans in 3 countries",
-        "url": "https://breakingdefense.com/2026/08/saildrone-expands-european-footprint-with-production-plans-in-3-countries",
-        "publishedAt": "2026-08-18T11:52:19+00:00",
+        "title": "RIMPAC exercise tests 3D-printed parts for potential Pacific war",
+        "url": "https://breakingdefense.com/2026/08/rimpac-exercise-tests-3d-printed-parts-for-potential-pacific-war",
+        "publishedAt": "2026-08-18T13:30:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
-        "url": "https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0",
-        "publishedAt": "2026-08-17T21:15:46+00:00",
+        "title": "Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market",
+        "url": "https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market",
+        "publishedAt": "2026-08-18T12:49:41+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -646,7 +646,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-06"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
