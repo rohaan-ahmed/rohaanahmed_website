@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T20:00:29+00:00",
+  "generatedAt": "2026-08-19T20:12:12+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-19T20:00:29+00:00",
+      "updatedAt": "2026-08-19T20:12:12+00:00",
       "stories": [
         {
           "title": "Katalyst Space and NASA abandon plans for Swift reboost",
@@ -35,6 +35,12 @@
           "url": "https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission",
           "publishedAt": "2026-08-19T12:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Scientists create 'laundry gun' for astronauts to clean their clothes by shooting out plasma",
+          "url": "https://www.space.com/space-exploration/human-spaceflight/scientists-create-laundry-gun-for-astronauts-to-clean-their-clothes-by-shooting-out-plasma",
+          "publishedAt": "2026-08-19T20:05:26+00:00",
+          "source": "Space.com"
         },
         {
           "title": "NASA TechLeap Prize: Orbital Clarity Challenge",
@@ -73,12 +79,6 @@
           "source": "NASA"
         },
         {
-          "title": "A SpaceX rocket slammed into the moon this month — and a NASA spacecraft has spotted its lunar grave (photos)",
-          "url": "https://www.space.com/astronomy/moon/a-spacex-rocket-slammed-into-the-moon-this-month-and-a-nasa-spacecraft-has-spotted-its-lunar-grave-photos",
-          "publishedAt": "2026-08-19T17:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Space nuclear programs face near- and long-term challenges",
           "url": "https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges",
           "publishedAt": "2026-08-19T02:36:51+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-19T20:00:29+00:00",
+      "updatedAt": "2026-08-19T20:12:12+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-19T20:00:29+00:00",
+      "updatedAt": "2026-08-19T20:12:12+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,8 +151,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-19T20:00:29+00:00",
+      "updatedAt": "2026-08-19T20:12:12+00:00",
       "stories": [
+        {
+          "title": "Striveworks to build AI layer for NGC2 at corps level, Army says",
+          "url": "https://breakingdefense.com/2026/08/striveworks-to-build-ai-layer-for-ngc2-at-corps-level-army-says",
+          "publishedAt": "2026-08-19T20:00:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Pentagon rebuffed repeated requests for Golden Dome brief: CBO",
           "url": "https://breakingdefense.com/2026/08/pentagon-rebuffed-repeated-requests-for-golden-dome-brief-cbo",
@@ -208,12 +214,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Army leaders drafting ‘guiding document’ to ask industry for new intelligence tools",
-          "url": "https://breakingdefense.com/2026/08/army-leaders-drafting-guiding-document-to-ask-industry-for-new-intelligence-tools",
-          "publishedAt": "2026-08-18T18:36:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Navy approves Block II upgrades for E-2D Advanced Hawkeye fleet",
           "url": "https://defensescoop.com/2026/08/18/navy-approves-block-ii-upgrades-for-e-2d-advanced-hawkeye-fleet",
           "publishedAt": "2026-08-18T20:50:02+00:00",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-19T20:00:29+00:00",
+      "updatedAt": "2026-08-19T20:12:12+00:00",
       "stories": [
         {
           "title": "OpenAI pauses frontier training over misalignment",
@@ -281,40 +281,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "GLM-5.3 hits the API at 1.4/4.4 per million tokens (2 minute read)",
-          "url": "https://venturebeat.com/ai/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Meet the startup helping Wall Street put a price on AI compute",
+          "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute",
+          "publishedAt": "2026-08-19T17:26:48+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Cerebras Says Its New Computer Boosts AI Speed Advantage Over Nvidia (3 minute read)",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-19/cerebras-cbrs-says-its-new-computer-boosts-ai-speed-advantage-over-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NzEyMDQ1MSwiZXhwIjoxNzg3NzI1MjUxLCJhcnRpY2xlSWQiOiJUSlo2NURSMjRVQVgwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.8VsvcVlxi_YE4xeYTUOlhdAZr9BE30qra7bSc_6cPdQ",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+          "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers",
+          "publishedAt": "2026-08-19T15:44:53+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Git at Any Scale (27 minute read)",
-          "url": "https://cursor.com/blog/git-at-any-scale",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Building Production-Grade Agent Loops (9 minute read)",
-          "url": "https://www.liquid.ai/blog/agent-loops",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The New American AI Model Designed to be Customized (26 minute read)",
-          "url": "https://blog.bytebytego.com/p/the-new-american-ai-model-designed",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "FreeToken: Efficient Edge-Native MoE Serving (24 minute read)",
-          "url": "https://arxiv.org/abs/2608.16157",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+          "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required",
+          "publishedAt": "2026-08-19T15:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Cursor's Origin hits GitHub on its worst day",
@@ -339,13 +321,31 @@
           "url": "https://github.com/jinshanmu/CrouzeixConjecture",
           "publishedAt": "2026-08-17T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI previews frontier speed boost",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "publishedAt": "2026-08-14T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic's AI agents wage a turf war",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "publishedAt": "2026-08-14T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "SpaceXAI’s Grok 4.6 storms the frontier",
+          "url": "https://x.ai/news/grok-4-6",
+          "publishedAt": "2026-08-13T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-19T20:00:29+00:00",
+      "updatedAt": "2026-08-19T20:12:12+00:00",
       "stories": [
         {
           "title": "What does Unitree Robotics’ IPO mean for the humanoid industry?",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-19T20:00:29+00:00",
+    "updatedAt": "2026-08-19T20:12:12+00:00",
     "stories": [
       {
         "title": "OpenAI pauses frontier training over misalignment",
@@ -489,9 +489,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Pentagon rebuffed repeated requests for Golden Dome brief: CBO",
-        "url": "https://breakingdefense.com/2026/08/pentagon-rebuffed-repeated-requests-for-golden-dome-brief-cbo",
-        "publishedAt": "2026-08-19T18:55:42+00:00",
+        "title": "Striveworks to build AI layer for NGC2 at corps level, Army says",
+        "url": "https://breakingdefense.com/2026/08/striveworks-to-build-ai-layer-for-ngc2-at-corps-level-army-says",
+        "publishedAt": "2026-08-19T20:00:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -646,6 +646,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-06"
   ]
 }
