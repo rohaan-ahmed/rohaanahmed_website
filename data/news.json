@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-19T13:00:31+00:00",
+  "generatedAt": "2026-08-19T13:15:17+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-19T13:00:31+00:00",
+      "updatedAt": "2026-08-19T13:15:17+00:00",
       "stories": [
+        {
+          "title": "The space industry’s next challenge: supply chain resilience",
+          "url": "https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience",
+          "publishedAt": "2026-08-19T13:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Vantor names new head of U.S. government business",
           "url": "https://spacenews.com/vantor-names-new-head-of-u-s-government-business",
@@ -61,12 +67,6 @@
           "source": "NASA"
         },
         {
-          "title": "Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027",
-          "url": "https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027",
-          "publishedAt": "2026-08-18T12:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Touchdown! Private Chinese rocket aces landing on 2nd-ever flight (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/touchdown-private-chinese-rocket-aces-landing-on-2nd-ever-flight",
           "publishedAt": "2026-08-19T01:29:44+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-19T13:00:31+00:00",
+      "updatedAt": "2026-08-19T13:15:17+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-19T13:00:31+00:00",
+      "updatedAt": "2026-08-19T13:15:17+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-19T13:00:31+00:00",
+      "updatedAt": "2026-08-19T13:15:17+00:00",
       "stories": [
         {
           "title": "Army picks Hanwha’s wheeled K9 for self-propelled howitzer prototypes",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-19T13:00:31+00:00",
+      "updatedAt": "2026-08-19T13:15:17+00:00",
       "stories": [
         {
           "title": "OpenAI pauses frontier training over misalignment",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-19T13:00:31+00:00",
+      "updatedAt": "2026-08-19T13:15:17+00:00",
       "stories": [
         {
           "title": "How to achieve high voltage in industrial systems without high complexity",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-19T13:00:31+00:00",
+    "updatedAt": "2026-08-19T13:15:17+00:00",
     "stories": [
       {
         "title": "OpenAI pauses frontier training over misalignment",
@@ -471,9 +471,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Vantor names new head of U.S. government business",
-        "url": "https://spacenews.com/vantor-names-new-head-of-u-s-government-business",
-        "publishedAt": "2026-08-19T12:18:15+00:00",
+        "title": "The space industry’s next challenge: supply chain resilience",
+        "url": "https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience",
+        "publishedAt": "2026-08-19T13:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -507,6 +507,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Vantor names new head of U.S. government business",
+        "url": "https://spacenews.com/vantor-names-new-head-of-u-s-government-business",
+        "publishedAt": "2026-08-19T12:18:15+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Firefly Aerospace to fly Zeno Power radioisotope heating unit on lunar lander mission",
         "url": "https://spacenews.com/firefly-aerospace-to-fly-zeno-power-radioisotope-heating-unit-on-lunar-lander-mission",
         "publishedAt": "2026-08-19T12:00:00+00:00",
@@ -519,15 +528,6 @@
         "title": "Space nuclear programs face near- and long-term challenges",
         "url": "https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges",
         "publishedAt": "2026-08-19T02:36:51+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "China’s Landspace recovers booster with second orbital launch of Zhuque-3 rocket",
-        "url": "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket",
-        "publishedAt": "2026-08-19T01:05:21+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
