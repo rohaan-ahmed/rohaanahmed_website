@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T21:45:09+00:00",
+  "generatedAt": "2026-08-19T22:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-19T21:45:09+00:00",
+      "updatedAt": "2026-08-19T22:00:31+00:00",
       "stories": [
         {
           "title": "Katalyst Space and NASA abandon plans for Swift reboost",
@@ -37,6 +37,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "Scientists just found the fastest known star in the Milky Way. It zooms around our black hole at 15,500 miles per second",
+          "url": "https://www.space.com/astronomy/stars/scientists-just-found-the-fastest-known-star-in-the-milky-way-it-zooms-around-our-black-hole-at-15-500-miles-per-second",
+          "publishedAt": "2026-08-19T21:58:54+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "Private mission to save NASA's Swift space telescope fails",
           "url": "https://www.space.com/space-exploration/missions/private-mission-to-save-nasas-swift-space-telescope-fails",
           "publishedAt": "2026-08-19T20:15:01+00:00",
@@ -53,12 +59,6 @@
           "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge",
           "publishedAt": "2026-08-19T19:57:48+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "'The Mandalorian and Grogu' finally blasts onto Disney+ next month",
-          "url": "https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-finally-blasts-onto-disney-next-month",
-          "publishedAt": "2026-08-19T19:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Replay: MTG-I2 pre-launch media briefing",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-19T21:45:09+00:00",
+      "updatedAt": "2026-08-19T22:00:31+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-19T21:45:09+00:00",
+      "updatedAt": "2026-08-19T22:00:31+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-19T21:45:09+00:00",
+      "updatedAt": "2026-08-19T22:00:31+00:00",
       "stories": [
         {
           "title": "Picking up the PACE: EW battlefield demands updated contingency planning",
@@ -170,6 +170,12 @@
           "url": "https://breakingdefense.com/2026/08/pentagon-rebuffed-repeated-requests-for-golden-dome-brief-cbo",
           "publishedAt": "2026-08-19T18:55:42+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Data-backed review exposes urgent friction points threatening U.S. defense research enterprise",
+          "url": "https://defensescoop.com/2026/08/19/review-exposes-friction-points-threatening-u-s-defense-research-enterprise",
+          "publishedAt": "2026-08-19T21:46:13+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Hanwha captures Army contract for mobile tactical cannons and expects to deliver first prototype this fall",
@@ -220,12 +226,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "Navy approves Block II upgrades for E-2D Advanced Hawkeye fleet",
-          "url": "https://defensescoop.com/2026/08/18/navy-approves-block-ii-upgrades-for-e-2d-advanced-hawkeye-fleet",
-          "publishedAt": "2026-08-18T20:50:02+00:00",
-          "source": "DefenseScoop"
-        },
-        {
           "title": "DARPA came close to finding a drone that can lift four times its own weight",
           "url": "https://www.defensenews.com/industry/techwatch/2026/08/18/darpa-came-close-to-finding-a-drone-that-can-lift-four-times-its-own-weight",
           "publishedAt": "2026-08-18T16:41:58+00:00",
@@ -248,8 +248,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-19T21:45:09+00:00",
+      "updatedAt": "2026-08-19T22:00:31+00:00",
       "stories": [
+        {
+          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup",
+          "publishedAt": "2026-08-19T21:51:23+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "OpenAI pauses frontier training over misalignment",
           "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
@@ -275,28 +281,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Researchers say OpenAI revoked their access to limited cyber program",
-          "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program",
-          "publishedAt": "2026-08-19T18:46:14+00:00",
-          "source": "TechCrunch AI"
+          "title": "GLM-5.3 hits the API at 1.4/4.4 per million tokens (2 minute read)",
+          "url": "https://venturebeat.com/ai/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
+          "publishedAt": "2026-08-19T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Meet the startup helping Wall Street put a price on AI compute",
-          "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute",
-          "publishedAt": "2026-08-19T17:26:48+00:00",
-          "source": "TechCrunch AI"
+          "title": "Cerebras Says Its New Computer Boosts AI Speed Advantage Over Nvidia (3 minute read)",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-19/cerebras-cbrs-says-its-new-computer-boosts-ai-speed-advantage-over-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NzEyMDQ1MSwiZXhwIjoxNzg3NzI1MjUxLCJhcnRpY2xlSWQiOiJUSlo2NURSMjRVQVgwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.8VsvcVlxi_YE4xeYTUOlhdAZr9BE30qra7bSc_6cPdQ",
+          "publishedAt": "2026-08-19T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-          "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers",
-          "publishedAt": "2026-08-19T15:44:53+00:00",
-          "source": "TechCrunch AI"
+          "title": "Git at Any Scale (27 minute read)",
+          "url": "https://cursor.com/blog/git-at-any-scale",
+          "publishedAt": "2026-08-19T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-          "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required",
-          "publishedAt": "2026-08-19T15:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Building Production-Grade Agent Loops (9 minute read)",
+          "url": "https://www.liquid.ai/blog/agent-loops",
+          "publishedAt": "2026-08-19T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The New American AI Model Designed to be Customized (26 minute read)",
+          "url": "https://blog.bytebytego.com/p/the-new-american-ai-model-designed",
+          "publishedAt": "2026-08-19T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "FreeToken: Efficient Edge-Native MoE Serving (24 minute read)",
+          "url": "https://arxiv.org/abs/2608.16157",
+          "publishedAt": "2026-08-19T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Cursor's Origin hits GitHub on its worst day",
@@ -321,31 +339,13 @@
           "url": "https://github.com/jinshanmu/CrouzeixConjecture",
           "publishedAt": "2026-08-17T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI previews frontier speed boost",
-          "url": "https://openai.com/index/previewing-ultrafast",
-          "publishedAt": "2026-08-14T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic's AI agents wage a turf war",
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "publishedAt": "2026-08-14T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "SpaceXAI’s Grok 4.6 storms the frontier",
-          "url": "https://x.ai/news/grok-4-6",
-          "publishedAt": "2026-08-13T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-19T21:45:09+00:00",
+      "updatedAt": "2026-08-19T22:00:31+00:00",
       "stories": [
         {
           "title": "Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness",
@@ -441,20 +441,20 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-19T21:45:09+00:00",
+    "updatedAt": "2026-08-19T22:00:31+00:00",
     "stories": [
       {
-        "title": "OpenAI pauses frontier training over misalignment",
-        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-        "publishedAt": "2026-08-19T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+        "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup",
+        "publishedAt": "2026-08-19T21:51:23+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI moves teens to their own ChatGPT",
-        "url": "https://openai.com/index/chatgpt-for-teens",
+        "title": "OpenAI pauses frontier training over misalignment",
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
         "publishedAt": "2026-08-19T10:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
@@ -646,7 +646,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-04"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
