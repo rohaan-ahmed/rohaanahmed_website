@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T18:57:28+00:00",
+  "generatedAt": "2026-08-19T19:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-19T18:57:28+00:00",
+      "updatedAt": "2026-08-19T19:00:33+00:00",
       "stories": [
         {
           "title": "Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-19T18:57:28+00:00",
+      "updatedAt": "2026-08-19T19:00:33+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-19T18:57:28+00:00",
+      "updatedAt": "2026-08-19T19:00:33+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,8 +151,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-19T18:57:28+00:00",
+      "updatedAt": "2026-08-19T19:00:33+00:00",
       "stories": [
+        {
+          "title": "Pentagon rebuffed repeated requests for Golden Dome brief: CBO",
+          "url": "https://breakingdefense.com/2026/08/pentagon-rebuffed-repeated-requests-for-golden-dome-brief-cbo",
+          "publishedAt": "2026-08-19T18:55:42+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "US Navy destroyer spent 4 days without power in South China Sea",
           "url": "https://www.defensenews.com/news/your-military/2026/08/19/us-navy-destroyer-spent-4-days-without-power-in-south-china-sea",
@@ -208,12 +214,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "DoD expands R&D on clearing expired satellites from orbit",
-          "url": "https://breakingdefense.com/2026/08/dod-expands-rd-on-clearing-expired-satellites-from-orbit",
-          "publishedAt": "2026-08-18T17:30:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Navy approves Block II upgrades for E-2D Advanced Hawkeye fleet",
           "url": "https://defensescoop.com/2026/08/18/navy-approves-block-ii-upgrades-for-e-2d-advanced-hawkeye-fleet",
           "publishedAt": "2026-08-18T20:50:02+00:00",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-19T18:57:28+00:00",
+      "updatedAt": "2026-08-19T19:00:33+00:00",
       "stories": [
         {
           "title": "OpenAI pauses frontier training over misalignment",
@@ -261,6 +261,12 @@
           "url": "https://openai.com/index/chatgpt-for-teens",
           "publishedAt": "2026-08-19T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Google launches new study tools for Students across Search and Gemini",
+          "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini",
+          "publishedAt": "2026-08-19T19:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Researchers say OpenAI revoked their access to limited cyber program",
@@ -281,40 +287,16 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "GLM-5.3 hits the API at 1.4/4.4 per million tokens (2 minute read)",
-          "url": "https://venturebeat.com/ai/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+          "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required",
+          "publishedAt": "2026-08-19T15:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Cerebras Says Its New Computer Boosts AI Speed Advantage Over Nvidia (3 minute read)",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-19/cerebras-cbrs-says-its-new-computer-boosts-ai-speed-advantage-over-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NzEyMDQ1MSwiZXhwIjoxNzg3NzI1MjUxLCJhcnRpY2xlSWQiOiJUSlo2NURSMjRVQVgwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.8VsvcVlxi_YE4xeYTUOlhdAZr9BE30qra7bSc_6cPdQ",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Git at Any Scale (27 minute read)",
-          "url": "https://cursor.com/blog/git-at-any-scale",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Building Production-Grade Agent Loops (9 minute read)",
-          "url": "https://www.liquid.ai/blog/agent-loops",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The New American AI Model Designed to be Customized (26 minute read)",
-          "url": "https://blog.bytebytego.com/p/the-new-american-ai-model-designed",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "FreeToken: Efficient Edge-Native MoE Serving (24 minute read)",
-          "url": "https://arxiv.org/abs/2608.16157",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Calendly throws its hat into meeting note-taker circus",
+          "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus",
+          "publishedAt": "2026-08-19T14:09:39+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Cursor's Origin hits GitHub on its worst day",
@@ -339,13 +321,31 @@
           "url": "https://github.com/jinshanmu/CrouzeixConjecture",
           "publishedAt": "2026-08-17T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI previews frontier speed boost",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "publishedAt": "2026-08-14T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic's AI agents wage a turf war",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "publishedAt": "2026-08-14T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "SpaceXAI’s Grok 4.6 storms the frontier",
+          "url": "https://x.ai/news/grok-4-6",
+          "publishedAt": "2026-08-13T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-19T18:57:28+00:00",
+      "updatedAt": "2026-08-19T19:00:33+00:00",
       "stories": [
         {
           "title": "What does Unitree Robotics’ IPO mean for the humanoid industry?",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-19T18:57:28+00:00",
+    "updatedAt": "2026-08-19T19:00:33+00:00",
     "stories": [
       {
         "title": "OpenAI pauses frontier training over misalignment",
@@ -489,10 +489,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "US Navy destroyer spent 4 days without power in South China Sea",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/19/us-navy-destroyer-spent-4-days-without-power-in-south-china-sea",
-        "publishedAt": "2026-08-19T16:57:54+00:00",
-        "source": "Defense News",
+        "title": "Pentagon rebuffed repeated requests for Golden Dome brief: CBO",
+        "url": "https://breakingdefense.com/2026/08/pentagon-rebuffed-repeated-requests-for-golden-dome-brief-cbo",
+        "publishedAt": "2026-08-19T18:55:42+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -646,6 +646,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-05"
   ]
 }
