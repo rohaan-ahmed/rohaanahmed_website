@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T16:00:26+00:00",
+  "generatedAt": "2026-08-19T16:13:59+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-19T16:00:26+00:00",
+      "updatedAt": "2026-08-19T16:13:59+00:00",
       "stories": [
         {
           "title": "Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions",
@@ -43,6 +43,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "Mysterious Russian 'space activity' causes US Air Force flight to Antarctica to turn around: report",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/mysterious-russian-space-activity-causes-us-air-force-flight-to-antarctica-to-turn-around-report",
+          "publishedAt": "2026-08-19T16:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "NASA Establishes State Hubs to Grow Technical Aerospace Workforce",
           "url": "https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce",
           "publishedAt": "2026-08-19T15:55:10+00:00",
@@ -61,14 +67,8 @@
           "source": "SpaceNews"
         },
         {
-          "title": "My 5 favorite sights to see in the night sky with binoculars",
-          "url": "https://www.space.com/stargazing/skywatching-kit/the-best-things-to-see-in-the-night-sky-with-binoculars",
-          "publishedAt": "2026-08-19T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Perseverance rover watches alien solar eclipse on Mars | Space photo of the day for Aug. 19, 2026",
-          "url": "https://www.space.com/astronomy/mars/perseverance-rover-watchs-alien-solar-eclipse-on-mars-space-photo-of-the-day-for-aug-19-2026",
+          "title": "On this day in space! Aug. 19, 1997: 1st Filipino satellite launches into orbit",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-aug-19-1997-1st-filipino-satellite-launches-into-orbit",
           "publishedAt": "2026-08-19T14:00:00+00:00",
           "source": "Space.com"
         },
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-19T16:00:26+00:00",
+      "updatedAt": "2026-08-19T16:13:59+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-19T16:00:26+00:00",
+      "updatedAt": "2026-08-19T16:13:59+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-19T16:00:26+00:00",
+      "updatedAt": "2026-08-19T16:13:59+00:00",
       "stories": [
         {
           "title": "Why Congress will be in a hurry after August recess",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-19T16:00:26+00:00",
+      "updatedAt": "2026-08-19T16:13:59+00:00",
       "stories": [
         {
           "title": "OpenAI pauses frontier training over misalignment",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-19T16:00:26+00:00",
+      "updatedAt": "2026-08-19T16:13:59+00:00",
       "stories": [
         {
           "title": "Serve Robotics to deploy its autonomous delivery robots with Grubhub",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-19T16:00:26+00:00",
+    "updatedAt": "2026-08-19T16:13:59+00:00",
     "stories": [
       {
         "title": "OpenAI pauses frontier training over misalignment",
@@ -646,7 +646,7 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-06",
-    "Vanguard: HTTPSConnectionPool(host='vanguarddefence.ca', port=443): Read timed out. (read timeout=25)"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-06"
   ]
 }
