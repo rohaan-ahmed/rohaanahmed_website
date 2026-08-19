@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T15:50:41+00:00",
+  "generatedAt": "2026-08-19T16:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-19T15:50:41+00:00",
+      "updatedAt": "2026-08-19T16:00:26+00:00",
       "stories": [
         {
           "title": "Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions",
@@ -41,6 +41,12 @@
           "url": "https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges",
           "publishedAt": "2026-08-19T02:36:51+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "NASA Establishes State Hubs to Grow Technical Aerospace Workforce",
+          "url": "https://www.nasa.gov/news-release/nasa-establishes-state-hubs-to-grow-technical-aerospace-workforce",
+          "publishedAt": "2026-08-19T15:55:10+00:00",
+          "source": "NASA"
         },
         {
           "title": "13 sci-fi books that inspired our favorite shows and movies",
@@ -85,12 +91,6 @@
           "source": "NASA"
         },
         {
-          "title": "APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor",
-          "url": "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor",
-          "publishedAt": "2026-08-19T04:05:00+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Wildfires, drought and extreme heat, 2026",
           "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026",
           "publishedAt": "2026-08-18T13:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-19T15:50:41+00:00",
+      "updatedAt": "2026-08-19T16:00:26+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-19T15:50:41+00:00",
+      "updatedAt": "2026-08-19T16:00:26+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-19T15:50:41+00:00",
+      "updatedAt": "2026-08-19T16:00:26+00:00",
       "stories": [
         {
           "title": "Why Congress will be in a hurry after August recess",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-19T15:50:41+00:00",
+      "updatedAt": "2026-08-19T16:00:26+00:00",
       "stories": [
         {
           "title": "OpenAI pauses frontier training over misalignment",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-19T15:50:41+00:00",
+      "updatedAt": "2026-08-19T16:00:26+00:00",
       "stories": [
         {
           "title": "Serve Robotics to deploy its autonomous delivery robots with Grubhub",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-19T15:50:41+00:00",
+    "updatedAt": "2026-08-19T16:00:26+00:00",
     "stories": [
       {
         "title": "OpenAI pauses frontier training over misalignment",
@@ -646,7 +646,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-28"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-06",
+    "Vanguard: HTTPSConnectionPool(host='vanguarddefence.ca', port=443): Read timed out. (read timeout=25)"
   ]
 }
