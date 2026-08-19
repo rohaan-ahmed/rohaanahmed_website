@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T20:12:12+00:00",
+  "generatedAt": "2026-08-19T20:49:00+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-19T20:12:12+00:00",
+      "updatedAt": "2026-08-19T20:49:00+00:00",
       "stories": [
         {
           "title": "Katalyst Space and NASA abandon plans for Swift reboost",
@@ -37,6 +37,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "Private mission to save NASA's Swift space telescope fails",
+          "url": "https://www.space.com/space-exploration/missions/private-mission-to-save-nasas-swift-space-telescope-fails",
+          "publishedAt": "2026-08-19T20:15:01+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "Scientists create 'laundry gun' for astronauts to clean their clothes by shooting out plasma",
           "url": "https://www.space.com/space-exploration/human-spaceflight/scientists-create-laundry-gun-for-astronauts-to-clean-their-clothes-by-shooting-out-plasma",
           "publishedAt": "2026-08-19T20:05:26+00:00",
@@ -52,12 +58,6 @@
           "title": "'The Mandalorian and Grogu' finally blasts onto Disney+ next month",
           "url": "https://www.space.com/entertainment/space-movies-shows/the-mandalorian-and-grogu-finally-blasts-onto-disney-next-month",
           "publishedAt": "2026-08-19T19:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Dark matter could magnify the jets of a ravenously feeding supermassive black hole",
-          "url": "https://www.space.com/astronomy/black-holes/dark-matter-could-magnify-the-jets-of-a-ravenously-feeding-supermassive-black-hole",
-          "publishedAt": "2026-08-19T18:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-19T20:12:12+00:00",
+      "updatedAt": "2026-08-19T20:49:00+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-19T20:12:12+00:00",
+      "updatedAt": "2026-08-19T20:49:00+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-19T20:12:12+00:00",
+      "updatedAt": "2026-08-19T20:49:00+00:00",
       "stories": [
         {
           "title": "Striveworks to build AI layer for NGC2 at corps level, Army says",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-19T20:12:12+00:00",
+      "updatedAt": "2026-08-19T20:49:00+00:00",
       "stories": [
         {
           "title": "OpenAI pauses frontier training over misalignment",
@@ -345,8 +345,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-19T20:12:12+00:00",
+      "updatedAt": "2026-08-19T20:49:00+00:00",
       "stories": [
+        {
+          "title": "Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness",
+          "url": "https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness",
+          "publishedAt": "2026-08-19T20:15:47+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "What does Unitree Robotics’ IPO mean for the humanoid industry?",
           "url": "https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry",
@@ -408,12 +414,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Gravis Robotics raises $200M for autonomous construction",
-          "url": "https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction",
-          "publishedAt": "2026-08-17T13:00:16+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
           "url": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
           "publishedAt": "2026-08-17T15:33:42+00:00",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-19T20:12:12+00:00",
+    "updatedAt": "2026-08-19T20:49:00+00:00",
     "stories": [
       {
         "title": "OpenAI pauses frontier training over misalignment",
@@ -498,9 +498,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "What does Unitree Robotics’ IPO mean for the humanoid industry?",
-        "url": "https://www.therobotreport.com/what-does-unitree-robotics-ipo-mean-for-humanoid-industry",
-        "publishedAt": "2026-08-19T18:01:43+00:00",
+        "title": "Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness",
+        "url": "https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness",
+        "publishedAt": "2026-08-19T20:15:47+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -647,6 +647,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-06"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-05"
   ]
 }
