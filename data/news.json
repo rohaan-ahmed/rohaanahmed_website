@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-19T01:00:26+00:00",
+  "generatedAt": "2026-08-19T01:48:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-19T01:00:26+00:00",
+      "updatedAt": "2026-08-19T01:48:25+00:00",
       "stories": [
+        {
+          "title": "China’s Landspace recovers booster with second orbital launch of Zhuque-3 rocket",
+          "url": "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket",
+          "publishedAt": "2026-08-19T01:05:21+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Rocket Lab to test Space Force data network connection in orbit in 2027",
           "url": "https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027",
@@ -23,6 +29,12 @@
           "url": "https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge",
           "publishedAt": "2026-08-18T12:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Touchdown! Private Chinese rocket aces landing on 2nd-ever flight",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/touchdown-private-chinese-rocket-aces-landing-on-2nd-ever-flight",
+          "publishedAt": "2026-08-19T01:29:44+00:00",
+          "source": "Space.com"
         },
         {
           "title": "NRO to expand use of HawkEye 360’s satellite intelligence",
@@ -47,12 +59,6 @@
           "url": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details",
           "publishedAt": "2026-08-18T18:49:50+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Starship lives! SpaceX craft arrives at Christmas Island after 24-day ocean ordeal",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/starship-lives-spacex-craft-arrives-at-christmas-island-after-24-day-ocean-ordeal",
-          "publishedAt": "2026-08-18T17:29:19+00:00",
-          "source": "Space.com"
         },
         {
           "title": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
@@ -85,12 +91,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "New EU sanctions target leaders of Russia’s space industry",
-          "url": "https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry",
-          "publishedAt": "2026-08-17T21:05:13+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Total solar eclipse 2026 (Official ESA broadcast)",
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast",
           "publishedAt": "2026-08-17T14:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-19T01:00:26+00:00",
+      "updatedAt": "2026-08-19T01:48:25+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-19T01:00:26+00:00",
+      "updatedAt": "2026-08-19T01:48:25+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-19T01:00:26+00:00",
+      "updatedAt": "2026-08-19T01:48:25+00:00",
       "stories": [
         {
           "title": "Army picks Hanwha’s wheeled K9 for self-propelled howitzer prototypes",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-19T01:00:26+00:00",
+      "updatedAt": "2026-08-19T01:48:25+00:00",
       "stories": [
         {
           "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-19T01:00:26+00:00",
+      "updatedAt": "2026-08-19T01:48:25+00:00",
       "stories": [
         {
           "title": "How to achieve high voltage in industrial systems without high complexity",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-19T01:00:26+00:00",
+    "updatedAt": "2026-08-19T01:48:25+00:00",
     "stories": [
       {
         "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -471,9 +471,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Rocket Lab to test Space Force data network connection in orbit in 2027",
-        "url": "https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027",
-        "publishedAt": "2026-08-18T22:52:36+00:00",
+        "title": "China’s Landspace recovers booster with second orbital launch of Zhuque-3 rocket",
+        "url": "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket",
+        "publishedAt": "2026-08-19T01:05:21+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -507,6 +507,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Rocket Lab to test Space Force data network connection in orbit in 2027",
+        "url": "https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027",
+        "publishedAt": "2026-08-18T22:52:36+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Eoptic, Inc. Selected to Supply DeepScan™ Imaging Payloads Scheduled for Launch in 2027",
         "url": "https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027",
         "publishedAt": "2026-08-18T12:00:00+00:00",
@@ -519,15 +528,6 @@
         "title": "New report takes closer look at the Space Force spending surge",
         "url": "https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge",
         "publishedAt": "2026-08-18T12:00:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "NRO to expand use of HawkEye 360’s satellite intelligence",
-        "url": "https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence",
-        "publishedAt": "2026-08-18T09:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
