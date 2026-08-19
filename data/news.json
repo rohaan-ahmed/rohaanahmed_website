@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T09:44:35+00:00",
+  "generatedAt": "2026-08-19T10:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-19T09:44:35+00:00",
+      "updatedAt": "2026-08-19T10:00:31+00:00",
       "stories": [
         {
           "title": "Space nuclear programs face near- and long-term challenges",
@@ -29,6 +29,12 @@
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express",
           "publishedAt": "2026-08-19T09:00:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "Astronomers discover a giant, rocky 'mega-Earth' 23 times more massive than our planet",
+          "url": "https://www.space.com/astronomy/exoplanets/astronomers-discover-a-giant-rocky-mega-earth-23-times-more-massive-than-our-planet",
+          "publishedAt": "2026-08-19T10:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Behind the Lens: Meet NASA Johnson’s Photographers",
@@ -73,12 +79,6 @@
           "source": "Space.com"
         },
         {
-          "title": "NASA astronaut and 1st female French spacewalker remove failed ISS antenna but run out of time for replacement",
-          "url": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-and-1st-female-french-spacewalker-remove-failed-iss-antenna-but-run-out-of-time-for-replacement",
-          "publishedAt": "2026-08-18T19:36:40+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "NASA’s LRO Images Falcon 9 Crater on Moon, Learns New Details",
           "url": "https://science.nasa.gov/solar-system/moon/nasas-lro-images-falcon-9-crater-on-moon-learns-new-details",
           "publishedAt": "2026-08-18T18:49:50+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-19T09:44:35+00:00",
+      "updatedAt": "2026-08-19T10:00:31+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-19T09:44:35+00:00",
+      "updatedAt": "2026-08-19T10:00:31+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-19T09:44:35+00:00",
+      "updatedAt": "2026-08-19T10:00:31+00:00",
       "stories": [
         {
           "title": "Army picks Hanwha’s wheeled K9 for self-propelled howitzer prototypes",
@@ -248,8 +248,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-19T09:44:35+00:00",
+      "updatedAt": "2026-08-19T10:00:31+00:00",
       "stories": [
+        {
+          "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+          "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers",
+          "publishedAt": "2026-08-19T10:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
           "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform",
@@ -287,40 +293,16 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Anthropic's Revenue to Exceed $65 Billion (1 minute read)",
-          "url": "https://x.com/business/status/2089438395764240791",
-          "publishedAt": "2026-08-18T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+          "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear",
+          "publishedAt": "2026-08-18T16:19:10+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Groq Raised $350 Million After Nvidia Deal (4 minute read)",
-          "url": "https://www.implicator.ai/groq-350-million-3-5-billion-valuation-after-nvidia-deal",
-          "publishedAt": "2026-08-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race (16 minute read)",
-          "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
-          "publishedAt": "2026-08-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Testing Fable vs Sol in terms of taste (they are both bad) (40 minute read)",
-          "url": "https://magichour.ai/blog/fable-vs-sol-taste-test",
-          "publishedAt": "2026-08-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "When Models Learn (4 minute read)",
-          "url": "https://tomtunguz.com/test-time-training-impact",
-          "publishedAt": "2026-08-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Qwen3.8 vs Qwen3.6 vs Gemma 4 on a 24GB GPU (10 minute read)",
-          "url": "https://kingy.ai/blog/qwen3-8-27b-vs-qwen3-6-27b-vs-gemma-4-31b",
-          "publishedAt": "2026-08-18T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+          "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development",
+          "publishedAt": "2026-08-18T14:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Doctor solves 22-year math problem with ChatGPT",
@@ -339,13 +321,31 @@
           "url": "https://www.anthropic.com/research/multiagent-systems",
           "publishedAt": "2026-08-14T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "SpaceXAI’s Grok 4.6 storms the frontier",
+          "url": "https://x.ai/news/grok-4-6",
+          "publishedAt": "2026-08-13T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic adds AI watermarks to Claude outputs",
+          "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+          "publishedAt": "2026-08-12T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Grok Bot is the latest AI agent teammate build",
+          "url": "https://x.ai/news/introducing-grok-bot",
+          "publishedAt": "2026-08-12T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-19T09:44:35+00:00",
+      "updatedAt": "2026-08-19T10:00:31+00:00",
       "stories": [
         {
           "title": "How to achieve high voltage in industrial systems without high complexity",
@@ -441,22 +441,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-19T09:44:35+00:00",
+    "updatedAt": "2026-08-19T10:00:31+00:00",
     "stories": [
       {
-        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-        "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform",
-        "publishedAt": "2026-08-18T22:14:25+00:00",
+        "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+        "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers",
+        "publishedAt": "2026-08-19T10:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Cursor's Origin hits GitHub on its worst day",
-        "url": "https://cursor.com/changelog/origin-code-hosting",
-        "publishedAt": "2026-08-18T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+        "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform",
+        "publishedAt": "2026-08-18T22:14:25+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -646,6 +646,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-30"
   ]
 }
