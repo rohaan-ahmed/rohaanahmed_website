@@ -1,47 +1,11 @@
 {
-  "generatedAt": "2026-08-20T13:00:28+00:00",
+  "generatedAt": "2026-08-20T13:16:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-20T13:00:28+00:00",
+      "updatedAt": "2026-08-20T13:16:33+00:00",
       "stories": [
-        {
-          "title": "China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch",
-          "url": "https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch",
-          "publishedAt": "2026-08-20T12:48:21+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Muon Space raises $250 million to ramp up satellite production",
-          "url": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production",
-          "publishedAt": "2026-08-20T11:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
-          "url": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
-          "url": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Hypersonic missile startup Castelion raises $1 billion",
-          "url": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion",
-          "publishedAt": "2026-08-19T23:12:41+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Eartheye Space forges strategic partnership with IN2",
-          "url": "https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2",
-          "publishedAt": "2026-08-19T23:07:16+00:00",
-          "source": "SpaceNews"
-        },
         {
           "title": "James Webb Space Telescope finds 'hidden stars' making the universe's 1st galaxies much bigger than we knew",
           "url": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-finds-hidden-stars-among-the-universes-most-ancient-galaxies",
@@ -67,10 +31,22 @@
           "source": "European Space Agency"
         },
         {
+          "title": "Watch Rocket Lab launch a private Japanese Earth-observing satellite to orbit today",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-private-japanese-earth-observing-sar-satellite-lightning-god-defends",
+          "publishedAt": "2026-08-20T04:05:00+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
           "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus",
           "publishedAt": "2026-08-20T04:05:00+00:00",
           "source": "NASA"
+        },
+        {
+          "title": "Scientists just found the fastest known star in the Milky Way. It zooms around our black hole at 15,500 miles per second",
+          "url": "https://www.space.com/astronomy/stars/scientists-just-found-the-fastest-known-star-in-the-milky-way-it-zooms-around-our-black-hole-at-15-500-miles-per-second",
+          "publishedAt": "2026-08-19T21:58:54+00:00",
+          "source": "Space.com"
         },
         {
           "title": "NASA TechLeap Prize: Orbital Clarity Challenge",
@@ -91,9 +67,33 @@
           "source": "NASA"
         },
         {
+          "title": "Human-Related Microbes May Survive Moon’s South Pole, NASA Finds",
+          "url": "https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds",
+          "publishedAt": "2026-08-19T18:02:40+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "Fly around Schiaparelli Crater with Mars Express",
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express",
           "publishedAt": "2026-08-19T09:00:00+00:00",
+          "source": "European Space Agency"
+        },
+        {
+          "title": "Wildfires, drought and extreme heat, 2026",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Wildfires_drought_and_extreme_heat_2026",
+          "publishedAt": "2026-08-18T13:00:00+00:00",
+          "source": "European Space Agency"
+        },
+        {
+          "title": "Hera's Mars flyby guided impact study of Deimos moon",
+          "url": "https://www.esa.int/Space_Safety/Hera/Hera_s_Mars_flyby_guided_impact_study_of_Deimos_moon",
+          "publishedAt": "2026-08-18T09:16:00+00:00",
+          "source": "European Space Agency"
+        },
+        {
+          "title": "Week in images: 10-14 August 2026",
+          "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_August_2026",
+          "publishedAt": "2026-08-14T13:10:00+00:00",
           "source": "European Space Agency"
         }
       ]
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-20T13:00:28+00:00",
+      "updatedAt": "2026-08-20T13:16:33+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-20T13:00:28+00:00",
+      "updatedAt": "2026-08-20T13:16:33+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-20T13:00:28+00:00",
+      "updatedAt": "2026-08-20T13:16:33+00:00",
       "stories": [
         {
           "title": "New White House strategy clarifies military tech priorities: undersea, outer space and AI",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-20T13:00:28+00:00",
+      "updatedAt": "2026-08-20T13:16:33+00:00",
       "stories": [
         {
           "title": "Anthropic's Claude tackles protein design",
@@ -281,18 +281,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections",
-          "publishedAt": "2026-08-19T22:10:46+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup",
-          "publishedAt": "2026-08-19T21:51:23+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "OpenAI pauses frontier training over misalignment",
           "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
           "publishedAt": "2026-08-19T10:00:00+00:00",
@@ -305,10 +293,40 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "AI was supposed to win people over by now — it hasn’t",
-          "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt",
-          "publishedAt": "2026-08-19T19:11:40+00:00",
-          "source": "TechCrunch AI"
+          "title": "GLM-5.3 hits the API at 1.4/4.4 per million tokens (2 minute read)",
+          "url": "https://venturebeat.com/ai/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
+          "publishedAt": "2026-08-19T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Cerebras Says Its New Computer Boosts AI Speed Advantage Over Nvidia (3 minute read)",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-19/cerebras-cbrs-says-its-new-computer-boosts-ai-speed-advantage-over-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NzEyMDQ1MSwiZXhwIjoxNzg3NzI1MjUxLCJhcnRpY2xlSWQiOiJUSlo2NURSMjRVQVgwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.8VsvcVlxi_YE4xeYTUOlhdAZr9BE30qra7bSc_6cPdQ",
+          "publishedAt": "2026-08-19T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Git at Any Scale (27 minute read)",
+          "url": "https://cursor.com/blog/git-at-any-scale",
+          "publishedAt": "2026-08-19T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Building Production-Grade Agent Loops (9 minute read)",
+          "url": "https://www.liquid.ai/blog/agent-loops",
+          "publishedAt": "2026-08-19T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The New American AI Model Designed to be Customized (26 minute read)",
+          "url": "https://blog.bytebytego.com/p/the-new-american-ai-model-designed",
+          "publishedAt": "2026-08-19T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "FreeToken: Efficient Edge-Native MoE Serving (24 minute read)",
+          "url": "https://arxiv.org/abs/2608.16157",
+          "publishedAt": "2026-08-19T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Cursor's Origin hits GitHub on its worst day",
@@ -321,31 +339,13 @@
           "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-17/motion-picture-association-reaches-agreement-with-bytedance-over-ai-guardrails",
           "publishedAt": "2026-08-18T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI, Nvidia’s new 8 GW AI power push",
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "publishedAt": "2026-08-18T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Doctor solves 22-year math problem with ChatGPT",
-          "url": "https://github.com/jinshanmu/CrouzeixConjecture",
-          "publishedAt": "2026-08-17T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI previews frontier speed boost",
-          "url": "https://openai.com/index/previewing-ultrafast",
-          "publishedAt": "2026-08-14T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-20T13:00:28+00:00",
+      "updatedAt": "2026-08-20T13:16:33+00:00",
       "stories": [
         {
           "title": "Agtonomy releases new autonomous multi-point turning features",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-20T13:00:28+00:00",
+    "updatedAt": "2026-08-20T13:16:33+00:00",
     "stories": [
       {
         "title": "Anthropic's Claude tackles protein design",
@@ -471,10 +471,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch",
-        "url": "https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch",
-        "publishedAt": "2026-08-20T12:48:21+00:00",
-        "source": "SpaceNews",
+        "title": "James Webb Space Telescope finds 'hidden stars' making the universe's 1st galaxies much bigger than we knew",
+        "url": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-finds-hidden-stars-among-the-universes-most-ancient-galaxies",
+        "publishedAt": "2026-08-20T12:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -507,28 +507,28 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Muon Space raises $250 million to ramp up satellite production",
-        "url": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production",
-        "publishedAt": "2026-08-20T11:00:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Switzerland seeks additional $1.2 billion for air defense in 2026 budget",
+        "url": "https://www.defensenews.com/global/europe/2026/08/20/switzerland-seeks-additional-12-billion-for-air-defense-in-2026-budget",
+        "publishedAt": "2026-08-20T12:20:03+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
-        "url": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation",
-        "publishedAt": "2026-08-20T10:00:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Meta AI’s new Mac app wants you to talk to your apps",
+        "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps",
+        "publishedAt": "2026-08-20T12:11:57+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
-        "url": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission",
-        "publishedAt": "2026-08-20T10:00:00+00:00",
-        "source": "SpaceNews",
+        "title": "Partial lunar eclipse live: Latest news, viewing tips and live updates from Aug. 27-28 eclipse",
+        "url": "https://www.space.com/news/live/partial-lunar-eclipse-2026-live-updates-one-week-to-go",
+        "publishedAt": "2026-08-20T10:04:19+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -646,7 +646,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-06"
+    "SpaceNews: 429 Client Error: Too Many Requests for url: https://spacenews.com/feed/",
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
