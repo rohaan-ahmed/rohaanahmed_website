@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-20T05:40:13+00:00",
+  "generatedAt": "2026-08-20T06:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-20T05:40:13+00:00",
+      "updatedAt": "2026-08-20T06:00:28+00:00",
       "stories": [
         {
           "title": "Hypersonic missile startup Castelion raises $1 billion",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-20T05:40:13+00:00",
+      "updatedAt": "2026-08-20T06:00:28+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-20T05:40:13+00:00",
+      "updatedAt": "2026-08-20T06:00:28+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-20T05:40:13+00:00",
+      "updatedAt": "2026-08-20T06:00:28+00:00",
       "stories": [
         {
           "title": "Picking up the PACE: EW battlefield demands updated contingency planning",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-20T05:40:13+00:00",
+      "updatedAt": "2026-08-20T06:00:28+00:00",
       "stories": [
         {
           "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
@@ -281,40 +281,22 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "GLM-5.3 hits the API at 1.4/4.4 per million tokens (2 minute read)",
-          "url": "https://venturebeat.com/ai/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "AI was supposed to win people over by now — it hasn’t",
+          "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt",
+          "publishedAt": "2026-08-19T19:11:40+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Cerebras Says Its New Computer Boosts AI Speed Advantage Over Nvidia (3 minute read)",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-19/cerebras-cbrs-says-its-new-computer-boosts-ai-speed-advantage-over-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NzEyMDQ1MSwiZXhwIjoxNzg3NzI1MjUxLCJhcnRpY2xlSWQiOiJUSlo2NURSMjRVQVgwMCIsImJjb25uZWN0SWQiOiIwOThFNzNDQTE5QTA0RDkxODEyQzQ4MjcwRDZERTI0QiJ9.8VsvcVlxi_YE4xeYTUOlhdAZr9BE30qra7bSc_6cPdQ",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Google packs Search and Gemini with new AI study tools",
+          "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini",
+          "publishedAt": "2026-08-19T19:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Git at Any Scale (27 minute read)",
-          "url": "https://cursor.com/blog/git-at-any-scale",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Building Production-Grade Agent Loops (9 minute read)",
-          "url": "https://www.liquid.ai/blog/agent-loops",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The New American AI Model Designed to be Customized (26 minute read)",
-          "url": "https://blog.bytebytego.com/p/the-new-american-ai-model-designed",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "FreeToken: Efficient Edge-Native MoE Serving (24 minute read)",
-          "url": "https://arxiv.org/abs/2608.16157",
-          "publishedAt": "2026-08-19T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Researchers say OpenAI revoked their access to limited cyber program",
+          "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program",
+          "publishedAt": "2026-08-19T18:46:14+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Cursor's Origin hits GitHub on its worst day",
@@ -339,13 +321,31 @@
           "url": "https://github.com/jinshanmu/CrouzeixConjecture",
           "publishedAt": "2026-08-17T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI previews frontier speed boost",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "publishedAt": "2026-08-14T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic's AI agents wage a turf war",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "publishedAt": "2026-08-14T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "SpaceXAI’s Grok 4.6 storms the frontier",
+          "url": "https://x.ai/news/grok-4-6",
+          "publishedAt": "2026-08-13T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-20T05:40:13+00:00",
+      "updatedAt": "2026-08-20T06:00:28+00:00",
       "stories": [
         {
           "title": "Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-20T05:40:13+00:00",
+    "updatedAt": "2026-08-20T06:00:28+00:00",
     "stories": [
       {
         "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
@@ -646,6 +646,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-05"
   ]
 }
