@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-20T16:17:23+00:00",
+  "generatedAt": "2026-08-20T16:55:52+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-20T16:17:23+00:00",
+      "updatedAt": "2026-08-20T16:55:52+00:00",
       "stories": [
+        {
+          "title": "Rocket Lab launches 9th satellite for iQPS",
+          "url": "https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps",
+          "publishedAt": "2026-08-20T16:38:31+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium",
           "url": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium",
@@ -34,12 +40,6 @@
           "title": "Muon Space raises $250 million to ramp up satellite production",
           "url": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production",
           "publishedAt": "2026-08-20T11:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
-          "url": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
           "source": "SpaceNews"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-20T16:17:23+00:00",
+      "updatedAt": "2026-08-20T16:55:52+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-20T16:17:23+00:00",
+      "updatedAt": "2026-08-20T16:55:52+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,13 +151,25 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-20T16:17:23+00:00",
+      "updatedAt": "2026-08-20T16:55:52+00:00",
       "stories": [
+        {
+          "title": "DoD memo pushes for more contractor pricing info, potential direct software link",
+          "url": "https://breakingdefense.com/2026/08/dod-memo-pushes-for-more-contractor-pricing-info-potential-direct-software-link",
+          "publishedAt": "2026-08-20T16:19:50+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Turkish Aerospace plans naval version of Hurjet as it eyes expanded NATO exports",
           "url": "https://breakingdefense.com/2026/08/turkish-aerospace-plans-naval-version-of-hurjet-as-it-eyes-expanded-nato-exports",
           "publishedAt": "2026-08-20T15:55:13+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "US approves possible $4.5 billion sale of KC-46As, equipment to Qatar",
+          "url": "https://www.defensenews.com/global/mideast-africa/2026/08/20/us-approves-possible-45-billion-sale-of-kc-46as-equipment-to-qatar",
+          "publishedAt": "2026-08-20T16:36:23+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Estonian lawmaker calls US questionnaire to NATO ‘unnecessary stress test’",
@@ -182,12 +194,6 @@
           "url": "https://www.defensenews.com/global/europe/2026/08/20/switzerland-seeks-additional-12-billion-for-air-defense-in-2026-budget",
           "publishedAt": "2026-08-20T12:20:03+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "Picking up the PACE: EW battlefield demands updated contingency planning",
-          "url": "https://breakingdefense.com/2026/08/picking-up-the-pace-ew-battlefield-demands-updated-contingency-planning",
-          "publishedAt": "2026-08-19T21:18:54+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Army cyber chief reveals AI task force building agents to ‘hunt’ in the DOD network",
@@ -236,19 +242,13 @@
           "url": "https://www.defensenews.com/industry/techwatch/2026/08/18/darpa-came-close-to-finding-a-drone-that-can-lift-four-times-its-own-weight",
           "publishedAt": "2026-08-18T16:41:58+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "How US military funding propelled China’s robot dogs",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs",
-          "publishedAt": "2026-08-18T16:01:40+00:00",
-          "source": "Defense News"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-20T16:17:23+00:00",
+      "updatedAt": "2026-08-20T16:55:52+00:00",
       "stories": [
         {
           "title": "Anthropic's Claude tackles protein design",
@@ -263,6 +263,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Ramp launches its own AI model router, called Router",
+          "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router",
+          "publishedAt": "2026-08-20T16:46:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
           "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users",
           "publishedAt": "2026-08-20T16:07:26+00:00",
@@ -275,28 +281,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Meta AI’s new Mac app wants you to talk to your apps",
-          "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps",
-          "publishedAt": "2026-08-20T12:11:57+00:00",
-          "source": "TechCrunch AI"
+          "title": "Early outputs of Muse Video model from Meta (3 minute read)",
+          "url": "https://www.testingcatalog.com/exclusive-early-outputs-of-muse-video-model-from-meta",
+          "publishedAt": "2026-08-20T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-          "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users",
-          "publishedAt": "2026-08-20T09:30:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Router (Website)",
+          "url": "https://router.com/",
+          "publishedAt": "2026-08-20T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-          "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity",
-          "publishedAt": "2026-08-19T23:32:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "What's the Right Balance in Regulating AI? (47 minute read)",
+          "url": "https://weightythoughts.com/p/whats-the-right-balance-in-regulating",
+          "publishedAt": "2026-08-20T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections",
-          "publishedAt": "2026-08-19T22:10:46+00:00",
-          "source": "TechCrunch AI"
+          "title": "Sol loves to cheat (14 minute read)",
+          "url": "https://jumploops.com/blog/sol-loves-to-cheat",
+          "publishedAt": "2026-08-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Pushing the Limits of Serving DeepSeek-V4-Pro (28 minute read)",
+          "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+          "publishedAt": "2026-08-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Agent Lightning v1.0: Towards Harnessed Agentic RL (1 minute read)",
+          "url": "https://arxiv.org/abs/2608.17528",
+          "publishedAt": "2026-08-20T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI pauses frontier training over misalignment",
@@ -321,31 +339,13 @@
           "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-17/motion-picture-association-reaches-agreement-with-bytedance-over-ai-guardrails",
           "publishedAt": "2026-08-18T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI, Nvidia’s new 8 GW AI power push",
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "publishedAt": "2026-08-18T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Doctor solves 22-year math problem with ChatGPT",
-          "url": "https://github.com/jinshanmu/CrouzeixConjecture",
-          "publishedAt": "2026-08-17T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI previews frontier speed boost",
-          "url": "https://openai.com/index/previewing-ultrafast",
-          "publishedAt": "2026-08-14T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-20T16:17:23+00:00",
+      "updatedAt": "2026-08-20T16:55:52+00:00",
       "stories": [
         {
           "title": "Agtonomy releases new autonomous multi-point turning features",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-20T16:17:23+00:00",
+    "updatedAt": "2026-08-20T16:55:52+00:00",
     "stories": [
       {
         "title": "Anthropic's Claude tackles protein design",
@@ -471,9 +471,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium",
-        "url": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium",
-        "publishedAt": "2026-08-20T16:00:00+00:00",
+        "title": "Rocket Lab launches 9th satellite for iQPS",
+        "url": "https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps",
+        "publishedAt": "2026-08-20T16:38:31+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -489,9 +489,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Turkish Aerospace plans naval version of Hurjet as it eyes expanded NATO exports",
-        "url": "https://breakingdefense.com/2026/08/turkish-aerospace-plans-naval-version-of-hurjet-as-it-eyes-expanded-nato-exports",
-        "publishedAt": "2026-08-20T15:55:13+00:00",
+        "title": "DoD memo pushes for more contractor pricing info, potential direct software link",
+        "url": "https://breakingdefense.com/2026/08/dod-memo-pushes-for-more-contractor-pricing-info-potential-direct-software-link",
+        "publishedAt": "2026-08-20T16:19:50+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -507,6 +507,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium",
+        "url": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium",
+        "publishedAt": "2026-08-20T16:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova",
         "url": "https://spacenews.com/portal-space-systems-to-include-rideshare-payloads-on-falcon-9-launch-of-supernova",
         "publishedAt": "2026-08-20T13:00:00+00:00",
@@ -519,15 +528,6 @@
         "title": "Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference",
         "url": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference",
         "publishedAt": "2026-08-20T13:00:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch",
-        "url": "https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch",
-        "publishedAt": "2026-08-20T12:48:21+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -646,7 +646,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-06"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
