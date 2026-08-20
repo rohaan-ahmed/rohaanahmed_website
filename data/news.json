@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-20T18:00:25+00:00",
+  "generatedAt": "2026-08-20T18:16:35+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-20T18:00:25+00:00",
+      "updatedAt": "2026-08-20T18:16:35+00:00",
       "stories": [
         {
           "title": "What’s next for ISR in space",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-20T18:00:25+00:00",
+      "updatedAt": "2026-08-20T18:16:35+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-20T18:00:25+00:00",
+      "updatedAt": "2026-08-20T18:16:35+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,8 +151,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-20T18:00:25+00:00",
+      "updatedAt": "2026-08-20T18:16:35+00:00",
       "stories": [
+        {
+          "title": "No new starts, no problem: Army’s plan to get new EW capability in the hands of soldiers",
+          "url": "https://breakingdefense.com/2026/08/no-new-starts-no-problem-armys-plan-to-get-new-ew-capability-in-the-hands-of-soldiers",
+          "publishedAt": "2026-08-20T18:14:53+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "US greenlights potential $4.5B sale of four KC-46A refueling aircraft to Qatar",
           "url": "https://breakingdefense.com/2026/08/us-announces-4-5b-sale-of-four-kc-46a-refueling-aircraft-to-qatar",
@@ -178,15 +184,15 @@
           "source": "Defense News"
         },
         {
+          "title": "GAO warns information gaps could hinder Army’s battlefield network modernization plans",
+          "url": "https://defensescoop.com/2026/08/20/gao-report-army-ngc2-battlefield-network-modernization",
+          "publishedAt": "2026-08-20T18:12:12+00:00",
+          "source": "DefenseScoop"
+        },
+        {
           "title": "Estonian lawmaker calls US questionnaire to NATO ‘unnecessary stress test’",
           "url": "https://breakingdefense.com/2026/08/estonian-lawmaker-calls-us-questionnaire-to-nato-unnecessary-stress-test",
           "publishedAt": "2026-08-20T14:24:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Army Cyber training AI agents in cyber ‘work roles’ alongside human counterparts",
-          "url": "https://breakingdefense.com/2026/08/army-cyber-training-ai-agents-in-cyber-work-roles-alongside-human-counterparts",
-          "publishedAt": "2026-08-20T13:57:40+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -232,12 +238,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "The military transferred Oshkosh IP over a new digital exchange so Marines could make their own parts",
-          "url": "https://defensescoop.com/2026/08/19/military-transferred-oshkosh-ip-through-digital-manufacturing-exchange",
-          "publishedAt": "2026-08-19T17:24:24+00:00",
-          "source": "DefenseScoop"
-        },
-        {
           "title": "DARPA came close to finding a drone that can lift four times its own weight",
           "url": "https://www.defensenews.com/industry/techwatch/2026/08/18/darpa-came-close-to-finding-a-drone-that-can-lift-four-times-its-own-weight",
           "publishedAt": "2026-08-18T16:41:58+00:00",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-20T18:00:25+00:00",
+      "updatedAt": "2026-08-20T18:16:35+00:00",
       "stories": [
         {
           "title": "Anthropic's Claude tackles protein design",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-20T18:00:25+00:00",
+      "updatedAt": "2026-08-20T18:16:35+00:00",
       "stories": [
         {
           "title": "ATDev gives update on its journey building autonomous wheelchairs",
@@ -414,6 +414,12 @@
           "source": "The Robot Report"
         },
         {
+          "title": "Surgeons use da Vinci surgical robot to perform common cardiac surgery",
+          "url": "https://www.therobotreport.com/surgeons-use-da-vinci-surgical-robot-perform-common-cardiac-surgery",
+          "publishedAt": "2026-08-17T20:56:21+00:00",
+          "source": "The Robot Report"
+        },
+        {
           "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
           "url": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
           "publishedAt": "2026-08-17T15:33:42+00:00",
@@ -430,18 +436,12 @@
           "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer",
           "publishedAt": "2026-08-12T20:53:41+00:00",
           "source": "TechCrunch Robotics"
-        },
-        {
-          "title": "Robot Recycler Salvages Parts From Broken Machines",
-          "url": "https://spectrum.ieee.org/recycling-robot",
-          "publishedAt": "2026-08-10T18:01:25+00:00",
-          "source": "IEEE Spectrum Robotics"
         }
       ]
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-20T18:00:25+00:00",
+    "updatedAt": "2026-08-20T18:16:35+00:00",
     "stories": [
       {
         "title": "Anthropic's Claude tackles protein design",
@@ -489,9 +489,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "US greenlights potential $4.5B sale of four KC-46A refueling aircraft to Qatar",
-        "url": "https://breakingdefense.com/2026/08/us-announces-4-5b-sale-of-four-kc-46a-refueling-aircraft-to-qatar",
-        "publishedAt": "2026-08-20T16:54:40+00:00",
+        "title": "No new starts, no problem: Army’s plan to get new EW capability in the hands of soldiers",
+        "url": "https://breakingdefense.com/2026/08/no-new-starts-no-problem-armys-plan-to-get-new-ew-capability-in-the-hands-of-soldiers",
+        "publishedAt": "2026-08-20T18:14:53+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -647,6 +647,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-03"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-04"
   ]
 }
