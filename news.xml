@@ -5,16 +5,16 @@
     <link>https://rohaanahmed.com/news.html</link>
     <description>An automatically curated news feed built around my areas of interest</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 20 Aug 2026 20:39:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:00:29 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <guid isPermaLink="false">2448ef18f53505bbd0cc8f1c72eb494325775e0cb9506fd48d64d01313c3f99f</guid>
+      <guid isPermaLink="false">ea87abf877db9b9ea6990a0325f73229b109c4d73c24d0275b3c3274c10493e7</guid>
       <title>International Space (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-space</link>
-      <pubDate>Thu, 20 Aug 2026 20:39:33 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 21:00:29 +0000</pubDate>
       <category>International Space</category>
       <description>Topic: International Space
-Updated: 2026-08-20T20:39:33+00:00
+Updated: 2026-08-20T21:00:29+00:00
 Stories: 15</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
@@ -182,6 +182,25 @@ Headline: Microbes from Earth may survive on the moon, scientists find</descript
       <ra:kind>story</ra:kind>
     </item>
     <item>
+      <title>SmallSat 2026</title>
+      <link>https://science.nasa.gov/earth/smallsat-2026</link>
+      <guid isPermaLink="false">a576eaa2e98eb8fed8fd99f0a6b995887c03ec7ecb8ac7c181f8096229a6d6e4</guid>
+      <pubDate>Thu, 20 Aug 2026 20:05:41 +0000</pubDate>
+      <category>International Space</category>
+      <source url="https://www.nasa.gov/">NASA</source>
+      <description>Topic: International Space
+Source: NASA
+Published: 2026-08-20T20:05:41+00:00
+Headline: SmallSat 2026</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>9</ra:storyPosition>
+      <ra:publishedAt>2026-08-20T20:05:41+00:00</ra:publishedAt>
+      <ra:sourceName>NASA</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
       <title>'Wet Hot American Summer': The raunchy 2000s teen movie that was actually about a space station falling to Earth</title>
       <link>https://www.space.com/entertainment/space-movies-shows/wet-hot-american-summer-the-raunchy-2000s-teen-movie-that-was-actually-about-a-space-station-falling-to-earth</link>
       <guid isPermaLink="false">572bfb1f62ecc3e2e90b23d2f87b0581a6144fb88675cea88aeaf980db0dad5c</guid>
@@ -195,7 +214,7 @@ Headline: 'Wet Hot American Summer': The raunchy 2000s teen movie that was actua
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>9</ra:storyPosition>
+      <ra:storyPosition>10</ra:storyPosition>
       <ra:publishedAt>2026-08-20T19:00:00+00:00</ra:publishedAt>
       <ra:sourceName>Space.com</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -214,7 +233,7 @@ Headline: Artemis Mission Patches</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
+      <ra:storyPosition>11</ra:storyPosition>
       <ra:publishedAt>2026-08-20T15:13:51+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -233,27 +252,8 @@ Headline: NASA Selects University Teams to Help Advance Aviation Research</descr
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>11</ra:storyPosition>
-      <ra:publishedAt>2026-08-20T14:57:01+00:00</ra:publishedAt>
-      <ra:sourceName>NASA</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>The View from Above: The Gemini Visual Acuity Experiments</title>
-      <link>https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments</link>
-      <guid isPermaLink="false">14e01a675addb6d4af556d6d8cdd6aedb2377b27ea9cc75993048a9e73380735</guid>
-      <pubDate>Thu, 20 Aug 2026 14:30:00 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.nasa.gov/">NASA</source>
-      <description>Topic: International Space
-Source: NASA
-Published: 2026-08-20T14:30:00+00:00
-Headline: The View from Above: The Gemini Visual Acuity Experiments</description>
-      <ra:topicId>international-space</ra:topicId>
-      <ra:topicName>International Space</ra:topicName>
-      <ra:topicPosition>1</ra:topicPosition>
       <ra:storyPosition>12</ra:storyPosition>
-      <ra:publishedAt>2026-08-20T14:30:00+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-08-20T14:57:01+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -315,13 +315,13 @@ Headline: Fly around Schiaparelli Crater with Mars Express</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">74b2879ef8eff892a1260410b841a5783544f46b689dc4f1439c5f8c13cacb37</guid>
+      <guid isPermaLink="false">ada24c746b2523ba189c10ef696e6d3e9698aaeb3d3e40b8431228285225fd7c</guid>
       <title>Canadian Space (1 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
-      <pubDate>Thu, 20 Aug 2026 20:39:33 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 21:00:29 +0000</pubDate>
       <category>Canadian Space</category>
       <description>Topic: Canadian Space
-Updated: 2026-08-20T20:39:33+00:00
+Updated: 2026-08-20T21:00:29+00:00
 Stories: 1</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
@@ -350,13 +350,13 @@ Headline: STRATOS 2026 Campaign: Canadian experiments to be tested in space-like
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">60d65a4cba99d6f485dd90835c2775942340f140588960f7151851584ae94bc6</guid>
+      <guid isPermaLink="false">0c2b97178f71de082fc9e2ee463ce75c1e820006cd499b47ebd89a422fefa9af</guid>
       <title>Canadian Defence (5 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
-      <pubDate>Thu, 20 Aug 2026 20:39:33 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 21:00:29 +0000</pubDate>
       <category>Canadian Defence</category>
       <description>Topic: Canadian Defence
-Updated: 2026-08-20T20:39:33+00:00
+Updated: 2026-08-20T21:00:29+00:00
 Stories: 5</description>
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
@@ -461,13 +461,13 @@ Headline: Commander of Canadian Joint Forces Command to host RED COBALT Uncrewed
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">ca86b14605d842b124ce203df2ab49d91ade5f25f94521d778547dd873357b6d</guid>
+      <guid isPermaLink="false">272a4c189ff90a9e6ab9b9b529872ba0c084dbe62c4ad9a65c6d470d346f7b5e</guid>
       <title>International Defence Technology (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
-      <pubDate>Thu, 20 Aug 2026 20:39:33 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 21:00:29 +0000</pubDate>
       <category>International Defence Technology</category>
       <description>Topic: International Defence Technology
-Updated: 2026-08-20T20:39:33+00:00
+Updated: 2026-08-20T21:00:29+00:00
 Stories: 15</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
@@ -591,6 +591,25 @@ Headline: No new starts, no problem: Army’s plan to get new EW capability in t
       <ra:kind>story</ra:kind>
     </item>
     <item>
+      <title>DIU tries to transition tech to the frontlines faster with launch of new Bridge Program</title>
+      <link>https://defensescoop.com/2026/08/20/diu-bridge-program-transition-commercial-technology-to-military</link>
+      <guid isPermaLink="false">0b418dfc2bd5e73b9f5267c9a3e1e4a6bb1af00a5a1cc0c6bbb4a5b3ca90527a</guid>
+      <pubDate>Thu, 20 Aug 2026 20:38:03 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <source url="https://defensescoop.com/">DefenseScoop</source>
+      <description>Topic: International Defence Technology
+Source: DefenseScoop
+Published: 2026-08-20T20:38:03+00:00
+Headline: DIU tries to transition tech to the frontlines faster with launch of new Bridge Program</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>7</ra:storyPosition>
+      <ra:publishedAt>2026-08-20T20:38:03+00:00</ra:publishedAt>
+      <ra:sourceName>DefenseScoop</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
       <title>US greenlights potential $4.5B sale of four KC-46A refueling aircraft to Qatar</title>
       <link>https://breakingdefense.com/2026/08/us-announces-4-5b-sale-of-four-kc-46a-refueling-aircraft-to-qatar</link>
       <guid isPermaLink="false">75d35ee01b288e6368c4d9e2ebdd4fabcceb0cdb7486a9f040dc6bc8a0b27849</guid>
@@ -604,7 +623,7 @@ Headline: US greenlights potential $4.5B sale of four KC-46A refueling aircraft 
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>7</ra:storyPosition>
+      <ra:storyPosition>8</ra:storyPosition>
       <ra:publishedAt>2026-08-20T16:54:40+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -623,7 +642,7 @@ Headline: DoD memo pushes for more contractor pricing info, potential direct sof
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>8</ra:storyPosition>
+      <ra:storyPosition>9</ra:storyPosition>
       <ra:publishedAt>2026-08-20T16:19:50+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -642,7 +661,7 @@ Headline: US approves possible $4.5 billion sale of KC-46As, equipment to Qatar<
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>9</ra:storyPosition>
+      <ra:storyPosition>10</ra:storyPosition>
       <ra:publishedAt>2026-08-20T16:36:23+00:00</ra:publishedAt>
       <ra:sourceName>Defense News</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -661,7 +680,7 @@ Headline: Pausing CMMC cannot mean pausing accountability</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
+      <ra:storyPosition>11</ra:storyPosition>
       <ra:publishedAt>2026-08-20T18:50:34+00:00</ra:publishedAt>
       <ra:sourceName>DefenseScoop</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -680,7 +699,7 @@ Headline: GAO warns information gaps could hinder Army’s battlefield network m
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>11</ra:storyPosition>
+      <ra:storyPosition>12</ra:storyPosition>
       <ra:publishedAt>2026-08-20T18:12:12+00:00</ra:publishedAt>
       <ra:sourceName>DefenseScoop</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -699,7 +718,7 @@ Headline: Switzerland seeks additional $1.2 billion for air defense in 2026 budg
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>12</ra:storyPosition>
+      <ra:storyPosition>13</ra:storyPosition>
       <ra:publishedAt>2026-08-20T12:20:03+00:00</ra:publishedAt>
       <ra:sourceName>Defense News</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -718,7 +737,7 @@ Headline: Army cyber chief reveals AI task force building agents to ‘hunt’ i
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>13</ra:storyPosition>
+      <ra:storyPosition>14</ra:storyPosition>
       <ra:publishedAt>2026-08-20T00:26:13+00:00</ra:publishedAt>
       <ra:sourceName>DefenseScoop</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -737,38 +756,19 @@ Headline: Data-backed review exposes urgent friction points threatening U.S. def
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>14</ra:storyPosition>
+      <ra:storyPosition>15</ra:storyPosition>
       <ra:publishedAt>2026-08-19T21:46:13+00:00</ra:publishedAt>
       <ra:sourceName>DefenseScoop</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Hanwha captures Army contract for mobile tactical cannons and expects to deliver first prototype this fall</title>
-      <link>https://defensescoop.com/2026/08/19/hanwha-army-contract-mobile-tactical-cannon-program</link>
-      <guid isPermaLink="false">8525601b2c3bf6615166d57b8106a897b4b80c7b00ebaa56953ce15e5fe4d1d7</guid>
-      <pubDate>Wed, 19 Aug 2026 21:00:36 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://defensescoop.com/">DefenseScoop</source>
-      <description>Topic: International Defence Technology
-Source: DefenseScoop
-Published: 2026-08-19T21:00:36+00:00
-Headline: Hanwha captures Army contract for mobile tactical cannons and expects to deliver first prototype this fall</description>
-      <ra:topicId>international-defence-technology</ra:topicId>
-      <ra:topicName>International Defence Technology</ra:topicName>
-      <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>15</ra:storyPosition>
-      <ra:publishedAt>2026-08-19T21:00:36+00:00</ra:publishedAt>
-      <ra:sourceName>DefenseScoop</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <guid isPermaLink="false">4e79b56443fbede2719ecc02dde364abc11f86c8c4e9520f6baca1756409256e</guid>
+      <guid isPermaLink="false">d78bdf8374c52012d11030cda5a0715294a88abee1271af83d74bb007b353a7f</guid>
       <title>Artificial Intelligence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
-      <pubDate>Thu, 20 Aug 2026 20:39:33 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 21:00:29 +0000</pubDate>
       <category>Artificial Intelligence</category>
       <description>Topic: Artificial Intelligence
-Updated: 2026-08-20T20:39:33+00:00
+Updated: 2026-08-20T21:00:29+00:00
 Stories: 15</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
@@ -818,6 +818,25 @@ Headline: Replit adds Free Mode for routine work</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
+      <title>Ok, can we actually cool data centers with our pee?</title>
+      <link>https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee</link>
+      <guid isPermaLink="false">8b77baac068b9b1a48e7d1fbcb51398fda05393745989d5c8f9c751e7ee70313</guid>
+      <pubDate>Thu, 20 Aug 2026 20:53:13 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TechCrunch AI
+Published: 2026-08-20T20:53:13+00:00
+Headline: Ok, can we actually cool data centers with our pee?</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>3</ra:storyPosition>
+      <ra:publishedAt>2026-08-20T20:53:13+00:00</ra:publishedAt>
+      <ra:sourceName>TechCrunch AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
       <title>Google gives publishers a new way to fight AI-driven traffic losses</title>
       <link>https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses</link>
       <guid isPermaLink="false">bedcd494849d195943429fbcff4cae89d428966cc81738a9df9975ed1b050f7a</guid>
@@ -831,7 +850,7 @@ Headline: Google gives publishers a new way to fight AI-driven traffic losses</d
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-08-20T19:18:21+00:00</ra:publishedAt>
       <ra:sourceName>TechCrunch AI</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -850,27 +869,8 @@ Headline: Runlayer, Rippling drop lawsuits — but the brouhaha is still a cauti
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
-      <ra:publishedAt>2026-08-20T19:15:05+00:00</ra:publishedAt>
-      <ra:sourceName>TechCrunch AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Linkdaze’s smart calendar is built to run a household, not just track a schedule</title>
-      <link>https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule</link>
-      <guid isPermaLink="false">9536a651488519cb67f03f03bf2332aa7f3eed8f7f84c589f397529c82c1ebfb</guid>
-      <pubDate>Thu, 20 Aug 2026 18:20:35 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
-      <description>Topic: Artificial Intelligence
-Source: TechCrunch AI
-Published: 2026-08-20T18:20:35+00:00
-Headline: Linkdaze’s smart calendar is built to run a household, not just track a schedule</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
       <ra:storyPosition>5</ra:storyPosition>
-      <ra:publishedAt>2026-08-20T18:20:35+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-08-20T19:15:05+00:00</ra:publishedAt>
       <ra:sourceName>TechCrunch AI</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -1065,13 +1065,13 @@ Headline: ByteDance cuts Hollywood's first AI video deal</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">017f59dc7a42553ecf9c264f40f0c2cc566b6d976f19725af0409bef42ce37b8</guid>
+      <guid isPermaLink="false">ebc18f06a9f0c6abd1d489458f2e59a2c086d9afdd0f6e51cde8b25ba8557d38</guid>
       <title>Robotics (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-robotics</link>
-      <pubDate>Thu, 20 Aug 2026 20:39:33 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 21:00:29 +0000</pubDate>
       <category>Robotics</category>
       <description>Topic: Robotics
-Updated: 2026-08-20T20:39:33+00:00
+Updated: 2026-08-20T21:00:29+00:00
 Stories: 15</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>

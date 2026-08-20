@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-20T20:39:33+00:00",
+  "generatedAt": "2026-08-20T21:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-20T20:39:33+00:00",
+      "updatedAt": "2026-08-20T21:00:29+00:00",
       "stories": [
         {
           "title": "What’s next for ISR in space",
@@ -55,6 +55,12 @@
           "source": "Space.com"
         },
         {
+          "title": "SmallSat 2026",
+          "url": "https://science.nasa.gov/earth/smallsat-2026",
+          "publishedAt": "2026-08-20T20:05:41+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "'Wet Hot American Summer': The raunchy 2000s teen movie that was actually about a space station falling to Earth",
           "url": "https://www.space.com/entertainment/space-movies-shows/wet-hot-american-summer-the-raunchy-2000s-teen-movie-that-was-actually-about-a-space-station-falling-to-earth",
           "publishedAt": "2026-08-20T19:00:00+00:00",
@@ -70,12 +76,6 @@
           "title": "NASA Selects University Teams to Help Advance Aviation Research",
           "url": "https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research",
           "publishedAt": "2026-08-20T14:57:01+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "The View from Above: The Gemini Visual Acuity Experiments",
-          "url": "https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments",
-          "publishedAt": "2026-08-20T14:30:00+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-20T20:39:33+00:00",
+      "updatedAt": "2026-08-20T21:00:29+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-20T20:39:33+00:00",
+      "updatedAt": "2026-08-20T21:00:29+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-20T20:39:33+00:00",
+      "updatedAt": "2026-08-20T21:00:29+00:00",
       "stories": [
         {
           "title": "Army network needs digital twin for training, testing, cybersecurity: NETCOM chief",
@@ -188,6 +188,12 @@
           "url": "https://breakingdefense.com/2026/08/no-new-starts-no-problem-armys-plan-to-get-new-ew-capability-in-the-hands-of-soldiers",
           "publishedAt": "2026-08-20T18:14:53+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "DIU tries to transition tech to the frontlines faster with launch of new Bridge Program",
+          "url": "https://defensescoop.com/2026/08/20/diu-bridge-program-transition-commercial-technology-to-military",
+          "publishedAt": "2026-08-20T20:38:03+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "US greenlights potential $4.5B sale of four KC-46A refueling aircraft to Qatar",
@@ -236,19 +242,13 @@
           "url": "https://defensescoop.com/2026/08/19/review-exposes-friction-points-threatening-u-s-defense-research-enterprise",
           "publishedAt": "2026-08-19T21:46:13+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Hanwha captures Army contract for mobile tactical cannons and expects to deliver first prototype this fall",
-          "url": "https://defensescoop.com/2026/08/19/hanwha-army-contract-mobile-tactical-cannon-program",
-          "publishedAt": "2026-08-19T21:00:36+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-20T20:39:33+00:00",
+      "updatedAt": "2026-08-20T21:00:29+00:00",
       "stories": [
         {
           "title": "Anthropic's Claude tackles protein design",
@@ -263,6 +263,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Ok, can we actually cool data centers with our pee?",
+          "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee",
+          "publishedAt": "2026-08-20T20:53:13+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Google gives publishers a new way to fight AI-driven traffic losses",
           "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses",
           "publishedAt": "2026-08-20T19:18:21+00:00",
@@ -272,12 +278,6 @@
           "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
           "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders",
           "publishedAt": "2026-08-20T19:15:05+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-          "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule",
-          "publishedAt": "2026-08-20T18:20:35+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-20T20:39:33+00:00",
+      "updatedAt": "2026-08-20T21:00:29+00:00",
       "stories": [
         {
           "title": "ATDev gives update on its journey building autonomous wheelchairs",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-20T20:39:33+00:00",
+    "updatedAt": "2026-08-20T21:00:29+00:00",
     "stories": [
       {
         "title": "Anthropic's Claude tackles protein design",
