@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-20T16:00:27+00:00",
+  "generatedAt": "2026-08-20T16:17:23+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-20T16:00:27+00:00",
+      "updatedAt": "2026-08-20T16:17:23+00:00",
       "stories": [
+        {
+          "title": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium",
+          "url": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium",
+          "publishedAt": "2026-08-20T16:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova",
           "url": "https://spacenews.com/portal-space-systems-to-include-rideshare-payloads-on-falcon-9-launch-of-supernova",
@@ -33,12 +39,6 @@
         {
           "title": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
           "url": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
-          "url": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission",
           "publishedAt": "2026-08-20T10:00:00+00:00",
           "source": "SpaceNews"
         },
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-20T16:00:27+00:00",
+      "updatedAt": "2026-08-20T16:17:23+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-20T16:00:27+00:00",
+      "updatedAt": "2026-08-20T16:17:23+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-20T16:00:27+00:00",
+      "updatedAt": "2026-08-20T16:17:23+00:00",
       "stories": [
         {
           "title": "Turkish Aerospace plans naval version of Hurjet as it eyes expanded NATO exports",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-20T16:00:27+00:00",
+      "updatedAt": "2026-08-20T16:17:23+00:00",
       "stories": [
         {
           "title": "Anthropic's Claude tackles protein design",
@@ -261,6 +261,18 @@
           "url": "https://replit.com/blog/replit-introduces-free-mode",
           "publishedAt": "2026-08-20T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+          "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users",
+          "publishedAt": "2026-08-20T16:07:26+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+          "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast",
+          "publishedAt": "2026-08-20T16:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Meta AI’s new Mac app wants you to talk to your apps",
@@ -287,12 +299,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup",
-          "publishedAt": "2026-08-19T21:51:23+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "OpenAI pauses frontier training over misalignment",
           "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
           "publishedAt": "2026-08-19T10:00:00+00:00",
@@ -303,12 +309,6 @@
           "url": "https://openai.com/index/chatgpt-for-teens",
           "publishedAt": "2026-08-19T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "AI was supposed to win people over by now — it hasn’t",
-          "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt",
-          "publishedAt": "2026-08-19T19:11:40+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "Cursor's Origin hits GitHub on its worst day",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-20T16:00:27+00:00",
+      "updatedAt": "2026-08-20T16:17:23+00:00",
       "stories": [
         {
           "title": "Agtonomy releases new autonomous multi-point turning features",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-20T16:00:27+00:00",
+    "updatedAt": "2026-08-20T16:17:23+00:00",
     "stories": [
       {
         "title": "Anthropic's Claude tackles protein design",
@@ -471,9 +471,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova",
-        "url": "https://spacenews.com/portal-space-systems-to-include-rideshare-payloads-on-falcon-9-launch-of-supernova",
-        "publishedAt": "2026-08-20T13:00:00+00:00",
+        "title": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium",
+        "url": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium",
+        "publishedAt": "2026-08-20T16:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -507,6 +507,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova",
+        "url": "https://spacenews.com/portal-space-systems-to-include-rideshare-payloads-on-falcon-9-launch-of-supernova",
+        "publishedAt": "2026-08-20T13:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference",
         "url": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference",
         "publishedAt": "2026-08-20T13:00:00+00:00",
@@ -519,15 +528,6 @@
         "title": "China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch",
         "url": "https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch",
         "publishedAt": "2026-08-20T12:48:21+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Muon Space raises $250 million to ramp up satellite production",
-        "url": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production",
-        "publishedAt": "2026-08-20T11:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -647,6 +647,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-10"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-06"
   ]
 }
