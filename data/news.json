@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-20T17:20:19+00:00",
+  "generatedAt": "2026-08-20T17:50:38+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-20T17:20:19+00:00",
+      "updatedAt": "2026-08-20T17:50:38+00:00",
       "stories": [
+        {
+          "title": "What’s next for ISR in space",
+          "url": "https://spacenews.com/whats-next-for-isr-in-space",
+          "publishedAt": "2026-08-20T17:21:33+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Rocket Lab launches 9th satellite for iQPS",
           "url": "https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps",
@@ -34,12 +40,6 @@
           "title": "China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch",
           "url": "https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch",
           "publishedAt": "2026-08-20T12:48:21+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Muon Space raises $250 million to ramp up satellite production",
-          "url": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production",
-          "publishedAt": "2026-08-20T11:00:00+00:00",
           "source": "SpaceNews"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-20T17:20:19+00:00",
+      "updatedAt": "2026-08-20T17:50:38+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-20T17:20:19+00:00",
+      "updatedAt": "2026-08-20T17:50:38+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-20T17:20:19+00:00",
+      "updatedAt": "2026-08-20T17:50:38+00:00",
       "stories": [
         {
           "title": "US greenlights potential $4.5B sale of four KC-46A refueling aircraft to Qatar",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-20T17:20:19+00:00",
+      "updatedAt": "2026-08-20T17:50:38+00:00",
       "stories": [
         {
           "title": "Anthropic's Claude tackles protein design",
@@ -263,7 +263,13 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
+          "title": "Grok keeps sending gibberish responses to users",
+          "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users",
+          "publishedAt": "2026-08-20T17:32:16+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
           "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds",
           "publishedAt": "2026-08-20T17:18:58+00:00",
           "source": "TechCrunch AI"
@@ -281,40 +287,16 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Early outputs of Muse Video model from Meta (3 minute read)",
-          "url": "https://www.testingcatalog.com/exclusive-early-outputs-of-muse-video-model-from-meta",
-          "publishedAt": "2026-08-20T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+          "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast",
+          "publishedAt": "2026-08-20T16:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Router (Website)",
-          "url": "https://router.com/",
-          "publishedAt": "2026-08-20T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "What's the Right Balance in Regulating AI? (47 minute read)",
-          "url": "https://weightythoughts.com/p/whats-the-right-balance-in-regulating",
-          "publishedAt": "2026-08-20T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Sol loves to cheat (14 minute read)",
-          "url": "https://jumploops.com/blog/sol-loves-to-cheat",
-          "publishedAt": "2026-08-20T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Pushing the Limits of Serving DeepSeek-V4-Pro (28 minute read)",
-          "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-          "publishedAt": "2026-08-20T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Agent Lightning v1.0: Towards Harnessed Agentic RL (1 minute read)",
-          "url": "https://arxiv.org/abs/2608.17528",
-          "publishedAt": "2026-08-20T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Meta AI’s new Mac app wants you to talk to your apps",
+          "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps",
+          "publishedAt": "2026-08-20T12:11:57+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI pauses frontier training over misalignment",
@@ -339,14 +321,38 @@
           "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-17/motion-picture-association-reaches-agreement-with-bytedance-over-ai-guardrails",
           "publishedAt": "2026-08-18T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI, Nvidia’s new 8 GW AI power push",
+          "url": "https://openai.com/index/openai-joins-ports-pike-project",
+          "publishedAt": "2026-08-18T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Doctor solves 22-year math problem with ChatGPT",
+          "url": "https://github.com/jinshanmu/CrouzeixConjecture",
+          "publishedAt": "2026-08-17T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI previews frontier speed boost",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "publishedAt": "2026-08-14T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-20T17:20:19+00:00",
+      "updatedAt": "2026-08-20T17:50:38+00:00",
       "stories": [
+        {
+          "title": "ATDev gives update on its journey building autonomous wheelchairs",
+          "url": "https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs",
+          "publishedAt": "2026-08-20T17:39:25+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Agtonomy releases new autonomous multi-point turning features",
           "url": "https://www.therobotreport.com/agtonomy-releases-new-autonomous-multi-point-turning-features",
@@ -408,12 +414,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Surgeons use da Vinci surgical robot to perform common cardiac surgery",
-          "url": "https://www.therobotreport.com/surgeons-use-da-vinci-surgical-robot-perform-common-cardiac-surgery",
-          "publishedAt": "2026-08-17T20:56:21+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
           "url": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
           "publishedAt": "2026-08-17T15:33:42+00:00",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-20T17:20:19+00:00",
+    "updatedAt": "2026-08-20T17:50:38+00:00",
     "stories": [
       {
         "title": "Anthropic's Claude tackles protein design",
@@ -471,9 +471,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Rocket Lab launches 9th satellite for iQPS",
-        "url": "https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps",
-        "publishedAt": "2026-08-20T16:38:31+00:00",
+        "title": "What’s next for ISR in space",
+        "url": "https://spacenews.com/whats-next-for-isr-in-space",
+        "publishedAt": "2026-08-20T17:21:33+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -498,13 +498,22 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Agtonomy releases new autonomous multi-point turning features",
-        "url": "https://www.therobotreport.com/agtonomy-releases-new-autonomous-multi-point-turning-features",
-        "publishedAt": "2026-08-20T12:30:55+00:00",
+        "title": "ATDev gives update on its journey building autonomous wheelchairs",
+        "url": "https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs",
+        "publishedAt": "2026-08-20T17:39:25+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Rocket Lab launches 9th satellite for iQPS",
+        "url": "https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps",
+        "publishedAt": "2026-08-20T16:38:31+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium",
@@ -518,15 +527,6 @@
       {
         "title": "Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova",
         "url": "https://spacenews.com/portal-space-systems-to-include-rideshare-payloads-on-falcon-9-launch-of-supernova",
-        "publishedAt": "2026-08-20T13:00:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference",
-        "url": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference",
         "publishedAt": "2026-08-20T13:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
@@ -646,6 +646,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-07"
   ]
 }
