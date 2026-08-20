@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-20T16:55:52+00:00",
+  "generatedAt": "2026-08-20T17:00:39+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-20T16:55:52+00:00",
+      "updatedAt": "2026-08-20T17:00:39+00:00",
       "stories": [
         {
           "title": "Rocket Lab launches 9th satellite for iQPS",
@@ -43,6 +43,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "Mars Express orbiter captures detailed new video of the crater where Mark Watney was stranded in 'The Martian'",
+          "url": "https://www.space.com/astronomy/mars/mars-express-orbiter-captures-detailed-new-video-of-the-crater-where-mark-watney-was-stranded-in-the-martian",
+          "publishedAt": "2026-08-20T16:58:45+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "Artemis Mission Patches",
           "url": "https://www.nasa.gov/image-article/artemis-mission-patches",
           "publishedAt": "2026-08-20T15:13:51+00:00",
@@ -73,12 +79,6 @@
           "source": "NASA"
         },
         {
-          "title": "James Webb Space Telescope finds 'hidden stars' making the universe's 1st galaxies much bigger than we knew",
-          "url": "https://www.space.com/astronomy/galaxies/james-webb-space-telescope-finds-hidden-stars-among-the-universes-most-ancient-galaxies",
-          "publishedAt": "2026-08-20T12:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "ESA’s photosynthesis satellite fuelled",
           "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/FLEX/ESA_s_photosynthesis_satellite_fuelled",
           "publishedAt": "2026-08-20T07:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-20T16:55:52+00:00",
+      "updatedAt": "2026-08-20T17:00:39+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-20T16:55:52+00:00",
+      "updatedAt": "2026-08-20T17:00:39+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,8 +151,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-20T16:55:52+00:00",
+      "updatedAt": "2026-08-20T17:00:39+00:00",
       "stories": [
+        {
+          "title": "US announces $4.5B sale of four KC-46A refueling aircraft to Qatar",
+          "url": "https://breakingdefense.com/2026/08/us-announces-4-5b-sale-of-four-kc-46a-refueling-aircraft-to-qatar",
+          "publishedAt": "2026-08-20T16:54:40+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "DoD memo pushes for more contractor pricing info, potential direct software link",
           "url": "https://breakingdefense.com/2026/08/dod-memo-pushes-for-more-contractor-pricing-info-potential-direct-software-link",
@@ -181,12 +187,6 @@
           "title": "Army Cyber training AI agents in cyber ‘work roles’ alongside human counterparts",
           "url": "https://breakingdefense.com/2026/08/army-cyber-training-ai-agents-in-cyber-work-roles-alongside-human-counterparts",
           "publishedAt": "2026-08-20T13:57:40+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "New White House strategy clarifies military tech priorities: undersea, outer space and AI",
-          "url": "https://breakingdefense.com/2026/08/new-white-house-strategy-clarifies-military-tech-priorities-undersea-outer-space-and-ai",
-          "publishedAt": "2026-08-20T11:55:00+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-20T16:55:52+00:00",
+      "updatedAt": "2026-08-20T17:00:39+00:00",
       "stories": [
         {
           "title": "Anthropic's Claude tackles protein design",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-20T16:55:52+00:00",
+      "updatedAt": "2026-08-20T17:00:39+00:00",
       "stories": [
         {
           "title": "Agtonomy releases new autonomous multi-point turning features",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-20T16:55:52+00:00",
+    "updatedAt": "2026-08-20T17:00:39+00:00",
     "stories": [
       {
         "title": "Anthropic's Claude tackles protein design",
@@ -489,9 +489,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "DoD memo pushes for more contractor pricing info, potential direct software link",
-        "url": "https://breakingdefense.com/2026/08/dod-memo-pushes-for-more-contractor-pricing-info-potential-direct-software-link",
-        "publishedAt": "2026-08-20T16:19:50+00:00",
+        "title": "US announces $4.5B sale of four KC-46A refueling aircraft to Qatar",
+        "url": "https://breakingdefense.com/2026/08/us-announces-4-5b-sale-of-four-kc-46a-refueling-aircraft-to-qatar",
+        "publishedAt": "2026-08-20T16:54:40+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
