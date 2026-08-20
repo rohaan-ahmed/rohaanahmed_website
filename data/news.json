@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-20T09:46:23+00:00",
+  "generatedAt": "2026-08-20T10:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-20T09:46:23+00:00",
+      "updatedAt": "2026-08-20T10:00:33+00:00",
       "stories": [
+        {
+          "title": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
+          "url": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation",
+          "publishedAt": "2026-08-20T10:00:00+00:00",
+          "source": "SpaceNews"
+        },
+        {
+          "title": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
+          "url": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission",
+          "publishedAt": "2026-08-20T10:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Hypersonic missile startup Castelion raises $1 billion",
           "url": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion",
@@ -49,18 +61,6 @@
           "source": "NASA"
         },
         {
-          "title": "The space industry’s next challenge: supply chain resilience",
-          "url": "https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience",
-          "publishedAt": "2026-08-19T13:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Vantor names new head of U.S. government business",
-          "url": "https://spacenews.com/vantor-names-new-head-of-u-s-government-business",
-          "publishedAt": "2026-08-19T12:18:15+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Scientists just found the fastest known star in the Milky Way. It zooms around our black hole at 15,500 miles per second",
           "url": "https://www.space.com/astronomy/stars/scientists-just-found-the-fastest-known-star-in-the-milky-way-it-zooms-around-our-black-hole-at-15-500-miles-per-second",
           "publishedAt": "2026-08-19T21:58:54+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-20T09:46:23+00:00",
+      "updatedAt": "2026-08-20T10:00:33+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-20T09:46:23+00:00",
+      "updatedAt": "2026-08-20T10:00:33+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-20T09:46:23+00:00",
+      "updatedAt": "2026-08-20T10:00:33+00:00",
       "stories": [
         {
           "title": "Picking up the PACE: EW battlefield demands updated contingency planning",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-20T09:46:23+00:00",
+      "updatedAt": "2026-08-20T10:00:33+00:00",
       "stories": [
         {
           "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-20T09:46:23+00:00",
+      "updatedAt": "2026-08-20T10:00:33+00:00",
       "stories": [
         {
           "title": "Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-20T09:46:23+00:00",
+    "updatedAt": "2026-08-20T10:00:33+00:00",
     "stories": [
       {
         "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
@@ -471,9 +471,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Hypersonic missile startup Castelion raises $1 billion",
-        "url": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion",
-        "publishedAt": "2026-08-19T23:12:41+00:00",
+        "title": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
+        "url": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation",
+        "publishedAt": "2026-08-20T10:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -507,27 +507,27 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Eartheye Space forges strategic partnership with IN2",
-        "url": "https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2",
-        "publishedAt": "2026-08-19T23:07:16+00:00",
+        "title": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
+        "url": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission",
+        "publishedAt": "2026-08-20T10:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "ESA’s photosynthesis satellite fuelled",
-        "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/FLEX/ESA_s_photosynthesis_satellite_fuelled",
-        "publishedAt": "2026-08-20T07:00:00+00:00",
-        "source": "European Space Agency",
+        "title": "Hypersonic missile startup Castelion raises $1 billion",
+        "url": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion",
+        "publishedAt": "2026-08-19T23:12:41+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Katalyst Space and NASA abandon plans for Swift reboost",
-        "url": "https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost",
-        "publishedAt": "2026-08-19T19:23:06+00:00",
+        "title": "Eartheye Space forges strategic partnership with IN2",
+        "url": "https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2",
+        "publishedAt": "2026-08-19T23:07:16+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
