@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-20T15:52:41+00:00",
+  "generatedAt": "2026-08-20T16:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-20T15:52:41+00:00",
+      "updatedAt": "2026-08-20T16:00:27+00:00",
       "stories": [
         {
           "title": "Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-20T15:52:41+00:00",
+      "updatedAt": "2026-08-20T16:00:27+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-20T15:52:41+00:00",
+      "updatedAt": "2026-08-20T16:00:27+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,8 +151,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-20T15:52:41+00:00",
+      "updatedAt": "2026-08-20T16:00:27+00:00",
       "stories": [
+        {
+          "title": "Turkish Aerospace plans naval version of Hurjet as it eyes expanded NATO exports",
+          "url": "https://breakingdefense.com/2026/08/turkish-aerospace-plans-naval-version-of-hurjet-as-it-eyes-expanded-nato-exports",
+          "publishedAt": "2026-08-20T15:55:13+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Estonian lawmaker calls US questionnaire to NATO ‘unnecessary stress test’",
           "url": "https://breakingdefense.com/2026/08/estonian-lawmaker-calls-us-questionnaire-to-nato-unnecessary-stress-test",
@@ -188,12 +194,6 @@
           "url": "https://defensescoop.com/2026/08/19/army-cyber-chief-reveals-ai-task-force-building-agents-to-hunt-in-the-dod-networks",
           "publishedAt": "2026-08-20T00:26:13+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Striveworks to build AI layer for NGC2 at corps level, Army says",
-          "url": "https://breakingdefense.com/2026/08/striveworks-to-build-ai-layer-for-ngc2-at-corps-level-army-says",
-          "publishedAt": "2026-08-19T20:00:00+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Data-backed review exposes urgent friction points threatening U.S. defense research enterprise",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-20T15:52:41+00:00",
+      "updatedAt": "2026-08-20T16:00:27+00:00",
       "stories": [
         {
           "title": "Anthropic's Claude tackles protein design",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-20T15:52:41+00:00",
+      "updatedAt": "2026-08-20T16:00:27+00:00",
       "stories": [
         {
           "title": "Agtonomy releases new autonomous multi-point turning features",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-20T15:52:41+00:00",
+    "updatedAt": "2026-08-20T16:00:27+00:00",
     "stories": [
       {
         "title": "Anthropic's Claude tackles protein design",
@@ -489,9 +489,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Estonian lawmaker calls US questionnaire to NATO ‘unnecessary stress test’",
-        "url": "https://breakingdefense.com/2026/08/estonian-lawmaker-calls-us-questionnaire-to-nato-unnecessary-stress-test",
-        "publishedAt": "2026-08-20T14:24:00+00:00",
+        "title": "Turkish Aerospace plans naval version of Hurjet as it eyes expanded NATO exports",
+        "url": "https://breakingdefense.com/2026/08/turkish-aerospace-plans-naval-version-of-hurjet-as-it-eyes-expanded-nato-exports",
+        "publishedAt": "2026-08-20T15:55:13+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -647,6 +647,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-11"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-10"
   ]
 }
