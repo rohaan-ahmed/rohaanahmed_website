@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-20T11:00:25+00:00",
+  "generatedAt": "2026-08-20T11:13:19+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-20T11:00:25+00:00",
+      "updatedAt": "2026-08-20T11:13:19+00:00",
       "stories": [
+        {
+          "title": "Muon Space raises $250 million to ramp up satellite production",
+          "url": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production",
+          "publishedAt": "2026-08-20T11:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
           "url": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation",
@@ -55,12 +61,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions",
-          "url": "https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions",
-          "publishedAt": "2026-08-19T15:11:52+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Watch Rocket Lab launch a private Japanese Earth-observing satellite to orbit today",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launch-private-japanese-earth-observing-sar-satellite-lightning-god-defends",
           "publishedAt": "2026-08-20T04:05:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-20T11:00:25+00:00",
+      "updatedAt": "2026-08-20T11:13:19+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-20T11:00:25+00:00",
+      "updatedAt": "2026-08-20T11:13:19+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-20T11:00:25+00:00",
+      "updatedAt": "2026-08-20T11:13:19+00:00",
       "stories": [
         {
           "title": "Picking up the PACE: EW battlefield demands updated contingency planning",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-20T11:00:25+00:00",
+      "updatedAt": "2026-08-20T11:13:19+00:00",
       "stories": [
         {
           "title": "Anthropic's Claude tackles protein design",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-20T11:00:25+00:00",
+      "updatedAt": "2026-08-20T11:13:19+00:00",
       "stories": [
         {
           "title": "Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-20T11:00:25+00:00",
+    "updatedAt": "2026-08-20T11:13:19+00:00",
     "stories": [
       {
         "title": "Anthropic's Claude tackles protein design",
@@ -471,9 +471,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
-        "url": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation",
-        "publishedAt": "2026-08-20T10:00:00+00:00",
+        "title": "Muon Space raises $250 million to ramp up satellite production",
+        "url": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production",
+        "publishedAt": "2026-08-20T11:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -507,6 +507,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
+        "url": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation",
+        "publishedAt": "2026-08-20T10:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
         "url": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission",
         "publishedAt": "2026-08-20T10:00:00+00:00",
@@ -519,15 +528,6 @@
         "title": "Hypersonic missile startup Castelion raises $1 billion",
         "url": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion",
         "publishedAt": "2026-08-19T23:12:41+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Eartheye Space forges strategic partnership with IN2",
-        "url": "https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2",
-        "publishedAt": "2026-08-19T23:07:16+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -647,6 +647,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-23"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-31"
   ]
 }
