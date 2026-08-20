@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-20T12:16:46+00:00",
+  "generatedAt": "2026-08-20T13:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-20T12:16:46+00:00",
+      "updatedAt": "2026-08-20T13:00:28+00:00",
       "stories": [
+        {
+          "title": "China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch",
+          "url": "https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch",
+          "publishedAt": "2026-08-20T12:48:21+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Muon Space raises $250 million to ramp up satellite production",
           "url": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production",
@@ -61,12 +67,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Katalyst Space and NASA abandon plans for Swift reboost",
-          "url": "https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost",
-          "publishedAt": "2026-08-19T19:23:06+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
           "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus",
           "publishedAt": "2026-08-20T04:05:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-20T12:16:46+00:00",
+      "updatedAt": "2026-08-20T13:00:28+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-20T12:16:46+00:00",
+      "updatedAt": "2026-08-20T13:00:28+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,13 +151,19 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-20T12:16:46+00:00",
+      "updatedAt": "2026-08-20T13:00:28+00:00",
       "stories": [
         {
           "title": "New White House strategy clarifies military tech priorities: undersea, outer space and AI",
           "url": "https://breakingdefense.com/2026/08/new-white-house-strategy-clarifies-military-tech-priorities-undersea-outer-space-and-ai",
           "publishedAt": "2026-08-20T11:55:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Switzerland seeks additional $1.2 billion for air defense in 2026 budget",
+          "url": "https://www.defensenews.com/global/europe/2026/08/20/switzerland-seeks-additional-12-billion-for-air-defense-in-2026-budget",
+          "publishedAt": "2026-08-20T12:20:03+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Picking up the PACE: EW battlefield demands updated contingency planning",
@@ -236,19 +242,13 @@
           "url": "https://www.defensenews.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs",
           "publishedAt": "2026-08-18T16:01:40+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "US Army requests 133,000 GMLRS rockets by 2034",
-          "url": "https://www.defensenews.com/news/your-military/2026/08/18/us-army-requests-133000-gmlrs-rockets-by-2034",
-          "publishedAt": "2026-08-18T13:06:13+00:00",
-          "source": "Defense News"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-20T12:16:46+00:00",
+      "updatedAt": "2026-08-20T13:00:28+00:00",
       "stories": [
         {
           "title": "Anthropic's Claude tackles protein design",
@@ -345,8 +345,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-20T12:16:46+00:00",
+      "updatedAt": "2026-08-20T13:00:28+00:00",
       "stories": [
+        {
+          "title": "Agtonomy releases new autonomous multi-point turning features",
+          "url": "https://www.therobotreport.com/agtonomy-releases-new-autonomous-multi-point-turning-features",
+          "publishedAt": "2026-08-20T12:30:55+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness",
           "url": "https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness",
@@ -408,12 +414,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "How Generalist uses human demonstration data for robot learning",
-          "url": "https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning",
-          "publishedAt": "2026-08-17T19:32:31+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
           "url": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
           "publishedAt": "2026-08-17T15:33:42+00:00",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-20T12:16:46+00:00",
+    "updatedAt": "2026-08-20T13:00:28+00:00",
     "stories": [
       {
         "title": "Anthropic's Claude tackles protein design",
@@ -471,9 +471,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Muon Space raises $250 million to ramp up satellite production",
-        "url": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production",
-        "publishedAt": "2026-08-20T11:00:00+00:00",
+        "title": "China’s Chang’e-7 lunar ice-hunting mission set for Sunday launch",
+        "url": "https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch",
+        "publishedAt": "2026-08-20T12:48:21+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -498,13 +498,22 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness",
-        "url": "https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness",
-        "publishedAt": "2026-08-19T20:15:47+00:00",
+        "title": "Agtonomy releases new autonomous multi-point turning features",
+        "url": "https://www.therobotreport.com/agtonomy-releases-new-autonomous-multi-point-turning-features",
+        "publishedAt": "2026-08-20T12:30:55+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Muon Space raises $250 million to ramp up satellite production",
+        "url": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production",
+        "publishedAt": "2026-08-20T11:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
@@ -519,15 +528,6 @@
         "title": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
         "url": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission",
         "publishedAt": "2026-08-20T10:00:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Hypersonic missile startup Castelion raises $1 billion",
-        "url": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion",
-        "publishedAt": "2026-08-19T23:12:41+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -647,6 +647,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-10"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-06"
   ]
 }
