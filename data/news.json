@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-08-21T13:00:32+00:00",
+  "generatedAt": "2026-08-21T13:16:08+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-21T13:00:32+00:00",
+      "updatedAt": "2026-08-21T13:16:08+00:00",
       "stories": [
+        {
+          "title": "The COSMOSIS framework can ensure that Washington governs space with its complexity in mind.",
+          "url": "https://spacenews.com/the-cosmosis-framework-can-ensure-that-washington-governs-space-with-its-complexity-in-mind",
+          "publishedAt": "2026-08-21T13:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Landspace aims to refly recovered Zhuque-3 booster within six months",
           "url": "https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months",
           "publishedAt": "2026-08-21T08:54:11+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Week in images: 17-21 August 2026",
+          "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_August_2026",
+          "publishedAt": "2026-08-21T13:10:00+00:00",
+          "source": "European Space Agency"
         },
         {
           "title": "New space transportation policy focuses on increased launch rates",
@@ -55,12 +67,6 @@
           "source": "Space.com"
         },
         {
-          "title": "What’s next for ISR in space",
-          "url": "https://spacenews.com/whats-next-for-isr-in-space",
-          "publishedAt": "2026-08-20T17:21:33+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Europe’s Scorching Summer",
           "url": "https://science.nasa.gov/earth/europes-scorching-summer",
           "publishedAt": "2026-08-21T04:01:00+00:00",
@@ -89,19 +95,13 @@
           "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/FLEX/ESA_s_photosynthesis_satellite_fuelled",
           "publishedAt": "2026-08-20T07:00:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Replay: MTG-I2 pre-launch media briefing",
-          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Replay_MTG-I2_pre-launch_media_briefing",
-          "publishedAt": "2026-08-19T15:00:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-21T13:00:32+00:00",
+      "updatedAt": "2026-08-21T13:16:08+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-21T13:00:32+00:00",
+      "updatedAt": "2026-08-21T13:16:08+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-21T13:00:32+00:00",
+      "updatedAt": "2026-08-21T13:16:08+00:00",
       "stories": [
         {
           "title": "‘Hot competition’: NSA deputy sounds alarm on China threat, AI race",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-21T13:00:32+00:00",
+      "updatedAt": "2026-08-21T13:16:08+00:00",
       "stories": [
         {
           "title": "Slack turns coding into a group project",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-21T13:00:32+00:00",
+      "updatedAt": "2026-08-21T13:16:08+00:00",
       "stories": [
         {
           "title": "Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-21T13:00:32+00:00",
+    "updatedAt": "2026-08-21T13:16:08+00:00",
     "stories": [
       {
         "title": "Slack turns coding into a group project",
@@ -471,9 +471,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Landspace aims to refly recovered Zhuque-3 booster within six months",
-        "url": "https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months",
-        "publishedAt": "2026-08-21T08:54:11+00:00",
+        "title": "The COSMOSIS framework can ensure that Washington governs space with its complexity in mind.",
+        "url": "https://spacenews.com/the-cosmosis-framework-can-ensure-that-washington-governs-space-with-its-complexity-in-mind",
+        "publishedAt": "2026-08-21T13:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -507,6 +507,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Landspace aims to refly recovered Zhuque-3 booster within six months",
+        "url": "https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months",
+        "publishedAt": "2026-08-21T08:54:11+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "AI finds hidden breast cancer patterns",
         "url": "https://research.uhs.nhs.uk/news/ai-reveals-hidden-patterns-inside-breast-cancer",
         "publishedAt": "2026-08-21T10:00:00+00:00",
@@ -516,21 +525,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "How the Army balances Patriot priorities and approaches Golden Dome",
-        "url": "https://breakingdefense.com/2026/08/how-the-army-balances-patriot-priorities-and-approaches-golden-dome",
-        "publishedAt": "2026-08-21T12:00:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "India seeks role in France’s sixth-generation fighter program",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/08/21/india-seeks-role-in-frances-sixth-generation-fighter-program",
-        "publishedAt": "2026-08-21T12:52:08+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Week in images: 17-21 August 2026",
+        "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_August_2026",
+        "publishedAt": "2026-08-21T13:10:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
