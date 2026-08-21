@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T18:00:26+00:00",
+  "generatedAt": "2026-08-21T18:51:08+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-21T18:00:26+00:00",
+      "updatedAt": "2026-08-21T18:51:08+00:00",
       "stories": [
         {
           "title": "The COSMOSIS framework can ensure that Washington governs space with its complexity in mind.",
@@ -17,6 +17,12 @@
           "url": "https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months",
           "publishedAt": "2026-08-21T08:54:11+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Japan unveils Mars moon sample-return spacecraft ahead of Oct. 19 launch (photos)",
+          "url": "https://www.space.com/astronomy/mars/japan-unveils-mars-moon-sample-return-spacecraft-ahead-of-oct-19-launch-photos",
+          "publishedAt": "2026-08-21T18:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
@@ -52,12 +58,6 @@
           "title": "'Dark stars' could be the seeds of supermassive black holes, scientists say",
           "url": "https://www.space.com/astronomy/black-holes/dark-stars-could-be-the-seeds-of-supermassive-black-holes-scientists-say",
           "publishedAt": "2026-08-21T15:37:33+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "SpaceX launches 29 Starlink satellites, lands rocket on ship at sea (video, photos)",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-group-10-39-falcon-9-asog",
-          "publishedAt": "2026-08-21T15:28:24+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-21T18:00:26+00:00",
+      "updatedAt": "2026-08-21T18:51:08+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-21T18:00:26+00:00",
+      "updatedAt": "2026-08-21T18:51:08+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -145,8 +145,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-21T18:00:26+00:00",
+      "updatedAt": "2026-08-21T18:51:08+00:00",
       "stories": [
+        {
+          "title": "Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops",
+          "url": "https://breakingdefense.com/2026/08/space-war-2040-spacecom-preps-for-attacks-on-ground-segments-eyes-cislunar-ops",
+          "publishedAt": "2026-08-21T18:31:13+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Taiwan proposes record $35 billion defense budget",
           "url": "https://breakingdefense.com/2026/08/taiwan-proposes-record-35-billion-defense-budget",
@@ -202,12 +208,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Army network needs digital twin for training, testing, cybersecurity: NETCOM chief",
-          "url": "https://breakingdefense.com/2026/08/army-network-needs-digital-twin-for-training-testing-cybersecurity-netcom-chief",
-          "publishedAt": "2026-08-20T19:55:53+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "US Navy leads multinational effort for next-gen SeaSparrow missile",
           "url": "https://www.defensenews.com/air-warfare/2026/08/20/us-navy-leads-multinational-effort-for-next-gen-seasparrow-missile",
           "publishedAt": "2026-08-20T20:23:22+00:00",
@@ -242,7 +242,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-21T18:00:26+00:00",
+      "updatedAt": "2026-08-21T18:51:08+00:00",
       "stories": [
         {
           "title": "Slack turns coding into a group project",
@@ -263,14 +263,14 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-          "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
+          "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+          "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
           "publishedAt": "2026-08-21T14:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-          "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
+          "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+          "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
           "publishedAt": "2026-08-21T14:00:00+00:00",
           "source": "TechCrunch AI"
         },
@@ -339,7 +339,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-21T18:00:26+00:00",
+      "updatedAt": "2026-08-21T18:51:08+00:00",
       "stories": [
         {
           "title": "Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026",
@@ -435,7 +435,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-21T18:00:26+00:00",
+    "updatedAt": "2026-08-21T18:51:08+00:00",
     "stories": [
       {
         "title": "Slack turns coding into a group project",
@@ -483,9 +483,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Taiwan proposes record $35 billion defense budget",
-        "url": "https://breakingdefense.com/2026/08/taiwan-proposes-record-35-billion-defense-budget",
-        "publishedAt": "2026-08-21T17:06:33+00:00",
+        "title": "Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops",
+        "url": "https://breakingdefense.com/2026/08/space-war-2040-spacecom-preps-for-attacks-on-ground-segments-eyes-cislunar-ops",
+        "publishedAt": "2026-08-21T18:31:13+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -519,9 +519,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Army cyber defenses need ‘dedicated funding’ for AI, top official says",
-        "url": "https://breakingdefense.com/2026/08/army-cyber-defenses-need-dedicated-funding-for-ai-top-official-says",
-        "publishedAt": "2026-08-21T15:10:10+00:00",
+        "title": "Taiwan proposes record $35 billion defense budget",
+        "url": "https://breakingdefense.com/2026/08/taiwan-proposes-record-35-billion-defense-budget",
+        "publishedAt": "2026-08-21T17:06:33+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -641,6 +641,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-03"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-30"
   ]
 }
