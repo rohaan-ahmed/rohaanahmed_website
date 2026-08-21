@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T15:00:29+00:00",
+  "generatedAt": "2026-08-21T15:17:52+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-21T15:00:29+00:00",
+      "updatedAt": "2026-08-21T15:17:52+00:00",
       "stories": [
         {
           "title": "The COSMOSIS framework can ensure that Washington governs space with its complexity in mind.",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-21T15:00:29+00:00",
+      "updatedAt": "2026-08-21T15:17:52+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-21T15:00:29+00:00",
+      "updatedAt": "2026-08-21T15:17:52+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -145,8 +145,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-21T15:00:29+00:00",
+      "updatedAt": "2026-08-21T15:17:52+00:00",
       "stories": [
+        {
+          "title": "Army cyber defenses need ‘dedicated funding’ for AI, top official says",
+          "url": "https://breakingdefense.com/2026/08/army-cyber-defenses-need-dedicated-funding-for-ai-top-official-says",
+          "publishedAt": "2026-08-21T15:10:10+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "‘Hot competition’: NSA deputy sounds alarm on China threat, AI race",
           "url": "https://breakingdefense.com/2026/08/hot-competition-nsa-deputy-sounds-alarm-on-china-threat-ai-race",
@@ -202,12 +208,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "No new starts, no problem: Army’s plan to get new EW capability in the hands of soldiers",
-          "url": "https://breakingdefense.com/2026/08/no-new-starts-no-problem-armys-plan-to-get-new-ew-capability-in-the-hands-of-soldiers",
-          "publishedAt": "2026-08-20T18:14:53+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "DIU tries to transition tech to the frontlines faster with launch of new Bridge Program",
           "url": "https://defensescoop.com/2026/08/20/diu-bridge-program-transition-commercial-technology-to-military",
           "publishedAt": "2026-08-20T20:38:03+00:00",
@@ -242,7 +242,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-21T15:00:29+00:00",
+      "updatedAt": "2026-08-21T15:17:52+00:00",
       "stories": [
         {
           "title": "Slack turns coding into a group project",
@@ -339,7 +339,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-21T15:00:29+00:00",
+      "updatedAt": "2026-08-21T15:17:52+00:00",
       "stories": [
         {
           "title": "Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026",
@@ -435,7 +435,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-21T15:00:29+00:00",
+    "updatedAt": "2026-08-21T15:17:52+00:00",
     "stories": [
       {
         "title": "Slack turns coding into a group project",
@@ -483,9 +483,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "‘Hot competition’: NSA deputy sounds alarm on China threat, AI race",
-        "url": "https://breakingdefense.com/2026/08/hot-competition-nsa-deputy-sounds-alarm-on-china-threat-ai-race",
-        "publishedAt": "2026-08-21T12:58:20+00:00",
+        "title": "Army cyber defenses need ‘dedicated funding’ for AI, top official says",
+        "url": "https://breakingdefense.com/2026/08/army-cyber-defenses-need-dedicated-funding-for-ai-top-official-says",
+        "publishedAt": "2026-08-21T15:10:10+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
