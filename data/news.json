@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T00:00:29+00:00",
+  "generatedAt": "2026-08-21T00:34:03+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-21T00:00:29+00:00",
+      "updatedAt": "2026-08-21T00:34:03+00:00",
       "stories": [
         {
           "title": "New space transportation policy focuses on increased launch rates",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-21T00:00:29+00:00",
+      "updatedAt": "2026-08-21T00:34:03+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-21T00:00:29+00:00",
+      "updatedAt": "2026-08-21T00:34:03+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-21T00:00:29+00:00",
+      "updatedAt": "2026-08-21T00:34:03+00:00",
       "stories": [
         {
           "title": "The US Navy has battled operational tempo ordeals for years. The Iran war exposed the flaws.",
@@ -248,8 +248,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-21T00:00:29+00:00",
+      "updatedAt": "2026-08-21T00:34:03+00:00",
       "stories": [
+        {
+          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom",
+          "publishedAt": "2026-08-21T00:13:44+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
           "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
@@ -273,12 +279,6 @@
           "url": "https://replit.com/blog/replit-introduces-free-mode",
           "publishedAt": "2026-08-20T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OK, can we actually cool data centers with our pee?",
-          "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee",
-          "publishedAt": "2026-08-20T20:53:13+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "Early outputs of Muse Video model from Meta (3 minute read)",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-21T00:00:29+00:00",
+      "updatedAt": "2026-08-21T00:34:03+00:00",
       "stories": [
         {
           "title": "Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026",
@@ -441,21 +441,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-21T00:00:29+00:00",
+    "updatedAt": "2026-08-21T00:34:03+00:00",
     "stories": [
       {
-        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-        "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
-        "publishedAt": "2026-08-20T22:36:37+00:00",
+        "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+        "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom",
+        "publishedAt": "2026-08-21T00:13:44+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-        "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin",
-        "publishedAt": "2026-08-20T22:09:51+00:00",
+        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+        "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates",
+        "publishedAt": "2026-08-20T22:36:37+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
