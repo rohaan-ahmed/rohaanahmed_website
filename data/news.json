@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T12:00:27+00:00",
+  "generatedAt": "2026-08-21T12:16:18+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-21T12:00:27+00:00",
+      "updatedAt": "2026-08-21T12:16:18+00:00",
       "stories": [
         {
           "title": "Landspace aims to refly recovered Zhuque-3 booster within six months",
@@ -29,6 +29,12 @@
           "url": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight",
           "publishedAt": "2026-08-20T22:51:53+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "My favorite thing in the night sky appears on Aug. 28 — and it proves Earth is a sphere",
+          "url": "https://www.space.com/stargazing/my-favorite-thing-in-the-night-sky-appears-on-aug-28-and-it-proves-earth-is-a-sphere",
+          "publishedAt": "2026-08-21T12:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "SpaceWERX selects 11 firms to scale technologies for military space",
@@ -67,12 +73,6 @@
           "source": "Space.com"
         },
         {
-          "title": "SpaceX will try for 1st Starship tower catch 'in a few months,' Elon Musk says",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-try-for-1st-starship-tower-catch-in-a-few-months-elon-musk-says",
-          "publishedAt": "2026-08-20T20:30:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "SmallSat 2026",
           "url": "https://science.nasa.gov/earth/smallsat-2026",
           "publishedAt": "2026-08-20T20:05:41+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-21T12:00:27+00:00",
+      "updatedAt": "2026-08-21T12:16:18+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-21T12:00:27+00:00",
+      "updatedAt": "2026-08-21T12:16:18+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,8 +151,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-21T12:00:27+00:00",
+      "updatedAt": "2026-08-21T12:16:18+00:00",
       "stories": [
+        {
+          "title": "How the Army balances Patriot priorities and approaches Golden Dome",
+          "url": "https://breakingdefense.com/2026/08/how-the-army-balances-patriot-priorities-and-approaches-golden-dome",
+          "publishedAt": "2026-08-21T12:00:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "US Army to end experimental drone battalion in Europe",
           "url": "https://www.defensenews.com/news/your-military/2026/08/21/us-army-to-end-experimental-drone-battalion-in-europe",
@@ -214,12 +220,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "DoD memo pushes for more contractor pricing info, potential direct software link",
-          "url": "https://breakingdefense.com/2026/08/dod-memo-pushes-for-more-contractor-pricing-info-potential-direct-software-link",
-          "publishedAt": "2026-08-20T16:19:50+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Pausing CMMC cannot mean pausing accountability",
           "url": "https://defensescoop.com/2026/08/20/pausing-cmmc-cannot-mean-pausing-accountability",
           "publishedAt": "2026-08-20T18:50:34+00:00",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-21T12:00:27+00:00",
+      "updatedAt": "2026-08-21T12:16:18+00:00",
       "stories": [
         {
           "title": "Slack turns coding into a group project",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-21T12:00:27+00:00",
+      "updatedAt": "2026-08-21T12:16:18+00:00",
       "stories": [
         {
           "title": "Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-21T12:00:27+00:00",
+    "updatedAt": "2026-08-21T12:16:18+00:00",
     "stories": [
       {
         "title": "Slack turns coding into a group project",
@@ -489,10 +489,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "US Army to end experimental drone battalion in Europe",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/21/us-army-to-end-experimental-drone-battalion-in-europe",
-        "publishedAt": "2026-08-21T08:14:42+00:00",
-        "source": "Defense News",
+        "title": "How the Army balances Patriot priorities and approaches Golden Dome",
+        "url": "https://breakingdefense.com/2026/08/how-the-army-balances-patriot-priorities-and-approaches-golden-dome",
+        "publishedAt": "2026-08-21T12:00:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -647,6 +647,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-07"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-10"
   ]
 }
