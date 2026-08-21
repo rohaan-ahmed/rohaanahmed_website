@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T23:00:32+00:00",
+  "generatedAt": "2026-08-21T23:13:54+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-21T23:00:32+00:00",
+      "updatedAt": "2026-08-21T23:13:54+00:00",
       "stories": [
         {
           "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-21T23:00:32+00:00",
+      "updatedAt": "2026-08-21T23:13:54+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-21T23:00:32+00:00",
+      "updatedAt": "2026-08-21T23:13:54+00:00",
       "stories": [
         {
           "title": "Canada marks the start of major infrastructure upgrades at 5th Canadian Division Support Base Gagetown",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-21T23:00:32+00:00",
+      "updatedAt": "2026-08-21T23:13:54+00:00",
       "stories": [
         {
           "title": "Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops",
@@ -248,8 +248,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-21T23:00:32+00:00",
+      "updatedAt": "2026-08-21T23:13:54+00:00",
       "stories": [
+        {
+          "title": "Anthropic’s Opus 4.6 is a smut-machine",
+          "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine",
+          "publishedAt": "2026-08-21T23:07:25+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Nvidia partners with data center developer Cloverleaf",
           "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf",
@@ -281,46 +287,22 @@
           "source": "TechCrunch AI"
         },
         {
+          "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+          "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
+          "publishedAt": "2026-08-21T14:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
           "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
           "publishedAt": "2026-08-21T14:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "Anthropic's Project Parka sits through meetings and assigns Claude agents the homework (11 minute read)",
-          "url": "https://runtimewire.com/article/anthropic-s-project-parka-sits-through-meetings-and-assigns-claude-agents-the-ho",
-          "publishedAt": "2026-08-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Slack Code: Where Your Team and Agents Build Together (8 minute read)",
-          "url": "https://slack.com/blog/news/slack-code-channels-for-agents",
-          "publishedAt": "2026-08-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "ChatGPT update adds Apple Messages integration on Mac (4 minute read)",
-          "url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac",
-          "publishedAt": "2026-08-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Mistral replaces one-shot document retrieval with a navigable search loop (9 minute read)",
-          "url": "https://mistral.ai/news/agentic-search",
-          "publishedAt": "2026-08-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "PagedAttention: Virtual Memory for the KV Cache (15 minute read)",
-          "url": "https://thegustafson.com/blog/paged-attention",
-          "publishedAt": "2026-08-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Harvey post-trains Kimi K3 for long-horizon legal work (10 minute read)",
-          "url": "https://www.harvey.ai/blog/post-training-update-harvey-tenet",
-          "publishedAt": "2026-08-21T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom",
+          "publishedAt": "2026-08-21T00:13:44+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Anthropic's Claude tackles protein design",
@@ -339,13 +321,31 @@
           "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
           "publishedAt": "2026-08-19T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI moves teens to their own ChatGPT",
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "publishedAt": "2026-08-19T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Cursor's Origin hits GitHub on its worst day",
+          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "publishedAt": "2026-08-18T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "ByteDance cuts Hollywood's first AI video deal",
+          "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-17/motion-picture-association-reaches-agreement-with-bytedance-over-ai-guardrails",
+          "publishedAt": "2026-08-18T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-21T23:00:32+00:00",
+      "updatedAt": "2026-08-21T23:13:54+00:00",
       "stories": [
         {
           "title": "Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch",
@@ -441,22 +441,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-21T23:00:32+00:00",
+    "updatedAt": "2026-08-21T23:13:54+00:00",
     "stories": [
       {
-        "title": "Nvidia partners with data center developer Cloverleaf",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf",
-        "publishedAt": "2026-08-21T22:37:38+00:00",
+        "title": "Anthropic’s Opus 4.6 is a smut-machine",
+        "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine",
+        "publishedAt": "2026-08-21T23:07:25+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Slack turns coding into a group project",
-        "url": "https://www.salesforce.com/introducing-slack-code",
-        "publishedAt": "2026-08-21T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Nvidia partners with data center developer Cloverleaf",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf",
+        "publishedAt": "2026-08-21T22:37:38+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -525,8 +525,8 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "How to stand out to an AI-first startup",
-        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494056747377225729",
+        "title": "Slack turns coding into a group project",
+        "url": "https://www.salesforce.com/introducing-slack-code",
         "publishedAt": "2026-08-21T10:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
@@ -646,6 +646,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-05"
   ]
 }
