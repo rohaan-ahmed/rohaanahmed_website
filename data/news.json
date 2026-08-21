@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T19:15:53+00:00",
+  "generatedAt": "2026-08-21T19:42:36+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-21T19:15:53+00:00",
+      "updatedAt": "2026-08-21T19:42:36+00:00",
       "stories": [
         {
           "title": "The COSMOSIS framework can ensure that Washington governs space with its complexity in mind.",
@@ -19,10 +19,22 @@
           "source": "SpaceNews"
         },
         {
+          "title": "Trump to award NASA's Artemis II astronauts the Congressional Space Medal of Honor",
+          "url": "https://www.space.com/space-exploration/artemis/trump-to-award-nasas-artemis-ii-astronauts-the-congressional-space-medal-of-honor",
+          "publishedAt": "2026-08-21T19:30:51+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "Japan unveils Mars moon sample-return spacecraft ahead of Oct. 19 launch (photos)",
           "url": "https://www.space.com/astronomy/mars/japan-unveils-mars-moon-sample-return-spacecraft-ahead-of-oct-19-launch-photos",
           "publishedAt": "2026-08-21T18:00:00+00:00",
           "source": "Space.com"
+        },
+        {
+          "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
+          "url": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space",
+          "publishedAt": "2026-08-21T18:43:40+00:00",
+          "source": "NASA"
         },
         {
           "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
@@ -37,12 +49,6 @@
           "source": "NASA"
         },
         {
-          "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
-          "url": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor",
-          "publishedAt": "2026-08-21T17:06:36+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "SpaceX fires up Starship ahead of megarocket’s 1st orbital flight (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-ahead-of-megarockets-1st-orbital-flight-video",
           "publishedAt": "2026-08-21T16:00:00+00:00",
@@ -53,12 +59,6 @@
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_August_2026",
           "publishedAt": "2026-08-21T13:10:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "'Dark stars' could be the seeds of supermassive black holes, scientists say",
-          "url": "https://www.space.com/astronomy/black-holes/dark-stars-could-be-the-seeds-of-supermassive-black-holes-scientists-say",
-          "publishedAt": "2026-08-21T15:37:33+00:00",
-          "source": "Space.com"
         },
         {
           "title": "New space transportation policy focuses on increased launch rates",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-21T19:15:53+00:00",
+      "updatedAt": "2026-08-21T19:42:36+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-21T19:15:53+00:00",
+      "updatedAt": "2026-08-21T19:42:36+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -145,7 +145,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-21T19:15:53+00:00",
+      "updatedAt": "2026-08-21T19:42:36+00:00",
       "stories": [
         {
           "title": "Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops",
@@ -242,7 +242,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-21T19:15:53+00:00",
+      "updatedAt": "2026-08-21T19:42:36+00:00",
       "stories": [
         {
           "title": "Slack turns coding into a group project",
@@ -263,14 +263,14 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-          "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
+          "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+          "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
           "publishedAt": "2026-08-21T14:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-          "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
+          "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+          "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
           "publishedAt": "2026-08-21T14:00:00+00:00",
           "source": "TechCrunch AI"
         },
@@ -339,7 +339,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-21T19:15:53+00:00",
+      "updatedAt": "2026-08-21T19:42:36+00:00",
       "stories": [
         {
           "title": "Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026",
@@ -435,7 +435,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-21T19:15:53+00:00",
+    "updatedAt": "2026-08-21T19:42:36+00:00",
     "stories": [
       {
         "title": "Slack turns coding into a group project",
