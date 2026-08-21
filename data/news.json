@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-21T08:53:25+00:00",
+  "generatedAt": "2026-08-21T09:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-21T08:53:25+00:00",
+      "updatedAt": "2026-08-21T09:00:29+00:00",
       "stories": [
+        {
+          "title": "Landspace aims to refly recovered Zhuque-3 booster within six months",
+          "url": "https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months",
+          "publishedAt": "2026-08-21T08:54:11+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "New space transportation policy focuses on increased launch rates",
           "url": "https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates",
@@ -34,12 +40,6 @@
           "title": "What’s next for ISR in space",
           "url": "https://spacenews.com/whats-next-for-isr-in-space",
           "publishedAt": "2026-08-20T17:21:33+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Rocket Lab launches 9th satellite for iQPS",
-          "url": "https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps",
-          "publishedAt": "2026-08-20T16:38:31+00:00",
           "source": "SpaceNews"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-21T08:53:25+00:00",
+      "updatedAt": "2026-08-21T09:00:29+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-21T08:53:25+00:00",
+      "updatedAt": "2026-08-21T09:00:29+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-21T08:53:25+00:00",
+      "updatedAt": "2026-08-21T09:00:29+00:00",
       "stories": [
         {
           "title": "US Army to end experimental drone battalion in Europe",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-21T08:53:25+00:00",
+      "updatedAt": "2026-08-21T09:00:29+00:00",
       "stories": [
         {
           "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-21T08:53:25+00:00",
+      "updatedAt": "2026-08-21T09:00:29+00:00",
       "stories": [
         {
           "title": "Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-21T08:53:25+00:00",
+    "updatedAt": "2026-08-21T09:00:29+00:00",
     "stories": [
       {
         "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
@@ -471,9 +471,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "New space transportation policy focuses on increased launch rates",
-        "url": "https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates",
-        "publishedAt": "2026-08-20T23:30:13+00:00",
+        "title": "Landspace aims to refly recovered Zhuque-3 booster within six months",
+        "url": "https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months",
+        "publishedAt": "2026-08-21T08:54:11+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -507,6 +507,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "New space transportation policy focuses on increased launch rates",
+        "url": "https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates",
+        "publishedAt": "2026-08-20T23:30:13+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Golden Dome chief touts progress as funding questions loom",
         "url": "https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom",
         "publishedAt": "2026-08-20T23:02:34+00:00",
@@ -519,15 +528,6 @@
         "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
         "url": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight",
         "publishedAt": "2026-08-20T22:51:53+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "SpaceWERX selects 11 firms to scale technologies for military space",
-        "url": "https://spacenews.com/spacewerx-selects-11-firms-to-scale-technologies-for-military-space",
-        "publishedAt": "2026-08-20T21:44:35+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
