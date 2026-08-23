@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T13:00:25+00:00",
+  "generatedAt": "2026-08-23T13:40:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-23T13:00:25+00:00",
+      "updatedAt": "2026-08-23T13:40:25+00:00",
       "stories": [
         {
           "title": "Launching 10,000 tiny 'femtosats' to Saturn? NASA funds 18 futuristic spaceflight ideas",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-23T13:00:25+00:00",
+      "updatedAt": "2026-08-23T13:40:25+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-23T13:00:25+00:00",
+      "updatedAt": "2026-08-23T13:40:25+00:00",
       "stories": [
         {
           "title": "Canada marks the start of major infrastructure upgrades at 5th Canadian Division Support Base Gagetown",
@@ -139,19 +139,13 @@
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/canadian-armed-forces-launch-operation-nanooktuugaalik-in-canadas-arctic.html",
           "publishedAt": "2026-08-14T14:27:12+00:00",
           "source": "National Defence"
-        },
-        {
-          "title": "Statement from Minister McGuinty on the Defence Team's Commitment to Official Languages and the protection of French",
-          "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/statement-from-minister-mcguinty-on-the-defence-teams-commitment-to-official-languages.html",
-          "publishedAt": "2026-08-13T13:06:42+00:00",
-          "source": "National Defence"
         }
       ]
     },
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-23T13:00:25+00:00",
+      "updatedAt": "2026-08-23T13:40:25+00:00",
       "stories": [
         {
           "title": "Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops",
@@ -248,7 +242,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-23T13:00:25+00:00",
+      "updatedAt": "2026-08-23T13:40:25+00:00",
       "stories": [
         {
           "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -266,24 +260,6 @@
           "title": "OpenAI says California should strengthen its AI safety bill",
           "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill",
           "publishedAt": "2026-08-22T16:30:34+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-          "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model",
-          "publishedAt": "2026-08-22T16:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Anthropic’s Opus 4.6 is a smut-machine",
-          "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine",
-          "publishedAt": "2026-08-21T23:07:25+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Nvidia partners with data center developer Cloverleaf",
-          "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf",
-          "publishedAt": "2026-08-21T22:37:38+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -305,6 +281,42 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Anthropic's Project Parka sits through meetings and assigns Claude agents the homework (11 minute read)",
+          "url": "https://runtimewire.com/article/anthropic-s-project-parka-sits-through-meetings-and-assigns-claude-agents-the-ho",
+          "publishedAt": "2026-08-21T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Slack Code: Where Your Team and Agents Build Together (8 minute read)",
+          "url": "https://slack.com/blog/news/slack-code-channels-for-agents",
+          "publishedAt": "2026-08-21T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "ChatGPT update adds Apple Messages integration on Mac (4 minute read)",
+          "url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac",
+          "publishedAt": "2026-08-21T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Mistral replaces one-shot document retrieval with a navigable search loop (9 minute read)",
+          "url": "https://mistral.ai/news/agentic-search",
+          "publishedAt": "2026-08-21T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "PagedAttention: Virtual Memory for the KV Cache (15 minute read)",
+          "url": "https://thegustafson.com/blog/paged-attention",
+          "publishedAt": "2026-08-21T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Harvey post-trains Kimi K3 for long-horizon legal work (10 minute read)",
+          "url": "https://www.harvey.ai/blog/post-training-update-harvey-tenet",
+          "publishedAt": "2026-08-21T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Anthropic's Claude tackles protein design",
           "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
           "publishedAt": "2026-08-20T10:00:00+00:00",
@@ -321,31 +333,13 @@
           "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
           "publishedAt": "2026-08-19T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI moves teens to their own ChatGPT",
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "publishedAt": "2026-08-19T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Cursor's Origin hits GitHub on its worst day",
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "publishedAt": "2026-08-18T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "ByteDance cuts Hollywood's first AI video deal",
-          "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-17/motion-picture-association-reaches-agreement-with-bytedance-over-ai-guardrails",
-          "publishedAt": "2026-08-18T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-23T13:00:25+00:00",
+      "updatedAt": "2026-08-23T13:40:25+00:00",
       "stories": [
         {
           "title": "Use a digital twin to explore automation before committing capital",
@@ -441,7 +435,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-23T13:00:25+00:00",
+    "updatedAt": "2026-08-23T13:40:25+00:00",
     "stories": [
       {
         "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -646,7 +640,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-03"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
