@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-23T08:00:27+00:00",
+  "generatedAt": "2026-08-23T08:12:52+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-23T08:00:27+00:00",
+      "updatedAt": "2026-08-23T08:12:52+00:00",
       "stories": [
+        {
+          "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
+          "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming",
+          "publishedAt": "2026-08-23T07:39:28+00:00",
+          "source": "NASA"
+        },
         {
           "title": "How will NASA's astronaut training hub change with commercial space stations?",
           "url": "https://www.space.com/space-exploration/international-space-station/how-will-nasas-astronaut-training-hub-change-with-commercial-space-stations",
@@ -25,16 +31,22 @@
           "source": "Space.com"
         },
         {
-          "title": "On this day in space! Aug. 22, 1963: X-15 sets world altitude record",
-          "url": "https://www.space.com/space-exploration/human-spaceflight/on-this-day-in-space-aug-22-1963-x-15-sets-world-altitude-record",
-          "publishedAt": "2026-08-22T12:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
           "url": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035",
           "publishedAt": "2026-08-21T19:48:14+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "APOD: 2026 August 22 – Mostly Perseids",
+          "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids",
+          "publishedAt": "2026-08-22T04:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
+          "url": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space",
+          "publishedAt": "2026-08-21T18:43:40+00:00",
+          "source": "NASA"
         },
         {
           "title": "Week in images: 17-21 August 2026",
@@ -79,21 +91,9 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
-          "url": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "ESA’s photosynthesis satellite fuelled",
           "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/FLEX/ESA_s_photosynthesis_satellite_fuelled",
           "publishedAt": "2026-08-20T07:00:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
-          "title": "Replay: MTG-I2 pre-launch media briefing",
-          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Replay_MTG-I2_pre-launch_media_briefing",
-          "publishedAt": "2026-08-19T15:00:00+00:00",
           "source": "European Space Agency"
         }
       ]
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-23T08:00:27+00:00",
+      "updatedAt": "2026-08-23T08:12:52+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-23T08:00:27+00:00",
+      "updatedAt": "2026-08-23T08:12:52+00:00",
       "stories": [
         {
           "title": "Canada marks the start of major infrastructure upgrades at 5th Canadian Division Support Base Gagetown",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-23T08:00:27+00:00",
+      "updatedAt": "2026-08-23T08:12:52+00:00",
       "stories": [
         {
           "title": "Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-23T08:00:27+00:00",
+      "updatedAt": "2026-08-23T08:12:52+00:00",
       "stories": [
         {
           "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-23T08:00:27+00:00",
+      "updatedAt": "2026-08-23T08:12:52+00:00",
       "stories": [
         {
           "title": "Robots don’t run themselves: The workforce powering physical AI",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-23T08:00:27+00:00",
+    "updatedAt": "2026-08-23T08:12:52+00:00",
     "stories": [
       {
         "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -471,10 +471,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "How will NASA's astronaut training hub change with commercial space stations?",
-        "url": "https://www.space.com/space-exploration/international-space-station/how-will-nasas-astronaut-training-hub-change-with-commercial-space-stations",
-        "publishedAt": "2026-08-22T16:00:00+00:00",
-        "source": "Space.com",
+        "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming",
+        "publishedAt": "2026-08-23T07:39:28+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -507,6 +507,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "How will NASA's astronaut training hub change with commercial space stations?",
+        "url": "https://www.space.com/space-exploration/international-space-station/how-will-nasas-astronaut-training-hub-change-with-commercial-space-stations",
+        "publishedAt": "2026-08-22T16:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "OpenAI says California should strengthen its AI safety bill",
         "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill",
         "publishedAt": "2026-08-22T16:30:34+00:00",
@@ -522,15 +531,6 @@
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-        "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model",
-        "publishedAt": "2026-08-22T16:00:00+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -646,8 +646,7 @@
     }
   ],
   "warnings": [
-    "NASA: 429 Client Error: Too Many Requests for url: https://www.nasa.gov/feed/",
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-28"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-14"
   ]
 }
