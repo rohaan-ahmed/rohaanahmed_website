@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-23T12:00:26+00:00",
+  "generatedAt": "2026-08-23T12:11:00+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-23T12:00:26+00:00",
+      "updatedAt": "2026-08-23T12:11:00+00:00",
       "stories": [
+        {
+          "title": "Launching 10,000 tiny 'femtosats' to Saturn? NASA funds 18 futuristic spaceflight ideas",
+          "url": "https://www.space.com/technology/launching-10-000-tiny-femtosats-to-saturn-nasa-funds-18-futuristic-spaceflight-ideas",
+          "publishedAt": "2026-08-23T12:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
           "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming",
@@ -22,12 +28,6 @@
           "title": "'We Want to Believe' book explores the reality of UFOs: 'It's always going to be more likely that someone is wrong about what they saw' (interview)",
           "url": "https://www.space.com/entertainment/we-want-to-believe-book-explores-the-reality-of-ufos-its-always-going-to-be-more-likely-that-someone-is-wrong-about-what-they-saw-interview",
           "publishedAt": "2026-08-22T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "SpaceX sends 27 Starlink satellites to orbit on 100th Falcon rocket launch of the year (video, photos)",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-15-20",
-          "publishedAt": "2026-08-22T12:23:59+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-23T12:00:26+00:00",
+      "updatedAt": "2026-08-23T12:11:00+00:00",
       "stories": [
         {
           "title": "STRATOS 2026 Campaign: Canadian experiments to be tested in space-like environment",
@@ -114,7 +114,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-23T12:00:26+00:00",
+      "updatedAt": "2026-08-23T12:11:00+00:00",
       "stories": [
         {
           "title": "Canada marks the start of major infrastructure upgrades at 5th Canadian Division Support Base Gagetown",
@@ -151,7 +151,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-23T12:00:26+00:00",
+      "updatedAt": "2026-08-23T12:11:00+00:00",
       "stories": [
         {
           "title": "Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops",
@@ -248,7 +248,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-23T12:00:26+00:00",
+      "updatedAt": "2026-08-23T12:11:00+00:00",
       "stories": [
         {
           "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -345,7 +345,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-23T12:00:26+00:00",
+      "updatedAt": "2026-08-23T12:11:00+00:00",
       "stories": [
         {
           "title": "Robots don’t run themselves: The workforce powering physical AI",
@@ -441,7 +441,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-23T12:00:26+00:00",
+    "updatedAt": "2026-08-23T12:11:00+00:00",
     "stories": [
       {
         "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -471,10 +471,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
-        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming",
-        "publishedAt": "2026-08-23T07:39:28+00:00",
-        "source": "NASA",
+        "title": "Launching 10,000 tiny 'femtosats' to Saturn? NASA funds 18 futuristic spaceflight ideas",
+        "url": "https://www.space.com/technology/launching-10-000-tiny-femtosats-to-saturn-nasa-funds-18-futuristic-spaceflight-ideas",
+        "publishedAt": "2026-08-23T12:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -507,6 +507,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming",
+        "publishedAt": "2026-08-23T07:39:28+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "How will NASA's astronaut training hub change with commercial space stations?",
         "url": "https://www.space.com/space-exploration/international-space-station/how-will-nasas-astronaut-training-hub-change-with-commercial-space-stations",
         "publishedAt": "2026-08-22T16:00:00+00:00",
@@ -522,15 +531,6 @@
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "The technology that could bring robot mowers to one in two American lawns",
-        "url": "https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns",
-        "publishedAt": "2026-08-22T12:30:08+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -647,6 +647,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-06"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-03"
   ]
 }
