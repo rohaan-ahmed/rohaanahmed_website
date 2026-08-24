@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T13:00:27+00:00",
+  "generatedAt": "2026-08-24T13:24:47+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-24T13:00:27+00:00",
+      "updatedAt": "2026-08-24T13:24:47+00:00",
       "stories": [
         {
           "title": "Tory Bruno Named Honorary Chair Of World Space Week 2027",
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-24T13:00:27+00:00",
+      "updatedAt": "2026-08-24T13:24:47+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-24T13:00:27+00:00",
+      "updatedAt": "2026-08-24T13:24:47+00:00",
       "stories": [
         {
           "title": "Canada marks the start of major infrastructure upgrades at 5th Canadian Division Support Base Gagetown",
@@ -138,8 +138,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-24T13:00:27+00:00",
+      "updatedAt": "2026-08-24T13:24:47+00:00",
       "stories": [
+        {
+          "title": "Pentagon counter-drone task force preps ‘shoot-off’ for directed energy prototypes",
+          "url": "https://breakingdefense.com/2026/08/pentagon-counter-drone-task-force-preps-shoot-off-for-directed-energy-prototypes",
+          "publishedAt": "2026-08-24T13:06:14+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran",
           "url": "https://www.defensenews.com/global/europe/2026/08/24/two-us-tanker-aircraft-leave-bulgaria-a-month-after-deployment-upset-iran",
@@ -174,12 +180,6 @@
           "title": "‘Hot competition’: NSA deputy sounds alarm on China threat, AI race",
           "url": "https://breakingdefense.com/2026/08/hot-competition-nsa-deputy-sounds-alarm-on-china-threat-ai-race",
           "publishedAt": "2026-08-21T12:58:20+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "How the Army balances Patriot priorities and approaches Golden Dome",
-          "url": "https://breakingdefense.com/2026/08/how-the-army-balances-patriot-priorities-and-approaches-golden-dome",
-          "publishedAt": "2026-08-21T12:00:00+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -235,7 +235,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-24T13:00:27+00:00",
+      "updatedAt": "2026-08-24T13:24:47+00:00",
       "stories": [
         {
           "title": "Ox Alpha has the internet playing detective",
@@ -268,24 +268,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-          "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated",
-          "publishedAt": "2026-08-23T15:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-          "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors",
-          "publishedAt": "2026-08-22T21:46:56+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-          "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research",
-          "publishedAt": "2026-08-22T19:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Slack turns coding into a group project",
           "url": "https://www.salesforce.com/introducing-slack-code",
           "publishedAt": "2026-08-21T10:00:00+00:00",
@@ -304,27 +286,45 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Anthropic's Project Parka sits through meetings and assigns Claude agents the homework (11 minute read)",
+          "url": "https://runtimewire.com/article/anthropic-s-project-parka-sits-through-meetings-and-assigns-claude-agents-the-ho",
+          "publishedAt": "2026-08-21T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Slack Code: Where Your Team and Agents Build Together (8 minute read)",
+          "url": "https://slack.com/blog/news/slack-code-channels-for-agents",
+          "publishedAt": "2026-08-21T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "ChatGPT update adds Apple Messages integration on Mac (4 minute read)",
+          "url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac",
+          "publishedAt": "2026-08-21T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Mistral replaces one-shot document retrieval with a navigable search loop (9 minute read)",
+          "url": "https://mistral.ai/news/agentic-search",
+          "publishedAt": "2026-08-21T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "PagedAttention: Virtual Memory for the KV Cache (15 minute read)",
+          "url": "https://thegustafson.com/blog/paged-attention",
+          "publishedAt": "2026-08-21T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Harvey post-trains Kimi K3 for long-horizon legal work (10 minute read)",
+          "url": "https://www.harvey.ai/blog/post-training-update-harvey-tenet",
+          "publishedAt": "2026-08-21T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Anthropic's Claude tackles protein design",
           "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
           "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Replit adds Free Mode for routine work",
-          "url": "https://replit.com/blog/replit-introduces-free-mode",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI pauses frontier training over misalignment",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "publishedAt": "2026-08-19T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI moves teens to their own ChatGPT",
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "publishedAt": "2026-08-19T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -332,7 +332,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-24T13:00:27+00:00",
+      "updatedAt": "2026-08-24T13:24:47+00:00",
       "stories": [
         {
           "title": "Use a digital twin to explore automation before committing capital",
@@ -428,7 +428,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-24T13:00:27+00:00",
+    "updatedAt": "2026-08-24T13:24:47+00:00",
     "stories": [
       {
         "title": "Ox Alpha has the internet playing detective",
@@ -467,10 +467,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran",
-        "url": "https://www.defensenews.com/global/europe/2026/08/24/two-us-tanker-aircraft-leave-bulgaria-a-month-after-deployment-upset-iran",
-        "publishedAt": "2026-08-24T08:44:35+00:00",
-        "source": "Defense News",
+        "title": "Pentagon counter-drone task force preps ‘shoot-off’ for directed energy prototypes",
+        "url": "https://breakingdefense.com/2026/08/pentagon-counter-drone-task-force-preps-shoot-off-for-directed-energy-prototypes",
+        "publishedAt": "2026-08-24T13:06:14+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -633,7 +633,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-06"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
