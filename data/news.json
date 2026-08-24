@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T20:00:29+00:00",
+  "generatedAt": "2026-08-24T20:42:38+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-24T20:00:29+00:00",
+      "updatedAt": "2026-08-24T20:42:38+00:00",
       "stories": [
         {
           "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
@@ -31,6 +31,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "'Ghosts of Mars' at 25: Are we any closer to living on the Red Planet? We asked the experts",
+          "url": "https://www.space.com/entertainment/space-movies-shows/ghosts-of-mars-at-25-are-we-any-closer-to-living-on-the-red-planet-we-asked-the-experts",
+          "publishedAt": "2026-08-24T20:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "'Project Hail Mary' and 'The Martian' author Andy Weir is headed back to outer space, but not how you'd expect",
           "url": "https://www.space.com/entertainment/project-hail-mary-and-the-martian-author-andy-weir-is-headed-back-to-outer-space-but-not-how-youd-expect",
           "publishedAt": "2026-08-24T19:00:00+00:00",
@@ -47,12 +53,6 @@
           "url": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit",
           "publishedAt": "2026-08-24T17:56:49+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "SpaceX will set rocket-reuse record on 100th Falcon 9 launch of the year early Aug. 25: Watch it live",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-record-37th-booster-flight-100-falcon-9-launches",
-          "publishedAt": "2026-08-24T17:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth",
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-24T20:00:29+00:00",
+      "updatedAt": "2026-08-24T20:42:38+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-24T20:00:29+00:00",
+      "updatedAt": "2026-08-24T20:42:38+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -132,7 +132,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-24T20:00:29+00:00",
+      "updatedAt": "2026-08-24T20:42:38+00:00",
       "stories": [
         {
           "title": "Navy reveals new long range air-to-air missile, dubbed ‘Malice’",
@@ -229,7 +229,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-24T20:00:29+00:00",
+      "updatedAt": "2026-08-24T20:42:38+00:00",
       "stories": [
         {
           "title": "Ox Alpha has the internet playing detective",
@@ -326,8 +326,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-24T20:00:29+00:00",
+      "updatedAt": "2026-08-24T20:42:38+00:00",
       "stories": [
+        {
+          "title": "XPeng Motors humanoid robot unit Dogotix raises $900M",
+          "url": "https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m",
+          "publishedAt": "2026-08-24T20:07:09+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Use a digital twin to explore automation before committing capital",
           "url": "https://www.therobotreport.com/use-digital-twin-explore-automation-before-committing-capital",
@@ -401,12 +407,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Serve Robotics to deploy its autonomous delivery robots with Grubhub",
-          "url": "https://www.therobotreport.com/serve-robotics-deploys-autonomous-delivery-robots-grubhub",
-          "publishedAt": "2026-08-19T13:55:30+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Drones With Claws Perch on Arctic Icebergs",
           "url": "https://spectrum.ieee.org/arctic-iceberg-drones",
           "publishedAt": "2026-08-18T13:00:01+00:00",
@@ -422,7 +422,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-24T20:00:29+00:00",
+    "updatedAt": "2026-08-24T20:42:38+00:00",
     "stories": [
       {
         "title": "Ox Alpha has the internet playing detective",
@@ -470,9 +470,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Use a digital twin to explore automation before committing capital",
-        "url": "https://www.therobotreport.com/use-digital-twin-explore-automation-before-committing-capital",
-        "publishedAt": "2026-08-23T12:30:14+00:00",
+        "title": "XPeng Motors humanoid robot unit Dogotix raises $900M",
+        "url": "https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m",
+        "publishedAt": "2026-08-24T20:07:09+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
