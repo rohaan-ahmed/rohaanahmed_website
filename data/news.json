@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T19:05:33+00:00",
+  "generatedAt": "2026-08-24T19:38:00+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-24T19:05:33+00:00",
+      "updatedAt": "2026-08-24T19:38:00+00:00",
       "stories": [
         {
           "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-24T19:05:33+00:00",
+      "updatedAt": "2026-08-24T19:38:00+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-24T19:05:33+00:00",
+      "updatedAt": "2026-08-24T19:38:00+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -132,8 +132,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-24T19:05:33+00:00",
+      "updatedAt": "2026-08-24T19:38:00+00:00",
       "stories": [
+        {
+          "title": "Navy reveals new long range air-to-air missile, dubbed ‘Malice’",
+          "url": "https://breakingdefense.com/2026/08/navy-reveals-new-long-range-air-to-air-missile-dubbed-malice",
+          "publishedAt": "2026-08-24T19:13:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Saab shows off loyal wingman drone it hopes to offer Swedish Air Force",
           "url": "https://breakingdefense.com/2026/08/saab-shows-off-loyal-wingman-drone-it-hopes-to-offer-swedish-air-force",
@@ -147,6 +153,12 @@
           "source": "Breaking Defense"
         },
         {
+          "title": "US cancels joint marine drills with South Korea over Iran war-related force constraints",
+          "url": "https://www.defensenews.com/global/asia-pacific/2026/08/24/us-cancels-joint-marine-drills-with-south-korea-over-iran-war-related-force-constraints",
+          "publishedAt": "2026-08-24T19:05:10+00:00",
+          "source": "Defense News"
+        },
+        {
           "title": "Polish firm MESKO signs $2B deal to arm 4 NATO nations with MANPADS",
           "url": "https://breakingdefense.com/2026/08/polish-firm-mesko-signs-2b-deal-to-arm-4-nato-nations-with-manpads",
           "publishedAt": "2026-08-24T18:06:00+00:00",
@@ -156,12 +168,6 @@
           "title": "Australia identifies future defense precinct site for AUKUS sub sustainment",
           "url": "https://breakingdefense.com/2026/08/australia-identifies-future-defense-precinct-site-for-aukus-sub-sustainment",
           "publishedAt": "2026-08-24T17:05:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Turkish FNSS unveils unmanned amphibious assault vehicle",
-          "url": "https://breakingdefense.com/2026/08/turkish-fnss-unveils-unmanned-amphibious-assault-vehicle",
-          "publishedAt": "2026-08-24T16:42:23+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -201,12 +207,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "India seeks role in France’s sixth-generation fighter program",
-          "url": "https://www.defensenews.com/global/asia-pacific/2026/08/21/india-seeks-role-in-frances-sixth-generation-fighter-program",
-          "publishedAt": "2026-08-21T12:52:08+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Army wants fast AI cybersecurity agents that won’t run up token costs or create new vulnerabilities",
           "url": "https://defensescoop.com/2026/08/21/army-wants-fast-ai-cybersecurity-agents-wont-run-up-costs-create-vulnerabilities",
           "publishedAt": "2026-08-21T15:33:27+00:00",
@@ -229,7 +229,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-24T19:05:33+00:00",
+      "updatedAt": "2026-08-24T19:38:00+00:00",
       "stories": [
         {
           "title": "Ox Alpha has the internet playing detective",
@@ -326,7 +326,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-24T19:05:33+00:00",
+      "updatedAt": "2026-08-24T19:38:00+00:00",
       "stories": [
         {
           "title": "Use a digital twin to explore automation before committing capital",
@@ -422,7 +422,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-24T19:05:33+00:00",
+    "updatedAt": "2026-08-24T19:38:00+00:00",
     "stories": [
       {
         "title": "Ox Alpha has the internet playing detective",
@@ -461,9 +461,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Saab shows off loyal wingman drone it hopes to offer Swedish Air Force",
-        "url": "https://breakingdefense.com/2026/08/saab-shows-off-loyal-wingman-drone-it-hopes-to-offer-swedish-air-force",
-        "publishedAt": "2026-08-24T18:25:56+00:00",
+        "title": "Navy reveals new long range air-to-air missile, dubbed ‘Malice’",
+        "url": "https://breakingdefense.com/2026/08/navy-reveals-new-long-range-air-to-air-missile-dubbed-malice",
+        "publishedAt": "2026-08-24T19:13:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -506,9 +506,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Army Cyber created an ‘integrated fire’ cell for Epic Fury",
-        "url": "https://breakingdefense.com/2026/08/army-cyber-created-an-integrated-fire-cell-for-epic-fury",
-        "publishedAt": "2026-08-24T18:17:02+00:00",
+        "title": "Saab shows off loyal wingman drone it hopes to offer Swedish Air Force",
+        "url": "https://breakingdefense.com/2026/08/saab-shows-off-loyal-wingman-drone-it-hopes-to-offer-swedish-air-force",
+        "publishedAt": "2026-08-24T18:25:56+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
