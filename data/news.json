@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-24T12:00:30+00:00",
+  "generatedAt": "2026-08-24T12:17:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-24T12:00:30+00:00",
+      "updatedAt": "2026-08-24T12:17:34+00:00",
       "stories": [
+        {
+          "title": "Tory Bruno Named Honorary Chair Of World Space Week 2027",
+          "url": "https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027",
+          "publishedAt": "2026-08-24T12:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "The earliest galaxy 'swallowed' by the cannibal Milky Way left a scar at its heart",
           "url": "https://www.space.com/astronomy/galaxies/the-earliest-galaxy-swallowed-by-the-cannibal-milky-way-left-a-scar-at-its-heart",
@@ -14,7 +20,7 @@
         },
         {
           "title": "Nancy Grace Roman Telescope live updates: NASA readies Roman for launch",
-          "url": "https://www.space.com/space-exploration/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch",
+          "url": "https://www.space.com/news/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch-august-24-2026",
           "publishedAt": "2026-08-24T12:00:00+00:00",
           "source": "Space.com"
         },
@@ -89,25 +95,19 @@
           "url": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium",
           "publishedAt": "2026-08-20T16:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference",
-          "url": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference",
-          "publishedAt": "2026-08-20T13:00:00+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-24T12:00:30+00:00",
+      "updatedAt": "2026-08-24T12:17:34+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-24T12:00:30+00:00",
+      "updatedAt": "2026-08-24T12:17:34+00:00",
       "stories": [
         {
           "title": "Canada marks the start of major infrastructure upgrades at 5th Canadian Division Support Base Gagetown",
@@ -138,7 +138,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-24T12:00:30+00:00",
+      "updatedAt": "2026-08-24T12:17:34+00:00",
       "stories": [
         {
           "title": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran",
@@ -235,7 +235,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-24T12:00:30+00:00",
+      "updatedAt": "2026-08-24T12:17:34+00:00",
       "stories": [
         {
           "title": "Ox Alpha has the internet playing detective",
@@ -268,6 +268,24 @@
           "source": "TechCrunch AI"
         },
         {
+          "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+          "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated",
+          "publishedAt": "2026-08-23T15:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+          "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors",
+          "publishedAt": "2026-08-22T21:46:56+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+          "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research",
+          "publishedAt": "2026-08-22T19:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Slack turns coding into a group project",
           "url": "https://www.salesforce.com/introducing-slack-code",
           "publishedAt": "2026-08-21T10:00:00+00:00",
@@ -286,45 +304,27 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Anthropic's Project Parka sits through meetings and assigns Claude agents the homework (11 minute read)",
-          "url": "https://runtimewire.com/article/anthropic-s-project-parka-sits-through-meetings-and-assigns-claude-agents-the-ho",
-          "publishedAt": "2026-08-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Slack Code: Where Your Team and Agents Build Together (8 minute read)",
-          "url": "https://slack.com/blog/news/slack-code-channels-for-agents",
-          "publishedAt": "2026-08-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "ChatGPT update adds Apple Messages integration on Mac (4 minute read)",
-          "url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac",
-          "publishedAt": "2026-08-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Mistral replaces one-shot document retrieval with a navigable search loop (9 minute read)",
-          "url": "https://mistral.ai/news/agentic-search",
-          "publishedAt": "2026-08-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "PagedAttention: Virtual Memory for the KV Cache (15 minute read)",
-          "url": "https://thegustafson.com/blog/paged-attention",
-          "publishedAt": "2026-08-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Harvey post-trains Kimi K3 for long-horizon legal work (10 minute read)",
-          "url": "https://www.harvey.ai/blog/post-training-update-harvey-tenet",
-          "publishedAt": "2026-08-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Anthropic's Claude tackles protein design",
           "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
           "publishedAt": "2026-08-20T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Replit adds Free Mode for routine work",
+          "url": "https://replit.com/blog/replit-introduces-free-mode",
+          "publishedAt": "2026-08-20T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI pauses frontier training over misalignment",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "publishedAt": "2026-08-19T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI moves teens to their own ChatGPT",
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "publishedAt": "2026-08-19T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -332,7 +332,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-24T12:00:30+00:00",
+      "updatedAt": "2026-08-24T12:17:34+00:00",
       "stories": [
         {
           "title": "Use a digital twin to explore automation before committing capital",
@@ -428,7 +428,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-24T12:00:30+00:00",
+    "updatedAt": "2026-08-24T12:17:34+00:00",
     "stories": [
       {
         "title": "Ox Alpha has the internet playing detective",
@@ -449,10 +449,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The earliest galaxy 'swallowed' by the cannibal Milky Way left a scar at its heart",
-        "url": "https://www.space.com/astronomy/galaxies/the-earliest-galaxy-swallowed-by-the-cannibal-milky-way-left-a-scar-at-its-heart",
+        "title": "Tory Bruno Named Honorary Chair Of World Space Week 2027",
+        "url": "https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027",
         "publishedAt": "2026-08-24T12:00:00+00:00",
-        "source": "Space.com",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -485,8 +485,17 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "The earliest galaxy 'swallowed' by the cannibal Milky Way left a scar at its heart",
+        "url": "https://www.space.com/astronomy/galaxies/the-earliest-galaxy-swallowed-by-the-cannibal-milky-way-left-a-scar-at-its-heart",
+        "publishedAt": "2026-08-24T12:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Nancy Grace Roman Telescope live updates: NASA readies Roman for launch",
-        "url": "https://www.space.com/space-exploration/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch",
+        "url": "https://www.space.com/news/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch-august-24-2026",
         "publishedAt": "2026-08-24T12:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
@@ -507,15 +516,6 @@
         "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Watch_live_MTG-I2_set_for_liftoff",
         "publishedAt": "2026-08-24T08:14:00+00:00",
         "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "What Lake Bonneville Left Behind",
-        "url": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind",
-        "publishedAt": "2026-08-24T04:01:00+00:00",
-        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -633,6 +633,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-31"
   ]
 }
