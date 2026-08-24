@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-08-24T11:14:30+00:00",
+  "generatedAt": "2026-08-24T11:48:03+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-24T11:14:30+00:00",
+      "updatedAt": "2026-08-24T11:48:03+00:00",
       "stories": [
         {
           "title": "What to expect from each stage of the partial lunar eclipse on Aug. 27-28",
           "url": "https://www.space.com/stargazing/lunar-eclipses/what-to-expect-during-the-almost-blood-moon-lunar-eclipse-on-aug-27-28-2026-key-stages-explained",
           "publishedAt": "2026-08-24T11:00:00+00:00",
           "source": "Space.com"
+        },
+        {
+          "title": "Watch live: MTG-I2 set for liftoff",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Watch_live_MTG-I2_set_for_liftoff",
+          "publishedAt": "2026-08-24T08:14:00+00:00",
+          "source": "European Space Agency"
         },
         {
           "title": "It's been 20 years since Pluto lost planet status. Will it ever get its title back?",
@@ -89,25 +95,19 @@
           "url": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference",
           "publishedAt": "2026-08-20T13:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "LatConnect 60 selects Transcelestial’s Space Optical Network for SWIRSAT imaging constellation",
-          "url": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-24T11:14:30+00:00",
+      "updatedAt": "2026-08-24T11:48:03+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-24T11:14:30+00:00",
+      "updatedAt": "2026-08-24T11:48:03+00:00",
       "stories": [
         {
           "title": "Canada marks the start of major infrastructure upgrades at 5th Canadian Division Support Base Gagetown",
@@ -138,7 +138,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-24T11:14:30+00:00",
+      "updatedAt": "2026-08-24T11:48:03+00:00",
       "stories": [
         {
           "title": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran",
@@ -235,7 +235,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-24T11:14:30+00:00",
+      "updatedAt": "2026-08-24T11:48:03+00:00",
       "stories": [
         {
           "title": "Ox Alpha has the internet playing detective",
@@ -332,7 +332,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-24T11:14:30+00:00",
+      "updatedAt": "2026-08-24T11:48:03+00:00",
       "stories": [
         {
           "title": "Use a digital twin to explore automation before committing capital",
@@ -428,7 +428,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-24T11:14:30+00:00",
+    "updatedAt": "2026-08-24T11:48:03+00:00",
     "stories": [
       {
         "title": "Ox Alpha has the internet playing detective",
@@ -485,6 +485,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Watch live: MTG-I2 set for liftoff",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Watch_live_MTG-I2_set_for_liftoff",
+        "publishedAt": "2026-08-24T08:14:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "It's been 20 years since Pluto lost planet status. Will it ever get its title back?",
         "url": "https://www.space.com/astronomy/pluto/its-been-20-years-since-pluto-lost-planet-status-will-it-ever-get-its-title-back",
         "publishedAt": "2026-08-24T10:00:00+00:00",
@@ -506,15 +515,6 @@
         "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
         "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha",
         "publishedAt": "2026-08-23T20:01:36+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-        "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule",
-        "publishedAt": "2026-08-23T19:14:08+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
