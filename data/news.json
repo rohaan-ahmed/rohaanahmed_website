@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-24T22:10:32+00:00",
+  "generatedAt": "2026-08-24T22:41:14+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-24T22:10:32+00:00",
+      "updatedAt": "2026-08-24T22:41:14+00:00",
       "stories": [
+        {
+          "title": "Robotics and the future of on-orbit labor",
+          "url": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor",
+          "publishedAt": "2026-08-24T22:26:02+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
           "url": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit",
@@ -89,25 +95,19 @@
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_August_2026",
           "publishedAt": "2026-08-21T13:10:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
-          "url": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight",
-          "publishedAt": "2026-08-20T22:51:53+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-24T22:10:32+00:00",
+      "updatedAt": "2026-08-24T22:41:14+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-24T22:10:32+00:00",
+      "updatedAt": "2026-08-24T22:41:14+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -132,13 +132,19 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-24T22:10:32+00:00",
+      "updatedAt": "2026-08-24T22:41:14+00:00",
       "stories": [
         {
           "title": "Navy reveals new long range air-to-air missile, dubbed ‘Malice’",
           "url": "https://breakingdefense.com/2026/08/navy-reveals-new-long-range-air-to-air-missile-dubbed-malice",
           "publishedAt": "2026-08-24T19:13:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "One year in, America’s counter-drone task force still has ‘a ton of work to do’",
+          "url": "https://defensescoop.com/2026/08/24/one-year-in-americas-counter-drone-task-force-still-has-a-ton-of-work-to-do",
+          "publishedAt": "2026-08-24T22:11:16+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Saab shows off loyal wingman drone it hopes to offer Swedish Air Force",
@@ -217,19 +223,13 @@
           "url": "https://defensescoop.com/2026/08/21/army-wants-fast-ai-cybersecurity-agents-wont-run-up-costs-create-vulnerabilities",
           "publishedAt": "2026-08-21T15:33:27+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Navy secretary warns of ‘coordinated, multi-domain’ campaign against personnel and installations",
-          "url": "https://defensescoop.com/2026/08/21/navy-secretary-hung-cao-warning-about-threats-to-personnel-installations",
-          "publishedAt": "2026-08-21T15:17:19+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-24T22:10:32+00:00",
+      "updatedAt": "2026-08-24T22:41:14+00:00",
       "stories": [
         {
           "title": "Ox Alpha has the internet playing detective",
@@ -326,7 +326,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-24T22:10:32+00:00",
+      "updatedAt": "2026-08-24T22:41:14+00:00",
       "stories": [
         {
           "title": "XPeng Motors humanoid robot unit Dogotix raises $900M",
@@ -422,7 +422,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-24T22:10:32+00:00",
+    "updatedAt": "2026-08-24T22:41:14+00:00",
     "stories": [
       {
         "title": "Ox Alpha has the internet playing detective",
@@ -443,9 +443,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
-        "url": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit",
-        "publishedAt": "2026-08-24T17:30:00+00:00",
+        "title": "Robotics and the future of on-orbit labor",
+        "url": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor",
+        "publishedAt": "2026-08-24T22:26:02+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -479,6 +479,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
+        "url": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit",
+        "publishedAt": "2026-08-24T17:30:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026",
         "url": "https://spacenews.com/spirit-electronics-adds-texas-instruments-and-microchip-technology-space-grade-components-to-online-store-ahead-of-smallsat-2026",
         "publishedAt": "2026-08-24T15:00:00+00:00",
@@ -503,15 +512,6 @@
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Saab shows off loyal wingman drone it hopes to offer Swedish Air Force",
-        "url": "https://breakingdefense.com/2026/08/saab-shows-off-loyal-wingman-drone-it-hopes-to-offer-swedish-air-force",
-        "publishedAt": "2026-08-24T18:25:56+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -628,6 +628,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-11"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-10"
   ]
 }
