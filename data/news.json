@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T17:00:28+00:00",
+  "generatedAt": "2026-08-24T17:18:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-24T17:00:28+00:00",
+      "updatedAt": "2026-08-24T17:18:29+00:00",
       "stories": [
         {
           "title": "Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026",
@@ -25,6 +25,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "SpaceX will set rocket-reuse record on 100th Falcon 9 launch of the year early Aug. 25: Watch it live",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-record-37th-booster-flight-100-falcon-9-launches",
+          "publishedAt": "2026-08-24T17:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "Why do we care so much that Pluto isn't a planet?",
           "url": "https://www.space.com/astronomy/pluto/why-do-we-care-so-much-that-pluto-isnt-a-planet",
           "publishedAt": "2026-08-24T16:00:00+00:00",
@@ -34,12 +40,6 @@
           "title": "Is the Perseid meteor shower going to get even more spectacular? Jupiter could send more 'shooting stars' towards Earth in 2028",
           "url": "https://www.space.com/stargazing/meteor-showers/is-the-perseid-meteor-shower-going-to-get-even-more-spectacular-jupiter-could-send-more-shooting-stars-towards-earth-in-2028",
           "publishedAt": "2026-08-24T15:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "At 25% off, this beginner-friendly Celestron telescope will bring the lunar eclipse closer",
-          "url": "https://www.space.com/stargazing/skywatching-kit/at-25-percent-off-this-beginner-friendly-celestron-telescope-will-bring-the-lunar-eclipse-closer",
-          "publishedAt": "2026-08-24T14:50:23+00:00",
           "source": "Space.com"
         },
         {
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-24T17:00:28+00:00",
+      "updatedAt": "2026-08-24T17:18:29+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-24T17:00:28+00:00",
+      "updatedAt": "2026-08-24T17:18:29+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -132,8 +132,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-24T17:00:28+00:00",
+      "updatedAt": "2026-08-24T17:18:29+00:00",
       "stories": [
+        {
+          "title": "Australia identifies future defense precinct site for AUKUS sub sustainment",
+          "url": "https://breakingdefense.com/2026/08/australia-identifies-future-defense-precinct-site-for-aukus-sub-sustainment",
+          "publishedAt": "2026-08-24T17:05:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Turkish FNSS unveils unmanned amphibious assault vehicle",
           "url": "https://breakingdefense.com/2026/08/turkish-fnss-unveils-unmanned-amphibious-assault-vehicle",
@@ -195,12 +201,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Army cyber defenses need ‘dedicated funding’ for AI, top official says",
-          "url": "https://breakingdefense.com/2026/08/army-cyber-defenses-need-dedicated-funding-for-ai-top-official-says",
-          "publishedAt": "2026-08-21T15:10:10+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "India seeks role in France’s sixth-generation fighter program",
           "url": "https://www.defensenews.com/global/asia-pacific/2026/08/21/india-seeks-role-in-frances-sixth-generation-fighter-program",
           "publishedAt": "2026-08-21T12:52:08+00:00",
@@ -229,7 +229,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-24T17:00:28+00:00",
+      "updatedAt": "2026-08-24T17:18:29+00:00",
       "stories": [
         {
           "title": "Ox Alpha has the internet playing detective",
@@ -262,22 +262,34 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-          "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha",
-          "publishedAt": "2026-08-23T20:01:36+00:00",
-          "source": "TechCrunch AI"
+          "title": "Hugging Face's $13B Valuation (3 minute read)",
+          "url": "https://runtimewire.com/article/hugging-face-explores-13-billion-sale",
+          "publishedAt": "2026-08-24T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-          "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule",
-          "publishedAt": "2026-08-23T19:14:08+00:00",
-          "source": "TechCrunch AI"
+          "title": "Anthropic will give defenders what its strongest model finds, but not the model itself (3 minute read)",
+          "url": "https://thenextweb.com/news/anthropic-mythos-5-defenders-open-source-fund",
+          "publishedAt": "2026-08-24T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-          "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash",
-          "publishedAt": "2026-08-23T15:30:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Grok Bot is now included with more plans (4 minute read)",
+          "url": "https://x.ai/news/grok-bot-more-plans",
+          "publishedAt": "2026-08-24T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Building a 24/7 Multi-Agent System: The SpaceXAI Playbook (100 minute read)",
+          "url": "https://drive.google.com/file/d/1ek73IrUN6wIwGkx70FuewOTEIVFPw3l4/view",
+          "publishedAt": "2026-08-24T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Evolution of the Agent Harness (10 minute read)",
+          "url": "https://www.latent.space/p/attention-interface",
+          "publishedAt": "2026-08-24T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Slack turns coding into a group project",
@@ -298,27 +310,15 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Anthropic's Project Parka sits through meetings and assigns Claude agents the homework (11 minute read)",
+          "url": "https://runtimewire.com/article/anthropic-s-project-parka-sits-through-meetings-and-assigns-claude-agents-the-ho",
+          "publishedAt": "2026-08-21T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Anthropic's Claude tackles protein design",
           "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
           "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Replit adds Free Mode for routine work",
-          "url": "https://replit.com/blog/replit-introduces-free-mode",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI pauses frontier training over misalignment",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "publishedAt": "2026-08-19T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI moves teens to their own ChatGPT",
-          "url": "https://openai.com/index/chatgpt-for-teens",
-          "publishedAt": "2026-08-19T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -326,7 +326,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-24T17:00:28+00:00",
+      "updatedAt": "2026-08-24T17:18:29+00:00",
       "stories": [
         {
           "title": "Use a digital twin to explore automation before committing capital",
@@ -422,7 +422,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-24T17:00:28+00:00",
+    "updatedAt": "2026-08-24T17:18:29+00:00",
     "stories": [
       {
         "title": "Ox Alpha has the internet playing detective",
@@ -461,9 +461,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Turkish FNSS unveils unmanned amphibious assault vehicle",
-        "url": "https://breakingdefense.com/2026/08/turkish-fnss-unveils-unmanned-amphibious-assault-vehicle",
-        "publishedAt": "2026-08-24T16:42:23+00:00",
+        "title": "Australia identifies future defense precinct site for AUKUS sub sustainment",
+        "url": "https://breakingdefense.com/2026/08/australia-identifies-future-defense-precinct-site-for-aukus-sub-sustainment",
+        "publishedAt": "2026-08-24T17:05:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -497,18 +497,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Italy eyes US tech for souping up dumb missiles into drone interceptors",
-        "url": "https://www.defensenews.com/global/europe/2026/08/24/italy-eyes-us-tech-for-souping-up-dumb-missiles-into-drone-interceptors",
-        "publishedAt": "2026-08-24T16:12:51+00:00",
-        "source": "Defense News",
+        "title": "Turkish FNSS unveils unmanned amphibious assault vehicle",
+        "url": "https://breakingdefense.com/2026/08/turkish-fnss-unveils-unmanned-amphibious-assault-vehicle",
+        "publishedAt": "2026-08-24T16:42:23+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Patria to join with Ukraine’s General Cherry to make drones in Finland",
-        "url": "https://www.defensenews.com/global/europe/2026/08/24/patria-to-join-with-ukraines-general-cherry-to-make-drones-in-finland",
-        "publishedAt": "2026-08-24T14:45:18+00:00",
+        "title": "Italy eyes US tech for souping up dumb missiles into drone interceptors",
+        "url": "https://www.defensenews.com/global/europe/2026/08/24/italy-eyes-us-tech-for-souping-up-dumb-missiles-into-drone-interceptors",
+        "publishedAt": "2026-08-24T16:12:51+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -627,7 +627,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-07-31"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
