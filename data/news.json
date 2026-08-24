@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-24T10:00:28+00:00",
+  "generatedAt": "2026-08-24T10:48:52+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-24T10:00:28+00:00",
+      "updatedAt": "2026-08-24T10:48:52+00:00",
       "stories": [
+        {
+          "title": "It's been 20 years since Pluto lost planet status. Will it ever get its title back?",
+          "url": "https://www.space.com/astronomy/pluto/its-been-20-years-since-pluto-lost-planet-status-will-it-ever-get-its-title-back",
+          "publishedAt": "2026-08-24T10:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "What Lake Bonneville Left Behind",
           "url": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind",
@@ -22,12 +28,6 @@
           "title": "How a huge fleet of 17 spacecraft discovered something surprising about solar eruptions",
           "url": "https://www.space.com/astronomy/sun/how-a-huge-fleet-of-17-spacecraft-discovered-something-surprising-about-solar-eruptions",
           "publishedAt": "2026-08-23T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Bad weather delays launch of China's historic Chang'e 7 mission to moon's south pole",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/bad-weather-delays-launch-of-chinas-historic-change-7-mission-to-moons-south-pole",
-          "publishedAt": "2026-08-23T13:54:11+00:00",
           "source": "Space.com"
         },
         {
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-24T10:00:28+00:00",
+      "updatedAt": "2026-08-24T10:48:52+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-24T10:00:28+00:00",
+      "updatedAt": "2026-08-24T10:48:52+00:00",
       "stories": [
         {
           "title": "Canada marks the start of major infrastructure upgrades at 5th Canadian Division Support Base Gagetown",
@@ -138,7 +138,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-24T10:00:28+00:00",
+      "updatedAt": "2026-08-24T10:48:52+00:00",
       "stories": [
         {
           "title": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran",
@@ -235,8 +235,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-24T10:00:28+00:00",
+      "updatedAt": "2026-08-24T10:48:52+00:00",
       "stories": [
+        {
+          "title": "Ox Alpha has the internet playing detective",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/mystery-ai-model-ox-alpha-draws-developers-with-free-access",
+          "publishedAt": "2026-08-24T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Lady Gaga's startup trains AI on human skin",
+          "url": "https://www.outerbio.com/news/why-we-are-building-outer-bio",
+          "publishedAt": "2026-08-24T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
           "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha",
@@ -314,25 +326,13 @@
           "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
           "publishedAt": "2026-08-20T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Replit adds Free Mode for routine work",
-          "url": "https://replit.com/blog/replit-introduces-free-mode",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI pauses frontier training over misalignment",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "publishedAt": "2026-08-19T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-24T10:00:28+00:00",
+      "updatedAt": "2026-08-24T10:48:52+00:00",
       "stories": [
         {
           "title": "Use a digital twin to explore automation before committing capital",
@@ -428,31 +428,31 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-24T10:00:28+00:00",
+    "updatedAt": "2026-08-24T10:48:52+00:00",
     "stories": [
       {
-        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-        "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha",
-        "publishedAt": "2026-08-23T20:01:36+00:00",
-        "source": "TechCrunch AI",
+        "title": "Ox Alpha has the internet playing detective",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-23/mystery-ai-model-ox-alpha-draws-developers-with-free-access",
+        "publishedAt": "2026-08-24T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-        "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule",
-        "publishedAt": "2026-08-23T19:14:08+00:00",
-        "source": "TechCrunch AI",
+        "title": "Lady Gaga's startup trains AI on human skin",
+        "url": "https://www.outerbio.com/news/why-we-are-building-outer-bio",
+        "publishedAt": "2026-08-24T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "What Lake Bonneville Left Behind",
-        "url": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind",
-        "publishedAt": "2026-08-24T04:01:00+00:00",
-        "source": "NASA",
+        "title": "It's been 20 years since Pluto lost planet status. Will it ever get its title back?",
+        "url": "https://www.space.com/astronomy/pluto/its-been-20-years-since-pluto-lost-planet-status-will-it-ever-get-its-title-back",
+        "publishedAt": "2026-08-24T10:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -485,36 +485,36 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "New 'Star Trek' documentary featuring William Shatner hits theaters this fall, celebrating 60 years of Trek",
-        "url": "https://www.space.com/entertainment/space-movies-shows/new-star-trek-documentary-featuring-william-shatner-hits-theaters-this-fall-celebrating-60-years-of-trek",
-        "publishedAt": "2026-08-23T16:00:00+00:00",
-        "source": "Space.com",
+        "title": "What Lake Bonneville Left Behind",
+        "url": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind",
+        "publishedAt": "2026-08-24T04:01:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-        "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash",
-        "publishedAt": "2026-08-23T15:30:00+00:00",
+        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha",
+        "publishedAt": "2026-08-23T20:01:36+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "How a huge fleet of 17 spacecraft discovered something surprising about solar eruptions",
-        "url": "https://www.space.com/astronomy/sun/how-a-huge-fleet-of-17-spacecraft-discovered-something-surprising-about-solar-eruptions",
-        "publishedAt": "2026-08-23T14:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule",
+        "publishedAt": "2026-08-23T19:14:08+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Bad weather delays launch of China's historic Chang'e 7 mission to moon's south pole",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/bad-weather-delays-launch-of-chinas-historic-change-7-mission-to-moons-south-pole",
-        "publishedAt": "2026-08-23T13:54:11+00:00",
+        "title": "New 'Star Trek' documentary featuring William Shatner hits theaters this fall, celebrating 60 years of Trek",
+        "url": "https://www.space.com/entertainment/space-movies-shows/new-star-trek-documentary-featuring-william-shatner-hits-theaters-this-fall-celebrating-60-years-of-trek",
+        "publishedAt": "2026-08-23T16:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
