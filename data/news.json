@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-24T15:00:28+00:00",
+  "generatedAt": "2026-08-24T15:29:42+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-24T15:00:28+00:00",
+      "updatedAt": "2026-08-24T15:29:42+00:00",
       "stories": [
+        {
+          "title": "Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026",
+          "url": "https://spacenews.com/spirit-electronics-adds-texas-instruments-and-microchip-technology-space-grade-components-to-online-store-ahead-of-smallsat-2026",
+          "publishedAt": "2026-08-24T15:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent.",
           "url": "https://spacenews.com/the-fuel-for-the-next-generation-of-cislunar-exploration-technology-and-talent",
@@ -89,25 +95,19 @@
           "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier",
           "publishedAt": "2026-08-21T08:22:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "What’s next for ISR in space",
-          "url": "https://spacenews.com/whats-next-for-isr-in-space",
-          "publishedAt": "2026-08-20T17:21:33+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-24T15:00:28+00:00",
+      "updatedAt": "2026-08-24T15:29:42+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-24T15:00:28+00:00",
+      "updatedAt": "2026-08-24T15:29:42+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -132,7 +132,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-24T15:00:28+00:00",
+      "updatedAt": "2026-08-24T15:29:42+00:00",
       "stories": [
         {
           "title": "Patria to join with Ukraine’s General Cherry to make drones in Finland",
@@ -229,7 +229,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-24T15:00:28+00:00",
+      "updatedAt": "2026-08-24T15:29:42+00:00",
       "stories": [
         {
           "title": "Ox Alpha has the internet playing detective",
@@ -242,6 +242,18 @@
           "url": "https://www.outerbio.com/news/why-we-are-building-outer-bio",
           "publishedAt": "2026-08-24T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+          "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
+          "publishedAt": "2026-08-24T15:24:18+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+          "publishedAt": "2026-08-24T15:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Hugging Face reportedly in talks to be acquired for $13B",
@@ -280,18 +292,6 @@
           "source": "TLDR AI"
         },
         {
-          "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-          "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha",
-          "publishedAt": "2026-08-23T20:01:36+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-          "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule",
-          "publishedAt": "2026-08-23T19:14:08+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Slack turns coding into a group project",
           "url": "https://www.salesforce.com/introducing-slack-code",
           "publishedAt": "2026-08-21T10:00:00+00:00",
@@ -326,7 +326,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-24T15:00:28+00:00",
+      "updatedAt": "2026-08-24T15:29:42+00:00",
       "stories": [
         {
           "title": "Use a digital twin to explore automation before committing capital",
@@ -422,7 +422,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-24T15:00:28+00:00",
+    "updatedAt": "2026-08-24T15:29:42+00:00",
     "stories": [
       {
         "title": "Ox Alpha has the internet playing detective",
@@ -443,9 +443,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent.",
-        "url": "https://spacenews.com/the-fuel-for-the-next-generation-of-cislunar-exploration-technology-and-talent",
-        "publishedAt": "2026-08-24T14:00:00+00:00",
+        "title": "Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026",
+        "url": "https://spacenews.com/spirit-electronics-adds-texas-instruments-and-microchip-technology-space-grade-components-to-online-store-ahead-of-smallsat-2026",
+        "publishedAt": "2026-08-24T15:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -479,6 +479,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent.",
+        "url": "https://spacenews.com/the-fuel-for-the-next-generation-of-cislunar-exploration-technology-and-talent",
+        "publishedAt": "2026-08-24T14:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Tory Bruno Named Honorary Chair Of World Space Week 2027",
         "url": "https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027",
         "publishedAt": "2026-08-24T12:00:00+00:00",
@@ -503,15 +512,6 @@
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Is the Perseid meteor shower going to get even more spectacular? Jupiter could send more 'shooting stars' towards Earth in 2028",
-        "url": "https://www.space.com/stargazing/meteor-showers/is-the-perseid-meteor-shower-going-to-get-even-more-spectacular-jupiter-could-send-more-shooting-stars-towards-earth-in-2028",
-        "publishedAt": "2026-08-24T15:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
