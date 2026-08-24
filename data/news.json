@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T16:06:18+00:00",
+  "generatedAt": "2026-08-24T16:51:14+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-24T16:06:18+00:00",
+      "updatedAt": "2026-08-24T16:51:14+00:00",
       "stories": [
         {
           "title": "Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026",
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-24T16:06:18+00:00",
+      "updatedAt": "2026-08-24T16:51:14+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-24T16:06:18+00:00",
+      "updatedAt": "2026-08-24T16:51:14+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -132,8 +132,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-24T16:06:18+00:00",
+      "updatedAt": "2026-08-24T16:51:14+00:00",
       "stories": [
+        {
+          "title": "Turkish FNSS unveils unmanned amphibious assault vehicle",
+          "url": "https://breakingdefense.com/2026/08/turkish-fnss-unveils-unmanned-amphibious-assault-vehicle",
+          "publishedAt": "2026-08-24T16:42:23+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Italy eyes US tech for souping up dumb missiles into drone interceptors",
+          "url": "https://www.defensenews.com/global/europe/2026/08/24/italy-eyes-us-tech-for-souping-up-dumb-missiles-into-drone-interceptors",
+          "publishedAt": "2026-08-24T16:12:51+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Patria to join with Ukraine’s General Cherry to make drones in Finland",
           "url": "https://www.defensenews.com/global/europe/2026/08/24/patria-to-join-with-ukraines-general-cherry-to-make-drones-in-finland",
@@ -183,12 +195,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "‘Hot competition’: NSA deputy sounds alarm on China threat, AI race",
-          "url": "https://breakingdefense.com/2026/08/hot-competition-nsa-deputy-sounds-alarm-on-china-threat-ai-race",
-          "publishedAt": "2026-08-21T12:58:20+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "India seeks role in France’s sixth-generation fighter program",
           "url": "https://www.defensenews.com/global/asia-pacific/2026/08/21/india-seeks-role-in-frances-sixth-generation-fighter-program",
           "publishedAt": "2026-08-21T12:52:08+00:00",
@@ -207,12 +213,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "US Army to end experimental drone battalion in Europe",
-          "url": "https://www.defensenews.com/news/your-military/2026/08/21/us-army-to-end-experimental-drone-battalion-in-europe",
-          "publishedAt": "2026-08-21T08:14:42+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "DIU tries to transition tech to the frontlines faster with launch of new Bridge Program",
           "url": "https://defensescoop.com/2026/08/20/diu-bridge-program-transition-commercial-technology-to-military",
           "publishedAt": "2026-08-20T20:38:03+00:00",
@@ -229,7 +229,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-24T16:06:18+00:00",
+      "updatedAt": "2026-08-24T16:51:14+00:00",
       "stories": [
         {
           "title": "Ox Alpha has the internet playing detective",
@@ -326,7 +326,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-24T16:06:18+00:00",
+      "updatedAt": "2026-08-24T16:51:14+00:00",
       "stories": [
         {
           "title": "Use a digital twin to explore automation before committing capital",
@@ -422,7 +422,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-24T16:06:18+00:00",
+    "updatedAt": "2026-08-24T16:51:14+00:00",
     "stories": [
       {
         "title": "Ox Alpha has the internet playing detective",
@@ -461,10 +461,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Patria to join with Ukraine’s General Cherry to make drones in Finland",
-        "url": "https://www.defensenews.com/global/europe/2026/08/24/patria-to-join-with-ukraines-general-cherry-to-make-drones-in-finland",
-        "publishedAt": "2026-08-24T14:45:18+00:00",
-        "source": "Defense News",
+        "title": "Turkish FNSS unveils unmanned amphibious assault vehicle",
+        "url": "https://breakingdefense.com/2026/08/turkish-fnss-unveils-unmanned-amphibious-assault-vehicle",
+        "publishedAt": "2026-08-24T16:42:23+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -497,19 +497,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Why do we care so much that Pluto isn't a planet?",
-        "url": "https://www.space.com/astronomy/pluto/why-do-we-care-so-much-that-pluto-isnt-a-planet",
-        "publishedAt": "2026-08-24T16:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Italy eyes US tech for souping up dumb missiles into drone interceptors",
+        "url": "https://www.defensenews.com/global/europe/2026/08/24/italy-eyes-us-tech-for-souping-up-dumb-missiles-into-drone-interceptors",
+        "publishedAt": "2026-08-24T16:12:51+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Pentagon counter-drone task force preps ‘shoot-off’ for directed energy prototypes",
-        "url": "https://breakingdefense.com/2026/08/pentagon-counter-drone-task-force-preps-shoot-off-for-directed-energy-prototypes",
-        "publishedAt": "2026-08-24T13:06:14+00:00",
-        "source": "Breaking Defense",
+        "title": "Patria to join with Ukraine’s General Cherry to make drones in Finland",
+        "url": "https://www.defensenews.com/global/europe/2026/08/24/patria-to-join-with-ukraines-general-cherry-to-make-drones-in-finland",
+        "publishedAt": "2026-08-24T14:45:18+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
