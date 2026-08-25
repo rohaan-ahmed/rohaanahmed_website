@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T16:00:31+00:00",
+  "generatedAt": "2026-08-25T16:21:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-25T16:00:31+00:00",
+      "updatedAt": "2026-08-25T16:21:26+00:00",
       "stories": [
         {
           "title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
@@ -31,14 +31,14 @@
           "source": "NASA"
         },
         {
-          "title": "Astronauts make history repairing the ISS | Space photo of the day for Aug. 25, 2026",
-          "url": "https://www.space.com/space-exploration/human-spaceflight/astronauts-make-history-repairing-the-iss-space-photo-of-the-day-for-aug-25-2026",
+          "title": "On this day in space! Aug. 25, 1997: NASA launches Advanced Composition Explorer to track solar wind and so much more",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026",
           "publishedAt": "2026-08-25T14:00:00+00:00",
           "source": "Space.com"
         },
         {
-          "title": "On this day in space! Aug. 25, 1997: NASA launches Advanced Composition Explorer to track solar wind and so much more",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-25-2026",
+          "title": "Astronauts make history repairing the ISS | Space photo of the day for Aug. 25, 2026",
+          "url": "https://www.space.com/space-exploration/human-spaceflight/astronauts-make-history-repairing-the-iss-space-photo-of-the-day-for-aug-25-2026",
           "publishedAt": "2026-08-25T14:00:00+00:00",
           "source": "Space.com"
         },
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-25T16:00:31+00:00",
+      "updatedAt": "2026-08-25T16:21:26+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-25T16:00:31+00:00",
+      "updatedAt": "2026-08-25T16:21:26+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -132,7 +132,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-25T16:00:31+00:00",
+      "updatedAt": "2026-08-25T16:21:26+00:00",
       "stories": [
         {
           "title": "How a new Pentagon memo ‘resets’ industry requirements, plus highlights from TechNet",
@@ -145,6 +145,12 @@
           "url": "https://breakingdefense.com/2026/08/saudi-turkish-pakistani-defense-pact-to-boost-turkish-industry-entire-trilateral-ecosystem",
           "publishedAt": "2026-08-25T15:20:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "USS Abraham Lincoln to dock in Thailand next week, Thai official says",
+          "url": "https://www.defensenews.com/news/your-navy/2026/08/25/uss-abraham-lincoln-to-dock-in-thailand-next-week-thai-official-says",
+          "publishedAt": "2026-08-25T15:59:15+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Hung Cao taps civilian to stand up Navy industrial base office",
@@ -195,12 +201,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "US cancels joint marine drills with South Korea over Iran war-related force constraints",
-          "url": "https://www.defensenews.com/global/asia-pacific/2026/08/24/us-cancels-joint-marine-drills-with-south-korea-over-iran-war-related-force-constraints",
-          "publishedAt": "2026-08-24T19:05:10+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Navy boss launches defense industrial base office",
           "url": "https://defensescoop.com/2026/08/24/navy-launches-office-of-the-defense-industrial-base",
           "publishedAt": "2026-08-24T21:25:43+00:00",
@@ -229,7 +229,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-25T16:00:31+00:00",
+      "updatedAt": "2026-08-25T16:21:26+00:00",
       "stories": [
         {
           "title": "Thomson Reuters builds its own legal AI model",
@@ -256,21 +256,45 @@
           "source": "TechCrunch AI"
         },
         {
+          "title": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded (4 minute read)",
+          "url": "https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Anonymous Ox Alpha processes 26T tokens on OpenCode, breaks OpenRouter launch record (4 minute read)",
+          "url": "https://runtimewire.com/article/anonymous-ox-alpha-processes-26t-tokens-on-opencode-breaks-openrouter-launch-rec",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Economics of the Intelligence Frontier (20 minute read)",
+          "url": "https://x.com/seanlinehan/status/2091955290552078418",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Hot Chips 2026: CUDA Targets RISC-V (7 minute read)",
+          "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "LLMs could control their host machines by exploiting inference engines (6 minute read)",
+          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Speculative Programmatic Tool Calling (12 minute read)",
+          "url": "https://alexzhang13.github.io/blog/2026/spec-ptc",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Accel-backed Keenable is indexing the web for AI agents",
           "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
           "publishedAt": "2026-08-25T13:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-          "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux",
-          "publishedAt": "2026-08-25T12:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-          "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec",
-          "publishedAt": "2026-08-25T00:23:12+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -286,12 +310,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-          "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo",
-          "publishedAt": "2026-08-24T21:24:17+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Slack turns coding into a group project",
           "url": "https://www.salesforce.com/introducing-slack-code",
           "publishedAt": "2026-08-21T10:00:00+00:00",
@@ -302,31 +320,13 @@
           "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494056747377225729",
           "publishedAt": "2026-08-21T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "AI finds hidden breast cancer patterns",
-          "url": "https://research.uhs.nhs.uk/news/ai-reveals-hidden-patterns-inside-breast-cancer",
-          "publishedAt": "2026-08-21T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic's Claude tackles protein design",
-          "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Replit adds Free Mode for routine work",
-          "url": "https://replit.com/blog/replit-introduces-free-mode",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-25T16:00:31+00:00",
+      "updatedAt": "2026-08-25T16:21:26+00:00",
       "stories": [
         {
           "title": "Humans in the loop are still needed for robotaxi fleet safety, says Guident",
@@ -422,7 +422,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-25T16:00:31+00:00",
+    "updatedAt": "2026-08-25T16:21:26+00:00",
     "stories": [
       {
         "title": "Thomson Reuters builds its own legal AI model",
@@ -497,21 +497,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "USS Abraham Lincoln to dock in Thailand next week, Thai official says",
+        "url": "https://www.defensenews.com/news/your-navy/2026/08/25/uss-abraham-lincoln-to-dock-in-thailand-next-week-thai-official-says",
+        "publishedAt": "2026-08-25T15:59:15+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA",
         "url": "https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia",
         "publishedAt": "2026-08-25T15:00:22+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Hung Cao taps civilian to stand up Navy industrial base office",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/25/hung-cao-taps-civilian-to-stand-up-navy-industrial-base-office",
-        "publishedAt": "2026-08-25T15:39:49+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -627,7 +627,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-13"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
