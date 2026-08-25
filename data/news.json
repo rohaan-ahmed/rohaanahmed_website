@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T13:16:42+00:00",
+  "generatedAt": "2026-08-25T14:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-25T13:16:42+00:00",
+      "updatedAt": "2026-08-25T14:00:32+00:00",
       "stories": [
         {
           "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-25T13:16:42+00:00",
+      "updatedAt": "2026-08-25T14:00:32+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-25T13:16:42+00:00",
+      "updatedAt": "2026-08-25T14:00:32+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -132,8 +132,26 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-25T13:16:42+00:00",
+      "updatedAt": "2026-08-25T14:00:32+00:00",
       "stories": [
+        {
+          "title": "Hypersonics, rocket startup Ursa Major to go public in $2.3B deal",
+          "url": "https://breakingdefense.com/2026/08/hypersonics-rocket-startup-ursa-major-to-go-public-in-2-3b-deal",
+          "publishedAt": "2026-08-25T13:29:29+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "UK provides Ukraine classified long-range SCALP missile blueprints",
+          "url": "https://breakingdefense.com/2026/08/uk-provides-ukraine-classified-long-range-scalp-missile-blueprints",
+          "publishedAt": "2026-08-25T13:20:41+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Ukraine’s newest ballistic missiles are weeks away from combat",
+          "url": "https://www.defensenews.com/global/europe/2026/08/25/ukraines-newest-ballistic-missiles-are-weeks-away-from-combat",
+          "publishedAt": "2026-08-25T13:40:27+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Dutch Navy to equip fleet with Destinus C-UAS interceptor drones",
           "url": "https://www.defensenews.com/global/europe/2026/08/25/dutch-navy-to-equip-fleet-with-destinus-c-uas-interceptor-drones",
@@ -171,22 +189,10 @@
           "source": "Defense News"
         },
         {
-          "title": "Polish firm MESKO signs $2B deal to arm 4 NATO nations with MANPADS",
-          "url": "https://breakingdefense.com/2026/08/polish-firm-mesko-signs-2b-deal-to-arm-4-nato-nations-with-manpads",
-          "publishedAt": "2026-08-24T18:06:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Navy boss launches defense industrial base office",
           "url": "https://defensescoop.com/2026/08/24/navy-launches-office-of-the-defense-industrial-base",
           "publishedAt": "2026-08-24T21:25:43+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Australia identifies future defense precinct site for AUKUS sub sustainment",
-          "url": "https://breakingdefense.com/2026/08/australia-identifies-future-defense-precinct-site-for-aukus-sub-sustainment",
-          "publishedAt": "2026-08-24T17:05:00+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Italy eyes US tech for souping up dumb missiles into drone interceptors",
@@ -207,12 +213,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "UK’s Burnham to visit Ukraine with plan to support long-range missile production",
-          "url": "https://www.defensenews.com/global/europe/2026/08/24/uks-burnham-to-visit-ukraine-with-plan-to-support-long-range-missile-production",
-          "publishedAt": "2026-08-24T13:46:49+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "U.S. military to host directed energy ‘shoot-off’ amid governmentwide counter-drone push",
           "url": "https://defensescoop.com/2026/08/21/us-military-directed-energy-shoot-off-counter-drone",
           "publishedAt": "2026-08-21T21:14:18+00:00",
@@ -229,7 +229,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-25T13:16:42+00:00",
+      "updatedAt": "2026-08-25T14:00:32+00:00",
       "stories": [
         {
           "title": "Thomson Reuters builds its own legal AI model",
@@ -242,6 +242,42 @@
           "url": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-hackers-use-deepseek-to-boost-attacks-researchers-say-mt7o4205",
           "publishedAt": "2026-08-25T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded (4 minute read)",
+          "url": "https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Anonymous Ox Alpha processes 26T tokens on OpenCode, breaks OpenRouter launch record (4 minute read)",
+          "url": "https://runtimewire.com/article/anonymous-ox-alpha-processes-26t-tokens-on-opencode-breaks-openrouter-launch-rec",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Economics of the Intelligence Frontier (20 minute read)",
+          "url": "https://x.com/seanlinehan/status/2091955290552078418",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Hot Chips 2026: CUDA Targets RISC-V (7 minute read)",
+          "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "LLMs could control their host machines by exploiting inference engines (6 minute read)",
+          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Speculative Programmatic Tool Calling (12 minute read)",
+          "url": "https://alexzhang13.github.io/blog/2026/spec-ptc",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Accel-backed Keenable is indexing the web for AI agents",
@@ -274,36 +310,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Hugging Face's $13B Valuation (3 minute read)",
-          "url": "https://runtimewire.com/article/hugging-face-explores-13-billion-sale",
-          "publishedAt": "2026-08-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Anthropic will give defenders what its strongest model finds, but not the model itself (3 minute read)",
-          "url": "https://thenextweb.com/news/anthropic-mythos-5-defenders-open-source-fund",
-          "publishedAt": "2026-08-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Grok Bot is now included with more plans (4 minute read)",
-          "url": "https://x.ai/news/grok-bot-more-plans",
-          "publishedAt": "2026-08-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Building a 24/7 Multi-Agent System: The SpaceXAI Playbook (100 minute read)",
-          "url": "https://drive.google.com/file/d/1ek73IrUN6wIwGkx70FuewOTEIVFPw3l4/view",
-          "publishedAt": "2026-08-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Evolution of the Agent Harness (10 minute read)",
-          "url": "https://www.latent.space/p/attention-interface",
-          "publishedAt": "2026-08-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Slack turns coding into a group project",
           "url": "https://www.salesforce.com/introducing-slack-code",
           "publishedAt": "2026-08-21T10:00:00+00:00",
@@ -314,19 +320,13 @@
           "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494056747377225729",
           "publishedAt": "2026-08-21T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic's Project Parka sits through meetings and assigns Claude agents the homework (11 minute read)",
-          "url": "https://runtimewire.com/article/anthropic-s-project-parka-sits-through-meetings-and-assigns-claude-agents-the-ho",
-          "publishedAt": "2026-08-21T00:00:00+00:00",
-          "source": "TLDR AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-25T13:16:42+00:00",
+      "updatedAt": "2026-08-25T14:00:32+00:00",
       "stories": [
         {
           "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
@@ -422,7 +422,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-25T13:16:42+00:00",
+    "updatedAt": "2026-08-25T14:00:32+00:00",
     "stories": [
       {
         "title": "Thomson Reuters builds its own legal AI model",
@@ -461,10 +461,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Dutch Navy to equip fleet with Destinus C-UAS interceptor drones",
-        "url": "https://www.defensenews.com/global/europe/2026/08/25/dutch-navy-to-equip-fleet-with-destinus-c-uas-interceptor-drones",
-        "publishedAt": "2026-08-25T08:50:44+00:00",
-        "source": "Defense News",
+        "title": "Hypersonics, rocket startup Ursa Major to go public in $2.3B deal",
+        "url": "https://breakingdefense.com/2026/08/hypersonics-rocket-startup-ursa-major-to-go-public-in-2-3b-deal",
+        "publishedAt": "2026-08-25T13:29:29+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -479,6 +479,24 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "UK provides Ukraine classified long-range SCALP missile blueprints",
+        "url": "https://breakingdefense.com/2026/08/uk-provides-ukraine-classified-long-range-scalp-missile-blueprints",
+        "publishedAt": "2026-08-25T13:20:41+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Ukraine’s newest ballistic missiles are weeks away from combat",
+        "url": "https://www.defensenews.com/global/europe/2026/08/25/ukraines-newest-ballistic-missiles-are-weeks-away-from-combat",
+        "publishedAt": "2026-08-25T13:40:27+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Polish startup Ares Shield hired to protect data center satellites with high-power microwave weapons",
         "url": "https://www.space.com/space-exploration/satellites/satellite-defense-ares-shield-contract-lonestar-data-holdings",
         "publishedAt": "2026-08-25T13:00:00+00:00",
@@ -488,30 +506,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Accel-backed Keenable is indexing the web for AI agents",
-        "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
-        "publishedAt": "2026-08-25T13:00:00+00:00",
-        "source": "TechCrunch AI",
+        "title": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded (4 minute read)",
+        "url": "https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin",
+        "publishedAt": "2026-08-25T00:00:00+00:00",
+        "source": "TLDR AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "NASA satellites ace world's 1st 'lost-in-space' GPS-free navigation experiment",
-        "url": "https://www.space.com/space-exploration/satellites/nasa-satellites-ace-worlds-1st-lost-in-space-gps-free-navigation-experiment",
-        "publishedAt": "2026-08-25T12:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Robotics and the future of on-orbit labor",
-        "url": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor",
-        "publishedAt": "2026-08-24T22:26:02+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
