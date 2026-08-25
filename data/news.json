@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T22:09:45+00:00",
+  "generatedAt": "2026-08-25T22:41:57+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-25T22:09:45+00:00",
+      "updatedAt": "2026-08-25T22:41:57+00:00",
       "stories": [
         {
           "title": "Propulsion is having a moment",
@@ -23,6 +23,12 @@
           "url": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat",
           "publishedAt": "2026-08-25T13:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+          "url": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network",
+          "publishedAt": "2026-08-25T22:28:34+00:00",
+          "source": "NASA"
         },
         {
           "title": "'You just saved the video dish': Two astronauts complete spacewalk to replace ISS antenna",
@@ -53,12 +59,6 @@
           "url": "https://www.space.com/space-exploration/private-spaceflight/spacex-announces-enormous-usd100-billion-starbase-louisiana-starship-launch-site",
           "publishedAt": "2026-08-25T18:27:22+00:00",
           "source": "Space.com"
-        },
-        {
-          "title": "NASA Ames Experts Available for Roman Space Telescope Interviews",
-          "url": "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews",
-          "publishedAt": "2026-08-25T18:47:01+00:00",
-          "source": "NASA"
         },
         {
           "title": "Robotics and the future of on-orbit labor",
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-25T22:09:45+00:00",
+      "updatedAt": "2026-08-25T22:41:57+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-25T22:09:45+00:00",
+      "updatedAt": "2026-08-25T22:41:57+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -138,8 +138,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-25T22:09:45+00:00",
+      "updatedAt": "2026-08-25T22:41:57+00:00",
       "stories": [
+        {
+          "title": "Ukraine needs changes to avoid losing war, ousted defense minister says",
+          "url": "https://www.defensenews.com/global/europe/2026/08/25/ukraine-needs-changes-to-avoid-losing-war-ousted-defense-minister-says",
+          "publishedAt": "2026-08-25T22:10:54+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "US Navy’s new anti-submarine torpedo will be a glide weapon",
           "url": "https://www.defensenews.com/industry/techwatch/2026/08/25/us-navys-new-anti-submarine-torpedo-will-be-a-glide-weapon",
@@ -207,12 +213,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Ukraine’s newest ballistic missiles are weeks away from combat",
-          "url": "https://www.defensenews.com/global/europe/2026/08/25/ukraines-newest-ballistic-missiles-are-weeks-away-from-combat",
-          "publishedAt": "2026-08-25T13:40:27+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "One year in, America’s counter-drone task force still has ‘a ton of work to do’",
           "url": "https://defensescoop.com/2026/08/24/one-year-in-americas-counter-drone-task-force-still-has-a-ton-of-work-to-do",
           "publishedAt": "2026-08-24T22:11:16+00:00",
@@ -235,7 +235,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-25T22:09:45+00:00",
+      "updatedAt": "2026-08-25T22:41:57+00:00",
       "stories": [
         {
           "title": "Thomson Reuters builds its own legal AI model",
@@ -332,7 +332,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-25T22:09:45+00:00",
+      "updatedAt": "2026-08-25T22:41:57+00:00",
       "stories": [
         {
           "title": "Early bird pricing for RoboBusiness 2026 ends August 31",
@@ -428,7 +428,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-25T22:09:45+00:00",
+    "updatedAt": "2026-08-25T22:41:57+00:00",
     "stories": [
       {
         "title": "Thomson Reuters builds its own legal AI model",
@@ -467,9 +467,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "US Navy’s new anti-submarine torpedo will be a glide weapon",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/25/us-navys-new-anti-submarine-torpedo-will-be-a-glide-weapon",
-        "publishedAt": "2026-08-25T19:30:37+00:00",
+        "title": "Ukraine needs changes to avoid losing war, ousted defense minister says",
+        "url": "https://www.defensenews.com/global/europe/2026/08/25/ukraine-needs-changes-to-avoid-losing-war-ousted-defense-minister-says",
+        "publishedAt": "2026-08-25T22:10:54+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -503,21 +503,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "US flexes new ship-sinking weapons at summer naval exercises",
-        "url": "https://breakingdefense.com/2026/08/us-flexes-new-ship-sinking-weapons-at-summer-naval-exercises",
-        "publishedAt": "2026-08-25T18:25:36+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+        "url": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network",
+        "publishedAt": "2026-08-25T22:28:34+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "'You just saved the video dish': Two astronauts complete spacewalk to replace ISS antenna",
-        "url": "https://www.space.com/space-exploration/international-space-station/you-just-saved-the-video-dish-two-astronauts-complete-spacewalk-to-replace-iss-antenna",
-        "publishedAt": "2026-08-25T21:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "US Navy’s new anti-submarine torpedo will be a glide weapon",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/25/us-navys-new-anti-submarine-torpedo-will-be-a-glide-weapon",
+        "publishedAt": "2026-08-25T19:30:37+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -634,6 +634,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-10"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-13"
   ]
 }
