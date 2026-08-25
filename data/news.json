@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-25T13:00:33+00:00",
+  "generatedAt": "2026-08-25T13:16:42+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-25T13:00:33+00:00",
+      "updatedAt": "2026-08-25T13:16:42+00:00",
       "stories": [
+        {
+          "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
+          "url": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat",
+          "publishedAt": "2026-08-25T13:00:00+00:00",
+          "source": "SpaceNews"
+        },
+        {
+          "title": "Polish startup Ares Shield hired to protect data center satellites with high-power microwave weapons",
+          "url": "https://www.space.com/space-exploration/satellites/satellite-defense-ares-shield-contract-lonestar-data-holdings",
+          "publishedAt": "2026-08-25T13:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "NASA satellites ace world's 1st 'lost-in-space' GPS-free navigation experiment",
           "url": "https://www.space.com/space-exploration/satellites/nasa-satellites-ace-worlds-1st-lost-in-space-gps-free-navigation-experiment",
@@ -22,12 +34,6 @@
           "title": "Stream 'Star Trek: Strange New Worlds' and 'Silo' securely from anywhere with 87% off Surfshark VPN",
           "url": "https://www.space.com/technology/stream-star-trek-strange-new-worlds-and-silo-securely-from-anywhere-with-87-percent-off-surfshark-vpn",
           "publishedAt": "2026-08-25T11:00:10+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "What time is the partial lunar eclipse on Aug. 27-28? Here's when to see the 96% 'blood moon'",
-          "url": "https://www.space.com/stargazing/lunar-eclipses/what-time-is-the-partial-lunar-eclipse-on-aug-27-28-heres-when-to-see-the-96-percent-blood-moon",
-          "publishedAt": "2026-08-25T07:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -79,12 +85,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
-          "url": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035",
-          "publishedAt": "2026-08-21T19:48:14+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Watch Sophie Adenot’s second spacewalk live",
           "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_second_spacewalk_live",
           "publishedAt": "2026-08-21T14:00:00+00:00",
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-25T13:00:33+00:00",
+      "updatedAt": "2026-08-25T13:16:42+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-25T13:00:33+00:00",
+      "updatedAt": "2026-08-25T13:16:42+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -132,7 +132,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-25T13:00:33+00:00",
+      "updatedAt": "2026-08-25T13:16:42+00:00",
       "stories": [
         {
           "title": "Dutch Navy to equip fleet with Destinus C-UAS interceptor drones",
@@ -229,7 +229,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-25T13:00:33+00:00",
+      "updatedAt": "2026-08-25T13:16:42+00:00",
       "stories": [
         {
           "title": "Thomson Reuters builds its own legal AI model",
@@ -242,6 +242,12 @@
           "url": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-hackers-use-deepseek-to-boost-attacks-researchers-say-mt7o4205",
           "publishedAt": "2026-08-25T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Accel-backed Keenable is indexing the web for AI agents",
+          "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
+          "publishedAt": "2026-08-25T13:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
@@ -266,12 +272,6 @@
           "url": "https://www.outerbio.com/news/why-we-are-building-outer-bio",
           "publishedAt": "2026-08-24T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-          "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo",
-          "publishedAt": "2026-08-24T21:24:17+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "Hugging Face's $13B Valuation (3 minute read)",
@@ -326,7 +326,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-25T13:00:33+00:00",
+      "updatedAt": "2026-08-25T13:16:42+00:00",
       "stories": [
         {
           "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
@@ -422,7 +422,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-25T13:00:33+00:00",
+    "updatedAt": "2026-08-25T13:16:42+00:00",
     "stories": [
       {
         "title": "Thomson Reuters builds its own legal AI model",
@@ -443,10 +443,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NASA satellites ace world's 1st 'lost-in-space' GPS-free navigation experiment",
-        "url": "https://www.space.com/space-exploration/satellites/nasa-satellites-ace-worlds-1st-lost-in-space-gps-free-navigation-experiment",
-        "publishedAt": "2026-08-25T12:00:00+00:00",
-        "source": "Space.com",
+        "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
+        "url": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat",
+        "publishedAt": "2026-08-25T13:00:00+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -479,37 +479,37 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Robotics and the future of on-orbit labor",
-        "url": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor",
-        "publishedAt": "2026-08-24T22:26:02+00:00",
-        "source": "SpaceNews",
+        "title": "Polish startup Ares Shield hired to protect data center satellites with high-power microwave weapons",
+        "url": "https://www.space.com/space-exploration/satellites/satellite-defense-ares-shield-contract-lonestar-data-holdings",
+        "publishedAt": "2026-08-25T13:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-        "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux",
-        "publishedAt": "2026-08-25T12:00:00+00:00",
+        "title": "Accel-backed Keenable is indexing the web for AI agents",
+        "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
+        "publishedAt": "2026-08-25T13:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Stream 'Star Trek: Strange New Worlds' and 'Silo' securely from anywhere with 87% off Surfshark VPN",
-        "url": "https://www.space.com/technology/stream-star-trek-strange-new-worlds-and-silo-securely-from-anywhere-with-87-percent-off-surfshark-vpn",
-        "publishedAt": "2026-08-25T11:00:10+00:00",
+        "title": "NASA satellites ace world's 1st 'lost-in-space' GPS-free navigation experiment",
+        "url": "https://www.space.com/space-exploration/satellites/nasa-satellites-ace-worlds-1st-lost-in-space-gps-free-navigation-experiment",
+        "publishedAt": "2026-08-25T12:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "What time is the partial lunar eclipse on Aug. 27-28? Here's when to see the 96% 'blood moon'",
-        "url": "https://www.space.com/stargazing/lunar-eclipses/what-time-is-the-partial-lunar-eclipse-on-aug-27-28-heres-when-to-see-the-96-percent-blood-moon",
-        "publishedAt": "2026-08-25T07:00:00+00:00",
-        "source": "Space.com",
+        "title": "Robotics and the future of on-orbit labor",
+        "url": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor",
+        "publishedAt": "2026-08-24T22:26:02+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
