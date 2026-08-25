@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T19:00:33+00:00",
+  "generatedAt": "2026-08-25T19:19:44+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-25T19:00:33+00:00",
+      "updatedAt": "2026-08-25T19:19:44+00:00",
       "stories": [
         {
           "title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
@@ -43,7 +43,7 @@
           "source": "NASA"
         },
         {
-          "title": "The Roman Space Telescope will reveal the universe in a way the JWST and Hubble cannot",
+          "title": "NASA's Roman Space Telescope will reveal the universe in a way the JWST and Hubble cannot",
           "url": "https://www.space.com/astronomy/the-roman-space-telescope-will-reveal-the-universe-in-a-way-the-jwst-and-hubble-cannot",
           "publishedAt": "2026-08-25T17:00:15+00:00",
           "source": "Space.com"
@@ -101,14 +101,20 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-25T19:00:33+00:00",
+      "updatedAt": "2026-08-25T19:19:44+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-25T19:00:33+00:00",
+      "updatedAt": "2026-08-25T19:19:44+00:00",
       "stories": [
+        {
+          "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/canadian-armed-forces-launch-operation-nanook-nunakput-to-strengthen-security-along-the-canadian-arctic-archipelago.html",
+          "publishedAt": "2026-08-25T19:09:12+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Canada marks start of major infrastructure upgrades at 5th Canadian Division Support Base Gagetown",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/canada-marks-start-of-major-infrastructure-upgrades-at-5th-canadian-division-support-base-gagetown.html",
@@ -132,7 +138,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-25T19:00:33+00:00",
+      "updatedAt": "2026-08-25T19:19:44+00:00",
       "stories": [
         {
           "title": "US flexes new ship-sinking weapons at summer naval exercises",
@@ -229,7 +235,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-25T19:00:33+00:00",
+      "updatedAt": "2026-08-25T19:19:44+00:00",
       "stories": [
         {
           "title": "Thomson Reuters builds its own legal AI model",
@@ -242,6 +248,12 @@
           "url": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-hackers-use-deepseek-to-boost-attacks-researchers-say-mt7o4205",
           "publishedAt": "2026-08-25T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+          "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding",
+          "publishedAt": "2026-08-25T19:03:47+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Claude Cowork finally remembers what you told the app in chat",
@@ -262,40 +274,16 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded (4 minute read)",
-          "url": "https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin",
-          "publishedAt": "2026-08-25T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Accel-backed Keenable is indexing the web for AI agents",
+          "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
+          "publishedAt": "2026-08-25T13:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Anonymous Ox Alpha processes 26T tokens on OpenCode, breaks OpenRouter launch record (4 minute read)",
-          "url": "https://runtimewire.com/article/anonymous-ox-alpha-processes-26t-tokens-on-opencode-breaks-openrouter-launch-rec",
-          "publishedAt": "2026-08-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Economics of the Intelligence Frontier (20 minute read)",
-          "url": "https://x.com/seanlinehan/status/2091955290552078418",
-          "publishedAt": "2026-08-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Hot Chips 2026: CUDA Targets RISC-V (7 minute read)",
-          "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-          "publishedAt": "2026-08-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "LLMs could control their host machines by exploiting inference engines (6 minute read)",
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "publishedAt": "2026-08-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Speculative Programmatic Tool Calling (12 minute read)",
-          "url": "https://alexzhang13.github.io/blog/2026/spec-ptc",
-          "publishedAt": "2026-08-25T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+          "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux",
+          "publishedAt": "2026-08-25T12:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Ox Alpha has the internet playing detective",
@@ -320,13 +308,31 @@
           "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494056747377225729",
           "publishedAt": "2026-08-21T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "AI finds hidden breast cancer patterns",
+          "url": "https://research.uhs.nhs.uk/news/ai-reveals-hidden-patterns-inside-breast-cancer",
+          "publishedAt": "2026-08-21T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic's Claude tackles protein design",
+          "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+          "publishedAt": "2026-08-20T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Replit adds Free Mode for routine work",
+          "url": "https://replit.com/blog/replit-introduces-free-mode",
+          "publishedAt": "2026-08-20T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-25T19:00:33+00:00",
+      "updatedAt": "2026-08-25T19:19:44+00:00",
       "stories": [
         {
           "title": "Early bird pricing for RoboBusiness 2026 ends August 31",
@@ -422,7 +428,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-25T19:00:33+00:00",
+    "updatedAt": "2026-08-25T19:19:44+00:00",
     "stories": [
       {
         "title": "Thomson Reuters builds its own legal AI model",
@@ -452,9 +458,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Canada marks start of major infrastructure upgrades at 5th Canadian Division Support Base Gagetown",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/canada-marks-start-of-major-infrastructure-upgrades-at-5th-canadian-division-support-base-gagetown.html",
-        "publishedAt": "2026-08-25T18:32:31+00:00",
+        "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/canadian-armed-forces-launch-operation-nanook-nunakput-to-strengthen-security-along-the-canadian-arctic-archipelago.html",
+        "publishedAt": "2026-08-25T19:09:12+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
@@ -506,12 +512,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Saudi-Turkish-Pakistani defense pact to boost Turkish industry, entire trilateral ‘ecosystem’",
-        "url": "https://breakingdefense.com/2026/08/saudi-turkish-pakistani-defense-pact-to-boost-turkish-industry-entire-trilateral-ecosystem",
-        "publishedAt": "2026-08-25T15:20:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+        "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding",
+        "publishedAt": "2026-08-25T19:03:47+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -627,6 +633,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-03"
   ]
 }
