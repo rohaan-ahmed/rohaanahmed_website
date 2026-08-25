@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-08-25T07:00:29+00:00",
+  "generatedAt": "2026-08-25T07:13:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-25T07:00:29+00:00",
+      "updatedAt": "2026-08-25T07:13:32+00:00",
       "stories": [
         {
           "title": "Robotics and the future of on-orbit labor",
           "url": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor",
           "publishedAt": "2026-08-24T22:26:02+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "What time is the partial lunar eclipse on Aug. 27-28? Here's when to see the 96% 'blood moon'",
+          "url": "https://www.space.com/stargazing/lunar-eclipses/what-time-is-the-partial-lunar-eclipse-on-aug-27-28-heres-when-to-see-the-96-percent-blood-moon",
+          "publishedAt": "2026-08-25T07:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
@@ -46,12 +52,6 @@
           "title": "Pluto losing its planet status may be the best thing that ever happened to solar system diversity",
           "url": "https://www.space.com/astronomy/pluto/pluto-losing-its-planet-status-may-be-the-best-thing-that-ever-happened-to-solar-system-diversity",
           "publishedAt": "2026-08-24T21:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "'Ghosts of Mars' at 25: Are we any closer to living on the Red Planet? We asked the experts",
-          "url": "https://www.space.com/entertainment/space-movies-shows/ghosts-of-mars-at-25-are-we-any-closer-to-living-on-the-red-planet-we-asked-the-experts",
-          "publishedAt": "2026-08-24T20:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-25T07:00:29+00:00",
+      "updatedAt": "2026-08-25T07:13:32+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-25T07:00:29+00:00",
+      "updatedAt": "2026-08-25T07:13:32+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -132,7 +132,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-25T07:00:29+00:00",
+      "updatedAt": "2026-08-25T07:13:32+00:00",
       "stories": [
         {
           "title": "Navy reveals new long range air-to-air missile, dubbed ‘Malice’",
@@ -229,7 +229,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-25T07:00:29+00:00",
+      "updatedAt": "2026-08-25T07:13:32+00:00",
       "stories": [
         {
           "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -326,7 +326,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-25T07:00:29+00:00",
+      "updatedAt": "2026-08-25T07:13:32+00:00",
       "stories": [
         {
           "title": "The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn",
@@ -422,7 +422,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-25T07:00:29+00:00",
+    "updatedAt": "2026-08-25T07:13:32+00:00",
     "stories": [
       {
         "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -479,6 +479,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "What time is the partial lunar eclipse on Aug. 27-28? Here's when to see the 96% 'blood moon'",
+        "url": "https://www.space.com/stargazing/lunar-eclipses/what-time-is-the-partial-lunar-eclipse-on-aug-27-28-heres-when-to-see-the-96-percent-blood-moon",
+        "publishedAt": "2026-08-25T07:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
         "url": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit",
         "publishedAt": "2026-08-24T17:30:00+00:00",
@@ -501,15 +510,6 @@
         "url": "https://www.space.com/space-exploration/international-space-station/watch-2-astronauts-replace-failed-iss-antenna-during-spacewalk-today",
         "publishedAt": "2026-08-25T04:01:00+00:00",
         "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent.",
-        "url": "https://spacenews.com/the-fuel-for-the-next-generation-of-cislunar-exploration-technology-and-talent",
-        "publishedAt": "2026-08-24T14:00:00+00:00",
-        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -628,6 +628,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-03"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-13"
   ]
 }
