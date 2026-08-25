@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T03:08:37+00:00",
+  "generatedAt": "2026-08-25T03:56:02+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-25T03:08:37+00:00",
+      "updatedAt": "2026-08-25T03:56:02+00:00",
       "stories": [
         {
           "title": "Robotics and the future of on-orbit labor",
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-25T03:08:37+00:00",
+      "updatedAt": "2026-08-25T03:56:02+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-25T03:08:37+00:00",
+      "updatedAt": "2026-08-25T03:56:02+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -132,7 +132,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-25T03:08:37+00:00",
+      "updatedAt": "2026-08-25T03:56:02+00:00",
       "stories": [
         {
           "title": "Navy reveals new long range air-to-air missile, dubbed ‘Malice’",
@@ -229,7 +229,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-25T03:08:37+00:00",
+      "updatedAt": "2026-08-25T03:56:02+00:00",
       "stories": [
         {
           "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -262,34 +262,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Hugging Face's $13B Valuation (3 minute read)",
-          "url": "https://runtimewire.com/article/hugging-face-explores-13-billion-sale",
-          "publishedAt": "2026-08-24T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+          "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
+          "publishedAt": "2026-08-24T18:03:55+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Anthropic will give defenders what its strongest model finds, but not the model itself (3 minute read)",
-          "url": "https://thenextweb.com/news/anthropic-mythos-5-defenders-open-source-fund",
-          "publishedAt": "2026-08-24T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+          "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
+          "publishedAt": "2026-08-24T15:24:18+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Grok Bot is now included with more plans (4 minute read)",
-          "url": "https://x.ai/news/grok-bot-more-plans",
-          "publishedAt": "2026-08-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Building a 24/7 Multi-Agent System: The SpaceXAI Playbook (100 minute read)",
-          "url": "https://drive.google.com/file/d/1ek73IrUN6wIwGkx70FuewOTEIVFPw3l4/view",
-          "publishedAt": "2026-08-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Evolution of the Agent Harness (10 minute read)",
-          "url": "https://www.latent.space/p/attention-interface",
-          "publishedAt": "2026-08-24T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+          "publishedAt": "2026-08-24T15:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Slack turns coding into a group project",
@@ -310,15 +298,27 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Anthropic's Project Parka sits through meetings and assigns Claude agents the homework (11 minute read)",
-          "url": "https://runtimewire.com/article/anthropic-s-project-parka-sits-through-meetings-and-assigns-claude-agents-the-ho",
-          "publishedAt": "2026-08-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Anthropic's Claude tackles protein design",
           "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
           "publishedAt": "2026-08-20T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Replit adds Free Mode for routine work",
+          "url": "https://replit.com/blog/replit-introduces-free-mode",
+          "publishedAt": "2026-08-20T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI pauses frontier training over misalignment",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "publishedAt": "2026-08-19T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI moves teens to their own ChatGPT",
+          "url": "https://openai.com/index/chatgpt-for-teens",
+          "publishedAt": "2026-08-19T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -326,7 +326,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-25T03:08:37+00:00",
+      "updatedAt": "2026-08-25T03:56:02+00:00",
       "stories": [
         {
           "title": "The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn",
@@ -422,7 +422,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-25T03:08:37+00:00",
+    "updatedAt": "2026-08-25T03:56:02+00:00",
     "stories": [
       {
         "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -627,6 +627,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-07"
   ]
 }
