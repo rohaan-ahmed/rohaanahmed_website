@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T12:17:43+00:00",
+  "generatedAt": "2026-08-25T13:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-25T12:17:43+00:00",
+      "updatedAt": "2026-08-25T13:00:33+00:00",
       "stories": [
         {
           "title": "NASA satellites ace world's 1st 'lost-in-space' GPS-free navigation experiment",
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-25T12:17:43+00:00",
+      "updatedAt": "2026-08-25T13:00:33+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-25T12:17:43+00:00",
+      "updatedAt": "2026-08-25T13:00:33+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -132,7 +132,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-25T12:17:43+00:00",
+      "updatedAt": "2026-08-25T13:00:33+00:00",
       "stories": [
         {
           "title": "Dutch Navy to equip fleet with Destinus C-UAS interceptor drones",
@@ -229,7 +229,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-25T12:17:43+00:00",
+      "updatedAt": "2026-08-25T13:00:33+00:00",
       "stories": [
         {
           "title": "Thomson Reuters builds its own legal AI model",
@@ -242,6 +242,12 @@
           "url": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-hackers-use-deepseek-to-boost-attacks-researchers-say-mt7o4205",
           "publishedAt": "2026-08-25T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+          "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux",
+          "publishedAt": "2026-08-25T12:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -268,28 +274,34 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026",
-          "publishedAt": "2026-08-24T19:54:19+00:00",
-          "source": "TechCrunch AI"
+          "title": "Hugging Face's $13B Valuation (3 minute read)",
+          "url": "https://runtimewire.com/article/hugging-face-explores-13-billion-sale",
+          "publishedAt": "2026-08-24T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-          "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
-          "publishedAt": "2026-08-24T18:03:55+00:00",
-          "source": "TechCrunch AI"
+          "title": "Anthropic will give defenders what its strongest model finds, but not the model itself (3 minute read)",
+          "url": "https://thenextweb.com/news/anthropic-mythos-5-defenders-open-source-fund",
+          "publishedAt": "2026-08-24T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-          "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
-          "publishedAt": "2026-08-24T15:24:18+00:00",
-          "source": "TechCrunch AI"
+          "title": "Grok Bot is now included with more plans (4 minute read)",
+          "url": "https://x.ai/news/grok-bot-more-plans",
+          "publishedAt": "2026-08-24T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-          "publishedAt": "2026-08-24T15:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Building a 24/7 Multi-Agent System: The SpaceXAI Playbook (100 minute read)",
+          "url": "https://drive.google.com/file/d/1ek73IrUN6wIwGkx70FuewOTEIVFPw3l4/view",
+          "publishedAt": "2026-08-24T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Evolution of the Agent Harness (10 minute read)",
+          "url": "https://www.latent.space/p/attention-interface",
+          "publishedAt": "2026-08-24T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Slack turns coding into a group project",
@@ -304,30 +316,24 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "AI finds hidden breast cancer patterns",
-          "url": "https://research.uhs.nhs.uk/news/ai-reveals-hidden-patterns-inside-breast-cancer",
-          "publishedAt": "2026-08-21T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic's Claude tackles protein design",
-          "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Replit adds Free Mode for routine work",
-          "url": "https://replit.com/blog/replit-introduces-free-mode",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "The Rundown AI"
+          "title": "Anthropic's Project Parka sits through meetings and assigns Claude agents the homework (11 minute read)",
+          "url": "https://runtimewire.com/article/anthropic-s-project-parka-sits-through-meetings-and-assigns-claude-agents-the-ho",
+          "publishedAt": "2026-08-21T00:00:00+00:00",
+          "source": "TLDR AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-25T12:17:43+00:00",
+      "updatedAt": "2026-08-25T13:00:33+00:00",
       "stories": [
+        {
+          "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
+          "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
+          "publishedAt": "2026-08-25T10:00:03+00:00",
+          "source": "IEEE Spectrum Robotics"
+        },
         {
           "title": "The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn",
           "url": "https://www.therobotreport.com/the-next-big-ai-play-isnt-apps-or-humanoids-its-machines-with-brains-and-brawn",
@@ -401,12 +407,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness",
-          "url": "https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness",
-          "publishedAt": "2026-08-19T20:15:47+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Drones With Claws Perch on Arctic Icebergs",
           "url": "https://spectrum.ieee.org/arctic-iceberg-drones",
           "publishedAt": "2026-08-18T13:00:01+00:00",
@@ -422,7 +422,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-25T12:17:43+00:00",
+    "updatedAt": "2026-08-25T13:00:33+00:00",
     "stories": [
       {
         "title": "Thomson Reuters builds its own legal AI model",
@@ -470,10 +470,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn",
-        "url": "https://www.therobotreport.com/the-next-big-ai-play-isnt-apps-or-humanoids-its-machines-with-brains-and-brawn",
-        "publishedAt": "2026-08-24T22:53:33+00:00",
-        "source": "The Robot Report",
+        "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
+        "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
+        "publishedAt": "2026-08-25T10:00:03+00:00",
+        "source": "IEEE Spectrum Robotics",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
@@ -485,6 +485,15 @@
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+        "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux",
+        "publishedAt": "2026-08-25T12:00:00+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       },
       {
@@ -501,15 +510,6 @@
         "url": "https://www.space.com/stargazing/lunar-eclipses/what-time-is-the-partial-lunar-eclipse-on-aug-27-28-heres-when-to-see-the-96-percent-blood-moon",
         "publishedAt": "2026-08-25T07:00:00+00:00",
         "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
-        "url": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit",
-        "publishedAt": "2026-08-24T17:30:00+00:00",
-        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -627,7 +627,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-14"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
