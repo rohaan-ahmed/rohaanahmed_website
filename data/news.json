@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T22:41:57+00:00",
+  "generatedAt": "2026-08-25T23:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-25T22:41:57+00:00",
+      "updatedAt": "2026-08-25T23:00:28+00:00",
       "stories": [
         {
           "title": "Propulsion is having a moment",
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-25T22:41:57+00:00",
+      "updatedAt": "2026-08-25T23:00:28+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-25T22:41:57+00:00",
+      "updatedAt": "2026-08-25T23:00:28+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -138,13 +138,19 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-25T22:41:57+00:00",
+      "updatedAt": "2026-08-25T23:00:28+00:00",
       "stories": [
         {
           "title": "Ukraine needs changes to avoid losing war, ousted defense minister says",
           "url": "https://www.defensenews.com/global/europe/2026/08/25/ukraine-needs-changes-to-avoid-losing-war-ousted-defense-minister-says",
           "publishedAt": "2026-08-25T22:10:54+00:00",
           "source": "Defense News"
+        },
+        {
+          "title": "Before Iran war, Army NETCOM transferred network and C2 services between theaters for first time",
+          "url": "https://defensescoop.com/2026/08/25/before-iran-war-army-netcom-transferred-network-services-between-theaters",
+          "publishedAt": "2026-08-25T22:55:16+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "US Navy’s new anti-submarine torpedo will be a glide weapon",
@@ -223,19 +229,13 @@
           "url": "https://defensescoop.com/2026/08/24/navy-launches-office-of-the-defense-industrial-base",
           "publishedAt": "2026-08-24T21:25:43+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "U.S. military gearing up for unmanned ground vehicle demo",
-          "url": "https://defensescoop.com/2026/08/24/us-military-gearing-up-for-unmanned-ground-vehicle-demo",
-          "publishedAt": "2026-08-24T16:51:51+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-25T22:41:57+00:00",
+      "updatedAt": "2026-08-25T23:00:28+00:00",
       "stories": [
         {
           "title": "Thomson Reuters builds its own legal AI model",
@@ -332,7 +332,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-25T22:41:57+00:00",
+      "updatedAt": "2026-08-25T23:00:28+00:00",
       "stories": [
         {
           "title": "Early bird pricing for RoboBusiness 2026 ends August 31",
@@ -428,7 +428,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-25T22:41:57+00:00",
+    "updatedAt": "2026-08-25T23:00:28+00:00",
     "stories": [
       {
         "title": "Thomson Reuters builds its own legal AI model",
@@ -503,21 +503,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "Before Iran war, Army NETCOM transferred network and C2 services between theaters for first time",
+        "url": "https://defensescoop.com/2026/08/25/before-iran-war-army-netcom-transferred-network-services-between-theaters",
+        "publishedAt": "2026-08-25T22:55:16+00:00",
+        "source": "DefenseScoop",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
         "url": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network",
         "publishedAt": "2026-08-25T22:28:34+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "US Navy’s new anti-submarine torpedo will be a glide weapon",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/25/us-navys-new-anti-submarine-torpedo-will-be-a-glide-weapon",
-        "publishedAt": "2026-08-25T19:30:37+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -634,6 +634,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-13"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-12"
   ]
 }
