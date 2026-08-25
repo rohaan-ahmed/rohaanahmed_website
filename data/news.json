@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T08:54:38+00:00",
+  "generatedAt": "2026-08-25T09:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-25T08:54:38+00:00",
+      "updatedAt": "2026-08-25T09:00:26+00:00",
       "stories": [
         {
           "title": "Robotics and the future of on-orbit labor",
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-25T08:54:38+00:00",
+      "updatedAt": "2026-08-25T09:00:26+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-25T08:54:38+00:00",
+      "updatedAt": "2026-08-25T09:00:26+00:00",
       "stories": [
         {
           "title": "Canada to co-host 28th Annual Indo-Pacific Chiefs of Defense Conference: Strengthening Collective Security: Navigating Challenges in a Dynamic Indo-Pacific Landscape",
@@ -132,8 +132,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-25T08:54:38+00:00",
+      "updatedAt": "2026-08-25T09:00:26+00:00",
       "stories": [
+        {
+          "title": "Dutch Navy to equip fleet with Destinus C-UAS interceptor drones",
+          "url": "https://www.defensenews.com/global/europe/2026/08/25/dutch-navy-to-equip-fleet-with-destinus-c-uas-interceptor-drones",
+          "publishedAt": "2026-08-25T08:50:44+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Navy reveals new long range air-to-air missile, dubbed ‘Malice’",
           "url": "https://breakingdefense.com/2026/08/navy-reveals-new-long-range-air-to-air-missile-dubbed-malice",
@@ -207,12 +213,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran",
-          "url": "https://www.defensenews.com/global/europe/2026/08/24/two-us-tanker-aircraft-leave-bulgaria-a-month-after-deployment-upset-iran",
-          "publishedAt": "2026-08-24T08:44:35+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "U.S. military to host directed energy ‘shoot-off’ amid governmentwide counter-drone push",
           "url": "https://defensescoop.com/2026/08/21/us-military-directed-energy-shoot-off-counter-drone",
           "publishedAt": "2026-08-21T21:14:18+00:00",
@@ -229,7 +229,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-25T08:54:38+00:00",
+      "updatedAt": "2026-08-25T09:00:26+00:00",
       "stories": [
         {
           "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -326,7 +326,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-25T08:54:38+00:00",
+      "updatedAt": "2026-08-25T09:00:26+00:00",
       "stories": [
         {
           "title": "The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn",
@@ -422,7 +422,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-25T08:54:38+00:00",
+    "updatedAt": "2026-08-25T09:00:26+00:00",
     "stories": [
       {
         "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -461,10 +461,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Navy reveals new long range air-to-air missile, dubbed ‘Malice’",
-        "url": "https://breakingdefense.com/2026/08/navy-reveals-new-long-range-air-to-air-missile-dubbed-malice",
-        "publishedAt": "2026-08-24T19:13:00+00:00",
-        "source": "Breaking Defense",
+        "title": "Dutch Navy to equip fleet with Destinus C-UAS interceptor drones",
+        "url": "https://www.defensenews.com/global/europe/2026/08/25/dutch-navy-to-equip-fleet-with-destinus-c-uas-interceptor-drones",
+        "publishedAt": "2026-08-25T08:50:44+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
