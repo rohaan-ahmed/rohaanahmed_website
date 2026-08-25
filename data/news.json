@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T20:11:48+00:00",
+  "generatedAt": "2026-08-25T20:50:22+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-25T20:11:48+00:00",
+      "updatedAt": "2026-08-25T20:50:22+00:00",
       "stories": [
         {
           "title": "Propulsion is having a moment",
@@ -31,6 +31,12 @@
           "source": "Space.com"
         },
         {
+          "title": "NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama",
+          "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama",
+          "publishedAt": "2026-08-25T20:20:58+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "NASA Ames’ Contributions to Roman’s Mission",
           "url": "https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission",
           "publishedAt": "2026-08-25T19:44:55+00:00",
@@ -52,12 +58,6 @@
           "title": "NASA Ames Experts Available for Roman Space Telescope Interviews",
           "url": "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews",
           "publishedAt": "2026-08-25T18:47:01+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars",
-          "url": "https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars",
-          "publishedAt": "2026-08-25T17:55:02+00:00",
           "source": "NASA"
         },
         {
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-25T20:11:48+00:00",
+      "updatedAt": "2026-08-25T20:50:22+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-25T20:11:48+00:00",
+      "updatedAt": "2026-08-25T20:50:22+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -138,7 +138,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-25T20:11:48+00:00",
+      "updatedAt": "2026-08-25T20:50:22+00:00",
       "stories": [
         {
           "title": "US Navy’s new anti-submarine torpedo will be a glide weapon",
@@ -151,6 +151,12 @@
           "url": "https://breakingdefense.com/2026/08/us-flexes-new-ship-sinking-weapons-at-summer-naval-exercises",
           "publishedAt": "2026-08-25T18:25:36+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Air Force awards $100M production deal for AI-enabled readiness platform",
+          "url": "https://defensescoop.com/2026/08/25/air-force-awards-100m-deal-ai-enabled-readiness-platform",
+          "publishedAt": "2026-08-25T20:13:32+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "How a new Pentagon memo ‘resets’ industry requirements, plus highlights from TechNet",
@@ -223,19 +229,13 @@
           "url": "https://defensescoop.com/2026/08/24/us-military-gearing-up-for-unmanned-ground-vehicle-demo",
           "publishedAt": "2026-08-24T16:51:51+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "U.S. military to host directed energy ‘shoot-off’ amid governmentwide counter-drone push",
-          "url": "https://defensescoop.com/2026/08/21/us-military-directed-energy-shoot-off-counter-drone",
-          "publishedAt": "2026-08-21T21:14:18+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-25T20:11:48+00:00",
+      "updatedAt": "2026-08-25T20:50:22+00:00",
       "stories": [
         {
           "title": "Thomson Reuters builds its own legal AI model",
@@ -268,22 +268,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-          "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
-          "publishedAt": "2026-08-25T14:22:04+00:00",
-          "source": "TechCrunch AI"
+          "title": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded (4 minute read)",
+          "url": "https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Accel-backed Keenable is indexing the web for AI agents",
-          "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
-          "publishedAt": "2026-08-25T13:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Anonymous Ox Alpha processes 26T tokens on OpenCode, breaks OpenRouter launch record (4 minute read)",
+          "url": "https://runtimewire.com/article/anonymous-ox-alpha-processes-26t-tokens-on-opencode-breaks-openrouter-launch-rec",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-          "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux",
-          "publishedAt": "2026-08-25T12:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "The Economics of the Intelligence Frontier (20 minute read)",
+          "url": "https://x.com/seanlinehan/status/2091955290552078418",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Hot Chips 2026: CUDA Targets RISC-V (7 minute read)",
+          "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "LLMs could control their host machines by exploiting inference engines (6 minute read)",
+          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Speculative Programmatic Tool Calling (12 minute read)",
+          "url": "https://alexzhang13.github.io/blog/2026/spec-ptc",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Ox Alpha has the internet playing detective",
@@ -308,31 +326,13 @@
           "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494056747377225729",
           "publishedAt": "2026-08-21T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "AI finds hidden breast cancer patterns",
-          "url": "https://research.uhs.nhs.uk/news/ai-reveals-hidden-patterns-inside-breast-cancer",
-          "publishedAt": "2026-08-21T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic's Claude tackles protein design",
-          "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Replit adds Free Mode for routine work",
-          "url": "https://replit.com/blog/replit-introduces-free-mode",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-25T20:11:48+00:00",
+      "updatedAt": "2026-08-25T20:50:22+00:00",
       "stories": [
         {
           "title": "Early bird pricing for RoboBusiness 2026 ends August 31",
@@ -428,7 +428,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-25T20:11:48+00:00",
+    "updatedAt": "2026-08-25T20:50:22+00:00",
     "stories": [
       {
         "title": "Thomson Reuters builds its own legal AI model",
@@ -633,7 +633,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-07"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
