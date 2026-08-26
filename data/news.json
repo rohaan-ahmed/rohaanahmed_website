@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T20:14:47+00:00",
+  "generatedAt": "2026-08-26T21:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-26T20:14:47+00:00",
+      "updatedAt": "2026-08-26T21:00:29+00:00",
       "stories": [
         {
           "title": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-26T20:14:47+00:00",
+      "updatedAt": "2026-08-26T21:00:29+00:00",
       "stories": [
         {
           "title": "Xona gets FCC approval to build jamming-resistant PNT constellation",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-26T20:14:47+00:00",
+      "updatedAt": "2026-08-26T21:00:29+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -199,13 +199,19 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-26T20:14:47+00:00",
+      "updatedAt": "2026-08-26T21:00:29+00:00",
       "stories": [
         {
           "title": "Army taps 5 vendors to move forward with nuclear microreactor prototypes",
           "url": "https://breakingdefense.com/2026/08/army-taps-5-vendors-to-build-nuclear-microreactors-with-2-2b-pot",
           "publishedAt": "2026-08-26T20:00:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "US Army taps 5 firms to build on-base microreactors in nuclear energy push",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/08/26/us-army-taps-5-firms-to-build-on-base-microreactors-in-nuclear-energy-push",
+          "publishedAt": "2026-08-26T20:48:16+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Hegseth stands by LaNeve nomination amid reported lawmaker hesitation",
@@ -268,12 +274,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "First North Korea-Russia road bridge nearly complete, symbolizing new era of military cooperation",
-          "url": "https://www.defensenews.com/global/asia-pacific/2026/08/26/first-north-korea-russia-road-bridge-nearly-complete-symbolizing-new-era-of-military-cooperation",
-          "publishedAt": "2026-08-26T09:03:18+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Before Iran war, Army NETCOM transferred network and C2 services between theaters for first time",
           "url": "https://defensescoop.com/2026/08/25/before-iran-war-army-netcom-transferred-network-services-between-theaters",
           "publishedAt": "2026-08-25T22:55:16+00:00",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-26T20:14:47+00:00",
+      "updatedAt": "2026-08-26T21:00:29+00:00",
       "stories": [
         {
           "title": "OpenAI's Jalapeño chip brings the heat",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-26T20:14:47+00:00",
+      "updatedAt": "2026-08-26T21:00:29+00:00",
       "stories": [
         {
           "title": "Gatik brings in $200M to continue expanding autonomous trucking operations",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-26T20:14:47+00:00",
+    "updatedAt": "2026-08-26T21:00:29+00:00",
     "stories": [
       {
         "title": "OpenAI's Jalapeño chip brings the heat",
@@ -573,10 +573,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Hegseth stands by LaNeve nomination amid reported lawmaker hesitation",
-        "url": "https://breakingdefense.com/2026/08/hegseth-stands-by-laneve-nomination-amid-reported-lawmaker-hesitation",
-        "publishedAt": "2026-08-26T19:12:00+00:00",
-        "source": "Breaking Defense",
+        "title": "US Army taps 5 firms to build on-base microreactors in nuclear energy push",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/26/us-army-taps-5-firms-to-build-on-base-microreactors-in-nuclear-energy-push",
+        "publishedAt": "2026-08-26T20:48:16+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
