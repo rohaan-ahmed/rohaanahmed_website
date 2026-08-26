@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T21:00:29+00:00",
+  "generatedAt": "2026-08-26T22:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-26T21:00:29+00:00",
+      "updatedAt": "2026-08-26T22:00:30+00:00",
       "stories": [
         {
           "title": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
@@ -17,6 +17,12 @@
           "url": "https://spacenews.com/the-threat-environment-and-processing-at-the-edge",
           "publishedAt": "2026-08-26T14:29:40+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "From spy satellite to space telescope: The unlikely origins of NASA's Roman Space Telescope",
+          "url": "https://www.space.com/astronomy/from-spy-satellite-to-space-telescope-the-unlikely-origins-of-nasas-roman-space-telescope",
+          "publishedAt": "2026-08-26T21:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Building Foresight for Earth Science, featuring Lindsey Jacobson",
@@ -47,12 +53,6 @@
           "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-pilots-chase-moons-shadow-for-eclipse-science",
           "publishedAt": "2026-08-26T17:33:05+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Massive space mirrors could be 40 times brighter than the full moon, astronomers warn. 'It will be worse than big cities like London'",
-          "url": "https://www.space.com/space-exploration/satellites/massive-space-mirrors-could-be-40-times-brighter-than-the-full-moon-astronomers-warn-it-will-be-worse-than-big-cities-like-london",
-          "publishedAt": "2026-08-26T16:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "MTG-I2 ready for launch",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-26T21:00:29+00:00",
+      "updatedAt": "2026-08-26T22:00:30+00:00",
       "stories": [
         {
           "title": "Xona gets FCC approval to build jamming-resistant PNT constellation",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-26T21:00:29+00:00",
+      "updatedAt": "2026-08-26T22:00:30+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -199,8 +199,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-26T21:00:29+00:00",
+      "updatedAt": "2026-08-26T22:00:30+00:00",
       "stories": [
+        {
+          "title": "US Navy eyes port stops in Africa, India after USS Abraham Lincoln’s marathon deployment",
+          "url": "https://www.defensenews.com/news/your-military/2026/08/26/us-navy-eyes-port-stops-in-africa-india-after-uss-abraham-lincolns-marathon-deployment",
+          "publishedAt": "2026-08-26T21:08:19+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Army taps 5 vendors to move forward with nuclear microreactor prototypes",
           "url": "https://breakingdefense.com/2026/08/army-taps-5-vendors-to-build-nuclear-microreactors-with-2-2b-pot",
@@ -262,12 +268,6 @@
           "source": "Defense News"
         },
         {
-          "title": "With UK military secrets, Ukraine could now build SCALP missiles at home - but it will take time",
-          "url": "https://www.defensenews.com/global/europe/2026/08/26/with-uk-military-secrets-ukraine-could-now-build-scalp-missiles-at-home-but-it-will-take-time",
-          "publishedAt": "2026-08-26T13:14:11+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Aiming to turn ‘every device into a source,’ Cellebrite launches made-for-the-military data extraction kit",
           "url": "https://defensescoop.com/2026/08/26/cellebrite-launches-made-for-the-military-data-extraction-kit",
           "publishedAt": "2026-08-26T12:30:00+00:00",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-26T21:00:29+00:00",
+      "updatedAt": "2026-08-26T22:00:30+00:00",
       "stories": [
         {
           "title": "OpenAI's Jalapeño chip brings the heat",
@@ -317,6 +317,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+          "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale",
+          "publishedAt": "2026-08-26T21:37:39+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
           "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai",
           "publishedAt": "2026-08-26T19:37:34+00:00",
@@ -326,12 +332,6 @@
           "title": "How do we explain OpenAI’s executive exodus?",
           "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus",
           "publishedAt": "2026-08-26T19:34:04+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "OpenAI releases its official report on the Hugging Face breach",
-          "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach",
-          "publishedAt": "2026-08-26T19:05:22+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-26T21:00:29+00:00",
+      "updatedAt": "2026-08-26T22:00:30+00:00",
       "stories": [
         {
           "title": "Gatik brings in $200M to continue expanding autonomous trucking operations",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-26T21:00:29+00:00",
+    "updatedAt": "2026-08-26T22:00:30+00:00",
     "stories": [
       {
         "title": "OpenAI's Jalapeño chip brings the heat",
@@ -537,10 +537,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Army taps 5 vendors to move forward with nuclear microreactor prototypes",
-        "url": "https://breakingdefense.com/2026/08/army-taps-5-vendors-to-build-nuclear-microreactors-with-2-2b-pot",
-        "publishedAt": "2026-08-26T20:00:00+00:00",
-        "source": "Breaking Defense",
+        "title": "US Navy eyes port stops in Africa, India after USS Abraham Lincoln’s marathon deployment",
+        "url": "https://www.defensenews.com/news/your-military/2026/08/26/us-navy-eyes-port-stops-in-africa-india-after-uss-abraham-lincolns-marathon-deployment",
+        "publishedAt": "2026-08-26T21:08:19+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -573,10 +573,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "US Army taps 5 firms to build on-base microreactors in nuclear energy push",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/26/us-army-taps-5-firms-to-build-on-base-microreactors-in-nuclear-energy-push",
-        "publishedAt": "2026-08-26T20:48:16+00:00",
-        "source": "Defense News",
+        "title": "Army taps 5 vendors to move forward with nuclear microreactor prototypes",
+        "url": "https://breakingdefense.com/2026/08/army-taps-5-vendors-to-build-nuclear-microreactors-with-2-2b-pot",
+        "publishedAt": "2026-08-26T20:00:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
