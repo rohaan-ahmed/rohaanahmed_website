@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-26T11:18:31+00:00",
+  "generatedAt": "2026-08-26T11:50:48+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-26T11:18:31+00:00",
+      "updatedAt": "2026-08-26T11:50:48+00:00",
       "stories": [
+        {
+          "title": "MTG-I2 ready for launch",
+          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I2_ready_for_launch",
+          "publishedAt": "2026-08-26T11:00:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "Second spacewalk completed for Sophie Adenot",
           "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Second_spacewalk_completed_for_Sophie_Adenot",
@@ -89,25 +95,19 @@
           "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Watch_live_MTG-I2_set_for_liftoff",
           "publishedAt": "2026-08-24T08:14:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Watch Sophie Adenot’s second spacewalk live",
-          "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_Sophie_Adenot_s_second_spacewalk_live",
-          "publishedAt": "2026-08-21T14:00:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-26T11:18:31+00:00",
+      "updatedAt": "2026-08-26T11:50:48+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-26T11:18:31+00:00",
+      "updatedAt": "2026-08-26T11:50:48+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -138,7 +138,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-26T11:18:31+00:00",
+      "updatedAt": "2026-08-26T11:50:48+00:00",
       "stories": [
         {
           "title": "First North Korea-Russia road bridge nearly complete, symbolizing new era of military cooperation",
@@ -235,7 +235,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-26T11:18:31+00:00",
+      "updatedAt": "2026-08-26T11:50:48+00:00",
       "stories": [
         {
           "title": "OpenAI's Jalapeño chip brings the heat",
@@ -254,6 +254,12 @@
           "url": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
           "publishedAt": "2026-08-26T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+          "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them",
+          "publishedAt": "2026-08-26T11:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
@@ -298,12 +304,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Gamma acquires Accel-backed design startup Lica",
-          "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica",
-          "publishedAt": "2026-08-25T15:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Ox Alpha has the internet playing detective",
           "url": "https://www.bloomberg.com/news/articles/2026-08-23/mystery-ai-model-ox-alpha-draws-developers-with-free-access",
           "publishedAt": "2026-08-24T10:00:00+00:00",
@@ -332,7 +332,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-26T11:18:31+00:00",
+      "updatedAt": "2026-08-26T11:50:48+00:00",
       "stories": [
         {
           "title": "Robotics startup Generalist reaches $3B valuation, sources say",
@@ -428,7 +428,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-26T11:18:31+00:00",
+    "updatedAt": "2026-08-26T11:50:48+00:00",
     "stories": [
       {
         "title": "OpenAI's Jalapeño chip brings the heat",
@@ -449,9 +449,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Second spacewalk completed for Sophie Adenot",
-        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Second_spacewalk_completed_for_Sophie_Adenot",
-        "publishedAt": "2026-08-26T08:40:00+00:00",
+        "title": "MTG-I2 ready for launch",
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I2_ready_for_launch",
+        "publishedAt": "2026-08-26T11:00:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -494,6 +494,15 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "Second spacewalk completed for Sophie Adenot",
+        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Second_spacewalk_completed_for_Sophie_Adenot",
+        "publishedAt": "2026-08-26T08:40:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "SpaceX sends Starlink satellites to orbit on predawn launch from California",
         "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink--15-22-b1082-ocisly",
         "publishedAt": "2026-08-26T11:04:35+00:00",
@@ -503,21 +512,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Inside the Nancy Grace Roman Space Telescope, NASA's next great observatory",
-        "url": "https://www.space.com/astronomy/inside-the-nancy-grace-roman-space-telescope-nasas-next-great-observatory",
-        "publishedAt": "2026-08-26T10:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Propulsion is having a moment",
-        "url": "https://spacenews.com/propulsion-is-having-a-moment",
-        "publishedAt": "2026-08-25T19:59:37+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+        "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them",
+        "publishedAt": "2026-08-26T11:00:00+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -634,6 +634,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-13"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-05"
   ]
 }
