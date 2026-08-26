@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T20:00:33+00:00",
+  "generatedAt": "2026-08-26T20:14:47+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-26T20:00:33+00:00",
+      "updatedAt": "2026-08-26T20:14:47+00:00",
       "stories": [
         {
           "title": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-26T20:00:33+00:00",
+      "updatedAt": "2026-08-26T20:14:47+00:00",
       "stories": [
         {
           "title": "Xona gets FCC approval to build jamming-resistant PNT constellation",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-26T20:00:33+00:00",
+      "updatedAt": "2026-08-26T20:14:47+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -199,8 +199,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-26T20:00:33+00:00",
+      "updatedAt": "2026-08-26T20:14:47+00:00",
       "stories": [
+        {
+          "title": "Army taps 5 vendors to move forward with nuclear microreactor prototypes",
+          "url": "https://breakingdefense.com/2026/08/army-taps-5-vendors-to-build-nuclear-microreactors-with-2-2b-pot",
+          "publishedAt": "2026-08-26T20:00:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Hegseth stands by LaNeve nomination amid reported lawmaker hesitation",
           "url": "https://breakingdefense.com/2026/08/hegseth-stands-by-laneve-nomination-amid-reported-lawmaker-hesitation",
@@ -226,6 +232,12 @@
           "source": "Breaking Defense"
         },
         {
+          "title": "Army to host nuclear microreactors at Forts Bragg, Campbell, Hood, Benning and Drum",
+          "url": "https://defensescoop.com/2026/08/26/army-annouces-initiial-bases-to-host-nuclear-microreactors",
+          "publishedAt": "2026-08-26T20:00:00+00:00",
+          "source": "DefenseScoop"
+        },
+        {
           "title": "Italy to request EU defense loan after all, but scales back amount",
           "url": "https://www.defensenews.com/global/europe/2026/08/26/italy-to-request-eu-defense-loan-after-all-but-scales-back-amount",
           "publishedAt": "2026-08-26T16:59:30+00:00",
@@ -235,12 +247,6 @@
           "title": "‘Shifted our whole mentality’: Army long-range EW system to go into production in 2027",
           "url": "https://breakingdefense.com/2026/08/shifted-our-whole-mentality-army-long-range-ew-system-to-go-into-production-in-2027",
           "publishedAt": "2026-08-26T15:34:52+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Spain signs off on $6.3 billion budget for joint MRTT buy with Poland",
-          "url": "https://breakingdefense.com/2026/08/spain-signs-off-on-6-3-billion-budget-for-joint-mrtt-buy-with-poland",
-          "publishedAt": "2026-08-26T14:13:35+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -284,19 +290,13 @@
           "url": "https://defensescoop.com/2026/08/25/navy-air-launched-torpedo-silent-anvil-anti-submarine-warfare",
           "publishedAt": "2026-08-25T18:46:39+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "One year in, America’s counter-drone task force still has ‘a ton of work to do’",
-          "url": "https://defensescoop.com/2026/08/24/one-year-in-americas-counter-drone-task-force-still-has-a-ton-of-work-to-do",
-          "publishedAt": "2026-08-24T22:11:16+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-26T20:00:33+00:00",
+      "updatedAt": "2026-08-26T20:14:47+00:00",
       "stories": [
         {
           "title": "OpenAI's Jalapeño chip brings the heat",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-26T20:00:33+00:00",
+      "updatedAt": "2026-08-26T20:14:47+00:00",
       "stories": [
         {
           "title": "Gatik brings in $200M to continue expanding autonomous trucking operations",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-26T20:00:33+00:00",
+    "updatedAt": "2026-08-26T20:14:47+00:00",
     "stories": [
       {
         "title": "OpenAI's Jalapeño chip brings the heat",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Hegseth stands by LaNeve nomination amid reported lawmaker hesitation",
-        "url": "https://breakingdefense.com/2026/08/hegseth-stands-by-laneve-nomination-amid-reported-lawmaker-hesitation",
-        "publishedAt": "2026-08-26T19:12:00+00:00",
+        "title": "Army taps 5 vendors to move forward with nuclear microreactor prototypes",
+        "url": "https://breakingdefense.com/2026/08/army-taps-5-vendors-to-build-nuclear-microreactors-with-2-2b-pot",
+        "publishedAt": "2026-08-26T20:00:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -573,9 +573,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Boeing nabs whopping $131 billion F-15 deal",
-        "url": "https://breakingdefense.com/2026/08/boeing-nabs-whopping-131-billion-f-15-deal",
-        "publishedAt": "2026-08-26T18:30:16+00:00",
+        "title": "Hegseth stands by LaNeve nomination amid reported lawmaker hesitation",
+        "url": "https://breakingdefense.com/2026/08/hegseth-stands-by-laneve-nomination-amid-reported-lawmaker-hesitation",
+        "publishedAt": "2026-08-26T19:12:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
