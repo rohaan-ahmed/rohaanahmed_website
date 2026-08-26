@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T17:00:38+00:00",
+  "generatedAt": "2026-08-26T18:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-26T17:00:38+00:00",
+      "updatedAt": "2026-08-26T18:00:34+00:00",
       "stories": [
         {
           "title": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
@@ -23,6 +23,12 @@
           "url": "https://www.space.com/stargazing/solar-eclipses/a-black-star-in-a-false-spanish-twilight-heres-the-story-of-my-1st-total-solar-eclipse",
           "publishedAt": "2026-08-26T17:00:00+00:00",
           "source": "Space.com"
+        },
+        {
+          "title": "NASA Johnson Pilots Chase Moon’s Shadow for Eclipse Science",
+          "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-pilots-chase-moons-shadow-for-eclipse-science",
+          "publishedAt": "2026-08-26T17:33:05+00:00",
+          "source": "NASA"
         },
         {
           "title": "Massive space mirrors could be 40 times brighter than the full moon, astronomers warn. 'It will be worse than big cities like London'",
@@ -52,12 +58,6 @@
           "title": "NASA Begins Moon Mission Plume-Surface Interaction Tests",
           "url": "https://www.nasa.gov/missions/artemis/nasa-begins-moon-mission-plume-surface-interaction-tests",
           "publishedAt": "2026-08-26T13:58:04+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Contractor to Civil Servant: NASA Welcomes Jeret Howard",
-          "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard",
-          "publishedAt": "2026-08-26T13:32:28+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-26T17:00:38+00:00",
+      "updatedAt": "2026-08-26T18:00:34+00:00",
       "stories": [
         {
           "title": "Xona gets FCC approval to build jamming-resistant PNT constellation",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-26T17:00:38+00:00",
+      "updatedAt": "2026-08-26T18:00:34+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -199,8 +199,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-26T17:00:38+00:00",
+      "updatedAt": "2026-08-26T18:00:34+00:00",
       "stories": [
+        {
+          "title": "Air Force awards $766 million for B-52 radar modernization",
+          "url": "https://breakingdefense.com/2026/08/air-force-awards-766-million-for-b-52-radar-modernization",
+          "publishedAt": "2026-08-26T17:06:02+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Italy to request EU defense loan after all, but scales back amount",
+          "url": "https://www.defensenews.com/global/europe/2026/08/26/italy-to-request-eu-defense-loan-after-all-but-scales-back-amount",
+          "publishedAt": "2026-08-26T16:59:30+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "‘Shifted our whole mentality’: Army long-range EW system to go into production in 2027",
           "url": "https://breakingdefense.com/2026/08/shifted-our-whole-mentality-army-long-range-ew-system-to-go-into-production-in-2027",
@@ -250,12 +262,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "US Navy’s new anti-submarine torpedo will be a glide weapon",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/08/25/us-navys-new-anti-submarine-torpedo-will-be-a-glide-weapon",
-          "publishedAt": "2026-08-25T19:30:37+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "US flexes new ship-sinking weapons at summer naval exercises",
           "url": "https://breakingdefense.com/2026/08/us-flexes-new-ship-sinking-weapons-at-summer-naval-exercises",
           "publishedAt": "2026-08-25T18:25:36+00:00",
@@ -271,12 +277,6 @@
           "title": "How a new Pentagon memo ‘resets’ industry requirements, plus highlights from TechNet",
           "url": "https://breakingdefense.com/2026/08/how-a-new-pentagon-memo-resets-industry-requirements-plus-highlights-from-technet",
           "publishedAt": "2026-08-25T16:00:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Saudi-Turkish-Pakistani defense pact to boost Turkish industry, entire trilateral ‘ecosystem’",
-          "url": "https://breakingdefense.com/2026/08/saudi-turkish-pakistani-defense-pact-to-boost-turkish-industry-entire-trilateral-ecosystem",
-          "publishedAt": "2026-08-25T15:20:00+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-26T17:00:38+00:00",
+      "updatedAt": "2026-08-26T18:00:34+00:00",
       "stories": [
         {
           "title": "OpenAI's Jalapeño chip brings the heat",
@@ -393,8 +393,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-26T17:00:38+00:00",
+      "updatedAt": "2026-08-26T18:00:34+00:00",
       "stories": [
+        {
+          "title": "Gatik brings in $200M to continue expanding autonomous trucking operations",
+          "url": "https://www.therobotreport.com/gatik-brings-in-200m-to-continue-expanding-autonomous-trucking-operations",
+          "publishedAt": "2026-08-26T16:59:15+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "IDS Imaging adds Nion ToF sensor to its portfolio of 3D cameras",
           "url": "https://www.therobotreport.com/ids-imaging-adds-nion-tof-camera-portfolio-3d-cameras",
@@ -462,12 +468,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Use a digital twin to explore automation before committing capital",
-          "url": "https://www.therobotreport.com/use-digital-twin-explore-automation-before-committing-capital",
-          "publishedAt": "2026-08-23T12:30:14+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
           "url": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
           "publishedAt": "2026-08-21T16:00:01+00:00",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-26T17:00:38+00:00",
+    "updatedAt": "2026-08-26T18:00:34+00:00",
     "stories": [
       {
         "title": "OpenAI's Jalapeño chip brings the heat",
@@ -537,18 +537,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "‘Shifted our whole mentality’: Army long-range EW system to go into production in 2027",
-        "url": "https://breakingdefense.com/2026/08/shifted-our-whole-mentality-army-long-range-ew-system-to-go-into-production-in-2027",
-        "publishedAt": "2026-08-26T15:34:52+00:00",
+        "title": "Air Force awards $766 million for B-52 radar modernization",
+        "url": "https://breakingdefense.com/2026/08/air-force-awards-766-million-for-b-52-radar-modernization",
+        "publishedAt": "2026-08-26T17:06:02+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "IDS Imaging adds Nion ToF sensor to its portfolio of 3D cameras",
-        "url": "https://www.therobotreport.com/ids-imaging-adds-nion-tof-camera-portfolio-3d-cameras",
-        "publishedAt": "2026-08-26T15:04:14+00:00",
+        "title": "Gatik brings in $200M to continue expanding autonomous trucking operations",
+        "url": "https://www.therobotreport.com/gatik-brings-in-200m-to-continue-expanding-autonomous-trucking-operations",
+        "publishedAt": "2026-08-26T16:59:15+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
