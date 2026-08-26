@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T13:28:01+00:00",
+  "generatedAt": "2026-08-26T14:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-26T13:28:01+00:00",
+      "updatedAt": "2026-08-26T14:00:28+00:00",
       "stories": [
         {
           "title": "MTG-I2 ready for launch",
@@ -17,6 +17,18 @@
           "url": "https://www.space.com/entertainment/space-games/star-wars-zero-company-review-xcom-like-strategically-recaptures-the-magic-of-your-favorite-star-wars-films",
           "publishedAt": "2026-08-26T13:17:47+00:00",
           "source": "Space.com"
+        },
+        {
+          "title": "NASA Begins Moon Mission Plume-Surface Interaction Tests",
+          "url": "https://www.nasa.gov/missions/artemis/nasa-begins-moon-mission-plume-surface-interaction-tests",
+          "publishedAt": "2026-08-26T13:58:04+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Contractor to Civil Servant: NASA Welcomes Jeret Howard",
+          "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard",
+          "publishedAt": "2026-08-26T13:32:28+00:00",
+          "source": "NASA"
         },
         {
           "title": "SpaceX's final Falcon 9 Starlink launch from Florida creates gorgeous 'jellyfish' over New York City (video)",
@@ -61,18 +73,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-          "url": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network",
-          "publishedAt": "2026-08-25T22:28:34+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama",
-          "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama",
-          "publishedAt": "2026-08-25T20:20:58+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Robotics and the future of on-orbit labor",
           "url": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor",
           "publishedAt": "2026-08-24T22:26:02+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-26T13:28:01+00:00",
+      "updatedAt": "2026-08-26T14:00:28+00:00",
       "stories": [
         {
           "title": "Leaf Space activates ground station at Spaceport Nova Scotia",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-26T13:28:01+00:00",
+      "updatedAt": "2026-08-26T14:00:28+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-26T13:28:01+00:00",
+      "updatedAt": "2026-08-26T14:00:28+00:00",
       "stories": [
         {
           "title": "With UK military secrets, Ukraine could now build SCALP missiles at home - but it will take time",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-26T13:28:01+00:00",
+      "updatedAt": "2026-08-26T14:00:28+00:00",
       "stories": [
         {
           "title": "OpenAI's Jalapeño chip brings the heat",
@@ -317,6 +317,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Robot brain builders are pushing out of their GPT-2 era",
+          "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era",
+          "publishedAt": "2026-08-26T13:30:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "QueryStory wants you to believe what AI is telling you",
           "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you",
           "publishedAt": "2026-08-26T13:00:00+00:00",
@@ -335,6 +341,18 @@
           "source": "TechCrunch AI"
         },
         {
+          "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+          "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them",
+          "publishedAt": "2026-08-26T11:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+          "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call",
+          "publishedAt": "2026-08-26T03:30:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Thomson Reuters builds its own legal AI model",
           "url": "https://www.thomsonreuters.com/en-us/posts/innovation/how-we-built-thomson",
           "publishedAt": "2026-08-25T10:00:00+00:00",
@@ -347,45 +365,27 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded (4 minute read)",
-          "url": "https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin",
-          "publishedAt": "2026-08-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Anonymous Ox Alpha processes 26T tokens on OpenCode, breaks OpenRouter launch record (4 minute read)",
-          "url": "https://runtimewire.com/article/anonymous-ox-alpha-processes-26t-tokens-on-opencode-breaks-openrouter-launch-rec",
-          "publishedAt": "2026-08-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Economics of the Intelligence Frontier (20 minute read)",
-          "url": "https://x.com/seanlinehan/status/2091955290552078418",
-          "publishedAt": "2026-08-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Hot Chips 2026: CUDA Targets RISC-V (7 minute read)",
-          "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-          "publishedAt": "2026-08-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "LLMs could control their host machines by exploiting inference engines (6 minute read)",
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "publishedAt": "2026-08-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Speculative Programmatic Tool Calling (12 minute read)",
-          "url": "https://alexzhang13.github.io/blog/2026/spec-ptc",
-          "publishedAt": "2026-08-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Ox Alpha has the internet playing detective",
           "url": "https://www.bloomberg.com/news/articles/2026-08-23/mystery-ai-model-ox-alpha-draws-developers-with-free-access",
           "publishedAt": "2026-08-24T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Lady Gaga's startup trains AI on human skin",
+          "url": "https://www.outerbio.com/news/why-we-are-building-outer-bio",
+          "publishedAt": "2026-08-24T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Slack turns coding into a group project",
+          "url": "https://www.salesforce.com/introducing-slack-code",
+          "publishedAt": "2026-08-21T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "How to stand out to an AI-first startup",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494056747377225729",
+          "publishedAt": "2026-08-21T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -393,8 +393,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-26T13:28:01+00:00",
+      "updatedAt": "2026-08-26T14:00:28+00:00",
       "stories": [
+        {
+          "title": "Robot brain builders are pushing out of their GPT-2 era",
+          "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era",
+          "publishedAt": "2026-08-26T13:30:00+00:00",
+          "source": "TechCrunch Robotics"
+        },
         {
           "title": "Robotics startup Generalist reaches $3B valuation, sources say",
           "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say",
@@ -462,12 +468,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch",
-          "url": "https://www.therobotreport.com/amazons-bhavana-chandrashekhar-speaks-robobusiness-women-in-robotics-lunch",
-          "publishedAt": "2026-08-21T19:57:24+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
           "url": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
           "publishedAt": "2026-08-21T16:00:01+00:00",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-26T13:28:01+00:00",
+    "updatedAt": "2026-08-26T14:00:28+00:00",
     "stories": [
       {
         "title": "OpenAI's Jalapeño chip brings the heat",
@@ -546,9 +546,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-        "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say",
-        "publishedAt": "2026-08-26T00:40:59+00:00",
+        "title": "Robot brain builders are pushing out of their GPT-2 era",
+        "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era",
+        "publishedAt": "2026-08-26T13:30:00+00:00",
         "source": "TechCrunch Robotics",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -573,12 +573,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "QueryStory wants you to believe what AI is telling you",
-        "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you",
-        "publishedAt": "2026-08-26T13:00:00+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "NASA Begins Moon Mission Plume-Surface Interaction Tests",
+        "url": "https://www.nasa.gov/missions/artemis/nasa-begins-moon-mission-plume-surface-interaction-tests",
+        "publishedAt": "2026-08-26T13:58:04+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -694,6 +694,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-06"
   ]
 }
