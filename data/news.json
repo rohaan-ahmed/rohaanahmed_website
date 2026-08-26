@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T03:14:41+00:00",
+  "generatedAt": "2026-08-26T04:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-26T03:14:41+00:00",
+      "updatedAt": "2026-08-26T04:00:30+00:00",
       "stories": [
         {
           "title": "Propulsion is having a moment",
@@ -101,13 +101,13 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-26T03:14:41+00:00",
+      "updatedAt": "2026-08-26T04:00:30+00:00",
       "stories": []
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-26T03:14:41+00:00",
+      "updatedAt": "2026-08-26T04:00:30+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -138,7 +138,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-26T03:14:41+00:00",
+      "updatedAt": "2026-08-26T04:00:30+00:00",
       "stories": [
         {
           "title": "Ukraine needs changes to avoid losing war, ousted defense minister says",
@@ -235,8 +235,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-26T03:14:41+00:00",
+      "updatedAt": "2026-08-26T04:00:30+00:00",
       "stories": [
+        {
+          "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+          "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call",
+          "publishedAt": "2026-08-26T03:30:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Robotics startup Generalist reaches $3B valuation, sources say",
           "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say",
@@ -262,28 +268,40 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-          "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding",
-          "publishedAt": "2026-08-25T19:03:47+00:00",
-          "source": "TechCrunch AI"
+          "title": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded (4 minute read)",
+          "url": "https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Claude Cowork finally remembers what you told the app in chat",
-          "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat",
-          "publishedAt": "2026-08-25T17:50:33+00:00",
-          "source": "TechCrunch AI"
+          "title": "Anonymous Ox Alpha processes 26T tokens on OpenCode, breaks OpenRouter launch record (4 minute read)",
+          "url": "https://runtimewire.com/article/anonymous-ox-alpha-processes-26t-tokens-on-opencode-breaks-openrouter-launch-rec",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Gamma acquires Accel-backed design startup Lica",
-          "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica",
-          "publishedAt": "2026-08-25T15:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "The Economics of the Intelligence Frontier (20 minute read)",
+          "url": "https://x.com/seanlinehan/status/2091955290552078418",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-          "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
-          "publishedAt": "2026-08-25T14:22:04+00:00",
-          "source": "TechCrunch AI"
+          "title": "Hot Chips 2026: CUDA Targets RISC-V (7 minute read)",
+          "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "LLMs could control their host machines by exploiting inference engines (6 minute read)",
+          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Speculative Programmatic Tool Calling (12 minute read)",
+          "url": "https://alexzhang13.github.io/blog/2026/spec-ptc",
+          "publishedAt": "2026-08-25T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Ox Alpha has the internet playing detective",
@@ -308,31 +326,13 @@
           "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494056747377225729",
           "publishedAt": "2026-08-21T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "AI finds hidden breast cancer patterns",
-          "url": "https://research.uhs.nhs.uk/news/ai-reveals-hidden-patterns-inside-breast-cancer",
-          "publishedAt": "2026-08-21T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic's Claude tackles protein design",
-          "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Replit adds Free Mode for routine work",
-          "url": "https://replit.com/blog/replit-introduces-free-mode",
-          "publishedAt": "2026-08-20T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-26T03:14:41+00:00",
+      "updatedAt": "2026-08-26T04:00:30+00:00",
       "stories": [
         {
           "title": "Robotics startup Generalist reaches $3B valuation, sources say",
@@ -428,21 +428,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-26T03:14:41+00:00",
+    "updatedAt": "2026-08-26T04:00:30+00:00",
     "stories": [
       {
-        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-        "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say",
-        "publishedAt": "2026-08-26T00:40:59+00:00",
+        "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+        "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call",
+        "publishedAt": "2026-08-26T03:30:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-        "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues",
-        "publishedAt": "2026-08-26T00:06:20+00:00",
+        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+        "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say",
+        "publishedAt": "2026-08-26T00:40:59+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -503,21 +503,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+        "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues",
+        "publishedAt": "2026-08-26T00:06:20+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Before Iran war, Army NETCOM transferred network and C2 services between theaters for first time",
         "url": "https://defensescoop.com/2026/08/25/before-iran-war-army-netcom-transferred-network-services-between-theaters",
         "publishedAt": "2026-08-25T22:55:16+00:00",
         "source": "DefenseScoop",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-        "url": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network",
-        "publishedAt": "2026-08-25T22:28:34+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -633,7 +633,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-04"
+    "Vanguard: <unknown>:157:8602: not well-formed (invalid token)"
   ]
 }
