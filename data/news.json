@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T06:00:31+00:00",
+  "generatedAt": "2026-08-27T07:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-27T06:00:31+00:00",
+      "updatedAt": "2026-08-27T07:00:34+00:00",
       "stories": [
         {
           "title": "LatConnect 60 and Phi Earth Partner to Connect Space and Soil",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-27T06:00:31+00:00",
+      "updatedAt": "2026-08-27T07:00:34+00:00",
       "stories": [
         {
           "title": "Xona gets FCC approval to build jamming-resistant PNT constellation",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-27T06:00:31+00:00",
+      "updatedAt": "2026-08-27T07:00:34+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-27T06:00:31+00:00",
+      "updatedAt": "2026-08-27T07:00:34+00:00",
       "stories": [
         {
           "title": "US Navy eyes port stops in Africa, India after USS Abraham Lincoln’s marathon deployment",
@@ -296,10 +296,16 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-27T06:00:31+00:00",
+      "updatedAt": "2026-08-27T07:00:34+00:00",
       "stories": [
         {
-          "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+          "title": "Nvidia closes in on Hugging Face acquisition",
+          "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition",
+          "publishedAt": "2026-08-27T06:32:51+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
           "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation",
           "publishedAt": "2026-08-27T00:24:57+00:00",
           "source": "TechCrunch AI"
@@ -327,12 +333,6 @@
           "url": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
           "publishedAt": "2026-08-26T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-          "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale",
-          "publishedAt": "2026-08-26T21:37:39+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs (13 minute read)",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-27T06:00:31+00:00",
+      "updatedAt": "2026-08-27T07:00:34+00:00",
       "stories": [
         {
           "title": "Gatik brings in $200M to continue expanding autonomous trucking operations",
@@ -489,21 +489,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-27T06:00:31+00:00",
+    "updatedAt": "2026-08-27T07:00:34+00:00",
     "stories": [
       {
-        "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
-        "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation",
-        "publishedAt": "2026-08-27T00:24:57+00:00",
+        "title": "Nvidia closes in on Hugging Face acquisition",
+        "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition",
+        "publishedAt": "2026-08-27T06:32:51+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-        "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
-        "publishedAt": "2026-08-26T23:47:18+00:00",
+        "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+        "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation",
+        "publishedAt": "2026-08-27T00:24:57+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
