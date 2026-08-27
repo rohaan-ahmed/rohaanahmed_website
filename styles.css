@@ -438,6 +438,7 @@ button {
 }
 
 .hero-role-card {
+    --role-accent: var(--primary);
     position: relative;
     display: flex;
     min-height: 148px;
@@ -451,6 +452,14 @@ button {
     transition: transform var(--transition-medium), border-color var(--transition-medium), background var(--transition-medium);
 }
 
+.hero-role-card-work {
+    --role-accent: #d04a02;
+}
+
+.hero-role-card-service {
+    --role-accent: #6f7d45;
+}
+
 .hero-role-card::before {
     content: "";
     position: absolute;
@@ -458,15 +467,11 @@ button {
     bottom: 0;
     left: 0;
     width: 3px;
-    background: var(--primary);
-}
-
-.hero-role-card-service::before {
-    background: var(--secondary);
+    background: var(--role-accent);
 }
 
 .hero-role-card:hover {
-    border-color: rgba(111, 180, 240, 0.55);
+    border-color: var(--role-accent);
     background: var(--surface);
     transform: translateY(-3px);
 }
@@ -489,23 +494,30 @@ button {
 }
 
 .hero-role-organization {
-    color: var(--text-faint);
-    font-family: var(--font-mono);
-    font-size: 0.72rem;
-    line-height: 1.45;
+    color: var(--text-secondary);
+    font-size: 0.86rem;
+    font-weight: 500;
+    line-height: 1.4;
 }
 
-.hero-role-arrow {
+.hero-role-accent {
+    width: 38px;
+    height: 4px;
+    margin-top: 11px;
+    background: var(--role-accent);
+}
+
+.hero-role-linkedin {
     position: absolute;
     right: 20px;
     bottom: 18px;
-    color: var(--secondary);
-    font-size: 1.15rem;
+    display: inline-flex;
+    color: var(--role-accent);
     transition: transform var(--transition-fast);
 }
 
-.hero-role-card:hover .hero-role-arrow {
-    transform: translateX(4px);
+.hero-role-card:hover .hero-role-linkedin {
+    transform: scale(1.08);
 }
 
 .section-jump-shell {
@@ -1424,16 +1436,8 @@ body.tactical-theme .hero-role-card {
     background: rgba(47, 55, 40, 0.72);
 }
 
-body.tactical-theme .hero-role-card-work::before {
-    background: #8b9a6b;
-}
-
-body.tactical-theme .hero-role-card-service::before {
-    background: #c4a35a;
-}
-
 body.tactical-theme .hero-role-card:hover {
-    border-color: #8b9a6b;
+    border-color: var(--role-accent);
     background: rgba(47, 55, 40, 0.92);
     box-shadow: 0 0 20px rgba(139, 154, 107, 0.16);
 }
@@ -1450,11 +1454,7 @@ body.tactical-theme .hero-role-area {
 }
 
 body.tactical-theme .hero-role-organization {
-    color: #9b998c;
-}
-
-body.tactical-theme .hero-role-arrow {
-    color: #c4a35a;
+    color: #c9c5b7;
 }
 
 body.tactical-theme .photo-placeholder {
