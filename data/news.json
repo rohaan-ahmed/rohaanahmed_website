@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-08-27T07:00:34+00:00",
+  "generatedAt": "2026-08-27T08:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-27T07:00:34+00:00",
+      "updatedAt": "2026-08-27T08:00:28+00:00",
       "stories": [
         {
           "title": "LatConnect 60 and Phi Earth Partner to Connect Space and Soil",
           "url": "https://spacenews.com/latconnect-60-and-phi-earth-partner-to-connect-space-and-soil",
           "publishedAt": "2026-08-27T01:54:19+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "MTG-I2 ready for launch on Ariane 6",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_ready_for_launch_on_Ariane_6",
+          "publishedAt": "2026-08-27T07:00:00+00:00",
+          "source": "European Space Agency"
         },
         {
           "title": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
@@ -89,19 +95,13 @@
           "url": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat",
           "publishedAt": "2026-08-25T13:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Watch live: MTG-I2 set for liftoff",
-          "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Watch_live_MTG-I2_set_for_liftoff",
-          "publishedAt": "2026-08-24T08:14:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-27T07:00:34+00:00",
+      "updatedAt": "2026-08-27T08:00:28+00:00",
       "stories": [
         {
           "title": "Xona gets FCC approval to build jamming-resistant PNT constellation",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-27T07:00:34+00:00",
+      "updatedAt": "2026-08-27T08:00:28+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-27T07:00:34+00:00",
+      "updatedAt": "2026-08-27T08:00:28+00:00",
       "stories": [
         {
           "title": "US Navy eyes port stops in Africa, India after USS Abraham Lincoln’s marathon deployment",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-27T07:00:34+00:00",
+      "updatedAt": "2026-08-27T08:00:28+00:00",
       "stories": [
         {
           "title": "Nvidia closes in on Hugging Face acquisition",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-27T07:00:34+00:00",
+      "updatedAt": "2026-08-27T08:00:28+00:00",
       "stories": [
         {
           "title": "Gatik brings in $200M to continue expanding autonomous trucking operations",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-27T07:00:34+00:00",
+    "updatedAt": "2026-08-27T08:00:28+00:00",
     "stories": [
       {
         "title": "Nvidia closes in on Hugging Face acquisition",
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "MTG-I2 ready for launch on Ariane 6",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_ready_for_launch_on_Ariane_6",
+        "publishedAt": "2026-08-27T07:00:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
         "url": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler",
         "publishedAt": "2026-08-26T16:12:57+00:00",
@@ -568,15 +577,6 @@
         "url": "https://spacenews.com/the-threat-environment-and-processing-at-the-edge",
         "publishedAt": "2026-08-26T14:29:40+00:00",
         "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "APOD: 2026 August 27 – Colorful Aurora over an Icelandic Waterfall",
-        "url": "https://science.nasa.gov/image-article/apod-2026-august-27-colorful-aurora-over-an-icelandic-waterfall",
-        "publishedAt": "2026-08-27T04:05:00+00:00",
-        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
