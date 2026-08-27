@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-08-27T09:00:40+00:00",
+  "generatedAt": "2026-08-27T10:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-27T09:00:40+00:00",
+      "updatedAt": "2026-08-27T10:00:27+00:00",
       "stories": [
         {
           "title": "LatConnect 60 and Phi Earth Partner to Connect Space and Soil",
           "url": "https://spacenews.com/latconnect-60-and-phi-earth-partner-to-connect-space-and-soil",
           "publishedAt": "2026-08-27T01:54:19+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "First contracts kick off European Launcher Challenge",
+          "url": "https://www.esa.int/Enabling_Support/Space_Transportation/First_contracts_kick_off_European_Launcher_Challenge",
+          "publishedAt": "2026-08-27T07:17:00+00:00",
+          "source": "European Space Agency"
         },
         {
           "title": "MTG-I2 ready for launch on Ariane 6",
@@ -67,12 +73,6 @@
           "source": "Space.com"
         },
         {
-          "title": "MTG-I2 ready for launch",
-          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I2_ready_for_launch",
-          "publishedAt": "2026-08-26T11:00:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Second spacewalk completed for Sophie Adenot",
           "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Second_spacewalk_completed_for_Sophie_Adenot",
           "publishedAt": "2026-08-26T08:40:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-27T09:00:40+00:00",
+      "updatedAt": "2026-08-27T10:00:27+00:00",
       "stories": [
         {
           "title": "Xona gets FCC approval to build jamming-resistant PNT constellation",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-27T09:00:40+00:00",
+      "updatedAt": "2026-08-27T10:00:27+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -199,8 +199,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-27T09:00:40+00:00",
+      "updatedAt": "2026-08-27T10:00:27+00:00",
       "stories": [
+        {
+          "title": "Rolls-Royce, Safran vie for India’s next-generation fighter engine",
+          "url": "https://www.defensenews.com/global/asia-pacific/2026/08/27/rolls-royce-safran-vie-for-indias-next-generation-fighter-engine",
+          "publishedAt": "2026-08-27T09:17:41+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "US Navy eyes port stops in Africa, India after USS Abraham Lincoln’s marathon deployment",
           "url": "https://www.defensenews.com/news/your-military/2026/08/26/us-navy-eyes-port-stops-in-africa-india-after-uss-abraham-lincolns-marathon-deployment",
@@ -262,12 +268,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "How a Ukrainian commander sped through the ‘kill zone’ to save wounded troops",
-          "url": "https://www.defensenews.com/global/2026/08/26/how-a-ukrainian-commander-sped-through-the-kill-zone-to-save-wounded-troops",
-          "publishedAt": "2026-08-26T14:55:07+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Aiming to turn ‘every device into a source,’ Cellebrite launches made-for-the-military data extraction kit",
           "url": "https://defensescoop.com/2026/08/26/cellebrite-launches-made-for-the-military-data-extraction-kit",
           "publishedAt": "2026-08-26T12:30:00+00:00",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-27T09:00:40+00:00",
+      "updatedAt": "2026-08-27T10:00:27+00:00",
       "stories": [
         {
           "title": "Nvidia closes in on Hugging Face acquisition",
@@ -335,40 +335,22 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs (13 minute read)",
-          "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
-          "publishedAt": "2026-08-26T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+          "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale",
+          "publishedAt": "2026-08-26T21:37:39+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Vocab Break (4 minute read)",
-          "url": "https://ianbarber.blog/2026/08/24/vocab-break",
-          "publishedAt": "2026-08-26T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+          "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai",
+          "publishedAt": "2026-08-26T19:37:34+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Moats in the age of floods (14 minute read)",
-          "url": "https://x.com/nayakkayak/status/2092276375935963537",
-          "publishedAt": "2026-08-26T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "OpenAI and Anthropic Could Dominate Global AI Compute (48 minute read)",
-          "url": "https://www.dwarkesh.com/p/dylan-patel-3",
-          "publishedAt": "2026-08-26T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "OpenAI's Jalapeño Optimizes Inference Throughput and Token Latency (5 minute read)",
-          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-          "publishedAt": "2026-08-26T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Open Omnimodal World Models (GitHub Repo)",
-          "url": "https://github.com/jd-opensource/JoyAI-Echo",
-          "publishedAt": "2026-08-26T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "How do we explain OpenAI’s executive exodus?",
+          "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus",
+          "publishedAt": "2026-08-26T19:34:04+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Thomson Reuters builds its own legal AI model",
@@ -387,13 +369,31 @@
           "url": "https://www.bloomberg.com/news/articles/2026-08-23/mystery-ai-model-ox-alpha-draws-developers-with-free-access",
           "publishedAt": "2026-08-24T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Lady Gaga's startup trains AI on human skin",
+          "url": "https://www.outerbio.com/news/why-we-are-building-outer-bio",
+          "publishedAt": "2026-08-24T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Slack turns coding into a group project",
+          "url": "https://www.salesforce.com/introducing-slack-code",
+          "publishedAt": "2026-08-21T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "How to stand out to an AI-first startup",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7494056747377225729",
+          "publishedAt": "2026-08-21T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-27T09:00:40+00:00",
+      "updatedAt": "2026-08-27T10:00:27+00:00",
       "stories": [
         {
           "title": "Gatik brings in $200M to continue expanding autonomous trucking operations",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-27T09:00:40+00:00",
+    "updatedAt": "2026-08-27T10:00:27+00:00",
     "stories": [
       {
         "title": "Nvidia closes in on Hugging Face acquisition",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "US Navy eyes port stops in Africa, India after USS Abraham Lincoln’s marathon deployment",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/26/us-navy-eyes-port-stops-in-africa-india-after-uss-abraham-lincolns-marathon-deployment",
-        "publishedAt": "2026-08-26T21:08:19+00:00",
+        "title": "Rolls-Royce, Safran vie for India’s next-generation fighter engine",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/08/27/rolls-royce-safran-vie-for-indias-next-generation-fighter-engine",
+        "publishedAt": "2026-08-27T09:17:41+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "First contracts kick off European Launcher Challenge",
+        "url": "https://www.esa.int/Enabling_Support/Space_Transportation/First_contracts_kick_off_European_Launcher_Challenge",
+        "publishedAt": "2026-08-27T07:17:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "MTG-I2 ready for launch on Ariane 6",
         "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_ready_for_launch_on_Ariane_6",
         "publishedAt": "2026-08-27T07:00:00+00:00",
@@ -567,15 +576,6 @@
         "title": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
         "url": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler",
         "publishedAt": "2026-08-26T16:12:57+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "The threat environment and processing at the edge",
-        "url": "https://spacenews.com/the-threat-environment-and-processing-at-the-edge",
-        "publishedAt": "2026-08-26T14:29:40+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -694,6 +694,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-14"
   ]
 }
