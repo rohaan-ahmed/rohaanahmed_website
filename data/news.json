@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-08-27T13:00:36+00:00",
+  "generatedAt": "2026-08-27T14:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-27T13:00:36+00:00",
+      "updatedAt": "2026-08-27T14:00:29+00:00",
       "stories": [
         {
           "title": "LatConnect 60 and Phi Earth Partner to Connect Space and Soil",
           "url": "https://spacenews.com/latconnect-60-and-phi-earth-partner-to-connect-space-and-soil",
           "publishedAt": "2026-08-27T01:54:19+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "'Strange New Worlds' latest episode wastes a lot of time pretending to kill off major 'Star Trek' characters",
+          "url": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-wastes-a-lot-of-time-pretending-to-kill-off-major-star-trek-characters",
+          "publishedAt": "2026-08-27T13:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Watch powerful Ariane 6 rocket launch European weather satellite to orbit today",
@@ -55,21 +61,15 @@
           "source": "NASA"
         },
         {
-          "title": "From spy satellite to space telescope: The unlikely origins of NASA's Roman Space Telescope",
-          "url": "https://www.space.com/astronomy/from-spy-satellite-to-space-telescope-the-unlikely-origins-of-nasas-roman-space-telescope",
-          "publishedAt": "2026-08-26T21:00:00+00:00",
-          "source": "Space.com"
+          "title": "Rare, Widespread Snow in the Atacama Desert",
+          "url": "https://science.nasa.gov/earth/earth-observatory/rare-widespread-snow-in-the-atacama-desert",
+          "publishedAt": "2026-08-27T04:00:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "Building Foresight for Earth Science, featuring Lindsey Jacobson",
           "url": "https://www.nasa.gov/earth/earth-visualization-mapping/building-foresight-for-earth-science-featuring-lindsey-jacobson",
           "publishedAt": "2026-08-26T19:14:15+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Roman Space Telescope Travels to SpaceX Hangar",
-          "url": "https://www.nasa.gov/image-article/roman-space-telescope-travels-to-spacex-hangar",
-          "publishedAt": "2026-08-26T18:40:19+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-27T13:00:36+00:00",
+      "updatedAt": "2026-08-27T14:00:29+00:00",
       "stories": [
         {
           "title": "NordSpace matches $5 million in new government funding for Newfoundland spaceport",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-27T13:00:36+00:00",
+      "updatedAt": "2026-08-27T14:00:29+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -187,20 +187,20 @@
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/canada-to-co-host-28th-annual-indo-pacific-chiefs-of-defense-conference-strengthening-collective-security-navigating-challenges-in-a-dynamic-indo-p0.html",
           "publishedAt": "2026-08-24T14:28:30+00:00",
           "source": "National Defence"
-        },
-        {
-          "title": "HMCS Charlottetown returns from Operations HORIZON and NEON",
-          "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/hmcs-charlottetown-returns-from-operations-horizon-and-neon.html",
-          "publishedAt": "2026-08-17T13:28:29+00:00",
-          "source": "National Defence"
         }
       ]
     },
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-27T13:00:36+00:00",
+      "updatedAt": "2026-08-27T14:00:29+00:00",
       "stories": [
+        {
+          "title": "Marines fielding new laser sights at School of Infantry",
+          "url": "https://www.defensenews.com/news/your-military/2026/08/27/marines-fielding-new-laser-sights-at-school-of-infantry",
+          "publishedAt": "2026-08-27T13:51:25+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Japan approves mass production of 3D-printed interceptor drones",
           "url": "https://www.defensenews.com/global/asia-pacific/2026/08/27/japan-approves-mass-production-of-3d-printed-interceptor-drones",
@@ -242,12 +242,6 @@
           "url": "https://breakingdefense.com/2026/08/boeing-nabs-whopping-131-billion-f-15-deal",
           "publishedAt": "2026-08-26T18:30:16+00:00",
           "source": "Breaking Defense"
-        },
-        {
-          "title": "US Army seeks 8,000 new short-range missiles per year",
-          "url": "https://www.defensenews.com/news/your-army/2026/08/26/us-army-seeks-8000-new-short-range-missiles-per-year",
-          "publishedAt": "2026-08-26T18:51:30+00:00",
-          "source": "Defense News"
         },
         {
           "title": "Air Force awards $766 million for B-52 radar modernization",
@@ -296,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-27T13:00:36+00:00",
+      "updatedAt": "2026-08-27T14:00:29+00:00",
       "stories": [
         {
           "title": "The Ox Alpha mystery model ends with Z AI",
@@ -309,6 +303,12 @@
           "url": "https://time.com/article/2026/08/26/openai-sam-altman-interview",
           "publishedAt": "2026-08-27T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+          "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents",
+          "publishedAt": "2026-08-27T13:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
@@ -359,12 +359,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-          "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai",
-          "publishedAt": "2026-08-26T19:37:34+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Thomson Reuters builds its own legal AI model",
           "url": "https://www.thomsonreuters.com/en-us/posts/innovation/how-we-built-thomson",
           "publishedAt": "2026-08-25T10:00:00+00:00",
@@ -393,8 +387,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-27T13:00:36+00:00",
+      "updatedAt": "2026-08-27T14:00:29+00:00",
       "stories": [
+        {
+          "title": "Carbon Robotics partners with iMerit to power instant in-field AI customization",
+          "url": "https://www.therobotreport.com/carbon-robotics-partners-with-imerit-to-power-instant-in-field-ai-customization",
+          "publishedAt": "2026-08-27T13:27:58+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Gatik brings in $200M to continue expanding autonomous trucking operations",
           "url": "https://www.therobotreport.com/gatik-brings-in-200m-to-continue-expanding-autonomous-trucking-operations",
@@ -462,12 +462,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "XPeng Motors humanoid robot unit Dogotix raises $900M",
-          "url": "https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m",
-          "publishedAt": "2026-08-24T20:07:09+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
           "url": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
           "publishedAt": "2026-08-21T16:00:01+00:00",
@@ -489,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-27T13:00:36+00:00",
+    "updatedAt": "2026-08-27T14:00:29+00:00",
     "stories": [
       {
         "title": "The Ox Alpha mystery model ends with Z AI",
@@ -537,45 +531,45 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Japan approves mass production of 3D-printed interceptor drones",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/08/27/japan-approves-mass-production-of-3d-printed-interceptor-drones",
-        "publishedAt": "2026-08-27T11:17:16+00:00",
+        "title": "Marines fielding new laser sights at School of Infantry",
+        "url": "https://www.defensenews.com/news/your-military/2026/08/27/marines-fielding-new-laser-sights-at-school-of-infantry",
+        "publishedAt": "2026-08-27T13:51:25+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Gatik brings in $200M to continue expanding autonomous trucking operations",
-        "url": "https://www.therobotreport.com/gatik-brings-in-200m-to-continue-expanding-autonomous-trucking-operations",
-        "publishedAt": "2026-08-26T16:59:15+00:00",
+        "title": "Carbon Robotics partners with iMerit to power instant in-field AI customization",
+        "url": "https://www.therobotreport.com/carbon-robotics-partners-with-imerit-to-power-instant-in-field-ai-customization",
+        "publishedAt": "2026-08-27T13:27:58+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
       },
       {
-        "title": "Watch powerful Ariane 6 rocket launch European weather satellite to orbit today",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-launch-mtg-i2-weather-satellite",
-        "publishedAt": "2026-08-27T12:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Rolls-Royce, Safran vie for India’s next-generation fighter engine",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/08/27/rolls-royce-safran-vie-for-indias-next-generation-fighter-engine",
-        "publishedAt": "2026-08-27T09:17:41+00:00",
+        "title": "Japan approves mass production of 3D-printed interceptor drones",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/08/27/japan-approves-mass-production-of-3d-printed-interceptor-drones",
+        "publishedAt": "2026-08-27T11:17:16+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-        "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india",
-        "publishedAt": "2026-08-27T11:35:59+00:00",
+        "title": "'Strange New Worlds' latest episode wastes a lot of time pretending to kill off major 'Star Trek' characters",
+        "url": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-wastes-a-lot-of-time-pretending-to-kill-off-major-star-trek-characters",
+        "publishedAt": "2026-08-27T13:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+        "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents",
+        "publishedAt": "2026-08-27T13:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -695,6 +689,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-14"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-07"
   ]
 }
