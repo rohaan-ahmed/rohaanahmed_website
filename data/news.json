@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-08-27T12:00:28+00:00",
+  "generatedAt": "2026-08-27T13:00:36+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-27T12:00:28+00:00",
+      "updatedAt": "2026-08-27T13:00:36+00:00",
       "stories": [
         {
           "title": "LatConnect 60 and Phi Earth Partner to Connect Space and Soil",
           "url": "https://spacenews.com/latconnect-60-and-phi-earth-partner-to-connect-space-and-soil",
           "publishedAt": "2026-08-27T01:54:19+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Watch powerful Ariane 6 rocket launch European weather satellite to orbit today",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-launch-mtg-i2-weather-satellite",
+          "publishedAt": "2026-08-27T12:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "An impressive partial lunar eclipse will turn the moon an eerie red for millions of people tonight",
@@ -61,12 +67,6 @@
           "source": "NASA"
         },
         {
-          "title": "Astronomers discover hot watery exoplanet destined to be swallowed by its star",
-          "url": "https://www.space.com/astronomy/exoplanets/astronomers-discover-hot-watery-exoplanet-destined-to-be-swallowed-by-its-star",
-          "publishedAt": "2026-08-26T18:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Roman Space Telescope Travels to SpaceX Hangar",
           "url": "https://www.nasa.gov/image-article/roman-space-telescope-travels-to-spacex-hangar",
           "publishedAt": "2026-08-26T18:40:19+00:00",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-27T12:00:28+00:00",
+      "updatedAt": "2026-08-27T13:00:36+00:00",
       "stories": [
+        {
+          "title": "NordSpace matches $5 million in new government funding for Newfoundland spaceport",
+          "url": "https://spaceq.ca/nordspace-newfoundland-spaceport-funding",
+          "publishedAt": "2026-08-27T12:35:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Xona gets FCC approval to build jamming-resistant PNT constellation",
           "url": "https://spaceq.ca/xona-gets-fcc-approval-to-build-jamming-resistant-pnt-constellation",
@@ -156,19 +162,13 @@
           "url": "https://spaceq.ca/csa-awards-four-more-fast-grants",
           "publishedAt": "2026-08-21T11:21:00+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "Former space agency veteran joins OroraTech to track Canada’s ongoing wildfires from orbit",
-          "url": "https://spaceq.ca/former-space-agency-veteran-joins-ororatech-to-track-canadas-ongoing-wildfires-from-orbit",
-          "publishedAt": "2026-08-20T14:52:00+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-27T12:00:28+00:00",
+      "updatedAt": "2026-08-27T13:00:36+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-27T12:00:28+00:00",
+      "updatedAt": "2026-08-27T13:00:36+00:00",
       "stories": [
         {
           "title": "Japan approves mass production of 3D-printed interceptor drones",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-27T12:00:28+00:00",
+      "updatedAt": "2026-08-27T13:00:36+00:00",
       "stories": [
         {
           "title": "The Ox Alpha mystery model ends with Z AI",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-27T12:00:28+00:00",
+      "updatedAt": "2026-08-27T13:00:36+00:00",
       "stories": [
         {
           "title": "Gatik brings in $200M to continue expanding autonomous trucking operations",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-27T12:00:28+00:00",
+    "updatedAt": "2026-08-27T13:00:36+00:00",
     "stories": [
       {
         "title": "The Ox Alpha mystery model ends with Z AI",
@@ -510,9 +510,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Xona gets FCC approval to build jamming-resistant PNT constellation",
-        "url": "https://spaceq.ca/xona-gets-fcc-approval-to-build-jamming-resistant-pnt-constellation",
-        "publishedAt": "2026-08-26T16:00:20+00:00",
+        "title": "NordSpace matches $5 million in new government funding for Newfoundland spaceport",
+        "url": "https://spaceq.ca/nordspace-newfoundland-spaceport-funding",
+        "publishedAt": "2026-08-27T12:35:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Watch powerful Ariane 6 rocket launch European weather satellite to orbit today",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/ariane-6-rocket-launch-mtg-i2-weather-satellite",
+        "publishedAt": "2026-08-27T12:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Rolls-Royce, Safran vie for India’s next-generation fighter engine",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/08/27/rolls-royce-safran-vie-for-indias-next-generation-fighter-engine",
         "publishedAt": "2026-08-27T09:17:41+00:00",
@@ -570,15 +579,6 @@
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "An impressive partial lunar eclipse will turn the moon an eerie red for millions of people tonight",
-        "url": "https://www.space.com/stargazing/lunar-eclipses/an-impressive-partial-lunar-eclipse-will-turn-the-moon-an-eerie-red-for-millions-of-people-tonight-aug-27-28",
-        "publishedAt": "2026-08-27T10:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -695,6 +695,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-13"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-14"
   ]
 }
