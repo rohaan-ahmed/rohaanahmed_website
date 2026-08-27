@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-08-27T20:00:29+00:00",
+  "generatedAt": "2026-08-27T21:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-27T20:00:29+00:00",
+      "updatedAt": "2026-08-27T21:00:31+00:00",
       "stories": [
         {
           "title": "The electronics ‘under the hood’ of space networking",
           "url": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking",
           "publishedAt": "2026-08-27T14:50:34+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "MTG-I2 completes Europe’s latest weather trio",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_completes_Europe_s_latest_weather_trio",
+          "publishedAt": "2026-08-27T20:48:00+00:00",
+          "source": "European Space Agency"
         },
         {
           "title": "Astronaut Jonny Kim leaves NASA, will return to active military duty",
@@ -79,12 +85,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Second spacewalk completed for Sophie Adenot",
-          "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Second_spacewalk_completed_for_Sophie_Adenot",
-          "publishedAt": "2026-08-26T08:40:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Propulsion is having a moment",
           "url": "https://spacenews.com/propulsion-is-having-a-moment",
           "publishedAt": "2026-08-25T19:59:37+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-27T20:00:29+00:00",
+      "updatedAt": "2026-08-27T21:00:31+00:00",
       "stories": [
         {
           "title": "MDA Space makes a Direct-to-Device play with SpaceRAN constellation",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-27T20:00:29+00:00",
+      "updatedAt": "2026-08-27T21:00:31+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-27T20:00:29+00:00",
+      "updatedAt": "2026-08-27T21:00:31+00:00",
       "stories": [
         {
           "title": "15,000 operational days lost due to US submarine maintenance delays, GAO finds",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-27T20:00:29+00:00",
+      "updatedAt": "2026-08-27T21:00:31+00:00",
       "stories": [
         {
           "title": "The Ox Alpha mystery model ends with Z AI",
@@ -387,8 +387,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-27T20:00:29+00:00",
+      "updatedAt": "2026-08-27T21:00:31+00:00",
       "stories": [
+        {
+          "title": "Teradyne Robotics ramps up fight against cobot copycats",
+          "url": "https://www.therobotreport.com/teradyne-robotics-sues-another-chinese-cobot-maker",
+          "publishedAt": "2026-08-27T20:31:27+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "NSF to invest $90M into three new technology centers, including one focused on robotics",
           "url": "https://www.therobotreport.com/nsf-invests-90m-three-new-technology-centers-including-one-focused-robotics",
@@ -456,12 +462,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA",
-          "url": "https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia",
-          "publishedAt": "2026-08-25T15:00:22+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
           "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
           "publishedAt": "2026-08-25T10:00:03+00:00",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-27T20:00:29+00:00",
+    "updatedAt": "2026-08-27T21:00:31+00:00",
     "stories": [
       {
         "title": "The Ox Alpha mystery model ends with Z AI",
@@ -540,9 +540,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NSF to invest $90M into three new technology centers, including one focused on robotics",
-        "url": "https://www.therobotreport.com/nsf-invests-90m-three-new-technology-centers-including-one-focused-robotics",
-        "publishedAt": "2026-08-27T18:12:54+00:00",
+        "title": "Teradyne Robotics ramps up fight against cobot copycats",
+        "url": "https://www.therobotreport.com/teradyne-robotics-sues-another-chinese-cobot-maker",
+        "publishedAt": "2026-08-27T20:31:27+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -558,18 +558,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "How the Army benefits from diverse interceptors, plus a window into modernization",
-        "url": "https://breakingdefense.com/2026/08/how-the-army-benefits-from-diverse-interceptors-plus-a-window-into-modernization",
-        "publishedAt": "2026-08-27T18:26:47+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "MTG-I2 completes Europe’s latest weather trio",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_completes_Europe_s_latest_weather_trio",
+        "publishedAt": "2026-08-27T20:48:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Submarine maintenance delays, ‘idle time’ cost $3.4 billion, GAO says",
-        "url": "https://breakingdefense.com/2026/08/submarine-maintenance-delays-idle-time-cost-3-4-billion-gao-says",
-        "publishedAt": "2026-08-27T18:17:04+00:00",
+        "title": "How the Army benefits from diverse interceptors, plus a window into modernization",
+        "url": "https://breakingdefense.com/2026/08/how-the-army-benefits-from-diverse-interceptors-plus-a-window-into-modernization",
+        "publishedAt": "2026-08-27T18:26:47+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
