@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-28T10:00:29+00:00",
+  "generatedAt": "2026-08-28T11:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-28T10:00:29+00:00",
+      "updatedAt": "2026-08-28T11:00:32+00:00",
       "stories": [
+        {
+          "title": "Partial lunar eclipse stuns skywatchers with an ‘almost blood moon’. Here are the best photos",
+          "url": "https://www.space.com/stargazing/lunar-eclipses/partial-lunar-eclipse-stuns-skywatchers-with-an-almost-blood-moon-here-are-the-best-photos",
+          "publishedAt": "2026-08-28T10:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "The electronics ‘under the hood’ of space networking",
           "url": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking",
@@ -40,12 +46,6 @@
           "title": "Astronaut Jonny Kim leaves NASA, will return to active military duty",
           "url": "https://www.space.com/space-exploration/human-spaceflight/astronaut-jonny-kim-leaves-nasa-will-return-to-active-military-duty",
           "publishedAt": "2026-08-27T19:02:45+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "After failure of private rescue mission, NASA's Swift space telescope will crash back to Earth. But when and where?",
-          "url": "https://www.space.com/space-exploration/missions/after-failure-of-private-rescue-mission-nasas-swift-space-telescope-will-crash-back-to-earth-but-when-and-where",
-          "publishedAt": "2026-08-27T18:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-28T10:00:29+00:00",
+      "updatedAt": "2026-08-28T11:00:32+00:00",
       "stories": [
         {
           "title": "MDA Space makes a Direct-to-Device play with SpaceRAN constellation",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-28T10:00:29+00:00",
+      "updatedAt": "2026-08-28T11:00:32+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-28T10:00:29+00:00",
+      "updatedAt": "2026-08-28T11:00:32+00:00",
       "stories": [
         {
           "title": "In southern Lebanon, fighting Hezbollah in the hills becomes a strategic conundrum",
@@ -290,8 +290,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-28T10:00:29+00:00",
+      "updatedAt": "2026-08-28T11:00:32+00:00",
       "stories": [
+        {
+          "title": "Anthropic wires AI agents into real-world machines",
+          "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+          "publishedAt": "2026-08-28T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "UK trials live-video AI in brain surgery",
+          "url": "https://www.uclh.nhs.uk/news/first-patient-live-ai-assisted-sight-saving-brain-surgery",
+          "publishedAt": "2026-08-28T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
           "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026",
@@ -369,25 +381,13 @@
           "url": "https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25",
           "publishedAt": "2026-08-26T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Perplexity, Nvidia go portable with Computer",
-          "url": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
-          "publishedAt": "2026-08-26T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Thomson Reuters builds its own legal AI model",
-          "url": "https://www.thomsonreuters.com/en-us/posts/innovation/how-we-built-thomson",
-          "publishedAt": "2026-08-25T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-28T10:00:29+00:00",
+      "updatedAt": "2026-08-28T11:00:32+00:00",
       "stories": [
         {
           "title": "Teradyne Robotics ramps up fight against cobot copycats",
@@ -483,21 +483,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-28T10:00:29+00:00",
+    "updatedAt": "2026-08-28T11:00:32+00:00",
     "stories": [
       {
-        "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026",
-        "publishedAt": "2026-08-27T23:16:45+00:00",
-        "source": "TechCrunch AI",
+        "title": "Anthropic wires AI agents into real-world machines",
+        "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+        "publishedAt": "2026-08-28T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "The Ox Alpha mystery model ends with Z AI",
-        "url": "https://z.ai/blog/glm-5.3-flash",
-        "publishedAt": "2026-08-27T10:00:00+00:00",
+        "title": "UK trials live-video AI in brain surgery",
+        "url": "https://www.uclh.nhs.uk/news/first-patient-live-ai-assisted-sight-saving-brain-surgery",
+        "publishedAt": "2026-08-28T10:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -513,10 +513,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The electronics ‘under the hood’ of space networking",
-        "url": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking",
-        "publishedAt": "2026-08-27T14:50:34+00:00",
-        "source": "SpaceNews",
+        "title": "Partial lunar eclipse stuns skywatchers with an ‘almost blood moon’. Here are the best photos",
+        "url": "https://www.space.com/stargazing/lunar-eclipses/partial-lunar-eclipse-stuns-skywatchers-with-an-almost-blood-moon-here-are-the-best-photos",
+        "publishedAt": "2026-08-28T10:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -549,6 +549,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "The electronics ‘under the hood’ of space networking",
+        "url": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking",
+        "publishedAt": "2026-08-27T14:50:34+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "APOD: 2026 August 28 – The Sky Turns Above Paranal",
         "url": "https://science.nasa.gov/image-article/apod-2026-august-28-the-sky-turns-above-paranal",
         "publishedAt": "2026-08-28T04:05:00+00:00",
@@ -564,15 +573,6 @@
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "NordSpace matches $5 million in new government funding for Newfoundland spaceport",
-        "url": "https://spaceq.ca/nordspace-newfoundland-spaceport-funding",
-        "publishedAt": "2026-08-27T12:35:00+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
