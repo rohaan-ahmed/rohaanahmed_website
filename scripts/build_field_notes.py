@@ -91,7 +91,7 @@ def article_page(metadata: dict, article_html: str) -> str:
     <meta name="description" content="{summary}">
     <title>{title} | My Field Notes | Rohaan Ahmed</title>
     <link rel="stylesheet" href="../styles.css?v=content-v5">
-    <link rel="stylesheet" href="../content.css?v=content-v5">
+    <link rel="stylesheet" href="../content.css?v=content-v6">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Share+Tech+Mono&family=Sora:wght@400;600;700;800&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
@@ -120,6 +120,10 @@ def article_page(metadata: dict, article_html: str) -> str:
             <div class="article-body">
                 {article_html}
             </div>
+            <footer class="article-attribution">
+                <p class="article-author"><strong>Author: Rohaan Ahmed</strong></p>
+                <p class="article-disclaimer"><em>The opinions expressed in my writings are my own, and do not represent the views of the organizations I am affiliated with. I do not use AI in writing, editing, or reviewing my articles. Despite my best efforts, I cannot guarantee that the information in my articles is factual or current.</em></p>
+            </footer>
         </article>
     </main>
     <footer class="footer content-footer">

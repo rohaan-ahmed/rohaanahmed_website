@@ -716,6 +716,26 @@
     padding: 0;
 }
 
+.article-attribution {
+    max-width: 760px;
+    margin-bottom: 32px;
+    border-top: 1px solid var(--hairline);
+    padding-top: 26px;
+}
+
+.article-author {
+    margin-bottom: 12px;
+    color: var(--text-primary);
+    font-size: 0.92rem;
+}
+
+.article-disclaimer {
+    max-width: 720px;
+    color: var(--text-faint);
+    font-size: 0.8rem;
+    line-height: 1.65;
+}
+
 body.tactical-theme.content-page {
     background:
         linear-gradient(rgba(139, 154, 107, 0.045) 1px, transparent 1px),
