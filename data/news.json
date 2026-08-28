@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T02:00:26+00:00",
+  "generatedAt": "2026-08-28T02:42:38+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-28T02:00:26+00:00",
+      "updatedAt": "2026-08-28T02:42:38+00:00",
       "stories": [
         {
           "title": "The electronics ‘under the hood’ of space networking",
@@ -37,22 +37,10 @@
           "source": "Space.com"
         },
         {
-          "title": "NASA Invites Media to Turkey Artemis Accords Signing Ceremony",
-          "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony",
-          "publishedAt": "2026-08-27T18:42:38+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Civil Servants Sworn in at NASA Ames",
-          "url": "https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames",
-          "publishedAt": "2026-08-27T18:02:54+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "9 Things to Know About NASA’s Nancy Grace Roman Space Telescope",
-          "url": "https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope",
-          "publishedAt": "2026-08-27T17:47:11+00:00",
-          "source": "NASA"
+          "title": "Starship is coming home! SpaceX loads floating spacecraft onto huge ship in the Indian Ocean (photos)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/starship-is-coming-home-spacex-loads-floating-spacecraft-onto-huge-ship-in-the-indian-ocean-photos",
+          "publishedAt": "2026-08-27T16:45:12+00:00",
+          "source": "Space.com"
         },
         {
           "title": "LatConnect 60 and Phi Earth Partner to Connect Space and Soil",
@@ -95,13 +83,25 @@
           "url": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans",
           "publishedAt": "2026-08-25T14:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
+          "url": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat",
+          "publishedAt": "2026-08-25T13:00:00+00:00",
+          "source": "SpaceNews"
+        },
+        {
+          "title": "Week in images: 17-21 August 2026",
+          "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_August_2026",
+          "publishedAt": "2026-08-21T13:10:00+00:00",
+          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-28T02:00:26+00:00",
+      "updatedAt": "2026-08-28T02:42:38+00:00",
       "stories": [
         {
           "title": "MDA Space makes a Direct-to-Device play with SpaceRAN constellation",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-28T02:00:26+00:00",
+      "updatedAt": "2026-08-28T02:42:38+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-28T02:00:26+00:00",
+      "updatedAt": "2026-08-28T02:42:38+00:00",
       "stories": [
         {
           "title": "Pentagon awards contract in race to field cheaper interceptors, missiles",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-28T02:00:26+00:00",
+      "updatedAt": "2026-08-28T02:42:38+00:00",
       "stories": [
         {
           "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-28T02:00:26+00:00",
+      "updatedAt": "2026-08-28T02:42:38+00:00",
       "stories": [
         {
           "title": "Teradyne Robotics ramps up fight against cobot copycats",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-28T02:00:26+00:00",
+    "updatedAt": "2026-08-28T02:42:38+00:00",
     "stories": [
       {
         "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
@@ -688,7 +688,8 @@
     }
   ],
   "warnings": [
+    "NASA: 429 Client Error: Too Many Requests for url: https://www.nasa.gov/feed/",
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-11"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-13"
   ]
 }
