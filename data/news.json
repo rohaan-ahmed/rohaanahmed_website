@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T11:00:32+00:00",
+  "generatedAt": "2026-08-28T12:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-28T11:00:32+00:00",
+      "updatedAt": "2026-08-28T12:00:28+00:00",
       "stories": [
         {
           "title": "Partial lunar eclipse stuns skywatchers with an ‘almost blood moon’. Here are the best photos",
@@ -73,6 +73,12 @@
           "source": "European Space Agency"
         },
         {
+          "title": "Watch live: BepiColombo begins its arrival at Mercury",
+          "url": "https://www.esa.int/Enabling_Support/Operations/Watch_live_BepiColombo_begins_its_arrival_at_Mercury",
+          "publishedAt": "2026-08-27T05:17:00+00:00",
+          "source": "European Space Agency"
+        },
+        {
           "title": "RTX’s Blue Canyon Technologies introduces new spacecraft mission enabler",
           "url": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler",
           "publishedAt": "2026-08-26T16:12:57+00:00",
@@ -89,20 +95,20 @@
           "url": "https://spacenews.com/propulsion-is-having-a-moment",
           "publishedAt": "2026-08-25T19:59:37+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
-          "url": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans",
-          "publishedAt": "2026-08-25T14:00:00+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-28T11:00:32+00:00",
+      "updatedAt": "2026-08-28T12:00:28+00:00",
       "stories": [
+        {
+          "title": "MDA Space LaunchPad Ventures invests directly in SMBs",
+          "url": "https://spaceq.ca/mda-space-launchpad-ventures-invests-directly-in-smbs",
+          "publishedAt": "2026-08-28T11:07:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "MDA Space makes a Direct-to-Device play with SpaceRAN constellation",
           "url": "https://spaceq.ca/mda-space-makes-a-direct-to-device-play-with-spaceran-constellation",
@@ -156,19 +162,13 @@
           "url": "https://spaceq.ca/canadian-space-sector-escapes-new-u-s-tariffs-for-now",
           "publishedAt": "2026-08-24T11:36:00+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "In Defence of Canada briefing: DND’s $20.3M Quantum Gamble & Launch Canada’s Rocketry Push",
-          "url": "https://spaceq.ca/quantum-defence-hub-calgary-launch-canada",
-          "publishedAt": "2026-08-21T15:37:00+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-28T11:00:32+00:00",
+      "updatedAt": "2026-08-28T12:00:28+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,8 +193,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-28T11:00:32+00:00",
+      "updatedAt": "2026-08-28T12:00:28+00:00",
       "stories": [
+        {
+          "title": "Russia is running out of cash due to its war in Ukraine: report",
+          "url": "https://www.defensenews.com/global/europe/2026/08/28/russia-is-running-out-of-cash-due-to-its-war-in-ukraine-report",
+          "publishedAt": "2026-08-28T11:44:36+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "In southern Lebanon, fighting Hezbollah in the hills becomes a strategic conundrum",
           "url": "https://www.defensenews.com/global/mideast-africa/2026/08/28/in-southern-lebanon-fighting-hezbollah-in-the-hills-becomes-a-strategic-conundrum",
@@ -268,12 +274,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Marines fielding new laser sights at School of Infantry",
-          "url": "https://www.defensenews.com/news/your-military/2026/08/27/marines-fielding-new-laser-sights-at-school-of-infantry",
-          "publishedAt": "2026-08-27T13:51:25+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Pentagon awards $318M contract for Dataminr alerting services technology",
           "url": "https://defensescoop.com/2026/08/27/pentagon-awards-dataminr-318m-contract",
           "publishedAt": "2026-08-27T15:48:53+00:00",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-28T11:00:32+00:00",
+      "updatedAt": "2026-08-28T12:00:28+00:00",
       "stories": [
         {
           "title": "Anthropic wires AI agents into real-world machines",
@@ -335,40 +335,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "NVIDIA's $108b Quarter (3 minute read)",
-          "url": "https://tomtunguz.com/nvidia-q2-fy27-earnings",
-          "publishedAt": "2026-08-27T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+          "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more",
+          "publishedAt": "2026-08-27T16:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse' concerns (2 minute read)",
-          "url": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
-          "publishedAt": "2026-08-27T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+          "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck",
+          "publishedAt": "2026-08-27T14:56:52+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "What Z.ai's Ox Alpha reveals about AI economics (3 minute read)",
-          "url": "https://www.thedeepview.com/articles/what-z-ai-s-ox-alpha-reveals-about-ai-economics",
-          "publishedAt": "2026-08-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Brief independent investigation of agents' behavior, reasoning and collaboration in the OpenAI/Hugging Face hacking incident (160 minute read)",
-          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-          "publishedAt": "2026-08-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Automatic Harness Optimization (GitHub Repo)",
-          "url": "https://github.com/microsoft/AutoSaddler",
-          "publishedAt": "2026-08-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Muse Image (2 minute read)",
-          "url": "https://developer.meta.com/ai/models/muse-image?amp%3Butm_medium=M4D&amp%3Butm_campaign=organic&amp%3Butm_content=museimage",
-          "publishedAt": "2026-08-27T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "AI’s memory crunch is coming for Android apps",
+          "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps",
+          "publishedAt": "2026-08-27T14:27:04+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI's Jalapeño chip brings the heat",
@@ -381,13 +363,31 @@
           "url": "https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25",
           "publishedAt": "2026-08-26T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Perplexity, Nvidia go portable with Computer",
+          "url": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
+          "publishedAt": "2026-08-26T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Thomson Reuters builds its own legal AI model",
+          "url": "https://www.thomsonreuters.com/en-us/posts/innovation/how-we-built-thomson",
+          "publishedAt": "2026-08-25T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Chinese hackers double attacks with DeepSeek",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-hackers-use-deepseek-to-boost-attacks-researchers-say-mt7o4205",
+          "publishedAt": "2026-08-25T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-28T11:00:32+00:00",
+      "updatedAt": "2026-08-28T12:00:28+00:00",
       "stories": [
         {
           "title": "Teradyne Robotics ramps up fight against cobot copycats",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-28T11:00:32+00:00",
+    "updatedAt": "2026-08-28T12:00:28+00:00",
     "stories": [
       {
         "title": "Anthropic wires AI agents into real-world machines",
@@ -504,9 +504,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "MDA Space makes a Direct-to-Device play with SpaceRAN constellation",
-        "url": "https://spaceq.ca/mda-space-makes-a-direct-to-device-play-with-spaceran-constellation",
-        "publishedAt": "2026-08-27T14:48:09+00:00",
+        "title": "MDA Space LaunchPad Ventures invests directly in SMBs",
+        "url": "https://spaceq.ca/mda-space-launchpad-ventures-invests-directly-in-smbs",
+        "publishedAt": "2026-08-28T11:07:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "In southern Lebanon, fighting Hezbollah in the hills becomes a strategic conundrum",
-        "url": "https://www.defensenews.com/global/mideast-africa/2026/08/28/in-southern-lebanon-fighting-hezbollah-in-the-hills-becomes-a-strategic-conundrum",
-        "publishedAt": "2026-08-28T09:50:51+00:00",
+        "title": "Russia is running out of cash due to its war in Ukraine: report",
+        "url": "https://www.defensenews.com/global/europe/2026/08/28/russia-is-running-out-of-cash-due-to-its-war-in-ukraine-report",
+        "publishedAt": "2026-08-28T11:44:36+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -549,6 +549,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "In southern Lebanon, fighting Hezbollah in the hills becomes a strategic conundrum",
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/08/28/in-southern-lebanon-fighting-hezbollah-in-the-hills-becomes-a-strategic-conundrum",
+        "publishedAt": "2026-08-28T09:50:51+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "The electronics ‘under the hood’ of space networking",
         "url": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking",
         "publishedAt": "2026-08-27T14:50:34+00:00",
@@ -558,21 +567,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "APOD: 2026 August 28 – The Sky Turns Above Paranal",
-        "url": "https://science.nasa.gov/image-article/apod-2026-august-28-the-sky-turns-above-paranal",
-        "publishedAt": "2026-08-28T04:05:00+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "The Forested Floodplains of Congaree National Park",
-        "url": "https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park",
-        "publishedAt": "2026-08-28T04:01:00+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "MDA Space makes a Direct-to-Device play with SpaceRAN constellation",
+        "url": "https://spaceq.ca/mda-space-makes-a-direct-to-device-play-with-spaceran-constellation",
+        "publishedAt": "2026-08-27T14:48:09+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -688,6 +688,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-11"
   ]
 }
