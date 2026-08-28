@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-28T18:00:28+00:00",
+  "generatedAt": "2026-08-28T19:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-28T18:00:28+00:00",
+      "updatedAt": "2026-08-28T19:00:32+00:00",
       "stories": [
+        {
+          "title": "'It's going to be beautiful': President Trump signs order to create US Space Academy",
+          "url": "https://www.space.com/space-exploration/its-going-to-be-beautiful-president-trump-signs-order-to-create-us-space-academy",
+          "publishedAt": "2026-08-28T18:44:34+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "'Silo' season 3: Common and Alexandria Riley talk shocking truths and writers tearing their on-screen marriage apart (interview)",
+          "url": "https://www.space.com/entertainment/space-movies-shows/silo-season-3-common-and-alexandria-riley-talk-shocking-truths-and-writers-tearing-their-on-screen-marriage-apart-interview",
+          "publishedAt": "2026-08-28T18:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Relive private Chinese rocket's explosive 1st landing attempt (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-private-chinese-rockets-explosive-1st-landing-attempt-video",
@@ -25,12 +37,6 @@
           "source": "NASA"
         },
         {
-          "title": "On Cloud 9: Have astronomers discovered the first starless galaxy?",
-          "url": "https://www.space.com/astronomy/galaxies/on-cloud-9-have-astronomers-discovered-the-first-starless-galaxy",
-          "publishedAt": "2026-08-28T16:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Week in images: 24-28 August 2026",
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_August_2026",
           "publishedAt": "2026-08-28T13:10:00+00:00",
@@ -41,12 +47,6 @@
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Ariane_6_launch_with_MTG-I2_highlights",
           "publishedAt": "2026-08-28T12:20:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "SpaceX Falcon Heavy rocket launching NASA's Roman Space Telescope on Aug. 30: How to watch it live",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-rocket-launching-nasas-roman-space-telescope-on-aug-30-how-to-watch-it-live",
-          "publishedAt": "2026-08-28T15:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Grants",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-28T18:00:28+00:00",
+      "updatedAt": "2026-08-28T19:00:32+00:00",
       "stories": [
         {
           "title": "MDA Space LaunchPad Ventures invests directly in SMBs",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-28T18:00:28+00:00",
+      "updatedAt": "2026-08-28T19:00:32+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,10 +193,10 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-28T18:00:28+00:00",
+      "updatedAt": "2026-08-28T19:00:32+00:00",
       "stories": [
         {
-          "title": "Military uses AV directed energy system to ‘defeat’ drones at the border",
+          "title": "Military uses AV directed-energy system to ‘defeat’ drones at the border",
           "url": "https://breakingdefense.com/2026/08/military-uses-av-directed-energy-system-to-defeat-drones-at-the-border",
           "publishedAt": "2026-08-28T15:54:53+00:00",
           "source": "Breaking Defense"
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-28T18:00:28+00:00",
+      "updatedAt": "2026-08-28T19:00:32+00:00",
       "stories": [
         {
           "title": "Anthropic wires AI agents into real-world machines",
@@ -303,6 +303,12 @@
           "url": "https://www.uclh.nhs.uk/news/first-patient-live-ai-assisted-sight-saving-brain-surgery",
           "publishedAt": "2026-08-28T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+          "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets",
+          "publishedAt": "2026-08-28T18:19:40+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Introducing H3 Max by fal (5 minute read)",
@@ -353,12 +359,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026",
-          "publishedAt": "2026-08-27T23:16:45+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "The Ox Alpha mystery model ends with Z AI",
           "url": "https://z.ai/blog/glm-5.3-flash",
           "publishedAt": "2026-08-27T10:00:00+00:00",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-28T18:00:28+00:00",
+      "updatedAt": "2026-08-28T19:00:32+00:00",
       "stories": [
         {
           "title": "EXL acquires physical AI model developer iMerit",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-28T18:00:28+00:00",
+    "updatedAt": "2026-08-28T19:00:32+00:00",
     "stories": [
       {
         "title": "Anthropic wires AI agents into real-world machines",
@@ -513,9 +513,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Relive private Chinese rocket's explosive 1st landing attempt (video)",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-private-chinese-rockets-explosive-1st-landing-attempt-video",
-        "publishedAt": "2026-08-28T17:00:00+00:00",
+        "title": "'It's going to be beautiful': President Trump signs order to create US Space Academy",
+        "url": "https://www.space.com/space-exploration/its-going-to-be-beautiful-president-trump-signs-order-to-create-us-space-academy",
+        "publishedAt": "2026-08-28T18:44:34+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -531,7 +531,7 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Military uses AV directed energy system to ‘defeat’ drones at the border",
+        "title": "Military uses AV directed-energy system to ‘defeat’ drones at the border",
         "url": "https://breakingdefense.com/2026/08/military-uses-av-directed-energy-system-to-defeat-drones-at-the-border",
         "publishedAt": "2026-08-28T15:54:53+00:00",
         "source": "Breaking Defense",
@@ -567,12 +567,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "With AI hackers in mind, Air Forces Cyber develops defensive ‘campaign plan’",
-        "url": "https://breakingdefense.com/2026/08/with-ai-hackers-in-mind-air-forces-cyber-develops-defensive-campaign-plan",
-        "publishedAt": "2026-08-28T15:07:32+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "'Silo' season 3: Common and Alexandria Riley talk shocking truths and writers tearing their on-screen marriage apart (interview)",
+        "url": "https://www.space.com/entertainment/space-movies-shows/silo-season-3-common-and-alexandria-riley-talk-shocking-truths-and-writers-tearing-their-on-screen-marriage-apart-interview",
+        "publishedAt": "2026-08-28T18:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
