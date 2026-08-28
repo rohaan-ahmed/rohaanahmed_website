@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-28T16:00:26+00:00",
+  "generatedAt": "2026-08-28T17:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-28T16:00:26+00:00",
+      "updatedAt": "2026-08-28T17:00:27+00:00",
       "stories": [
+        {
+          "title": "On Cloud 9: Have astronomers discovered the first starless galaxy?",
+          "url": "https://www.space.com/astronomy/galaxies/on-cloud-9-have-astronomers-discovered-the-first-starless-galaxy",
+          "publishedAt": "2026-08-28T16:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Week in images: 24-28 August 2026",
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_August_2026",
@@ -34,12 +40,6 @@
           "title": "On this day in space! Aug. 28, 1993: Galileo spacecraft flies by asteroid Ida on the way to Jupiter only to find a tiny moon!",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-28-2026",
           "publishedAt": "2026-08-28T14:25:11+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Curiosity climbs to new heights on Mars | Space photo of the day for Aug. 28, 2026",
-          "url": "https://www.space.com/space-exploration/mars-rovers/curiosity-climbs-to-new-heights-on-mars-space-photo-of-the-day-for-aug-28-2026",
-          "publishedAt": "2026-08-28T14:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-28T16:00:26+00:00",
+      "updatedAt": "2026-08-28T17:00:27+00:00",
       "stories": [
         {
           "title": "MDA Space LaunchPad Ventures invests directly in SMBs",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-28T16:00:26+00:00",
+      "updatedAt": "2026-08-28T17:00:27+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-28T16:00:26+00:00",
+      "updatedAt": "2026-08-28T17:00:27+00:00",
       "stories": [
         {
           "title": "Military uses AV directed energy system to ‘defeat’ drones at the border",
@@ -206,6 +206,12 @@
           "url": "https://breakingdefense.com/2026/08/finland-and-sweden-team-up-to-boost-counter-drone-defenses",
           "publishedAt": "2026-08-28T15:44:05+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Air Force awards Boeing $131 billion ceiling contract for F-15 production, modernization",
+          "url": "https://www.defensenews.com/news/your-military/2026/08/28/air-force-awards-boeing-131-billion-ceiling-contract-for-f-15-production-modernization",
+          "publishedAt": "2026-08-28T16:36:53+00:00",
+          "source": "Defense News"
         },
         {
           "title": "With AI hackers in mind, Air Forces Cyber develops defensive ‘campaign plan’",
@@ -256,12 +262,6 @@
           "source": "Defense News"
         },
         {
-          "title": "15,000 operational days lost due to US submarine maintenance delays, GAO finds",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/08/27/15000-operational-days-lost-in-10-years-due-to-us-submarine-maintenance-delays-gao",
-          "publishedAt": "2026-08-27T19:46:27+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Marine Corps bets on techy, but human-centric ground warfare for next 15 years",
           "url": "https://defensescoop.com/2026/08/27/marine-corps-bets-on-techy-but-human-centric-ground-warfare",
           "publishedAt": "2026-08-27T22:11:35+00:00",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-28T16:00:26+00:00",
+      "updatedAt": "2026-08-28T17:00:27+00:00",
       "stories": [
         {
           "title": "Anthropic wires AI agents into real-world machines",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-28T16:00:26+00:00",
+      "updatedAt": "2026-08-28T17:00:27+00:00",
       "stories": [
         {
           "title": "How Locus is getting a grasp on one of robotics biggest challenges: manipulation",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-28T16:00:26+00:00",
+    "updatedAt": "2026-08-28T17:00:27+00:00",
     "stories": [
       {
         "title": "Anthropic wires AI agents into real-world machines",
@@ -513,10 +513,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Week in images: 24-28 August 2026",
-        "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_August_2026",
-        "publishedAt": "2026-08-28T13:10:00+00:00",
-        "source": "European Space Agency",
+        "title": "On Cloud 9: Have astronomers discovered the first starless galaxy?",
+        "url": "https://www.space.com/astronomy/galaxies/on-cloud-9-have-astronomers-discovered-the-first-starless-galaxy",
+        "publishedAt": "2026-08-28T16:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -558,18 +558,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "With AI hackers in mind, Air Forces Cyber develops defensive ‘campaign plan’",
-        "url": "https://breakingdefense.com/2026/08/with-ai-hackers-in-mind-air-forces-cyber-develops-defensive-campaign-plan",
-        "publishedAt": "2026-08-28T15:07:32+00:00",
-        "source": "Breaking Defense",
+        "title": "Air Force awards Boeing $131 billion ceiling contract for F-15 production, modernization",
+        "url": "https://www.defensenews.com/news/your-military/2026/08/28/air-force-awards-boeing-131-billion-ceiling-contract-for-f-15-production-modernization",
+        "publishedAt": "2026-08-28T16:36:53+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "F-35 lifetime price tag dips beneath $2 trillion even as buying costs rise",
-        "url": "https://breakingdefense.com/2026/08/f-35-lifetime-price-tag-dips-beneath-2-trillion-even-as-buying-costs-rise",
-        "publishedAt": "2026-08-28T14:09:42+00:00",
+        "title": "With AI hackers in mind, Air Forces Cyber develops defensive ‘campaign plan’",
+        "url": "https://breakingdefense.com/2026/08/with-ai-hackers-in-mind-air-forces-cyber-develops-defensive-campaign-plan",
+        "publishedAt": "2026-08-28T15:07:32+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -689,6 +689,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-05"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-18"
   ]
 }
