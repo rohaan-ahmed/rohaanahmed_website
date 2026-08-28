@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T09:00:29+00:00",
+  "generatedAt": "2026-08-28T10:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-28T09:00:29+00:00",
+      "updatedAt": "2026-08-28T10:00:29+00:00",
       "stories": [
         {
           "title": "The electronics ‘under the hood’ of space networking",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-28T09:00:29+00:00",
+      "updatedAt": "2026-08-28T10:00:29+00:00",
       "stories": [
         {
           "title": "MDA Space makes a Direct-to-Device play with SpaceRAN constellation",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-28T09:00:29+00:00",
+      "updatedAt": "2026-08-28T10:00:29+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,8 +193,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-28T09:00:29+00:00",
+      "updatedAt": "2026-08-28T10:00:29+00:00",
       "stories": [
+        {
+          "title": "In southern Lebanon, fighting Hezbollah in the hills becomes a strategic conundrum",
+          "url": "https://www.defensenews.com/global/mideast-africa/2026/08/28/in-southern-lebanon-fighting-hezbollah-in-the-hills-becomes-a-strategic-conundrum",
+          "publishedAt": "2026-08-28T09:50:51+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Pentagon awards contract in race to field cheaper interceptors, missiles",
           "url": "https://www.defensenews.com/pentagon/2026/08/27/pentagon-awards-contract-in-race-to-field-cheaper-interceptors-missiles",
@@ -278,19 +284,13 @@
           "url": "https://defensescoop.com/2026/08/27/initial-golden-dome-tests-focused-on-c2-software",
           "publishedAt": "2026-08-27T15:00:56+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Japan approves mass production of 3D-printed interceptor drones",
-          "url": "https://www.defensenews.com/global/asia-pacific/2026/08/27/japan-approves-mass-production-of-3d-printed-interceptor-drones",
-          "publishedAt": "2026-08-27T11:17:16+00:00",
-          "source": "Defense News"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-28T09:00:29+00:00",
+      "updatedAt": "2026-08-28T10:00:29+00:00",
       "stories": [
         {
           "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-28T09:00:29+00:00",
+      "updatedAt": "2026-08-28T10:00:29+00:00",
       "stories": [
         {
           "title": "Teradyne Robotics ramps up fight against cobot copycats",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-28T09:00:29+00:00",
+    "updatedAt": "2026-08-28T10:00:29+00:00",
     "stories": [
       {
         "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Pentagon awards contract in race to field cheaper interceptors, missiles",
-        "url": "https://www.defensenews.com/pentagon/2026/08/27/pentagon-awards-contract-in-race-to-field-cheaper-interceptors-missiles",
-        "publishedAt": "2026-08-27T20:58:09+00:00",
+        "title": "In southern Lebanon, fighting Hezbollah in the hills becomes a strategic conundrum",
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/08/28/in-southern-lebanon-fighting-hezbollah-in-the-hills-becomes-a-strategic-conundrum",
+        "publishedAt": "2026-08-28T09:50:51+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
