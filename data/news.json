@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T12:41:32+00:00",
+  "generatedAt": "2026-08-28T13:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-28T12:41:32+00:00",
+      "updatedAt": "2026-08-28T13:00:30+00:00",
       "stories": [
         {
           "title": "Watch President Trump give Artemis II moon astronauts the Congressional Space Medal of Honor today",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-28T12:41:32+00:00",
+      "updatedAt": "2026-08-28T13:00:30+00:00",
       "stories": [
         {
           "title": "MDA Space LaunchPad Ventures invests directly in SMBs",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-28T12:41:32+00:00",
+      "updatedAt": "2026-08-28T13:00:30+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-28T12:41:32+00:00",
+      "updatedAt": "2026-08-28T13:00:30+00:00",
       "stories": [
         {
           "title": "Russia is running out of cash due to its war in Ukraine: report",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-28T12:41:32+00:00",
+      "updatedAt": "2026-08-28T13:00:30+00:00",
       "stories": [
         {
           "title": "Anthropic wires AI agents into real-world machines",
@@ -303,6 +303,12 @@
           "url": "https://www.uclh.nhs.uk/news/first-patient-live-ai-assisted-sight-saving-brain-surgery",
           "publishedAt": "2026-08-28T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
+          "publishedAt": "2026-08-28T12:46:12+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
@@ -327,12 +333,6 @@
           "url": "https://time.com/article/2026/08/26/openai-sam-altman-interview",
           "publishedAt": "2026-08-27T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
-          "publishedAt": "2026-08-27T19:52:52+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "NVIDIA's $108b Quarter (3 minute read)",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-28T12:41:32+00:00",
+      "updatedAt": "2026-08-28T13:00:30+00:00",
       "stories": [
         {
           "title": "Teradyne Robotics ramps up fight against cobot copycats",
@@ -462,6 +462,12 @@
           "source": "The Robot Report"
         },
         {
+          "title": "Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA",
+          "url": "https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia",
+          "publishedAt": "2026-08-25T15:00:22+00:00",
+          "source": "The Robot Report"
+        },
+        {
           "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
           "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
           "publishedAt": "2026-08-25T10:00:03+00:00",
@@ -472,18 +478,12 @@
           "url": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
           "publishedAt": "2026-08-21T16:00:01+00:00",
           "source": "IEEE Spectrum Robotics"
-        },
-        {
-          "title": "Drones With Claws Perch on Arctic Icebergs",
-          "url": "https://spectrum.ieee.org/arctic-iceberg-drones",
-          "publishedAt": "2026-08-18T13:00:01+00:00",
-          "source": "IEEE Spectrum Robotics"
         }
       ]
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-28T12:41:32+00:00",
+    "updatedAt": "2026-08-28T13:00:30+00:00",
     "stories": [
       {
         "title": "Anthropic wires AI agents into real-world machines",
@@ -549,6 +549,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+        "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
+        "publishedAt": "2026-08-28T12:46:12+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Observing Samba and Tango’s reentries",
         "url": "https://www.esa.int/Space_Safety/Space_Debris/Observing_Samba_and_Tango_s_reentries",
         "publishedAt": "2026-08-28T09:03:00+00:00",
@@ -564,15 +573,6 @@
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-        "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india",
-        "publishedAt": "2026-08-28T12:21:06+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
