@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-08-28T04:00:29+00:00",
+  "generatedAt": "2026-08-28T05:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-28T04:00:29+00:00",
+      "updatedAt": "2026-08-28T05:00:29+00:00",
       "stories": [
         {
           "title": "The electronics ‘under the hood’ of space networking",
           "url": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking",
           "publishedAt": "2026-08-27T14:50:34+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "APOD: 2026 August 28 – The Sky Turns Above Paranal",
+          "url": "https://science.nasa.gov/image-article/apod-2026-august-28-the-sky-turns-above-paranal",
+          "publishedAt": "2026-08-28T04:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "The Forested Floodplains of Congaree National Park",
+          "url": "https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park",
+          "publishedAt": "2026-08-28T04:01:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "MTG-I2 completes Europe’s latest weather trio",
@@ -40,18 +52,6 @@
           "title": "NASA Invites Media to Turkey Artemis Accords Signing Ceremony",
           "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony",
           "publishedAt": "2026-08-27T18:42:38+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Civil Servants Sworn in at NASA Ames",
-          "url": "https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames",
-          "publishedAt": "2026-08-27T18:02:54+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "9 Things to Know About NASA’s Nancy Grace Roman Space Telescope",
-          "url": "https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope",
-          "publishedAt": "2026-08-27T17:47:11+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-28T04:00:29+00:00",
+      "updatedAt": "2026-08-28T05:00:29+00:00",
       "stories": [
         {
           "title": "MDA Space makes a Direct-to-Device play with SpaceRAN constellation",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-28T04:00:29+00:00",
+      "updatedAt": "2026-08-28T05:00:29+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-28T04:00:29+00:00",
+      "updatedAt": "2026-08-28T05:00:29+00:00",
       "stories": [
         {
           "title": "Pentagon awards contract in race to field cheaper interceptors, missiles",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-28T04:00:29+00:00",
+      "updatedAt": "2026-08-28T05:00:29+00:00",
       "stories": [
         {
           "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
@@ -323,40 +323,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "NVIDIA's $108b Quarter (3 minute read)",
-          "url": "https://tomtunguz.com/nvidia-q2-fy27-earnings",
-          "publishedAt": "2026-08-27T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+          "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more",
+          "publishedAt": "2026-08-27T16:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocalypse' concerns (2 minute read)",
-          "url": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
-          "publishedAt": "2026-08-27T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+          "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck",
+          "publishedAt": "2026-08-27T14:56:52+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "What Z.ai's Ox Alpha reveals about AI economics (3 minute read)",
-          "url": "https://www.thedeepview.com/articles/what-z-ai-s-ox-alpha-reveals-about-ai-economics",
-          "publishedAt": "2026-08-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Brief independent investigation of agents' behavior, reasoning and collaboration in the OpenAI/Hugging Face hacking incident (160 minute read)",
-          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-          "publishedAt": "2026-08-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Automatic Harness Optimization (GitHub Repo)",
-          "url": "https://github.com/microsoft/AutoSaddler",
-          "publishedAt": "2026-08-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Muse Image (2 minute read)",
-          "url": "https://developer.meta.com/ai/models/muse-image?amp%3Butm_medium=M4D&amp%3Butm_campaign=organic&amp%3Butm_content=museimage",
-          "publishedAt": "2026-08-27T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "AI’s memory crunch is coming for Android apps",
+          "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps",
+          "publishedAt": "2026-08-27T14:27:04+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI's Jalapeño chip brings the heat",
@@ -381,13 +363,31 @@
           "url": "https://www.thomsonreuters.com/en-us/posts/innovation/how-we-built-thomson",
           "publishedAt": "2026-08-25T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Chinese hackers double attacks with DeepSeek",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-24/chinese-hackers-use-deepseek-to-boost-attacks-researchers-say-mt7o4205",
+          "publishedAt": "2026-08-25T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Ox Alpha has the internet playing detective",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/mystery-ai-model-ox-alpha-draws-developers-with-free-access",
+          "publishedAt": "2026-08-24T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Lady Gaga's startup trains AI on human skin",
+          "url": "https://www.outerbio.com/news/why-we-are-building-outer-bio",
+          "publishedAt": "2026-08-24T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-28T04:00:29+00:00",
+      "updatedAt": "2026-08-28T05:00:29+00:00",
       "stories": [
         {
           "title": "Teradyne Robotics ramps up fight against cobot copycats",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-28T04:00:29+00:00",
+    "updatedAt": "2026-08-28T05:00:29+00:00",
     "stories": [
       {
         "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
@@ -549,30 +549,30 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "APOD: 2026 August 28 – The Sky Turns Above Paranal",
+        "url": "https://science.nasa.gov/image-article/apod-2026-august-28-the-sky-turns-above-paranal",
+        "publishedAt": "2026-08-28T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "The Forested Floodplains of Congaree National Park",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park",
+        "publishedAt": "2026-08-28T04:01:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "NordSpace matches $5 million in new government funding for Newfoundland spaceport",
         "url": "https://spaceq.ca/nordspace-newfoundland-spaceport-funding",
         "publishedAt": "2026-08-27T12:35:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "MTG-I2 completes Europe’s latest weather trio",
-        "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_completes_Europe_s_latest_weather_trio",
-        "publishedAt": "2026-08-27T20:48:00+00:00",
-        "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "15,000 operational days lost due to US submarine maintenance delays, GAO finds",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/27/15000-operational-days-lost-in-10-years-due-to-us-submarine-maintenance-delays-gao",
-        "publishedAt": "2026-08-27T19:46:27+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -688,6 +688,7 @@
     }
   ],
   "warnings": [
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-17",
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
   ]
 }
