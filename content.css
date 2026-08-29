@@ -736,6 +736,25 @@
     line-height: 1.65;
 }
 
+.article-disclaimer > p:first-child {
+    margin-bottom: 14px;
+}
+
+.article-ai-heading {
+    margin-bottom: 8px;
+    color: var(--text-muted);
+}
+
+.article-ai-list {
+    margin: 0;
+    padding-left: 20px;
+    list-style: disc;
+}
+
+.article-ai-list li + li {
+    margin-top: 5px;
+}
+
 body.tactical-theme.content-page {
     background:
         linear-gradient(rgba(139, 154, 107, 0.045) 1px, transparent 1px),
