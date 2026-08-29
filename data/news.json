@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T17:00:31+00:00",
+  "generatedAt": "2026-08-29T18:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-29T17:00:31+00:00",
+      "updatedAt": "2026-08-29T18:00:30+00:00",
       "stories": [
         {
           "title": "When is the next lunar eclipse?",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-29T17:00:31+00:00",
+      "updatedAt": "2026-08-29T18:00:30+00:00",
       "stories": [
         {
           "title": "MDA Space LaunchPad Ventures invests directly in SMBs",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-29T17:00:31+00:00",
+      "updatedAt": "2026-08-29T18:00:30+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-29T17:00:31+00:00",
+      "updatedAt": "2026-08-29T18:00:30+00:00",
       "stories": [
         {
           "title": "The big defense spending priorities awaiting Congress in September",
@@ -290,8 +290,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-29T17:00:31+00:00",
+      "updatedAt": "2026-08-29T18:00:30+00:00",
       "stories": [
+        {
+          "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+          "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z",
+          "publishedAt": "2026-08-29T17:36:47+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Nvidia’s AI advantage is moving beyond the GPU",
           "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
@@ -314,12 +320,6 @@
           "title": "Neocloud Lambda secures $1B in debt to buy more chips",
           "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips",
           "publishedAt": "2026-08-28T20:24:11+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-          "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
-          "publishedAt": "2026-08-28T19:30:38+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-29T17:00:31+00:00",
+      "updatedAt": "2026-08-29T18:00:30+00:00",
       "stories": [
         {
           "title": "The differences between decentralized and centralized power in swarm robotics",
@@ -483,22 +483,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-29T17:00:31+00:00",
+    "updatedAt": "2026-08-29T18:00:30+00:00",
     "stories": [
       {
-        "title": "Nvidia’s AI advantage is moving beyond the GPU",
-        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
-        "publishedAt": "2026-08-29T13:00:00+00:00",
+        "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+        "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z",
+        "publishedAt": "2026-08-29T17:36:47+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Anthropic wires AI agents into real-world machines",
-        "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-        "publishedAt": "2026-08-28T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Nvidia’s AI advantage is moving beyond the GPU",
+        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+        "publishedAt": "2026-08-29T13:00:00+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
