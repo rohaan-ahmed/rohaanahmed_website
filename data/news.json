@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T23:00:31+00:00",
+  "generatedAt": "2026-08-29T00:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-28T23:00:31+00:00",
+      "updatedAt": "2026-08-29T00:00:30+00:00",
       "stories": [
         {
           "title": "What time will SpaceX launch NASA's Roman Space Telscope on Aug. 30? (Full mission timeline)",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-28T23:00:31+00:00",
+      "updatedAt": "2026-08-29T00:00:30+00:00",
       "stories": [
         {
           "title": "MDA Space LaunchPad Ventures invests directly in SMBs",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-28T23:00:31+00:00",
+      "updatedAt": "2026-08-29T00:00:30+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-28T23:00:31+00:00",
+      "updatedAt": "2026-08-29T00:00:30+00:00",
       "stories": [
         {
           "title": "The big defense spending priorities awaiting Congress in September",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-28T23:00:31+00:00",
+      "updatedAt": "2026-08-29T00:00:30+00:00",
       "stories": [
         {
           "title": "Anthropic wires AI agents into real-world machines",
@@ -387,13 +387,25 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-28T23:00:31+00:00",
+      "updatedAt": "2026-08-29T00:00:30+00:00",
       "stories": [
+        {
+          "title": "From teach and repeat to SelfPath AI: The next robotics leap",
+          "url": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap",
+          "publishedAt": "2026-08-28T23:25:06+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Deere faces headwinds in Q3 update and announces Reservoir R&D partnership",
           "url": "https://www.therobotreport.com/deere-faces-headwinds-in-q3-update-and-announces-10m-reservoir-rd-partnership",
           "publishedAt": "2026-08-28T21:06:40+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+          "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine",
+          "publishedAt": "2026-08-28T23:24:27+00:00",
+          "source": "TechCrunch Robotics"
         },
         {
           "title": "EXL acquires physical AI model developer iMerit",
@@ -438,18 +450,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "Gatik brings in $200M to continue expanding autonomous trucking operations",
-          "url": "https://www.therobotreport.com/gatik-brings-in-200m-to-continue-expanding-autonomous-trucking-operations",
-          "publishedAt": "2026-08-26T16:59:15+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "IDS Imaging adds Nion ToF sensor to its portfolio of 3D cameras",
-          "url": "https://www.therobotreport.com/ids-imaging-adds-nion-tof-camera-portfolio-3d-cameras",
-          "publishedAt": "2026-08-26T15:04:14+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
           "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor",
           "publishedAt": "2026-08-26T15:00:00+00:00",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-28T23:00:31+00:00",
+    "updatedAt": "2026-08-29T00:00:30+00:00",
     "stories": [
       {
         "title": "Anthropic wires AI agents into real-world machines",
@@ -540,13 +540,31 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "From teach and repeat to SelfPath AI: The next robotics leap",
+        "url": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap",
+        "publishedAt": "2026-08-28T23:25:06+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
+        "bulletinRole": "lead"
+      },
+      {
         "title": "Deere faces headwinds in Q3 update and announces Reservoir R&D partnership",
         "url": "https://www.therobotreport.com/deere-faces-headwinds-in-q3-update-and-announces-10m-reservoir-rd-partnership",
         "publishedAt": "2026-08-28T21:06:40+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
-        "bulletinRole": "lead"
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+        "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine",
+        "publishedAt": "2026-08-28T23:24:27+00:00",
+        "source": "TechCrunch Robotics",
+        "topicId": "robotics",
+        "topicName": "Robotics",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
@@ -555,24 +573,6 @@
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "The devastation of NSA Bahrain is a national security warning",
-        "url": "https://www.defensenews.com/opinion/2026/08/28/the-devastation-of-nsa-bahrain-is-a-national-security-warning",
-        "publishedAt": "2026-08-28T19:11:37+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Army will soon deliver first batch of detection tools to help command posts identify their own signal emissions, protect from EMS targeting",
-        "url": "https://defensescoop.com/2026/08/28/army-units-s2as-spectrum-situational-awareness-systems",
-        "publishedAt": "2026-08-28T21:53:29+00:00",
-        "source": "DefenseScoop",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
