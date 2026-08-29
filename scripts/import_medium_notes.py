@@ -16,6 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 MEDIUM_FEED_URL = "https://medium.com/feed/@space.sapper"
 IMPORT_DIR = ROOT / "content" / "medium-field-notes"
 SLUG_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
+LEADING_PARAGRAPH_PATTERN = re.compile(r"^\s*<p>(?P<body>.*?)</p>", re.IGNORECASE | re.DOTALL)
 ALLOWED_TAGS = {
     "a",
     "blockquote",
@@ -170,6 +171,35 @@ def derive_summary(paragraphs: list[str]) -> str:
     return "Imported from Medium."
 
 
+class FragmentTextExtractor(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.text: list[str] = []
+
+    def handle_data(self, data: str) -> None:
+        self.text.append(data)
+
+
+def normalized_text(value: str) -> str:
+    return re.sub(r"\s+", " ", value.replace("\xa0", " ")).strip()
+
+
+def fragment_text(fragment: str) -> str:
+    parser = FragmentTextExtractor()
+    parser.feed(fragment)
+    parser.close()
+    return normalized_text("".join(parser.text))
+
+
+def remove_duplicate_summary(article_html: str, summary: str) -> str:
+    match = LEADING_PARAGRAPH_PATTERN.match(article_html)
+    if not match:
+        return article_html
+    if fragment_text(match.group("body")) != normalized_text(summary):
+        return article_html
+    return article_html[match.end():].lstrip()
+
+
 def load_existing() -> dict[str, dict]:
     imports: dict[str, dict] = {}
     if not IMPORT_DIR.exists():
@@ -179,6 +209,15 @@ def load_existing() -> dict[str, dict]:
             item = json.loads(path.read_text(encoding="utf-8"))
         except json.JSONDecodeError:
             continue
+        article_html = str(item.get("articleHtml", ""))
+        summary = str(item.get("summary", ""))
+        cleaned_html = remove_duplicate_summary(article_html, summary)
+        if cleaned_html != article_html:
+            item["articleHtml"] = cleaned_html
+            path.write_text(
+                json.dumps(item, indent=2, ensure_ascii=False) + "\n",
+                encoding="utf-8",
+            )
         item_id = item.get("id") or path.stem
         imports[item_id] = item
     return imports
@@ -204,6 +243,8 @@ def main() -> int:
         content_blocks = entry.get("content") or []
         raw_content = content_blocks[0].get("value", "") if content_blocks else ""
         article_html, paragraphs = sanitize_medium_html(raw_content)
+        summary = derive_summary(paragraphs)
+        article_html = remove_duplicate_summary(article_html, summary)
         slug = slugify(title)
         if not SLUG_PATTERN.fullmatch(slug):
             slug = item_id
@@ -214,7 +255,7 @@ def main() -> int:
             "slug": slug,
             "date": parsed_date(entry),
             "updated": str(entry.get("updated", "") or entry.get("published", "")),
-            "summary": derive_summary(paragraphs),
+            "summary": summary,
             "tags": [tag.term for tag in entry.get("tags", []) if getattr(tag, "term", "")],
             "source": "Medium",
             "sourceUrl": clean_url(str(entry.get("link", ""))),
