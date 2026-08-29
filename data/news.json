@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-29T12:00:31+00:00",
+  "generatedAt": "2026-08-29T13:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-29T12:00:31+00:00",
+      "updatedAt": "2026-08-29T13:00:31+00:00",
       "stories": [
+        {
+          "title": "Meeting Nancy Grace Roman: What was the 'mother of Hubble' really like?",
+          "url": "https://www.space.com/space-exploration/meeting-nancy-grace-roman-what-was-the-mother-of-hubble-really-like",
+          "publishedAt": "2026-08-29T12:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Who was Nancy Grace Roman? NASA's next big space telescope is named after the 'Mother of Hubble'",
           "url": "https://www.space.com/space-exploration/who-was-nancy-grace-roman-nasas-next-big-space-telescope-is-named-after-the-mother-of-hubble",
@@ -23,12 +29,6 @@
           "url": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor",
           "publishedAt": "2026-08-28T22:21:31+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Our choice as one of the best budget telescopes now has 17% off — this telescope deal is worth grabbing fast",
-          "url": "https://www.space.com/stargazing/skywatching-kit/our-choice-as-one-of-the-best-budget-telescopes-now-has-17-percent-off-this-telescope-deal-is-worth-grabbing-fast",
-          "publishedAt": "2026-08-28T20:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-29T12:00:31+00:00",
+      "updatedAt": "2026-08-29T13:00:31+00:00",
       "stories": [
         {
           "title": "MDA Space LaunchPad Ventures invests directly in SMBs",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-29T12:00:31+00:00",
+      "updatedAt": "2026-08-29T13:00:31+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-29T12:00:31+00:00",
+      "updatedAt": "2026-08-29T13:00:31+00:00",
       "stories": [
         {
           "title": "The big defense spending priorities awaiting Congress in September",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-29T12:00:31+00:00",
+      "updatedAt": "2026-08-29T13:00:31+00:00",
       "stories": [
         {
           "title": "Anthropic wires AI agents into real-world machines",
@@ -387,8 +387,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-29T12:00:31+00:00",
+      "updatedAt": "2026-08-29T13:00:31+00:00",
       "stories": [
+        {
+          "title": "The differences between decentralized and centralized power in swarm robotics",
+          "url": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics",
+          "publishedAt": "2026-08-29T12:25:31+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "From teach and repeat to SelfPath AI: The next robotics leap",
           "url": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap",
@@ -438,12 +444,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Carbon Robotics partners with iMerit to power instant in-field AI customization",
-          "url": "https://www.therobotreport.com/carbon-robotics-partners-with-imerit-to-power-instant-in-field-ai-customization",
-          "publishedAt": "2026-08-27T13:27:58+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
           "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck",
           "publishedAt": "2026-08-27T14:56:52+00:00",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-29T12:00:31+00:00",
+    "updatedAt": "2026-08-29T13:00:31+00:00",
     "stories": [
       {
         "title": "Anthropic wires AI agents into real-world machines",
@@ -513,9 +513,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Who was Nancy Grace Roman? NASA's next big space telescope is named after the 'Mother of Hubble'",
-        "url": "https://www.space.com/space-exploration/who-was-nancy-grace-roman-nasas-next-big-space-telescope-is-named-after-the-mother-of-hubble",
-        "publishedAt": "2026-08-29T10:00:00+00:00",
+        "title": "Meeting Nancy Grace Roman: What was the 'mother of Hubble' really like?",
+        "url": "https://www.space.com/space-exploration/meeting-nancy-grace-roman-what-was-the-mother-of-hubble-really-like",
+        "publishedAt": "2026-08-29T12:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -540,37 +540,37 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "From teach and repeat to SelfPath AI: The next robotics leap",
-        "url": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap",
-        "publishedAt": "2026-08-28T23:25:06+00:00",
+        "title": "The differences between decentralized and centralized power in swarm robotics",
+        "url": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics",
+        "publishedAt": "2026-08-29T12:25:31+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
       },
       {
-        "title": "Deere faces headwinds in Q3 update and announces Reservoir R&D partnership",
-        "url": "https://www.therobotreport.com/deere-faces-headwinds-in-q3-update-and-announces-10m-reservoir-rd-partnership",
-        "publishedAt": "2026-08-28T21:06:40+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "What time will SpaceX launch NASA's Roman Space Telscope on Aug. 30? (Full mission timeline)",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-roman-space-telescope-falcon-heavy-launch-what-time",
-        "publishedAt": "2026-08-28T22:31:45+00:00",
+        "title": "Who was Nancy Grace Roman? NASA's next big space telescope is named after the 'Mother of Hubble'",
+        "url": "https://www.space.com/space-exploration/who-was-nancy-grace-roman-nasas-next-big-space-telescope-is-named-after-the-mother-of-hubble",
+        "publishedAt": "2026-08-29T10:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-        "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine",
-        "publishedAt": "2026-08-28T23:24:27+00:00",
-        "source": "TechCrunch Robotics",
+        "title": "From teach and repeat to SelfPath AI: The next robotics leap",
+        "url": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap",
+        "publishedAt": "2026-08-28T23:25:06+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Deere faces headwinds in Q3 update and announces Reservoir R&D partnership",
+        "url": "https://www.therobotreport.com/deere-faces-headwinds-in-q3-update-and-announces-10m-reservoir-rd-partnership",
+        "publishedAt": "2026-08-28T21:06:40+00:00",
+        "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "noteworthy"
