@@ -200,15 +200,6 @@ def remove_duplicate_summary(article_html: str, summary: str) -> str:
     return article_html[match.end():].lstrip()
 
 
-def remove_leading_disclaimer(article_html: str) -> str:
-    match = LEADING_PARAGRAPH_PATTERN.match(article_html)
-    if not match:
-        return article_html
-    if not fragment_text(match.group("body")).lower().startswith("disclaimer:"):
-        return article_html
-    return article_html[match.end():].lstrip()
-
-
 def load_existing() -> dict[str, dict]:
     imports: dict[str, dict] = {}
     if not IMPORT_DIR.exists():
@@ -220,9 +211,7 @@ def load_existing() -> dict[str, dict]:
             continue
         article_html = str(item.get("articleHtml", ""))
         summary = str(item.get("summary", ""))
-        cleaned_html = remove_leading_disclaimer(
-            remove_duplicate_summary(article_html, summary)
-        )
+        cleaned_html = remove_duplicate_summary(article_html, summary)
         if cleaned_html != article_html:
             item["articleHtml"] = cleaned_html
             path.write_text(
@@ -255,9 +244,7 @@ def main() -> int:
         raw_content = content_blocks[0].get("value", "") if content_blocks else ""
         article_html, paragraphs = sanitize_medium_html(raw_content)
         summary = derive_summary(paragraphs)
-        article_html = remove_leading_disclaimer(
-            remove_duplicate_summary(article_html, summary)
-        )
+        article_html = remove_duplicate_summary(article_html, summary)
         slug = slugify(title)
         if not SLUG_PATTERN.fullmatch(slug):
             slug = item_id
@@ -276,6 +263,10 @@ def main() -> int:
         }
 
         previous = imports.get(item_id)
+        if previous and previous.get("topDisclaimer"):
+            item["topDisclaimer"] = True
+        if previous and previous.get("updated") == item["updated"]:
+            continue
         previous_core = {
             key: value for key, value in (previous or {}).items() if key != "importedAt"
         }

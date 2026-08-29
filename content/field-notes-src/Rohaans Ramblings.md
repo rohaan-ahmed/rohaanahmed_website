@@ -7,6 +7,7 @@ tags:
   - method
   - introduction
 sample: false
+top_disclaimer: true
 ---
 
 For a long time, I have thought about starting a personal blog, but the thought of being just another voice shouting into the aether with nobody listening has kept me from doing it. I don't even have a Twitter account for this reason - there's already way too much noise.
@@ -20,4 +21,3 @@ Therefore, since I have thoughts - lots of them, on many topics - and I miss wri
 ## This will be a Non Generative AI Zone
 
 Everything I write will be hand-typed, and reflect my thoughts - as original or un-original as they might be. I may, occasionally, use AI to argue against me to think ideas through, or to summarize my writing, but I will not use AI to write content, or to fix my writing, or to "make this sound more polished". No. The ideas, prose, and mistakes will be my own - even when it looks like they're not. I promise that I used to use the 3 example rule well before AI ruined it - maybe I learned it from Ms. Hommel.
-

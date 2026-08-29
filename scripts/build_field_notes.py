@@ -16,6 +16,33 @@ MEDIUM_IMPORT_DIR = ROOT / "content" / "medium-field-notes"
 OUTPUT_DIR = ROOT / "field-notes"
 INDEX_PATH = ROOT / "data" / "field-notes.json"
 SLUG_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
+LEADING_PARAGRAPH_PATTERN = re.compile(
+    r"^\s*<p>(?P<body>.*?)</p>", re.IGNORECASE | re.DOTALL
+)
+TOP_DISCLAIMER_TEXT = (
+    "Disclaimer: The opinions expressed in my writings are my own and do not "
+    "represent the organizations I am affiliated with. I do not use AI to draft, "
+    "write, or edit my articles. I do use AI for research assistance, occasional "
+    "image generation, and final review."
+)
+TOP_DISCLAIMER_HTML = (
+    '<p class="article-top-disclaimer"><em>Disclaimer: The opinions expressed in my '
+    'writings are my own and do not represent the organizations I am affiliated with. '
+    'I do not use AI to draft, write, or edit my articles. I do use AI for research '
+    'assistance, occasional image generation, and final review.</em></p>'
+)
+
+
+def normalized_fragment_text(fragment: str) -> str:
+    plain_text = re.sub(r"<[^>]+>", "", fragment)
+    return re.sub(r"\s+", " ", html.unescape(plain_text).replace("\xa0", " ")).strip()
+
+
+def starts_with_top_disclaimer(article_html: str) -> bool:
+    match = LEADING_PARAGRAPH_PATTERN.match(article_html)
+    if not match:
+        return False
+    return normalized_fragment_text(match.group("body")) == TOP_DISCLAIMER_TEXT
 
 
 def parse_post(path: Path) -> tuple[dict, str]:
@@ -56,6 +83,7 @@ def parse_post(path: Path) -> tuple[dict, str]:
             "summary": summary,
             "tags": [str(tag) for tag in metadata.get("tags", [])],
             "sample": bool(metadata.get("sample", False)),
+            "topDisclaimer": bool(metadata.get("top_disclaimer", False)),
         }
     )
     return metadata, body.strip()
@@ -75,6 +103,14 @@ def article_page(metadata: dict, article_html: str) -> str:
         for tag in metadata["tags"]
     )
     source_link = ""
+    top_disclaimer = ""
+    if metadata.get("topDisclaimer") and not starts_with_top_disclaimer(article_html):
+        top_disclaimer = TOP_DISCLAIMER_HTML
+    article_content = (
+        f"{top_disclaimer}\n                {article_html}"
+        if top_disclaimer
+        else article_html
+    )
     if metadata.get("sourceUrl"):
         source_url = html.escape(metadata["sourceUrl"], quote=True)
         source_label = html.escape(metadata.get("sourceLabel", "Read on Medium"))
@@ -118,7 +154,7 @@ def article_page(metadata: dict, article_html: str) -> str:
                 <div class="article-tags">{tags}</div>
             </header>
             <div class="article-body">
-                {article_html}
+                {article_content}
             </div>
             <footer class="article-attribution">
                 <p class="article-author"><strong>Author: Rohaan Ahmed</strong></p>
@@ -191,6 +227,7 @@ def load_medium_posts() -> list[tuple[dict, str]]:
             "source": str(item.get("source", "Medium")),
             "sourceUrl": str(item.get("sourceUrl", "")),
             "sourceLabel": "Read on Medium",
+            "topDisclaimer": bool(item.get("topDisclaimer", False)),
         }
         posts.append((metadata, str(item["articleHtml"]).strip()))
     return posts
