@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-08-30T13:00:30+00:00",
+  "generatedAt": "2026-08-30T14:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-30T13:00:30+00:00",
+      "updatedAt": "2026-08-30T14:00:28+00:00",
       "stories": [
         {
           "title": "Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video",
           "publishedAt": "2026-08-30T12:56:57+00:00",
           "source": "Space.com"
+        },
+        {
+          "title": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
+          "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches",
+          "publishedAt": "2026-08-30T13:18:06+00:00",
+          "source": "NASA"
         },
         {
           "title": "NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket",
@@ -34,12 +40,6 @@
           "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge",
           "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge",
           "publishedAt": "2026-08-28T20:30:52+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-          "url": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award",
-          "publishedAt": "2026-08-28T17:37:01+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-30T13:00:30+00:00",
+      "updatedAt": "2026-08-30T14:00:28+00:00",
       "stories": [
         {
           "title": "MDA Space LaunchPad Ventures invests directly in SMBs",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-30T13:00:30+00:00",
+      "updatedAt": "2026-08-30T14:00:28+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-30T13:00:30+00:00",
+      "updatedAt": "2026-08-30T14:00:28+00:00",
       "stories": [
         {
           "title": "The big defense spending priorities awaiting Congress in September",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-30T13:00:30+00:00",
+      "updatedAt": "2026-08-30T14:00:28+00:00",
       "stories": [
         {
           "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -387,8 +387,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-30T13:00:30+00:00",
+      "updatedAt": "2026-08-30T14:00:28+00:00",
       "stories": [
+        {
+          "title": "The edge AI wall: Why embodied AI requires new mathematics",
+          "url": "https://www.therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics",
+          "publishedAt": "2026-08-30T12:45:51+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "The differences between decentralized and centralized power in swarm robotics",
           "url": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics",
@@ -438,12 +444,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "NSF to invest $90M into three new technology centers, including one focused on robotics",
-          "url": "https://www.therobotreport.com/nsf-invests-90m-three-new-technology-centers-including-one-focused-robotics",
-          "publishedAt": "2026-08-27T18:12:54+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
           "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck",
           "publishedAt": "2026-08-27T14:56:52+00:00",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-30T13:00:30+00:00",
+    "updatedAt": "2026-08-30T14:00:28+00:00",
     "stories": [
       {
         "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -540,13 +540,22 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The differences between decentralized and centralized power in swarm robotics",
-        "url": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics",
-        "publishedAt": "2026-08-29T12:25:31+00:00",
+        "title": "The edge AI wall: Why embodied AI requires new mathematics",
+        "url": "https://www.therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics",
+        "publishedAt": "2026-08-30T12:45:51+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
+        "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches",
+        "publishedAt": "2026-08-30T13:18:06+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket",
@@ -558,21 +567,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "When is the next lunar eclipse?",
-        "url": "https://www.space.com/stargazing/lunar-eclipses/when-is-the-next-lunar-eclipse",
-        "publishedAt": "2026-08-29T15:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Nvidia’s AI advantage is moving beyond the GPU",
-        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
-        "publishedAt": "2026-08-29T13:00:00+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "The differences between decentralized and centralized power in swarm robotics",
+        "url": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics",
+        "publishedAt": "2026-08-29T12:25:31+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
