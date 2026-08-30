@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T16:47:49+00:00",
+  "generatedAt": "2026-08-30T17:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-30T16:47:49+00:00",
+      "updatedAt": "2026-08-30T17:00:32+00:00",
       "stories": [
         {
           "title": "On this day in space! Aug. 30, 1992: Astronomers discover 1st Kuiper Belt object out beyond Pluto",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-30T16:47:49+00:00",
+      "updatedAt": "2026-08-30T17:00:32+00:00",
       "stories": [
         {
           "title": "MDA Space LaunchPad Ventures invests directly in SMBs",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-30T16:47:49+00:00",
+      "updatedAt": "2026-08-30T17:00:32+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-30T16:47:49+00:00",
+      "updatedAt": "2026-08-30T17:00:32+00:00",
       "stories": [
         {
           "title": "The big defense spending priorities awaiting Congress in September",
@@ -290,8 +290,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-30T16:47:49+00:00",
+      "updatedAt": "2026-08-30T17:00:32+00:00",
       "stories": [
+        {
+          "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+          "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem",
+          "publishedAt": "2026-08-30T16:54:25+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
           "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
@@ -302,12 +308,6 @@
           "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
           "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
           "publishedAt": "2026-08-29T18:41:59+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-          "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z",
-          "publishedAt": "2026-08-29T17:36:47+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-30T16:47:49+00:00",
+      "updatedAt": "2026-08-30T17:00:32+00:00",
       "stories": [
         {
           "title": "The edge AI wall: Why embodied AI requires new mathematics",
@@ -483,21 +483,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-30T16:47:49+00:00",
+    "updatedAt": "2026-08-30T17:00:32+00:00",
     "stories": [
       {
-        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-        "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
-        "publishedAt": "2026-08-30T15:00:00+00:00",
+        "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+        "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem",
+        "publishedAt": "2026-08-30T16:54:25+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-        "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
-        "publishedAt": "2026-08-29T18:41:59+00:00",
+        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+        "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
+        "publishedAt": "2026-08-30T15:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
