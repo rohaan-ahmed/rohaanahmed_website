@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-30T12:18:34+00:00",
+  "generatedAt": "2026-08-30T13:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-30T12:18:34+00:00",
+      "updatedAt": "2026-08-30T13:00:30+00:00",
       "stories": [
+        {
+          "title": "Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video",
+          "publishedAt": "2026-08-30T12:56:57+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket",
@@ -16,12 +22,6 @@
           "title": "When is the next lunar eclipse?",
           "url": "https://www.space.com/stargazing/lunar-eclipses/when-is-the-next-lunar-eclipse",
           "publishedAt": "2026-08-29T15:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "On this day in space! Aug. 29, 1965: NASA's Gemini 5 breaks spaceflight duration record after 2 astronauts spent '8 days in a garbage can'",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-29-2026",
-          "publishedAt": "2026-08-29T14:14:12+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-30T12:18:34+00:00",
+      "updatedAt": "2026-08-30T13:00:30+00:00",
       "stories": [
         {
           "title": "MDA Space LaunchPad Ventures invests directly in SMBs",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-30T12:18:34+00:00",
+      "updatedAt": "2026-08-30T13:00:30+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-30T12:18:34+00:00",
+      "updatedAt": "2026-08-30T13:00:30+00:00",
       "stories": [
         {
           "title": "The big defense spending priorities awaiting Congress in September",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-30T12:18:34+00:00",
+      "updatedAt": "2026-08-30T13:00:30+00:00",
       "stories": [
         {
           "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-30T12:18:34+00:00",
+      "updatedAt": "2026-08-30T13:00:30+00:00",
       "stories": [
         {
           "title": "The differences between decentralized and centralized power in swarm robotics",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-30T12:18:34+00:00",
+    "updatedAt": "2026-08-30T13:00:30+00:00",
     "stories": [
       {
         "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -513,9 +513,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket",
-        "publishedAt": "2026-08-29T22:44:18+00:00",
+        "title": "Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video)",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video",
+        "publishedAt": "2026-08-30T12:56:57+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -549,18 +549,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "When is the next lunar eclipse?",
-        "url": "https://www.space.com/stargazing/lunar-eclipses/when-is-the-next-lunar-eclipse",
-        "publishedAt": "2026-08-29T15:00:00+00:00",
+        "title": "NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket",
+        "publishedAt": "2026-08-29T22:44:18+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "On this day in space! Aug. 29, 1965: NASA's Gemini 5 breaks spaceflight duration record after 2 astronauts spent '8 days in a garbage can'",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-29-2026",
-        "publishedAt": "2026-08-29T14:14:12+00:00",
+        "title": "When is the next lunar eclipse?",
+        "url": "https://www.space.com/stargazing/lunar-eclipses/when-is-the-next-lunar-eclipse",
+        "publishedAt": "2026-08-29T15:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
