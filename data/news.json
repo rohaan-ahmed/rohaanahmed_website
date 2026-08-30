@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T07:00:26+00:00",
+  "generatedAt": "2026-08-30T08:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-30T07:00:26+00:00",
+      "updatedAt": "2026-08-30T08:00:26+00:00",
       "stories": [
         {
           "title": "NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket",
@@ -25,10 +25,22 @@
           "source": "Space.com"
         },
         {
-          "title": "SpaceX test-fires Starship Super Heavy booster ahead of critical Flight 14 (video)",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-super-heavy-booster-ahead-of-key-test-flight",
-          "publishedAt": "2026-08-29T14:00:00+00:00",
-          "source": "Space.com"
+          "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+          "url": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor",
+          "publishedAt": "2026-08-28T22:21:31+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge",
+          "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge",
+          "publishedAt": "2026-08-28T20:30:52+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+          "url": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award",
+          "publishedAt": "2026-08-28T17:37:01+00:00",
+          "source": "NASA"
         },
         {
           "title": "Week in images: 24-28 August 2026",
@@ -83,25 +95,13 @@
           "url": "https://spacenews.com/propulsion-is-having-a-moment",
           "publishedAt": "2026-08-25T19:59:37+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
-          "url": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans",
-          "publishedAt": "2026-08-25T14:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
-          "url": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat",
-          "publishedAt": "2026-08-25T13:00:00+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-30T07:00:26+00:00",
+      "updatedAt": "2026-08-30T08:00:26+00:00",
       "stories": [
         {
           "title": "MDA Space LaunchPad Ventures invests directly in SMBs",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-30T07:00:26+00:00",
+      "updatedAt": "2026-08-30T08:00:26+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-30T07:00:26+00:00",
+      "updatedAt": "2026-08-30T08:00:26+00:00",
       "stories": [
         {
           "title": "The big defense spending priorities awaiting Congress in September",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-30T07:00:26+00:00",
+      "updatedAt": "2026-08-30T08:00:26+00:00",
       "stories": [
         {
           "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-30T07:00:26+00:00",
+      "updatedAt": "2026-08-30T08:00:26+00:00",
       "stories": [
         {
           "title": "The differences between decentralized and centralized power in swarm robotics",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-30T07:00:26+00:00",
+    "updatedAt": "2026-08-30T08:00:26+00:00",
     "stories": [
       {
         "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -567,12 +567,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "SpaceX test-fires Starship Super Heavy booster ahead of critical Flight 14 (video)",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-super-heavy-booster-ahead-of-key-test-flight",
-        "publishedAt": "2026-08-29T14:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Nvidia’s AI advantage is moving beyond the GPU",
+        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+        "publishedAt": "2026-08-29T13:00:00+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -688,8 +688,7 @@
     }
   ],
   "warnings": [
-    "NASA: 429 Client Error: Too Many Requests for url: https://www.nasa.gov/feed/",
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-04"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-19"
   ]
 }
