@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-31T18:00:29+00:00",
+  "generatedAt": "2026-08-31T19:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-31T18:00:29+00:00",
+      "updatedAt": "2026-08-31T19:00:27+00:00",
       "stories": [
         {
           "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-31T18:00:29+00:00",
+      "updatedAt": "2026-08-31T19:00:27+00:00",
       "stories": [
         {
           "title": "NorthStar and Kepler agree to host space sensors on satellites",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-31T18:00:29+00:00",
+      "updatedAt": "2026-08-31T19:00:27+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-31T18:00:29+00:00",
+      "updatedAt": "2026-08-31T19:00:27+00:00",
       "stories": [
         {
           "title": "Japan seeks new extended-range missiles in record $55B defense budget request",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-31T18:00:29+00:00",
+      "updatedAt": "2026-08-31T19:00:27+00:00",
       "stories": [
         {
           "title": "OpenAI cuts out Cursor after SpaceX acquisition",
@@ -305,6 +305,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+          "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers",
+          "publishedAt": "2026-08-31T18:35:11+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
           "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation",
           "publishedAt": "2026-08-31T16:00:00+00:00",
@@ -317,45 +323,21 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Anthropic's report on Self-Improving AI (6 minute read)",
-          "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
-          "publishedAt": "2026-08-31T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Nvidia's AI advantage is moving beyond the GPU (4 minute read)",
-          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
-          "publishedAt": "2026-08-31T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Rise and Fall of Agent Civilizations (18 minute read)",
-          "url": "https://www.dwarkesh.com/p/openai-huggingface",
-          "publishedAt": "2026-08-31T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Base Models Stopped Being the Bottleneck (15 minute read)",
-          "url": "https://adlrocha.substack.com/p/adlrocha-base-models-stopped-being",
-          "publishedAt": "2026-08-31T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Adaptive Agentic Worms (8 minute read)",
-          "url": "https://www.lesswrong.com/posts/fpLDjKg3ej49beqTC/adaptive-agentic-worms-are-here",
-          "publishedAt": "2026-08-31T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Google Introduces WikiSkill for Persistent Agent Learning (22 minute read)",
-          "url": "https://arxiv.org/abs/2608.27454",
-          "publishedAt": "2026-08-31T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
           "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers",
           "publishedAt": "2026-08-31T12:56:46+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "The US is building barriers around drones and robots, but China has scale to get around them",
+          "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale",
+          "publishedAt": "2026-08-31T02:34:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+          "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem",
+          "publishedAt": "2026-08-30T16:54:25+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -381,14 +363,38 @@
           "url": "https://time.com/article/2026/08/26/openai-sam-altman-interview",
           "publishedAt": "2026-08-27T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI's Jalapeño chip brings the heat",
+          "url": "https://openai.com/index/jalapeno-first-results",
+          "publishedAt": "2026-08-26T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "New startup takes AI from words to physics",
+          "url": "https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25",
+          "publishedAt": "2026-08-26T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Perplexity, Nvidia go portable with Computer",
+          "url": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
+          "publishedAt": "2026-08-26T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-31T18:00:29+00:00",
+      "updatedAt": "2026-08-31T19:00:27+00:00",
       "stories": [
+        {
+          "title": "Reframe Systems raises $40M to scale its robotic microfactories for home building",
+          "url": "https://www.therobotreport.com/reframe-systems-raises-40m-scale-robotic-microfactories-home-building",
+          "publishedAt": "2026-08-31T18:46:48+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Early bird pricing for RoboBusiness 2026 ends August 31",
           "url": "https://www.therobotreport.com/early-bird-pricing-for-robobusiness-2026-ends-august-31",
@@ -438,12 +444,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "How Locus Robotics is getting a grasp on one of robotics biggest challenges: manipulation",
-          "url": "https://www.therobotreport.com/locus-getting-grasp-one-robotics-biggest-challenges-manipulation",
-          "publishedAt": "2026-08-28T13:29:51+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Meet Microduck",
           "url": "https://spectrum.ieee.org/video-friday-microduck-robot",
           "publishedAt": "2026-08-28T16:00:03+00:00",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-31T18:00:29+00:00",
+    "updatedAt": "2026-08-31T19:00:27+00:00",
     "stories": [
       {
         "title": "OpenAI cuts out Cursor after SpaceX acquisition",
@@ -540,9 +540,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Early bird pricing for RoboBusiness 2026 ends August 31",
-        "url": "https://www.therobotreport.com/early-bird-pricing-for-robobusiness-2026-ends-august-31",
-        "publishedAt": "2026-08-31T12:41:56+00:00",
+        "title": "Reframe Systems raises $40M to scale its robotic microfactories for home building",
+        "url": "https://www.therobotreport.com/reframe-systems-raises-40m-scale-robotic-microfactories-home-building",
+        "publishedAt": "2026-08-31T18:46:48+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -688,6 +688,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-17"
   ]
 }
