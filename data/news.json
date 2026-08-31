@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-31T02:00:31+00:00",
+  "generatedAt": "2026-08-31T03:00:35+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-31T02:00:31+00:00",
+      "updatedAt": "2026-08-31T03:00:35+00:00",
       "stories": [
         {
           "title": "Trump calls in to NASA press conference to celebrate launch of Roman Space Telescope, a mission he tried to cancel",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-31T02:00:31+00:00",
+      "updatedAt": "2026-08-31T03:00:35+00:00",
       "stories": [
         {
           "title": "Canadian cameras join NASA’s hunt for another Earth",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-31T02:00:31+00:00",
+      "updatedAt": "2026-08-31T03:00:35+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-31T02:00:31+00:00",
+      "updatedAt": "2026-08-31T03:00:35+00:00",
       "stories": [
         {
           "title": "The big defense spending priorities awaiting Congress in September",
@@ -290,8 +290,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-31T02:00:31+00:00",
+      "updatedAt": "2026-08-31T03:00:35+00:00",
       "stories": [
+        {
+          "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+          "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale",
+          "publishedAt": "2026-08-31T02:34:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Musk’s faster path to more gas turbines comes with pollution problem",
           "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem",
@@ -302,12 +308,6 @@
           "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
           "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
           "publishedAt": "2026-08-30T15:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-          "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
-          "publishedAt": "2026-08-29T18:41:59+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -387,8 +387,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-31T02:00:31+00:00",
+      "updatedAt": "2026-08-31T03:00:35+00:00",
       "stories": [
+        {
+          "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+          "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale",
+          "publishedAt": "2026-08-31T02:34:00+00:00",
+          "source": "TechCrunch Robotics"
+        },
         {
           "title": "The edge AI wall: Why embodied AI requires new mathematics",
           "url": "https://www.therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics",
@@ -462,12 +468,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-          "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say",
-          "publishedAt": "2026-08-26T00:40:59+00:00",
-          "source": "TechCrunch Robotics"
-        },
-        {
           "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
           "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
           "publishedAt": "2026-08-25T10:00:03+00:00",
@@ -483,21 +483,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-31T02:00:31+00:00",
+    "updatedAt": "2026-08-31T03:00:35+00:00",
     "stories": [
       {
-        "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-        "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem",
-        "publishedAt": "2026-08-30T16:54:25+00:00",
+        "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+        "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale",
+        "publishedAt": "2026-08-31T02:34:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-        "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
-        "publishedAt": "2026-08-30T15:00:00+00:00",
+        "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+        "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem",
+        "publishedAt": "2026-08-30T16:54:25+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -540,10 +540,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The edge AI wall: Why embodied AI requires new mathematics",
-        "url": "https://www.therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics",
-        "publishedAt": "2026-08-30T12:45:51+00:00",
-        "source": "The Robot Report",
+        "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+        "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale",
+        "publishedAt": "2026-08-31T02:34:00+00:00",
+        "source": "TechCrunch Robotics",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
@@ -567,12 +567,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "On this day in space! Aug. 30, 1992: Astronomers discover 1st Kuiper Belt object out beyond Pluto",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-30-2026",
-        "publishedAt": "2026-08-30T14:51:12+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "The edge AI wall: Why embodied AI requires new mathematics",
+        "url": "https://www.therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics",
+        "publishedAt": "2026-08-30T12:45:51+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
