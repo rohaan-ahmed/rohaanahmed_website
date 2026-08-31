@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-08-31T06:02:38+00:00",
+  "generatedAt": "2026-08-31T07:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-08-31T06:02:38+00:00",
+      "updatedAt": "2026-08-31T07:00:30+00:00",
       "stories": [
+        {
+          "title": "Roman lifts off on a mission to survey the infrared sky",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky",
+          "publishedAt": "2026-08-31T07:00:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "Watch Rocket Lab launch Japanese radar satellite to orbit early on Sept. 1",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-japanese-radar-satellite-to-orbit-early-aug-31",
@@ -67,12 +73,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "MTG-I2 completes Europe’s latest weather trio",
-          "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_completes_Europe_s_latest_weather_trio",
-          "publishedAt": "2026-08-27T20:48:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "LatConnect 60 and Phi Earth Partner to Connect Space and Soil",
           "url": "https://spacenews.com/latconnect-60-and-phi-earth-partner-to-connect-space-and-soil",
           "publishedAt": "2026-08-27T01:54:19+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-08-31T06:02:38+00:00",
+      "updatedAt": "2026-08-31T07:00:30+00:00",
       "stories": [
         {
           "title": "Canadian cameras join NASA’s hunt for another Earth",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-08-31T06:02:38+00:00",
+      "updatedAt": "2026-08-31T07:00:30+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-08-31T06:02:38+00:00",
+      "updatedAt": "2026-08-31T07:00:30+00:00",
       "stories": [
         {
           "title": "The Mecca pact explained, tankers for Qatar, and CENTCOM’s new drone force",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-08-31T06:02:38+00:00",
+      "updatedAt": "2026-08-31T07:00:30+00:00",
       "stories": [
         {
           "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-08-31T06:02:38+00:00",
+      "updatedAt": "2026-08-31T07:00:30+00:00",
       "stories": [
         {
           "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-08-31T06:02:38+00:00",
+    "updatedAt": "2026-08-31T07:00:30+00:00",
     "stories": [
       {
         "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
@@ -513,10 +513,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Watch Rocket Lab launch Japanese radar satellite to orbit early on Sept. 1",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-japanese-radar-satellite-to-orbit-early-aug-31",
-        "publishedAt": "2026-08-31T04:05:00+00:00",
-        "source": "Space.com",
+        "title": "Roman lifts off on a mission to survey the infrared sky",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky",
+        "publishedAt": "2026-08-31T07:00:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -558,19 +558,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
-        "url": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope",
+        "title": "Watch Rocket Lab launch Japanese radar satellite to orbit early on Sept. 1",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/watch-rocket-lab-launch-japanese-radar-satellite-to-orbit-early-aug-31",
         "publishedAt": "2026-08-31T04:05:00+00:00",
-        "source": "NASA",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Trump calls in to NASA press conference to celebrate launch of Roman Space Telescope, a mission he tried to cancel",
-        "url": "https://www.space.com/space-exploration/trump-calls-in-to-nasa-press-conference-to-celebrate-launch-of-roman-space-telescope-a-mission-he-tried-to-cancel",
-        "publishedAt": "2026-08-30T19:00:00+00:00",
-        "source": "Space.com",
+        "title": "APOD: 2026 August 31 – Launch of the Roman Space Telescope",
+        "url": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope",
+        "publishedAt": "2026-08-31T04:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
