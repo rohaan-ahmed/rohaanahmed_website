@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T13:00:31+00:00",
+  "generatedAt": "2026-09-01T14:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-01T13:00:31+00:00",
+      "updatedAt": "2026-09-01T14:00:31+00:00",
       "stories": [
         {
           "title": "Samba’s fiery farewell recorded",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-01T13:00:31+00:00",
+      "updatedAt": "2026-09-01T14:00:31+00:00",
       "stories": [
         {
           "title": "NorthStar and Kepler agree to host space sensors on satellites (updated)",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-01T13:00:31+00:00",
+      "updatedAt": "2026-09-01T14:00:31+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,8 +193,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-01T13:00:31+00:00",
+      "updatedAt": "2026-09-01T14:00:31+00:00",
       "stories": [
+        {
+          "title": "US approves potential $800 million helicopter sale to Iraq",
+          "url": "https://breakingdefense.com/2026/09/us-approves-potential-800-million-helicopter-sale-to-iraq",
+          "publishedAt": "2026-09-01T13:26:16+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "US Navy unveils new specs for carrier-based Collaborative Combat Aircraft",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/09/01/us-navy-unveils-new-specs-for-carrier-based-collaborative-combat-aircraft",
+          "publishedAt": "2026-09-01T13:23:27+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Lessons learned that bring factory speed, adaptability and scalability to air-and-missile defense",
           "url": "https://breakingdefense.com/2026/09/lessons-learned-that-bring-factory-speed-adaptability-and-scalability-to-air-and-missile-defense",
@@ -256,18 +268,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "In the age of drones, a bigger fence around your facility doesn’t protect you anymore",
-          "url": "https://breakingdefense.com/2026/08/in-the-age-of-drones-a-bigger-fence-around-your-facility-doesnt-protect-you-anymore",
-          "publishedAt": "2026-08-31T16:25:22+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Sweden signs French warship order to boost defense",
-          "url": "https://www.defensenews.com/global/europe/2026/08/31/sweden-signs-french-warship-order-to-boost-defense",
-          "publishedAt": "2026-08-31T16:53:47+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Army will soon deliver first batch of detection tools to help command posts identify their own signal emissions, protect from EMS targeting",
           "url": "https://defensescoop.com/2026/08/28/army-units-s2as-spectrum-situational-awareness-systems",
           "publishedAt": "2026-08-28T21:53:29+00:00",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-01T13:00:31+00:00",
+      "updatedAt": "2026-09-01T14:00:31+00:00",
       "stories": [
         {
           "title": "Runway's Solaris previews the AI era of interfaces",
@@ -309,6 +309,42 @@
           "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
           "publishedAt": "2026-09-01T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenClaw 2.0 (4 minute read)",
+          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Muse Code (Website)",
+          "url": "https://dev.meta.ai/",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "A deep dive into ZCode (17 minute read)",
+          "url": "https://flaviocopes.com/zcode",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Price of Entry to the Frontier (3 minute read)",
+          "url": "https://tomtunguz.com/the-great-segmentation",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Agency and Agents (12 minute read)",
+          "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Google's Foundation Model for Zero-Shot Forecasting (5 minute read)",
+          "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
@@ -341,42 +377,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Nvidia's AI advantage is moving beyond the GPU (4 minute read)",
-          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
-          "publishedAt": "2026-08-31T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Base Models Stopped Being the Bottleneck (15 minute read)",
-          "url": "https://adlrocha.substack.com/p/adlrocha-base-models-stopped-being",
-          "publishedAt": "2026-08-31T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Adaptive Agentic Worms (8 minute read)",
-          "url": "https://www.lesswrong.com/posts/fpLDjKg3ej49beqTC/adaptive-agentic-worms-are-here",
-          "publishedAt": "2026-08-31T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Rise and Fall of Agent Civilizations (18 minute read)",
-          "url": "https://www.dwarkesh.com/p/openai-huggingface",
-          "publishedAt": "2026-08-31T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Google Introduces WikiSkill for Persistent Agent Learning (22 minute read)",
-          "url": "https://arxiv.org/abs/2608.27454",
-          "publishedAt": "2026-08-31T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Rosalind Workbench (7 minute read)",
-          "url": "https://developers.openai.com/blog/rosalind-workbench",
-          "publishedAt": "2026-08-31T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Anthropic wires AI agents into real-world machines",
           "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
           "publishedAt": "2026-08-28T10:00:00+00:00",
@@ -387,8 +387,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-01T13:00:31+00:00",
+      "updatedAt": "2026-09-01T14:00:31+00:00",
       "stories": [
+        {
+          "title": "HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption",
+          "url": "https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption",
+          "publishedAt": "2026-09-01T13:45:36+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "From spreadsheets to AI: Deere gives farmers new features in Operations Center, JD",
           "url": "https://www.therobotreport.com/from-spreadsheets-ai-john-deeres-new-jd-operations-center-features",
@@ -429,12 +435,6 @@
           "title": "The edge AI wall: Why embodied AI requires new mathematics",
           "url": "https://www.therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics",
           "publishedAt": "2026-08-30T12:45:51+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "The differences between decentralized and centralized power in swarm robotics",
-          "url": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics",
-          "publishedAt": "2026-08-29T12:25:31+00:00",
           "source": "The Robot Report"
         },
         {
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-01T13:00:31+00:00",
+    "updatedAt": "2026-09-01T14:00:31+00:00",
     "stories": [
       {
         "title": "Runway's Solaris previews the AI era of interfaces",
@@ -531,18 +531,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Lessons learned that bring factory speed, adaptability and scalability to air-and-missile defense",
-        "url": "https://breakingdefense.com/2026/09/lessons-learned-that-bring-factory-speed-adaptability-and-scalability-to-air-and-missile-defense",
-        "publishedAt": "2026-09-01T12:27:00+00:00",
+        "title": "US approves potential $800 million helicopter sale to Iraq",
+        "url": "https://breakingdefense.com/2026/09/us-approves-potential-800-million-helicopter-sale-to-iraq",
+        "publishedAt": "2026-09-01T13:26:16+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "From spreadsheets to AI: Deere gives farmers new features in Operations Center, JD",
-        "url": "https://www.therobotreport.com/from-spreadsheets-ai-john-deeres-new-jd-operations-center-features",
-        "publishedAt": "2026-09-01T11:00:41+00:00",
+        "title": "HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption",
+        "url": "https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption",
+        "publishedAt": "2026-09-01T13:45:36+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -558,19 +558,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Poland readies for record-breaking defense show as opulent budget lures vendors",
-        "url": "https://www.defensenews.com/global/europe/2026/09/01/poland-readies-for-record-breaking-defense-show-as-opulent-budget-lures-vendors",
-        "publishedAt": "2026-09-01T12:26:59+00:00",
+        "title": "US Navy unveils new specs for carrier-based Collaborative Combat Aircraft",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/01/us-navy-unveils-new-specs-for-carrier-based-collaborative-combat-aircraft",
+        "publishedAt": "2026-09-01T13:23:27+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Defense startup raises $61 million to put AI into a wrist-worn display",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/01/defense-startup-raises-61-million-to-put-ai-into-a-wrist-worn-display",
-        "publishedAt": "2026-09-01T12:24:01+00:00",
-        "source": "Defense News",
+        "title": "Lessons learned that bring factory speed, adaptability and scalability to air-and-missile defense",
+        "url": "https://breakingdefense.com/2026/09/lessons-learned-that-bring-factory-speed-adaptability-and-scalability-to-air-and-missile-defense",
+        "publishedAt": "2026-09-01T12:27:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
