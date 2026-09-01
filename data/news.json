@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T06:00:28+00:00",
+  "generatedAt": "2026-09-01T06:49:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-01T06:00:28+00:00",
+      "updatedAt": "2026-09-01T06:49:26+00:00",
       "stories": [
         {
           "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-01T06:00:28+00:00",
+      "updatedAt": "2026-09-01T06:49:26+00:00",
       "stories": [
         {
           "title": "NorthStar and Kepler agree to host space sensors on satellites (updated)",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-01T06:00:28+00:00",
+      "updatedAt": "2026-09-01T06:49:26+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-01T06:00:28+00:00",
+      "updatedAt": "2026-09-01T06:49:26+00:00",
       "stories": [
         {
           "title": "Army Secretary Dan Driscoll resigns",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-01T06:00:28+00:00",
+      "updatedAt": "2026-09-01T06:49:26+00:00",
       "stories": [
         {
           "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
@@ -323,22 +323,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-          "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers",
-          "publishedAt": "2026-08-31T18:35:11+00:00",
-          "source": "TechCrunch AI"
+          "title": "Anthropic's report on Self-Improving AI (6 minute read)",
+          "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+          "publishedAt": "2026-08-31T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-          "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation",
-          "publishedAt": "2026-08-31T16:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Nvidia's AI advantage is moving beyond the GPU (4 minute read)",
+          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+          "publishedAt": "2026-08-31T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-          "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout",
-          "publishedAt": "2026-08-31T15:15:25+00:00",
-          "source": "TechCrunch AI"
+          "title": "Base Models Stopped Being the Bottleneck (15 minute read)",
+          "url": "https://adlrocha.substack.com/p/adlrocha-base-models-stopped-being",
+          "publishedAt": "2026-08-31T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Adaptive Agentic Worms (8 minute read)",
+          "url": "https://www.lesswrong.com/posts/fpLDjKg3ej49beqTC/adaptive-agentic-worms-are-here",
+          "publishedAt": "2026-08-31T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Rise and Fall of Agent Civilizations (18 minute read)",
+          "url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "publishedAt": "2026-08-31T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Google Introduces WikiSkill for Persistent Agent Learning (22 minute read)",
+          "url": "https://arxiv.org/abs/2608.27454",
+          "publishedAt": "2026-08-31T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Anthropic wires AI agents into real-world machines",
@@ -363,31 +381,13 @@
           "url": "https://time.com/article/2026/08/26/openai-sam-altman-interview",
           "publishedAt": "2026-08-27T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI's Jalapeño chip brings the heat",
-          "url": "https://openai.com/index/jalapeno-first-results",
-          "publishedAt": "2026-08-26T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "New startup takes AI from words to physics",
-          "url": "https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25",
-          "publishedAt": "2026-08-26T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Perplexity, Nvidia go portable with Computer",
-          "url": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
-          "publishedAt": "2026-08-26T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-01T06:00:28+00:00",
+      "updatedAt": "2026-09-01T06:49:26+00:00",
       "stories": [
         {
           "title": "Skild AI unveils S1 flagship robot foundation model",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-01T06:00:28+00:00",
+    "updatedAt": "2026-09-01T06:49:26+00:00",
     "stories": [
       {
         "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
@@ -688,7 +688,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-19"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
   ]
 }
