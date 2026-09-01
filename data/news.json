@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T11:00:27+00:00",
+  "generatedAt": "2026-09-01T12:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-01T11:00:27+00:00",
+      "updatedAt": "2026-09-01T12:00:28+00:00",
       "stories": [
         {
           "title": "Samba’s fiery farewell recorded",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-01T11:00:27+00:00",
+      "updatedAt": "2026-09-01T12:00:28+00:00",
       "stories": [
         {
           "title": "NorthStar and Kepler agree to host space sensors on satellites (updated)",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-01T11:00:27+00:00",
+      "updatedAt": "2026-09-01T12:00:28+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-01T11:00:27+00:00",
+      "updatedAt": "2026-09-01T12:00:28+00:00",
       "stories": [
         {
           "title": "Army Secretary Dan Driscoll resigns",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-01T11:00:27+00:00",
+      "updatedAt": "2026-09-01T12:00:28+00:00",
       "stories": [
         {
           "title": "Runway's Solaris previews the AI era of interfaces",
@@ -387,8 +387,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-01T11:00:27+00:00",
+      "updatedAt": "2026-09-01T12:00:28+00:00",
       "stories": [
+        {
+          "title": "From spreadsheets to AI: Deere gives farmers new features in Operations Center, JD",
+          "url": "https://www.therobotreport.com/from-spreadsheets-ai-john-deeres-new-jd-operations-center-features",
+          "publishedAt": "2026-09-01T11:00:41+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Skild AI unveils S1 flagship robot foundation model",
           "url": "https://www.therobotreport.com/skild-ai-unveils-s1-flagship-robot-foundation-model",
@@ -429,12 +435,6 @@
           "title": "The differences between decentralized and centralized power in swarm robotics",
           "url": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics",
           "publishedAt": "2026-08-29T12:25:31+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "From teach and repeat to SelfPath AI: The next robotics leap",
-          "url": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap",
-          "publishedAt": "2026-08-28T23:25:06+00:00",
           "source": "The Robot Report"
         },
         {
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-01T11:00:27+00:00",
+    "updatedAt": "2026-09-01T12:00:28+00:00",
     "stories": [
       {
         "title": "Runway's Solaris previews the AI era of interfaces",
@@ -540,9 +540,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Skild AI unveils S1 flagship robot foundation model",
-        "url": "https://www.therobotreport.com/skild-ai-unveils-s1-flagship-robot-foundation-model",
-        "publishedAt": "2026-08-31T21:14:08+00:00",
+        "title": "From spreadsheets to AI: Deere gives farmers new features in Operations Center, JD",
+        "url": "https://www.therobotreport.com/from-spreadsheets-ai-john-deeres-new-jd-operations-center-features",
+        "publishedAt": "2026-09-01T11:00:41+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -689,6 +689,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-11"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-19"
   ]
 }
