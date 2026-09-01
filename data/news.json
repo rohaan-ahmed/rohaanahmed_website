@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-01T16:00:28+00:00",
+  "generatedAt": "2026-09-01T16:32:56+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-01T16:00:28+00:00",
+      "updatedAt": "2026-09-01T16:32:56+00:00",
       "stories": [
+        {
+          "title": "NASA's Roman Space Telescope is just one of a few missions named after real-life women",
+          "url": "https://www.space.com/space-exploration/missions/nasas-roman-space-telescope-is-just-one-of-a-few-missions-named-after-real-life-women",
+          "publishedAt": "2026-09-01T16:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "5 planets will light up the September sky — here's how to see them",
           "url": "https://www.space.com/stargazing/5-planets-will-light-up-the-september-sky-heres-how-to-see-them",
@@ -23,12 +29,6 @@
           "url": "https://www.esa.int/Space_Safety/Space_Debris/Samba_s_fiery_farewell_recorded",
           "publishedAt": "2026-09-01T09:05:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "'Orbitals' is a co-op sci-fi adventure that recaptures the magic of Saturday morning cartoons",
-          "url": "https://www.space.com/entertainment/space-games/orbitals-is-a-co-op-sci-fi-adventure-that-recaptures-the-magic-of-saturday-morning-cartoons",
-          "publishedAt": "2026-09-01T09:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-01T16:00:28+00:00",
+      "updatedAt": "2026-09-01T16:32:56+00:00",
       "stories": [
         {
           "title": "NorthStar and Kepler agree to host space sensors on satellites (updated)",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-01T16:00:28+00:00",
+      "updatedAt": "2026-09-01T16:32:56+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,8 +193,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-01T16:00:28+00:00",
+      "updatedAt": "2026-09-01T16:32:56+00:00",
       "stories": [
+        {
+          "title": "MH-139 helo tasked with nuclear missile escort role is operational, Air Force says",
+          "url": "https://breakingdefense.com/2026/09/mh-139-helo-tasked-with-nuclear-missile-escort-role-is-operational-air-force-says",
+          "publishedAt": "2026-09-01T16:02:03+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Dataminr AI tech to go live on NATO Maven system: CEO",
           "url": "https://breakingdefense.com/2026/09/dataminr-ai-tech-to-go-live-on-nato-maven-system-ceo",
@@ -250,12 +256,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Army Secretary Dan Driscoll resigns",
-          "url": "https://breakingdefense.com/2026/08/army-secretary-dan-driscoll-resigns-reports",
-          "publishedAt": "2026-08-31T22:24:26+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Army Secretary Dan Driscoll submits resignation",
           "url": "https://defensescoop.com/2026/08/31/army-secretary-dan-driscoll-submits-resignation",
           "publishedAt": "2026-09-01T00:28:16+00:00",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-01T16:00:28+00:00",
+      "updatedAt": "2026-09-01T16:32:56+00:00",
       "stories": [
         {
           "title": "Runway's Solaris previews the AI era of interfaces",
@@ -309,6 +309,12 @@
           "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
           "publishedAt": "2026-09-01T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+          "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen",
+          "publishedAt": "2026-09-01T16:31:04+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
@@ -353,12 +359,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Instagram puts new limits on undisclosed AI profiles",
-          "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles",
-          "publishedAt": "2026-08-31T19:16:59+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Anthropic wires AI agents into real-world machines",
           "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
           "publishedAt": "2026-08-28T10:00:00+00:00",
@@ -387,8 +387,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-01T16:00:28+00:00",
+      "updatedAt": "2026-09-01T16:32:56+00:00",
       "stories": [
+        {
+          "title": "Visko launches Orbis live model and closes pre-seed funding round",
+          "url": "https://www.therobotreport.com/visko-launches-orbis-live-model-closes-pre-seed-funding-round",
+          "publishedAt": "2026-09-01T16:00:01+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "The Missing Layer in Robot Safety Assurance",
           "url": "https://www.therobotreport.com/the-missing-layer-in-robot-safety-assurance",
@@ -423,12 +429,6 @@
           "title": "Reframe Systems raises $40M to scale its robotic microfactories for home building",
           "url": "https://www.therobotreport.com/reframe-systems-raises-40m-scale-robotic-microfactories-home-building",
           "publishedAt": "2026-08-31T18:46:48+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Early bird pricing for RoboBusiness 2026 ends August 31",
-          "url": "https://www.therobotreport.com/early-bird-pricing-for-robobusiness-2026-ends-august-31",
-          "publishedAt": "2026-08-31T12:41:56+00:00",
           "source": "The Robot Report"
         },
         {
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-01T16:00:28+00:00",
+    "updatedAt": "2026-09-01T16:32:56+00:00",
     "stories": [
       {
         "title": "Runway's Solaris previews the AI era of interfaces",
@@ -513,9 +513,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "5 planets will light up the September sky — here's how to see them",
-        "url": "https://www.space.com/stargazing/5-planets-will-light-up-the-september-sky-heres-how-to-see-them",
-        "publishedAt": "2026-09-01T15:00:00+00:00",
+        "title": "NASA's Roman Space Telescope is just one of a few missions named after real-life women",
+        "url": "https://www.space.com/space-exploration/missions/nasas-roman-space-telescope-is-just-one-of-a-few-missions-named-after-real-life-women",
+        "publishedAt": "2026-09-01T16:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -531,18 +531,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Dataminr AI tech to go live on NATO Maven system: CEO",
-        "url": "https://breakingdefense.com/2026/09/dataminr-ai-tech-to-go-live-on-nato-maven-system-ceo",
-        "publishedAt": "2026-09-01T15:49:12+00:00",
+        "title": "MH-139 helo tasked with nuclear missile escort role is operational, Air Force says",
+        "url": "https://breakingdefense.com/2026/09/mh-139-helo-tasked-with-nuclear-missile-escort-role-is-operational-air-force-says",
+        "publishedAt": "2026-09-01T16:02:03+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "The Missing Layer in Robot Safety Assurance",
-        "url": "https://www.therobotreport.com/the-missing-layer-in-robot-safety-assurance",
-        "publishedAt": "2026-09-01T13:56:53+00:00",
+        "title": "Visko launches Orbis live model and closes pre-seed funding round",
+        "url": "https://www.therobotreport.com/visko-launches-orbis-live-model-closes-pre-seed-funding-round",
+        "publishedAt": "2026-09-01T16:00:01+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -558,19 +558,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "An Army leadership shakeup, plus lasers on the border",
-        "url": "https://breakingdefense.com/2026/09/an-army-leadership-shakeup-plus-lasers-on-the-border",
-        "publishedAt": "2026-09-01T15:37:24+00:00",
+        "title": "Dataminr AI tech to go live on NATO Maven system: CEO",
+        "url": "https://breakingdefense.com/2026/09/dataminr-ai-tech-to-go-live-on-nato-maven-system-ceo",
+        "publishedAt": "2026-09-01T15:49:12+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "American Rheinmetall delivers its first prototype to replace Bradley Fighting Vehicle",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/01/american-rheinmetall-delivers-its-first-prototype-to-replace-bradley-fighting-vehicle",
-        "publishedAt": "2026-09-01T15:08:48+00:00",
-        "source": "Defense News",
+        "title": "An Army leadership shakeup, plus lasers on the border",
+        "url": "https://breakingdefense.com/2026/09/an-army-leadership-shakeup-plus-lasers-on-the-border",
+        "publishedAt": "2026-09-01T15:37:24+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
@@ -689,6 +689,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-14"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-12"
   ]
 }
