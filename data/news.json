@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-01T15:00:31+00:00",
+  "generatedAt": "2026-09-01T16:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-01T15:00:31+00:00",
+      "updatedAt": "2026-09-01T16:00:28+00:00",
       "stories": [
+        {
+          "title": "5 planets will light up the September sky — here's how to see them",
+          "url": "https://www.space.com/stargazing/5-planets-will-light-up-the-september-sky-heres-how-to-see-them",
+          "publishedAt": "2026-09-01T15:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Repairing the ISS 250 miles above Earth | Space photo of the day for Sept. 1, 2026",
           "url": "https://www.space.com/space-exploration/international-space-station/repairing-the-iss-250-miles-above-earth-space-photo-of-the-day-for-sept-1-2026",
@@ -29,12 +35,6 @@
           "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2",
           "publishedAt": "2026-08-31T15:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Watch 2 astronauts take 6th-ever all-female spacewalk today",
-          "url": "https://www.space.com/space-exploration/international-space-station/watch-2-astronauts-take-6th-ever-all-female-spacewalk-today",
-          "publishedAt": "2026-09-01T04:05:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "APOD: 2026 September 1 – A Plane Lunar Eclipse",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-01T15:00:31+00:00",
+      "updatedAt": "2026-09-01T16:00:28+00:00",
       "stories": [
         {
           "title": "NorthStar and Kepler agree to host space sensors on satellites (updated)",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-01T15:00:31+00:00",
+      "updatedAt": "2026-09-01T16:00:28+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,8 +193,26 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-01T15:00:31+00:00",
+      "updatedAt": "2026-09-01T16:00:28+00:00",
       "stories": [
+        {
+          "title": "Dataminr AI tech to go live on NATO Maven system: CEO",
+          "url": "https://breakingdefense.com/2026/09/dataminr-ai-tech-to-go-live-on-nato-maven-system-ceo",
+          "publishedAt": "2026-09-01T15:49:12+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "An Army leadership shakeup, plus lasers on the border",
+          "url": "https://breakingdefense.com/2026/09/an-army-leadership-shakeup-plus-lasers-on-the-border",
+          "publishedAt": "2026-09-01T15:37:24+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "American Rheinmetall delivers its first prototype to replace Bradley Fighting Vehicle",
+          "url": "https://www.defensenews.com/news/your-military/2026/09/01/american-rheinmetall-delivers-its-first-prototype-to-replace-bradley-fighting-vehicle",
+          "publishedAt": "2026-09-01T15:08:48+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "US tech found in Russian ballistic missiles",
           "url": "https://www.defensenews.com/global/europe/2026/09/01/us-tech-found-in-russian-ballistic-missiles",
@@ -244,28 +262,10 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "Lockheed Martin, General Dynamics get framework deals to surge Patriot, THAAD production",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/08/31/lockheed-martin-general-dynamics-get-framework-deals-to-surge-patriot-thaad-production",
-          "publishedAt": "2026-08-31T21:08:08+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "Japan seeks new extended-range missiles in record $55B defense budget request",
-          "url": "https://breakingdefense.com/2026/08/japan-seeks-new-extended-range-missiles-in-record-55b-defense-budget-request",
-          "publishedAt": "2026-08-31T17:53:48+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Grok and ChatGPT join Gemini in Pentagon’s enterprise genAI portal",
           "url": "https://defensescoop.com/2026/08/31/grok-chatgpt-added-to-genai-mil",
           "publishedAt": "2026-08-31T21:00:13+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Greece inks $3.4B deal for multi-layered Israeli air defense system",
-          "url": "https://breakingdefense.com/2026/08/greece-inks-3-4b-deal-for-multi-layered-israeli-air-defense-system",
-          "publishedAt": "2026-08-31T17:16:41+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Army will soon deliver first batch of detection tools to help command posts identify their own signal emissions, protect from EMS targeting",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-01T15:00:31+00:00",
+      "updatedAt": "2026-09-01T16:00:28+00:00",
       "stories": [
         {
           "title": "Runway's Solaris previews the AI era of interfaces",
@@ -311,40 +311,22 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "OpenClaw 2.0 (4 minute read)",
-          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-          "publishedAt": "2026-09-01T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+          "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop",
+          "publishedAt": "2026-09-01T15:51:55+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Muse Code (Website)",
-          "url": "https://dev.meta.ai/",
-          "publishedAt": "2026-09-01T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
+          "publishedAt": "2026-09-01T15:45:51+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "A deep dive into ZCode (17 minute read)",
-          "url": "https://flaviocopes.com/zcode",
-          "publishedAt": "2026-09-01T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Price of Entry to the Frontier (3 minute read)",
-          "url": "https://tomtunguz.com/the-great-segmentation",
-          "publishedAt": "2026-09-01T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Agency and Agents (12 minute read)",
-          "url": "https://www.oneusefulthing.org/p/agency-and-agents",
-          "publishedAt": "2026-09-01T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Google's Foundation Model for Zero-Shot Forecasting (5 minute read)",
-          "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting",
-          "publishedAt": "2026-09-01T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Fambot introduces an ‘AI chief of staff’ for families",
+          "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families",
+          "publishedAt": "2026-09-01T15:10:58+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
@@ -381,13 +363,31 @@
           "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
           "publishedAt": "2026-08-28T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "UK trials live-video AI in brain surgery",
+          "url": "https://www.uclh.nhs.uk/news/first-patient-live-ai-assisted-sight-saving-brain-surgery",
+          "publishedAt": "2026-08-28T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "The Ox Alpha mystery model ends with Z AI",
+          "url": "https://z.ai/blog/glm-5.3-flash",
+          "publishedAt": "2026-08-27T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI calls its AGI shot",
+          "url": "https://time.com/article/2026/08/26/openai-sam-altman-interview",
+          "publishedAt": "2026-08-27T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-01T15:00:31+00:00",
+      "updatedAt": "2026-09-01T16:00:28+00:00",
       "stories": [
         {
           "title": "The Missing Layer in Robot Safety Assurance",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-01T15:00:31+00:00",
+    "updatedAt": "2026-09-01T16:00:28+00:00",
     "stories": [
       {
         "title": "Runway's Solaris previews the AI era of interfaces",
@@ -513,9 +513,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Repairing the ISS 250 miles above Earth | Space photo of the day for Sept. 1, 2026",
-        "url": "https://www.space.com/space-exploration/international-space-station/repairing-the-iss-250-miles-above-earth-space-photo-of-the-day-for-sept-1-2026",
-        "publishedAt": "2026-09-01T14:00:00+00:00",
+        "title": "5 planets will light up the September sky — here's how to see them",
+        "url": "https://www.space.com/stargazing/5-planets-will-light-up-the-september-sky-heres-how-to-see-them",
+        "publishedAt": "2026-09-01T15:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -531,10 +531,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "US tech found in Russian ballistic missiles",
-        "url": "https://www.defensenews.com/global/europe/2026/09/01/us-tech-found-in-russian-ballistic-missiles",
-        "publishedAt": "2026-09-01T14:35:51+00:00",
-        "source": "Defense News",
+        "title": "Dataminr AI tech to go live on NATO Maven system: CEO",
+        "url": "https://breakingdefense.com/2026/09/dataminr-ai-tech-to-go-live-on-nato-maven-system-ceo",
+        "publishedAt": "2026-09-01T15:49:12+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -558,19 +558,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption",
-        "url": "https://www.therobotreport.com/howtorobot-robotics-australia-group-partner-platform-encourage-robot-adoption",
-        "publishedAt": "2026-09-01T13:45:36+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
+        "title": "An Army leadership shakeup, plus lasers on the border",
+        "url": "https://breakingdefense.com/2026/09/an-army-leadership-shakeup-plus-lasers-on-the-border",
+        "publishedAt": "2026-09-01T15:37:24+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "US approves potential $800 million helicopter sale to Iraq",
-        "url": "https://breakingdefense.com/2026/09/us-approves-potential-800-million-helicopter-sale-to-iraq",
-        "publishedAt": "2026-09-01T13:26:16+00:00",
-        "source": "Breaking Defense",
+        "title": "American Rheinmetall delivers its first prototype to replace Bradley Fighting Vehicle",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/01/american-rheinmetall-delivers-its-first-prototype-to-replace-bradley-fighting-vehicle",
+        "publishedAt": "2026-09-01T15:08:48+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
@@ -688,6 +688,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-14"
   ]
 }
