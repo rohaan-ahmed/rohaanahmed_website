@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T16:32:56+00:00",
+  "generatedAt": "2026-09-01T17:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-01T16:32:56+00:00",
+      "updatedAt": "2026-09-01T17:00:30+00:00",
       "stories": [
         {
           "title": "NASA's Roman Space Telescope is just one of a few missions named after real-life women",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-01T16:32:56+00:00",
+      "updatedAt": "2026-09-01T17:00:30+00:00",
       "stories": [
         {
           "title": "NorthStar and Kepler agree to host space sensors on satellites (updated)",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-01T16:32:56+00:00",
+      "updatedAt": "2026-09-01T17:00:30+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-01T16:32:56+00:00",
+      "updatedAt": "2026-09-01T17:00:30+00:00",
       "stories": [
         {
           "title": "MH-139 helo tasked with nuclear missile escort role is operational, Air Force says",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-01T16:32:56+00:00",
+      "updatedAt": "2026-09-01T17:00:30+00:00",
       "stories": [
         {
           "title": "Runway's Solaris previews the AI era of interfaces",
@@ -329,16 +329,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Fambot introduces an ‘AI chief of staff’ for families",
-          "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families",
-          "publishedAt": "2026-09-01T15:10:58+00:00",
-          "source": "TechCrunch AI"
+          "title": "OpenClaw 2.0 (4 minute read)",
+          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-          "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
-          "publishedAt": "2026-09-01T00:13:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Muse Code (Website)",
+          "url": "https://dev.meta.ai/",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "A deep dive into ZCode (17 minute read)",
+          "url": "https://flaviocopes.com/zcode",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Price of Entry to the Frontier (3 minute read)",
+          "url": "https://tomtunguz.com/the-great-segmentation",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Agency and Agents (12 minute read)",
+          "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "diffium-db: A live diff of what agents do to your database (9 minute read)",
+          "url": "https://denislavgavrilov.com/diffium-db-live-database-diff",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI cuts out Cursor after SpaceX acquisition",
@@ -353,33 +377,9 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "The Pentagon now has its own version of ChatGPT and Grok",
-          "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
-          "publishedAt": "2026-08-31T20:13:45+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Anthropic wires AI agents into real-world machines",
           "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
           "publishedAt": "2026-08-28T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "UK trials live-video AI in brain surgery",
-          "url": "https://www.uclh.nhs.uk/news/first-patient-live-ai-assisted-sight-saving-brain-surgery",
-          "publishedAt": "2026-08-28T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "The Ox Alpha mystery model ends with Z AI",
-          "url": "https://z.ai/blog/glm-5.3-flash",
-          "publishedAt": "2026-08-27T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI calls its AGI shot",
-          "url": "https://time.com/article/2026/08/26/openai-sam-altman-interview",
-          "publishedAt": "2026-08-27T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -387,8 +387,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-01T16:32:56+00:00",
+      "updatedAt": "2026-09-01T17:00:30+00:00",
       "stories": [
+        {
+          "title": "Learn how physical AI is being used to do real work at RoboBusiness",
+          "url": "https://www.therobotreport.com/learn-how-physical-ai-is-being-used-to-do-real-work-at-robobusiness",
+          "publishedAt": "2026-09-01T16:48:33+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Visko launches Orbis live model and closes pre-seed funding round",
           "url": "https://www.therobotreport.com/visko-launches-orbis-live-model-closes-pre-seed-funding-round",
@@ -423,12 +429,6 @@
           "title": "How better grippers can unlock physical AI",
           "url": "https://www.therobotreport.com/how-better-grippers-can-unlock-physical-ai",
           "publishedAt": "2026-08-31T20:20:25+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Reframe Systems raises $40M to scale its robotic microfactories for home building",
-          "url": "https://www.therobotreport.com/reframe-systems-raises-40m-scale-robotic-microfactories-home-building",
-          "publishedAt": "2026-08-31T18:46:48+00:00",
           "source": "The Robot Report"
         },
         {
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-01T16:32:56+00:00",
+    "updatedAt": "2026-09-01T17:00:30+00:00",
     "stories": [
       {
         "title": "Runway's Solaris previews the AI era of interfaces",
@@ -540,9 +540,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Visko launches Orbis live model and closes pre-seed funding round",
-        "url": "https://www.therobotreport.com/visko-launches-orbis-live-model-closes-pre-seed-funding-round",
-        "publishedAt": "2026-09-01T16:00:01+00:00",
+        "title": "Learn how physical AI is being used to do real work at RoboBusiness",
+        "url": "https://www.therobotreport.com/learn-how-physical-ai-is-being-used-to-do-real-work-at-robobusiness",
+        "publishedAt": "2026-09-01T16:48:33+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -558,18 +558,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Dataminr AI tech to go live on NATO Maven system: CEO",
-        "url": "https://breakingdefense.com/2026/09/dataminr-ai-tech-to-go-live-on-nato-maven-system-ceo",
-        "publishedAt": "2026-09-01T15:49:12+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Visko launches Orbis live model and closes pre-seed funding round",
+        "url": "https://www.therobotreport.com/visko-launches-orbis-live-model-closes-pre-seed-funding-round",
+        "publishedAt": "2026-09-01T16:00:01+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "An Army leadership shakeup, plus lasers on the border",
-        "url": "https://breakingdefense.com/2026/09/an-army-leadership-shakeup-plus-lasers-on-the-border",
-        "publishedAt": "2026-09-01T15:37:24+00:00",
+        "title": "Dataminr AI tech to go live on NATO Maven system: CEO",
+        "url": "https://breakingdefense.com/2026/09/dataminr-ai-tech-to-go-live-on-nato-maven-system-ceo",
+        "publishedAt": "2026-09-01T15:49:12+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -688,7 +688,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-12"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
   ]
 }
