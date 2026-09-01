@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-01T10:00:31+00:00",
+  "generatedAt": "2026-09-01T11:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-01T10:00:31+00:00",
+      "updatedAt": "2026-09-01T11:00:27+00:00",
       "stories": [
+        {
+          "title": "Samba’s fiery farewell recorded",
+          "url": "https://www.esa.int/Space_Safety/Space_Debris/Samba_s_fiery_farewell_recorded",
+          "publishedAt": "2026-09-01T09:05:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "'Orbitals' is a co-op sci-fi adventure that recaptures the magic of Saturday morning cartoons",
           "url": "https://www.space.com/entertainment/space-games/orbitals-is-a-co-op-sci-fi-adventure-that-recaptures-the-magic-of-saturday-morning-cartoons",
@@ -73,12 +79,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Roman lifts off on a mission to survey the infrared sky",
-          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky",
-          "publishedAt": "2026-08-31T07:00:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "The electronics ‘under the hood’ of space networking",
           "url": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking",
           "publishedAt": "2026-08-27T14:50:34+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-01T10:00:31+00:00",
+      "updatedAt": "2026-09-01T11:00:27+00:00",
       "stories": [
         {
           "title": "NorthStar and Kepler agree to host space sensors on satellites (updated)",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-01T10:00:31+00:00",
+      "updatedAt": "2026-09-01T11:00:27+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-01T10:00:31+00:00",
+      "updatedAt": "2026-09-01T11:00:27+00:00",
       "stories": [
         {
           "title": "Army Secretary Dan Driscoll resigns",
@@ -290,8 +290,26 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-01T10:00:31+00:00",
+      "updatedAt": "2026-09-01T11:00:27+00:00",
       "stories": [
+        {
+          "title": "Runway's Solaris previews the AI era of interfaces",
+          "url": "https://runway.com/news/research/introducing-solaris",
+          "publishedAt": "2026-09-01T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "AI catches heart disease in two seconds",
+          "url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
+          "publishedAt": "2026-09-01T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic tests automated AI safety research",
+          "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+          "publishedAt": "2026-09-01T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
           "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
@@ -363,31 +381,13 @@
           "url": "https://time.com/article/2026/08/26/openai-sam-altman-interview",
           "publishedAt": "2026-08-27T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI's Jalapeño chip brings the heat",
-          "url": "https://openai.com/index/jalapeno-first-results",
-          "publishedAt": "2026-08-26T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "New startup takes AI from words to physics",
-          "url": "https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25",
-          "publishedAt": "2026-08-26T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Perplexity, Nvidia go portable with Computer",
-          "url": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
-          "publishedAt": "2026-08-26T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-01T10:00:31+00:00",
+      "updatedAt": "2026-09-01T11:00:27+00:00",
       "stories": [
         {
           "title": "Skild AI unveils S1 flagship robot foundation model",
@@ -483,21 +483,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-01T10:00:31+00:00",
+    "updatedAt": "2026-09-01T11:00:27+00:00",
     "stories": [
       {
-        "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-        "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
-        "publishedAt": "2026-09-01T00:13:00+00:00",
-        "source": "TechCrunch AI",
+        "title": "Runway's Solaris previews the AI era of interfaces",
+        "url": "https://runway.com/news/research/introducing-solaris",
+        "publishedAt": "2026-09-01T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI cuts out Cursor after SpaceX acquisition",
-        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-        "publishedAt": "2026-08-31T10:00:00+00:00",
+        "title": "AI catches heart disease in two seconds",
+        "url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
+        "publishedAt": "2026-09-01T10:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -513,10 +513,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "'Orbitals' is a co-op sci-fi adventure that recaptures the magic of Saturday morning cartoons",
-        "url": "https://www.space.com/entertainment/space-games/orbitals-is-a-co-op-sci-fi-adventure-that-recaptures-the-magic-of-saturday-morning-cartoons",
-        "publishedAt": "2026-09-01T09:00:00+00:00",
-        "source": "Space.com",
+        "title": "Samba’s fiery farewell recorded",
+        "url": "https://www.esa.int/Space_Safety/Space_Debris/Samba_s_fiery_farewell_recorded",
+        "publishedAt": "2026-09-01T09:05:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -549,28 +549,28 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
-        "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2",
-        "publishedAt": "2026-08-31T15:00:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Anthropic tests automated AI safety research",
+        "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+        "publishedAt": "2026-09-01T10:00:00+00:00",
+        "source": "The Rundown AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Watch 2 astronauts take 6th-ever all-female spacewalk today",
-        "url": "https://www.space.com/space-exploration/international-space-station/watch-2-astronauts-take-6th-ever-all-female-spacewalk-today",
-        "publishedAt": "2026-09-01T04:05:00+00:00",
+        "title": "'Orbitals' is a co-op sci-fi adventure that recaptures the magic of Saturday morning cartoons",
+        "url": "https://www.space.com/entertainment/space-games/orbitals-is-a-co-op-sci-fi-adventure-that-recaptures-the-magic-of-saturday-morning-cartoons",
+        "publishedAt": "2026-09-01T09:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "APOD: 2026 September 1 – A Plane Lunar Eclipse",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse",
-        "publishedAt": "2026-09-01T04:05:00+00:00",
-        "source": "NASA",
+        "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
+        "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2",
+        "publishedAt": "2026-08-31T15:00:00+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -689,6 +689,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-18"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-11"
   ]
 }
