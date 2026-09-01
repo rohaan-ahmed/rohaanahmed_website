@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-01T19:00:30+00:00",
+  "generatedAt": "2026-09-01T19:32:14+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-01T19:00:30+00:00",
+      "updatedAt": "2026-09-01T19:32:14+00:00",
       "stories": [
+        {
+          "title": "The 12 best sci-fi movies of the 2000s",
+          "url": "https://www.space.com/entertainment/space-movies-shows/the-12-best-sci-fi-movies-of-the-2000s",
+          "publishedAt": "2026-09-01T19:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "On this day in space! Sept. 1, 1979: NASA's Pioneer 11 probe becomes 1st spacecraft to visit Saturn",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-1-2026",
@@ -23,12 +29,6 @@
           "url": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii",
           "publishedAt": "2026-09-01T17:30:35+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "NASA's Roman Space Telescope is just one of a few missions named after real-life women",
-          "url": "https://www.space.com/space-exploration/missions/nasas-roman-space-telescope-is-just-one-of-a-few-missions-named-after-real-life-women",
-          "publishedAt": "2026-09-01T16:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Samba’s fiery farewell recorded",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-01T19:00:30+00:00",
+      "updatedAt": "2026-09-01T19:32:14+00:00",
       "stories": [
+        {
+          "title": "What happens to Canadian science in orbit after the International Space Station is decommissioned?",
+          "url": "https://spaceq.ca/what-happens-to-canadian-science-in-orbit-after-the-international-space-station-is-decommissioned",
+          "publishedAt": "2026-09-01T19:05:27+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "NorthStar and Kepler agree to host space sensors on satellites (updated)",
           "url": "https://spaceq.ca/northstar-and-kepler-agree-to-host-space-sensors-on-satellites",
@@ -156,19 +162,13 @@
           "url": "https://spaceq.ca/starbase-louisiana-law-came-first",
           "publishedAt": "2026-08-25T18:58:41+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "U.S. space transportation policy leaves Canada’s export status open",
-          "url": "https://spaceq.ca/u-s-space-transportation-policy-leaves-canadas-export-status-open",
-          "publishedAt": "2026-08-25T17:52:41+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-01T19:00:30+00:00",
+      "updatedAt": "2026-09-01T19:32:14+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,8 +193,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-01T19:00:30+00:00",
+      "updatedAt": "2026-09-01T19:32:14+00:00",
       "stories": [
+        {
+          "title": "Army seeks tracked howitzer candidates following award for wheeled platforms",
+          "url": "https://breakingdefense.com/2026/09/army-seeks-tracked-howitzer-candidates-following-award-for-wheeled-platforms",
+          "publishedAt": "2026-09-01T19:25:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "House passes funding stopgap, averting government shutdown in October",
           "url": "https://breakingdefense.com/2026/09/house-passes-funding-stopgap-averting-government-shutdown-in-october",
@@ -229,12 +235,6 @@
           "title": "French army chief releases first agenda, shares ambitions for service",
           "url": "https://breakingdefense.com/2026/09/french-army-chief-releases-first-agenda-shares-ambitions-for-service",
           "publishedAt": "2026-09-01T17:12:55+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "MH-139 helo tasked with nuclear missile escort role is operational, Air Force says",
-          "url": "https://breakingdefense.com/2026/09/mh-139-helo-tasked-with-nuclear-missile-escort-role-is-operational-air-force-says",
-          "publishedAt": "2026-09-01T16:02:03+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-01T19:00:30+00:00",
+      "updatedAt": "2026-09-01T19:32:14+00:00",
       "stories": [
         {
           "title": "Runway's Solaris previews the AI era of interfaces",
@@ -387,8 +387,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-01T19:00:30+00:00",
+      "updatedAt": "2026-09-01T19:32:14+00:00",
       "stories": [
+        {
+          "title": "Top 10 robotics stories of August 2026",
+          "url": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2026",
+          "publishedAt": "2026-09-01T18:56:28+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Learn how physical AI is being used to do real work at RoboBusiness",
           "url": "https://www.therobotreport.com/learn-how-physical-ai-is-being-used-to-do-real-work-at-robobusiness",
@@ -423,12 +429,6 @@
           "title": "Skild AI unveils S1 flagship robot foundation model",
           "url": "https://www.therobotreport.com/skild-ai-unveils-s1-flagship-robot-foundation-model",
           "publishedAt": "2026-08-31T21:14:08+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "How better grippers can unlock physical AI",
-          "url": "https://www.therobotreport.com/how-better-grippers-can-unlock-physical-ai",
-          "publishedAt": "2026-08-31T20:20:25+00:00",
           "source": "The Robot Report"
         },
         {
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-01T19:00:30+00:00",
+    "updatedAt": "2026-09-01T19:32:14+00:00",
     "stories": [
       {
         "title": "Runway's Solaris previews the AI era of interfaces",
@@ -504,18 +504,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NorthStar and Kepler agree to host space sensors on satellites (updated)",
-        "url": "https://spaceq.ca/northstar-and-kepler-agree-to-host-space-sensors-on-satellites",
-        "publishedAt": "2026-08-31T17:16:00+00:00",
+        "title": "What happens to Canadian science in orbit after the International Space Station is decommissioned?",
+        "url": "https://spaceq.ca/what-happens-to-canadian-science-in-orbit-after-the-international-space-station-is-decommissioned",
+        "publishedAt": "2026-09-01T19:05:27+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "On this day in space! Sept. 1, 1979: NASA's Pioneer 11 probe becomes 1st spacecraft to visit Saturn",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-1-2026",
-        "publishedAt": "2026-09-01T17:15:03+00:00",
+        "title": "The 12 best sci-fi movies of the 2000s",
+        "url": "https://www.space.com/entertainment/space-movies-shows/the-12-best-sci-fi-movies-of-the-2000s",
+        "publishedAt": "2026-09-01T19:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -531,22 +531,31 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "House passes funding stopgap, averting government shutdown in October",
-        "url": "https://breakingdefense.com/2026/09/house-passes-funding-stopgap-averting-government-shutdown-in-october",
-        "publishedAt": "2026-09-01T18:10:06+00:00",
+        "title": "Army seeks tracked howitzer candidates following award for wheeled platforms",
+        "url": "https://breakingdefense.com/2026/09/army-seeks-tracked-howitzer-candidates-following-award-for-wheeled-platforms",
+        "publishedAt": "2026-09-01T19:25:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Learn how physical AI is being used to do real work at RoboBusiness",
-        "url": "https://www.therobotreport.com/learn-how-physical-ai-is-being-used-to-do-real-work-at-robobusiness",
-        "publishedAt": "2026-09-01T16:48:33+00:00",
+        "title": "Top 10 robotics stories of August 2026",
+        "url": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2026",
+        "publishedAt": "2026-09-01T18:56:28+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "House passes funding stopgap, averting government shutdown in October",
+        "url": "https://breakingdefense.com/2026/09/house-passes-funding-stopgap-averting-government-shutdown-in-october",
+        "publishedAt": "2026-09-01T18:10:06+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Anthropic tests automated AI safety research",
@@ -561,15 +570,6 @@
         "title": "Army awards Georgia Tech $33M to be lead weapons integrator for CAML program",
         "url": "https://breakingdefense.com/2026/09/army-awards-georgia-tech-33m-to-be-lead-weapons-integrator-for-caml-program",
         "publishedAt": "2026-09-01T17:59:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "The defense intelligence community’s AI and cyber view forward",
-        "url": "https://breakingdefense.com/2026/09/the-defense-intelligence-communitys-ai-and-cyber-view-forward",
-        "publishedAt": "2026-09-01T17:49:50+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
