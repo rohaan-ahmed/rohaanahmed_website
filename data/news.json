@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T18:00:28+00:00",
+  "generatedAt": "2026-09-01T19:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-01T18:00:28+00:00",
+      "updatedAt": "2026-09-01T19:00:30+00:00",
       "stories": [
         {
           "title": "On this day in space! Sept. 1, 1979: NASA's Pioneer 11 probe becomes 1st spacecraft to visit Saturn",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-01T18:00:28+00:00",
+      "updatedAt": "2026-09-01T19:00:30+00:00",
       "stories": [
         {
           "title": "NorthStar and Kepler agree to host space sensors on satellites (updated)",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-01T18:00:28+00:00",
+      "updatedAt": "2026-09-01T19:00:30+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,8 +193,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-01T18:00:28+00:00",
+      "updatedAt": "2026-09-01T19:00:30+00:00",
       "stories": [
+        {
+          "title": "House passes funding stopgap, averting government shutdown in October",
+          "url": "https://breakingdefense.com/2026/09/house-passes-funding-stopgap-averting-government-shutdown-in-october",
+          "publishedAt": "2026-09-01T18:10:06+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Army awards Georgia Tech $33M to be lead weapons integrator for CAML program",
           "url": "https://breakingdefense.com/2026/09/army-awards-georgia-tech-33m-to-be-lead-weapons-integrator-for-caml-program",
@@ -208,6 +214,18 @@
           "source": "Breaking Defense"
         },
         {
+          "title": "US approves possible $800 million military helicopter sale to Iraq",
+          "url": "https://www.defensenews.com/news/your-military/2026/09/01/us-approves-possible-800-million-military-helicopter-sale-to-iraq",
+          "publishedAt": "2026-09-01T18:14:33+00:00",
+          "source": "Defense News"
+        },
+        {
+          "title": "US launches new barrage of strikes on Iran around Strait of Hormuz",
+          "url": "https://www.defensenews.com/news/your-military/2026/09/01/us-launches-new-barrage-of-strikes-on-iran-around-strait-of-hormuz",
+          "publishedAt": "2026-09-01T18:13:45+00:00",
+          "source": "Defense News"
+        },
+        {
           "title": "French army chief releases first agenda, shares ambitions for service",
           "url": "https://breakingdefense.com/2026/09/french-army-chief-releases-first-agenda-shares-ambitions-for-service",
           "publishedAt": "2026-09-01T17:12:55+00:00",
@@ -217,12 +235,6 @@
           "title": "MH-139 helo tasked with nuclear missile escort role is operational, Air Force says",
           "url": "https://breakingdefense.com/2026/09/mh-139-helo-tasked-with-nuclear-missile-escort-role-is-operational-air-force-says",
           "publishedAt": "2026-09-01T16:02:03+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Dataminr AI tech to go live on NATO Maven system: CEO",
-          "url": "https://breakingdefense.com/2026/09/dataminr-ai-tech-to-go-live-on-nato-maven-system-ceo",
-          "publishedAt": "2026-09-01T15:49:12+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -241,18 +253,6 @@
           "title": "US Navy unveils new specs for carrier-based Collaborative Combat Aircraft",
           "url": "https://www.defensenews.com/industry/techwatch/2026/09/01/us-navy-unveils-new-specs-for-carrier-based-collaborative-combat-aircraft",
           "publishedAt": "2026-09-01T13:23:27+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "Poland readies for record-breaking defense show as opulent budget lures vendors",
-          "url": "https://www.defensenews.com/global/europe/2026/09/01/poland-readies-for-record-breaking-defense-show-as-opulent-budget-lures-vendors",
-          "publishedAt": "2026-09-01T12:26:59+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "Defense startup raises $61 million to put AI into a wrist-worn display",
-          "url": "https://www.defensenews.com/news/your-military/2026/09/01/defense-startup-raises-61-million-to-put-ai-into-a-wrist-worn-display",
-          "publishedAt": "2026-09-01T12:24:01+00:00",
           "source": "Defense News"
         },
         {
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-01T18:00:28+00:00",
+      "updatedAt": "2026-09-01T19:00:30+00:00",
       "stories": [
         {
           "title": "Runway's Solaris previews the AI era of interfaces",
@@ -329,22 +329,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-          "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop",
-          "publishedAt": "2026-09-01T15:51:55+00:00",
-          "source": "TechCrunch AI"
+          "title": "OpenClaw 2.0 (4 minute read)",
+          "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
-          "publishedAt": "2026-09-01T15:45:51+00:00",
-          "source": "TechCrunch AI"
+          "title": "Muse Code (Website)",
+          "url": "https://dev.meta.ai/",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Fambot introduces an ‘AI chief of staff’ for families",
-          "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families",
-          "publishedAt": "2026-09-01T15:10:58+00:00",
-          "source": "TechCrunch AI"
+          "title": "A deep dive into ZCode (17 minute read)",
+          "url": "https://flaviocopes.com/zcode",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Price of Entry to the Frontier (3 minute read)",
+          "url": "https://tomtunguz.com/the-great-segmentation",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Agency and Agents (12 minute read)",
+          "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "diffium-db: A live diff of what agents do to your database (9 minute read)",
+          "url": "https://denislavgavrilov.com/diffium-db-live-database-diff",
+          "publishedAt": "2026-09-01T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI cuts out Cursor after SpaceX acquisition",
@@ -363,31 +381,13 @@
           "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
           "publishedAt": "2026-08-28T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "UK trials live-video AI in brain surgery",
-          "url": "https://www.uclh.nhs.uk/news/first-patient-live-ai-assisted-sight-saving-brain-surgery",
-          "publishedAt": "2026-08-28T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "The Ox Alpha mystery model ends with Z AI",
-          "url": "https://z.ai/blog/glm-5.3-flash",
-          "publishedAt": "2026-08-27T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI calls its AGI shot",
-          "url": "https://time.com/article/2026/08/26/openai-sam-altman-interview",
-          "publishedAt": "2026-08-27T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-01T18:00:28+00:00",
+      "updatedAt": "2026-09-01T19:00:30+00:00",
       "stories": [
         {
           "title": "Learn how physical AI is being used to do real work at RoboBusiness",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-01T18:00:28+00:00",
+    "updatedAt": "2026-09-01T19:00:30+00:00",
     "stories": [
       {
         "title": "Runway's Solaris previews the AI era of interfaces",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Army awards Georgia Tech $33M to be lead weapons integrator for CAML program",
-        "url": "https://breakingdefense.com/2026/09/army-awards-georgia-tech-33m-to-be-lead-weapons-integrator-for-caml-program",
-        "publishedAt": "2026-09-01T17:59:00+00:00",
+        "title": "House passes funding stopgap, averting government shutdown in October",
+        "url": "https://breakingdefense.com/2026/09/house-passes-funding-stopgap-averting-government-shutdown-in-october",
+        "publishedAt": "2026-09-01T18:10:06+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -558,18 +558,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "The defense intelligence community’s AI and cyber view forward",
-        "url": "https://breakingdefense.com/2026/09/the-defense-intelligence-communitys-ai-and-cyber-view-forward",
-        "publishedAt": "2026-09-01T17:49:50+00:00",
+        "title": "Army awards Georgia Tech $33M to be lead weapons integrator for CAML program",
+        "url": "https://breakingdefense.com/2026/09/army-awards-georgia-tech-33m-to-be-lead-weapons-integrator-for-caml-program",
+        "publishedAt": "2026-09-01T17:59:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "French army chief releases first agenda, shares ambitions for service",
-        "url": "https://breakingdefense.com/2026/09/french-army-chief-releases-first-agenda-shares-ambitions-for-service",
-        "publishedAt": "2026-09-01T17:12:55+00:00",
+        "title": "The defense intelligence community’s AI and cyber view forward",
+        "url": "https://breakingdefense.com/2026/09/the-defense-intelligence-communitys-ai-and-cyber-view-forward",
+        "publishedAt": "2026-09-01T17:49:50+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -688,7 +688,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-17"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
   ]
 }
