@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-02T04:00:33+00:00",
+  "generatedAt": "2026-09-02T04:21:00+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-02T04:00:33+00:00",
+      "updatedAt": "2026-09-02T04:21:00+00:00",
       "stories": [
         {
           "title": "Two astronauts replace ISS camera and docking aid on 6th-ever all-female spacewalk (video)",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-02T04:00:33+00:00",
+      "updatedAt": "2026-09-02T04:21:00+00:00",
       "stories": [
         {
           "title": "What happens to Canadian science in orbit after the International Space Station is decommissioned?",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-02T04:00:33+00:00",
+      "updatedAt": "2026-09-02T04:21:00+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,8 +193,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-02T04:00:33+00:00",
+      "updatedAt": "2026-09-02T04:21:00+00:00",
       "stories": [
+        {
+          "title": "After over 200 days at sea, USS Abraham Lincoln arrives in Thailand",
+          "url": "https://www.defensenews.com/news/your-military/2026/09/02/after-over-200-days-at-sea-uss-abraham-lincoln-arrives-in-thailand",
+          "publishedAt": "2026-09-02T04:16:40+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Trump to formally nominate Cao as Navy Secretary",
           "url": "https://breakingdefense.com/2026/09/trump-to-formally-nominate-cao-as-navy-secretary",
@@ -274,12 +280,6 @@
           "source": "Defense News"
         },
         {
-          "title": "US tech found in Russian ballistic missiles",
-          "url": "https://www.defensenews.com/global/europe/2026/09/01/us-tech-found-in-russian-ballistic-missiles",
-          "publishedAt": "2026-09-01T14:35:51+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Army Secretary Dan Driscoll submits resignation",
           "url": "https://defensescoop.com/2026/08/31/army-secretary-dan-driscoll-submits-resignation",
           "publishedAt": "2026-09-01T00:28:16+00:00",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-02T04:00:33+00:00",
+      "updatedAt": "2026-09-02T04:21:00+00:00",
       "stories": [
         {
           "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-02T04:00:33+00:00",
+      "updatedAt": "2026-09-02T04:21:00+00:00",
       "stories": [
         {
           "title": "Top 10 robotics stories of August 2026",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-02T04:00:33+00:00",
+    "updatedAt": "2026-09-02T04:21:00+00:00",
     "stories": [
       {
         "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
@@ -531,10 +531,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Trump to formally nominate Cao as Navy Secretary",
-        "url": "https://breakingdefense.com/2026/09/trump-to-formally-nominate-cao-as-navy-secretary",
-        "publishedAt": "2026-09-01T23:59:59+00:00",
-        "source": "Breaking Defense",
+        "title": "After over 200 days at sea, USS Abraham Lincoln arrives in Thailand",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/02/after-over-200-days-at-sea-uss-abraham-lincoln-arrives-in-thailand",
+        "publishedAt": "2026-09-02T04:16:40+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -547,6 +547,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Trump to formally nominate Cao as Navy Secretary",
+        "url": "https://breakingdefense.com/2026/09/trump-to-formally-nominate-cao-as-navy-secretary",
+        "publishedAt": "2026-09-01T23:59:59+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Ousted Ukrainian defense chief lands Palantir CEO as first investor in new venture",
@@ -562,15 +571,6 @@
         "url": "https://defensescoop.com/2026/09/01/trump-announces-nomination-hung-cao-navy-secretary",
         "publishedAt": "2026-09-02T00:55:45+00:00",
         "source": "DefenseScoop",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "How the new stopgap funding bill affects the Defense Department",
-        "url": "https://breakingdefense.com/2026/09/how-the-new-stopgap-funding-bill-affects-the-defense-department",
-        "publishedAt": "2026-09-01T20:58:12+00:00",
-        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
