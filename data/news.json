@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-02T22:01:18+00:00",
+  "generatedAt": "2026-09-02T23:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-02T22:01:18+00:00",
+      "updatedAt": "2026-09-02T23:00:29+00:00",
       "stories": [
         {
           "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-02T22:01:18+00:00",
+      "updatedAt": "2026-09-02T23:00:29+00:00",
       "stories": [
         {
           "title": "NorthStar leads new ESA project on re-entry prediction",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-02T22:01:18+00:00",
+      "updatedAt": "2026-09-02T23:00:29+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-02T22:01:18+00:00",
+      "updatedAt": "2026-09-02T23:00:29+00:00",
       "stories": [
         {
           "title": "US Army awards $192M to Palantir, Anduril for TITAN production",
@@ -290,8 +290,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-02T22:01:18+00:00",
+      "updatedAt": "2026-09-02T23:00:29+00:00",
       "stories": [
+        {
+          "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+          "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
+          "publishedAt": "2026-09-02T22:44:56+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+          "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
+          "publishedAt": "2026-09-02T22:24:09+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Fable 5.1 ends the frontier's quiet period",
           "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
@@ -314,18 +326,6 @@
           "title": "OpenAI’s new reasoning technique alarms AI safety experts",
           "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
           "publishedAt": "2026-09-02T20:19:14+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-          "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake",
-          "publishedAt": "2026-09-02T17:18:13+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-          "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo",
-          "publishedAt": "2026-09-02T17:09:57+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-02T22:01:18+00:00",
+      "updatedAt": "2026-09-02T23:00:29+00:00",
       "stories": [
         {
           "title": "NexCOBOT discusses physical AI market hurdles and acceleration",
@@ -483,22 +483,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-02T22:01:18+00:00",
+    "updatedAt": "2026-09-02T23:00:29+00:00",
     "stories": [
       {
-        "title": "Fable 5.1 ends the frontier's quiet period",
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "publishedAt": "2026-09-02T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
+        "publishedAt": "2026-09-02T22:44:56+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Bernie Sanders escalates AI pause conversation",
-        "url": "https://www.foxnews.com/opinion/sen-bernie-sanders-yes-we-must-hit-pause-button-ai-before-it-is-too-late",
-        "publishedAt": "2026-09-02T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
+        "publishedAt": "2026-09-02T22:24:09+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
