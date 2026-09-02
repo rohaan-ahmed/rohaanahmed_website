@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-02T01:00:27+00:00",
+  "generatedAt": "2026-09-02T02:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-02T01:00:27+00:00",
+      "updatedAt": "2026-09-02T02:00:29+00:00",
       "stories": [
         {
           "title": "Two astronauts replace ISS camera and docking aid on 6th-ever all-female spacewalk (video)",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-02T01:00:27+00:00",
+      "updatedAt": "2026-09-02T02:00:29+00:00",
       "stories": [
         {
           "title": "What happens to Canadian science in orbit after the International Space Station is decommissioned?",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-02T01:00:27+00:00",
+      "updatedAt": "2026-09-02T02:00:29+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-02T01:00:27+00:00",
+      "updatedAt": "2026-09-02T02:00:29+00:00",
       "stories": [
         {
           "title": "Trump to formally nominate Cao as Navy Secretary",
@@ -206,6 +206,12 @@
           "url": "https://www.defensenews.com/global/europe/2026/09/01/ousted-ukrainian-defense-chief-lands-palantir-ceo-as-first-investor-in-new-venture",
           "publishedAt": "2026-09-01T23:42:38+00:00",
           "source": "Defense News"
+        },
+        {
+          "title": "Trump announces nomination of Hung Cao as SECNAV",
+          "url": "https://defensescoop.com/2026/09/01/trump-announces-nomination-hung-cao-navy-secretary",
+          "publishedAt": "2026-09-02T00:55:45+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "How the new stopgap funding bill affects the Defense Department",
@@ -278,19 +284,13 @@
           "url": "https://defensescoop.com/2026/08/31/army-secretary-dan-driscoll-submits-resignation",
           "publishedAt": "2026-09-01T00:28:16+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Grok and ChatGPT join Gemini in Pentagon’s enterprise genAI portal",
-          "url": "https://defensescoop.com/2026/08/31/grok-chatgpt-added-to-genai-mil",
-          "publishedAt": "2026-08-31T21:00:13+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-02T01:00:27+00:00",
+      "updatedAt": "2026-09-02T02:00:29+00:00",
       "stories": [
         {
           "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-02T01:00:27+00:00",
+      "updatedAt": "2026-09-02T02:00:29+00:00",
       "stories": [
         {
           "title": "Top 10 robotics stories of August 2026",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-02T01:00:27+00:00",
+    "updatedAt": "2026-09-02T02:00:29+00:00",
     "stories": [
       {
         "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
@@ -558,18 +558,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "How the new stopgap funding bill affects the Defense Department",
-        "url": "https://breakingdefense.com/2026/09/how-the-new-stopgap-funding-bill-affects-the-defense-department",
-        "publishedAt": "2026-09-01T20:58:12+00:00",
-        "source": "Breaking Defense",
+        "title": "Trump announces nomination of Hung Cao as SECNAV",
+        "url": "https://defensescoop.com/2026/09/01/trump-announces-nomination-hung-cao-navy-secretary",
+        "publishedAt": "2026-09-02T00:55:45+00:00",
+        "source": "DefenseScoop",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Army seeks tracked howitzer candidates following award for wheeled platforms",
-        "url": "https://breakingdefense.com/2026/09/army-seeks-tracked-howitzer-candidates-following-award-for-wheeled-platforms",
-        "publishedAt": "2026-09-01T19:25:00+00:00",
+        "title": "How the new stopgap funding bill affects the Defense Department",
+        "url": "https://breakingdefense.com/2026/09/how-the-new-stopgap-funding-bill-affects-the-defense-department",
+        "publishedAt": "2026-09-01T20:58:12+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
