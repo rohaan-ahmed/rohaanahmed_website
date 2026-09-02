@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-09-02T19:00:29+00:00",
+  "generatedAt": "2026-09-02T19:45:11+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-02T19:00:29+00:00",
+      "updatedAt": "2026-09-02T19:45:11+00:00",
       "stories": [
         {
           "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
           "url": "https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting",
           "publishedAt": "2026-09-02T12:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "This was always the way: 'The Mandalorian and Grogu' is finally on Disney+",
+          "url": "https://www.space.com/entertainment/space-movies-shows/this-was-always-the-way-the-mandalorian-and-grogu-is-finally-on-disney",
+          "publishedAt": "2026-09-02T19:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
+          "url": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers",
+          "publishedAt": "2026-09-02T19:01:05+00:00",
+          "source": "NASA"
         },
         {
           "title": "2 spacecraft headed to Mercury are about to begin their long-awaited arrival for Europe and Japan — watch it live on Sept. 3",
@@ -31,21 +43,9 @@
           "source": "Space.com"
         },
         {
-          "title": "'You’re going to feel exposed, vulnerable, and very isolated' — 'Alien Isolation 2' creative director talks upping the scare factor for the sequel (interview)",
-          "url": "https://www.space.com/entertainment/space-games/youre-going-to-feel-exposed-vulnerable-and-very-isolated-alien-isolation-2-creative-director-talks-upping-the-scare-factor-for-the-sequel-interview",
-          "publishedAt": "2026-09-02T16:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Rising Over Louisiana",
           "url": "https://www.nasa.gov/image-article/rising-over-louisiana",
           "publishedAt": "2026-09-02T15:38:50+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds",
-          "url": "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds",
-          "publishedAt": "2026-09-02T14:53:54+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-02T19:00:29+00:00",
+      "updatedAt": "2026-09-02T19:45:11+00:00",
       "stories": [
         {
           "title": "NorthStar leads new ESA project on re-entry prediction",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-02T19:00:29+00:00",
+      "updatedAt": "2026-09-02T19:45:11+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,8 +193,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-02T19:00:29+00:00",
+      "updatedAt": "2026-09-02T19:45:11+00:00",
       "stories": [
+        {
+          "title": "Army awards first-ever laser production contract to AV, with $465M value",
+          "url": "https://breakingdefense.com/2026/09/army-awards-first-ever-laser-production-contract-to-av-with-465m-value",
+          "publishedAt": "2026-09-02T19:14:29+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Army awards $192M to Palantir and Anduril to produce TITAN system",
           "url": "https://breakingdefense.com/2026/09/army-awards-192m-to-palantir-and-anduril-to-produce-titan-system",
@@ -223,12 +229,6 @@
           "title": "Physics AI is different and changes the way defense systems are designed",
           "url": "https://breakingdefense.com/2026/09/physics-ai-is-different-and-changes-the-way-defense-systems-are-designed",
           "publishedAt": "2026-09-02T12:35:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Sweden to ‘evaluate’ adding French long-range strike missiles to new frigates",
-          "url": "https://breakingdefense.com/2026/09/sweden-to-evaluate-adding-french-long-range-strike-missiles-to-new-frigates",
-          "publishedAt": "2026-09-02T10:30:00+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-02T19:00:29+00:00",
+      "updatedAt": "2026-09-02T19:45:11+00:00",
       "stories": [
         {
           "title": "Fable 5.1 ends the frontier's quiet period",
@@ -329,14 +329,14 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value (2 minute read)",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODMyMTIxMiwiZXhwIjoxNzg4OTI2MDEyLCJhcnRpY2xlSWQiOiJUS1BPMUNLR1pBSkkwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.1rGcf8yaeGQhjFyQoTUcMYk8s1ZDcadhewKmtfN4Z5A",
+          "title": "Atlas: A World Model for Spatial Intelligence (17 minute read)",
+          "url": "https://www.worldlabs.ai/blog/atlas",
           "publishedAt": "2026-09-02T00:00:00+00:00",
           "source": "TLDR AI"
         },
         {
-          "title": "Atlas: A World Model for Spatial Intelligence (17 minute read)",
-          "url": "https://www.worldlabs.ai/blog/atlas",
+          "title": "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value (2 minute read)",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODMyMTIxMiwiZXhwIjoxNzg4OTI2MDEyLCJhcnRpY2xlSWQiOiJUS1BPMUNLR1pBSkkwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.1rGcf8yaeGQhjFyQoTUcMYk8s1ZDcadhewKmtfN4Z5A",
           "publishedAt": "2026-09-02T00:00:00+00:00",
           "source": "TLDR AI"
         },
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-02T19:00:29+00:00",
+      "updatedAt": "2026-09-02T19:45:11+00:00",
       "stories": [
         {
           "title": "Learn why food is physical AI’s hardest problem at RoboBusiness",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-02T19:00:29+00:00",
+    "updatedAt": "2026-09-02T19:45:11+00:00",
     "stories": [
       {
         "title": "Fable 5.1 ends the frontier's quiet period",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Army awards $192M to Palantir and Anduril to produce TITAN system",
-        "url": "https://breakingdefense.com/2026/09/army-awards-192m-to-palantir-and-anduril-to-produce-titan-system",
-        "publishedAt": "2026-09-02T16:30:00+00:00",
+        "title": "Army awards first-ever laser production contract to AV, with $465M value",
+        "url": "https://breakingdefense.com/2026/09/army-awards-first-ever-laser-production-contract-to-av-with-465m-value",
+        "publishedAt": "2026-09-02T19:14:29+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
