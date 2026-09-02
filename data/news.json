@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-02T07:00:30+00:00",
+  "generatedAt": "2026-09-02T08:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-02T07:00:30+00:00",
+      "updatedAt": "2026-09-02T08:00:28+00:00",
       "stories": [
+        {
+          "title": "ESA’s first lunar rover rolls forward",
+          "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_first_lunar_rover_rolls_forward",
+          "publishedAt": "2026-09-02T07:00:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "Two astronauts replace ISS camera and docking aid on 6th-ever all-female spacewalk (video)",
           "url": "https://www.space.com/space-exploration/international-space-station/two-astronauts-replace-iss-camera-and-docking-aid-on-6th-ever-all-female-spacewalk-video",
@@ -73,12 +79,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Nepal flash flood imaged by satellites",
-          "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Nepal_flash_flood_imaged_by_satellites",
-          "publishedAt": "2026-08-31T11:57:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "The electronics ‘under the hood’ of space networking",
           "url": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking",
           "publishedAt": "2026-08-27T14:50:34+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-02T07:00:30+00:00",
+      "updatedAt": "2026-09-02T08:00:28+00:00",
       "stories": [
         {
           "title": "What happens to Canadian science in orbit after the International Space Station is decommissioned?",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-02T07:00:30+00:00",
+      "updatedAt": "2026-09-02T08:00:28+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-02T07:00:30+00:00",
+      "updatedAt": "2026-09-02T08:00:28+00:00",
       "stories": [
         {
           "title": "After over 200 days at sea, USS Abraham Lincoln arrives in Thailand",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-02T07:00:30+00:00",
+      "updatedAt": "2026-09-02T08:00:28+00:00",
       "stories": [
         {
           "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-02T07:00:30+00:00",
+      "updatedAt": "2026-09-02T08:00:28+00:00",
       "stories": [
         {
           "title": "Top 10 robotics stories of August 2026",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-02T07:00:30+00:00",
+    "updatedAt": "2026-09-02T08:00:28+00:00",
     "stories": [
       {
         "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
@@ -513,10 +513,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Two astronauts replace ISS camera and docking aid on 6th-ever all-female spacewalk (video)",
-        "url": "https://www.space.com/space-exploration/international-space-station/two-astronauts-replace-iss-camera-and-docking-aid-on-6th-ever-all-female-spacewalk-video",
-        "publishedAt": "2026-09-01T21:02:07+00:00",
-        "source": "Space.com",
+        "title": "ESA’s first lunar rover rolls forward",
+        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_first_lunar_rover_rolls_forward",
+        "publishedAt": "2026-09-02T07:00:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -689,6 +689,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-14"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-11"
   ]
 }
