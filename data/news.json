@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-09-02T20:00:26+00:00",
+  "generatedAt": "2026-09-02T21:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-02T20:00:26+00:00",
+      "updatedAt": "2026-09-02T21:00:29+00:00",
       "stories": [
         {
           "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
           "url": "https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting",
           "publishedAt": "2026-09-02T12:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "China's private, reusable Pallas-1 rocket aces debut launch (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-private-reusable-pallas-1-rocket-aces-debut-launch-video",
+          "publishedAt": "2026-09-02T20:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "This was always the way: 'The Mandalorian and Grogu' is finally on Disney+",
@@ -35,12 +41,6 @@
           "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole",
           "publishedAt": "2026-09-02T18:00:37+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Blue Origin wins $700 million contract to build NASA's next Mars orbiter",
-          "url": "https://www.space.com/space-exploration/missions/blue-origin-wins-usd700-million-contract-to-build-nasas-next-mars-orbiter",
-          "publishedAt": "2026-09-02T17:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Rising Over Louisiana",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-02T20:00:26+00:00",
+      "updatedAt": "2026-09-02T21:00:29+00:00",
       "stories": [
         {
           "title": "NorthStar leads new ESA project on re-entry prediction",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-02T20:00:26+00:00",
+      "updatedAt": "2026-09-02T21:00:29+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,13 +193,25 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-02T20:00:26+00:00",
+      "updatedAt": "2026-09-02T21:00:29+00:00",
       "stories": [
+        {
+          "title": "GE wins deals for F/A-18 engine parts, hypersonic test",
+          "url": "https://breakingdefense.com/2026/09/ge-wins-deals-for-f-a-18-engine-parts-hypersonic-test",
+          "publishedAt": "2026-09-02T20:23:26+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Army awards first-ever laser production contract to AV, with $465M value",
           "url": "https://breakingdefense.com/2026/09/army-awards-first-ever-laser-production-contract-to-av-with-465m-value",
           "publishedAt": "2026-09-02T19:14:29+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Pentagon seeks access to vast private UFO records collection",
+          "url": "https://defensescoop.com/2026/09/02/pentagon-seeks-access-to-vast-private-ufo-records-collection",
+          "publishedAt": "2026-09-02T20:32:27+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Army awards $192M to Palantir and Anduril to produce TITAN system",
@@ -223,12 +235,6 @@
           "title": "Navy postpones new trainer jet proposal, award dates",
           "url": "https://breakingdefense.com/2026/09/navy-postpones-new-trainer-jet-proposal-award-dates",
           "publishedAt": "2026-09-02T14:12:21+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Physics AI is different and changes the way defense systems are designed",
-          "url": "https://breakingdefense.com/2026/09/physics-ai-is-different-and-changes-the-way-defense-systems-are-designed",
-          "publishedAt": "2026-09-02T12:35:00+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -278,19 +284,13 @@
           "url": "https://www.defensenews.com/news/your-military/2026/09/01/us-approves-possible-800-million-military-helicopter-sale-to-iraq",
           "publishedAt": "2026-09-01T18:14:33+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "Navy kicks off search for first increment of CCA drones",
-          "url": "https://defensescoop.com/2026/09/01/navy-kicks-off-search-for-first-increment-of-cca-drones",
-          "publishedAt": "2026-09-01T19:31:17+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-02T20:00:26+00:00",
+      "updatedAt": "2026-09-02T21:00:29+00:00",
       "stories": [
         {
           "title": "Fable 5.1 ends the frontier's quiet period",
@@ -311,6 +311,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+          "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
+          "publishedAt": "2026-09-02T20:19:14+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
           "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake",
           "publishedAt": "2026-09-02T17:18:13+00:00",
@@ -323,28 +329,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-          "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
-          "publishedAt": "2026-09-02T17:09:06+00:00",
-          "source": "TechCrunch AI"
+          "title": "Atlas: A World Model for Spatial Intelligence (17 minute read)",
+          "url": "https://www.worldlabs.ai/blog/atlas",
+          "publishedAt": "2026-09-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-          "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months",
-          "publishedAt": "2026-09-02T16:04:10+00:00",
-          "source": "TechCrunch AI"
+          "title": "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value (2 minute read)",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODMyMTIxMiwiZXhwIjoxNzg4OTI2MDEyLCJhcnRpY2xlSWQiOiJUS1BPMUNLR1pBSkkwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.1rGcf8yaeGQhjFyQoTUcMYk8s1ZDcadhewKmtfN4Z5A",
+          "publishedAt": "2026-09-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-          "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
-          "publishedAt": "2026-09-02T16:01:48+00:00",
-          "source": "TechCrunch AI"
+          "title": "Hugging Face Attack Postmortem: Civilizations, Reactions, and Next Actions (98 minute read)",
+          "url": "https://thezvi.wordpress.com/2026/09/01/huggingface-attack-postmortem-civilizations-reactions-and-next-actions",
+          "publishedAt": "2026-09-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-          "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
-          "publishedAt": "2026-09-02T15:01:23+00:00",
-          "source": "TechCrunch AI"
+          "title": "Fluid Compute (6 minute read)",
+          "url": "https://vercel.com/blog/fluid-compute-takes-any-shape",
+          "publishedAt": "2026-09-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "What Comes After HBM (7 minute read)",
+          "url": "https://www.mackenziemorehead.com/what-comes-after-hbm",
+          "publishedAt": "2026-09-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The efficient frontier of LLM inference (6 minute read)",
+          "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference",
+          "publishedAt": "2026-09-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Runway's Solaris previews the AI era of interfaces",
@@ -363,31 +381,13 @@
           "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
           "publishedAt": "2026-09-01T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI cuts out Cursor after SpaceX acquisition",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "publishedAt": "2026-08-31T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Court rejects Pentagon's Anthropic blacklist",
-          "url": "https://www.courtlistener.com/docket/72379655/250/anthropic-pbc-v-us-department-of-war",
-          "publishedAt": "2026-08-31T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic wires AI agents into real-world machines",
-          "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-          "publishedAt": "2026-08-28T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-02T20:00:26+00:00",
+      "updatedAt": "2026-09-02T21:00:29+00:00",
       "stories": [
         {
           "title": "NexCOBOT discusses physical AI market hurdles and acceleration",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-02T20:00:26+00:00",
+    "updatedAt": "2026-09-02T21:00:29+00:00",
     "stories": [
       {
         "title": "Fable 5.1 ends the frontier's quiet period",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Army awards first-ever laser production contract to AV, with $465M value",
-        "url": "https://breakingdefense.com/2026/09/army-awards-first-ever-laser-production-contract-to-av-with-465m-value",
-        "publishedAt": "2026-09-02T19:14:29+00:00",
+        "title": "GE wins deals for F/A-18 engine parts, hypersonic test",
+        "url": "https://breakingdefense.com/2026/09/ge-wins-deals-for-f-a-18-engine-parts-hypersonic-test",
+        "publishedAt": "2026-09-02T20:23:26+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -567,12 +567,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Apple, OpenAI trade blame in legal battle",
-        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.94.1.pdf",
-        "publishedAt": "2026-09-02T10:00:00+00:00",
-        "source": "The Rundown AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "Army awards first-ever laser production contract to AV, with $465M value",
+        "url": "https://breakingdefense.com/2026/09/army-awards-first-ever-laser-production-contract-to-av-with-465m-value",
+        "publishedAt": "2026-09-02T19:14:29+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -688,7 +688,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-18"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
   ]
 }
