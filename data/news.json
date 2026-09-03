@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T17:00:31+00:00",
+  "generatedAt": "2026-09-03T17:09:35+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-03T17:00:31+00:00",
+      "updatedAt": "2026-09-03T17:09:35+00:00",
       "stories": [
         {
           "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
@@ -13,10 +13,22 @@
           "source": "SpaceNews"
         },
         {
+          "title": "'Strange New Worlds'' latest episode is a soap opera spoof, but hasn't 'Star Trek' always been a soap opera in space anyway?",
+          "url": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-episode-is-a-soap-opera-spoof-but-hasnt-star-trek-always-been-a-soap-opera-in-space-anyway",
+          "publishedAt": "2026-09-03T17:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "'A new mission starting today': 8 years after launch, BepiColombo begins Mercury arrival",
           "url": "https://www.space.com/space-exploration/missions/a-new-mission-starting-today-8-years-after-launch-bepicolombo-begins-mercury-arrival",
           "publishedAt": "2026-09-03T16:25:20+00:00",
           "source": "Space.com"
+        },
+        {
+          "title": "NASA to Cover Progress 96 Spacecraft Launch, Docking",
+          "url": "https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking",
+          "publishedAt": "2026-09-03T17:06:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "Comet McNaught put on a surprise show this summer: Here's how to spot it before it fades",
@@ -31,12 +43,6 @@
           "source": "NASA"
         },
         {
-          "title": "Mesmerizing plasma loops on the sun | Space photo of the day for Sept. 3, 2026",
-          "url": "https://www.space.com/stargazing/astrophotography/mesmerizing-plasma-loops-on-the-sun-space-photo-of-the-day-for-sept-3-2026",
-          "publishedAt": "2026-09-03T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Igniting Roman’s Journey",
           "url": "https://www.nasa.gov/image-article/igniting-romans-journey",
           "publishedAt": "2026-09-03T14:24:23+00:00",
@@ -47,12 +53,6 @@
           "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
           "publishedAt": "2026-09-03T10:00:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "NASA’s Hubble Spies Superbubble Scene",
-          "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene",
-          "publishedAt": "2026-09-03T13:16:02+00:00",
-          "source": "NASA"
         },
         {
           "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-03T17:00:31+00:00",
+      "updatedAt": "2026-09-03T17:09:35+00:00",
       "stories": [
         {
           "title": "Canadian Space Agency opens latest smartEarth funding opportunity with up to $3M",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-03T17:00:31+00:00",
+      "updatedAt": "2026-09-03T17:09:35+00:00",
       "stories": [
         {
           "title": "Canada concludes 28th Indo-Pacific Chiefs of Defense Conference in Victoria",
@@ -193,8 +193,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-03T17:00:31+00:00",
+      "updatedAt": "2026-09-03T17:09:35+00:00",
       "stories": [
+        {
+          "title": "Oshkosh dangles JLTV bridge option for Marine Corps, but the deadline to take it is looming",
+          "url": "https://breakingdefense.com/2026/09/oshkosh-dangles-jltv-bridge-option-for-marine-corps-but-the-deadline-to-take-it-is-looming",
+          "publishedAt": "2026-09-03T16:58:53+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "The Army shut down a specialized drone unit. Legislators want to know why.",
           "url": "https://www.defensenews.com/news/your-military/2026/09/03/the-army-shut-down-a-specialized-drone-unit-legislators-want-to-know-why",
@@ -229,12 +235,6 @@
           "title": "Hermeus picks Anduril autonomy for Quarterhorse drone",
           "url": "https://breakingdefense.com/2026/09/hermeus-picks-anduril-autonomy-for-quarterhorse-drone",
           "publishedAt": "2026-09-03T13:00:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Winning the information war is as much about ideas and perception as it is about data",
-          "url": "https://breakingdefense.com/2026/09/winning-the-information-war-is-as-much-about-ideas-and-perception-as-it-is-about-data",
-          "publishedAt": "2026-09-03T12:25:00+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-03T17:00:31+00:00",
+      "updatedAt": "2026-09-03T17:09:35+00:00",
       "stories": [
         {
           "title": "Meta, Google join the AI launch party",
@@ -317,45 +317,27 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Muse superapp from Meta and Ava model with computer use (2 minute read)",
-          "url": "https://www.testingcatalog.com/muse-superapp-from-meta-and-ava-model-with-computer-use",
-          "publishedAt": "2026-09-03T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "LLMs: Intelligence vs. cost (11 minute read)",
-          "url": "https://openteams.com/intelligence-vs-cost",
-          "publishedAt": "2026-09-03T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Anthropic Has Some Alignment Problems (23 minute read)",
-          "url": "https://thezvi.substack.com/p/anthropic-has-some-alignment-problems",
-          "publishedAt": "2026-09-03T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How to Build a Reliable Agent Harness (48 minute read)",
-          "url": "https://stencil.so/blog/harness-playbook",
-          "publishedAt": "2026-09-03T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Test Time Training (3 minute read)",
-          "url": "https://ianbarber.blog/2026/09/02/test-time-training",
-          "publishedAt": "2026-09-03T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Google Launches Gemini 3.8 Flash (10 minute read)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber",
-          "publishedAt": "2026-09-03T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
           "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
           "publishedAt": "2026-09-03T12:42:45+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026",
+          "publishedAt": "2026-09-02T23:01:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+          "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
+          "publishedAt": "2026-09-02T22:44:56+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+          "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
+          "publishedAt": "2026-09-02T22:24:09+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -381,13 +363,31 @@
           "url": "https://runway.com/news/research/introducing-solaris",
           "publishedAt": "2026-09-01T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "AI catches heart disease in two seconds",
+          "url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
+          "publishedAt": "2026-09-01T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic tests automated AI safety research",
+          "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+          "publishedAt": "2026-09-01T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI cuts out Cursor after SpaceX acquisition",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "publishedAt": "2026-08-31T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-03T17:00:31+00:00",
+      "updatedAt": "2026-09-03T17:09:35+00:00",
       "stories": [
         {
           "title": "NVIDIA plans to acquire Hugging Face and keep AI development platform open",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-03T17:00:31+00:00",
+    "updatedAt": "2026-09-03T17:09:35+00:00",
     "stories": [
       {
         "title": "Meta, Google join the AI launch party",
@@ -531,10 +531,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The Army shut down a specialized drone unit. Legislators want to know why.",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/03/the-army-shut-down-a-specialized-drone-unit-legislators-want-to-know-why",
-        "publishedAt": "2026-09-03T16:29:47+00:00",
-        "source": "Defense News",
+        "title": "Oshkosh dangles JLTV bridge option for Marine Corps, but the deadline to take it is looming",
+        "url": "https://breakingdefense.com/2026/09/oshkosh-dangles-jltv-bridge-option-for-marine-corps-but-the-deadline-to-take-it-is-looming",
+        "publishedAt": "2026-09-03T16:58:53+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -558,18 +558,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "How Congress is trying to fund the E-7 Wedgetail program",
-        "url": "https://breakingdefense.com/2026/09/how-congress-is-trying-to-fund-the-e-7-wedgetail-program",
-        "publishedAt": "2026-09-03T15:01:09+00:00",
-        "source": "Breaking Defense",
+        "title": "The Army shut down a specialized drone unit. Legislators want to know why.",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/03/the-army-shut-down-a-specialized-drone-unit-legislators-want-to-know-why",
+        "publishedAt": "2026-09-03T16:29:47+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Belgium and India partner on local 70mm rocket assembly, wave of industry agreements",
-        "url": "https://breakingdefense.com/2026/09/belgium-and-india-partner-on-local-70mm-rocket-assembly-wave-of-industry-agreements",
-        "publishedAt": "2026-09-03T14:13:21+00:00",
+        "title": "How Congress is trying to fund the E-7 Wedgetail program",
+        "url": "https://breakingdefense.com/2026/09/how-congress-is-trying-to-fund-the-e-7-wedgetail-program",
+        "publishedAt": "2026-09-03T15:01:09+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -688,6 +688,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-19"
   ]
 }
