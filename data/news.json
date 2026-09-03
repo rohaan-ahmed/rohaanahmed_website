@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T02:00:26+00:00",
+  "generatedAt": "2026-09-03T03:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-03T02:00:26+00:00",
+      "updatedAt": "2026-09-03T03:00:31+00:00",
       "stories": [
         {
           "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-03T02:00:26+00:00",
+      "updatedAt": "2026-09-03T03:00:31+00:00",
       "stories": [
         {
           "title": "NorthStar leads new ESA project on re-entry prediction",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-03T02:00:26+00:00",
+      "updatedAt": "2026-09-03T03:00:31+00:00",
       "stories": [
         {
           "title": "Canada concludes 28th Indo-Pacific Chiefs of Defense Conference in Victoria",
@@ -199,8 +199,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-03T02:00:26+00:00",
+      "updatedAt": "2026-09-03T03:00:31+00:00",
       "stories": [
+        {
+          "title": "Iran war escalation raises concern over civilian death toll",
+          "url": "https://www.defensenews.com/news/your-military/2026/09/03/iran-war-escalation-raises-concern-over-civilian-death-toll",
+          "publishedAt": "2026-09-03T02:46:53+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "US Army awards $192M to Palantir, Anduril for TITAN production",
           "url": "https://www.defensenews.com/industry/techwatch/2026/09/02/us-army-awards-192m-to-palantir-anduril-for-titan-production",
@@ -268,12 +274,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Ousted Ukrainian defense chief lands Palantir CEO as first investor in new venture",
-          "url": "https://www.defensenews.com/global/europe/2026/09/01/ousted-ukrainian-defense-chief-lands-palantir-ceo-as-first-investor-in-new-venture",
-          "publishedAt": "2026-09-01T23:42:38+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Trump announces nomination of Hung Cao as SECNAV",
           "url": "https://defensescoop.com/2026/09/01/trump-announces-nomination-hung-cao-navy-secretary",
           "publishedAt": "2026-09-02T00:55:45+00:00",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-03T02:00:26+00:00",
+      "updatedAt": "2026-09-03T03:00:31+00:00",
       "stories": [
         {
           "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
@@ -335,40 +335,22 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Atlas: A World Model for Spatial Intelligence (17 minute read)",
-          "url": "https://www.worldlabs.ai/blog/atlas",
-          "publishedAt": "2026-09-02T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+          "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
+          "publishedAt": "2026-09-02T20:19:14+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value (2 minute read)",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODMyMTIxMiwiZXhwIjoxNzg4OTI2MDEyLCJhcnRpY2xlSWQiOiJUS1BPMUNLR1pBSkkwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.1rGcf8yaeGQhjFyQoTUcMYk8s1ZDcadhewKmtfN4Z5A",
-          "publishedAt": "2026-09-02T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+          "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake",
+          "publishedAt": "2026-09-02T17:18:13+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Hugging Face Attack Postmortem: Civilizations, Reactions, and Next Actions (98 minute read)",
-          "url": "https://thezvi.wordpress.com/2026/09/01/huggingface-attack-postmortem-civilizations-reactions-and-next-actions",
-          "publishedAt": "2026-09-02T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Fluid Compute (6 minute read)",
-          "url": "https://vercel.com/blog/fluid-compute-takes-any-shape",
-          "publishedAt": "2026-09-02T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "What Comes After HBM (7 minute read)",
-          "url": "https://www.mackenziemorehead.com/what-comes-after-hbm",
-          "publishedAt": "2026-09-02T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The efficient frontier of LLM inference (6 minute read)",
-          "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference",
-          "publishedAt": "2026-09-02T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+          "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo",
+          "publishedAt": "2026-09-02T17:09:57+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Runway's Solaris previews the AI era of interfaces",
@@ -387,13 +369,31 @@
           "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
           "publishedAt": "2026-09-01T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI cuts out Cursor after SpaceX acquisition",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "publishedAt": "2026-08-31T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Court rejects Pentagon's Anthropic blacklist",
+          "url": "https://www.courtlistener.com/docket/72379655/250/anthropic-pbc-v-us-department-of-war",
+          "publishedAt": "2026-08-31T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic wires AI agents into real-world machines",
+          "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+          "publishedAt": "2026-08-28T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-03T02:00:26+00:00",
+      "updatedAt": "2026-09-03T03:00:31+00:00",
       "stories": [
         {
           "title": "NexCOBOT discusses physical AI market hurdles and acceleration",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-03T02:00:26+00:00",
+    "updatedAt": "2026-09-03T03:00:31+00:00",
     "stories": [
       {
         "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "US Army awards $192M to Palantir, Anduril for TITAN production",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/02/us-army-awards-192m-to-palantir-anduril-for-titan-production",
-        "publishedAt": "2026-09-02T21:43:17+00:00",
+        "title": "Iran war escalation raises concern over civilian death toll",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/03/iran-war-escalation-raises-concern-over-civilian-death-toll",
+        "publishedAt": "2026-09-03T02:46:53+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -573,10 +573,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "GE wins deals for F/A-18 engine parts, hypersonic test",
-        "url": "https://breakingdefense.com/2026/09/ge-wins-deals-for-f-a-18-engine-parts-hypersonic-test",
-        "publishedAt": "2026-09-02T20:23:26+00:00",
-        "source": "Breaking Defense",
+        "title": "US Army awards $192M to Palantir, Anduril for TITAN production",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/02/us-army-awards-192m-to-palantir-anduril-for-titan-production",
+        "publishedAt": "2026-09-02T21:43:17+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
@@ -694,6 +694,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-18"
   ]
 }
