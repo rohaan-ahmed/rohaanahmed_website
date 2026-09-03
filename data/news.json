@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-03T12:00:37+00:00",
+  "generatedAt": "2026-09-03T13:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-03T12:00:37+00:00",
+      "updatedAt": "2026-09-03T13:00:31+00:00",
       "stories": [
+        {
+          "title": "Latest updates: BepiColombo's arrival at Mercury",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
+          "publishedAt": "2026-09-03T10:00:00+00:00",
+          "source": "European Space Agency"
+        },
+        {
+          "title": "Watch India launch its 1st geosynchronous Earth-imaging satellite today",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/gslv-mark-ii-eos-05-launch-first-indian-geo-earth-observing-satellite",
+          "publishedAt": "2026-09-03T12:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Rocket issues delay 1st-ever private mission to Venus: 'We are awaiting Neutron readiness'",
           "url": "https://www.space.com/astronomy/venus/rocket-issues-delay-1st-ever-private-mission-to-venus-we-are-awaiting-neutron-readiness",
@@ -37,12 +49,6 @@
           "source": "Space.com"
         },
         {
-          "title": "China's private, reusable Pallas-1 rocket aces debut launch (video)",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-private-reusable-pallas-1-rocket-aces-debut-launch-video",
-          "publishedAt": "2026-09-02T20:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "FLEX and Sentinel-3C sealed within Vega-C fairing",
           "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_sealed_within_Vega-C_fairing",
           "publishedAt": "2026-09-02T16:08:00+00:00",
@@ -64,12 +70,6 @@
           "title": "Cluster’s encore for reentry science a success",
           "url": "https://www.esa.int/Space_Safety/Space_Debris/Cluster_s_encore_for_reentry_science_a_success",
           "publishedAt": "2026-09-02T10:20:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
-          "title": "ESA’s first lunar rover rolls forward",
-          "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_first_lunar_rover_rolls_forward",
-          "publishedAt": "2026-09-02T07:00:00+00:00",
           "source": "European Space Agency"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-03T12:00:37+00:00",
+      "updatedAt": "2026-09-03T13:00:31+00:00",
       "stories": [
         {
           "title": "NorthStar leads new ESA project on re-entry prediction",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-03T12:00:37+00:00",
+      "updatedAt": "2026-09-03T13:00:31+00:00",
       "stories": [
         {
           "title": "Canada concludes 28th Indo-Pacific Chiefs of Defense Conference in Victoria",
@@ -199,13 +199,25 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-03T12:00:37+00:00",
+      "updatedAt": "2026-09-03T13:00:31+00:00",
       "stories": [
+        {
+          "title": "Winning the information war is as much about ideas and perception as it is about data",
+          "url": "https://breakingdefense.com/2026/09/winning-the-information-war-is-as-much-about-ideas-and-perception-as-it-is-about-data",
+          "publishedAt": "2026-09-03T12:25:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Estonian Defense Minister resigns following Ukrainian ammunition procurement scandal",
           "url": "https://breakingdefense.com/2026/09/estonian-defense-minister-resigns-following-ukrainian-ammunition-procurement-scandal",
           "publishedAt": "2026-09-03T11:55:37+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "US Marine Corps plans to use 3D scanners to detect cracked body armor",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-marine-corps-plans-to-use-3d-scanners-to-detect-cracked-body-armor",
+          "publishedAt": "2026-09-03T12:00:01+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Iran war escalation raises concern over civilian death toll",
@@ -244,12 +256,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "In the rush to buy drones, make sure not to stockpile obsolescence",
-          "url": "https://breakingdefense.com/2026/09/in-the-rush-to-buy-drones-make-sure-not-to-stockpile-obsolescence",
-          "publishedAt": "2026-09-02T15:30:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Army awards AeroVironment nearly $500M contract for laser weapons",
           "url": "https://defensescoop.com/2026/09/02/army-awards-aerovironment-nearly-500m-contract-laser-weapons",
           "publishedAt": "2026-09-02T18:54:59+00:00",
@@ -265,12 +271,6 @@
           "title": "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US",
           "url": "https://www.defensenews.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us",
           "publishedAt": "2026-09-02T08:00:10+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "After 286 days at sea, USS Abraham Lincoln arrives in Thailand",
-          "url": "https://www.defensenews.com/news/your-military/2026/09/02/after-over-200-days-at-sea-uss-abraham-lincoln-arrives-in-thailand",
-          "publishedAt": "2026-09-02T04:16:40+00:00",
           "source": "Defense News"
         },
         {
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-03T12:00:37+00:00",
+      "updatedAt": "2026-09-03T13:00:31+00:00",
       "stories": [
         {
           "title": "Meta, Google join the AI launch party",
@@ -311,6 +311,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+          "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
+          "publishedAt": "2026-09-03T12:42:45+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
           "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026",
           "publishedAt": "2026-09-02T23:01:00+00:00",
@@ -320,12 +326,6 @@
           "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
           "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
           "publishedAt": "2026-09-02T22:44:56+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-          "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
-          "publishedAt": "2026-09-02T22:24:09+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -347,45 +347,45 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-          "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
-          "publishedAt": "2026-09-02T20:19:14+00:00",
-          "source": "TechCrunch AI"
+          "title": "Atlas: A World Model for Spatial Intelligence (17 minute read)",
+          "url": "https://www.worldlabs.ai/blog/atlas",
+          "publishedAt": "2026-09-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-          "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake",
-          "publishedAt": "2026-09-02T17:18:13+00:00",
-          "source": "TechCrunch AI"
+          "title": "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value (2 minute read)",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODMyMTIxMiwiZXhwIjoxNzg4OTI2MDEyLCJhcnRpY2xlSWQiOiJUS1BPMUNLR1pBSkkwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.1rGcf8yaeGQhjFyQoTUcMYk8s1ZDcadhewKmtfN4Z5A",
+          "publishedAt": "2026-09-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-          "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo",
-          "publishedAt": "2026-09-02T17:09:57+00:00",
-          "source": "TechCrunch AI"
+          "title": "Hugging Face Attack Postmortem: Civilizations, Reactions, and Next Actions (98 minute read)",
+          "url": "https://thezvi.wordpress.com/2026/09/01/huggingface-attack-postmortem-civilizations-reactions-and-next-actions",
+          "publishedAt": "2026-09-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Fluid Compute (6 minute read)",
+          "url": "https://vercel.com/blog/fluid-compute-takes-any-shape",
+          "publishedAt": "2026-09-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "What Comes After HBM (7 minute read)",
+          "url": "https://www.mackenziemorehead.com/what-comes-after-hbm",
+          "publishedAt": "2026-09-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The efficient frontier of LLM inference (6 minute read)",
+          "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference",
+          "publishedAt": "2026-09-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Runway's Solaris previews the AI era of interfaces",
           "url": "https://runway.com/news/research/introducing-solaris",
           "publishedAt": "2026-09-01T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI catches heart disease in two seconds",
-          "url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
-          "publishedAt": "2026-09-01T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic tests automated AI safety research",
-          "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
-          "publishedAt": "2026-09-01T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI cuts out Cursor after SpaceX acquisition",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-          "publishedAt": "2026-08-31T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -393,13 +393,19 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-03T12:00:37+00:00",
+      "updatedAt": "2026-09-03T13:00:31+00:00",
       "stories": [
         {
           "title": "PlusAI to take autonomous trucking public via a SPAC deal",
           "url": "https://www.therobotreport.com/plusai-takes-autonomous-trucking-public-via-spac-deal",
           "publishedAt": "2026-09-03T10:00:14+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "The Best Way to Explore Lunar Craters Is a Giant Robot Ball",
+          "url": "https://spectrum.ieee.org/moon-ball-robot",
+          "publishedAt": "2026-09-03T12:00:01+00:00",
+          "source": "IEEE Spectrum Robotics"
         },
         {
           "title": "NexCOBOT discusses physical AI market hurdles and acceleration",
@@ -474,12 +480,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "Robot brain builders are pushing out of their GPT-2 era",
-          "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era",
-          "publishedAt": "2026-08-26T13:30:00+00:00",
-          "source": "TechCrunch Robotics"
-        },
-        {
           "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
           "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
           "publishedAt": "2026-08-25T10:00:03+00:00",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-03T12:00:37+00:00",
+    "updatedAt": "2026-09-03T13:00:31+00:00",
     "stories": [
       {
         "title": "Meta, Google join the AI launch party",
@@ -519,10 +519,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Rocket issues delay 1st-ever private mission to Venus: 'We are awaiting Neutron readiness'",
-        "url": "https://www.space.com/astronomy/venus/rocket-issues-delay-1st-ever-private-mission-to-venus-we-are-awaiting-neutron-readiness",
+        "title": "Latest updates: BepiColombo's arrival at Mercury",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
         "publishedAt": "2026-09-03T10:00:00+00:00",
-        "source": "Space.com",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Estonian Defense Minister resigns following Ukrainian ammunition procurement scandal",
-        "url": "https://breakingdefense.com/2026/09/estonian-defense-minister-resigns-following-ukrainian-ammunition-procurement-scandal",
-        "publishedAt": "2026-09-03T11:55:37+00:00",
+        "title": "Winning the information war is as much about ideas and perception as it is about data",
+        "url": "https://breakingdefense.com/2026/09/winning-the-information-war-is-as-much-about-ideas-and-perception-as-it-is-about-data",
+        "publishedAt": "2026-09-03T12:25:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -555,30 +555,30 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Iran war escalation raises concern over civilian death toll",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/03/iran-war-escalation-raises-concern-over-civilian-death-toll",
-        "publishedAt": "2026-09-03T02:46:53+00:00",
+        "title": "Estonian Defense Minister resigns following Ukrainian ammunition procurement scandal",
+        "url": "https://breakingdefense.com/2026/09/estonian-defense-minister-resigns-following-ukrainian-ammunition-procurement-scandal",
+        "publishedAt": "2026-09-03T11:55:37+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "US Marine Corps plans to use 3D scanners to detect cracked body armor",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-marine-corps-plans-to-use-3d-scanners-to-detect-cracked-body-armor",
+        "publishedAt": "2026-09-03T12:00:01+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "MDA Space wants to build $1-billion Canadian suppliers",
-        "url": "https://spaceq.ca/mda-space-wants-1-billion-canadian-suppliers",
-        "publishedAt": "2026-09-02T15:46:00+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork",
-        "publishedAt": "2026-09-03T04:05:00+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "The Best Way to Explore Lunar Craters Is a Giant Robot Ball",
+        "url": "https://spectrum.ieee.org/moon-ball-robot",
+        "publishedAt": "2026-09-03T12:00:01+00:00",
+        "source": "IEEE Spectrum Robotics",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -694,7 +694,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-18"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
   ]
 }
