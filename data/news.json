@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T13:31:06+00:00",
+  "generatedAt": "2026-09-03T14:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-03T13:31:06+00:00",
+      "updatedAt": "2026-09-03T14:00:31+00:00",
       "stories": [
         {
           "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
@@ -17,6 +17,12 @@
           "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
           "publishedAt": "2026-09-03T10:00:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "NASA’s Hubble Spies Superbubble Scene",
+          "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene",
+          "publishedAt": "2026-09-03T13:16:02+00:00",
+          "source": "NASA"
         },
         {
           "title": "Watch India launch its 1st geosynchronous Earth-imaging satellite today",
@@ -61,12 +67,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
-          "url": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers",
-          "publishedAt": "2026-09-02T19:01:05+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Third spacewalk completed for Sophie Adenot",
           "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot",
           "publishedAt": "2026-09-02T11:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-03T13:31:06+00:00",
+      "updatedAt": "2026-09-03T14:00:31+00:00",
       "stories": [
         {
           "title": "NorthStar leads new ESA project on re-entry prediction",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-03T13:31:06+00:00",
+      "updatedAt": "2026-09-03T14:00:31+00:00",
       "stories": [
         {
           "title": "Canada concludes 28th Indo-Pacific Chiefs of Defense Conference in Victoria",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-03T13:31:06+00:00",
+      "updatedAt": "2026-09-03T14:00:31+00:00",
       "stories": [
         {
           "title": "GE Aerospace to provide marine gas turbine engines for South Korea’s KDDX destroyers",
@@ -226,7 +226,7 @@
           "source": "Defense News"
         },
         {
-          "title": "Estonian Defense Minister resigns following Ukrainian ammunition procurement scandal",
+          "title": "Estonian defense minister resigns following Ukrainian ammo procurement controversy",
           "url": "https://breakingdefense.com/2026/09/estonian-defense-minister-resigns-following-ukrainian-ammunition-procurement-scandal",
           "publishedAt": "2026-09-03T11:55:37+00:00",
           "source": "Breaking Defense"
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-03T13:31:06+00:00",
+      "updatedAt": "2026-09-03T14:00:31+00:00",
       "stories": [
         {
           "title": "Meta, Google join the AI launch party",
@@ -309,6 +309,42 @@
           "url": "https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns?rc=a8sc5q",
           "publishedAt": "2026-09-03T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Muse superapp from Meta and Ava model with computer use (2 minute read)",
+          "url": "https://www.testingcatalog.com/muse-superapp-from-meta-and-ava-model-with-computer-use",
+          "publishedAt": "2026-09-03T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How to Build a Reliable Agent Harness (48 minute read)",
+          "url": "https://stencil.so/blog/harness-playbook",
+          "publishedAt": "2026-09-03T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "LLMs: Intelligence vs. cost (11 minute read)",
+          "url": "https://openteams.com/intelligence-vs-cost",
+          "publishedAt": "2026-09-03T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Test Time Training (3 minute read)",
+          "url": "https://ianbarber.blog/2026/09/02/test-time-training",
+          "publishedAt": "2026-09-03T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Anthropic Has Some Alignment Problems (23 minute read)",
+          "url": "https://thezvi.substack.com/p/anthropic-has-some-alignment-problems",
+          "publishedAt": "2026-09-03T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Run cloud agents on machines you manage (6 minute read)",
+          "url": "https://cursor.com/blog/self-hosted-machines",
+          "publishedAt": "2026-09-03T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
@@ -347,42 +383,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Atlas: A World Model for Spatial Intelligence (17 minute read)",
-          "url": "https://www.worldlabs.ai/blog/atlas",
-          "publishedAt": "2026-09-02T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value (2 minute read)",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODMyMTIxMiwiZXhwIjoxNzg4OTI2MDEyLCJhcnRpY2xlSWQiOiJUS1BPMUNLR1pBSkkwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.1rGcf8yaeGQhjFyQoTUcMYk8s1ZDcadhewKmtfN4Z5A",
-          "publishedAt": "2026-09-02T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Hugging Face Attack Postmortem: Civilizations, Reactions, and Next Actions (98 minute read)",
-          "url": "https://thezvi.wordpress.com/2026/09/01/huggingface-attack-postmortem-civilizations-reactions-and-next-actions",
-          "publishedAt": "2026-09-02T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Fluid Compute (6 minute read)",
-          "url": "https://vercel.com/blog/fluid-compute-takes-any-shape",
-          "publishedAt": "2026-09-02T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "What Comes After HBM (7 minute read)",
-          "url": "https://www.mackenziemorehead.com/what-comes-after-hbm",
-          "publishedAt": "2026-09-02T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The efficient frontier of LLM inference (6 minute read)",
-          "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference",
-          "publishedAt": "2026-09-02T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Runway's Solaris previews the AI era of interfaces",
           "url": "https://runway.com/news/research/introducing-solaris",
           "publishedAt": "2026-09-01T10:00:00+00:00",
@@ -393,13 +393,19 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-03T13:31:06+00:00",
+      "updatedAt": "2026-09-03T14:00:31+00:00",
       "stories": [
         {
           "title": "PlusAI to take autonomous trucking public via a SPAC deal",
           "url": "https://www.therobotreport.com/plusai-takes-autonomous-trucking-public-via-spac-deal",
           "publishedAt": "2026-09-03T10:00:14+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "Protecting Dynamic Industrial Robot Cable Carriers",
+          "url": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
+          "publishedAt": "2026-09-03T12:18:21+00:00",
+          "source": "IEEE Spectrum Robotics"
         },
         {
           "title": "The Best Way to Explore Lunar Craters Is a Giant Robot Ball",
@@ -444,12 +450,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Visko launches Orbis live model and closes pre-seed funding round",
-          "url": "https://www.therobotreport.com/visko-launches-orbis-live-model-closes-pre-seed-funding-round",
-          "publishedAt": "2026-09-01T16:00:01+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "The US is building barriers around drones and robots, but China has scale to get around them",
           "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale",
           "publishedAt": "2026-08-31T02:34:00+00:00",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-03T13:31:06+00:00",
+    "updatedAt": "2026-09-03T14:00:31+00:00",
     "stories": [
       {
         "title": "Meta, Google join the AI launch party",
