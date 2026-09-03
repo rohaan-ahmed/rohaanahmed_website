@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-03T10:00:34+00:00",
+  "generatedAt": "2026-09-03T11:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-03T10:00:34+00:00",
+      "updatedAt": "2026-09-03T11:00:31+00:00",
       "stories": [
+        {
+          "title": "Rocket issues delay 1st-ever private mission to Venus: 'We are awaiting Neutron readiness'",
+          "url": "https://www.space.com/astronomy/venus/rocket-issues-delay-1st-ever-private-mission-to-venus-we-are-awaiting-neutron-readiness",
+          "publishedAt": "2026-09-03T10:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
           "url": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork",
@@ -34,12 +40,6 @@
           "title": "China's private, reusable Pallas-1 rocket aces debut launch (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-private-reusable-pallas-1-rocket-aces-debut-launch-video",
           "publishedAt": "2026-09-02T20:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "This was always the way: 'The Mandalorian and Grogu' is finally on Disney+",
-          "url": "https://www.space.com/entertainment/space-movies-shows/this-was-always-the-way-the-mandalorian-and-grogu-is-finally-on-disney",
-          "publishedAt": "2026-09-02T19:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-03T10:00:34+00:00",
+      "updatedAt": "2026-09-03T11:00:31+00:00",
       "stories": [
         {
           "title": "NorthStar leads new ESA project on re-entry prediction",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-03T10:00:34+00:00",
+      "updatedAt": "2026-09-03T11:00:31+00:00",
       "stories": [
         {
           "title": "Canada concludes 28th Indo-Pacific Chiefs of Defense Conference in Victoria",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-03T10:00:34+00:00",
+      "updatedAt": "2026-09-03T11:00:31+00:00",
       "stories": [
         {
           "title": "Iran war escalation raises concern over civilian death toll",
@@ -296,8 +296,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-03T10:00:34+00:00",
+      "updatedAt": "2026-09-03T11:00:31+00:00",
       "stories": [
+        {
+          "title": "Meta, Google join the AI launch party",
+          "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+          "publishedAt": "2026-09-03T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Report: OpenAI’s loops hit AI safety monitoring",
+          "url": "https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns?rc=a8sc5q",
+          "publishedAt": "2026-09-03T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
           "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026",
@@ -375,26 +387,20 @@
           "url": "https://runway.com/news/research/introducing-solaris",
           "publishedAt": "2026-09-01T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "AI catches heart disease in two seconds",
-          "url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
-          "publishedAt": "2026-09-01T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic tests automated AI safety research",
-          "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
-          "publishedAt": "2026-09-01T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-03T10:00:34+00:00",
+      "updatedAt": "2026-09-03T11:00:31+00:00",
       "stories": [
+        {
+          "title": "PlusAI to take autonomous trucking public via a SPAC deal",
+          "url": "https://www.therobotreport.com/plusai-takes-autonomous-trucking-public-via-spac-deal",
+          "publishedAt": "2026-09-03T10:00:14+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "NexCOBOT discusses physical AI market hurdles and acceleration",
           "url": "https://www.therobotreport.com/nexcobot-discusses-physical-ai-market-hurdles-and-acceleration",
@@ -435,12 +441,6 @@
           "title": "Visko launches Orbis live model and closes pre-seed funding round",
           "url": "https://www.therobotreport.com/visko-launches-orbis-live-model-closes-pre-seed-funding-round",
           "publishedAt": "2026-09-01T16:00:01+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "The Missing Layer in Robot Safety Assurance",
-          "url": "https://www.therobotreport.com/the-missing-layer-in-robot-safety-assurance",
-          "publishedAt": "2026-09-01T13:56:53+00:00",
           "source": "The Robot Report"
         },
         {
@@ -489,22 +489,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-03T10:00:34+00:00",
+    "updatedAt": "2026-09-03T11:00:31+00:00",
     "stories": [
       {
-        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026",
-        "publishedAt": "2026-09-02T23:01:00+00:00",
-        "source": "TechCrunch AI",
+        "title": "Meta, Google join the AI launch party",
+        "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+        "publishedAt": "2026-09-03T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
-        "publishedAt": "2026-09-02T22:44:56+00:00",
-        "source": "TechCrunch AI",
+        "title": "Report: OpenAI’s loops hit AI safety monitoring",
+        "url": "https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns?rc=a8sc5q",
+        "publishedAt": "2026-09-03T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -519,10 +519,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork",
-        "publishedAt": "2026-09-03T04:05:00+00:00",
-        "source": "NASA",
+        "title": "Rocket issues delay 1st-ever private mission to Venus: 'We are awaiting Neutron readiness'",
+        "url": "https://www.space.com/astronomy/venus/rocket-issues-delay-1st-ever-private-mission-to-venus-we-are-awaiting-neutron-readiness",
+        "publishedAt": "2026-09-03T10:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -546,9 +546,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NexCOBOT discusses physical AI market hurdles and acceleration",
-        "url": "https://www.therobotreport.com/nexcobot-discusses-physical-ai-market-hurdles-and-acceleration",
-        "publishedAt": "2026-09-02T19:45:19+00:00",
+        "title": "PlusAI to take autonomous trucking public via a SPAC deal",
+        "url": "https://www.therobotreport.com/plusai-takes-autonomous-trucking-public-via-spac-deal",
+        "publishedAt": "2026-09-03T10:00:14+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -564,21 +564,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Peatland Fires Darken Skies in Indonesia",
-        "url": "https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia",
-        "publishedAt": "2026-09-03T04:01:00+00:00",
+        "title": "APOD: 2026 September 3 – The Eclipse and the Stork",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork",
+        "publishedAt": "2026-09-03T04:05:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Deadline extended for Maritime Launch Services and Isar Aerospace statement of work",
-        "url": "https://spaceq.ca/deadline-extended-for-maritime-launch-services-and-isar-aerospace-statement-of-work",
-        "publishedAt": "2026-09-02T14:24:33+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
+        "title": "Peatland Fires Darken Skies in Indonesia",
+        "url": "https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia",
+        "publishedAt": "2026-09-03T04:01:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
