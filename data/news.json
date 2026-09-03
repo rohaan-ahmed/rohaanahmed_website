@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-02T23:00:29+00:00",
+  "generatedAt": "2026-09-03T00:00:36+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-02T23:00:29+00:00",
+      "updatedAt": "2026-09-03T00:00:36+00:00",
       "stories": [
         {
           "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-02T23:00:29+00:00",
+      "updatedAt": "2026-09-03T00:00:36+00:00",
       "stories": [
         {
           "title": "NorthStar leads new ESA project on re-entry prediction",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-02T23:00:29+00:00",
+      "updatedAt": "2026-09-03T00:00:36+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces Launch Operation NANOOK NUNAKPUT to Strengthen Security Along the Canadian Arctic Archipelago",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-02T23:00:29+00:00",
+      "updatedAt": "2026-09-03T00:00:36+00:00",
       "stories": [
         {
           "title": "US Army awards $192M to Palantir, Anduril for TITAN production",
@@ -290,8 +290,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-02T23:00:29+00:00",
+      "updatedAt": "2026-09-03T00:00:36+00:00",
       "stories": [
+        {
+          "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026",
+          "publishedAt": "2026-09-02T23:01:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
           "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
@@ -321,12 +327,6 @@
           "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.94.1.pdf",
           "publishedAt": "2026-09-02T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-          "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
-          "publishedAt": "2026-09-02T20:19:14+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "Atlas: A World Model for Spatial Intelligence (17 minute read)",
@@ -387,13 +387,19 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-02T23:00:29+00:00",
+      "updatedAt": "2026-09-03T00:00:36+00:00",
       "stories": [
         {
           "title": "NexCOBOT discusses physical AI market hurdles and acceleration",
           "url": "https://www.therobotreport.com/nexcobot-discusses-physical-ai-market-hurdles-and-acceleration",
           "publishedAt": "2026-09-02T19:45:19+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026",
+          "publishedAt": "2026-09-02T23:01:00+00:00",
+          "source": "TechCrunch Robotics"
         },
         {
           "title": "Learn why food is physical AI’s hardest problem at RoboBusiness",
@@ -468,12 +474,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-          "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say",
-          "publishedAt": "2026-08-26T00:40:59+00:00",
-          "source": "TechCrunch Robotics"
-        },
-        {
           "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
           "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
           "publishedAt": "2026-08-25T10:00:03+00:00",
@@ -483,21 +483,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-02T23:00:29+00:00",
+    "updatedAt": "2026-09-03T00:00:36+00:00",
     "stories": [
       {
-        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
-        "publishedAt": "2026-09-02T22:44:56+00:00",
+        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026",
+        "publishedAt": "2026-09-02T23:01:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-        "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
-        "publishedAt": "2026-09-02T22:24:09+00:00",
+        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
+        "publishedAt": "2026-09-02T22:44:56+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
