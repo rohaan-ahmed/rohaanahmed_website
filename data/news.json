@@ -1,17 +1,11 @@
 {
-  "generatedAt": "2026-09-03T23:00:29+00:00",
+  "generatedAt": "2026-09-03T23:39:50+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-03T23:00:29+00:00",
+      "updatedAt": "2026-09-03T23:39:50+00:00",
       "stories": [
-        {
-          "title": "Schiess takes command of Space Force as the service prepares for expansion",
-          "url": "https://spacenews.com/schiess-takes-command-of-space-force-as-the-service-prepares-for-expansion",
-          "publishedAt": "2026-09-03T21:03:23+00:00",
-          "source": "SpaceNews"
-        },
         {
           "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
           "url": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager",
@@ -95,13 +89,19 @@
           "url": "https://spacenews.com/speed-to-field-starts-below-the-prime",
           "publishedAt": "2026-08-31T13:30:43+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "The electronics ‘under the hood’ of space networking",
+          "url": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking",
+          "publishedAt": "2026-08-27T14:50:34+00:00",
+          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-03T23:00:29+00:00",
+      "updatedAt": "2026-09-03T23:39:50+00:00",
       "stories": [
         {
           "title": "Canadian Space Agency opens latest smartEarth funding opportunity with up to $3M",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-03T23:00:29+00:00",
+      "updatedAt": "2026-09-03T23:39:50+00:00",
       "stories": [
         {
           "title": "Canada concludes 28th Indo-Pacific Chiefs of Defense Conference in Victoria",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-03T23:00:29+00:00",
+      "updatedAt": "2026-09-03T23:39:50+00:00",
       "stories": [
         {
           "title": "After ‘concerning’ losses, Air Force pushes to replace Reaper faster",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-03T23:00:29+00:00",
+      "updatedAt": "2026-09-03T23:39:50+00:00",
       "stories": [
         {
           "title": "Meta, Google join the AI launch party",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-03T23:00:29+00:00",
+      "updatedAt": "2026-09-03T23:39:50+00:00",
       "stories": [
         {
           "title": "Medtronic invests $700M in surgical partner Cornerstone Robotics",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-03T23:00:29+00:00",
+    "updatedAt": "2026-09-03T23:39:50+00:00",
     "stories": [
       {
         "title": "Meta, Google join the AI launch party",
@@ -513,9 +513,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Schiess takes command of Space Force as the service prepares for expansion",
-        "url": "https://spacenews.com/schiess-takes-command-of-space-force-as-the-service-prepares-for-expansion",
-        "publishedAt": "2026-09-03T21:03:23+00:00",
+        "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
+        "url": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager",
+        "publishedAt": "2026-09-03T13:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -558,19 +558,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
-        "url": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager",
-        "publishedAt": "2026-09-03T13:00:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
         "title": "Why the Army wants to deploy nuclear microreactors on US bases",
         "url": "https://breakingdefense.com/2026/09/why-the-army-wants-to-deploy-nuclear-microreactors-on-us-bases",
         "publishedAt": "2026-09-03T20:40:00+00:00",
         "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "US Army launches laser production with $465M contract award",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-army-launches-laser-production-with-465m-contract-award",
+        "publishedAt": "2026-09-03T19:54:51+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
