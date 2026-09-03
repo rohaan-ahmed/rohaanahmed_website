@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T19:00:29+00:00",
+  "generatedAt": "2026-09-03T19:47:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-03T19:00:29+00:00",
+      "updatedAt": "2026-09-03T19:47:26+00:00",
       "stories": [
         {
           "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-03T19:00:29+00:00",
+      "updatedAt": "2026-09-03T19:47:26+00:00",
       "stories": [
         {
           "title": "Canadian Space Agency opens latest smartEarth funding opportunity with up to $3M",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-03T19:00:29+00:00",
+      "updatedAt": "2026-09-03T19:47:26+00:00",
       "stories": [
         {
           "title": "Canada concludes 28th Indo-Pacific Chiefs of Defense Conference in Victoria",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-03T19:00:29+00:00",
+      "updatedAt": "2026-09-03T19:47:26+00:00",
       "stories": [
         {
           "title": "Three exercises that pushed counter–UAS from prototype to proven",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-03T19:00:29+00:00",
+      "updatedAt": "2026-09-03T19:47:26+00:00",
       "stories": [
         {
           "title": "Meta, Google join the AI launch party",
@@ -305,6 +305,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+          "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation",
+          "publishedAt": "2026-09-03T19:36:29+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Abliteration.ai is making a business out of removing AI guardrails",
           "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
           "publishedAt": "2026-09-03T18:37:57+00:00",
@@ -314,12 +320,6 @@
           "title": "Meta is paying to peek at how you use their latest AI model",
           "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
           "publishedAt": "2026-09-03T18:19:56+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
-          "publishedAt": "2026-09-03T18:01:45+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -387,8 +387,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-03T19:00:29+00:00",
+      "updatedAt": "2026-09-03T19:47:26+00:00",
       "stories": [
+        {
+          "title": "Medtronic invests $700M in surgical partner Cornerstone Robotics",
+          "url": "https://www.therobotreport.com/medtronic-invests-700m-in-surgical-partner-cornerstone-robotics",
+          "publishedAt": "2026-09-03T18:53:54+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "JAKA hits Teradyne Robotics back over patent dispute",
           "url": "https://www.therobotreport.com/jaka-hits-teradyne-robotics-back-over-patent-dispute",
@@ -438,12 +444,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "AIR to use Elmo Motion Control technology in uncrewed cargo aircraft",
-          "url": "https://www.therobotreport.com/air-uses-elmo-motion-control-technology-in-uncrewed-cargo-aircraft",
-          "publishedAt": "2026-09-02T15:29:23+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "The US is building barriers around drones and robots, but China has scale to get around them",
           "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale",
           "publishedAt": "2026-08-31T02:34:00+00:00",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-03T19:00:29+00:00",
+    "updatedAt": "2026-09-03T19:47:26+00:00",
     "stories": [
       {
         "title": "Meta, Google join the AI launch party",
@@ -540,9 +540,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "JAKA hits Teradyne Robotics back over patent dispute",
-        "url": "https://www.therobotreport.com/jaka-hits-teradyne-robotics-back-over-patent-dispute",
-        "publishedAt": "2026-09-03T17:44:20+00:00",
+        "title": "Medtronic invests $700M in surgical partner Cornerstone Robotics",
+        "url": "https://www.therobotreport.com/medtronic-invests-700m-in-surgical-partner-cornerstone-robotics",
+        "publishedAt": "2026-09-03T18:53:54+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -558,18 +558,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "To counter China, America’s next CCA needs a different mission",
-        "url": "https://breakingdefense.com/2026/09/to-counter-china-americas-next-cca-needs-a-different-mission",
-        "publishedAt": "2026-09-03T17:38:58+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "JAKA hits Teradyne Robotics back over patent dispute",
+        "url": "https://www.therobotreport.com/jaka-hits-teradyne-robotics-back-over-patent-dispute",
+        "publishedAt": "2026-09-03T17:44:20+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Oshkosh dangles JLTV bridge option for Marine Corps, but the deadline is looming",
-        "url": "https://breakingdefense.com/2026/09/oshkosh-dangles-jltv-bridge-option-for-marine-corps-but-the-deadline-to-take-it-is-looming",
-        "publishedAt": "2026-09-03T16:58:53+00:00",
+        "title": "To counter China, America’s next CCA needs a different mission",
+        "url": "https://breakingdefense.com/2026/09/to-counter-china-americas-next-cca-needs-a-different-mission",
+        "publishedAt": "2026-09-03T17:38:58+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
