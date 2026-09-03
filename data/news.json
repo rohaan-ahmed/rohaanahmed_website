@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-03T13:00:31+00:00",
+  "generatedAt": "2026-09-03T13:31:06+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-03T13:00:31+00:00",
+      "updatedAt": "2026-09-03T13:31:06+00:00",
       "stories": [
+        {
+          "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
+          "url": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager",
+          "publishedAt": "2026-09-03T13:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Latest updates: BepiColombo's arrival at Mercury",
           "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
@@ -89,19 +95,13 @@
           "url": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking",
           "publishedAt": "2026-08-27T14:50:34+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "LatConnect 60 and Phi Earth Partner to Connect Space and Soil",
-          "url": "https://spacenews.com/latconnect-60-and-phi-earth-partner-to-connect-space-and-soil",
-          "publishedAt": "2026-08-27T01:54:19+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-03T13:00:31+00:00",
+      "updatedAt": "2026-09-03T13:31:06+00:00",
       "stories": [
         {
           "title": "NorthStar leads new ESA project on re-entry prediction",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-03T13:00:31+00:00",
+      "updatedAt": "2026-09-03T13:31:06+00:00",
       "stories": [
         {
           "title": "Canada concludes 28th Indo-Pacific Chiefs of Defense Conference in Victoria",
@@ -199,13 +199,31 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-03T13:00:31+00:00",
+      "updatedAt": "2026-09-03T13:31:06+00:00",
       "stories": [
+        {
+          "title": "GE Aerospace to provide marine gas turbine engines for South Korea’s KDDX destroyers",
+          "url": "https://breakingdefense.com/2026/09/ge-aerospace-to-provide-marine-gas-turbine-engines-for-south-koreas-kddx-destroyers",
+          "publishedAt": "2026-09-03T13:14:59+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Hermeus picks Anduril autonomy for Quarterhorse drone",
+          "url": "https://breakingdefense.com/2026/09/hermeus-picks-anduril-autonomy-for-quarterhorse-drone",
+          "publishedAt": "2026-09-03T13:00:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Winning the information war is as much about ideas and perception as it is about data",
           "url": "https://breakingdefense.com/2026/09/winning-the-information-war-is-as-much-about-ideas-and-perception-as-it-is-about-data",
           "publishedAt": "2026-09-03T12:25:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Chinese military analysts can’t wait for the US Navy’s battleship era",
+          "url": "https://www.defensenews.com/opinion/2026/09/03/chinese-military-analysts-cant-wait-for-the-us-navys-battleship-era",
+          "publishedAt": "2026-09-03T12:58:34+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Estonian Defense Minister resigns following Ukrainian ammunition procurement scandal",
@@ -238,22 +256,10 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Army awards first-ever laser production contract to AV, with $465M value",
-          "url": "https://breakingdefense.com/2026/09/army-awards-first-ever-laser-production-contract-to-av-with-465m-value",
-          "publishedAt": "2026-09-02T19:14:29+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Pentagon seeks access to vast private UFO records collection",
           "url": "https://defensescoop.com/2026/09/02/pentagon-seeks-access-to-vast-private-ufo-records-collection",
           "publishedAt": "2026-09-02T20:32:27+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Army awards $192M to Palantir and Anduril to produce TITAN system",
-          "url": "https://breakingdefense.com/2026/09/army-awards-192m-to-palantir-and-anduril-to-produce-titan-system",
-          "publishedAt": "2026-09-02T16:30:00+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Army awards AeroVironment nearly $500M contract for laser weapons",
@@ -265,12 +271,6 @@
           "title": "German government blames Russia for Leipzig airport drone attack with explosives",
           "url": "https://www.defensenews.com/global/europe/2026/09/02/german-government-blames-russia-for-leipzig-airport-drone-attack-with-explosives",
           "publishedAt": "2026-09-02T08:33:53+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US",
-          "url": "https://www.defensenews.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us",
-          "publishedAt": "2026-09-02T08:00:10+00:00",
           "source": "Defense News"
         },
         {
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-03T13:00:31+00:00",
+      "updatedAt": "2026-09-03T13:31:06+00:00",
       "stories": [
         {
           "title": "Meta, Google join the AI launch party",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-03T13:00:31+00:00",
+      "updatedAt": "2026-09-03T13:31:06+00:00",
       "stories": [
         {
           "title": "PlusAI to take autonomous trucking public via a SPAC deal",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-03T13:00:31+00:00",
+    "updatedAt": "2026-09-03T13:31:06+00:00",
     "stories": [
       {
         "title": "Meta, Google join the AI launch party",
@@ -519,10 +519,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Latest updates: BepiColombo's arrival at Mercury",
-        "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
-        "publishedAt": "2026-09-03T10:00:00+00:00",
-        "source": "European Space Agency",
+        "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
+        "url": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager",
+        "publishedAt": "2026-09-03T13:00:00+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Winning the information war is as much about ideas and perception as it is about data",
-        "url": "https://breakingdefense.com/2026/09/winning-the-information-war-is-as-much-about-ideas-and-perception-as-it-is-about-data",
-        "publishedAt": "2026-09-03T12:25:00+00:00",
+        "title": "GE Aerospace to provide marine gas turbine engines for South Korea’s KDDX destroyers",
+        "url": "https://breakingdefense.com/2026/09/ge-aerospace-to-provide-marine-gas-turbine-engines-for-south-koreas-kddx-destroyers",
+        "publishedAt": "2026-09-03T13:14:59+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -555,30 +555,30 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Estonian Defense Minister resigns following Ukrainian ammunition procurement scandal",
-        "url": "https://breakingdefense.com/2026/09/estonian-defense-minister-resigns-following-ukrainian-ammunition-procurement-scandal",
-        "publishedAt": "2026-09-03T11:55:37+00:00",
+        "title": "Hermeus picks Anduril autonomy for Quarterhorse drone",
+        "url": "https://breakingdefense.com/2026/09/hermeus-picks-anduril-autonomy-for-quarterhorse-drone",
+        "publishedAt": "2026-09-03T13:00:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "US Marine Corps plans to use 3D scanners to detect cracked body armor",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-marine-corps-plans-to-use-3d-scanners-to-detect-cracked-body-armor",
-        "publishedAt": "2026-09-03T12:00:01+00:00",
-        "source": "Defense News",
+        "title": "Winning the information war is as much about ideas and perception as it is about data",
+        "url": "https://breakingdefense.com/2026/09/winning-the-information-war-is-as-much-about-ideas-and-perception-as-it-is-about-data",
+        "publishedAt": "2026-09-03T12:25:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "The Best Way to Explore Lunar Craters Is a Giant Robot Ball",
-        "url": "https://spectrum.ieee.org/moon-ball-robot",
-        "publishedAt": "2026-09-03T12:00:01+00:00",
-        "source": "IEEE Spectrum Robotics",
-        "topicId": "robotics",
-        "topicName": "Robotics",
+        "title": "Chinese military analysts can’t wait for the US Navy’s battleship era",
+        "url": "https://www.defensenews.com/opinion/2026/09/03/chinese-military-analysts-cant-wait-for-the-us-navys-battleship-era",
+        "publishedAt": "2026-09-03T12:58:34+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
