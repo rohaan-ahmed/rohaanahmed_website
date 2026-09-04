@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T23:39:50+00:00",
+  "generatedAt": "2026-09-04T00:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-03T23:39:50+00:00",
+      "updatedAt": "2026-09-04T00:00:32+00:00",
       "stories": [
         {
           "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-03T23:39:50+00:00",
+      "updatedAt": "2026-09-04T00:00:32+00:00",
       "stories": [
         {
           "title": "Canadian Space Agency opens latest smartEarth funding opportunity with up to $3M",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-03T23:39:50+00:00",
+      "updatedAt": "2026-09-04T00:00:32+00:00",
       "stories": [
         {
           "title": "Canada concludes 28th Indo-Pacific Chiefs of Defense Conference in Victoria",
@@ -193,8 +193,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-03T23:39:50+00:00",
+      "updatedAt": "2026-09-04T00:00:32+00:00",
       "stories": [
+        {
+          "title": "Trump taps Adam Telle as acting Army secretary",
+          "url": "https://breakingdefense.com/2026/09/trump-taps-adam-telle-as-acting-army-secretary",
+          "publishedAt": "2026-09-03T23:41:03+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "After ‘concerning’ losses, Air Force pushes to replace Reaper faster",
           "url": "https://breakingdefense.com/2026/09/after-concerning-losses-air-force-pushes-to-replace-reaper-faster",
@@ -235,12 +241,6 @@
           "title": "To counter China, America’s next CCA needs a different mission",
           "url": "https://breakingdefense.com/2026/09/to-counter-china-americas-next-cca-needs-a-different-mission",
           "publishedAt": "2026-09-03T17:38:58+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Oshkosh dangles JLTV bridge option for Marine Corps, but the deadline is looming",
-          "url": "https://breakingdefense.com/2026/09/oshkosh-dangles-jltv-bridge-option-for-marine-corps-but-the-deadline-to-take-it-is-looming",
-          "publishedAt": "2026-09-03T16:58:53+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-03T23:39:50+00:00",
+      "updatedAt": "2026-09-04T00:00:32+00:00",
       "stories": [
         {
           "title": "Meta, Google join the AI launch party",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-03T23:39:50+00:00",
+      "updatedAt": "2026-09-04T00:00:32+00:00",
       "stories": [
         {
           "title": "Medtronic invests $700M in surgical partner Cornerstone Robotics",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-03T23:39:50+00:00",
+    "updatedAt": "2026-09-04T00:00:32+00:00",
     "stories": [
       {
         "title": "Meta, Google join the AI launch party",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "After ‘concerning’ losses, Air Force pushes to replace Reaper faster",
-        "url": "https://breakingdefense.com/2026/09/after-concerning-losses-air-force-pushes-to-replace-reaper-faster",
-        "publishedAt": "2026-09-03T22:54:38+00:00",
+        "title": "Trump taps Adam Telle as acting Army secretary",
+        "url": "https://breakingdefense.com/2026/09/trump-taps-adam-telle-as-acting-army-secretary",
+        "publishedAt": "2026-09-03T23:41:03+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -558,19 +558,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Why the Army wants to deploy nuclear microreactors on US bases",
-        "url": "https://breakingdefense.com/2026/09/why-the-army-wants-to-deploy-nuclear-microreactors-on-us-bases",
-        "publishedAt": "2026-09-03T20:40:00+00:00",
+        "title": "After ‘concerning’ losses, Air Force pushes to replace Reaper faster",
+        "url": "https://breakingdefense.com/2026/09/after-concerning-losses-air-force-pushes-to-replace-reaper-faster",
+        "publishedAt": "2026-09-03T22:54:38+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "US Army launches laser production with $465M contract award",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-army-launches-laser-production-with-465m-contract-award",
-        "publishedAt": "2026-09-03T19:54:51+00:00",
-        "source": "Defense News",
+        "title": "Why the Army wants to deploy nuclear microreactors on US bases",
+        "url": "https://breakingdefense.com/2026/09/why-the-army-wants-to-deploy-nuclear-microreactors-on-us-bases",
+        "publishedAt": "2026-09-03T20:40:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
