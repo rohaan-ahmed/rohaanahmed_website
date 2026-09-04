@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-04T18:00:29+00:00",
+  "generatedAt": "2026-09-04T19:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-04T18:00:29+00:00",
+      "updatedAt": "2026-09-04T19:00:33+00:00",
       "stories": [
+        {
+          "title": "Trekkies honor 'Star Trek's' 60th birthday with fan events, special screenings, and a world record Vulcan salute",
+          "url": "https://www.space.com/entertainment/space-movies-shows/trekkies-honor-star-treks-60th-birthday-with-fan-events-special-screenings-and-a-world-record-vulcan-salute",
+          "publishedAt": "2026-09-04T19:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "Venus is becoming a thinner crescent — and that's when it finally starts making sense",
+          "url": "https://www.space.com/stargazing/venus-is-becoming-a-thinner-crescent-and-thats-when-it-finally-starts-making-sense",
+          "publishedAt": "2026-09-04T18:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Stars forge and deliver the elements that make up your body — and scientists may finally know how",
           "url": "https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how",
@@ -23,18 +35,6 @@
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_31_Aug_-_04_Sep_2026",
           "publishedAt": "2026-09-04T13:10:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Hubble Telescope sees spectacular 'superbubble' | Space photo of the day for Sept. 4, 2026",
-          "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-spectacular-superbubble-space-photo-of-the-day-for-sept-4-2026",
-          "publishedAt": "2026-09-04T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "On this day in space! Sept. 4, 1962: NASA's Mariner 2 spacecrafts performs the 1st-ever maneuver in deep space so it could reach Venus",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-sept-4-1962-nasas-mariner-2-spacecrafts-performs-the-1st-ever-maneuver-in-deep-space-so-it-could-reach-venus",
-          "publishedAt": "2026-09-04T14:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Lunar Occultation of Venus",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-04T18:00:29+00:00",
+      "updatedAt": "2026-09-04T19:00:33+00:00",
       "stories": [
         {
           "title": "CSA publishes HAWCsat SHOW instrument opportunity",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-04T18:00:29+00:00",
+      "updatedAt": "2026-09-04T19:00:33+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to advance defence cooperation and industrial partnerships with Poland at MSPO 2026",
@@ -187,19 +187,13 @@
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/canadian-armed-forces-launch-operation-nanook-nunakput-to-strengthen-security-along-the-canadian-arctic-archipelago.html",
           "publishedAt": "2026-08-25T19:09:12+00:00",
           "source": "National Defence"
-        },
-        {
-          "title": "Canada marks start of major infrastructure upgrades at 5th Canadian Division Support Base Gagetown",
-          "url": "https://www.canada.ca/en/department-national-defence/news/2026/08/canada-marks-start-of-major-infrastructure-upgrades-at-5th-canadian-division-support-base-gagetown.html",
-          "publishedAt": "2026-08-25T18:32:31+00:00",
-          "source": "National Defence"
         }
       ]
     },
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-04T18:00:29+00:00",
+      "updatedAt": "2026-09-04T19:00:33+00:00",
       "stories": [
         {
           "title": "You get a SCIF, you get a SCIF: Pentagon unveils ‘Secure Space Network’",
@@ -296,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-04T18:00:29+00:00",
+      "updatedAt": "2026-09-04T19:00:33+00:00",
       "stories": [
         {
           "title": "OpenAI’s “generational leap” with GPT-6 Astra",
@@ -393,8 +387,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-04T18:00:29+00:00",
+      "updatedAt": "2026-09-04T19:00:33+00:00",
       "stories": [
+        {
+          "title": "How FPGAs become the gatekeepers of physical AI security",
+          "url": "https://www.therobotreport.com/how-fpgas-become-the-gatekeepers-of-physical-ai-security",
+          "publishedAt": "2026-09-04T18:09:54+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar",
           "url": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar",
@@ -435,12 +435,6 @@
           "title": "NVIDIA plans to acquire Hugging Face and keep AI development platform open",
           "url": "https://www.therobotreport.com/nvidia-to-acquire-hugging-face-and-keep-ai-develpment-platform-open",
           "publishedAt": "2026-09-03T15:28:02+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "PlusAI to take autonomous trucking public via a SPAC deal",
-          "url": "https://www.therobotreport.com/plusai-takes-autonomous-trucking-public-via-spac-deal",
-          "publishedAt": "2026-09-03T10:00:14+00:00",
           "source": "The Robot Report"
         },
         {
@@ -489,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-04T18:00:29+00:00",
+    "updatedAt": "2026-09-04T19:00:33+00:00",
     "stories": [
       {
         "title": "OpenAI’s “generational leap” with GPT-6 Astra",
@@ -519,9 +513,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Stars forge and deliver the elements that make up your body — and scientists may finally know how",
-        "url": "https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how",
-        "publishedAt": "2026-09-04T16:00:00+00:00",
+        "title": "Trekkies honor 'Star Trek's' 60th birthday with fan events, special screenings, and a world record Vulcan salute",
+        "url": "https://www.space.com/entertainment/space-movies-shows/trekkies-honor-star-treks-60th-birthday-with-fan-events-special-screenings-and-a-world-record-vulcan-salute",
+        "publishedAt": "2026-09-04T19:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -546,9 +540,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar",
-        "url": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar",
-        "publishedAt": "2026-09-04T16:33:59+00:00",
+        "title": "How FPGAs become the gatekeepers of physical AI security",
+        "url": "https://www.therobotreport.com/how-fpgas-become-the-gatekeepers-of-physical-ai-security",
+        "publishedAt": "2026-09-04T18:09:54+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -573,12 +567,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Fixing the machine: Inside the Navy’s race to rebuild its aviator pipeline",
-        "url": "https://breakingdefense.com/2026/09/fixing-the-machine-inside-the-navys-race-to-rebuild-its-aviator-pipeline",
-        "publishedAt": "2026-09-04T15:47:45+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar",
+        "url": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar",
+        "publishedAt": "2026-09-04T16:33:59+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
