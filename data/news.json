@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-04T21:00:31+00:00",
+  "generatedAt": "2026-09-04T21:57:59+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-04T21:00:31+00:00",
+      "updatedAt": "2026-09-04T21:57:59+00:00",
       "stories": [
+        {
+          "title": "Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe?",
+          "url": "https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe",
+          "publishedAt": "2026-09-04T21:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Trekkies honor 'Star Trek's' 60th birthday with fan events, special screenings, and a world record Vulcan salute",
           "url": "https://www.space.com/entertainment/space-movies-shows/trekkies-honor-star-treks-60th-birthday-with-fan-events-special-screenings-and-a-world-record-vulcan-salute",
@@ -22,12 +28,6 @@
           "title": "Venus is becoming a thinner crescent — and that's when it finally starts making sense",
           "url": "https://www.space.com/stargazing/venus-is-becoming-a-thinner-crescent-and-thats-when-it-finally-starts-making-sense",
           "publishedAt": "2026-09-04T18:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Stars forge and deliver the elements that make up your body — and scientists may finally know how",
-          "url": "https://www.space.com/astronomy/stars/stars-forge-and-deliver-the-elements-that-make-up-your-body-and-scientists-may-finally-know-how",
-          "publishedAt": "2026-09-04T16:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-04T21:00:31+00:00",
+      "updatedAt": "2026-09-04T21:57:59+00:00",
       "stories": [
         {
           "title": "CSA publishes HAWCsat SHOW instrument opportunity",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-04T21:00:31+00:00",
+      "updatedAt": "2026-09-04T21:57:59+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to advance defence cooperation and industrial partnerships with Poland at MSPO 2026",
@@ -187,7 +187,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-04T21:00:31+00:00",
+      "updatedAt": "2026-09-04T21:57:59+00:00",
       "stories": [
         {
           "title": "US clears $5B in JDAMs for Saudi Arabia, other Middle East deals",
@@ -284,7 +284,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-04T21:00:31+00:00",
+      "updatedAt": "2026-09-04T21:57:59+00:00",
       "stories": [
         {
           "title": "OpenAI’s “generational leap” with GPT-6 Astra",
@@ -305,6 +305,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+          "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+          "publishedAt": "2026-09-04T21:12:11+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "What will Apple’s John Ternus era look like?",
           "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like",
           "publishedAt": "2026-09-04T17:18:00+00:00",
@@ -323,40 +329,16 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Microsoft releases MAI-Transcribe-2 (4 minute read)",
-          "url": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world",
-          "publishedAt": "2026-09-04T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Google’s Gemini Spark can now manage your Google Photos library",
+          "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
+          "publishedAt": "2026-09-04T14:47:11+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Nvidia confirms Hugging Face acquisition for $12.93 billion (3 minute read)",
-          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-          "publishedAt": "2026-09-04T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Grok Bot for Enterprise (4 minute read)",
-          "url": "https://x.ai/news/grok-bot-for-enterprise",
-          "publishedAt": "2026-09-04T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "GPT-6 Astra (10 minute read)",
-          "url": "https://deploymentsafety.openai.com/gpt-6-astra",
-          "publishedAt": "2026-09-04T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "OpenAI's GPT-6 Astra on ARC-AGI-3 (7 minute read)",
-          "url": "https://arcprize.org/blog/astra",
-          "publishedAt": "2026-09-04T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "AI, tools and transformation (12 minute read)",
-          "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-          "publishedAt": "2026-09-04T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+          "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event",
+          "publishedAt": "2026-09-04T14:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Meta, Google join the AI launch party",
@@ -375,13 +357,31 @@
           "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
           "publishedAt": "2026-09-02T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Bernie Sanders escalates AI pause conversation",
+          "url": "https://www.foxnews.com/opinion/sen-bernie-sanders-yes-we-must-hit-pause-button-ai-before-it-is-too-late",
+          "publishedAt": "2026-09-02T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Apple, OpenAI trade blame in legal battle",
+          "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.94.1.pdf",
+          "publishedAt": "2026-09-02T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Runway's Solaris previews the AI era of interfaces",
+          "url": "https://runway.com/news/research/introducing-solaris",
+          "publishedAt": "2026-09-01T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-04T21:00:31+00:00",
+      "updatedAt": "2026-09-04T21:57:59+00:00",
       "stories": [
         {
           "title": "How FPGAs become the gatekeepers of physical AI security",
@@ -477,7 +477,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-04T21:00:31+00:00",
+    "updatedAt": "2026-09-04T21:57:59+00:00",
     "stories": [
       {
         "title": "OpenAI’s “generational leap” with GPT-6 Astra",
@@ -507,9 +507,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Trekkies honor 'Star Trek's' 60th birthday with fan events, special screenings, and a world record Vulcan salute",
-        "url": "https://www.space.com/entertainment/space-movies-shows/trekkies-honor-star-treks-60th-birthday-with-fan-events-special-screenings-and-a-world-record-vulcan-salute",
-        "publishedAt": "2026-09-04T19:00:00+00:00",
+        "title": "Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe?",
+        "url": "https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe",
+        "publishedAt": "2026-09-04T21:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -682,6 +682,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-24"
   ]
 }
