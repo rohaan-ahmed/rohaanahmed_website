@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T19:00:27+00:00",
+  "generatedAt": "2026-09-05T20:00:24+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-05T19:00:27+00:00",
+      "updatedAt": "2026-09-05T20:00:24+00:00",
       "stories": [
         {
           "title": "Venus is disappearing from the evening sky — here's how to see it while you can",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-05T19:00:27+00:00",
+      "updatedAt": "2026-09-05T20:00:24+00:00",
       "stories": [
         {
           "title": "CSA publishes HAWCsat SHOW instrument opportunity",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-05T19:00:27+00:00",
+      "updatedAt": "2026-09-05T20:00:24+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to advance defence cooperation and industrial partnerships with Poland at MSPO 2026",
@@ -187,7 +187,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-05T19:00:27+00:00",
+      "updatedAt": "2026-09-05T20:00:24+00:00",
       "stories": [
         {
           "title": "Ukraine asks EU to fund first Patriot missiles buy",
@@ -284,8 +284,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-05T19:00:27+00:00",
+      "updatedAt": "2026-09-05T20:00:24+00:00",
       "stories": [
+        {
+          "title": "Hikers rescued after using Google Gemini for planning",
+          "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+          "publishedAt": "2026-09-05T19:35:24+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
           "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
@@ -335,12 +341,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-          "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
-          "publishedAt": "2026-09-04T16:21:11+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Meta, Google join the AI launch party",
           "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
           "publishedAt": "2026-09-03T10:00:00+00:00",
@@ -381,7 +381,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-05T19:00:27+00:00",
+      "updatedAt": "2026-09-05T20:00:24+00:00",
       "stories": [
         {
           "title": "ARM Institute gets $90M for 10 projects to modernize military manufacturing",
@@ -477,21 +477,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-05T19:00:27+00:00",
+    "updatedAt": "2026-09-05T20:00:24+00:00",
     "stories": [
       {
-        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
-        "publishedAt": "2026-09-05T18:05:27+00:00",
+        "title": "Hikers rescued after using Google Gemini for planning",
+        "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+        "publishedAt": "2026-09-05T19:35:24+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-        "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation",
-        "publishedAt": "2026-09-04T23:36:14+00:00",
+        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+        "publishedAt": "2026-09-05T18:05:27+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -682,7 +682,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-10"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-10",
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
   ]
 }
