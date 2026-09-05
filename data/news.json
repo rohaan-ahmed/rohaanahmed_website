@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-05T21:00:24+00:00",
+  "generatedAt": "2026-09-05T22:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-05T21:00:24+00:00",
+      "updatedAt": "2026-09-05T22:00:31+00:00",
       "stories": [
+        {
+          "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
+          "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe",
+          "publishedAt": "2026-09-05T20:24:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "Venus is disappearing from the evening sky — here's how to see it while you can",
           "url": "https://www.space.com/stargazing/venus-is-disappearing-from-the-evening-sky-heres-how-to-see-it-while-you-can",
@@ -67,12 +73,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Latest updates: BepiColombo's arrival at Mercury",
-          "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
-          "publishedAt": "2026-09-03T10:00:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
           "url": "https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting",
           "publishedAt": "2026-09-02T12:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-05T21:00:24+00:00",
+      "updatedAt": "2026-09-05T22:00:31+00:00",
       "stories": [
         {
           "title": "CSA publishes HAWCsat SHOW instrument opportunity",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-05T21:00:24+00:00",
+      "updatedAt": "2026-09-05T22:00:31+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to advance defence cooperation and industrial partnerships with Poland at MSPO 2026",
@@ -187,7 +187,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-05T21:00:24+00:00",
+      "updatedAt": "2026-09-05T22:00:31+00:00",
       "stories": [
         {
           "title": "Ukraine asks EU to fund first Patriot missiles buy",
@@ -284,7 +284,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-05T21:00:24+00:00",
+      "updatedAt": "2026-09-05T22:00:31+00:00",
       "stories": [
         {
           "title": "Hikers rescued after using Google Gemini for planning",
@@ -381,7 +381,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-05T21:00:24+00:00",
+      "updatedAt": "2026-09-05T22:00:31+00:00",
       "stories": [
         {
           "title": "ARM Institute gets $90M for 10 projects to modernize military manufacturing",
@@ -477,7 +477,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-05T21:00:24+00:00",
+    "updatedAt": "2026-09-05T22:00:31+00:00",
     "stories": [
       {
         "title": "Hikers rescued after using Google Gemini for planning",
@@ -507,10 +507,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Venus is disappearing from the evening sky — here's how to see it while you can",
-        "url": "https://www.space.com/stargazing/venus-is-disappearing-from-the-evening-sky-heres-how-to-see-it-while-you-can",
-        "publishedAt": "2026-09-05T15:00:00+00:00",
-        "source": "Space.com",
+        "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
+        "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe",
+        "publishedAt": "2026-09-05T20:24:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -552,17 +552,17 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "This Lego Star Wars UCS AT-ST set is cheaper than ever — I'll always love this chicken walker",
-        "url": "https://www.space.com/entertainment/space-toys-lego/this-lego-star-wars-ucs-at-st-set-is-cheaper-than-ever-and-ill-always-love-this-chicken-walker",
-        "publishedAt": "2026-09-05T14:00:00+00:00",
+        "title": "Venus is disappearing from the evening sky — here's how to see it while you can",
+        "url": "https://www.space.com/stargazing/venus-is-disappearing-from-the-evening-sky-heres-how-to-see-it-while-you-can",
+        "publishedAt": "2026-09-05T15:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Private German rocket makes history, reaches orbit from European soil",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+        "title": "This Lego Star Wars UCS AT-ST set is cheaper than ever — I'll always love this chicken walker",
+        "url": "https://www.space.com/entertainment/space-toys-lego/this-lego-star-wars-ucs-at-st-set-is-cheaper-than-ever-and-ill-always-love-this-chicken-walker",
         "publishedAt": "2026-09-05T14:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
@@ -683,6 +683,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-21"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-14"
   ]
 }
