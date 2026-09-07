@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-07T09:00:26+00:00",
+  "generatedAt": "2026-09-07T10:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-07T09:00:26+00:00",
+      "updatedAt": "2026-09-07T10:00:26+00:00",
       "stories": [
+        {
+          "title": "Labor Day in space: NASA astronauts get the holiday off",
+          "url": "https://www.space.com/space-exploration/international-space-station/labor-day-in-space-nasa-astronauts-get-the-holiday-off",
+          "publishedAt": "2026-09-07T10:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
           "url": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars",
@@ -34,12 +40,6 @@
           "title": "Feel the Force with these 10 out-of-this-world Lego Star Wars starships",
           "url": "https://www.space.com/entertainment/space-toys-lego/feel-the-force-with-these-ten-out-of-this-world-lego-star-wars-starships",
           "publishedAt": "2026-09-06T15:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "NASA expands Deep Space Network with giant new dish in California desert",
-          "url": "https://www.space.com/astronomy/nasa-expands-deep-space-network-with-giant-new-dish-in-california-desert",
-          "publishedAt": "2026-09-06T10:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-07T09:00:26+00:00",
+      "updatedAt": "2026-09-07T10:00:26+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: fourth spacewalk in a month wraps up",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-07T09:00:26+00:00",
+      "updatedAt": "2026-09-07T10:00:26+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to advance defence cooperation and industrial partnerships with Poland at MSPO 2026",
@@ -187,7 +187,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-07T09:00:26+00:00",
+      "updatedAt": "2026-09-07T10:00:26+00:00",
       "stories": [
         {
           "title": "Ukraine asks EU to fund first Patriot missiles buy",
@@ -284,7 +284,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-07T09:00:26+00:00",
+      "updatedAt": "2026-09-07T10:00:26+00:00",
       "stories": [
         {
           "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
@@ -381,7 +381,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-07T09:00:26+00:00",
+      "updatedAt": "2026-09-07T10:00:26+00:00",
       "stories": [
         {
           "title": "Eric Sivertson discusses FPGAs and robot security",
@@ -477,7 +477,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-07T09:00:26+00:00",
+    "updatedAt": "2026-09-07T10:00:26+00:00",
     "stories": [
       {
         "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
@@ -507,10 +507,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars",
-        "publishedAt": "2026-09-07T04:05:00+00:00",
-        "source": "NASA",
+        "title": "Labor Day in space: NASA astronauts get the holiday off",
+        "url": "https://www.space.com/space-exploration/international-space-station/labor-day-in-space-nasa-astronauts-get-the-holiday-off",
+        "publishedAt": "2026-09-07T10:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -543,6 +543,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars",
+        "publishedAt": "2026-09-07T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "A Bright Spot at Mount Michael",
         "url": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael",
         "publishedAt": "2026-09-07T04:01:00+00:00",
@@ -555,15 +564,6 @@
         "title": "On this day in space! Sept. 6, 1947: The US Navy launches 1st V-2 rocket at sea in ballistic missile test",
         "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-6-2026",
         "publishedAt": "2026-09-06T16:23:04+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video)",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink/group-15-24-launch-ocisly",
-        "publishedAt": "2026-09-06T15:54:11+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -683,6 +683,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-10"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-21"
   ]
 }
