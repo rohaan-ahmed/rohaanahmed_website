@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-07T16:00:29+00:00",
+  "generatedAt": "2026-09-07T17:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-07T16:00:29+00:00",
+      "updatedAt": "2026-09-07T17:00:25+00:00",
       "stories": [
+        {
+          "title": "The moon will hide Jupiter in broad daylight on Sept.8 — here's how to see it",
+          "url": "https://www.space.com/stargazing/the-moon-will-hide-jupiter-in-broad-daylight-on-sept-8-2026-here-is-how-to-see-it",
+          "publishedAt": "2026-09-07T16:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "Earth's moon could have formed in just 5 hours after giant impact",
+          "url": "https://www.space.com/astronomy/moon/earths-moon-could-have-formed-in-just-5-hours-after-giant-impact",
+          "publishedAt": "2026-09-07T16:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour's STS-69 mission",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-7-2026",
@@ -19,22 +31,10 @@
           "source": "Space.com"
         },
         {
-          "title": "The future of Earth observation: Private satellites and AI bring benefits but also pose risks",
-          "url": "https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks",
-          "publishedAt": "2026-09-07T13:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "BepiColombo begins Mercury arrival with MTM separation success",
           "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
           "publishedAt": "2026-09-07T08:25:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Cheaper than Prime Day, this super-portable, beginner-friendly telescope is my number one choice for skywatching",
-          "url": "https://www.space.com/stargazing/skywatching-kit/cheaper-than-prime-day-this-super-portable-beginner-friendly-telescope-is-my-number-one-choice-for-skywatching",
-          "publishedAt": "2026-09-07T11:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Europe's space future in focus at the International Space Summit",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-07T16:00:29+00:00",
+      "updatedAt": "2026-09-07T17:00:25+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: fourth spacewalk in a month wraps up",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-07T16:00:29+00:00",
+      "updatedAt": "2026-09-07T17:00:25+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to advance defence cooperation and industrial partnerships with Poland at MSPO 2026",
@@ -187,7 +187,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-07T16:00:29+00:00",
+      "updatedAt": "2026-09-07T17:00:25+00:00",
       "stories": [
         {
           "title": "Croatia buys South Korean rocket artillery after HIMARS purchase from the US",
@@ -284,7 +284,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-07T16:00:29+00:00",
+      "updatedAt": "2026-09-07T17:00:25+00:00",
       "stories": [
         {
           "title": "Another OpenAI agent swarm surfaces",
@@ -299,14 +299,14 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Grok Imagine Video 1.5 agent (1 minute read)",
-          "url": "https://threadreaderapp.com/thread/2096298105213952178.html",
+          "title": "Formalizing Fermat's Last Theorem (11 minute read)",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
           "publishedAt": "2026-09-07T00:00:00+00:00",
           "source": "TLDR AI"
         },
         {
-          "title": "Formalizing Fermat's Last Theorem (11 minute read)",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "title": "Grok Imagine Video 1.5 agent (1 minute read)",
+          "url": "https://threadreaderapp.com/thread/2096298105213952178.html",
           "publishedAt": "2026-09-07T00:00:00+00:00",
           "source": "TLDR AI"
         },
@@ -381,7 +381,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-07T16:00:29+00:00",
+      "updatedAt": "2026-09-07T17:00:25+00:00",
       "stories": [
         {
           "title": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
@@ -477,7 +477,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-07T16:00:29+00:00",
+    "updatedAt": "2026-09-07T17:00:25+00:00",
     "stories": [
       {
         "title": "Another OpenAI agent swarm surfaces",
@@ -507,9 +507,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour's STS-69 mission",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-7-2026",
-        "publishedAt": "2026-09-07T14:47:05+00:00",
+        "title": "The moon will hide Jupiter in broad daylight on Sept.8 — here's how to see it",
+        "url": "https://www.space.com/stargazing/the-moon-will-hide-jupiter-in-broad-daylight-on-sept-8-2026-here-is-how-to-see-it",
+        "publishedAt": "2026-09-07T16:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -543,6 +543,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Earth's moon could have formed in just 5 hours after giant impact",
+        "url": "https://www.space.com/astronomy/moon/earths-moon-could-have-formed-in-just-5-hours-after-giant-impact",
+        "publishedAt": "2026-09-07T16:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
         "url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac",
         "publishedAt": "2026-09-07T13:17:45+00:00",
@@ -558,15 +567,6 @@
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Galaxies tangled in science and spirit | Space photo of the day for Sept. 7, 2026",
-        "url": "https://www.space.com/astronomy/galaxies/galaxies-tangled-in-science-and-spirit-space-photo-of-the-day-for-sept-7-2026",
-        "publishedAt": "2026-09-07T14:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
