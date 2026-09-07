@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-07T13:00:28+00:00",
+  "generatedAt": "2026-09-07T14:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-07T13:00:28+00:00",
+      "updatedAt": "2026-09-07T14:00:28+00:00",
       "stories": [
+        {
+          "title": "The future of Earth observation: Private satellites and AI bring benefits but also pose risks",
+          "url": "https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks",
+          "publishedAt": "2026-09-07T13:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "BepiColombo begins Mercury arrival with MTM separation success",
           "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
@@ -46,12 +52,6 @@
           "title": "On this day in space! Sept. 6, 1947: The US Navy launches 1st V-2 rocket at sea in ballistic missile test",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-6-2026",
           "publishedAt": "2026-09-06T16:23:04+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video)",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink/group-15-24-launch-ocisly",
-          "publishedAt": "2026-09-06T15:54:11+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-07T13:00:28+00:00",
+      "updatedAt": "2026-09-07T14:00:28+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: fourth spacewalk in a month wraps up",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-07T13:00:28+00:00",
+      "updatedAt": "2026-09-07T14:00:28+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to advance defence cooperation and industrial partnerships with Poland at MSPO 2026",
@@ -187,7 +187,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-07T13:00:28+00:00",
+      "updatedAt": "2026-09-07T14:00:28+00:00",
       "stories": [
         {
           "title": "Croatia buys South Korean rocket artillery after HIMARS purchase from the US",
@@ -284,7 +284,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-07T13:00:28+00:00",
+      "updatedAt": "2026-09-07T14:00:28+00:00",
       "stories": [
         {
           "title": "Another OpenAI agent swarm surfaces",
@@ -381,13 +381,25 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-07T13:00:28+00:00",
+      "updatedAt": "2026-09-07T14:00:28+00:00",
       "stories": [
+        {
+          "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
+          "url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac",
+          "publishedAt": "2026-09-07T13:17:45+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "MassRobotics shares member survey results around FCC restrictions",
           "url": "https://www.therobotreport.com/massrobotics-shares-member-survey-results-around-fcc-restrictions",
           "publishedAt": "2026-09-07T12:30:16+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "This Robot Will Draw Your Blood Now",
+          "url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+          "publishedAt": "2026-09-07T13:00:01+00:00",
+          "source": "IEEE Spectrum Robotics"
         },
         {
           "title": "Eric Sivertson discusses FPGAs and robot security",
@@ -405,12 +417,6 @@
           "title": "ARM Institute gets $90M for 10 projects to modernize military manufacturing",
           "url": "https://www.therobotreport.com/arm-institute-gets-90m-for-10-projects-to-modernize-military-manufacturing",
           "publishedAt": "2026-09-05T14:22:41+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Enovis to acquire surgical tech provider eCential Robotics for $180M",
-          "url": "https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m",
-          "publishedAt": "2026-09-05T12:30:37+00:00",
           "source": "The Robot Report"
         },
         {
@@ -466,18 +472,12 @@
           "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine",
           "publishedAt": "2026-08-28T23:24:27+00:00",
           "source": "TechCrunch Robotics"
-        },
-        {
-          "title": "Video Friday: Meet Microduck",
-          "url": "https://spectrum.ieee.org/video-friday-microduck-robot",
-          "publishedAt": "2026-08-28T16:00:03+00:00",
-          "source": "IEEE Spectrum Robotics"
         }
       ]
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-07T13:00:28+00:00",
+    "updatedAt": "2026-09-07T14:00:28+00:00",
     "stories": [
       {
         "title": "Another OpenAI agent swarm surfaces",
@@ -507,10 +507,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "BepiColombo begins Mercury arrival with MTM separation success",
-        "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
-        "publishedAt": "2026-09-07T08:25:00+00:00",
-        "source": "European Space Agency",
+        "title": "The future of Earth observation: Private satellites and AI bring benefits but also pose risks",
+        "url": "https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks",
+        "publishedAt": "2026-09-07T13:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -534,36 +534,36 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "MassRobotics shares member survey results around FCC restrictions",
-        "url": "https://www.therobotreport.com/massrobotics-shares-member-survey-results-around-fcc-restrictions",
-        "publishedAt": "2026-09-07T12:30:16+00:00",
+        "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
+        "url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac",
+        "publishedAt": "2026-09-07T13:17:45+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
       },
       {
-        "title": "Cheaper than Prime Day, this super-portable, beginner-friendly telescope is my number one choice for skywatching",
-        "url": "https://www.space.com/stargazing/skywatching-kit/cheaper-than-prime-day-this-super-portable-beginner-friendly-telescope-is-my-number-one-choice-for-skywatching",
-        "publishedAt": "2026-09-07T11:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "MassRobotics shares member survey results around FCC restrictions",
+        "url": "https://www.therobotreport.com/massrobotics-shares-member-survey-results-around-fcc-restrictions",
+        "publishedAt": "2026-09-07T12:30:16+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Labor Day in space: NASA astronauts get the holiday off",
-        "url": "https://www.space.com/space-exploration/international-space-station/labor-day-in-space-nasa-astronauts-get-the-holiday-off",
-        "publishedAt": "2026-09-07T10:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "This Robot Will Draw Your Blood Now",
+        "url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+        "publishedAt": "2026-09-07T13:00:01+00:00",
+        "source": "IEEE Spectrum Robotics",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Europe's space future in focus at the International Space Summit",
-        "url": "https://www.esa.int/About_Us/Corporate_news/Europe_s_space_future_in_focus_at_the_International_Space_Summit",
-        "publishedAt": "2026-09-07T06:10:00+00:00",
+        "title": "BepiColombo begins Mercury arrival with MTM separation success",
+        "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
+        "publishedAt": "2026-09-07T08:25:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -683,6 +683,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-25"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-13"
   ]
 }
