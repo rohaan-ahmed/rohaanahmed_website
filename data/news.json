@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-07T14:00:28+00:00",
+  "generatedAt": "2026-09-07T15:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-07T14:00:28+00:00",
+      "updatedAt": "2026-09-07T15:00:29+00:00",
       "stories": [
+        {
+          "title": "On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour's STS-69 mission",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-7-2026",
+          "publishedAt": "2026-09-07T14:47:05+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "Galaxies tangled in science and spirit | Space photo of the day for Sept. 7, 2026",
+          "url": "https://www.space.com/astronomy/galaxies/galaxies-tangled-in-science-and-spirit-space-photo-of-the-day-for-sept-7-2026",
+          "publishedAt": "2026-09-07T14:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "The future of Earth observation: Private satellites and AI bring benefits but also pose risks",
           "url": "https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks",
@@ -25,12 +37,6 @@
           "source": "Space.com"
         },
         {
-          "title": "Labor Day in space: NASA astronauts get the holiday off",
-          "url": "https://www.space.com/space-exploration/international-space-station/labor-day-in-space-nasa-astronauts-get-the-holiday-off",
-          "publishedAt": "2026-09-07T10:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Europe's space future in focus at the International Space Summit",
           "url": "https://www.esa.int/About_Us/Corporate_news/Europe_s_space_future_in_focus_at_the_International_Space_Summit",
           "publishedAt": "2026-09-07T06:10:00+00:00",
@@ -47,12 +53,6 @@
           "url": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael",
           "publishedAt": "2026-09-07T04:01:00+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "On this day in space! Sept. 6, 1947: The US Navy launches 1st V-2 rocket at sea in ballistic missile test",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-6-2026",
-          "publishedAt": "2026-09-06T16:23:04+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-07T14:00:28+00:00",
+      "updatedAt": "2026-09-07T15:00:29+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: fourth spacewalk in a month wraps up",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-07T14:00:28+00:00",
+      "updatedAt": "2026-09-07T15:00:29+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to advance defence cooperation and industrial partnerships with Poland at MSPO 2026",
@@ -187,7 +187,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-07T14:00:28+00:00",
+      "updatedAt": "2026-09-07T15:00:29+00:00",
       "stories": [
         {
           "title": "Croatia buys South Korean rocket artillery after HIMARS purchase from the US",
@@ -284,7 +284,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-07T14:00:28+00:00",
+      "updatedAt": "2026-09-07T15:00:29+00:00",
       "stories": [
         {
           "title": "Another OpenAI agent swarm surfaces",
@@ -297,6 +297,42 @@
           "url": "https://openai.com/index/an-alien-mind",
           "publishedAt": "2026-09-07T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Grok Imagine Video 1.5 agent (1 minute read)",
+          "url": "https://threadreaderapp.com/thread/2096298105213952178.html",
+          "publishedAt": "2026-09-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Formalizing Fermat's Last Theorem (11 minute read)",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "publishedAt": "2026-09-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "AI Safety Is Not the Same as Security (6 minute read)",
+          "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+          "publishedAt": "2026-09-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "GPT‑6 Astra on robotic manipulation (15 minute read)",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "publishedAt": "2026-09-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "LLM-as-a-Verifier (GitHub Repo)",
+          "url": "https://github.com/llm-as-a-verifier/llm-as-a-verifier",
+          "publishedAt": "2026-09-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Random Attention (GitHub Repo)",
+          "url": "https://github.com/SalesforceAIResearch/Random-Attention",
+          "publishedAt": "2026-09-07T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
@@ -314,24 +350,6 @@
           "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
           "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
           "publishedAt": "2026-09-05T22:49:55+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Hikers rescued after using Google Gemini for planning",
-          "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
-          "publishedAt": "2026-09-05T19:35:24+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
-          "publishedAt": "2026-09-05T18:05:27+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-          "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation",
-          "publishedAt": "2026-09-04T23:36:14+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -357,32 +375,20 @@
           "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
           "publishedAt": "2026-09-03T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Report: OpenAI’s loops hit AI safety monitoring",
-          "url": "https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns?rc=a8sc5q",
-          "publishedAt": "2026-09-03T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Fable 5.1 ends the frontier's quiet period",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-          "publishedAt": "2026-09-02T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Bernie Sanders escalates AI pause conversation",
-          "url": "https://www.foxnews.com/opinion/sen-bernie-sanders-yes-we-must-hit-pause-button-ai-before-it-is-too-late",
-          "publishedAt": "2026-09-02T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-07T14:00:28+00:00",
+      "updatedAt": "2026-09-07T15:00:29+00:00",
       "stories": [
+        {
+          "title": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
+          "url": "https://www.therobotreport.com/inbolt-ceo-to-discuss-physical-ais-deployment-problem-at-robobusiness",
+          "publishedAt": "2026-09-07T14:00:13+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
           "url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac",
@@ -411,12 +417,6 @@
           "title": "Pressure sensors can help improve robotic gripping accuracy",
           "url": "https://www.therobotreport.com/pressure-sensors-can-help-improve-robotic-gripping-accuracy",
           "publishedAt": "2026-09-06T12:30:17+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "ARM Institute gets $90M for 10 projects to modernize military manufacturing",
-          "url": "https://www.therobotreport.com/arm-institute-gets-90m-for-10-projects-to-modernize-military-manufacturing",
-          "publishedAt": "2026-09-05T14:22:41+00:00",
           "source": "The Robot Report"
         },
         {
@@ -477,7 +477,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-07T14:00:28+00:00",
+    "updatedAt": "2026-09-07T15:00:29+00:00",
     "stories": [
       {
         "title": "Another OpenAI agent swarm surfaces",
@@ -507,9 +507,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The future of Earth observation: Private satellites and AI bring benefits but also pose risks",
-        "url": "https://www.space.com/astronomy/earth/the-future-of-earth-observation-private-satellites-and-ai-bring-benefits-but-also-pose-risks",
-        "publishedAt": "2026-09-07T13:00:00+00:00",
+        "title": "On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour's STS-69 mission",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-7-2026",
+        "publishedAt": "2026-09-07T14:47:05+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -534,13 +534,22 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
+        "url": "https://www.therobotreport.com/inbolt-ceo-to-discuss-physical-ais-deployment-problem-at-robobusiness",
+        "publishedAt": "2026-09-07T14:00:13+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
+        "bulletinRole": "lead"
+      },
+      {
         "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
         "url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac",
         "publishedAt": "2026-09-07T13:17:45+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
-        "bulletinRole": "lead"
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "MassRobotics shares member survey results around FCC restrictions",
@@ -552,19 +561,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "This Robot Will Draw Your Blood Now",
-        "url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
-        "publishedAt": "2026-09-07T13:00:01+00:00",
-        "source": "IEEE Spectrum Robotics",
-        "topicId": "robotics",
-        "topicName": "Robotics",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "BepiColombo begins Mercury arrival with MTM separation success",
-        "url": "https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success",
-        "publishedAt": "2026-09-07T08:25:00+00:00",
-        "source": "European Space Agency",
+        "title": "Galaxies tangled in science and spirit | Space photo of the day for Sept. 7, 2026",
+        "url": "https://www.space.com/astronomy/galaxies/galaxies-tangled-in-science-and-spirit-space-photo-of-the-day-for-sept-7-2026",
+        "publishedAt": "2026-09-07T14:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -682,7 +682,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-13"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
   ]
 }
