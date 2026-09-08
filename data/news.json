@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-08T04:00:29+00:00",
+  "generatedAt": "2026-09-08T05:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-08T04:00:29+00:00",
+      "updatedAt": "2026-09-08T05:00:27+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole",
+          "publishedAt": "2026-09-08T04:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "The Otherworldly Geology of Vasquez Rocks",
+          "url": "https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks",
+          "publishedAt": "2026-09-08T04:01:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "'The Last Starship' is 2026's most slept-on space game — you need to check out this 'FTL'-like shipbuilding strategy gem",
           "url": "https://www.space.com/entertainment/space-games/the-last-starship-is-2026s-most-slept-on-space-game-you-need-to-check-out-this-ftl-like-shipbuilding-strategy-gem",
@@ -49,22 +61,10 @@
           "source": "NASA"
         },
         {
-          "title": "A Bright Spot at Mount Michael",
-          "url": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael",
-          "publishedAt": "2026-09-07T04:01:00+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
           "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe",
           "publishedAt": "2026-09-05T20:24:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "APOD: 2026 September 5 – Chasing the Moon’s Shadow",
-          "url": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow",
-          "publishedAt": "2026-09-05T04:05:00+00:00",
-          "source": "NASA"
         },
         {
           "title": "Week in images: 31 Aug - 04 Sep 2026",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-08T04:00:29+00:00",
+      "updatedAt": "2026-09-08T05:00:27+00:00",
       "stories": [
         {
           "title": "Isar Aerospace Spectrum rocket reaches orbit, eyes 2028 launch from Canada",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-08T04:00:29+00:00",
+      "updatedAt": "2026-09-08T05:00:27+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to advance defence cooperation and industrial partnerships with Poland at MSPO 2026",
@@ -187,7 +187,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-08T04:00:29+00:00",
+      "updatedAt": "2026-09-08T05:00:27+00:00",
       "stories": [
         {
           "title": "Sweden signs HIMARS deal, forges rocket artillery pact with Finland",
@@ -284,7 +284,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-08T04:00:29+00:00",
+      "updatedAt": "2026-09-08T05:00:27+00:00",
       "stories": [
         {
           "title": "Another OpenAI agent swarm surfaces",
@@ -381,7 +381,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-08T04:00:29+00:00",
+      "updatedAt": "2026-09-08T05:00:27+00:00",
       "stories": [
         {
           "title": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
@@ -477,7 +477,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-08T04:00:29+00:00",
+    "updatedAt": "2026-09-08T05:00:27+00:00",
     "stories": [
       {
         "title": "Another OpenAI agent swarm surfaces",
@@ -507,10 +507,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "'The Last Starship' is 2026's most slept-on space game — you need to check out this 'FTL'-like shipbuilding strategy gem",
-        "url": "https://www.space.com/entertainment/space-games/the-last-starship-is-2026s-most-slept-on-space-game-you-need-to-check-out-this-ftl-like-shipbuilding-strategy-gem",
-        "publishedAt": "2026-09-07T20:00:00+00:00",
-        "source": "Space.com",
+        "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole",
+        "publishedAt": "2026-09-08T04:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -543,6 +543,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "The Otherworldly Geology of Vasquez Rocks",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks",
+        "publishedAt": "2026-09-08T04:01:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Rafael, Lower Saxony and Aurelius to develop Volkswagen site in Germany",
         "url": "https://breakingdefense.com/2026/09/rafael-lower-saxony-and-aurelius-to-develop-volkswagen-site-in-germany",
         "publishedAt": "2026-09-07T18:40:10+00:00",
@@ -552,18 +561,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Opaque recurrence, and other AI terms that you should probably know",
-        "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms",
-        "publishedAt": "2026-09-07T19:24:00+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "The moon will hide Jupiter in broad daylight on Sept.8 — here's how to see it",
-        "url": "https://www.space.com/stargazing/the-moon-will-hide-jupiter-in-broad-daylight-on-sept-8-2026-here-is-how-to-see-it",
-        "publishedAt": "2026-09-07T16:00:00+00:00",
+        "title": "'The Last Starship' is 2026's most slept-on space game — you need to check out this 'FTL'-like shipbuilding strategy gem",
+        "url": "https://www.space.com/entertainment/space-games/the-last-starship-is-2026s-most-slept-on-space-game-you-need-to-check-out-this-ftl-like-shipbuilding-strategy-gem",
+        "publishedAt": "2026-09-07T20:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -683,6 +683,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-25"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-27"
   ]
 }
