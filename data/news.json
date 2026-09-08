@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-08T16:00:33+00:00",
+  "generatedAt": "2026-09-08T17:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-08T16:00:33+00:00",
+      "updatedAt": "2026-09-08T17:00:29+00:00",
       "stories": [
+        {
+          "title": "2 satellites just burned up in Earth's atmosphere — and scientists were watching from a private jet. Here's why",
+          "url": "https://www.space.com/space-exploration/satellites/2-satellites-just-burned-up-in-earths-atmosphere-and-scientists-were-watching-from-a-private-jet-heres-why",
+          "publishedAt": "2026-09-08T16:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "Superbubble in the Large Magellanic Cloud",
+          "url": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud",
+          "publishedAt": "2026-09-08T16:49:15+00:00",
+          "source": "NASA"
+        },
         {
           "title": "As 'Star Trek' turns 60, we take the iconic sci-fi franchise to sickbay for a full health report",
           "url": "https://www.space.com/entertainment/space-movies-shows/as-star-trek-turns-60-we-take-the-iconic-sci-fi-franchise-to-sickbay-for-a-full-health-report",
@@ -31,12 +43,6 @@
           "source": "NASA"
         },
         {
-          "title": "NASA’s Hubble, Webb Find Far-out Solar System Objects ‘Remember’ Past",
-          "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-webb-find-far-out-solar-system-objects-remember-past",
-          "publishedAt": "2026-09-08T14:00:28+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "The rise of 'quantum gravity?' Einstein's theory seen in the quantum realm for 1st time",
           "url": "https://www.space.com/science/particle-physics/the-rise-of-quantum-gravity-einsteins-theory-seen-in-the-quantum-realm-for-1st-time",
           "publishedAt": "2026-09-08T13:00:00+00:00",
@@ -47,12 +53,6 @@
           "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Anak_Krakatau_eruption_by_Sentinel-3",
           "publishedAt": "2026-09-08T08:45:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "The Vela Incident: Did an American satellite detect a secret nuclear test in 1979?",
-          "url": "https://www.space.com/space-exploration/satellites/the-vela-incident-did-an-american-satellite-detect-a-secret-nuclear-test-in-1979",
-          "publishedAt": "2026-09-08T10:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "BepiColombo begins Mercury arrival with MTM separation success",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-08T16:00:33+00:00",
+      "updatedAt": "2026-09-08T17:00:29+00:00",
       "stories": [
         {
           "title": "NorthStar $2M IRAP funding backs new sensors",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-08T16:00:33+00:00",
+      "updatedAt": "2026-09-08T17:00:29+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to advance defence cooperation and industrial partnerships with Poland at MSPO 2026",
@@ -187,8 +187,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-08T16:00:33+00:00",
+      "updatedAt": "2026-09-08T17:00:29+00:00",
       "stories": [
+        {
+          "title": "White House has lofty space launch ambitions, but experts question price tag",
+          "url": "https://breakingdefense.com/2026/09/white-house-has-lofty-space-launch-ambitions-but-experts-question-price-tag",
+          "publishedAt": "2026-09-08T16:11:18+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Air Force braces for new era of AI-powered hacking, plus unpacking the Mecca pact",
           "url": "https://breakingdefense.com/2026/09/air-force-braces-for-new-era-of-ai-powered-hacking-plus-unpacking-the-mecca-pact",
@@ -223,12 +229,6 @@
           "title": "Sweden signs HIMARS deal, forges rocket artillery pact with Finland",
           "url": "https://breakingdefense.com/2026/09/sweden-signed-himars-deal-forges-rocket-artillery-pact-with-finland",
           "publishedAt": "2026-09-07T19:08:52+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Rafael, Lower Saxony and Aurelius to develop Volkswagen site in Germany",
-          "url": "https://breakingdefense.com/2026/09/rafael-lower-saxony-and-aurelius-to-develop-volkswagen-site-in-germany",
-          "publishedAt": "2026-09-07T18:40:10+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -284,7 +284,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-08T16:00:33+00:00",
+      "updatedAt": "2026-09-08T17:00:29+00:00",
       "stories": [
         {
           "title": "OpenAI opens the books on its AI research intern",
@@ -305,46 +305,22 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+          "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal",
+          "publishedAt": "2026-09-08T16:20:31+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+          "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+          "publishedAt": "2026-09-08T15:04:09+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Mistral raises €3B as sovereign AI becomes big business",
           "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
           "publishedAt": "2026-09-08T14:17:48+00:00",
           "source": "TechCrunch AI"
-        },
-        {
-          "title": "Anthropic signed $517bn in compute agreements in past 11 months (2 minute read)",
-          "url": "https://www.datacenterdynamics.com/en/news/anthropic-signed-517bn-in-compute-agreements-in-past-11-months",
-          "publishedAt": "2026-09-08T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "OpenAI prepares managed agents for DevDay 2026 (3 minute read)",
-          "url": "https://www.testingcatalog.com/openai-prepares-managed-agents-for-devday-2026",
-          "publishedAt": "2026-09-08T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Two MMLU Scores: What a Benchmark Name Does Not Fix (23 minute read)",
-          "url": "https://zatona.dev/blog/the-two-mmlu-scores",
-          "publishedAt": "2026-09-08T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Automatically detecting AI text in my browser (5 minute read)",
-          "url": "https://www.seangoedecke.com/deckard",
-          "publishedAt": "2026-09-08T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Prompt Injection Through Tool Output (8 minute read)",
-          "url": "https://www.armosec.io/blog/untrusted-tool-output-prompt-injection",
-          "publishedAt": "2026-09-08T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "TPU Inference Externalization Full Steam Ahead (35 minute read)",
-          "url": "https://inferencex.semianalysis.com/blog/tpu-inferencex-full-steam",
-          "publishedAt": "2026-09-08T00:00:00+00:00",
-          "source": "TLDR AI"
         },
         {
           "title": "Another OpenAI agent swarm surfaces",
@@ -371,9 +347,33 @@
           "source": "TechCrunch AI"
         },
         {
+          "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+          "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
+          "publishedAt": "2026-09-06T16:45:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "OpenAI’s “generational leap” with GPT-6 Astra",
           "url": "https://openai.com/index/gpt-6-astra",
           "publishedAt": "2026-09-04T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Where the future of content is headed",
+          "url": "https://www.youtube.com/watch?v=zBOoEpsjWAo",
+          "publishedAt": "2026-09-04T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Google's WeatherNext 3 sharpens the forecast 5x",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3",
+          "publishedAt": "2026-09-04T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Meta, Google join the AI launch party",
+          "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+          "publishedAt": "2026-09-03T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -381,7 +381,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-08T16:00:33+00:00",
+      "updatedAt": "2026-09-08T17:00:29+00:00",
       "stories": [
         {
           "title": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
@@ -477,7 +477,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-08T16:00:33+00:00",
+    "updatedAt": "2026-09-08T17:00:29+00:00",
     "stories": [
       {
         "title": "OpenAI opens the books on its AI research intern",
@@ -507,9 +507,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "As 'Star Trek' turns 60, we take the iconic sci-fi franchise to sickbay for a full health report",
-        "url": "https://www.space.com/entertainment/space-movies-shows/as-star-trek-turns-60-we-take-the-iconic-sci-fi-franchise-to-sickbay-for-a-full-health-report",
-        "publishedAt": "2026-09-08T15:00:00+00:00",
+        "title": "2 satellites just burned up in Earth's atmosphere — and scientists were watching from a private jet. Here's why",
+        "url": "https://www.space.com/space-exploration/satellites/2-satellites-just-burned-up-in-earths-atmosphere-and-scientists-were-watching-from-a-private-jet-heres-why",
+        "publishedAt": "2026-09-08T16:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Air Force braces for new era of AI-powered hacking, plus unpacking the Mecca pact",
-        "url": "https://breakingdefense.com/2026/09/air-force-braces-for-new-era-of-ai-powered-hacking-plus-unpacking-the-mecca-pact",
-        "publishedAt": "2026-09-08T14:43:44+00:00",
+        "title": "White House has lofty space launch ambitions, but experts question price tag",
+        "url": "https://breakingdefense.com/2026/09/white-house-has-lofty-space-launch-ambitions-but-experts-question-price-tag",
+        "publishedAt": "2026-09-08T16:11:18+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -552,18 +552,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Poland’s PGZ unveils Heavy Infantry Fighting Vehicle tech demonstrator",
-        "url": "https://breakingdefense.com/2026/09/polands-pgz-unveils-heavy-infantry-fighting-vehicle-tech-demonstrator",
-        "publishedAt": "2026-09-08T14:36:48+00:00",
+        "title": "Air Force braces for new era of AI-powered hacking, plus unpacking the Mecca pact",
+        "url": "https://breakingdefense.com/2026/09/air-force-braces-for-new-era-of-ai-powered-hacking-plus-unpacking-the-mecca-pact",
+        "publishedAt": "2026-09-08T14:43:44+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Poland, Canada seal defense cooperation pact, set to finalize drone deal",
-        "url": "https://breakingdefense.com/2026/09/poland-canada-seal-defense-cooperation-pact-set-to-finalize-drone-deal",
-        "publishedAt": "2026-09-08T13:02:01+00:00",
+        "title": "Poland’s PGZ unveils Heavy Infantry Fighting Vehicle tech demonstrator",
+        "url": "https://breakingdefense.com/2026/09/polands-pgz-unveils-heavy-infantry-fighting-vehicle-tech-demonstrator",
+        "publishedAt": "2026-09-08T14:36:48+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -682,6 +682,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-24"
   ]
 }
