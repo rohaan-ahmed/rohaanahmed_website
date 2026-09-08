@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T18:03:27+00:00",
+  "generatedAt": "2026-09-08T19:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-08T18:03:27+00:00",
+      "updatedAt": "2026-09-08T19:00:34+00:00",
       "stories": [
         {
           "title": "Astrophotographer captures jaw-dropping view of the Crescent Nebula",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-08T18:03:27+00:00",
+      "updatedAt": "2026-09-08T19:00:34+00:00",
       "stories": [
         {
           "title": "Farcast clears Telesat Lightspeed antenna milestone",
@@ -168,8 +168,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-08T18:03:27+00:00",
+      "updatedAt": "2026-09-08T19:00:34+00:00",
       "stories": [
+        {
+          "title": "Minister McGuinty concludes visit to Poland, advancing Canada–Poland defence and industrial cooperation",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/minister-mcguinty-concludes-visit-to-poland-advancing-canadapoland-defence-and-industrial-cooperation.html",
+          "publishedAt": "2026-09-08T18:40:31+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Minister McGuinty to advance defence cooperation and industrial partnerships with Poland at MSPO 2026",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/minister-mcguinty-to-advance-defence-cooperation-and-industrial-partnerships-with-poland-at-mspo-2026.html",
@@ -187,8 +193,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-08T18:03:27+00:00",
+      "updatedAt": "2026-09-08T19:00:34+00:00",
       "stories": [
+        {
+          "title": "Poland’s in-development fighting vehicle carries newfound defense-export drive",
+          "url": "https://www.defensenews.com/global/europe/2026/09/08/polands-in-development-fighting-vehicle-carries-newfound-defense-export-drive",
+          "publishedAt": "2026-09-08T18:21:59+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "European missile-maker MBDA opens first industrial facility in Poland",
           "url": "https://breakingdefense.com/2026/09/european-missile-maker-mbda-opens-first-industrial-facility-in-poland",
@@ -244,12 +256,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Croatia buys South Korean rocket artillery after HIMARS purchase from the US",
-          "url": "https://www.defensenews.com/global/europe/2026/09/07/croatia-buys-south-korean-rocket-artillery-after-himars-purchase-from-the-us",
-          "publishedAt": "2026-09-07T12:52:42+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "U.S. Navy, Quad partners move to ‘fingerprint’ dark fleets in the Pacific with Vantor’s AI",
           "url": "https://defensescoop.com/2026/09/04/us-navy-quad-partners-fingerprint-dark-fleets-pacific-vantor-ai",
           "publishedAt": "2026-09-04T19:47:33+00:00",
@@ -284,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-08T18:03:27+00:00",
+      "updatedAt": "2026-09-08T19:00:34+00:00",
       "stories": [
         {
           "title": "OpenAI opens the books on its AI research intern",
@@ -381,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-08T18:03:27+00:00",
+      "updatedAt": "2026-09-08T19:00:34+00:00",
       "stories": [
         {
           "title": "Why vision AI is the safety backbone of the automated job site",
@@ -477,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-08T18:03:27+00:00",
+    "updatedAt": "2026-09-08T19:00:34+00:00",
     "stories": [
       {
         "title": "OpenAI opens the books on its AI research intern",
@@ -516,19 +522,19 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Minister McGuinty to advance defence cooperation and industrial partnerships with Poland at MSPO 2026",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/minister-mcguinty-to-advance-defence-cooperation-and-industrial-partnerships-with-poland-at-mspo-2026.html",
-        "publishedAt": "2026-09-04T15:51:34+00:00",
+        "title": "Minister McGuinty concludes visit to Poland, advancing Canada–Poland defence and industrial cooperation",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/minister-mcguinty-concludes-visit-to-poland-advancing-canadapoland-defence-and-industrial-cooperation.html",
+        "publishedAt": "2026-09-08T18:40:31+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
         "bulletinRole": "lead"
       },
       {
-        "title": "European missile-maker MBDA opens first industrial facility in Poland",
-        "url": "https://breakingdefense.com/2026/09/european-missile-maker-mbda-opens-first-industrial-facility-in-poland",
-        "publishedAt": "2026-09-08T17:05:00+00:00",
-        "source": "Breaking Defense",
+        "title": "Poland’s in-development fighting vehicle carries newfound defense-export drive",
+        "url": "https://www.defensenews.com/global/europe/2026/09/08/polands-in-development-fighting-vehicle-carries-newfound-defense-export-drive",
+        "publishedAt": "2026-09-08T18:21:59+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -561,10 +567,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Hanwha plans to build armored vehicle carrying a counter-drone laser",
-        "url": "https://www.defensenews.com/global/europe/2026/09/08/hanwha-plans-to-build-armored-vehicle-carrying-a-counter-drone-laser",
-        "publishedAt": "2026-09-08T17:21:49+00:00",
-        "source": "Defense News",
+        "title": "European missile-maker MBDA opens first industrial facility in Poland",
+        "url": "https://breakingdefense.com/2026/09/european-missile-maker-mbda-opens-first-industrial-facility-in-poland",
+        "publishedAt": "2026-09-08T17:05:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
