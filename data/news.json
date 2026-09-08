@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T21:04:38+00:00",
+  "generatedAt": "2026-09-08T22:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-08T21:04:38+00:00",
+      "updatedAt": "2026-09-08T22:00:30+00:00",
       "stories": [
         {
           "title": "Did Venus eat its own moon?",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-08T21:04:38+00:00",
+      "updatedAt": "2026-09-08T22:00:30+00:00",
       "stories": [
         {
           "title": "Farcast clears Telesat Lightspeed antenna milestone",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-08T21:04:38+00:00",
+      "updatedAt": "2026-09-08T22:00:30+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes visit to Poland, advancing Canada–Poland defence and industrial cooperation",
@@ -193,8 +193,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-08T21:04:38+00:00",
+      "updatedAt": "2026-09-08T22:00:30+00:00",
       "stories": [
+        {
+          "title": "Army sets new biodefense plan to counter pandemic, adversary threats",
+          "url": "https://breakingdefense.com/2026/09/army-sets-new-biodefense-plan-to-counter-pandemic-adversary-threats",
+          "publishedAt": "2026-09-08T21:20:36+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Ukraine contracting around 1,000 Patriot missiles from allies, defense chief says",
+          "url": "https://www.defensenews.com/flashpoints/ukraine/2026/09/08/ukraine-contracting-around-1000-patriot-missiles-from-allies-defense-chief-says",
+          "publishedAt": "2026-09-08T21:29:19+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Defense a key focus for new UK $10.6B, 4-year space spending plan",
           "url": "https://breakingdefense.com/2026/09/defense-a-key-focus-for-new-uk-10-6b-4-year-space-spending-plan",
@@ -206,6 +218,12 @@
           "url": "https://www.defensenews.com/global/europe/2026/09/08/polands-in-development-fighting-vehicle-carries-newfound-defense-export-drive",
           "publishedAt": "2026-09-08T18:21:59+00:00",
           "source": "Defense News"
+        },
+        {
+          "title": "U.S. military’s Anduril Dive-LD drone was ‘dead in the water’ before Iran nabbed it",
+          "url": "https://defensescoop.com/2026/09/08/us-militarys-anduril-dive-ld-drone-captured-by-iran",
+          "publishedAt": "2026-09-08T21:02:06+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "European missile-maker MBDA opens first industrial facility in Poland",
@@ -244,21 +262,9 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Poland’s PGZ unveils Heavy Infantry Fighting Vehicle tech demonstrator",
-          "url": "https://breakingdefense.com/2026/09/polands-pgz-unveils-heavy-infantry-fighting-vehicle-tech-demonstrator",
-          "publishedAt": "2026-09-08T14:36:48+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Sweden to buy HIMARS rocket artillery for around $730 million",
           "url": "https://www.defensenews.com/global/europe/2026/09/08/sweden-to-buy-himars-rocket-artillery-for-around-730-million",
           "publishedAt": "2026-09-08T10:47:22+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "EU abruptly shelves Kallas-led defense panel after pushback from Berlin, Paris, Rome",
-          "url": "https://www.defensenews.com/global/europe/2026/09/08/eu-abruptly-shelves-kallas-led-defense-panel-after-pushback-from-berlin-paris-rome",
-          "publishedAt": "2026-09-08T09:54:35+00:00",
           "source": "Defense News"
         },
         {
@@ -278,20 +284,20 @@
           "url": "https://defensescoop.com/2026/09/04/air-force-accelerate-mq-9-reaper-drone-replacement-after-combat-losses",
           "publishedAt": "2026-09-04T14:59:16+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Pentagon kicks off pursuit of mobile SCIFs to aid defense companies",
-          "url": "https://defensescoop.com/2026/09/03/mobile-scif-secure-space-network",
-          "publishedAt": "2026-09-03T21:39:06+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-08T21:04:38+00:00",
+      "updatedAt": "2026-09-08T22:00:30+00:00",
       "stories": [
+        {
+          "title": "Hackers are stealing Claude tokens from subscribers",
+          "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers",
+          "publishedAt": "2026-09-08T21:10:27+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
           "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
@@ -320,12 +326,6 @@
           "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
           "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it",
           "publishedAt": "2026-09-08T19:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "publishedAt": "2026-09-08T17:32:15+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-08T21:04:38+00:00",
+      "updatedAt": "2026-09-08T22:00:30+00:00",
       "stories": [
         {
           "title": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
@@ -483,22 +483,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-08T21:04:38+00:00",
+    "updatedAt": "2026-09-08T22:00:30+00:00",
     "stories": [
       {
-        "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-        "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
-        "publishedAt": "2026-09-08T21:04:06+00:00",
+        "title": "Hackers are stealing Claude tokens from subscribers",
+        "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers",
+        "publishedAt": "2026-09-08T21:10:27+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI opens the books on its AI research intern",
-        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "publishedAt": "2026-09-08T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+        "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
+        "publishedAt": "2026-09-08T21:04:06+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Defense a key focus for new UK $10.6B, 4-year space spending plan",
-        "url": "https://breakingdefense.com/2026/09/defense-a-key-focus-for-new-uk-10-6b-4-year-space-spending-plan",
-        "publishedAt": "2026-09-08T19:59:02+00:00",
+        "title": "Army sets new biodefense plan to counter pandemic, adversary threats",
+        "url": "https://breakingdefense.com/2026/09/army-sets-new-biodefense-plan-to-counter-pandemic-adversary-threats",
+        "publishedAt": "2026-09-08T21:20:36+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -558,19 +558,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "AI can’t outrun a humanoid’s hardware",
-        "url": "https://www.therobotreport.com/ai-cant-outrun-a-humanoids-hardware",
-        "publishedAt": "2026-09-08T19:03:09+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
+        "title": "Ukraine contracting around 1,000 Patriot missiles from allies, defense chief says",
+        "url": "https://www.defensenews.com/flashpoints/ukraine/2026/09/08/ukraine-contracting-around-1000-patriot-missiles-from-allies-defense-chief-says",
+        "publishedAt": "2026-09-08T21:29:19+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Poland’s in-development fighting vehicle carries newfound defense-export drive",
-        "url": "https://www.defensenews.com/global/europe/2026/09/08/polands-in-development-fighting-vehicle-carries-newfound-defense-export-drive",
-        "publishedAt": "2026-09-08T18:21:59+00:00",
-        "source": "Defense News",
+        "title": "Defense a key focus for new UK $10.6B, 4-year space spending plan",
+        "url": "https://breakingdefense.com/2026/09/defense-a-key-focus-for-new-uk-10-6b-4-year-space-spending-plan",
+        "publishedAt": "2026-09-08T19:59:02+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
