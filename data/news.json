@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T09:00:30+00:00",
+  "generatedAt": "2026-09-08T10:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-08T09:00:30+00:00",
+      "updatedAt": "2026-09-08T10:00:32+00:00",
       "stories": [
         {
           "title": "Anak Krakatau eruption by Sentinel-3",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-08T09:00:30+00:00",
+      "updatedAt": "2026-09-08T10:00:32+00:00",
       "stories": [
         {
           "title": "Isar Aerospace Spectrum rocket reaches orbit, eyes 2028 launch from Canada",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-08T09:00:30+00:00",
+      "updatedAt": "2026-09-08T10:00:32+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to advance defence cooperation and industrial partnerships with Poland at MSPO 2026",
@@ -187,8 +187,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-08T09:00:30+00:00",
+      "updatedAt": "2026-09-08T10:00:32+00:00",
       "stories": [
+        {
+          "title": "EU abruptly shelves Kallas-led defense panel after pushback from Berlin, Paris, Rome",
+          "url": "https://www.defensenews.com/global/europe/2026/09/08/eu-abruptly-shelves-kallas-led-defense-panel-after-pushback-from-berlin-paris-rome",
+          "publishedAt": "2026-09-08T09:54:35+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Sweden signs HIMARS deal, forges rocket artillery pact with Finland",
           "url": "https://breakingdefense.com/2026/09/sweden-signed-himars-deal-forges-rocket-artillery-pact-with-finland",
@@ -250,12 +256,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "Opposition by US and Russia raises doubts over autonomous weapons talks outcome, diplomats say",
-          "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/04/opposition-by-us-and-russia-raises-doubts-over-autonomous-weapons-talks-outcome-diplomats-say",
-          "publishedAt": "2026-09-04T15:27:01+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Textron wins Navy task orders for drone ISR services to support 7th Fleet, other forces",
           "url": "https://defensescoop.com/2026/09/04/textron-wins-navy-task-orders-for-uas-isr-services",
           "publishedAt": "2026-09-04T15:57:25+00:00",
@@ -284,8 +284,26 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-08T09:00:30+00:00",
+      "updatedAt": "2026-09-08T10:00:32+00:00",
       "stories": [
+        {
+          "title": "OpenAI opens the books on its AI research intern",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "publishedAt": "2026-09-08T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Insilico's AI-designed drug hints at slowing aging",
+          "url": "https://www.nature.com/articles/s41587-026-03286-y",
+          "publishedAt": "2026-09-08T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "U.S. voters’ rare bipartisan issue is fearing AI",
+          "url": "https://www.nbcnews.com/politics/politics-news/poll-polarized-america-unites-deep-concerns-ai-rcna595525",
+          "publishedAt": "2026-09-08T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Another OpenAI agent swarm surfaces",
           "url": "https://collusion.wiki/index.html",
@@ -305,42 +323,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Formalizing Fermat's Last Theorem (11 minute read)",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "publishedAt": "2026-09-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Grok Imagine Video 1.5 agent (1 minute read)",
-          "url": "https://threadreaderapp.com/thread/2096298105213952178.html",
-          "publishedAt": "2026-09-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "AI Safety Is Not the Same as Security (6 minute read)",
-          "url": "https://martinalderson.com/posts/ai-safety-vs-security",
-          "publishedAt": "2026-09-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "GPT‑6 Astra on robotic manipulation (15 minute read)",
-          "url": "https://openai.robocurve.org/gpt-6-astra",
-          "publishedAt": "2026-09-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Random Attention (GitHub Repo)",
-          "url": "https://github.com/SalesforceAIResearch/Random-Attention",
-          "publishedAt": "2026-09-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Research acceleration: The view inside OpenAI (9 minute read)",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "publishedAt": "2026-09-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
           "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
           "publishedAt": "2026-09-06T20:47:37+00:00",
@@ -350,6 +332,24 @@
           "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
           "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
           "publishedAt": "2026-09-06T16:45:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+          "publishedAt": "2026-09-05T22:49:55+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Hikers rescued after using Google Gemini for planning",
+          "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+          "publishedAt": "2026-09-05T19:35:24+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+          "publishedAt": "2026-09-05T18:05:27+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -381,7 +381,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-08T09:00:30+00:00",
+      "updatedAt": "2026-09-08T10:00:32+00:00",
       "stories": [
         {
           "title": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
@@ -477,21 +477,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-08T09:00:30+00:00",
+    "updatedAt": "2026-09-08T10:00:32+00:00",
     "stories": [
       {
-        "title": "Another OpenAI agent swarm surfaces",
-        "url": "https://collusion.wiki/index.html",
-        "publishedAt": "2026-09-07T10:00:00+00:00",
+        "title": "OpenAI opens the books on its AI research intern",
+        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "publishedAt": "2026-09-08T09:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI's chief scientist asks for an AI slowdown",
-        "url": "https://openai.com/index/an-alien-mind",
-        "publishedAt": "2026-09-07T10:00:00+00:00",
+        "title": "Insilico's AI-designed drug hints at slowing aging",
+        "url": "https://www.nature.com/articles/s41587-026-03286-y",
+        "publishedAt": "2026-09-08T09:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -525,10 +525,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Sweden signs HIMARS deal, forges rocket artillery pact with Finland",
-        "url": "https://breakingdefense.com/2026/09/sweden-signed-himars-deal-forges-rocket-artillery-pact-with-finland",
-        "publishedAt": "2026-09-07T19:08:52+00:00",
-        "source": "Breaking Defense",
+        "title": "EU abruptly shelves Kallas-led defense panel after pushback from Berlin, Paris, Rome",
+        "url": "https://www.defensenews.com/global/europe/2026/09/08/eu-abruptly-shelves-kallas-led-defense-panel-after-pushback-from-berlin-paris-rome",
+        "publishedAt": "2026-09-08T09:54:35+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -541,6 +541,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "U.S. voters’ rare bipartisan issue is fearing AI",
+        "url": "https://www.nbcnews.com/politics/politics-news/poll-polarized-america-unites-deep-concerns-ai-rcna595525",
+        "publishedAt": "2026-09-08T09:00:00+00:00",
+        "source": "The Rundown AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
@@ -558,15 +567,6 @@
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Rafael, Lower Saxony and Aurelius to develop Volkswagen site in Germany",
-        "url": "https://breakingdefense.com/2026/09/rafael-lower-saxony-and-aurelius-to-develop-volkswagen-site-in-germany",
-        "publishedAt": "2026-09-07T18:40:10+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -682,6 +682,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-26"
   ]
 }
