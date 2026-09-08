@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-09-08T10:07:59+00:00",
+  "generatedAt": "2026-09-08T11:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-08T10:07:59+00:00",
+      "updatedAt": "2026-09-08T11:00:28+00:00",
       "stories": [
         {
           "title": "Anak Krakatau eruption by Sentinel-3",
           "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Anak_Krakatau_eruption_by_Sentinel-3",
           "publishedAt": "2026-09-08T08:45:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "The Vela Incident: Did an American satellite detect a secret nuclear test in 1979?",
+          "url": "https://www.space.com/space-exploration/satellites/the-vela-incident-did-an-american-satellite-detect-a-secret-nuclear-test-in-1979",
+          "publishedAt": "2026-09-08T10:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
@@ -40,12 +46,6 @@
           "title": "Earth's moon could have formed in just 5 hours after giant impact",
           "url": "https://www.space.com/astronomy/moon/earths-moon-could-have-formed-in-just-5-hours-after-giant-impact",
           "publishedAt": "2026-09-07T16:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "On this day in space! Sept. 7, 1995: NASA launches its 100th astronaut flight on space shuttle Endeavour's STS-69 mission",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-7-2026",
-          "publishedAt": "2026-09-07T14:47:05+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-08T10:07:59+00:00",
+      "updatedAt": "2026-09-08T11:00:28+00:00",
       "stories": [
         {
           "title": "Isar Aerospace Spectrum rocket reaches orbit, eyes 2028 launch from Canada",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-08T10:07:59+00:00",
+      "updatedAt": "2026-09-08T11:00:28+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to advance defence cooperation and industrial partnerships with Poland at MSPO 2026",
@@ -187,8 +187,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-08T10:07:59+00:00",
+      "updatedAt": "2026-09-08T11:00:28+00:00",
       "stories": [
+        {
+          "title": "Sweden to buy HIMARS rocket artillery for around $730 million",
+          "url": "https://www.defensenews.com/global/europe/2026/09/08/sweden-to-buy-himars-rocket-artillery-for-around-730-million",
+          "publishedAt": "2026-09-08T10:47:22+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "EU abruptly shelves Kallas-led defense panel after pushback from Berlin, Paris, Rome",
           "url": "https://www.defensenews.com/global/europe/2026/09/08/eu-abruptly-shelves-kallas-led-defense-panel-after-pushback-from-berlin-paris-rome",
@@ -238,12 +244,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Trump to travel aboard Qatari-donated Air Force One to Ireland",
-          "url": "https://www.defensenews.com/news/your-military/2026/09/04/trump-to-travel-aboard-qatari-donated-air-force-one-to-ireland",
-          "publishedAt": "2026-09-04T18:58:02+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "You get a SCIF, you get a SCIF: Pentagon unveils ‘Secure Space Network’",
           "url": "https://breakingdefense.com/2026/09/you-get-a-scif-you-get-a-scif-pentagon-unveils-secure-space-network",
           "publishedAt": "2026-09-04T17:46:10+00:00",
@@ -284,7 +284,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-08T10:07:59+00:00",
+      "updatedAt": "2026-09-08T11:00:28+00:00",
       "stories": [
         {
           "title": "OpenAI opens the books on its AI research intern",
@@ -323,42 +323,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Formalizing Fermat's Last Theorem (11 minute read)",
-          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-          "publishedAt": "2026-09-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Grok Imagine Video 1.5 agent (1 minute read)",
-          "url": "https://threadreaderapp.com/thread/2096298105213952178.html",
-          "publishedAt": "2026-09-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "AI Safety Is Not the Same as Security (6 minute read)",
-          "url": "https://martinalderson.com/posts/ai-safety-vs-security",
-          "publishedAt": "2026-09-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "GPT‑6 Astra on robotic manipulation (15 minute read)",
-          "url": "https://openai.robocurve.org/gpt-6-astra",
-          "publishedAt": "2026-09-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Random Attention (GitHub Repo)",
-          "url": "https://github.com/SalesforceAIResearch/Random-Attention",
-          "publishedAt": "2026-09-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "LLM-as-a-Verifier (GitHub Repo)",
-          "url": "https://github.com/llm-as-a-verifier/llm-as-a-verifier",
-          "publishedAt": "2026-09-07T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
           "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
           "publishedAt": "2026-09-06T20:47:37+00:00",
@@ -371,9 +335,45 @@
           "source": "TechCrunch AI"
         },
         {
+          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+          "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
+          "publishedAt": "2026-09-05T22:49:55+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Hikers rescued after using Google Gemini for planning",
+          "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+          "publishedAt": "2026-09-05T19:35:24+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+          "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+          "publishedAt": "2026-09-05T18:05:27+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "OpenAI’s “generational leap” with GPT-6 Astra",
           "url": "https://openai.com/index/gpt-6-astra",
           "publishedAt": "2026-09-04T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Where the future of content is headed",
+          "url": "https://www.youtube.com/watch?v=zBOoEpsjWAo",
+          "publishedAt": "2026-09-04T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Google's WeatherNext 3 sharpens the forecast 5x",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3",
+          "publishedAt": "2026-09-04T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Meta, Google join the AI launch party",
+          "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
+          "publishedAt": "2026-09-03T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -381,7 +381,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-08T10:07:59+00:00",
+      "updatedAt": "2026-09-08T11:00:28+00:00",
       "stories": [
         {
           "title": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
@@ -477,7 +477,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-08T10:07:59+00:00",
+    "updatedAt": "2026-09-08T11:00:28+00:00",
     "stories": [
       {
         "title": "OpenAI opens the books on its AI research intern",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "EU abruptly shelves Kallas-led defense panel after pushback from Berlin, Paris, Rome",
-        "url": "https://www.defensenews.com/global/europe/2026/09/08/eu-abruptly-shelves-kallas-led-defense-panel-after-pushback-from-berlin-paris-rome",
-        "publishedAt": "2026-09-08T09:54:35+00:00",
+        "title": "Sweden to buy HIMARS rocket artillery for around $730 million",
+        "url": "https://www.defensenews.com/global/europe/2026/09/08/sweden-to-buy-himars-rocket-artillery-for-around-730-million",
+        "publishedAt": "2026-09-08T10:47:22+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -552,19 +552,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole",
-        "publishedAt": "2026-09-08T04:05:00+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "EU abruptly shelves Kallas-led defense panel after pushback from Berlin, Paris, Rome",
+        "url": "https://www.defensenews.com/global/europe/2026/09/08/eu-abruptly-shelves-kallas-led-defense-panel-after-pushback-from-berlin-paris-rome",
+        "publishedAt": "2026-09-08T09:54:35+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "The Otherworldly Geology of Vasquez Rocks",
-        "url": "https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks",
-        "publishedAt": "2026-09-08T04:01:00+00:00",
-        "source": "NASA",
+        "title": "The Vela Incident: Did an American satellite detect a secret nuclear test in 1979?",
+        "url": "https://www.space.com/space-exploration/satellites/the-vela-incident-did-an-american-satellite-detect-a-secret-nuclear-test-in-1979",
+        "publishedAt": "2026-09-08T10:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -682,6 +682,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-21"
   ]
 }
