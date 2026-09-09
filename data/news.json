@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-09T08:00:29+00:00",
+  "generatedAt": "2026-09-09T09:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-09T08:00:29+00:00",
+      "updatedAt": "2026-09-09T09:00:29+00:00",
       "stories": [
+        {
+          "title": "MTG-I2 reaches its final orbit",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_reaches_its_final_orbit",
+          "publishedAt": "2026-09-09T06:20:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
           "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars",
@@ -67,12 +73,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Isar Aerospace achieves first launch to orbit from continental Europe",
-          "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe",
-          "publishedAt": "2026-09-05T20:24:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
           "url": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager",
           "publishedAt": "2026-09-03T13:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-09T08:00:29+00:00",
+      "updatedAt": "2026-09-09T09:00:29+00:00",
       "stories": [
         {
           "title": "Galaxia acquires hyperspectral imager from Simera Sense",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-09T08:00:29+00:00",
+      "updatedAt": "2026-09-09T09:00:29+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes visit to Poland, advancing Canada–Poland defence and industrial cooperation",
@@ -193,8 +193,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-09T08:00:29+00:00",
+      "updatedAt": "2026-09-09T09:00:29+00:00",
       "stories": [
+        {
+          "title": "What to know about Europe’s next-gen fighter programs",
+          "url": "https://breakingdefense.com/2026/09/what-to-know-about-europes-next-gen-fighter-programs",
+          "publishedAt": "2026-09-09T08:18:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Iran says it captured US submarine drone in Strait of Hormuz",
           "url": "https://www.defensenews.com/news/your-military/2026/09/09/iran-says-it-captured-us-submarine-drone-in-strait-of-hormuz",
@@ -262,12 +268,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Air Force braces for new era of AI-powered hacking, plus unpacking the Mecca pact",
-          "url": "https://breakingdefense.com/2026/09/air-force-braces-for-new-era-of-ai-powered-hacking-plus-unpacking-the-mecca-pact",
-          "publishedAt": "2026-09-08T14:43:44+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "U.S. Navy, Quad partners move to ‘fingerprint’ dark fleets in the Pacific with Vantor’s AI",
           "url": "https://defensescoop.com/2026/09/04/us-navy-quad-partners-fingerprint-dark-fleets-pacific-vantor-ai",
           "publishedAt": "2026-09-04T19:47:33+00:00",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-09T08:00:29+00:00",
+      "updatedAt": "2026-09-09T09:00:29+00:00",
       "stories": [
         {
           "title": "Hackers are stealing Claude tokens from subscribers",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-09T08:00:29+00:00",
+      "updatedAt": "2026-09-09T09:00:29+00:00",
       "stories": [
         {
           "title": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-09T08:00:29+00:00",
+    "updatedAt": "2026-09-09T09:00:29+00:00",
     "stories": [
       {
         "title": "Hackers are stealing Claude tokens from subscribers",
@@ -513,10 +513,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
-        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars",
-        "publishedAt": "2026-09-09T06:20:49+00:00",
-        "source": "NASA",
+        "title": "MTG-I2 reaches its final orbit",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_reaches_its_final_orbit",
+        "publishedAt": "2026-09-09T06:20:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -531,10 +531,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Iran says it captured US submarine drone in Strait of Hormuz",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/09/iran-says-it-captured-us-submarine-drone-in-strait-of-hormuz",
-        "publishedAt": "2026-09-09T02:03:19+00:00",
-        "source": "Defense News",
+        "title": "What to know about Europe’s next-gen fighter programs",
+        "url": "https://breakingdefense.com/2026/09/what-to-know-about-europes-next-gen-fighter-programs",
+        "publishedAt": "2026-09-09T08:18:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -558,19 +558,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Anak Krakatau Rumbles Again",
-        "url": "https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again",
-        "publishedAt": "2026-09-09T04:01:00+00:00",
+        "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars",
+        "publishedAt": "2026-09-09T06:20:49+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Army sets new biodefense plan to counter pandemic, adversary threats",
-        "url": "https://breakingdefense.com/2026/09/army-sets-new-biodefense-plan-to-counter-pandemic-adversary-threats",
-        "publishedAt": "2026-09-08T21:20:36+00:00",
-        "source": "Breaking Defense",
+        "title": "Iran says it captured US submarine drone in Strait of Hormuz",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/09/iran-says-it-captured-us-submarine-drone-in-strait-of-hormuz",
+        "publishedAt": "2026-09-09T02:03:19+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
@@ -689,6 +689,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-17"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-19"
   ]
 }
