@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-09T06:05:32+00:00",
+  "generatedAt": "2026-09-09T07:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-09T06:05:32+00:00",
+      "updatedAt": "2026-09-09T07:00:28+00:00",
       "stories": [
+        {
+          "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
+          "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars",
+          "publishedAt": "2026-09-09T06:20:49+00:00",
+          "source": "NASA"
+        },
         {
           "title": "Anak Krakatau Rumbles Again",
           "url": "https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again",
@@ -29,12 +35,6 @@
           "url": "https://www.space.com/space-exploration/private-spaceflight/stoke-space-raises-usd1-billion-for-fully-reusable-rockets-targets-early-2027-for-1st-ever-launch",
           "publishedAt": "2026-09-08T19:23:56+00:00",
           "source": "Space.com"
-        },
-        {
-          "title": "NASA Calls for Proposals to Accelerate Lunar Surface Technologies",
-          "url": "https://www.nasa.gov/news-release/nasa-calls-for-proposals-to-accelerate-lunar-surface-technologies",
-          "publishedAt": "2026-09-08T20:16:16+00:00",
-          "source": "NASA"
         },
         {
           "title": "'Star Trek' imagined strange new worlds 60 years ago, but are real exoplanets even stranger?",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-09T06:05:32+00:00",
+      "updatedAt": "2026-09-09T07:00:28+00:00",
       "stories": [
         {
           "title": "Galaxia acquires hyperspectral imager from Simera Sense",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-09T06:05:32+00:00",
+      "updatedAt": "2026-09-09T07:00:28+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes visit to Poland, advancing Canada–Poland defence and industrial cooperation",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-09T06:05:32+00:00",
+      "updatedAt": "2026-09-09T07:00:28+00:00",
       "stories": [
         {
           "title": "Iran says it captured US submarine drone in Strait of Hormuz",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-09T06:05:32+00:00",
+      "updatedAt": "2026-09-09T07:00:28+00:00",
       "stories": [
         {
           "title": "Hackers are stealing Claude tokens from subscribers",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-09T06:05:32+00:00",
+      "updatedAt": "2026-09-09T07:00:28+00:00",
       "stories": [
         {
           "title": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-09T06:05:32+00:00",
+    "updatedAt": "2026-09-09T07:00:28+00:00",
     "stories": [
       {
         "title": "Hackers are stealing Claude tokens from subscribers",
@@ -513,9 +513,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Anak Krakatau Rumbles Again",
-        "url": "https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again",
-        "publishedAt": "2026-09-09T04:01:00+00:00",
+        "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars",
+        "publishedAt": "2026-09-09T06:20:49+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -558,21 +558,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "Anak Krakatau Rumbles Again",
+        "url": "https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again",
+        "publishedAt": "2026-09-09T04:01:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Army sets new biodefense plan to counter pandemic, adversary threats",
         "url": "https://breakingdefense.com/2026/09/army-sets-new-biodefense-plan-to-counter-pandemic-adversary-threats",
         "publishedAt": "2026-09-08T21:20:36+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "NorthStar $2M IRAP funding backs new sensors",
-        "url": "https://spaceq.ca/northstar-irap-funding-backs-space-sensors",
-        "publishedAt": "2026-09-08T11:18:00+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
