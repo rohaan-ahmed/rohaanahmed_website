@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-09T18:00:33+00:00",
+  "generatedAt": "2026-09-09T18:32:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-09T18:00:33+00:00",
+      "updatedAt": "2026-09-09T18:32:31+00:00",
       "stories": [
+        {
+          "title": "NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean?",
+          "url": "https://www.space.com/astronomy/exoplanets/nasas-newly-launched-roman-space-telescope-will-directly-image-exoplanets-but-what-does-that-mean",
+          "publishedAt": "2026-09-09T18:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "We're about to exceed 1.5-degree global warming limit, according to the UN",
           "url": "https://www.space.com/science/climate-change/were-about-to-exceed-1-5-degree-global-warming-limit-according-to-the-un",
@@ -35,12 +41,6 @@
           "url": "https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall",
           "publishedAt": "2026-09-09T15:31:44+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Indonesian volcanic eruption spotted from space | Space photo of the day for Sept. 9, 2026",
-          "url": "https://www.space.com/astronomy/earth/indonesian-volcanic-eruption-spotted-from-space-space-photo-of-the-day-for-sept-9-2026",
-          "publishedAt": "2026-09-09T14:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "On this day in space! Sept. 9, 1982: The 1st private rocket, called Conestoga 1, launches from a Texas cattle ranch",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-09T18:00:33+00:00",
+      "updatedAt": "2026-09-09T18:32:31+00:00",
       "stories": [
         {
           "title": "EarthDaily joins Canada’s satellite-imagery standing offer",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-09T18:00:33+00:00",
+      "updatedAt": "2026-09-09T18:32:31+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes visit to Poland, advancing Canada–Poland defence and industrial cooperation",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-09T18:00:33+00:00",
+      "updatedAt": "2026-09-09T18:32:31+00:00",
       "stories": [
         {
           "title": "Lockheed Martin secures $950M Australian air battle management contract",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-09T18:00:33+00:00",
+      "updatedAt": "2026-09-09T18:32:31+00:00",
       "stories": [
         {
           "title": "OpenAI claims a Millennium Prize problem",
@@ -311,21 +311,21 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+          "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score",
+          "publishedAt": "2026-09-09T18:16:29+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+          "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop",
+          "publishedAt": "2026-09-09T18:08:35+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
           "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone",
           "publishedAt": "2026-09-09T17:36:05+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Superintelligence is coming. Should we let it?",
-          "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it",
-          "publishedAt": "2026-09-09T16:05:35+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
-          "url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary",
-          "publishedAt": "2026-09-09T15:50:13+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-09T18:00:33+00:00",
+      "updatedAt": "2026-09-09T18:32:31+00:00",
       "stories": [
         {
           "title": "AGIBOT to explain how to scale humanoids from the lab to the real world at RoboBusiness",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-09T18:00:33+00:00",
+    "updatedAt": "2026-09-09T18:32:31+00:00",
     "stories": [
       {
         "title": "OpenAI claims a Millennium Prize problem",
@@ -513,9 +513,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "We're about to exceed 1.5-degree global warming limit, according to the UN",
-        "url": "https://www.space.com/science/climate-change/were-about-to-exceed-1-5-degree-global-warming-limit-according-to-the-un",
-        "publishedAt": "2026-09-09T16:00:00+00:00",
+        "title": "NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean?",
+        "url": "https://www.space.com/astronomy/exoplanets/nasas-newly-launched-roman-space-telescope-will-directly-image-exoplanets-but-what-does-that-mean",
+        "publishedAt": "2026-09-09T18:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
