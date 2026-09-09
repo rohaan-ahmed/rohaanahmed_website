@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-09T11:00:31+00:00",
+  "generatedAt": "2026-09-09T11:13:39+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-09T11:00:31+00:00",
+      "updatedAt": "2026-09-09T11:13:39+00:00",
       "stories": [
         {
           "title": "China on track to launch Mars sample-return mission in 2028: 'If accurate, this represents a Sputnik moment'",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-09T11:00:31+00:00",
+      "updatedAt": "2026-09-09T11:13:39+00:00",
       "stories": [
         {
           "title": "Galaxia acquires hyperspectral imager from Simera Sense",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-09T11:00:31+00:00",
+      "updatedAt": "2026-09-09T11:13:39+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes visit to Poland, advancing Canada–Poland defence and industrial cooperation",
@@ -193,8 +193,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-09T11:00:31+00:00",
+      "updatedAt": "2026-09-09T11:13:39+00:00",
       "stories": [
+        {
+          "title": "Defense startup’s AI aims to make every munition count",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/09/09/defense-startups-ai-aims-to-make-every-munition-count",
+          "publishedAt": "2026-09-09T11:00:00+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Ukrainian industry scrambles to field interceptors against Russian jet drones",
           "url": "https://www.defensenews.com/global/europe/2026/09/09/ukrainian-industry-scrambles-to-field-interceptors-against-russian-jet-drones",
@@ -236,12 +242,6 @@
           "url": "https://breakingdefense.com/2026/09/defense-a-key-focus-for-new-uk-10-6b-4-year-space-spending-plan",
           "publishedAt": "2026-09-08T19:59:02+00:00",
           "source": "Breaking Defense"
-        },
-        {
-          "title": "Poland’s in-development fighting vehicle carries newfound defense-export drive",
-          "url": "https://www.defensenews.com/global/europe/2026/09/08/polands-in-development-fighting-vehicle-carries-newfound-defense-export-drive",
-          "publishedAt": "2026-09-08T18:21:59+00:00",
-          "source": "Defense News"
         },
         {
           "title": "U.S. military’s Anduril Dive-LD drone was ‘dead in the water’ before Iran nabbed it",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-09T11:00:31+00:00",
+      "updatedAt": "2026-09-09T11:13:39+00:00",
       "stories": [
         {
           "title": "OpenAI claims a Millennium Prize problem",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-09T11:00:31+00:00",
+      "updatedAt": "2026-09-09T11:13:39+00:00",
       "stories": [
         {
           "title": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-09T11:00:31+00:00",
+    "updatedAt": "2026-09-09T11:13:39+00:00",
     "stories": [
       {
         "title": "OpenAI claims a Millennium Prize problem",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Ukrainian industry scrambles to field interceptors against Russian jet drones",
-        "url": "https://www.defensenews.com/global/europe/2026/09/09/ukrainian-industry-scrambles-to-field-interceptors-against-russian-jet-drones",
-        "publishedAt": "2026-09-09T09:52:07+00:00",
+        "title": "Defense startup’s AI aims to make every munition count",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/09/defense-startups-ai-aims-to-make-every-munition-count",
+        "publishedAt": "2026-09-09T11:00:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -558,19 +558,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "South Korea supercharges defense budget to record levels",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/09/south-korea-supercharges-defense-budget-to-record-levels",
-        "publishedAt": "2026-09-09T09:23:05+00:00",
+        "title": "Ukrainian industry scrambles to field interceptors against Russian jet drones",
+        "url": "https://www.defensenews.com/global/europe/2026/09/09/ukrainian-industry-scrambles-to-field-interceptors-against-russian-jet-drones",
+        "publishedAt": "2026-09-09T09:52:07+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "What to know about Europe’s next-gen fighter programs",
-        "url": "https://breakingdefense.com/2026/09/what-to-know-about-europes-next-gen-fighter-programs",
-        "publishedAt": "2026-09-09T08:18:00+00:00",
-        "source": "Breaking Defense",
+        "title": "South Korea supercharges defense budget to record levels",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/09/south-korea-supercharges-defense-budget-to-record-levels",
+        "publishedAt": "2026-09-09T09:23:05+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
