@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-09T09:00:29+00:00",
+  "generatedAt": "2026-09-09T10:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-09T09:00:29+00:00",
+      "updatedAt": "2026-09-09T10:00:29+00:00",
       "stories": [
+        {
+          "title": "China on track to launch Mars sample-return mission in 2028: 'If accurate, this represents a Sputnik moment'",
+          "url": "https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment",
+          "publishedAt": "2026-09-09T10:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "MTG-I2 reaches its final orbit",
           "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_reaches_its_final_orbit",
@@ -46,12 +52,6 @@
           "title": "'Star Trek' imagined strange new worlds 60 years ago, but are real exoplanets even stranger?",
           "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-imagined-strange-new-worlds-60-years-ago-but-are-real-exoplanets-even-stranger",
           "publishedAt": "2026-09-08T19:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Astrophotographer captures jaw-dropping view of the Crescent Nebula",
-          "url": "https://www.space.com/stargazing/astrophotography/astrophotographer-captures-jaw-dropping-view-of-the-crescent-nebula",
-          "publishedAt": "2026-09-08T18:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-09T09:00:29+00:00",
+      "updatedAt": "2026-09-09T10:00:29+00:00",
       "stories": [
         {
           "title": "Galaxia acquires hyperspectral imager from Simera Sense",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-09T09:00:29+00:00",
+      "updatedAt": "2026-09-09T10:00:29+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes visit to Poland, advancing Canada–Poland defence and industrial cooperation",
@@ -193,8 +193,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-09T09:00:29+00:00",
+      "updatedAt": "2026-09-09T10:00:29+00:00",
       "stories": [
+        {
+          "title": "Ukrainian industry scrambles to field interceptors against Russian jet drones",
+          "url": "https://www.defensenews.com/global/europe/2026/09/09/ukrainian-industry-scrambles-to-field-interceptors-against-russian-jet-drones",
+          "publishedAt": "2026-09-09T09:52:07+00:00",
+          "source": "Defense News"
+        },
+        {
+          "title": "South Korea supercharges defense budget to record levels",
+          "url": "https://www.defensenews.com/global/asia-pacific/2026/09/09/south-korea-supercharges-defense-budget-to-record-levels",
+          "publishedAt": "2026-09-09T09:23:05+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "What to know about Europe’s next-gen fighter programs",
           "url": "https://breakingdefense.com/2026/09/what-to-know-about-europes-next-gen-fighter-programs",
@@ -250,18 +262,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "Hanwha plans to build armored vehicle carrying a counter-drone laser",
-          "url": "https://www.defensenews.com/global/europe/2026/09/08/hanwha-plans-to-build-armored-vehicle-carrying-a-counter-drone-laser",
-          "publishedAt": "2026-09-08T17:21:49+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "US Air Force seeks air-defense guns to protect overseas bases",
-          "url": "https://www.defensenews.com/news/your-military/2026/09/08/us-air-force-seeks-air-defense-guns-to-protect-overseas-bases",
-          "publishedAt": "2026-09-08T17:15:42+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "White House has lofty space launch ambitions, but experts question price tag",
           "url": "https://breakingdefense.com/2026/09/white-house-has-lofty-space-launch-ambitions-but-experts-question-price-tag",
           "publishedAt": "2026-09-08T16:11:18+00:00",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-09T09:00:29+00:00",
+      "updatedAt": "2026-09-09T10:00:29+00:00",
       "stories": [
         {
           "title": "Hackers are stealing Claude tokens from subscribers",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-09T09:00:29+00:00",
+      "updatedAt": "2026-09-09T10:00:29+00:00",
       "stories": [
         {
           "title": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-09T09:00:29+00:00",
+    "updatedAt": "2026-09-09T10:00:29+00:00",
     "stories": [
       {
         "title": "Hackers are stealing Claude tokens from subscribers",
@@ -513,10 +513,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "MTG-I2 reaches its final orbit",
-        "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_reaches_its_final_orbit",
-        "publishedAt": "2026-09-09T06:20:00+00:00",
-        "source": "European Space Agency",
+        "title": "China on track to launch Mars sample-return mission in 2028: 'If accurate, this represents a Sputnik moment'",
+        "url": "https://www.space.com/astronomy/mars/china-on-track-to-launch-mars-sample-return-mission-in-2028-if-accurate-this-represents-a-sputnik-moment",
+        "publishedAt": "2026-09-09T10:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -531,10 +531,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "What to know about Europe’s next-gen fighter programs",
-        "url": "https://breakingdefense.com/2026/09/what-to-know-about-europes-next-gen-fighter-programs",
-        "publishedAt": "2026-09-09T08:18:00+00:00",
-        "source": "Breaking Defense",
+        "title": "Ukrainian industry scrambles to field interceptors against Russian jet drones",
+        "url": "https://www.defensenews.com/global/europe/2026/09/09/ukrainian-industry-scrambles-to-field-interceptors-against-russian-jet-drones",
+        "publishedAt": "2026-09-09T09:52:07+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -549,30 +549,30 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Farcast clears Telesat Lightspeed antenna milestone",
-        "url": "https://spaceq.ca/farcast-clears-telesat-lightspeed-antenna-milestone",
-        "publishedAt": "2026-09-08T17:47:11+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
-        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars",
-        "publishedAt": "2026-09-09T06:20:49+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Iran says it captured US submarine drone in Strait of Hormuz",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/09/iran-says-it-captured-us-submarine-drone-in-strait-of-hormuz",
-        "publishedAt": "2026-09-09T02:03:19+00:00",
+        "title": "South Korea supercharges defense budget to record levels",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/09/south-korea-supercharges-defense-budget-to-record-levels",
+        "publishedAt": "2026-09-09T09:23:05+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "What to know about Europe’s next-gen fighter programs",
+        "url": "https://breakingdefense.com/2026/09/what-to-know-about-europes-next-gen-fighter-programs",
+        "publishedAt": "2026-09-09T08:18:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "MTG-I2 reaches its final orbit",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_reaches_its_final_orbit",
+        "publishedAt": "2026-09-09T06:20:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -689,6 +689,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-19"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-24"
   ]
 }
