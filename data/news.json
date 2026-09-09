@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-09T22:00:28+00:00",
+  "generatedAt": "2026-09-09T23:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-09T22:00:28+00:00",
+      "updatedAt": "2026-09-09T23:00:33+00:00",
       "stories": [
         {
           "title": "This 'impossible' black hole merger may be explained by a warp in spacetime",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-09T22:00:28+00:00",
+      "updatedAt": "2026-09-09T23:00:33+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces creates new space professional occupation",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-09T22:00:28+00:00",
+      "updatedAt": "2026-09-09T23:00:33+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes visit to Poland, advancing Canada–Poland defence and industrial cooperation",
@@ -193,8 +193,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-09T22:00:28+00:00",
+      "updatedAt": "2026-09-09T23:00:33+00:00",
       "stories": [
+        {
+          "title": "‘Truly concerns me’: DAWG director warns funding lapse could kill ‘momentum’",
+          "url": "https://breakingdefense.com/2026/09/truly-concerns-me-dawg-director-warns-funding-lapse-could-kill-momentum",
+          "publishedAt": "2026-09-09T22:02:35+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Army ‘not walking away’ from UAVs despite reverting drone unit back to infantry",
           "url": "https://breakingdefense.com/2026/09/army-not-walking-away-from-uavs-despite-reverting-drone-unit-back-to-infantry",
@@ -230,12 +236,6 @@
           "url": "https://defensescoop.com/2026/09/09/covenant-unveils-deep-precision-strike-missile",
           "publishedAt": "2026-09-09T20:19:00+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Elbit America rebrands as Twenty-Six Defense",
-          "url": "https://breakingdefense.com/2026/09/elbit-america-rebrands-as-twenty-six-defense",
-          "publishedAt": "2026-09-09T16:36:30+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Saab tapped to continue work on Sweden’s next flagship fighter jet",
@@ -290,8 +290,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-09T22:00:28+00:00",
+      "updatedAt": "2026-09-09T23:00:33+00:00",
       "stories": [
+        {
+          "title": "OpenAI adds a prominent AI doomer to its board of directors",
+          "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
+          "publishedAt": "2026-09-09T22:25:22+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Massachusetts hits data centers with new clean power rules",
           "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules",
@@ -323,28 +329,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-          "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch",
-          "publishedAt": "2026-09-09T20:03:43+00:00",
-          "source": "TechCrunch AI"
+          "title": "Introducing Muse: The World's First Personal AI Agent Built for Everyone (5 minute read)",
+          "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent",
+          "publishedAt": "2026-09-09T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "The hinge for Apple’s new foldable phone was built with AI",
-          "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai",
-          "publishedAt": "2026-09-09T19:21:48+00:00",
-          "source": "TechCrunch AI"
+          "title": "&gt;10x More Efficient Pretraining (15 minute read)",
+          "url": "https://magic.dev/blog/pretraining",
+          "publishedAt": "2026-09-09T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-          "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score",
-          "publishedAt": "2026-09-09T18:16:29+00:00",
-          "source": "TechCrunch AI"
+          "title": "Inside the megakernel serving engine for North Mini Code (22 minute read)",
+          "url": "https://cohere.com/blog/megakernels",
+          "publishedAt": "2026-09-09T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
-          "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop",
-          "publishedAt": "2026-09-09T18:08:35+00:00",
-          "source": "TechCrunch AI"
+          "title": "Pretraining progress is mostly coming from data (17 minute read)",
+          "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
+          "publishedAt": "2026-09-09T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Google's AlphaGenome Maps 9 Billion Genetic Variants (4 minute read)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas",
+          "publishedAt": "2026-09-09T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Hyper-𝜏-bench: Evaluating agents that build agents (4 minute read)",
+          "url": "https://sierra.ai/blog/hyper-t-bench-evaluating-agents-that-build-agents",
+          "publishedAt": "2026-09-09T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI opens the books on its AI research intern",
@@ -363,31 +381,13 @@
           "url": "https://www.nbcnews.com/politics/politics-news/poll-polarized-america-unites-deep-concerns-ai-rcna595525",
           "publishedAt": "2026-09-08T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Another OpenAI agent swarm surfaces",
-          "url": "https://collusion.wiki/index.html",
-          "publishedAt": "2026-09-07T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI's chief scientist asks for an AI slowdown",
-          "url": "https://openai.com/index/an-alien-mind",
-          "publishedAt": "2026-09-07T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s “generational leap” with GPT-6 Astra",
-          "url": "https://openai.com/index/gpt-6-astra",
-          "publishedAt": "2026-09-04T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-09T22:00:28+00:00",
+      "updatedAt": "2026-09-09T23:00:33+00:00",
       "stories": [
         {
           "title": "What bricklaying has taught Monumental about robots in construction",
@@ -483,22 +483,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-09T22:00:28+00:00",
+    "updatedAt": "2026-09-09T23:00:33+00:00",
     "stories": [
       {
-        "title": "Massachusetts hits data centers with new clean power rules",
-        "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules",
-        "publishedAt": "2026-09-09T21:43:34+00:00",
+        "title": "OpenAI adds a prominent AI doomer to its board of directors",
+        "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
+        "publishedAt": "2026-09-09T22:25:22+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI claims a Millennium Prize problem",
-        "url": "https://openai.com/index/navier-stokes-solution",
-        "publishedAt": "2026-09-09T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Massachusetts hits data centers with new clean power rules",
+        "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules",
+        "publishedAt": "2026-09-09T21:43:34+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Army ‘not walking away’ from UAVs despite reverting drone unit back to infantry",
-        "url": "https://breakingdefense.com/2026/09/army-not-walking-away-from-uavs-despite-reverting-drone-unit-back-to-infantry",
-        "publishedAt": "2026-09-09T19:25:00+00:00",
+        "title": "‘Truly concerns me’: DAWG director warns funding lapse could kill ‘momentum’",
+        "url": "https://breakingdefense.com/2026/09/truly-concerns-me-dawg-director-warns-funding-lapse-could-kill-momentum",
+        "publishedAt": "2026-09-09T22:02:35+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -688,7 +688,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-17"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
   ]
 }
