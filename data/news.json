@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T11:00:29+00:00",
+  "generatedAt": "2026-09-10T12:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-10T11:00:29+00:00",
+      "updatedAt": "2026-09-10T12:00:27+00:00",
       "stories": [
         {
           "title": "Strange 'fast radio bursts' across the universe could help solve major cosmic mysteries: 'It's only the beginning'",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-10T11:00:29+00:00",
+      "updatedAt": "2026-09-10T12:00:27+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces creates new space professional occupation",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-10T11:00:29+00:00",
+      "updatedAt": "2026-09-10T12:00:27+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes visit to Poland, advancing Canada–Poland defence and industrial cooperation",
@@ -193,8 +193,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-10T11:00:29+00:00",
+      "updatedAt": "2026-09-10T12:00:27+00:00",
       "stories": [
+        {
+          "title": "US radar maker Echodyne mulls European production as drone warfare fuels demand",
+          "url": "https://www.defensenews.com/global/europe/2026/09/10/us-radar-maker-echodyne-mulls-european-production-as-drone-warfare-fuels-demand",
+          "publishedAt": "2026-09-10T11:14:42+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "How Japan, South Korea are building up naval capabilities for China threat",
           "url": "https://breakingdefense.com/2026/09/how-japan-south-korea-are-building-up-naval-capabilities-for-china-threat",
@@ -268,12 +274,6 @@
           "source": "Defense News"
         },
         {
-          "title": "US Navy’s next-generation fighter decision to be unveiled soon, sources say",
-          "url": "https://www.defensenews.com/news/your-military/2026/09/09/us-navys-next-generation-fighter-decision-to-be-unveiled-soon-sources-say",
-          "publishedAt": "2026-09-09T13:30:36+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Pentagon partners with venture studio to pilot shared savings contract model via $100M OTA",
           "url": "https://defensescoop.com/2026/09/09/pentagon-red-cell-pilot-shared-services-contract-model",
           "publishedAt": "2026-09-09T12:52:38+00:00",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-10T11:00:29+00:00",
+      "updatedAt": "2026-09-10T12:00:27+00:00",
       "stories": [
         {
           "title": "Suno rebuilds its models with the music industry",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-10T11:00:29+00:00",
+      "updatedAt": "2026-09-10T12:00:27+00:00",
       "stories": [
         {
           "title": "What bricklaying has taught Monumental about robots in construction",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-10T11:00:29+00:00",
+    "updatedAt": "2026-09-10T12:00:27+00:00",
     "stories": [
       {
         "title": "Suno rebuilds its models with the music industry",
@@ -531,10 +531,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "How Japan, South Korea are building up naval capabilities for China threat",
-        "url": "https://breakingdefense.com/2026/09/how-japan-south-korea-are-building-up-naval-capabilities-for-china-threat",
-        "publishedAt": "2026-09-10T06:29:00+00:00",
-        "source": "Breaking Defense",
+        "title": "US radar maker Echodyne mulls European production as drone warfare fuels demand",
+        "url": "https://www.defensenews.com/global/europe/2026/09/10/us-radar-maker-echodyne-mulls-european-production-as-drone-warfare-fuels-demand",
+        "publishedAt": "2026-09-10T11:14:42+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -547,6 +547,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "How Japan, South Korea are building up naval capabilities for China threat",
+        "url": "https://breakingdefense.com/2026/09/how-japan-south-korea-are-building-up-naval-capabilities-for-china-threat",
+        "publishedAt": "2026-09-10T06:29:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Federal government injects $1.5B into tariff response program",
@@ -564,15 +573,6 @@
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Watch SpaceX launch classified mission for the US Space Force today",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-classified-space-force-mission-ussf-153",
-        "publishedAt": "2026-09-10T04:05:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
