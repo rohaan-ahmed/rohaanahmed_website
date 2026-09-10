@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-09-10T16:00:30+00:00",
+  "generatedAt": "2026-09-10T17:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-10T16:00:30+00:00",
+      "updatedAt": "2026-09-10T17:00:30+00:00",
       "stories": [
         {
           "title": "Name our dino – ESA’s Hera asteroid mission mascot!",
           "url": "https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot",
           "publishedAt": "2026-09-10T14:00:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "Scientists study 3,000 supernovas and discover that dark energy may be evolving",
+          "url": "https://www.space.com/astronomy/dark-universe/scientists-study-3-000-supernovas-and-discover-that-dark-energy-may-be-evolving",
+          "publishedAt": "2026-09-10T16:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "Dust and Water in Sagittarius A*",
+          "url": "https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a",
+          "publishedAt": "2026-09-10T16:14:03+00:00",
+          "source": "NASA"
         },
         {
           "title": "The next 'Star Trek' movie will be inspired by 'Crimson Tide', and 'Strange New Worlds' latest episode just showed them how to do it",
@@ -31,12 +43,6 @@
           "source": "Space.com"
         },
         {
-          "title": "What comes after the moon? Artemis II commander and pilot shift to 'emeritus' status at NASA",
-          "url": "https://www.space.com/space-exploration/artemis/what-comes-after-the-moon-artemis-ii-commander-and-pilot-shift-to-emeritus-status-at-nasa",
-          "publishedAt": "2026-09-10T12:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula",
           "url": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula",
           "publishedAt": "2026-09-10T04:05:00+00:00",
@@ -52,12 +58,6 @@
           "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",
           "url": "https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract",
           "publishedAt": "2026-09-09T20:11:58+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
-          "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects",
-          "publishedAt": "2026-09-09T18:11:24+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-10T16:00:30+00:00",
+      "updatedAt": "2026-09-10T17:00:30+00:00",
       "stories": [
         {
           "title": "European Launcher Challenge contracts awarded as Canada eyes 2028",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-10T16:00:30+00:00",
+      "updatedAt": "2026-09-10T17:00:30+00:00",
       "stories": [
         {
           "title": "Statement by the Minister of National Defence on Official Languages Day",
@@ -199,8 +199,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-10T16:00:30+00:00",
+      "updatedAt": "2026-09-10T17:00:30+00:00",
       "stories": [
+        {
+          "title": "With reconciliation uncertain, Pentagon eyeing plan to retool FY27 priorities with Congress",
+          "url": "https://breakingdefense.com/2026/09/with-reconciliation-uncertain-pentagon-eyeing-plan-to-retool-fy27-priorities-with-congress",
+          "publishedAt": "2026-09-10T16:30:10+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "General Atomics unveils ‘Wildfire’ drone to replace Reaper",
           "url": "https://breakingdefense.com/2026/09/general-atomics-unveils-wildfire-drone-to-replace-reaper",
@@ -250,12 +256,6 @@
           "source": "Defense News"
         },
         {
-          "title": "How Japan, South Korea are building up naval capabilities for China threat",
-          "url": "https://breakingdefense.com/2026/09/how-japan-south-korea-are-building-up-naval-capabilities-for-china-threat",
-          "publishedAt": "2026-09-10T06:29:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Elbit Systems’ American subsidiary rebrands as Twenty-Six Defense",
           "url": "https://www.defensenews.com/industry/techwatch/2026/09/09/israeli-based-defense-company-rebrands-american-subsidiary-to-twenty-six-defense",
           "publishedAt": "2026-09-09T23:32:12+00:00",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-10T16:00:30+00:00",
+      "updatedAt": "2026-09-10T17:00:30+00:00",
       "stories": [
         {
           "title": "Suno rebuilds its models with the music industry",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-10T16:00:30+00:00",
+      "updatedAt": "2026-09-10T17:00:30+00:00",
       "stories": [
         {
           "title": "Maven Robotics wants to steal your robot deployment deal",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-10T16:00:30+00:00",
+    "updatedAt": "2026-09-10T17:00:30+00:00",
     "stories": [
       {
         "title": "Suno rebuilds its models with the music industry",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "General Atomics unveils ‘Wildfire’ drone to replace Reaper",
-        "url": "https://breakingdefense.com/2026/09/general-atomics-unveils-wildfire-drone-to-replace-reaper",
-        "publishedAt": "2026-09-10T15:17:03+00:00",
+        "title": "With reconciliation uncertain, Pentagon eyeing plan to retool FY27 priorities with Congress",
+        "url": "https://breakingdefense.com/2026/09/with-reconciliation-uncertain-pentagon-eyeing-plan-to-retool-fy27-priorities-with-congress",
+        "publishedAt": "2026-09-10T16:30:10+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "General Atomics unveils ‘Wildfire’ drone to replace Reaper",
+        "url": "https://breakingdefense.com/2026/09/general-atomics-unveils-wildfire-drone-to-replace-reaper",
+        "publishedAt": "2026-09-10T15:17:03+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Emirati EDGE Group delivers six unmanned helicopters to Angolan navy",
         "url": "https://breakingdefense.com/2026/09/emirati-edge-group-delivers-six-unmanned-helicopters-to-angolan-navy",
         "publishedAt": "2026-09-10T14:09:55+00:00",
@@ -568,15 +577,6 @@
         "url": "https://www.defensenews.com/industry/techwatch/2026/09/10/iran-likely-to-reverse-engineer-captured-us-underwater-drone",
         "publishedAt": "2026-09-10T14:26:04+00:00",
         "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Ukrainian Armor eyes German industry partnership for newly unveiled land vehicles",
-        "url": "https://breakingdefense.com/2026/09/ukrainian-armor-eyes-german-industry-partnership-for-newly-unveiled-land-vehicles",
-        "publishedAt": "2026-09-10T13:29:15+00:00",
-        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
