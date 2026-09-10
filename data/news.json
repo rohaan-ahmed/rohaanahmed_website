@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-10T14:00:27+00:00",
+  "generatedAt": "2026-09-10T14:20:13+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-10T14:00:27+00:00",
+      "updatedAt": "2026-09-10T14:20:13+00:00",
       "stories": [
+        {
+          "title": "Name our dino – ESA’s Hera asteroid mission mascot!",
+          "url": "https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot",
+          "publishedAt": "2026-09-10T14:00:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "Iconic Star Trek filming location spotted from space | Space photo of the day for Sept. 10, 2026",
           "url": "https://www.space.com/astronomy/earth/iconic-star-trek-filming-location-spotted-from-space-space-photo-of-the-day-for-sept-10-2026",
@@ -73,12 +79,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Europe's space future in focus at the International Space Summit",
-          "url": "https://www.esa.int/About_Us/Corporate_news/Europe_s_space_future_in_focus_at_the_International_Space_Summit",
-          "publishedAt": "2026-09-07T06:10:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
           "url": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager",
           "publishedAt": "2026-09-03T13:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-10T14:00:27+00:00",
+      "updatedAt": "2026-09-10T14:20:13+00:00",
       "stories": [
         {
           "title": "European Launcher Challenge contracts awarded as Canada eyes 2028",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-10T14:00:27+00:00",
+      "updatedAt": "2026-09-10T14:20:13+00:00",
       "stories": [
         {
           "title": "Statement by the Minister of National Defence on Official Languages Day",
@@ -199,8 +199,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-10T14:00:27+00:00",
+      "updatedAt": "2026-09-10T14:20:13+00:00",
       "stories": [
+        {
+          "title": "Emirati EDGE Group delivers six unmanned helicopters to Angolan navy",
+          "url": "https://breakingdefense.com/2026/09/emirati-edge-group-delivers-six-unmanned-helicopters-to-angolan-navy",
+          "publishedAt": "2026-09-10T14:09:55+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Ukrainian Armor eyes German industry partnership for newly unveiled land vehicles",
           "url": "https://breakingdefense.com/2026/09/ukrainian-armor-eyes-german-industry-partnership-for-newly-unveiled-land-vehicles",
@@ -241,12 +247,6 @@
           "title": "‘Truly concerns me’: DAWG director warns funding lapse could kill ‘momentum’",
           "url": "https://breakingdefense.com/2026/09/truly-concerns-me-dawg-director-warns-funding-lapse-could-kill-momentum",
           "publishedAt": "2026-09-09T22:02:35+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Army ‘not walking away’ from UAVs despite reverting drone unit back to infantry",
-          "url": "https://breakingdefense.com/2026/09/army-not-walking-away-from-uavs-despite-reverting-drone-unit-back-to-infantry",
-          "publishedAt": "2026-09-09T19:25:00+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-10T14:00:27+00:00",
+      "updatedAt": "2026-09-10T14:20:13+00:00",
       "stories": [
         {
           "title": "Suno rebuilds its models with the music industry",
@@ -305,10 +305,46 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-          "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
-          "publishedAt": "2026-09-10T00:00:37+00:00",
+          "title": "Maven Robotics wants to steal your robot deployment deal",
+          "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal",
+          "publishedAt": "2026-09-10T14:17:37+00:00",
           "source": "TechCrunch AI"
+        },
+        {
+          "title": "Anthropic Models AI's Potential Impact on the US Economy (11 minute read)",
+          "url": "https://www.anthropic.com/institute/econ-scenarios",
+          "publishedAt": "2026-09-10T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Siri AI will launch in beta, complicated by daily usage caps & future paid access (2 minute read)",
+          "url": "https://appleinsider.com/articles/26/09/09/siri-ai-will-launch-in-beta-complicated-by-daily-usage-caps-future-paid-access",
+          "publishedAt": "2026-09-10T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks (4 minute read)",
+          "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
+          "publishedAt": "2026-09-10T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Connections: managed credentials and per-caller identity for Managed Deep Agents (8 minute read)",
+          "url": "https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents",
+          "publishedAt": "2026-09-10T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Q2D-Web: Evaluating First-Stage Retrievers at Scale (11 minute read)",
+          "url": "https://www.perplexity.ai/hub/blog/q2d-web",
+          "publishedAt": "2026-09-10T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Run any model, on any backend (Website)",
+          "url": "https://imvision12.github.io/ZeroModels",
+          "publishedAt": "2026-09-10T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI adds a prominent AI doomer to its board of directors",
@@ -341,24 +377,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-          "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening",
-          "publishedAt": "2026-09-09T20:24:48+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-          "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch",
-          "publishedAt": "2026-09-09T20:03:43+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "The hinge for Apple’s new foldable phone was built with AI",
-          "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai",
-          "publishedAt": "2026-09-09T19:21:48+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "OpenAI opens the books on its AI research intern",
           "url": "https://openai.com/index/research-acceleration-view-inside-openai",
           "publishedAt": "2026-09-08T09:00:00+00:00",
@@ -369,32 +387,20 @@
           "url": "https://www.nature.com/articles/s41587-026-03286-y",
           "publishedAt": "2026-09-08T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "U.S. voters’ rare bipartisan issue is fearing AI",
-          "url": "https://www.nbcnews.com/politics/politics-news/poll-polarized-america-unites-deep-concerns-ai-rcna595525",
-          "publishedAt": "2026-09-08T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Another OpenAI agent swarm surfaces",
-          "url": "https://collusion.wiki/index.html",
-          "publishedAt": "2026-09-07T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI's chief scientist asks for an AI slowdown",
-          "url": "https://openai.com/index/an-alien-mind",
-          "publishedAt": "2026-09-07T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-10T14:00:27+00:00",
+      "updatedAt": "2026-09-10T14:20:13+00:00",
       "stories": [
+        {
+          "title": "Maven Robotics wants to steal your robot deployment deal",
+          "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal",
+          "publishedAt": "2026-09-10T14:17:37+00:00",
+          "source": "TechCrunch Robotics"
+        },
         {
           "title": "What bricklaying has taught Monumental about robots in construction",
           "url": "https://www.therobotreport.com/what-bricklaying-has-taught-monumental-about-robots-construction",
@@ -429,12 +435,6 @@
           "title": "AI can’t outrun a humanoid’s hardware",
           "url": "https://www.therobotreport.com/ai-cant-outrun-a-humanoids-hardware",
           "publishedAt": "2026-09-08T19:03:09+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Why vision AI is the safety backbone of the automated job site",
-          "url": "https://www.therobotreport.com/why-vision-ai-is-safety-backbone-of-automated-job-site",
-          "publishedAt": "2026-09-08T16:05:04+00:00",
           "source": "The Robot Report"
         },
         {
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-10T14:00:27+00:00",
+    "updatedAt": "2026-09-10T14:20:13+00:00",
     "stories": [
       {
         "title": "Suno rebuilds its models with the music industry",
@@ -501,9 +501,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-        "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks",
-        "publishedAt": "2026-09-10T00:00:37+00:00",
+        "title": "Maven Robotics wants to steal your robot deployment deal",
+        "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal",
+        "publishedAt": "2026-09-10T14:17:37+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -519,10 +519,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Iconic Star Trek filming location spotted from space | Space photo of the day for Sept. 10, 2026",
-        "url": "https://www.space.com/astronomy/earth/iconic-star-trek-filming-location-spotted-from-space-space-photo-of-the-day-for-sept-10-2026",
+        "title": "Name our dino – ESA’s Hera asteroid mission mascot!",
+        "url": "https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot",
         "publishedAt": "2026-09-10T14:00:00+00:00",
-        "source": "Space.com",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -537,22 +537,31 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Ukrainian Armor eyes German industry partnership for newly unveiled land vehicles",
-        "url": "https://breakingdefense.com/2026/09/ukrainian-armor-eyes-german-industry-partnership-for-newly-unveiled-land-vehicles",
-        "publishedAt": "2026-09-10T13:29:15+00:00",
+        "title": "Emirati EDGE Group delivers six unmanned helicopters to Angolan navy",
+        "url": "https://breakingdefense.com/2026/09/emirati-edge-group-delivers-six-unmanned-helicopters-to-angolan-navy",
+        "publishedAt": "2026-09-10T14:09:55+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "What bricklaying has taught Monumental about robots in construction",
-        "url": "https://www.therobotreport.com/what-bricklaying-has-taught-monumental-about-robots-construction",
-        "publishedAt": "2026-09-09T21:08:06+00:00",
-        "source": "The Robot Report",
+        "title": "Maven Robotics wants to steal your robot deployment deal",
+        "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal",
+        "publishedAt": "2026-09-10T14:17:37+00:00",
+        "source": "TechCrunch Robotics",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Ukrainian Armor eyes German industry partnership for newly unveiled land vehicles",
+        "url": "https://breakingdefense.com/2026/09/ukrainian-armor-eyes-german-industry-partnership-for-newly-unveiled-land-vehicles",
+        "publishedAt": "2026-09-10T13:29:15+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Netherlands to purchase its own GlobalEye aircraft, on top of NATO’s order",
@@ -567,15 +576,6 @@
         "title": "NATO allies foil Russian subsea cable sabotage plot",
         "url": "https://www.defensenews.com/global/europe/2026/09/10/nato-allies-foil-russian-subsea-cable-sabotage-plot",
         "publishedAt": "2026-09-10T13:48:21+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "US radar maker Echodyne mulls European production as drone warfare fuels demand",
-        "url": "https://www.defensenews.com/global/europe/2026/09/10/us-radar-maker-echodyne-mulls-european-production-as-drone-warfare-fuels-demand",
-        "publishedAt": "2026-09-10T11:14:42+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -694,7 +694,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-21"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
   ]
 }
