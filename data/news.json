@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-09-10T04:00:41+00:00",
+  "generatedAt": "2026-09-10T05:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-10T04:00:41+00:00",
+      "updatedAt": "2026-09-10T05:00:33+00:00",
       "stories": [
+        {
+          "title": "Watch SpaceX launch classified mission for the US Space Force today",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-classified-space-force-mission-ussf-153",
+          "publishedAt": "2026-09-10T04:05:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula",
+          "publishedAt": "2026-09-10T04:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Dust Storm Sweeps Over Mali",
+          "url": "https://science.nasa.gov/earth/earth-observatory/dust-storm-sweeps-over-mali",
+          "publishedAt": "2026-09-10T04:00:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "This 'impossible' black hole merger may be explained by a warp in spacetime",
           "url": "https://www.space.com/astronomy/black-holes/this-impossible-black-hole-merger-may-be-explained-by-a-warp-in-spacetime",
@@ -29,24 +47,6 @@
           "url": "https://www.space.com/astronomy/stars/astronomers-discover-two-stars-that-joined-together-to-form-a-binary-system-just-60-years-ago",
           "publishedAt": "2026-09-09T19:00:00+00:00",
           "source": "Space.com"
-        },
-        {
-          "title": "NASA's newly launched Roman Space Telescope will 'directly' image exoplanets. But what does that mean?",
-          "url": "https://www.space.com/astronomy/exoplanets/nasas-newly-launched-roman-space-telescope-will-directly-image-exoplanets-but-what-does-that-mean",
-          "publishedAt": "2026-09-09T18:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
-          "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects",
-          "publishedAt": "2026-09-09T18:11:24+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
-          "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino",
-          "publishedAt": "2026-09-09T16:00:00+00:00",
-          "source": "NASA"
         },
         {
           "title": "MTM's selfie footage of BepiColombo's eight-year journey",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-10T04:00:41+00:00",
+      "updatedAt": "2026-09-10T05:00:33+00:00",
       "stories": [
         {
           "title": "Canadian Armed Forces creates new space professional occupation",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-10T04:00:41+00:00",
+      "updatedAt": "2026-09-10T05:00:33+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes visit to Poland, advancing Canada–Poland defence and industrial cooperation",
@@ -193,7 +193,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-10T04:00:41+00:00",
+      "updatedAt": "2026-09-10T05:00:33+00:00",
       "stories": [
         {
           "title": "Israeli-based defense company rebrands American subsidiary to Twenty-Six Defense",
@@ -290,7 +290,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-10T04:00:41+00:00",
+      "updatedAt": "2026-09-10T05:00:33+00:00",
       "stories": [
         {
           "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
@@ -387,7 +387,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-10T04:00:41+00:00",
+      "updatedAt": "2026-09-10T05:00:33+00:00",
       "stories": [
         {
           "title": "What bricklaying has taught Monumental about robots in construction",
@@ -483,7 +483,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-10T04:00:41+00:00",
+    "updatedAt": "2026-09-10T05:00:33+00:00",
     "stories": [
       {
         "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
@@ -513,9 +513,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "This 'impossible' black hole merger may be explained by a warp in spacetime",
-        "url": "https://www.space.com/astronomy/black-holes/this-impossible-black-hole-merger-may-be-explained-by-a-warp-in-spacetime",
-        "publishedAt": "2026-09-09T21:00:00+00:00",
+        "title": "Watch SpaceX launch classified mission for the US Space Force today",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-classified-space-force-mission-ussf-153",
+        "publishedAt": "2026-09-10T04:05:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -567,12 +567,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "‘Truly concerns me’: DAWG director warns funding lapse could kill ‘momentum’",
-        "url": "https://breakingdefense.com/2026/09/truly-concerns-me-dawg-director-warns-funding-lapse-could-kill-momentum",
-        "publishedAt": "2026-09-09T22:02:35+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula",
+        "publishedAt": "2026-09-10T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
