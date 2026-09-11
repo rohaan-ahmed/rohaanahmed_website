@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T11:00:33+00:00",
+  "generatedAt": "2026-09-11T12:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-11T11:00:33+00:00",
+      "updatedAt": "2026-09-11T12:00:32+00:00",
       "stories": [
         {
           "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
@@ -17,6 +17,12 @@
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026",
           "publishedAt": "2026-09-11T13:00:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "'I take the compact Nikon Stabilized 12x25 binoculars with me everywhere' — they now have $73 off, the best we've seen this year",
+          "url": "https://www.space.com/technology/i-take-the-compact-nikon-stabilized-12x25-binoculars-with-me-everywhere-they-now-have-usd73-off-the-best-weve-seen-this-year",
+          "publishedAt": "2026-09-11T11:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
@@ -61,12 +67,6 @@
           "source": "Space.com"
         },
         {
-          "title": "LINK spacecraft gets close to NASA's Swift Observatory, but not close enough to save it",
-          "url": "https://www.space.com/space-exploration/missions/link-spacecraft-gets-close-to-nasas-swift-observatory-but-not-close-enough-to-save-it",
-          "publishedAt": "2026-09-10T18:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Name our dino – ESA’s Hera asteroid mission mascot!",
           "url": "https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot",
           "publishedAt": "2026-09-10T14:00:00+00:00",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-11T11:00:33+00:00",
+      "updatedAt": "2026-09-11T12:00:32+00:00",
       "stories": [
+        {
+          "title": "Galaxia closes $4.5 million CAD Seed round to scale orbital edge computing hardware",
+          "url": "https://spaceq.ca/galaxia-closes-4-5-million-cad-seed-round-to-scale-orbital-edge-computing-hardware",
+          "publishedAt": "2026-09-11T11:09:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "The Weekly Close: Calian leads a split week as the index debuts",
           "url": "https://spaceq.ca/the-weekly-close-calian-leads-a-split-week-as-the-index-debuts",
@@ -156,19 +162,13 @@
           "url": "https://spaceq.ca/northstar-irap-funding-backs-space-sensors",
           "publishedAt": "2026-09-08T11:18:00+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "Isar Aerospace Spectrum rocket reaches orbit, eyes 2028 launch from Canada",
-          "url": "https://spaceq.ca/isar-aerospace-spectrum-rocket-reaches-orbit-eyes-2028-launch-from-canada",
-          "publishedAt": "2026-09-07T19:28:02+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-11T11:00:33+00:00",
+      "updatedAt": "2026-09-11T12:00:32+00:00",
       "stories": [
         {
           "title": "Statement by the Minister of National Defence on Official Languages Day",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-11T11:00:33+00:00",
+      "updatedAt": "2026-09-11T12:00:32+00:00",
       "stories": [
         {
           "title": "India puts domestic industry at heart of new military equipment orders",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-11T11:00:33+00:00",
+      "updatedAt": "2026-09-11T12:00:32+00:00",
       "stories": [
         {
           "title": "Anthropic opens the files on global Claude misuse",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-11T11:00:33+00:00",
+      "updatedAt": "2026-09-11T12:00:32+00:00",
       "stories": [
         {
           "title": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-11T11:00:33+00:00",
+    "updatedAt": "2026-09-11T12:00:32+00:00",
     "stories": [
       {
         "title": "Anthropic opens the files on global Claude misuse",
@@ -510,9 +510,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The Weekly Close: Calian leads a split week as the index debuts",
-        "url": "https://spaceq.ca/the-weekly-close-calian-leads-a-split-week-as-the-index-debuts",
-        "publishedAt": "2026-09-11T03:58:00+00:00",
+        "title": "Galaxia closes $4.5 million CAD Seed round to scale orbital edge computing hardware",
+        "url": "https://spaceq.ca/galaxia-closes-4-5-million-cad-seed-round-to-scale-orbital-edge-computing-hardware",
+        "publishedAt": "2026-09-11T11:09:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "The Weekly Close: Calian leads a split week as the index debuts",
+        "url": "https://spaceq.ca/the-weekly-close-calian-leads-a-split-week-as-the-index-debuts",
+        "publishedAt": "2026-09-11T03:58:00+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Week in images: 07-11 Sep 2026",
         "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026",
         "publishedAt": "2026-09-11T13:00:00+00:00",
@@ -564,18 +573,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
-        "url": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control",
-        "publishedAt": "2026-09-11T08:00:00+00:00",
-        "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Scientists discover mysterious new X-ray objects 'unlike any they have seen before'",
-        "url": "https://www.space.com/astronomy/galaxies/scientists-discover-mysterious-new-x-ray-objects-unlike-any-they-have-seen-before",
-        "publishedAt": "2026-09-11T10:00:00+00:00",
+        "title": "'I take the compact Nikon Stabilized 12x25 binoculars with me everywhere' — they now have $73 off, the best we've seen this year",
+        "url": "https://www.space.com/technology/i-take-the-compact-nikon-stabilized-12x25-binoculars-with-me-everywhere-they-now-have-usd73-off-the-best-weve-seen-this-year",
+        "publishedAt": "2026-09-11T11:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
