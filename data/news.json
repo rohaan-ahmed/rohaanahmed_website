@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T17:20:00+00:00",
+  "generatedAt": "2026-09-11T18:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-11T17:20:00+00:00",
+      "updatedAt": "2026-09-11T18:00:30+00:00",
       "stories": [
         {
           "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-11T17:20:00+00:00",
+      "updatedAt": "2026-09-11T18:00:30+00:00",
       "stories": [
         {
           "title": "Galaxia closes $4.5 million CAD Seed round to scale orbital edge computing hardware",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-11T17:20:00+00:00",
+      "updatedAt": "2026-09-11T18:00:30+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on the 25th Anniversary of 9/11",
@@ -205,13 +205,25 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-11T17:20:00+00:00",
+      "updatedAt": "2026-09-11T18:00:30+00:00",
       "stories": [
+        {
+          "title": "Support for Patriot air-and-missile defense is a case study for the industrial base",
+          "url": "https://breakingdefense.com/2026/09/support-for-patriot-air-and-missile-defense-is-a-case-study-for-the-industrial-base",
+          "publishedAt": "2026-09-11T17:41:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Pentagon eyeing tech testbed expansion along US-Mexico border",
           "url": "https://breakingdefense.com/2026/09/pentagon-eyeing-tech-testbed-expansion-along-us-mexico-border",
           "publishedAt": "2026-09-11T16:58:44+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Pentagon looks to AI to identify space and missile threats",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/09/11/pentagon-looks-to-ai-to-identify-space-and-missile-threats",
+          "publishedAt": "2026-09-11T17:38:56+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Canada, Ukraine to jointly produce defense tech, part of ‘100-year partnership’",
@@ -238,12 +250,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "CEO of Ukraine’s Fire Point: Freyja anti-ballistic missile program seeks ‘best players’",
-          "url": "https://breakingdefense.com/2026/09/ceo-of-ukraines-fire-point-freyja-anti-ballistic-missile-program-seeks-best-players",
-          "publishedAt": "2026-09-11T15:04:11+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Polish prime minister: Poland to develop its own Starlink",
           "url": "https://www.defensenews.com/global/europe/2026/09/11/polish-prime-minister-poland-to-develop-its-own-starlink",
           "publishedAt": "2026-09-11T15:21:31+00:00",
@@ -259,12 +265,6 @@
           "title": "German military eyes cruise missiles from Covenant, a surprise vendor setting up shop",
           "url": "https://www.defensenews.com/global/europe/2026/09/11/german-military-eyes-cruise-missiles-from-covenant-a-surprise-vendor-setting-up-shop",
           "publishedAt": "2026-09-11T13:50:55+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "India puts domestic industry at heart of new military equipment orders",
-          "url": "https://www.defensenews.com/global/asia-pacific/2026/09/11/india-puts-domestic-industry-at-heart-of-new-military-equipment-orders",
-          "publishedAt": "2026-09-11T10:40:53+00:00",
           "source": "Defense News"
         },
         {
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-11T17:20:00+00:00",
+      "updatedAt": "2026-09-11T18:00:30+00:00",
       "stories": [
         {
           "title": "Anthropic opens the files on global Claude misuse",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-11T17:20:00+00:00",
+      "updatedAt": "2026-09-11T18:00:30+00:00",
       "stories": [
         {
           "title": "How to select the right rack and pinion system for high-precision linear motion",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-11T17:20:00+00:00",
+    "updatedAt": "2026-09-11T18:00:30+00:00",
     "stories": [
       {
         "title": "Anthropic opens the files on global Claude misuse",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Pentagon eyeing tech testbed expansion along US-Mexico border",
-        "url": "https://breakingdefense.com/2026/09/pentagon-eyeing-tech-testbed-expansion-along-us-mexico-border",
-        "publishedAt": "2026-09-11T16:58:44+00:00",
+        "title": "Support for Patriot air-and-missile defense is a case study for the industrial base",
+        "url": "https://breakingdefense.com/2026/09/support-for-patriot-air-and-missile-defense-is-a-case-study-for-the-industrial-base",
+        "publishedAt": "2026-09-11T17:41:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -561,28 +561,28 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Pentagon eyeing tech testbed expansion along US-Mexico border",
+        "url": "https://breakingdefense.com/2026/09/pentagon-eyeing-tech-testbed-expansion-along-us-mexico-border",
+        "publishedAt": "2026-09-11T16:58:44+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Pentagon looks to AI to identify space and missile threats",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/11/pentagon-looks-to-ai-to-identify-space-and-missile-threats",
+        "publishedAt": "2026-09-11T17:38:56+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Canada, Ukraine to jointly produce defense tech, part of ‘100-year partnership’",
         "url": "https://breakingdefense.com/2026/09/canada-ukraine-to-jointly-produce-defense-tech-part-of-100-year-partnership",
         "publishedAt": "2026-09-11T16:26:08+00:00",
         "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "After suspicious incidents, European group urges ‘vigilance’ for defense firms",
-        "url": "https://breakingdefense.com/2026/09/after-suspicious-incidents-european-group-urges-vigilance-for-defense-firms",
-        "publishedAt": "2026-09-11T16:04:53+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Saudi crown prince sought US military help with Houthis, sources say",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/11/saudi-crown-prince-sought-us-military-help-with-houthis-sources-say",
-        "publishedAt": "2026-09-11T16:32:18+00:00",
-        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
