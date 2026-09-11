@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-11T05:09:55+00:00",
+  "generatedAt": "2026-09-11T06:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-11T05:09:55+00:00",
+      "updatedAt": "2026-09-11T06:00:30+00:00",
       "stories": [
+        {
+          "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
+          "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership",
+          "publishedAt": "2026-09-11T05:32:49+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
           "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel",
@@ -28,12 +34,6 @@
           "title": "NASA Answers President’s Call to Establish United States Space Academy",
           "url": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy",
           "publishedAt": "2026-09-10T20:26:52+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA’s Life-Saving Technology Where Cell Signals Can’t Go",
-          "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go",
-          "publishedAt": "2026-09-10T20:12:39+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-11T05:09:55+00:00",
+      "updatedAt": "2026-09-11T06:00:30+00:00",
       "stories": [
         {
           "title": "CSMC unveils three reactor platforms, defence a priority",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-11T05:09:55+00:00",
+      "updatedAt": "2026-09-11T06:00:30+00:00",
       "stories": [
         {
           "title": "Statement by the Minister of National Defence on Official Languages Day",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-11T05:09:55+00:00",
+      "updatedAt": "2026-09-11T06:00:30+00:00",
       "stories": [
         {
           "title": "Why the Pentagon picked an Indiana Navy base to host a nuclear microreactor",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-11T05:09:55+00:00",
+      "updatedAt": "2026-09-11T06:00:30+00:00",
       "stories": [
         {
           "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-11T05:09:55+00:00",
+      "updatedAt": "2026-09-11T06:00:30+00:00",
       "stories": [
         {
           "title": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-11T05:09:55+00:00",
+    "updatedAt": "2026-09-11T06:00:30+00:00",
     "stories": [
       {
         "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
@@ -519,10 +519,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel",
-        "publishedAt": "2026-09-11T04:05:00+00:00",
-        "source": "NASA",
+        "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
+        "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership",
+        "publishedAt": "2026-09-11T05:32:49+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel",
+        "publishedAt": "2026-09-11T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "European Launcher Challenge contracts awarded as Canada eyes 2028",
         "url": "https://spaceq.ca/european-launcher-challenge-kicks-off-canada-launch-the-north",
         "publishedAt": "2026-09-10T13:36:00+00:00",
@@ -570,15 +579,6 @@
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Army selects Lockheed, Boeing-Anduril team for next phase in IFPC Inc 2 competition",
-        "url": "https://breakingdefense.com/2026/09/army-selects-lockheed-boeing-anduril-team-for-next-phase-in-ifpc-inc-2-competition",
-        "publishedAt": "2026-09-10T20:08:14+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
