@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T13:47:44+00:00",
+  "generatedAt": "2026-09-11T14:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-11T13:47:44+00:00",
+      "updatedAt": "2026-09-11T14:00:30+00:00",
       "stories": [
         {
           "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-11T13:47:44+00:00",
+      "updatedAt": "2026-09-11T14:00:30+00:00",
       "stories": [
         {
           "title": "Galaxia closes $4.5 million CAD Seed round to scale orbital edge computing hardware",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-11T13:47:44+00:00",
+      "updatedAt": "2026-09-11T14:00:30+00:00",
       "stories": [
         {
           "title": "Statement by the Minister of National Defence on Official Languages Day",
@@ -199,13 +199,19 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-11T13:47:44+00:00",
+      "updatedAt": "2026-09-11T14:00:30+00:00",
       "stories": [
         {
           "title": "Space Force picks Texas as US home for trinational DARC space radar network",
           "url": "https://breakingdefense.com/2026/09/space-force-picks-texas-as-us-home-for-trinational-darc-space-radar-network",
           "publishedAt": "2026-09-11T13:10:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "German military eyes cruise missiles from Covenant, a surprise vendor setting up shop",
+          "url": "https://www.defensenews.com/global/europe/2026/09/11/german-military-eyes-cruise-missiles-from-covenant-a-surprise-vendor-setting-up-shop",
+          "publishedAt": "2026-09-11T13:50:55+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Why propulsion could be the critical piece in Golden Dome’s architecture",
@@ -274,12 +280,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "NATO allies foil Russian subsea cable sabotage plot",
-          "url": "https://www.defensenews.com/global/europe/2026/09/10/nato-allies-foil-russian-subsea-cable-sabotage-plot",
-          "publishedAt": "2026-09-10T13:48:21+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Gen. Caine urges industry to lean more into ‘shared risk’ when delivering tech for U.S. military",
           "url": "https://defensescoop.com/2026/09/09/gen-caine-urges-industry-share-risk-delivering-tech-us-military",
           "publishedAt": "2026-09-09T20:40:08+00:00",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-11T13:47:44+00:00",
+      "updatedAt": "2026-09-11T14:00:30+00:00",
       "stories": [
         {
           "title": "Anthropic opens the files on global Claude misuse",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-11T13:47:44+00:00",
+      "updatedAt": "2026-09-11T14:00:30+00:00",
       "stories": [
         {
           "title": "How drone developers are navigating changing regulatory landscapes to help farmers",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-11T13:47:44+00:00",
+    "updatedAt": "2026-09-11T14:00:30+00:00",
     "stories": [
       {
         "title": "Anthropic opens the files on global Claude misuse",
@@ -573,10 +573,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Why propulsion could be the critical piece in Golden Dome’s architecture",
-        "url": "https://breakingdefense.com/2026/09/why-propulsion-could-be-the-critical-piece-in-golden-domes-architecture",
-        "publishedAt": "2026-09-11T12:28:00+00:00",
-        "source": "Breaking Defense",
+        "title": "German military eyes cruise missiles from Covenant, a surprise vendor setting up shop",
+        "url": "https://www.defensenews.com/global/europe/2026/09/11/german-military-eyes-cruise-missiles-from-covenant-a-surprise-vendor-setting-up-shop",
+        "publishedAt": "2026-09-11T13:50:55+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
