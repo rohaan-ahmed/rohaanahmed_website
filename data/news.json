@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-11T04:00:32+00:00",
+  "generatedAt": "2026-09-11T05:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-11T04:00:32+00:00",
+      "updatedAt": "2026-09-11T05:00:31+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel",
+          "publishedAt": "2026-09-11T04:05:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony",
           "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony",
@@ -47,12 +53,6 @@
           "url": "https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot",
           "publishedAt": "2026-09-10T14:00:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
-          "url": "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation",
-          "publishedAt": "2026-09-10T17:28:13+00:00",
-          "source": "NASA"
         },
         {
           "title": "Scientists study 3,000 supernovas and discover that dark energy may be evolving",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-11T04:00:32+00:00",
+      "updatedAt": "2026-09-11T05:00:31+00:00",
       "stories": [
         {
           "title": "CSMC unveils three reactor platforms, defence a priority",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-11T04:00:32+00:00",
+      "updatedAt": "2026-09-11T05:00:31+00:00",
       "stories": [
         {
           "title": "Statement by the Minister of National Defence on Official Languages Day",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-11T04:00:32+00:00",
+      "updatedAt": "2026-09-11T05:00:31+00:00",
       "stories": [
         {
           "title": "Why the Pentagon picked an Indiana Navy base to host a nuclear microreactor",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-11T04:00:32+00:00",
+      "updatedAt": "2026-09-11T05:00:31+00:00",
       "stories": [
         {
           "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-11T04:00:32+00:00",
+      "updatedAt": "2026-09-11T05:00:31+00:00",
       "stories": [
         {
           "title": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-11T04:00:32+00:00",
+    "updatedAt": "2026-09-11T05:00:31+00:00",
     "stories": [
       {
         "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
@@ -519,9 +519,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony",
-        "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony",
-        "publishedAt": "2026-09-10T21:11:32+00:00",
+        "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel",
+        "publishedAt": "2026-09-11T04:05:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
