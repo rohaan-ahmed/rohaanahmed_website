@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-09-11T18:00:30+00:00",
+  "generatedAt": "2026-09-11T19:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-11T18:00:30+00:00",
+      "updatedAt": "2026-09-11T19:00:32+00:00",
       "stories": [
         {
           "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
           "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership",
           "publishedAt": "2026-09-11T05:32:49+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Stream every single Star Trek show from anywhere, and save up to 75% with this VPN deal",
+          "url": "https://www.space.com/entertainment/space-movies-shows/stream-every-single-star-trek-show-from-anywhere-and-save-up-to-75-percent-with-this-vpn-deal",
+          "publishedAt": "2026-09-11T18:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "NASA’s Chandra Spots Galactic Gem",
@@ -55,12 +61,6 @@
           "source": "Space.com"
         },
         {
-          "title": "Wavy alien dune fields stretch across Mars | Space photo of the day for Sept. 11, 2026",
-          "url": "https://www.space.com/astronomy/mars/wavy-alien-dune-fields-stretch-across-mars-space-photo-of-the-day-for-sept-11-2026",
-          "publishedAt": "2026-09-11T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
           "url": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control",
           "publishedAt": "2026-09-11T08:00:00+00:00",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-11T18:00:30+00:00",
+      "updatedAt": "2026-09-11T19:00:32+00:00",
       "stories": [
+        {
+          "title": "MDA Space expands Aurora product line with new MILSATCOM satellite variant",
+          "url": "https://spaceq.ca/mda-space-expands-aurora-product-line-with-new-milsatcom-satellite-variant",
+          "publishedAt": "2026-09-11T18:41:36+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Galaxia closes $4.5 million CAD Seed round to scale orbital edge computing hardware",
           "url": "https://spaceq.ca/galaxia-closes-4-5-million-cad-seed-round-to-scale-orbital-edge-computing-hardware",
@@ -156,19 +162,13 @@
           "url": "https://spaceq.ca/farcast-clears-telesat-lightspeed-antenna-milestone",
           "publishedAt": "2026-09-08T17:47:11+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "NorthStar $2M IRAP funding backs new sensors",
-          "url": "https://spaceq.ca/northstar-irap-funding-backs-space-sensors",
-          "publishedAt": "2026-09-08T11:18:00+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-11T18:00:30+00:00",
+      "updatedAt": "2026-09-11T19:00:32+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on the 25th Anniversary of 9/11",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-11T18:00:30+00:00",
+      "updatedAt": "2026-09-11T19:00:32+00:00",
       "stories": [
         {
           "title": "Support for Patriot air-and-missile defense is a case study for the industrial base",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-11T18:00:30+00:00",
+      "updatedAt": "2026-09-11T19:00:32+00:00",
       "stories": [
         {
           "title": "Anthropic opens the files on global Claude misuse",
@@ -315,6 +315,12 @@
           "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
           "publishedAt": "2026-09-11T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+          "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time",
+          "publishedAt": "2026-09-11T18:41:49+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
@@ -371,12 +377,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-          "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026",
-          "publishedAt": "2026-09-10T21:35:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "OpenAI claims a Millennium Prize problem",
           "url": "https://openai.com/index/navier-stokes-solution",
           "publishedAt": "2026-09-09T10:00:00+00:00",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-11T18:00:30+00:00",
+      "updatedAt": "2026-09-11T19:00:32+00:00",
       "stories": [
         {
           "title": "How to select the right rack and pinion system for high-precision linear motion",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-11T18:00:30+00:00",
+    "updatedAt": "2026-09-11T19:00:32+00:00",
     "stories": [
       {
         "title": "Anthropic opens the files on global Claude misuse",
@@ -516,9 +516,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Galaxia closes $4.5 million CAD Seed round to scale orbital edge computing hardware",
-        "url": "https://spaceq.ca/galaxia-closes-4-5-million-cad-seed-round-to-scale-orbital-edge-computing-hardware",
-        "publishedAt": "2026-09-11T11:09:00+00:00",
+        "title": "MDA Space expands Aurora product line with new MILSATCOM satellite variant",
+        "url": "https://spaceq.ca/mda-space-expands-aurora-product-line-with-new-milsatcom-satellite-variant",
+        "publishedAt": "2026-09-11T18:41:36+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -561,6 +561,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Galaxia closes $4.5 million CAD Seed round to scale orbital edge computing hardware",
+        "url": "https://spaceq.ca/galaxia-closes-4-5-million-cad-seed-round-to-scale-orbital-edge-computing-hardware",
+        "publishedAt": "2026-09-11T11:09:00+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Pentagon eyeing tech testbed expansion along US-Mexico border",
         "url": "https://breakingdefense.com/2026/09/pentagon-eyeing-tech-testbed-expansion-along-us-mexico-border",
         "publishedAt": "2026-09-11T16:58:44+00:00",
@@ -574,15 +583,6 @@
         "url": "https://www.defensenews.com/industry/techwatch/2026/09/11/pentagon-looks-to-ai-to-identify-space-and-missile-threats",
         "publishedAt": "2026-09-11T17:38:56+00:00",
         "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Canada, Ukraine to jointly produce defense tech, part of ‘100-year partnership’",
-        "url": "https://breakingdefense.com/2026/09/canada-ukraine-to-jointly-produce-defense-tech-part-of-100-year-partnership",
-        "publishedAt": "2026-09-11T16:26:08+00:00",
-        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
