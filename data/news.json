@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-11T22:01:05+00:00",
+  "generatedAt": "2026-09-11T23:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-11T22:01:05+00:00",
+      "updatedAt": "2026-09-11T23:00:32+00:00",
       "stories": [
+        {
+          "title": "Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract",
+          "url": "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract",
+          "publishedAt": "2026-09-11T22:06:42+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "I've chased the 'false dawn' for years — this is the week to find and photograph it",
           "url": "https://www.space.com/stargazing/ive-chased-the-false-dawn-for-years-this-is-the-week-to-find-and-photograph-it",
@@ -35,12 +41,6 @@
           "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector",
           "publishedAt": "2026-09-11T19:48:09+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Stream every single Star Trek show from anywhere, and save up to 75% with this VPN deal",
-          "url": "https://www.space.com/entertainment/space-movies-shows/stream-every-single-star-trek-show-from-anywhere-and-save-up-to-75-percent-with-this-vpn-deal",
-          "publishedAt": "2026-09-11T18:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "NASA’s Chandra Spots Galactic Gem",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-11T22:01:05+00:00",
+      "updatedAt": "2026-09-11T23:00:32+00:00",
       "stories": [
         {
           "title": "Qubic lands CA$1.5M federal contract to de-risk quantum sensor supply chains",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-11T22:01:05+00:00",
+      "updatedAt": "2026-09-11T23:00:32+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on the 25th Anniversary of 9/11",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-11T22:01:05+00:00",
+      "updatedAt": "2026-09-11T23:00:32+00:00",
       "stories": [
         {
           "title": "Concurrent attacks across multiple domains force rethinking of air-and-missile-defense",
@@ -302,10 +302,16 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-11T22:01:05+00:00",
+      "updatedAt": "2026-09-11T23:00:32+00:00",
       "stories": [
         {
-          "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
+          "publishedAt": "2026-09-11T22:58:17+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
           "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
           "publishedAt": "2026-09-11T20:59:47+00:00",
           "source": "TechCrunch AI"
@@ -327,12 +333,6 @@
           "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
           "publishedAt": "2026-09-11T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026",
-          "publishedAt": "2026-09-11T20:33:18+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI Launches the Agents API (3 minute read)",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-11T22:01:05+00:00",
+      "updatedAt": "2026-09-11T23:00:32+00:00",
       "stories": [
         {
           "title": "One brick at a time: How Monumental uses robotics to build walls",
@@ -412,6 +412,12 @@
           "url": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness",
           "publishedAt": "2026-09-11T19:49:40+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
+          "publishedAt": "2026-09-11T22:58:17+00:00",
+          "source": "TechCrunch Robotics"
         },
         {
           "title": "How to select the right rack and pinion system for high-precision linear motion",
@@ -435,12 +441,6 @@
           "title": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
           "url": "https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents",
           "publishedAt": "2026-09-10T22:14:26+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
-          "url": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m",
-          "publishedAt": "2026-09-10T20:10:22+00:00",
           "source": "The Robot Report"
         },
         {
@@ -495,21 +495,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-11T22:01:05+00:00",
+    "updatedAt": "2026-09-11T23:00:32+00:00",
     "stories": [
       {
-        "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
-        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-        "publishedAt": "2026-09-11T20:59:47+00:00",
+        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
+        "publishedAt": "2026-09-11T22:58:17+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI’s feud with mathematicians is only escalating",
-        "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating",
-        "publishedAt": "2026-09-11T20:57:36+00:00",
+        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+        "publishedAt": "2026-09-11T20:59:47+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "I've chased the 'false dawn' for years — this is the week to find and photograph it",
-        "url": "https://www.space.com/stargazing/ive-chased-the-false-dawn-for-years-this-is-the-week-to-find-and-photograph-it",
-        "publishedAt": "2026-09-11T21:00:00+00:00",
+        "title": "Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract",
+        "url": "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract",
+        "publishedAt": "2026-09-11T22:06:42+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
