@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-11T21:00:29+00:00",
+  "generatedAt": "2026-09-11T22:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-11T21:00:29+00:00",
+      "updatedAt": "2026-09-11T22:00:28+00:00",
       "stories": [
+        {
+          "title": "I've chased the 'false dawn' for years — this is the week to find and photograph it",
+          "url": "https://www.space.com/stargazing/ive-chased-the-false-dawn-for-years-this-is-the-week-to-find-and-photograph-it",
+          "publishedAt": "2026-09-11T21:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "A star is exploding 45 million light-years away — here's how you can see it",
           "url": "https://www.space.com/stargazing/a-star-is-exploding-45-million-light-years-away-heres-how-you-can-see-it",
@@ -41,12 +47,6 @@
           "url": "https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem",
           "publishedAt": "2026-09-11T17:19:47+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "The sun may once have swallowed a super-Earth planet and could still be hiding the evidence",
-          "url": "https://www.space.com/astronomy/sun/the-sun-may-once-have-swallowed-a-super-earth-planet-and-could-still-be-hiding-the-evidence",
-          "publishedAt": "2026-09-11T16:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Week in images: 07-11 Sep 2026",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-11T21:00:29+00:00",
+      "updatedAt": "2026-09-11T22:00:28+00:00",
       "stories": [
         {
           "title": "Qubic lands CA$1.5M federal contract to de-risk quantum sensor supply chains",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-11T21:00:29+00:00",
+      "updatedAt": "2026-09-11T22:00:28+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on the 25th Anniversary of 9/11",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-11T21:00:29+00:00",
+      "updatedAt": "2026-09-11T22:00:28+00:00",
       "stories": [
         {
           "title": "Concurrent attacks across multiple domains force rethinking of air-and-missile-defense",
@@ -214,10 +214,22 @@
           "source": "Breaking Defense"
         },
         {
+          "title": "DOD poised to move all classified AI workloads off Anthropic by October",
+          "url": "https://defensescoop.com/2026/09/11/dod-poised-to-move-all-classified-ai-workloads-off-anthropic-by-october",
+          "publishedAt": "2026-09-11T21:41:14+00:00",
+          "source": "DefenseScoop"
+        },
+        {
           "title": "Support for Patriot air-and-missile defense is a case study for the industrial base",
           "url": "https://breakingdefense.com/2026/09/support-for-patriot-air-and-missile-defense-is-a-case-study-for-the-industrial-base",
           "publishedAt": "2026-09-11T17:41:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Army awards $196M for sensors in first production contracts under EW-focused call for solutions",
+          "url": "https://defensescoop.com/2026/09/11/army-awards-196m-sensor-production-contracts-electronic-warfare",
+          "publishedAt": "2026-09-11T21:11:09+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Pentagon eyeing tech testbed expansion along US-Mexico border",
@@ -284,25 +296,13 @@
           "url": "https://defensescoop.com/2026/09/10/joint-laser-weapon-system-program-military-services-critical-tech",
           "publishedAt": "2026-09-10T16:56:03+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Gen. Caine urges industry to lean more into ‘shared risk’ when delivering tech for U.S. military",
-          "url": "https://defensescoop.com/2026/09/09/gen-caine-urges-industry-share-risk-delivering-tech-us-military",
-          "publishedAt": "2026-09-09T20:40:08+00:00",
-          "source": "DefenseScoop"
-        },
-        {
-          "title": "Covenant unveils ‘deep precision strike’ missile it plans to build by the thousands",
-          "url": "https://defensescoop.com/2026/09/09/covenant-unveils-deep-precision-strike-missile",
-          "publishedAt": "2026-09-09T20:19:00+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-11T21:00:29+00:00",
+      "updatedAt": "2026-09-11T22:00:28+00:00",
       "stories": [
         {
           "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
@@ -399,8 +399,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-11T21:00:29+00:00",
+      "updatedAt": "2026-09-11T22:00:28+00:00",
       "stories": [
+        {
+          "title": "One brick at a time: How Monumental uses robotics to build walls",
+          "url": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls",
+          "publishedAt": "2026-09-11T21:09:01+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
           "url": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness",
@@ -435,12 +441,6 @@
           "title": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
           "url": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m",
           "publishedAt": "2026-09-10T20:10:22+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Comau automates picking, handling, and palletizing for Decathlon",
-          "url": "https://www.therobotreport.com/comau-automates-picking-handling-and-palletizing-for-decathlon",
-          "publishedAt": "2026-09-10T18:49:08+00:00",
           "source": "The Robot Report"
         },
         {
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-11T21:00:29+00:00",
+    "updatedAt": "2026-09-11T22:00:28+00:00",
     "stories": [
       {
         "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "A star is exploding 45 million light-years away — here's how you can see it",
-        "url": "https://www.space.com/stargazing/a-star-is-exploding-45-million-light-years-away-heres-how-you-can-see-it",
-        "publishedAt": "2026-09-11T20:00:00+00:00",
+        "title": "I've chased the 'false dawn' for years — this is the week to find and photograph it",
+        "url": "https://www.space.com/stargazing/ive-chased-the-false-dawn-for-years-this-is-the-week-to-find-and-photograph-it",
+        "publishedAt": "2026-09-11T21:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -552,9 +552,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
-        "url": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness",
-        "publishedAt": "2026-09-11T19:49:40+00:00",
+        "title": "One brick at a time: How Monumental uses robotics to build walls",
+        "url": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls",
+        "publishedAt": "2026-09-11T21:09:01+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -579,12 +579,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Support for Patriot air-and-missile defense is a case study for the industrial base",
-        "url": "https://breakingdefense.com/2026/09/support-for-patriot-air-and-missile-defense-is-a-case-study-for-the-industrial-base",
-        "publishedAt": "2026-09-11T17:41:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
+        "url": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness",
+        "publishedAt": "2026-09-11T19:49:40+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
