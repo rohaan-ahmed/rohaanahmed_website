@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-11T20:00:27+00:00",
+  "generatedAt": "2026-09-11T21:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-11T20:00:27+00:00",
+      "updatedAt": "2026-09-11T21:00:29+00:00",
       "stories": [
+        {
+          "title": "A star is exploding 45 million light-years away — here's how you can see it",
+          "url": "https://www.space.com/stargazing/a-star-is-exploding-45-million-light-years-away-heres-how-you-can-see-it",
+          "publishedAt": "2026-09-11T20:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
           "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership",
@@ -17,6 +23,12 @@
           "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-mystery-satellite-to-orbit-for-secret-customer-photo",
           "publishedAt": "2026-09-11T19:00:00+00:00",
           "source": "Space.com"
+        },
+        {
+          "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+          "url": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector",
+          "publishedAt": "2026-09-11T19:48:09+00:00",
+          "source": "NASA"
         },
         {
           "title": "Stream every single Star Trek show from anywhere, and save up to 75% with this VPN deal",
@@ -43,21 +55,9 @@
           "source": "European Space Agency"
         },
         {
-          "title": "60 years of Star Trek uniforms: Looking back at the everchanging wardrobe of Starfleet",
-          "url": "https://www.space.com/entertainment/space-movies-shows/60-years-of-star-trek-uniforms-looking-back-at-the-everchanging-wardrobe-of-starfleet",
-          "publishedAt": "2026-09-11T15:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
           "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return",
           "publishedAt": "2026-09-11T15:05:20+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-          "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords",
-          "publishedAt": "2026-09-11T14:56:25+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-11T20:00:27+00:00",
+      "updatedAt": "2026-09-11T21:00:29+00:00",
       "stories": [
         {
           "title": "Qubic lands CA$1.5M federal contract to de-risk quantum sensor supply chains",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-11T20:00:27+00:00",
+      "updatedAt": "2026-09-11T21:00:29+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on the 25th Anniversary of 9/11",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-11T20:00:27+00:00",
+      "updatedAt": "2026-09-11T21:00:29+00:00",
       "stories": [
         {
           "title": "Concurrent attacks across multiple domains force rethinking of air-and-missile-defense",
@@ -302,8 +302,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-11T20:00:27+00:00",
+      "updatedAt": "2026-09-11T21:00:29+00:00",
       "stories": [
+        {
+          "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "publishedAt": "2026-09-11T20:59:47+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "OpenAI’s feud with mathematicians is only escalating",
+          "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating",
+          "publishedAt": "2026-09-11T20:57:36+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Anthropic opens the files on global Claude misuse",
           "url": "http://anthropic.com/threat-intelligence-report-september-2026",
@@ -317,46 +329,52 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Kimi-maker Moonshot AI targets $2 billion in annual revenue",
-          "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue",
-          "publishedAt": "2026-09-11T19:35:54+00:00",
+          "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026",
+          "publishedAt": "2026-09-11T20:33:18+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-          "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time",
-          "publishedAt": "2026-09-11T18:41:49+00:00",
-          "source": "TechCrunch AI"
+          "title": "OpenAI Launches the Agents API (3 minute read)",
+          "url": "https://openai.com/index/introducing-the-agents-api",
+          "publishedAt": "2026-09-11T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-          "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo",
-          "publishedAt": "2026-09-11T16:46:25+00:00",
-          "source": "TechCrunch AI"
+          "title": "Meta to announce Shared Agents for Muse at Meta Connect (2 minute read)",
+          "url": "https://www.testingcatalog.com/meta-to-announce-shared-agents-for-muse-at-meta-connect",
+          "publishedAt": "2026-09-11T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-          "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year",
-          "publishedAt": "2026-09-10T21:51:59+00:00",
-          "source": "TechCrunch AI"
+          "title": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff (2 minute read)",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTA5ODM2NCwiZXhwIjoxNzg5NzAzMTY0LCJhcnRpY2xlSWQiOiJUTDY2VzZLR0NURk4wMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.e_Xxs1UWjzosem8jOOiee4BMhU2TvMx8GVP44icyjYM",
+          "publishedAt": "2026-09-11T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Does Scaling Web-Video Pre-training Help Real Robots Do Real Work? (36 minute read)",
+          "url": "https://www.rhoda.ai/research/scaling-web-video-pretraining",
+          "publishedAt": "2026-09-11T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "An operationalization of opaque serial depth (3 minute read)",
+          "url": "https://blog.redwoodresearch.org/p/an-operationalization-of-opaque-serial",
+          "publishedAt": "2026-09-11T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Detecting and countering misuse of AI: September 2026 (5 hour read)",
+          "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+          "publishedAt": "2026-09-11T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Suno rebuilds its models with the music industry",
           "url": "https://suno.com/blog/introducing-v6",
           "publishedAt": "2026-09-10T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-          "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026",
-          "publishedAt": "2026-09-10T21:35:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-          "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand",
-          "publishedAt": "2026-09-10T20:59:51+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI claims a Millennium Prize problem",
@@ -375,32 +393,20 @@
           "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
           "publishedAt": "2026-09-09T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI opens the books on its AI research intern",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "publishedAt": "2026-09-08T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Insilico's AI-designed drug hints at slowing aging",
-          "url": "https://www.nature.com/articles/s41587-026-03286-y",
-          "publishedAt": "2026-09-08T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "U.S. voters’ rare bipartisan issue is fearing AI",
-          "url": "https://www.nbcnews.com/politics/politics-news/poll-polarized-america-unites-deep-concerns-ai-rcna595525",
-          "publishedAt": "2026-09-08T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-11T20:00:27+00:00",
+      "updatedAt": "2026-09-11T21:00:29+00:00",
       "stories": [
+        {
+          "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
+          "url": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness",
+          "publishedAt": "2026-09-11T19:49:40+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "How to select the right rack and pinion system for high-precision linear motion",
           "url": "https://www.therobotreport.com/how-to-select-the-right-rack-and-pinion-system-for-high-precision-linear-motion",
@@ -450,12 +456,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "What bricklaying has taught Monumental about robots in construction",
-          "url": "https://www.therobotreport.com/what-bricklaying-has-taught-monumental-about-robots-construction",
-          "publishedAt": "2026-09-09T21:08:06+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "This Robot Will Draw Your Blood Now",
           "url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
           "publishedAt": "2026-09-07T13:00:01+00:00",
@@ -495,22 +495,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-11T20:00:27+00:00",
+    "updatedAt": "2026-09-11T21:00:29+00:00",
     "stories": [
       {
-        "title": "Anthropic opens the files on global Claude misuse",
-        "url": "http://anthropic.com/threat-intelligence-report-september-2026",
-        "publishedAt": "2026-09-11T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+        "publishedAt": "2026-09-11T20:59:47+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "DeepSeek turns up the pressure on AI pricing",
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-        "publishedAt": "2026-09-11T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "OpenAI’s feud with mathematicians is only escalating",
+        "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating",
+        "publishedAt": "2026-09-11T20:57:36+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -525,10 +525,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
-        "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership",
-        "publishedAt": "2026-09-11T05:32:49+00:00",
-        "source": "SpaceNews",
+        "title": "A star is exploding 45 million light-years away — here's how you can see it",
+        "url": "https://www.space.com/stargazing/a-star-is-exploding-45-million-light-years-away-heres-how-you-can-see-it",
+        "publishedAt": "2026-09-11T20:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -552,9 +552,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "How to select the right rack and pinion system for high-precision linear motion",
-        "url": "https://www.therobotreport.com/how-to-select-the-right-rack-and-pinion-system-for-high-precision-linear-motion",
-        "publishedAt": "2026-09-11T14:35:47+00:00",
+        "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
+        "url": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness",
+        "publishedAt": "2026-09-11T19:49:40+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -700,7 +700,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-25"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
   ]
 }
