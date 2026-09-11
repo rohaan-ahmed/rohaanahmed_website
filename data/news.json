@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T09:00:30+00:00",
+  "generatedAt": "2026-09-11T09:36:51+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-11T09:00:30+00:00",
+      "updatedAt": "2026-09-11T09:36:51+00:00",
       "stories": [
         {
           "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-11T09:00:30+00:00",
+      "updatedAt": "2026-09-11T09:36:51+00:00",
       "stories": [
         {
           "title": "The Weekly Close: Calian leads a split week as the index debuts",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-11T09:00:30+00:00",
+      "updatedAt": "2026-09-11T09:36:51+00:00",
       "stories": [
         {
           "title": "Statement by the Minister of National Defence on Official Languages Day",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-11T09:00:30+00:00",
+      "updatedAt": "2026-09-11T09:36:51+00:00",
       "stories": [
         {
           "title": "Why the Pentagon picked an Indiana Navy base to host a nuclear microreactor",
@@ -296,8 +296,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-11T09:00:30+00:00",
+      "updatedAt": "2026-09-11T09:36:51+00:00",
       "stories": [
+        {
+          "title": "Anthropic opens the files on global Claude misuse",
+          "url": "http://anthropic.com/threat-intelligence-report-september-2026",
+          "publishedAt": "2026-09-11T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "DeepSeek turns up the pressure on AI pricing",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "publishedAt": "2026-09-11T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
           "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year",
@@ -375,25 +387,13 @@
           "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
           "publishedAt": "2026-09-09T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI opens the books on its AI research intern",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "publishedAt": "2026-09-08T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Insilico's AI-designed drug hints at slowing aging",
-          "url": "https://www.nature.com/articles/s41587-026-03286-y",
-          "publishedAt": "2026-09-08T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-11T09:00:30+00:00",
+      "updatedAt": "2026-09-11T09:36:51+00:00",
       "stories": [
         {
           "title": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
@@ -489,21 +489,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-11T09:00:30+00:00",
+    "updatedAt": "2026-09-11T09:36:51+00:00",
     "stories": [
       {
-        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-        "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year",
-        "publishedAt": "2026-09-10T21:51:59+00:00",
-        "source": "TechCrunch AI",
+        "title": "Anthropic opens the files on global Claude misuse",
+        "url": "http://anthropic.com/threat-intelligence-report-september-2026",
+        "publishedAt": "2026-09-11T09:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Suno rebuilds its models with the music industry",
-        "url": "https://suno.com/blog/introducing-v6",
-        "publishedAt": "2026-09-10T10:00:00+00:00",
+        "title": "DeepSeek turns up the pressure on AI pricing",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+        "publishedAt": "2026-09-11T09:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
