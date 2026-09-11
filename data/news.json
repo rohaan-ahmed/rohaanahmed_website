@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-09-11T08:00:32+00:00",
+  "generatedAt": "2026-09-11T09:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-11T08:00:32+00:00",
+      "updatedAt": "2026-09-11T09:00:30+00:00",
       "stories": [
         {
           "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
           "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership",
           "publishedAt": "2026-09-11T05:32:49+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
+          "url": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control",
+          "publishedAt": "2026-09-11T08:00:00+00:00",
+          "source": "European Space Agency"
         },
         {
           "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
@@ -79,12 +85,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Anak Krakatau eruption by Sentinel-3",
-          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Anak_Krakatau_eruption_by_Sentinel-3",
-          "publishedAt": "2026-09-08T08:45:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
           "url": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager",
           "publishedAt": "2026-09-03T13:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-11T08:00:32+00:00",
+      "updatedAt": "2026-09-11T09:00:30+00:00",
       "stories": [
         {
           "title": "The Weekly Close: Calian leads a split week as the index debuts",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-11T08:00:32+00:00",
+      "updatedAt": "2026-09-11T09:00:30+00:00",
       "stories": [
         {
           "title": "Statement by the Minister of National Defence on Official Languages Day",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-11T08:00:32+00:00",
+      "updatedAt": "2026-09-11T09:00:30+00:00",
       "stories": [
         {
           "title": "Why the Pentagon picked an Indiana Navy base to host a nuclear microreactor",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-11T08:00:32+00:00",
+      "updatedAt": "2026-09-11T09:00:30+00:00",
       "stories": [
         {
           "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-11T08:00:32+00:00",
+      "updatedAt": "2026-09-11T09:00:30+00:00",
       "stories": [
         {
           "title": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-11T08:00:32+00:00",
+    "updatedAt": "2026-09-11T09:00:30+00:00",
     "stories": [
       {
         "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
+        "url": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control",
+        "publishedAt": "2026-09-11T08:00:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "CSMC unveils three reactor platforms, defence a priority",
         "url": "https://spaceq.ca/csmc-unveils-three-reactor-platforms-defence-a-priority",
         "publishedAt": "2026-09-10T20:42:36+00:00",
@@ -570,15 +579,6 @@
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "European Launcher Challenge contracts awarded as Canada eyes 2028",
-        "url": "https://spaceq.ca/european-launcher-challenge-kicks-off-canada-launch-the-north",
-        "publishedAt": "2026-09-10T13:36:00+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
