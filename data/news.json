@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T06:00:30+00:00",
+  "generatedAt": "2026-09-11T07:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-11T06:00:30+00:00",
+      "updatedAt": "2026-09-11T07:00:33+00:00",
       "stories": [
         {
           "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-11T06:00:30+00:00",
+      "updatedAt": "2026-09-11T07:00:33+00:00",
       "stories": [
+        {
+          "title": "The Weekly Close: Calian leads a split week as the index debuts",
+          "url": "https://spaceq.ca/the-weekly-close-calian-leads-a-split-week-as-the-index-debuts",
+          "publishedAt": "2026-09-11T03:58:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "CSMC unveils three reactor platforms, defence a priority",
           "url": "https://spaceq.ca/csmc-unveils-three-reactor-platforms-defence-a-priority",
@@ -156,19 +162,13 @@
           "url": "https://spaceq.ca/isar-aerospace-spectrum-rocket-reaches-orbit-eyes-2028-launch-from-canada",
           "publishedAt": "2026-09-07T19:28:02+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "Weekly ISS update: fourth spacewalk in a month wraps up",
-          "url": "https://spaceq.ca/weekly-iss-update-fourth-spacewalk-in-a-month-wraps-up",
-          "publishedAt": "2026-09-06T18:46:25+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-11T06:00:30+00:00",
+      "updatedAt": "2026-09-11T07:00:33+00:00",
       "stories": [
         {
           "title": "Statement by the Minister of National Defence on Official Languages Day",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-11T06:00:30+00:00",
+      "updatedAt": "2026-09-11T07:00:33+00:00",
       "stories": [
         {
           "title": "Why the Pentagon picked an Indiana Navy base to host a nuclear microreactor",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-11T06:00:30+00:00",
+      "updatedAt": "2026-09-11T07:00:33+00:00",
       "stories": [
         {
           "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
@@ -341,6 +341,12 @@
           "source": "TLDR AI"
         },
         {
+          "title": "Run any model, on any backend (Website)",
+          "url": "https://imvision12.github.io/ZeroModels",
+          "publishedAt": "2026-09-10T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Connections: managed credentials and per-caller identity for Managed Deep Agents (8 minute read)",
           "url": "https://www.langchain.com/blog/connections-managed-credentials-and-per-caller-identity-for-managed-deep-agents",
           "publishedAt": "2026-09-10T00:00:00+00:00",
@@ -349,12 +355,6 @@
         {
           "title": "Q2D-Web: Evaluating First-Stage Retrievers at Scale (11 minute read)",
           "url": "https://www.perplexity.ai/hub/blog/q2d-web",
-          "publishedAt": "2026-09-10T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Run any model, on any backend (Website)",
-          "url": "https://imvision12.github.io/ZeroModels",
           "publishedAt": "2026-09-10T00:00:00+00:00",
           "source": "TLDR AI"
         },
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-11T06:00:30+00:00",
+      "updatedAt": "2026-09-11T07:00:33+00:00",
       "stories": [
         {
           "title": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-11T06:00:30+00:00",
+    "updatedAt": "2026-09-11T07:00:33+00:00",
     "stories": [
       {
         "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
@@ -510,9 +510,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "CSMC unveils three reactor platforms, defence a priority",
-        "url": "https://spaceq.ca/csmc-unveils-three-reactor-platforms-defence-a-priority",
-        "publishedAt": "2026-09-10T20:42:36+00:00",
+        "title": "The Weekly Close: Calian leads a split week as the index debuts",
+        "url": "https://spaceq.ca/the-weekly-close-calian-leads-a-split-week-as-the-index-debuts",
+        "publishedAt": "2026-09-11T03:58:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "CSMC unveils three reactor platforms, defence a priority",
+        "url": "https://spaceq.ca/csmc-unveils-three-reactor-platforms-defence-a-priority",
+        "publishedAt": "2026-09-10T20:42:36+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "APOD: 2026 September 11 – M83: The Southern Pinwheel",
         "url": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel",
         "publishedAt": "2026-09-11T04:05:00+00:00",
@@ -570,15 +579,6 @@
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
-        "url": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m",
-        "publishedAt": "2026-09-10T20:10:22+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
