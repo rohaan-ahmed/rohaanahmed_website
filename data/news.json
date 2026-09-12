@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-12T13:00:30+00:00",
+  "generatedAt": "2026-09-12T14:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-12T13:00:30+00:00",
+      "updatedAt": "2026-09-12T14:00:29+00:00",
       "stories": [
+        {
+          "title": "The best 'Star Trek' spaceships: 14 classic vessels from the Federation and beyond",
+          "url": "https://www.space.com/entertainment/space-movies-shows/the-best-star-trek-spaceships-14-classic-vessels-from-the-federation-and-beyond",
+          "publishedAt": "2026-09-12T13:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Perseid meteors meet mesmerizing star trails over Egypt's Western Desert",
           "url": "https://www.space.com/stargazing/astrophotography/perseid-meteors-meet-mesmerizing-star-trails-over-egypts-western-desert",
@@ -22,12 +28,6 @@
           "title": "Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract",
           "url": "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract",
           "publishedAt": "2026-09-11T22:06:42+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "I've chased the 'false dawn' for years — this is the week to find and photograph it",
-          "url": "https://www.space.com/stargazing/ive-chased-the-false-dawn-for-years-this-is-the-week-to-find-and-photograph-it",
-          "publishedAt": "2026-09-11T21:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-12T13:00:30+00:00",
+      "updatedAt": "2026-09-12T14:00:29+00:00",
       "stories": [
         {
           "title": "Qubic lands CA$1.5M federal contract to de-risk quantum sensor supply chains",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-12T13:00:30+00:00",
+      "updatedAt": "2026-09-12T14:00:29+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on the 25th Anniversary of 9/11",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-12T13:00:30+00:00",
+      "updatedAt": "2026-09-12T14:00:29+00:00",
       "stories": [
         {
           "title": "Concurrent attacks across multiple domains force rethinking of air-and-missile-defense",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-12T13:00:30+00:00",
+      "updatedAt": "2026-09-12T14:00:29+00:00",
       "stories": [
         {
           "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-12T13:00:30+00:00",
+      "updatedAt": "2026-09-12T14:00:29+00:00",
       "stories": [
         {
           "title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-12T13:00:30+00:00",
+    "updatedAt": "2026-09-12T14:00:29+00:00",
     "stories": [
       {
         "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Perseid meteors meet mesmerizing star trails over Egypt's Western Desert",
-        "url": "https://www.space.com/stargazing/astrophotography/perseid-meteors-meet-mesmerizing-star-trails-over-egypts-western-desert",
-        "publishedAt": "2026-09-12T12:00:00+00:00",
+        "title": "The best 'Star Trek' spaceships: 14 classic vessels from the Federation and beyond",
+        "url": "https://www.space.com/entertainment/space-movies-shows/the-best-star-trek-spaceships-14-classic-vessels-from-the-federation-and-beyond",
+        "publishedAt": "2026-09-12T13:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -561,6 +561,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Perseid meteors meet mesmerizing star trails over Egypt's Western Desert",
+        "url": "https://www.space.com/stargazing/astrophotography/perseid-meteors-meet-mesmerizing-star-trails-over-egypts-western-desert",
+        "publishedAt": "2026-09-12T12:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "NASA, IBM launch new AI model for studying the moon",
         "url": "https://www.space.com/astronomy/moon/nasa-ibm-launch-new-ai-model-for-studying-the-moon",
         "publishedAt": "2026-09-12T10:00:00+00:00",
@@ -576,15 +585,6 @@
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "One brick at a time: How Monumental uses robotics to build walls",
-        "url": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls",
-        "publishedAt": "2026-09-11T21:09:01+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
