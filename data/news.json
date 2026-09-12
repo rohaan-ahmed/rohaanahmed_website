@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-12T19:00:28+00:00",
+  "generatedAt": "2026-09-12T19:40:06+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-12T19:00:28+00:00",
+      "updatedAt": "2026-09-12T19:40:06+00:00",
       "stories": [
         {
           "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-12T19:00:28+00:00",
+      "updatedAt": "2026-09-12T19:40:06+00:00",
       "stories": [
+        {
+          "title": "The Weekly Close: Telesat and Maritime Launch lead a broad rally",
+          "url": "https://spaceq.ca/the-weekly-close-telesat-and-maritime-launch-lead-a-broad-rally",
+          "publishedAt": "2026-09-12T19:15:31+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Qubic lands CA$1.5M federal contract to de-risk quantum sensor supply chains",
           "url": "https://spaceq.ca/qubic-lands-ca1-5m-federal-contract-to-de-risk-quantum-sensor-supply-chains",
@@ -156,19 +162,13 @@
           "url": "https://spaceq.ca/earthdaily-national-master-standing-offer-canada",
           "publishedAt": "2026-09-09T16:28:28+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "Galaxia acquires hyperspectral imager from Simera Sense",
-          "url": "https://spaceq.ca/galaxia-acquires-hyperspectral-imager-from-simera-sense",
-          "publishedAt": "2026-09-08T22:45:31+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-12T19:00:28+00:00",
+      "updatedAt": "2026-09-12T19:40:06+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on the 25th Anniversary of 9/11",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-12T19:00:28+00:00",
+      "updatedAt": "2026-09-12T19:40:06+00:00",
       "stories": [
         {
           "title": "Concurrent attacks across multiple domains force rethinking of air-and-missile-defense",
@@ -302,12 +302,12 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-12T19:00:28+00:00",
+      "updatedAt": "2026-09-12T19:40:06+00:00",
       "stories": [
         {
-          "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+          "title": "Anthropic CEO outlines plan to slow AI development",
           "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
-          "publishedAt": "2026-09-12T15:52:11+00:00",
+          "publishedAt": "2026-09-12T19:34:44+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-12T19:00:28+00:00",
+      "updatedAt": "2026-09-12T19:40:06+00:00",
       "stories": [
         {
           "title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
@@ -495,12 +495,12 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-12T19:00:28+00:00",
+    "updatedAt": "2026-09-12T19:40:06+00:00",
     "stories": [
       {
-        "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+        "title": "Anthropic CEO outlines plan to slow AI development",
         "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
-        "publishedAt": "2026-09-12T15:52:11+00:00",
+        "publishedAt": "2026-09-12T19:34:44+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -516,9 +516,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Qubic lands CA$1.5M federal contract to de-risk quantum sensor supply chains",
-        "url": "https://spaceq.ca/qubic-lands-ca1-5m-federal-contract-to-de-risk-quantum-sensor-supply-chains",
-        "publishedAt": "2026-09-11T19:15:51+00:00",
+        "title": "The Weekly Close: Telesat and Maritime Launch lead a broad rally",
+        "url": "https://spaceq.ca/the-weekly-close-telesat-and-maritime-launch-lead-a-broad-rally",
+        "publishedAt": "2026-09-12T19:15:31+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
