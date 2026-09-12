@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-12T10:00:28+00:00",
+  "generatedAt": "2026-09-12T11:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-12T10:00:28+00:00",
+      "updatedAt": "2026-09-12T11:00:34+00:00",
       "stories": [
+        {
+          "title": "NASA, IBM launch new AI model for studying the moon",
+          "url": "https://www.space.com/astronomy/moon/nasa-ibm-launch-new-ai-model-for-studying-the-moon",
+          "publishedAt": "2026-09-12T10:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract",
           "url": "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract",
@@ -29,12 +35,6 @@
           "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership",
           "publishedAt": "2026-09-11T05:32:49+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Rocket Lab launches mystery satellite to orbit for secret customer (photo)",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-mystery-satellite-to-orbit-for-secret-customer-photo",
-          "publishedAt": "2026-09-11T19:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-12T10:00:28+00:00",
+      "updatedAt": "2026-09-12T11:00:34+00:00",
       "stories": [
         {
           "title": "Qubic lands CA$1.5M federal contract to de-risk quantum sensor supply chains",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-12T10:00:28+00:00",
+      "updatedAt": "2026-09-12T11:00:34+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on the 25th Anniversary of 9/11",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-12T10:00:28+00:00",
+      "updatedAt": "2026-09-12T11:00:34+00:00",
       "stories": [
         {
           "title": "Concurrent attacks across multiple domains force rethinking of air-and-missile-defense",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-12T10:00:28+00:00",
+      "updatedAt": "2026-09-12T11:00:34+00:00",
       "stories": [
         {
           "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-12T10:00:28+00:00",
+      "updatedAt": "2026-09-12T11:00:34+00:00",
       "stories": [
         {
           "title": "One brick at a time: How Monumental uses robotics to build walls",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-12T10:00:28+00:00",
+    "updatedAt": "2026-09-12T11:00:34+00:00",
     "stories": [
       {
         "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract",
-        "url": "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract",
-        "publishedAt": "2026-09-11T22:06:42+00:00",
+        "title": "NASA, IBM launch new AI model for studying the moon",
+        "url": "https://www.space.com/astronomy/moon/nasa-ibm-launch-new-ai-model-for-studying-the-moon",
+        "publishedAt": "2026-09-12T10:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
