@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-13T16:00:27+00:00",
+  "generatedAt": "2026-09-13T17:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-13T16:00:27+00:00",
+      "updatedAt": "2026-09-13T17:00:27+00:00",
       "stories": [
         {
           "title": "The 10 best underground sci-fi movies to dig into now that 'Silo' season 3 has ended",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-13T16:00:27+00:00",
+      "updatedAt": "2026-09-13T17:00:27+00:00",
       "stories": [
         {
           "title": "Qubic lands CA$1.5M federal contract to de-risk quantum sensor supply chains",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-13T16:00:27+00:00",
+      "updatedAt": "2026-09-13T17:00:27+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on the 25th Anniversary of 9/11",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-13T16:00:27+00:00",
+      "updatedAt": "2026-09-13T17:00:27+00:00",
       "stories": [
         {
           "title": "Concurrent attacks across multiple domains force rethinking of air-and-missile-defense",
@@ -296,8 +296,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-13T16:00:27+00:00",
+      "updatedAt": "2026-09-13T17:00:27+00:00",
       "stories": [
+        {
+          "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+          "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
+          "publishedAt": "2026-09-13T16:30:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
           "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
@@ -308,12 +314,6 @@
           "title": "Anthropic CEO outlines plan to slow AI development",
           "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
           "publishedAt": "2026-09-12T19:34:44+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
-          "publishedAt": "2026-09-11T22:58:17+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-13T16:00:27+00:00",
+      "updatedAt": "2026-09-13T17:00:27+00:00",
       "stories": [
         {
           "title": "How autonomous fleets are changing what’s possible in American agriculture",
@@ -489,21 +489,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-13T16:00:27+00:00",
+    "updatedAt": "2026-09-13T17:00:27+00:00",
     "stories": [
       {
-        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-        "publishedAt": "2026-09-12T20:19:16+00:00",
+        "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
+        "publishedAt": "2026-09-13T16:30:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Anthropic CEO outlines plan to slow AI development",
-        "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
-        "publishedAt": "2026-09-12T19:34:44+00:00",
+        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+        "publishedAt": "2026-09-12T20:19:16+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
