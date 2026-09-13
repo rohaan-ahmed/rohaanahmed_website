@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-13T17:00:27+00:00",
+  "generatedAt": "2026-09-13T18:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-13T17:00:27+00:00",
+      "updatedAt": "2026-09-13T18:00:31+00:00",
       "stories": [
+        {
+          "title": "On this day in space! Sept. 13, 2007: Japan launches Kaguya spacecraft to the moon to map the lunar surface in HD",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-13-2026",
+          "publishedAt": "2026-09-13T17:45:21+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "The 10 best underground sci-fi movies to dig into now that 'Silo' season 3 has ended",
           "url": "https://www.space.com/entertainment/best-underground-sci-fi-movies",
@@ -35,12 +41,6 @@
           "url": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea",
           "publishedAt": "2026-09-13T04:05:00+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "On this day in space! NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
-          "publishedAt": "2026-09-12T14:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-13T17:00:27+00:00",
+      "updatedAt": "2026-09-13T18:00:31+00:00",
       "stories": [
         {
           "title": "Qubic lands CA$1.5M federal contract to de-risk quantum sensor supply chains",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-13T17:00:27+00:00",
+      "updatedAt": "2026-09-13T18:00:31+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on the 25th Anniversary of 9/11",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-13T17:00:27+00:00",
+      "updatedAt": "2026-09-13T18:00:31+00:00",
       "stories": [
         {
           "title": "Concurrent attacks across multiple domains force rethinking of air-and-missile-defense",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-13T17:00:27+00:00",
+      "updatedAt": "2026-09-13T18:00:31+00:00",
       "stories": [
         {
           "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-13T17:00:27+00:00",
+      "updatedAt": "2026-09-13T18:00:31+00:00",
       "stories": [
         {
           "title": "How autonomous fleets are changing what’s possible in American agriculture",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-13T17:00:27+00:00",
+    "updatedAt": "2026-09-13T18:00:31+00:00",
     "stories": [
       {
         "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
@@ -519,9 +519,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The 10 best underground sci-fi movies to dig into now that 'Silo' season 3 has ended",
-        "url": "https://www.space.com/entertainment/best-underground-sci-fi-movies",
-        "publishedAt": "2026-09-13T15:00:00+00:00",
+        "title": "On this day in space! Sept. 13, 2007: Japan launches Kaguya spacecraft to the moon to map the lunar surface in HD",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-13-2026",
+        "publishedAt": "2026-09-13T17:45:21+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "The 10 best underground sci-fi movies to dig into now that 'Silo' season 3 has ended",
+        "url": "https://www.space.com/entertainment/best-underground-sci-fi-movies",
+        "publishedAt": "2026-09-13T15:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "NASA astronaut Jessica Meir shares zero-G curly hair tips from the ISS (video)",
         "url": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-jessica-meir-shares-zero-g-curly-hair-tips-from-the-iss-video",
         "publishedAt": "2026-09-13T14:00:00+00:00",
@@ -567,15 +576,6 @@
         "title": "James Webb Space Telescope discovers the rings of tiny solar system body Chariklo are changing",
         "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-the-rings-of-tiny-solar-system-body-chariklo-are-changing",
         "publishedAt": "2026-09-13T13:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Don't miss Venus shine beside the crescent moon at sunset tonight",
-        "url": "https://www.space.com/stargazing/dont-miss-venus-shine-beside-the-crescent-moon-at-sunset-tonight",
-        "publishedAt": "2026-09-13T10:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
