@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-13T04:00:30+00:00",
+  "generatedAt": "2026-09-13T05:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-13T04:00:30+00:00",
+      "updatedAt": "2026-09-13T05:00:31+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea",
+          "publishedAt": "2026-09-13T04:05:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
           "url": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
@@ -61,12 +67,6 @@
           "source": "NASA"
         },
         {
-          "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-          "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords",
-          "publishedAt": "2026-09-11T14:56:25+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "A team of teams like never before: rehearsing a unique launch at ESA mission control",
           "url": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control",
           "publishedAt": "2026-09-11T08:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-13T04:00:30+00:00",
+      "updatedAt": "2026-09-13T05:00:31+00:00",
       "stories": [
         {
           "title": "Qubic lands CA$1.5M federal contract to de-risk quantum sensor supply chains",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-13T04:00:30+00:00",
+      "updatedAt": "2026-09-13T05:00:31+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on the 25th Anniversary of 9/11",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-13T04:00:30+00:00",
+      "updatedAt": "2026-09-13T05:00:31+00:00",
       "stories": [
         {
           "title": "Concurrent attacks across multiple domains force rethinking of air-and-missile-defense",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-13T04:00:30+00:00",
+      "updatedAt": "2026-09-13T05:00:31+00:00",
       "stories": [
         {
           "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-13T04:00:30+00:00",
+      "updatedAt": "2026-09-13T05:00:31+00:00",
       "stories": [
         {
           "title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-13T04:00:30+00:00",
+    "updatedAt": "2026-09-13T05:00:31+00:00",
     "stories": [
       {
         "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
@@ -519,10 +519,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
-        "url": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
-        "publishedAt": "2026-09-12T14:00:00+00:00",
-        "source": "Space.com",
+        "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea",
+        "publishedAt": "2026-09-13T04:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Trump is proposing a US Space Academy — if created, it could blur the lines between NASA and the military (op-ed)",
+        "url": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
+        "publishedAt": "2026-09-12T14:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "On this day in space! NASA astronaut Mae Jemison makes history as the 1st Black woman in space",
         "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
         "publishedAt": "2026-09-12T14:00:00+00:00",
@@ -567,15 +576,6 @@
         "title": "The best 'Star Trek' spaceships: 14 classic vessels from the Federation and beyond",
         "url": "https://www.space.com/entertainment/space-movies-shows/the-best-star-trek-spaceships-14-classic-vessels-from-the-federation-and-beyond",
         "publishedAt": "2026-09-12T13:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Perseid meteors meet mesmerizing star trails over Egypt's Western Desert",
-        "url": "https://www.space.com/stargazing/astrophotography/perseid-meteors-meet-mesmerizing-star-trails-over-egypts-western-desert",
-        "publishedAt": "2026-09-12T12:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
