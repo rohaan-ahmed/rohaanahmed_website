@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T20:31:16+00:00",
+  "generatedAt": "2026-09-14T21:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-14T20:31:16+00:00",
+      "updatedAt": "2026-09-14T21:00:31+00:00",
       "stories": [
         {
           "title": "Sept. 21: What Comes Next for On-Orbit Servicing?",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-14T20:31:16+00:00",
+      "updatedAt": "2026-09-14T21:00:31+00:00",
       "stories": [
         {
           "title": "MLS and Isar Aerospace finalize statement of work for Spaceport Nova Scotia launch pad",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-14T20:31:16+00:00",
+      "updatedAt": "2026-09-14T21:00:31+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-14T20:31:16+00:00",
+      "updatedAt": "2026-09-14T21:00:31+00:00",
       "stories": [
         {
           "title": "Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort",
@@ -296,8 +296,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-14T20:31:16+00:00",
+      "updatedAt": "2026-09-14T21:00:31+00:00",
       "stories": [
+        {
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+          "publishedAt": "2026-09-14T20:44:14+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Dario Amodei makes the case for AI slowdown",
           "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
@@ -320,12 +326,6 @@
           "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
           "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll",
           "publishedAt": "2026-09-14T17:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-          "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans",
-          "publishedAt": "2026-09-14T16:27:53+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-14T20:31:16+00:00",
+      "updatedAt": "2026-09-14T21:00:31+00:00",
       "stories": [
         {
           "title": "Arm to discuss scaling physical AI at RoboBusiness",
@@ -489,20 +489,20 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-14T20:31:16+00:00",
+    "updatedAt": "2026-09-14T21:00:31+00:00",
     "stories": [
       {
-        "title": "Dario Amodei makes the case for AI slowdown",
-        "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-        "publishedAt": "2026-09-14T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+        "publishedAt": "2026-09-14T20:44:14+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "AI helps catch more fetal brain defects in hospitals",
-        "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00063-4/fulltext",
+        "title": "Dario Amodei makes the case for AI slowdown",
+        "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
         "publishedAt": "2026-09-14T09:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
