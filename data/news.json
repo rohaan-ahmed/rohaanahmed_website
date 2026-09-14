@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T10:00:29+00:00",
+  "generatedAt": "2026-09-14T10:46:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-14T10:00:29+00:00",
+      "updatedAt": "2026-09-14T10:46:29+00:00",
       "stories": [
         {
           "title": "ESA’s FLEX mission reveals the secret glow of plants",
@@ -17,6 +17,12 @@
           "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C",
           "publishedAt": "2026-09-14T07:20:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "James Webb Space Telescope and Hubble discover 27 puzzling new objects orbiting the sun far beyond Neptune",
+          "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-and-hubble-discover-27-puzzling-new-objects-orbiting-the-sun-far-beyond-neptune",
+          "publishedAt": "2026-09-14T10:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "APOD: 2026 September 14 – Where Your Elements Came From",
@@ -52,12 +58,6 @@
           "title": "NASA astronaut Jessica Meir shares zero-G curly hair tips from the ISS (video)",
           "url": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-jessica-meir-shares-zero-g-curly-hair-tips-from-the-iss-video",
           "publishedAt": "2026-09-13T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "James Webb Space Telescope discovers the rings of tiny solar system body Chariklo are changing",
-          "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-the-rings-of-tiny-solar-system-body-chariklo-are-changing",
-          "publishedAt": "2026-09-13T13:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-14T10:00:29+00:00",
+      "updatedAt": "2026-09-14T10:46:29+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: cargo ship undocks after half-year stay",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-14T10:00:29+00:00",
+      "updatedAt": "2026-09-14T10:46:29+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on the 25th Anniversary of 9/11",
@@ -199,8 +199,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-14T10:00:29+00:00",
+      "updatedAt": "2026-09-14T10:46:29+00:00",
       "stories": [
+        {
+          "title": "Lockheed boosts bet on Skunk Works’ Vectis stealth drone",
+          "url": "https://breakingdefense.com/2026/09/lockheed-boosts-bet-on-skunk-works-vectis-stealth-drone",
+          "publishedAt": "2026-09-14T10:01:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Concurrent attacks across multiple domains force rethinking of air-and-missile-defense",
           "url": "https://breakingdefense.com/2026/09/concurrent-attacks-across-multiple-domains-force-rethinking-of-air-and-missile-defense",
@@ -241,12 +247,6 @@
           "title": "Canada, Ukraine to jointly produce defense tech, part of ‘100-year partnership’",
           "url": "https://breakingdefense.com/2026/09/canada-ukraine-to-jointly-produce-defense-tech-part-of-100-year-partnership",
           "publishedAt": "2026-09-11T16:26:08+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "After suspicious incidents, European group urges ‘vigilance’ for defense firms",
-          "url": "https://breakingdefense.com/2026/09/after-suspicious-incidents-european-group-urges-vigilance-for-defense-firms",
-          "publishedAt": "2026-09-11T16:04:53+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-14T10:00:29+00:00",
+      "updatedAt": "2026-09-14T10:46:29+00:00",
       "stories": [
         {
           "title": "Dario Amodei makes the case for AI slowdown",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-14T10:00:29+00:00",
+      "updatedAt": "2026-09-14T10:46:29+00:00",
       "stories": [
         {
           "title": "How autonomous fleets are changing what’s possible in American agriculture",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-14T10:00:29+00:00",
+    "updatedAt": "2026-09-14T10:46:29+00:00",
     "stories": [
       {
         "title": "Dario Amodei makes the case for AI slowdown",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Concurrent attacks across multiple domains force rethinking of air-and-missile-defense",
-        "url": "https://breakingdefense.com/2026/09/concurrent-attacks-across-multiple-domains-force-rethinking-of-air-and-missile-defense",
-        "publishedAt": "2026-09-11T19:41:08+00:00",
+        "title": "Lockheed boosts bet on Skunk Works’ Vectis stealth drone",
+        "url": "https://breakingdefense.com/2026/09/lockheed-boosts-bet-on-skunk-works-vectis-stealth-drone",
+        "publishedAt": "2026-09-14T10:01:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -564,18 +564,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "APOD: 2026 September 14 – Where Your Elements Came From",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from",
-        "publishedAt": "2026-09-14T04:05:00+00:00",
-        "source": "NASA",
+        "title": "James Webb Space Telescope and Hubble discover 27 puzzling new objects orbiting the sun far beyond Neptune",
+        "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-and-hubble-discover-27-puzzling-new-objects-orbiting-the-sun-far-beyond-neptune",
+        "publishedAt": "2026-09-14T10:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "An Early Look at Fall Color in Canada",
-        "url": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada",
-        "publishedAt": "2026-09-14T04:00:00+00:00",
+        "title": "APOD: 2026 September 14 – Where Your Elements Came From",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from",
+        "publishedAt": "2026-09-14T04:05:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -695,6 +695,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-17"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-24"
   ]
 }
