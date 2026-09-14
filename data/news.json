@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T20:00:26+00:00",
+  "generatedAt": "2026-09-14T20:31:16+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-14T20:00:26+00:00",
+      "updatedAt": "2026-09-14T20:31:16+00:00",
       "stories": [
         {
           "title": "Sept. 21: What Comes Next for On-Orbit Servicing?",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-14T20:00:26+00:00",
+      "updatedAt": "2026-09-14T20:31:16+00:00",
       "stories": [
         {
           "title": "MLS and Isar Aerospace finalize statement of work for Spaceport Nova Scotia launch pad",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-14T20:00:26+00:00",
+      "updatedAt": "2026-09-14T20:31:16+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,13 +199,25 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-14T20:00:26+00:00",
+      "updatedAt": "2026-09-14T20:31:16+00:00",
       "stories": [
+        {
+          "title": "Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort",
+          "url": "https://breakingdefense.com/2026/09/wither-tracss-dod-industry-face-hard-choices-in-showdown-over-commerce-spacewatch-effort",
+          "publishedAt": "2026-09-14T20:00:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Despite fire, lengthy deployment, Navy expects only six-month maintenance for USS Ford",
           "url": "https://breakingdefense.com/2026/09/despite-fire-lengthy-deployment-navy-expects-only-six-month-maintenance-for-uss-ford",
           "publishedAt": "2026-09-14T19:27:57+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "US military must focus on ‘right mix’ of weapons amid stockpile concerns: Official",
+          "url": "https://www.defensenews.com/air/2026/09/14/us-military-must-focus-on-right-mix-of-weapons-amid-stockpile-concerns-official",
+          "publishedAt": "2026-09-14T19:57:01+00:00",
+          "source": "Defense News"
         },
         {
           "title": "AFA’s 2026 Air, Space & Cyber Conference kicks off",
@@ -238,12 +250,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Northrop drops off SNC-led Navy trainer team",
-          "url": "https://breakingdefense.com/2026/09/northrop-drops-off-snc-led-navy-trainer-team",
-          "publishedAt": "2026-09-14T16:40:36+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "US Air Force to stand up point defense career field within 2 years, Wilsbach says",
           "url": "https://www.defensenews.com/news/your-military/2026/09/14/us-air-force-to-stand-up-point-defense-career-field-within-2-years-wilsbach-says",
           "publishedAt": "2026-09-14T17:17:28+00:00",
@@ -253,12 +259,6 @@
           "title": "Vengeance and Fury: US Air Force names new CCAs amid ambitious production goal",
           "url": "https://www.defensenews.com/industry/techwatch/2026/09/14/vengeance-and-fury-us-air-force-names-new-ccas-amid-ambitious-production-goal",
           "publishedAt": "2026-09-14T17:00:54+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "Polish minister proposes drills near Kaliningrad to draw Russian troops from Ukraine",
-          "url": "https://www.defensenews.com/global/europe/2026/09/14/polish-minister-proposes-drills-near-kaliningrad-to-draw-russian-troops-from-ukraine",
-          "publishedAt": "2026-09-14T16:06:06+00:00",
           "source": "Defense News"
         },
         {
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-14T20:00:26+00:00",
+      "updatedAt": "2026-09-14T20:31:16+00:00",
       "stories": [
         {
           "title": "Dario Amodei makes the case for AI slowdown",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-14T20:00:26+00:00",
+      "updatedAt": "2026-09-14T20:31:16+00:00",
       "stories": [
         {
           "title": "Arm to discuss scaling physical AI at RoboBusiness",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-14T20:00:26+00:00",
+    "updatedAt": "2026-09-14T20:31:16+00:00",
     "stories": [
       {
         "title": "Dario Amodei makes the case for AI slowdown",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Despite fire, lengthy deployment, Navy expects only six-month maintenance for USS Ford",
-        "url": "https://breakingdefense.com/2026/09/despite-fire-lengthy-deployment-navy-expects-only-six-month-maintenance-for-uss-ford",
-        "publishedAt": "2026-09-14T19:27:57+00:00",
+        "title": "Wither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort",
+        "url": "https://breakingdefense.com/2026/09/wither-tracss-dod-industry-face-hard-choices-in-showdown-over-commerce-spacewatch-effort",
+        "publishedAt": "2026-09-14T20:00:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -573,9 +573,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "AFA’s 2026 Air, Space & Cyber Conference kicks off",
-        "url": "https://breakingdefense.com/2026/09/afas-2026-air-space-cyber-conference-kicks-off",
-        "publishedAt": "2026-09-14T18:56:39+00:00",
+        "title": "Despite fire, lengthy deployment, Navy expects only six-month maintenance for USS Ford",
+        "url": "https://breakingdefense.com/2026/09/despite-fire-lengthy-deployment-navy-expects-only-six-month-maintenance-for-uss-ford",
+        "publishedAt": "2026-09-14T19:27:57+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
