@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-14T16:00:36+00:00",
+  "generatedAt": "2026-09-14T16:38:20+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-14T16:00:36+00:00",
+      "updatedAt": "2026-09-14T16:38:20+00:00",
       "stories": [
         {
           "title": "Space’s growing billion-dollar club",
@@ -17,6 +17,12 @@
           "url": "https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion",
           "publishedAt": "2026-09-14T14:00:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "The original 'Star Wars' is coming to IMAX for the first time ever in 2027",
+          "url": "https://www.space.com/entertainment/space-movies-shows/the-original-star-wars-is-coming-to-imax-for-the-first-time-ever-in-2027",
+          "publishedAt": "2026-09-14T16:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
@@ -46,12 +52,6 @@
           "title": "Cygnus the swan lifts up the International Space Station | Space photo of the day for Sept. 14, 2026",
           "url": "https://www.space.com/space-exploration/cygnus-the-swan-lifts-up-the-international-space-station-space-photo-of-the-day-for-sept-14-2026",
           "publishedAt": "2026-09-14T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Is there a hidden 'Planet 9' in our solar system?",
-          "url": "https://www.space.com/astronomy/solar-system/is-there-a-hidden-planet-9-in-our-solar-system",
-          "publishedAt": "2026-09-14T12:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-14T16:00:36+00:00",
+      "updatedAt": "2026-09-14T16:38:20+00:00",
       "stories": [
+        {
+          "title": "MLS and Isar Aerospace finalize statement of work for Spaceport Nova Scotia launch pad",
+          "url": "https://spaceq.ca/mls-and-isar-aerospace-finalize-statement-of-work-for-spaceport-nova-scotia-launch-pad",
+          "publishedAt": "2026-09-14T16:37:37+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Canada Investment Summit prospectus lists four space opportunities",
           "url": "https://spaceq.ca/canada-investment-summit-space-projects",
@@ -156,19 +162,13 @@
           "url": "https://spaceq.ca/european-launcher-challenge-kicks-off-canada-launch-the-north",
           "publishedAt": "2026-09-10T13:36:00+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "Canadian Armed Forces creates new space professional occupation",
-          "url": "https://spaceq.ca/canadian-armed-forces-creates-new-space-professional-occupation",
-          "publishedAt": "2026-09-09T21:34:56+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-14T16:00:36+00:00",
+      "updatedAt": "2026-09-14T16:38:20+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,13 +199,25 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-14T16:00:36+00:00",
+      "updatedAt": "2026-09-14T16:38:20+00:00",
       "stories": [
+        {
+          "title": "Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals",
+          "url": "https://breakingdefense.com/2026/09/space-force-has-space-control-weapons-on-orbit-air-force-secretary-says",
+          "publishedAt": "2026-09-14T15:59:35+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Textron, Merlin offer unmanned Cessna Skycourier for Pacific island resupply",
           "url": "https://breakingdefense.com/2026/09/textron-merlin-offer-unmanned-cessna-skycourier-for-pacific-island-resupply",
           "publishedAt": "2026-09-14T15:28:37+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Polish minister proposes drills near Kaliningrad to draw Russian troops from Ukraine",
+          "url": "https://www.defensenews.com/global/europe/2026/09/14/polish-minister-proposes-drills-near-kaliningrad-to-draw-russian-troops-from-ukraine",
+          "publishedAt": "2026-09-14T16:06:06+00:00",
+          "source": "Defense News"
         },
         {
           "title": "US, South Korean officials to broach thorny Hormuz mission at talks this week",
@@ -224,6 +236,12 @@
           "url": "https://breakingdefense.com/2026/09/swarm-aero-debuts-gamera-drone-in-bid-to-succeed-reaper",
           "publishedAt": "2026-09-14T13:00:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "AFSOC gunship launches new Havoc Spear cruise missiles at targets in Africa during combat operations",
+          "url": "https://defensescoop.com/2026/09/14/afsoc-gunship-launches-havoc-spear-cruise-missiles-at-targets-in-africa",
+          "publishedAt": "2026-09-14T16:00:00+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Drone maker unveils ‘low-cost’ alternative to MQ-9 Reaper",
@@ -272,31 +290,13 @@
           "url": "https://defensescoop.com/2026/09/11/dod-poised-to-move-all-classified-ai-workloads-off-anthropic-by-october",
           "publishedAt": "2026-09-11T21:41:14+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Support for Patriot air-and-missile defense is a case study for the industrial base",
-          "url": "https://breakingdefense.com/2026/09/support-for-patriot-air-and-missile-defense-is-a-case-study-for-the-industrial-base",
-          "publishedAt": "2026-09-11T17:41:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Army awards $196M for sensors in first production contracts under EW-focused call for solutions",
-          "url": "https://defensescoop.com/2026/09/11/army-awards-196m-sensor-production-contracts-electronic-warfare",
-          "publishedAt": "2026-09-11T21:11:09+00:00",
-          "source": "DefenseScoop"
-        },
-        {
-          "title": "Pentagon looks to AI to identify space and missile threats",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/09/11/pentagon-looks-to-ai-to-identify-space-and-missile-threats",
-          "publishedAt": "2026-09-11T17:38:56+00:00",
-          "source": "Defense News"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-14T16:00:36+00:00",
+      "updatedAt": "2026-09-14T16:38:20+00:00",
       "stories": [
         {
           "title": "Dario Amodei makes the case for AI slowdown",
@@ -311,6 +311,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+          "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans",
+          "publishedAt": "2026-09-14T16:27:53+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
           "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap",
           "publishedAt": "2026-09-14T15:00:00+00:00",
@@ -323,28 +329,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026",
-          "publishedAt": "2026-09-14T14:30:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Introducing Projects (5 minute read)",
+          "url": "https://cursor.com/blog/projects",
+          "publishedAt": "2026-09-14T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days",
-          "publishedAt": "2026-09-14T14:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "OpenAI Pushes Its IPO Beyond 2026 (2 minute read)",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+          "publishedAt": "2026-09-14T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-          "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting",
-          "publishedAt": "2026-09-14T13:55:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "SoftBank Gets Upsized $11.9 Billion Loan in OpenAI Funding Push (2 minute read)",
+          "url": "https://www.japantimes.co.jp/business/2026/09/14/companies/softbank-loan-openai",
+          "publishedAt": "2026-09-14T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "What’s behind the AI industry’s latest warnings of doom?",
-          "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom",
-          "publishedAt": "2026-09-13T19:40:15+00:00",
-          "source": "TechCrunch AI"
+          "title": "ARC-AGI-4 (2 minute read)",
+          "url": "https://x.com/arcprize/status/2098849962754978152",
+          "publishedAt": "2026-09-14T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "A cache hit is not proof that you skipped the work (12 minute read)",
+          "url": "https://siddhantkhare.com/writing/kv-cache-truth-auditor",
+          "publishedAt": "2026-09-14T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "AI researchers debate how close we are to recursive self-improvement (98 minute read)",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "publishedAt": "2026-09-14T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Anthropic opens the files on global Claude misuse",
@@ -369,31 +387,13 @@
           "url": "https://openai.com/index/navier-stokes-solution",
           "publishedAt": "2026-09-09T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Meta debuts new personal AI agent",
-          "url": "https://ai.meta.com/muse",
-          "publishedAt": "2026-09-09T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI improves its already top-ranked image model",
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "publishedAt": "2026-09-09T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI opens the books on its AI research intern",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "publishedAt": "2026-09-08T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-14T16:00:36+00:00",
+      "updatedAt": "2026-09-14T16:38:20+00:00",
       "stories": [
         {
           "title": "Universal Robots launches its seventh generation robot platform at IMTS",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-14T16:00:36+00:00",
+    "updatedAt": "2026-09-14T16:38:20+00:00",
     "stories": [
       {
         "title": "Dario Amodei makes the case for AI slowdown",
@@ -510,9 +510,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Canada Investment Summit prospectus lists four space opportunities",
-        "url": "https://spaceq.ca/canada-investment-summit-space-projects",
-        "publishedAt": "2026-09-14T11:25:00+00:00",
+        "title": "MLS and Isar Aerospace finalize statement of work for Spaceport Nova Scotia launch pad",
+        "url": "https://spaceq.ca/mls-and-isar-aerospace-finalize-statement-of-work-for-spaceport-nova-scotia-launch-pad",
+        "publishedAt": "2026-09-14T16:37:37+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Textron, Merlin offer unmanned Cessna Skycourier for Pacific island resupply",
-        "url": "https://breakingdefense.com/2026/09/textron-merlin-offer-unmanned-cessna-skycourier-for-pacific-island-resupply",
-        "publishedAt": "2026-09-14T15:28:37+00:00",
+        "title": "Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals",
+        "url": "https://breakingdefense.com/2026/09/space-force-has-space-control-weapons-on-orbit-air-force-secretary-says",
+        "publishedAt": "2026-09-14T15:59:35+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -555,27 +555,27 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "US, South Korean officials to broach thorny Hormuz mission at talks this week",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/14/us-south-korean-officials-to-broach-thorny-hormuz-mission-at-talks-this-week",
-        "publishedAt": "2026-09-14T15:30:15+00:00",
-        "source": "Defense News",
+        "title": "Canada Investment Summit prospectus lists four space opportunities",
+        "url": "https://spaceq.ca/canada-investment-summit-space-projects",
+        "publishedAt": "2026-09-14T11:25:00+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Textron, Merlin offer unmanned Cessna Skycourier for Pacific island resupply",
+        "url": "https://breakingdefense.com/2026/09/textron-merlin-offer-unmanned-cessna-skycourier-for-pacific-island-resupply",
+        "publishedAt": "2026-09-14T15:28:37+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Questions? Ask our Hera Space Companion!",
-        "url": "https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion",
-        "publishedAt": "2026-09-14T14:00:00+00:00",
-        "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "L3Harris gets $4.7 billion deal to help boost Patriot interceptor production",
-        "url": "https://www.defensenews.com/industry/2026/09/14/l3harris-gets-47-billion-deal-to-help-boost-patriot-interceptor-production",
-        "publishedAt": "2026-09-14T14:34:06+00:00",
+        "title": "Polish minister proposes drills near Kaliningrad to draw Russian troops from Ukraine",
+        "url": "https://www.defensenews.com/global/europe/2026/09/14/polish-minister-proposes-drills-near-kaliningrad-to-draw-russian-troops-from-ukraine",
+        "publishedAt": "2026-09-14T16:06:06+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -694,7 +694,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-27"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
   ]
 }
