@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-14T08:00:30+00:00",
+  "generatedAt": "2026-09-14T09:02:19+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-14T08:00:30+00:00",
+      "updatedAt": "2026-09-14T09:02:19+00:00",
       "stories": [
+        {
+          "title": "ESA’s FLEX mission reveals the secret glow of plants",
+          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants",
+          "publishedAt": "2026-09-14T08:00:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
           "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C",
@@ -73,6 +79,12 @@
           "source": "NASA"
         },
         {
+          "title": "ESA Space Environment Report 2026",
+          "url": "https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2026",
+          "publishedAt": "2026-09-11T15:52:00+00:00",
+          "source": "European Space Agency"
+        },
+        {
           "title": "Week in images: 07-11 Sep 2026",
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026",
           "publishedAt": "2026-09-11T13:00:00+00:00",
@@ -83,25 +95,13 @@
           "url": "https://www.esa.int/Enabling_Support/Operations/A_team_of_teams_like_never_before_rehearsing_a_unique_launch_at_ESA_mission_control",
           "publishedAt": "2026-09-11T08:00:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Name our dino – ESA’s Hera asteroid mission mascot!",
-          "url": "https://www.esa.int/Space_Safety/Hera/Name_our_dino_ESA_s_Hera_asteroid_mission_mascot",
-          "publishedAt": "2026-09-10T14:00:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
-          "title": "MTM's selfie footage of BepiColombo's eight-year journey",
-          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/MTM_s_selfie_footage_of_BepiColombo_s_eight-year_journey",
-          "publishedAt": "2026-09-09T12:00:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-14T08:00:30+00:00",
+      "updatedAt": "2026-09-14T09:02:19+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: cargo ship undocks after half-year stay",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-14T08:00:30+00:00",
+      "updatedAt": "2026-09-14T09:02:19+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on the 25th Anniversary of 9/11",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-14T08:00:30+00:00",
+      "updatedAt": "2026-09-14T09:02:19+00:00",
       "stories": [
         {
           "title": "Concurrent attacks across multiple domains force rethinking of air-and-missile-defense",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-14T08:00:30+00:00",
+      "updatedAt": "2026-09-14T09:02:19+00:00",
       "stories": [
         {
           "title": "What’s behind the AI industry’s latest warnings of doom?",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-14T08:00:30+00:00",
+      "updatedAt": "2026-09-14T09:02:19+00:00",
       "stories": [
         {
           "title": "How autonomous fleets are changing what’s possible in American agriculture",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-14T08:00:30+00:00",
+    "updatedAt": "2026-09-14T09:02:19+00:00",
     "stories": [
       {
         "title": "What’s behind the AI industry’s latest warnings of doom?",
@@ -519,9 +519,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
-        "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C",
-        "publishedAt": "2026-09-14T07:20:00+00:00",
+        "title": "ESA’s FLEX mission reveals the secret glow of plants",
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/ESA_s_FLEX_mission_reveals_the_secret_glow_of_plants",
+        "publishedAt": "2026-09-14T08:00:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "FLEX and Sentinel-3C ready for liftoff on Vega-C",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C",
+        "publishedAt": "2026-09-14T07:20:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "APOD: 2026 September 14 – Where Your Elements Came From",
         "url": "https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from",
         "publishedAt": "2026-09-14T04:05:00+00:00",
@@ -568,15 +577,6 @@
         "url": "https://science.nasa.gov/earth/earth-observatory/an-early-look-at-fall-color-in-canada",
         "publishedAt": "2026-09-14T04:00:00+00:00",
         "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "SpaceX launches 3 telecom satellites to orbit on 700th Falcon mission of all time (video)",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-telecom-satellites-to-orbit-on-700th-falcon-mission-of-all-time-video",
-        "publishedAt": "2026-09-13T21:41:26+00:00",
-        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
