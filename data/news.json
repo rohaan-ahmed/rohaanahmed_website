@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-15T09:00:28+00:00",
+  "generatedAt": "2026-09-15T10:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-15T09:00:28+00:00",
+      "updatedAt": "2026-09-15T10:00:34+00:00",
       "stories": [
         {
           "title": "Iceye’s global presence expands to address sovereign demand",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-15T09:00:28+00:00",
+      "updatedAt": "2026-09-15T10:00:34+00:00",
       "stories": [
         {
           "title": "Wyvern’s $230-million summit pitch is a full-program estimate",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-15T09:00:28+00:00",
+      "updatedAt": "2026-09-15T10:00:34+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,8 +199,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-15T09:00:28+00:00",
+      "updatedAt": "2026-09-15T10:00:34+00:00",
       "stories": [
+        {
+          "title": "France experiments with smaller tank units to evade drone attacks",
+          "url": "https://www.defensenews.com/global/europe/2026/09/15/france-experiments-with-smaller-tank-units-to-evade-drone-attacks",
+          "publishedAt": "2026-09-15T09:24:22+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Why the US is talking about space weapons now",
           "url": "https://breakingdefense.com/2026/09/why-the-us-is-talking-about-space-weapons-now",
@@ -256,12 +262,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Lockheed to build 4 more Vectis drones, 2027 first flight remains on target",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/09/14/lockheed-to-build-4-more-vectis-drones-2027-first-flight-remains-on-target",
-          "publishedAt": "2026-09-14T19:45:40+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Pentagon offers new ‘targeted legal relief’ for UAP whistleblowers supporting Trump’s PURSUE work",
           "url": "https://defensescoop.com/2026/09/14/pentagon-legal-relief-uap-whistleblowers-trump-project",
           "publishedAt": "2026-09-14T21:40:04+00:00",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-15T09:00:28+00:00",
+      "updatedAt": "2026-09-15T10:00:34+00:00",
       "stories": [
         {
           "title": "Jensen Huang took a call from Trump, and showed off something else, too",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-15T09:00:28+00:00",
+      "updatedAt": "2026-09-15T10:00:34+00:00",
       "stories": [
         {
           "title": "Why RaaS needs more than a subscription model",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-15T09:00:28+00:00",
+    "updatedAt": "2026-09-15T10:00:34+00:00",
     "stories": [
       {
         "title": "Jensen Huang took a call from Trump, and showed off something else, too",
@@ -537,10 +537,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Why the US is talking about space weapons now",
-        "url": "https://breakingdefense.com/2026/09/why-the-us-is-talking-about-space-weapons-now",
-        "publishedAt": "2026-09-15T02:02:08+00:00",
-        "source": "Breaking Defense",
+        "title": "France experiments with smaller tank units to evade drone attacks",
+        "url": "https://www.defensenews.com/global/europe/2026/09/15/france-experiments-with-smaller-tank-units-to-evade-drone-attacks",
+        "publishedAt": "2026-09-15T09:24:22+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
