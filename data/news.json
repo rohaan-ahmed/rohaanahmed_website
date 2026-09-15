@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-15T01:35:40+00:00",
+  "generatedAt": "2026-09-15T02:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-15T01:35:40+00:00",
+      "updatedAt": "2026-09-15T02:00:30+00:00",
       "stories": [
         {
           "title": "Sept. 21: What Comes Next for On-Orbit Servicing?",
@@ -43,7 +43,7 @@
           "source": "NASA"
         },
         {
-          "title": "2 European Earth-observing satellites launching to orbit from South America tonight: Watch it live",
+          "title": "Vega C rocket launches 2 European Earth-observing satellites to orbit from South America",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites",
           "publishedAt": "2026-09-14T18:00:00+00:00",
           "source": "Space.com"
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-15T01:35:40+00:00",
+      "updatedAt": "2026-09-15T02:00:30+00:00",
       "stories": [
         {
           "title": "Wyvern’s $230-million summit pitch is a full-program estimate",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-15T01:35:40+00:00",
+      "updatedAt": "2026-09-15T02:00:30+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-15T01:35:40+00:00",
+      "updatedAt": "2026-09-15T02:00:30+00:00",
       "stories": [
         {
           "title": "US Navy, Boeing ink first MQ-25A Stingray production contract",
@@ -296,8 +296,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-15T01:35:40+00:00",
+      "updatedAt": "2026-09-15T02:00:30+00:00",
       "stories": [
+        {
+          "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+          "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too",
+          "publishedAt": "2026-09-15T01:50:48+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
           "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen",
@@ -321,12 +327,6 @@
           "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00063-4/fulltext",
           "publishedAt": "2026-09-14T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "With iOS 27, I’m actually using Siri again",
-          "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again",
-          "publishedAt": "2026-09-14T17:10:30+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "Introducing Projects (5 minute read)",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-15T01:35:40+00:00",
+      "updatedAt": "2026-09-15T02:00:30+00:00",
       "stories": [
         {
           "title": "Why RaaS needs more than a subscription model",
@@ -489,21 +489,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-15T01:35:40+00:00",
+    "updatedAt": "2026-09-15T02:00:30+00:00",
     "stories": [
       {
-        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-        "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen",
-        "publishedAt": "2026-09-14T21:51:02+00:00",
+        "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+        "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too",
+        "publishedAt": "2026-09-15T01:50:48+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-        "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
-        "publishedAt": "2026-09-14T20:44:14+00:00",
+        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+        "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen",
+        "publishedAt": "2026-09-14T21:51:02+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
