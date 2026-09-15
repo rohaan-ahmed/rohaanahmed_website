@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-09-15T03:00:26+00:00",
+  "generatedAt": "2026-09-15T04:00:36+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-15T03:00:26+00:00",
+      "updatedAt": "2026-09-15T04:00:36+00:00",
       "stories": [
         {
           "title": "Sept. 21: What Comes Next for On-Orbit Servicing?",
           "url": "https://spacenews.com/what-comes-next-for-on-orbit-servicing-event",
           "publishedAt": "2026-09-14T17:09:21+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "FLEX and Sentinel-3C launched",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_launched",
+          "publishedAt": "2026-09-15T03:25:00+00:00",
+          "source": "European Space Agency"
         },
         {
           "title": "Space’s growing billion-dollar club",
@@ -89,19 +95,13 @@
           "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership",
           "publishedAt": "2026-09-11T05:32:49+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Week in images: 07-11 Sep 2026",
-          "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_Sep_2026",
-          "publishedAt": "2026-09-11T13:00:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-15T03:00:26+00:00",
+      "updatedAt": "2026-09-15T04:00:36+00:00",
       "stories": [
         {
           "title": "Wyvern’s $230-million summit pitch is a full-program estimate",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-15T03:00:26+00:00",
+      "updatedAt": "2026-09-15T04:00:36+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-15T03:00:26+00:00",
+      "updatedAt": "2026-09-15T04:00:36+00:00",
       "stories": [
         {
           "title": "Why the US is talking about space weapons now",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-15T03:00:26+00:00",
+      "updatedAt": "2026-09-15T04:00:36+00:00",
       "stories": [
         {
           "title": "Jensen Huang took a call from Trump, and showed off something else, too",
@@ -329,22 +329,40 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "With iOS 27, I’m actually using Siri again",
-          "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again",
-          "publishedAt": "2026-09-14T17:10:30+00:00",
-          "source": "TechCrunch AI"
+          "title": "Introducing Projects (5 minute read)",
+          "url": "https://cursor.com/blog/projects",
+          "publishedAt": "2026-09-14T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-          "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll",
-          "publishedAt": "2026-09-14T17:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "OpenAI Pushes Its IPO Beyond 2026 (2 minute read)",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+          "publishedAt": "2026-09-14T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-          "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans",
-          "publishedAt": "2026-09-14T16:27:53+00:00",
-          "source": "TechCrunch AI"
+          "title": "SoftBank Gets Upsized $11.9 Billion Loan in OpenAI Funding Push (2 minute read)",
+          "url": "https://www.japantimes.co.jp/business/2026/09/14/companies/softbank-loan-openai",
+          "publishedAt": "2026-09-14T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "ARC-AGI-4 (2 minute read)",
+          "url": "https://x.com/arcprize/status/2098849962754978152",
+          "publishedAt": "2026-09-14T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "A cache hit is not proof that you skipped the work (12 minute read)",
+          "url": "https://siddhantkhare.com/writing/kv-cache-truth-auditor",
+          "publishedAt": "2026-09-14T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "AI researchers debate how close we are to recursive self-improvement (98 minute read)",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "publishedAt": "2026-09-14T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Anthropic opens the files on global Claude misuse",
@@ -369,31 +387,13 @@
           "url": "https://openai.com/index/navier-stokes-solution",
           "publishedAt": "2026-09-09T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Meta debuts new personal AI agent",
-          "url": "https://ai.meta.com/muse",
-          "publishedAt": "2026-09-09T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI improves its already top-ranked image model",
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "publishedAt": "2026-09-09T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI opens the books on its AI research intern",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-          "publishedAt": "2026-09-08T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-15T03:00:26+00:00",
+      "updatedAt": "2026-09-15T04:00:36+00:00",
       "stories": [
         {
           "title": "Why RaaS needs more than a subscription model",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-15T03:00:26+00:00",
+    "updatedAt": "2026-09-15T04:00:36+00:00",
     "stories": [
       {
         "title": "Jensen Huang took a call from Trump, and showed off something else, too",
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "FLEX and Sentinel-3C launched",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_launched",
+        "publishedAt": "2026-09-15T03:25:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "MLS and Isar Aerospace finalize statement of work for Spaceport Nova Scotia launch pad",
         "url": "https://spaceq.ca/mls-and-isar-aerospace-finalize-statement-of-work-for-spaceport-nova-scotia-launch-pad",
         "publishedAt": "2026-09-14T16:37:37+00:00",
@@ -570,15 +579,6 @@
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "US Navy, Boeing ink first MQ-25A Stingray production contract",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/15/us-navy-boeing-ink-first-mq-25a-stingray-production-contract",
-        "publishedAt": "2026-09-15T01:13:26+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -694,7 +694,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-27"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
   ]
 }
