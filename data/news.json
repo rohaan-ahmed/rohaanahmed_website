@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-16T22:00:33+00:00",
+  "generatedAt": "2026-09-16T23:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-16T22:00:33+00:00",
+      "updatedAt": "2026-09-16T23:00:30+00:00",
       "stories": [
+        {
+          "title": "Space weather caused a 16-minute train delay in 1848: 'Our research has a hint of a detective story'",
+          "url": "https://www.space.com/astronomy/sun/space-weather-caused-a-16-minute-train-delay-in-1848-our-research-has-a-hint-of-a-detective-story",
+          "publishedAt": "2026-09-16T22:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "The battlefield now extends all the way to the moon, U.S. military's highest-ranking officer says",
           "url": "https://www.space.com/technology/aerospace/the-battlefield-now-extends-all-the-way-to-the-moon-u-s-militarys-highest-ranking-officer-says",
@@ -35,12 +41,6 @@
           "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater",
           "publishedAt": "2026-09-16T18:06:35+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "The universe's most extreme dead stars can form from vampire white dwarfs — and scientists finally know how",
-          "url": "https://www.space.com/astronomy/stars/the-universes-most-extreme-dead-stars-can-form-from-vampire-white-dwarfs-and-scientists-finally-know-how",
-          "publishedAt": "2026-09-16T16:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-16T22:00:33+00:00",
+      "updatedAt": "2026-09-16T23:00:30+00:00",
       "stories": [
         {
           "title": "OECD report outlines growing space economy and strategic risks, including for Canada",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-16T22:00:33+00:00",
+      "updatedAt": "2026-09-16T23:00:30+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-16T22:00:33+00:00",
+      "updatedAt": "2026-09-16T23:00:30+00:00",
       "stories": [
         {
           "title": "Space Force’s GMTI program gets a name, with Northrop as prime: General",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-16T22:00:33+00:00",
+      "updatedAt": "2026-09-16T23:00:30+00:00",
       "stories": [
         {
           "title": "ChatGPT co-creator launches new kind of AI model",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-16T22:00:33+00:00",
+      "updatedAt": "2026-09-16T23:00:30+00:00",
       "stories": [
         {
           "title": "OLogic to share how robots can learn from human demonstrations at RoboBusiness",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-16T22:00:33+00:00",
+    "updatedAt": "2026-09-16T23:00:30+00:00",
     "stories": [
       {
         "title": "ChatGPT co-creator launches new kind of AI model",
@@ -519,9 +519,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The battlefield now extends all the way to the moon, U.S. military's highest-ranking officer says",
-        "url": "https://www.space.com/technology/aerospace/the-battlefield-now-extends-all-the-way-to-the-moon-u-s-militarys-highest-ranking-officer-says",
-        "publishedAt": "2026-09-16T21:00:00+00:00",
+        "title": "Space weather caused a 16-minute train delay in 1848: 'Our research has a hint of a detective story'",
+        "url": "https://www.space.com/astronomy/sun/space-weather-caused-a-16-minute-train-delay-in-1848-our-research-has-a-hint-of-a-detective-story",
+        "publishedAt": "2026-09-16T22:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -573,12 +573,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Chinese researchers detail 'the last AI built by humans'",
-        "url": "https://arxiv.org/pdf/2609.11873",
-        "publishedAt": "2026-09-16T10:00:00+00:00",
-        "source": "The Rundown AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "The battlefield now extends all the way to the moon, U.S. military's highest-ranking officer says",
+        "url": "https://www.space.com/technology/aerospace/the-battlefield-now-extends-all-the-way-to-the-moon-u-s-militarys-highest-ranking-officer-says",
+        "publishedAt": "2026-09-16T21:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
