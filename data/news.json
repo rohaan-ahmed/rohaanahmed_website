@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-09-16T21:00:29+00:00",
+  "generatedAt": "2026-09-16T21:39:52+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-16T21:00:29+00:00",
+      "updatedAt": "2026-09-16T21:39:52+00:00",
       "stories": [
         {
           "title": "The battlefield now extends all the way to the moon, U.S. military's highest-ranking officer says",
           "url": "https://www.space.com/technology/aerospace/the-battlefield-now-extends-all-the-way-to-the-moon-u-s-militarys-highest-ranking-officer-says",
           "publishedAt": "2026-09-16T21:00:00+00:00",
           "source": "Space.com"
+        },
+        {
+          "title": "Passion Meets Precision at NASA’s Flight Research Lab",
+          "url": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab",
+          "publishedAt": "2026-09-16T21:06:08+00:00",
+          "source": "NASA"
         },
         {
           "title": "SpaceX Falcon 9 rocket-landing team gets 1st-ever Neil Armstrong Space Prize",
@@ -40,12 +46,6 @@
           "title": "NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar",
           "url": "https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar",
           "publishedAt": "2026-09-16T16:12:01+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Watches Earth’s Weight, Finds Center of Mass",
-          "url": "https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass",
-          "publishedAt": "2026-09-16T16:08:00+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-16T21:00:29+00:00",
+      "updatedAt": "2026-09-16T21:39:52+00:00",
       "stories": [
         {
           "title": "OECD report outlines growing space economy and strategic risks, including for Canada",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-16T21:00:29+00:00",
+      "updatedAt": "2026-09-16T21:39:52+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-16T21:00:29+00:00",
+      "updatedAt": "2026-09-16T21:39:52+00:00",
       "stories": [
         {
           "title": "Space Force’s GMTI program gets a name, with Northrop as prime: General",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-16T21:00:29+00:00",
+      "updatedAt": "2026-09-16T21:39:52+00:00",
       "stories": [
         {
           "title": "ChatGPT co-creator launches new kind of AI model",
@@ -317,6 +317,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+          "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
+          "publishedAt": "2026-09-16T21:07:24+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
           "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera",
           "publishedAt": "2026-09-16T20:12:00+00:00",
@@ -326,12 +332,6 @@
           "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
           "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first",
           "publishedAt": "2026-09-16T18:25:25+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Your AI agents can now control your Google Home devices",
-          "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
-          "publishedAt": "2026-09-16T17:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-16T21:00:29+00:00",
+      "updatedAt": "2026-09-16T21:39:52+00:00",
       "stories": [
         {
           "title": "OLogic to share how robots can learn from human demonstrations at RoboBusiness",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-16T21:00:29+00:00",
+    "updatedAt": "2026-09-16T21:39:52+00:00",
     "stories": [
       {
         "title": "ChatGPT co-creator launches new kind of AI model",
