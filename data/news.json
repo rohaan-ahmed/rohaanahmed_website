@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-16T11:00:31+00:00",
+  "generatedAt": "2026-09-16T12:01:04+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-16T11:00:31+00:00",
+      "updatedAt": "2026-09-16T12:01:04+00:00",
       "stories": [
+        {
+          "title": "Where will the US Space Academy be based? NASA wants class to start by 2028",
+          "url": "https://www.space.com/space-exploration/where-will-the-us-space-academy-be-based-nasa-wants-class-to-start-by-2028",
+          "publishedAt": "2026-09-16T12:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Purple swirls on the Red Planet",
           "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet",
@@ -17,12 +23,6 @@
           "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-96-cargo-launch-international-space-station",
           "publishedAt": "2026-09-16T10:00:00+00:00",
           "source": "Space.com"
-        },
-        {
-          "title": "More satellites watch the battlefield, putting a premium on making sense of the data",
-          "url": "https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data",
-          "publishedAt": "2026-09-15T15:49:31+00:00",
-          "source": "SpaceNews"
         },
         {
           "title": "APOD: 2026 September 16 – Webb’s View of M64",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-16T11:00:31+00:00",
+      "updatedAt": "2026-09-16T12:01:04+00:00",
       "stories": [
+        {
+          "title": "SatPort signs on to build Telesat Lightspeed ground network",
+          "url": "https://spaceq.ca/satport-signs-on-to-build-telesat-lightspeed-ground-network",
+          "publishedAt": "2026-09-16T11:12:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Canadensys partners with Growcer on dual-use Arctic agriculture project",
           "url": "https://spaceq.ca/canadensys-partners-with-growcer-on-dual-use-arctic-agriculture-project",
@@ -156,19 +162,13 @@
           "url": "https://spaceq.ca/qubic-lands-ca1-5m-federal-contract-to-de-risk-quantum-sensor-supply-chains",
           "publishedAt": "2026-09-11T19:15:51+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "MDA Space expands Aurora product line with new MILSATCOM satellite variant",
-          "url": "https://spaceq.ca/mda-space-expands-aurora-product-line-with-new-milsatcom-satellite-variant",
-          "publishedAt": "2026-09-11T18:41:36+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-16T11:00:31+00:00",
+      "updatedAt": "2026-09-16T12:01:04+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-16T11:00:31+00:00",
+      "updatedAt": "2026-09-16T12:01:04+00:00",
       "stories": [
         {
           "title": "Pentagon taps USNDA to head its ‘Top Drone’ competitions",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-16T11:00:31+00:00",
+      "updatedAt": "2026-09-16T12:01:04+00:00",
       "stories": [
         {
           "title": "ChatGPT co-creator launches new kind of AI model",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-16T11:00:31+00:00",
+      "updatedAt": "2026-09-16T12:01:04+00:00",
       "stories": [
         {
           "title": "InOrbit.AI releases OpenRobOps ISO 21423 reference implementation",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-16T11:00:31+00:00",
+    "updatedAt": "2026-09-16T12:01:04+00:00",
     "stories": [
       {
         "title": "ChatGPT co-creator launches new kind of AI model",
@@ -510,19 +510,19 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Canadensys partners with Growcer on dual-use Arctic agriculture project",
-        "url": "https://spaceq.ca/canadensys-partners-with-growcer-on-dual-use-arctic-agriculture-project",
-        "publishedAt": "2026-09-15T22:26:38+00:00",
+        "title": "SatPort signs on to build Telesat Lightspeed ground network",
+        "url": "https://spaceq.ca/satport-signs-on-to-build-telesat-lightspeed-ground-network",
+        "publishedAt": "2026-09-16T11:12:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "Purple swirls on the Red Planet",
-        "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet",
-        "publishedAt": "2026-09-16T09:00:00+00:00",
-        "source": "European Space Agency",
+        "title": "Where will the US Space Academy be based? NASA wants class to start by 2028",
+        "url": "https://www.space.com/space-exploration/where-will-the-us-space-academy-be-based-nasa-wants-class-to-start-by-2028",
+        "publishedAt": "2026-09-16T12:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -564,21 +564,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Russia launching 3 tons of cargo to the space station today: Watch it live",
-        "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-96-cargo-launch-international-space-station",
-        "publishedAt": "2026-09-16T10:00:00+00:00",
-        "source": "Space.com",
+        "title": "Purple swirls on the Red Planet",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet",
+        "publishedAt": "2026-09-16T09:00:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Amazon launches Alexa+ in India with Hindi support",
-        "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support",
-        "publishedAt": "2026-09-16T10:34:47+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "Canadensys partners with Growcer on dual-use Arctic agriculture project",
+        "url": "https://spaceq.ca/canadensys-partners-with-growcer-on-dual-use-arctic-agriculture-project",
+        "publishedAt": "2026-09-15T22:26:38+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
