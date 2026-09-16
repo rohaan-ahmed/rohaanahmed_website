@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-16T00:00:30+00:00",
+  "generatedAt": "2026-09-16T00:45:01+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-16T00:00:30+00:00",
+      "updatedAt": "2026-09-16T00:45:01+00:00",
       "stories": [
         {
           "title": "More satellites watch the battlefield, putting a premium on making sense of the data",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-16T00:00:30+00:00",
+      "updatedAt": "2026-09-16T00:45:01+00:00",
       "stories": [
         {
           "title": "Canadensys partners with Growcer on dual-use Arctic agriculture project",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-16T00:00:30+00:00",
+      "updatedAt": "2026-09-16T00:45:01+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-16T00:00:30+00:00",
+      "updatedAt": "2026-09-16T00:45:01+00:00",
       "stories": [
         {
           "title": "Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies",
@@ -296,8 +296,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-16T00:00:30+00:00",
+      "updatedAt": "2026-09-16T00:45:01+00:00",
       "stories": [
+        {
+          "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+          "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
+          "publishedAt": "2026-09-16T00:20:39+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "The AI data center boom is colliding with cities scarred by big industry",
           "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry",
@@ -326,12 +332,6 @@
           "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
           "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup",
           "publishedAt": "2026-09-15T20:12:53+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-          "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
-          "publishedAt": "2026-09-15T19:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-16T00:00:30+00:00",
+      "updatedAt": "2026-09-16T00:45:01+00:00",
       "stories": [
         {
           "title": "InOrbit.AI releases OpenRobOps ISO 21423 reference implementation",
@@ -489,22 +489,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-16T00:00:30+00:00",
+    "updatedAt": "2026-09-16T00:45:01+00:00",
     "stories": [
       {
-        "title": "The AI data center boom is colliding with cities scarred by big industry",
-        "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry",
-        "publishedAt": "2026-09-15T21:47:38+00:00",
+        "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+        "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
+        "publishedAt": "2026-09-16T00:20:39+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Trump, Beijing both shoot down the AI slowdown",
-        "url": "https://apnews.com/article/trump-ai-guardrails-data-centers-b85df16775ff7e9611a456b061a0e4b9",
-        "publishedAt": "2026-09-15T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "The AI data center boom is colliding with cities scarred by big industry",
+        "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry",
+        "publishedAt": "2026-09-15T21:47:38+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
