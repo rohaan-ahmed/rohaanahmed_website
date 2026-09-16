@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-16T18:00:29+00:00",
+  "generatedAt": "2026-09-16T18:29:17+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-16T18:00:29+00:00",
+      "updatedAt": "2026-09-16T18:29:17+00:00",
       "stories": [
         {
           "title": "Roman Space Telescope starts waking up as NASA powers on instruments for the 1st time",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-16T18:00:29+00:00",
+      "updatedAt": "2026-09-16T18:29:17+00:00",
       "stories": [
         {
           "title": "OECD report outlines growing space economy and strategic risks, including for Canada",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-16T18:00:29+00:00",
+      "updatedAt": "2026-09-16T18:29:17+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,8 +199,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-16T18:00:29+00:00",
+      "updatedAt": "2026-09-16T18:29:17+00:00",
       "stories": [
+        {
+          "title": "Rocket engines, helmet displays and ground robots: Last looks from AFA Day 3",
+          "url": "https://breakingdefense.com/2026/09/rocket-engines-helmet-displays-and-ground-robots-last-looks-from-afa-day-3",
+          "publishedAt": "2026-09-16T18:00:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "One of the world’s most versatile attack planes is taking on the counter-UAS mission",
           "url": "https://breakingdefense.com/2026/09/one-of-the-worlds-most-versatile-attack-planes-is-taking-on-the-counter-uas-mission",
@@ -256,12 +262,6 @@
           "source": "Defense News"
         },
         {
-          "title": "SDA misses self-imposed deadline on orbital mesh network",
-          "url": "https://breakingdefense.com/2026/09/sda-misses-self-imposed-deadline-on-orbital-mesh-network",
-          "publishedAt": "2026-09-16T13:44:44+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Joint Chiefs chairman says U.S. forces must prepare to be ‘hunted’ by autonomous systems",
           "url": "https://defensescoop.com/2026/09/16/gen-dan-caine-drones-autonomous-systems-ai-enabled-warfare",
           "publishedAt": "2026-09-16T16:14:55+00:00",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-16T18:00:29+00:00",
+      "updatedAt": "2026-09-16T18:29:17+00:00",
       "stories": [
         {
           "title": "ChatGPT co-creator launches new kind of AI model",
@@ -317,6 +317,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+          "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first",
+          "publishedAt": "2026-09-16T18:25:25+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Your AI agents can now control your Google Home devices",
           "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
           "publishedAt": "2026-09-16T17:00:00+00:00",
@@ -326,12 +332,6 @@
           "title": "Anthropic merges Claude chat and Cowork in one interface",
           "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface",
           "publishedAt": "2026-09-16T16:30:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026",
-          "publishedAt": "2026-09-16T15:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -393,8 +393,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-16T18:00:29+00:00",
+      "updatedAt": "2026-09-16T18:29:17+00:00",
       "stories": [
+        {
+          "title": "The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5",
+          "url": "https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5",
+          "publishedAt": "2026-09-16T17:45:50+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Rethinking Robot Safety in the Age of AI",
           "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
@@ -450,12 +456,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Universal Robots launches its seventh generation robot platform at IMTS",
-          "url": "https://www.therobotreport.com/universal-robots-launches-its-seventh-generation-robot-platform-at-imts",
-          "publishedAt": "2026-09-14T13:25:40+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
           "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
           "publishedAt": "2026-09-11T22:58:17+00:00",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-16T18:00:29+00:00",
+    "updatedAt": "2026-09-16T18:29:17+00:00",
     "stories": [
       {
         "title": "ChatGPT co-creator launches new kind of AI model",
@@ -537,19 +537,19 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "One of the world’s most versatile attack planes is taking on the counter-UAS mission",
-        "url": "https://breakingdefense.com/2026/09/one-of-the-worlds-most-versatile-attack-planes-is-taking-on-the-counter-uas-mission",
-        "publishedAt": "2026-09-16T17:52:00+00:00",
+        "title": "Rocket engines, helmet displays and ground robots: Last looks from AFA Day 3",
+        "url": "https://breakingdefense.com/2026/09/rocket-engines-helmet-displays-and-ground-robots-last-looks-from-afa-day-3",
+        "publishedAt": "2026-09-16T18:00:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Rethinking Robot Safety in the Age of AI",
-        "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
-        "publishedAt": "2026-09-16T16:51:02+00:00",
-        "source": "IEEE Spectrum Robotics",
+        "title": "The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5",
+        "url": "https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5",
+        "publishedAt": "2026-09-16T17:45:50+00:00",
+        "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
@@ -573,9 +573,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "German-Israeli company FTS unveils new light combat vehicle for German Special Forces",
-        "url": "https://breakingdefense.com/2026/09/german-israeli-company-fts-unveils-new-light-airborne-combat-vehicle",
-        "publishedAt": "2026-09-16T17:20:28+00:00",
+        "title": "One of the world’s most versatile attack planes is taking on the counter-UAS mission",
+        "url": "https://breakingdefense.com/2026/09/one-of-the-worlds-most-versatile-attack-planes-is-taking-on-the-counter-uas-mission",
+        "publishedAt": "2026-09-16T17:52:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
