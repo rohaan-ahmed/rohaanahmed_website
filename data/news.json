@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-16T09:00:29+00:00",
+  "generatedAt": "2026-09-16T10:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-16T09:00:29+00:00",
+      "updatedAt": "2026-09-16T10:00:31+00:00",
       "stories": [
+        {
+          "title": "Purple swirls on the Red Planet",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet",
+          "publishedAt": "2026-09-16T09:00:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "More satellites watch the battlefield, putting a premium on making sense of the data",
           "url": "https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data",
@@ -85,12 +91,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Questions? Ask our Hera Space Companion!",
-          "url": "https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion",
-          "publishedAt": "2026-09-14T14:00:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
           "url": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership",
           "publishedAt": "2026-09-11T05:32:49+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-16T09:00:29+00:00",
+      "updatedAt": "2026-09-16T10:00:31+00:00",
       "stories": [
         {
           "title": "Canadensys partners with Growcer on dual-use Arctic agriculture project",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-16T09:00:29+00:00",
+      "updatedAt": "2026-09-16T10:00:31+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-16T09:00:29+00:00",
+      "updatedAt": "2026-09-16T10:00:31+00:00",
       "stories": [
         {
           "title": "A surprise engine team up, plus a budget warning from space",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-16T09:00:29+00:00",
+      "updatedAt": "2026-09-16T10:00:31+00:00",
       "stories": [
         {
           "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-16T09:00:29+00:00",
+      "updatedAt": "2026-09-16T10:00:31+00:00",
       "stories": [
         {
           "title": "InOrbit.AI releases OpenRobOps ISO 21423 reference implementation",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-16T09:00:29+00:00",
+    "updatedAt": "2026-09-16T10:00:31+00:00",
     "stories": [
       {
         "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
@@ -519,10 +519,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "More satellites watch the battlefield, putting a premium on making sense of the data",
-        "url": "https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data",
-        "publishedAt": "2026-09-15T15:49:31+00:00",
-        "source": "SpaceNews",
+        "title": "Purple swirls on the Red Planet",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet",
+        "publishedAt": "2026-09-16T09:00:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -564,21 +564,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "More satellites watch the battlefield, putting a premium on making sense of the data",
+        "url": "https://spacenews.com/more-satellites-watch-the-battlefield-putting-a-premium-on-making-sense-of-the-data",
+        "publishedAt": "2026-09-15T15:49:31+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "APOD: 2026 September 16 – Webb’s View of M64",
         "url": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64",
         "publishedAt": "2026-09-16T04:05:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Shifting market sands: LeoLabs moves to sell new mobile space radar directly to allies",
-        "url": "https://breakingdefense.com/2026/09/shifting-market-sands-leolabs-moves-to-sell-new-mobile-space-radar-directly-to-allies",
-        "publishedAt": "2026-09-15T22:01:03+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
