@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T06:46:15+00:00",
+  "generatedAt": "2026-09-17T07:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-17T06:46:15+00:00",
+      "updatedAt": "2026-09-17T07:00:31+00:00",
       "stories": [
         {
           "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-17T06:46:15+00:00",
+      "updatedAt": "2026-09-17T07:00:31+00:00",
       "stories": [
         {
           "title": "OECD report outlines growing space economy and strategic risks, including for Canada",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-17T06:46:15+00:00",
+      "updatedAt": "2026-09-17T07:00:31+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-17T06:46:15+00:00",
+      "updatedAt": "2026-09-17T07:00:31+00:00",
       "stories": [
         {
           "title": "Chairman Caine talks cislunar ops, plus a window into next-gen airlift",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-17T06:46:15+00:00",
+      "updatedAt": "2026-09-17T07:00:31+00:00",
       "stories": [
         {
           "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
@@ -314,12 +314,6 @@
           "title": "Snap tries to make the case again for its $2,200 smart glasses",
           "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses",
           "publishedAt": "2026-09-17T00:58:49+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Al Gore says the real AI risk isn’t data centers",
-          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
-          "publishedAt": "2026-09-16T23:43:09+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -341,16 +335,40 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-          "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
-          "publishedAt": "2026-09-16T21:07:24+00:00",
-          "source": "TechCrunch AI"
+          "title": "Nature Is Our Learning Environment (17 minute read)",
+          "url": "https://periodic.com/news/nature-is-our-learning-environment",
+          "publishedAt": "2026-09-16T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-          "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera",
-          "publishedAt": "2026-09-16T20:12:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Gemini 3.8 Live and 3.5 Transcribe (1 minute read)",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio",
+          "publishedAt": "2026-09-16T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Learning to Solve Hard Problems in RL for LLMs by Never Giving Up (16 minute read)",
+          "url": "https://mnoukhov.github.io/posts/ngu",
+          "publishedAt": "2026-09-16T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "I made my website charge AI agents a penny per page. Then I watched Claude pay it (13 minute read)",
+          "url": "https://suganthan.com/blog/x402-pay-per-crawl",
+          "publishedAt": "2026-09-16T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "OpenArm (GitHub Repo)",
+          "url": "https://github.com/enactic/OpenArm",
+          "publishedAt": "2026-09-16T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds (1 minute read)",
+          "url": "https://paperswithcode.co/paper/2609.14858",
+          "publishedAt": "2026-09-16T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Trump, Beijing both shoot down the AI slowdown",
@@ -369,31 +387,13 @@
           "url": "https://microsoft.ai/code-of-conduct",
           "publishedAt": "2026-09-15T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Dario Amodei makes the case for AI slowdown",
-          "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-          "publishedAt": "2026-09-14T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI helps catch more fetal brain defects in hospitals",
-          "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00063-4/fulltext",
-          "publishedAt": "2026-09-14T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic opens the files on global Claude misuse",
-          "url": "http://anthropic.com/threat-intelligence-report-september-2026",
-          "publishedAt": "2026-09-11T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-17T06:46:15+00:00",
+      "updatedAt": "2026-09-17T07:00:31+00:00",
       "stories": [
         {
           "title": "OLogic to share how robots can learn from human demonstrations at RoboBusiness",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-17T06:46:15+00:00",
+    "updatedAt": "2026-09-17T07:00:31+00:00",
     "stories": [
       {
         "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
@@ -694,7 +694,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-26"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
   ]
 }
