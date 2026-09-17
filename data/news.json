@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T09:00:31+00:00",
+  "generatedAt": "2026-09-17T10:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-17T09:00:31+00:00",
+      "updatedAt": "2026-09-17T10:00:31+00:00",
       "stories": [
         {
           "title": "Three space companies win ESA awards for excellence and innovation",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-17T09:00:31+00:00",
+      "updatedAt": "2026-09-17T10:00:31+00:00",
       "stories": [
         {
           "title": "OECD report outlines growing space economy and strategic risks, including for Canada",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-17T09:00:31+00:00",
+      "updatedAt": "2026-09-17T10:00:31+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,8 +199,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-17T09:00:31+00:00",
+      "updatedAt": "2026-09-17T10:00:31+00:00",
       "stories": [
+        {
+          "title": "Japanese Global Hawk drone splashes down in crash",
+          "url": "https://www.defensenews.com/global/asia-pacific/2026/09/17/japanese-global-hawk-drone-splashes-down-in-crash",
+          "publishedAt": "2026-09-17T09:40:45+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Chairman Caine talks cislunar ops, plus a window into next-gen airlift",
           "url": "https://breakingdefense.com/2026/09/chairman-caine-talks-cislunar-ops-plus-a-window-into-next-gen-airlift",
@@ -268,12 +274,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "Germany, US to expand shared production of Patriot interceptors, strike missiles",
-          "url": "https://www.defensenews.com/global/europe/2026/09/16/germany-us-to-expand-shared-production-of-patriot-interceptors-strike-missiles",
-          "publishedAt": "2026-09-16T14:47:45+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Joint Chiefs chairman says U.S. forces must prepare to be ‘hunted’ by autonomous systems",
           "url": "https://defensescoop.com/2026/09/16/gen-dan-caine-drones-autonomous-systems-ai-enabled-warfare",
           "publishedAt": "2026-09-16T16:14:55+00:00",
@@ -296,8 +296,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-17T09:00:31+00:00",
+      "updatedAt": "2026-09-17T10:00:31+00:00",
       "stories": [
+        {
+          "title": "Google DeepMind starts an AGI think tank",
+          "url": "https://institute.deepmind.com/essays/introducing-the-deepmind-institute",
+          "publishedAt": "2026-09-17T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
           "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform",
@@ -381,19 +387,13 @@
           "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
           "publishedAt": "2026-09-15T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Microsoft AI drafts the rulebook for ‘Humanist AI’",
-          "url": "https://microsoft.ai/code-of-conduct",
-          "publishedAt": "2026-09-15T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-17T09:00:31+00:00",
+      "updatedAt": "2026-09-17T10:00:31+00:00",
       "stories": [
         {
           "title": "OLogic to share how robots can learn from human demonstrations at RoboBusiness",
@@ -489,21 +489,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-17T09:00:31+00:00",
+    "updatedAt": "2026-09-17T10:00:31+00:00",
     "stories": [
       {
-        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-        "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform",
-        "publishedAt": "2026-09-17T05:00:00+00:00",
-        "source": "TechCrunch AI",
+        "title": "Google DeepMind starts an AGI think tank",
+        "url": "https://institute.deepmind.com/essays/introducing-the-deepmind-institute",
+        "publishedAt": "2026-09-17T09:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026",
-        "publishedAt": "2026-09-17T03:30:00+00:00",
+        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+        "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform",
+        "publishedAt": "2026-09-17T05:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -537,10 +537,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Chairman Caine talks cislunar ops, plus a window into next-gen airlift",
-        "url": "https://breakingdefense.com/2026/09/chairman-caine-talks-cislunar-ops-plus-a-window-into-next-gen-airlift",
-        "publishedAt": "2026-09-17T00:15:38+00:00",
-        "source": "Breaking Defense",
+        "title": "Japanese Global Hawk drone splashes down in crash",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/17/japanese-global-hawk-drone-splashes-down-in-crash",
+        "publishedAt": "2026-09-17T09:40:45+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -573,10 +573,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "AI military targeting may move faster than humans can authenticate, critics warn",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/16/ai-military-targeting-may-move-faster-than-humans-can-authenticate-critics-warn",
-        "publishedAt": "2026-09-16T23:49:38+00:00",
-        "source": "Defense News",
+        "title": "Chairman Caine talks cislunar ops, plus a window into next-gen airlift",
+        "url": "https://breakingdefense.com/2026/09/chairman-caine-talks-cislunar-ops-plus-a-window-into-next-gen-airlift",
+        "publishedAt": "2026-09-17T00:15:38+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
