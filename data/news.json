@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T19:00:29+00:00",
+  "generatedAt": "2026-09-17T20:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-17T19:00:29+00:00",
+      "updatedAt": "2026-09-17T20:00:29+00:00",
       "stories": [
         {
           "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-17T19:00:29+00:00",
+      "updatedAt": "2026-09-17T20:00:29+00:00",
       "stories": [
         {
           "title": "BDC Defence Platform names space for the first time",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-17T19:00:29+00:00",
+      "updatedAt": "2026-09-17T20:00:29+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,8 +199,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-17T19:00:29+00:00",
+      "updatedAt": "2026-09-17T20:00:29+00:00",
       "stories": [
+        {
+          "title": "US clears $24B F-35 sale for Saudi Arabia",
+          "url": "https://breakingdefense.com/2026/09/us-clears-24b-f-35-sale-for-saudi-arabia",
+          "publishedAt": "2026-09-17T19:39:26+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "‘They overreached’: Amid industry worry, new Feinberg memo tweaks accounting regime",
           "url": "https://breakingdefense.com/2026/09/they-overreached-amid-industry-worry-new-feinberg-memo-tweaks-accounting-regime",
@@ -262,12 +268,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "Nammo CEO warns European rupture with US risks 10-year capability gap",
-          "url": "https://breakingdefense.com/2026/09/nammo-ceo-warns-european-rupture-with-us-risks-10-year-capability-gap",
-          "publishedAt": "2026-09-17T12:34:16+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "LaNeve tells soldiers that decision to revert experimental drone unit back to infantry roots predated his tenure as acting Army chief",
           "url": "https://defensescoop.com/2026/09/16/gen-laneve-army-experimental-drone-unit",
           "publishedAt": "2026-09-16T19:31:27+00:00",
@@ -296,13 +296,19 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-17T19:00:29+00:00",
+      "updatedAt": "2026-09-17T20:00:29+00:00",
       "stories": [
         {
           "title": "Google DeepMind starts an AGI think tank",
           "url": "https://institute.deepmind.com/essays/introducing-the-deepmind-institute",
           "publishedAt": "2026-09-17T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "publishedAt": "2026-09-17T19:46:08+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Even the king of England has his hesitations about AI",
@@ -314,12 +320,6 @@
           "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
           "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire",
           "publishedAt": "2026-09-17T17:15:59+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-          "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai",
-          "publishedAt": "2026-09-17T17:15:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-17T19:00:29+00:00",
+      "updatedAt": "2026-09-17T20:00:29+00:00",
       "stories": [
         {
           "title": "Designing long-travel axes: When rack and pinion outperforms ball screws and linear motors",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-17T19:00:29+00:00",
+    "updatedAt": "2026-09-17T20:00:29+00:00",
     "stories": [
       {
         "title": "Google DeepMind starts an AGI think tank",
@@ -501,9 +501,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Even the king of England has his hesitations about AI",
-        "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai",
-        "publishedAt": "2026-09-17T17:26:25+00:00",
+        "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+        "publishedAt": "2026-09-17T19:46:08+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "‘They overreached’: Amid industry worry, new Feinberg memo tweaks accounting regime",
-        "url": "https://breakingdefense.com/2026/09/they-overreached-amid-industry-worry-new-feinberg-memo-tweaks-accounting-regime",
-        "publishedAt": "2026-09-17T18:08:51+00:00",
+        "title": "US clears $24B F-35 sale for Saudi Arabia",
+        "url": "https://breakingdefense.com/2026/09/us-clears-24b-f-35-sale-for-saudi-arabia",
+        "publishedAt": "2026-09-17T19:39:26+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
