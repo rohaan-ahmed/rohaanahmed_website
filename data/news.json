@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-17T04:00:30+00:00",
+  "generatedAt": "2026-09-17T05:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-17T04:00:30+00:00",
+      "updatedAt": "2026-09-17T05:00:32+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula",
+          "publishedAt": "2026-09-17T04:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Summer Goes Out With a Heat Dome",
+          "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome",
+          "publishedAt": "2026-09-17T04:01:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "Space weather caused a 16-minute train delay in 1848: 'Our research has a hint of a detective story'",
           "url": "https://www.space.com/astronomy/sun/space-weather-caused-a-16-minute-train-delay-in-1848-our-research-has-a-hint-of-a-detective-story",
@@ -35,18 +47,6 @@
           "url": "https://www.space.com/space-exploration/missions/roman-space-telescope-starts-waking-up-as-nasa-powers-on-instruments-for-the-1st-time",
           "publishedAt": "2026-09-16T18:00:00+00:00",
           "source": "Space.com"
-        },
-        {
-          "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
-          "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater",
-          "publishedAt": "2026-09-16T18:06:35+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar",
-          "url": "https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar",
-          "publishedAt": "2026-09-16T16:12:01+00:00",
-          "source": "NASA"
         },
         {
           "title": "Faster-flowing glaciers fuel decades of polar ice loss",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-17T04:00:30+00:00",
+      "updatedAt": "2026-09-17T05:00:32+00:00",
       "stories": [
         {
           "title": "OECD report outlines growing space economy and strategic risks, including for Canada",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-17T04:00:30+00:00",
+      "updatedAt": "2026-09-17T05:00:32+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-17T04:00:30+00:00",
+      "updatedAt": "2026-09-17T05:00:32+00:00",
       "stories": [
         {
           "title": "Chairman Caine talks cislunar ops, plus a window into next-gen airlift",
@@ -296,8 +296,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-17T04:00:30+00:00",
+      "updatedAt": "2026-09-17T05:00:32+00:00",
       "stories": [
+        {
+          "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+          "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform",
+          "publishedAt": "2026-09-17T05:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
           "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026",
@@ -308,12 +314,6 @@
           "title": "Snap tries to make the case again for its $2,200 smart glasses",
           "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses",
           "publishedAt": "2026-09-17T00:58:49+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
-          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
-          "publishedAt": "2026-09-16T23:43:09+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-17T04:00:30+00:00",
+      "updatedAt": "2026-09-17T05:00:32+00:00",
       "stories": [
         {
           "title": "OLogic to share how robots can learn from human demonstrations at RoboBusiness",
@@ -489,21 +489,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-17T04:00:30+00:00",
+    "updatedAt": "2026-09-17T05:00:32+00:00",
     "stories": [
       {
-        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026",
-        "publishedAt": "2026-09-17T03:30:00+00:00",
+        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+        "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform",
+        "publishedAt": "2026-09-17T05:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Snap tries to make the case again for its $2,200 smart glasses",
-        "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses",
-        "publishedAt": "2026-09-17T00:58:49+00:00",
+        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026",
+        "publishedAt": "2026-09-17T03:30:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -519,10 +519,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Space weather caused a 16-minute train delay in 1848: 'Our research has a hint of a detective story'",
-        "url": "https://www.space.com/astronomy/sun/space-weather-caused-a-16-minute-train-delay-in-1848-our-research-has-a-hint-of-a-detective-story",
-        "publishedAt": "2026-09-16T22:00:00+00:00",
-        "source": "Space.com",
+        "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula",
+        "publishedAt": "2026-09-17T04:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Summer Goes Out With a Heat Dome",
+        "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome",
+        "publishedAt": "2026-09-17T04:01:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "AI military targeting may move faster than humans can authenticate, critics warn",
         "url": "https://www.defensenews.com/news/your-military/2026/09/16/ai-military-targeting-may-move-faster-than-humans-can-authenticate-critics-warn",
         "publishedAt": "2026-09-16T23:49:38+00:00",
@@ -564,21 +573,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "SatPort signs on to build Telesat Lightspeed ground network",
-        "url": "https://spaceq.ca/satport-signs-on-to-build-telesat-lightspeed-ground-network",
-        "publishedAt": "2026-09-16T11:12:00+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Space Force’s GMTI program gets a name, with Northrop as prime: General",
-        "url": "https://breakingdefense.com/2026/09/space-forces-gmti-program-gets-a-name-with-northrop-as-prime-general",
-        "publishedAt": "2026-09-16T20:28:18+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Snap tries to make the case again for its $2,200 smart glasses",
+        "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses",
+        "publishedAt": "2026-09-17T00:58:49+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
