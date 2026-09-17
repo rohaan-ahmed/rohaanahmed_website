@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T00:00:30+00:00",
+  "generatedAt": "2026-09-17T01:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-17T00:00:30+00:00",
+      "updatedAt": "2026-09-17T01:00:28+00:00",
       "stories": [
         {
           "title": "Space weather caused a 16-minute train delay in 1848: 'Our research has a hint of a detective story'",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-17T00:00:30+00:00",
+      "updatedAt": "2026-09-17T01:00:28+00:00",
       "stories": [
         {
           "title": "OECD report outlines growing space economy and strategic risks, including for Canada",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-17T00:00:30+00:00",
+      "updatedAt": "2026-09-17T01:00:28+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,8 +199,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-17T00:00:30+00:00",
+      "updatedAt": "2026-09-17T01:00:28+00:00",
       "stories": [
+        {
+          "title": "Chairman Caine talks cislunar ops, plus a window into next-gen airlift",
+          "url": "https://breakingdefense.com/2026/09/chairman-caine-talks-cislunar-ops-plus-a-window-into-next-gen-airlift",
+          "publishedAt": "2026-09-17T00:15:38+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "AI military targeting may move faster than humans can authenticate, critics warn",
           "url": "https://www.defensenews.com/news/your-military/2026/09/16/ai-military-targeting-may-move-faster-than-humans-can-authenticate-critics-warn",
@@ -229,12 +235,6 @@
           "title": "One of the world’s most versatile attack planes is taking on the counter-UAS mission",
           "url": "https://breakingdefense.com/2026/09/one-of-the-worlds-most-versatile-attack-planes-is-taking-on-the-counter-uas-mission",
           "publishedAt": "2026-09-16T17:52:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "German-Israeli company FTS unveils new light combat vehicle for German Special Forces",
-          "url": "https://breakingdefense.com/2026/09/german-israeli-company-fts-unveils-new-light-airborne-combat-vehicle",
-          "publishedAt": "2026-09-16T17:20:28+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-17T00:00:30+00:00",
+      "updatedAt": "2026-09-17T01:00:28+00:00",
       "stories": [
         {
           "title": "ChatGPT co-creator launches new kind of AI model",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-17T00:00:30+00:00",
+      "updatedAt": "2026-09-17T01:00:28+00:00",
       "stories": [
         {
           "title": "OLogic to share how robots can learn from human demonstrations at RoboBusiness",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-17T00:00:30+00:00",
+    "updatedAt": "2026-09-17T01:00:28+00:00",
     "stories": [
       {
         "title": "ChatGPT co-creator launches new kind of AI model",
@@ -537,10 +537,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "AI military targeting may move faster than humans can authenticate, critics warn",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/16/ai-military-targeting-may-move-faster-than-humans-can-authenticate-critics-warn",
-        "publishedAt": "2026-09-16T23:49:38+00:00",
-        "source": "Defense News",
+        "title": "Chairman Caine talks cislunar ops, plus a window into next-gen airlift",
+        "url": "https://breakingdefense.com/2026/09/chairman-caine-talks-cislunar-ops-plus-a-window-into-next-gen-airlift",
+        "publishedAt": "2026-09-17T00:15:38+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "AI military targeting may move faster than humans can authenticate, critics warn",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/16/ai-military-targeting-may-move-faster-than-humans-can-authenticate-critics-warn",
+        "publishedAt": "2026-09-16T23:49:38+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "SatPort signs on to build Telesat Lightspeed ground network",
         "url": "https://spaceq.ca/satport-signs-on-to-build-telesat-lightspeed-ground-network",
         "publishedAt": "2026-09-16T11:12:00+00:00",
@@ -567,15 +576,6 @@
         "title": "Space Force’s GMTI program gets a name, with Northrop as prime: General",
         "url": "https://breakingdefense.com/2026/09/space-forces-gmti-program-gets-a-name-with-northrop-as-prime-general",
         "publishedAt": "2026-09-16T20:28:18+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "SPACECOM needs more capabilities to target space adversaries: Whiting",
-        "url": "https://breakingdefense.com/2026/09/spacecom-needs-more-capabilities-to-target-space-adversaries-whiting",
-        "publishedAt": "2026-09-16T19:08:28+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
