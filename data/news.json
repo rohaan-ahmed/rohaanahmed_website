@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-17T07:00:31+00:00",
+  "generatedAt": "2026-09-17T08:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-17T07:00:31+00:00",
+      "updatedAt": "2026-09-17T08:00:28+00:00",
       "stories": [
+        {
+          "title": "Three space companies win ESA awards for excellence and innovation",
+          "url": "https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation",
+          "publishedAt": "2026-09-17T07:10:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
           "url": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula",
@@ -49,14 +55,14 @@
           "source": "Space.com"
         },
         {
-          "title": "Faster-flowing glaciers fuel decades of polar ice loss",
-          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Faster-flowing_glaciers_fuel_decades_of_polar_ice_loss",
+          "title": "Purple swirls on the Red Planet",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet",
           "publishedAt": "2026-09-16T09:00:00+00:00",
           "source": "European Space Agency"
         },
         {
-          "title": "Purple swirls on the Red Planet",
-          "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet",
+          "title": "Faster-flowing glaciers fuel decades of polar ice loss",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Faster-flowing_glaciers_fuel_decades_of_polar_ice_loss",
           "publishedAt": "2026-09-16T09:00:00+00:00",
           "source": "European Space Agency"
         },
@@ -70,12 +76,6 @@
           "title": "Webb reveals stunning panorama of star formation",
           "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation",
           "publishedAt": "2026-09-15T14:00:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
-          "title": "FLEX and Sentinel-3C launch highlights",
-          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/FLEX_and_Sentinel-3C_launch_highlights",
-          "publishedAt": "2026-09-15T07:00:00+00:00",
           "source": "European Space Agency"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-17T07:00:31+00:00",
+      "updatedAt": "2026-09-17T08:00:28+00:00",
       "stories": [
         {
           "title": "OECD report outlines growing space economy and strategic risks, including for Canada",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-17T07:00:31+00:00",
+      "updatedAt": "2026-09-17T08:00:28+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-17T07:00:31+00:00",
+      "updatedAt": "2026-09-17T08:00:28+00:00",
       "stories": [
         {
           "title": "Chairman Caine talks cislunar ops, plus a window into next-gen airlift",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-17T07:00:31+00:00",
+      "updatedAt": "2026-09-17T08:00:28+00:00",
       "stories": [
         {
           "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-17T07:00:31+00:00",
+      "updatedAt": "2026-09-17T08:00:28+00:00",
       "stories": [
         {
           "title": "OLogic to share how robots can learn from human demonstrations at RoboBusiness",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-17T07:00:31+00:00",
+    "updatedAt": "2026-09-17T08:00:28+00:00",
     "stories": [
       {
         "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
@@ -519,10 +519,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula",
-        "publishedAt": "2026-09-17T04:05:00+00:00",
-        "source": "NASA",
+        "title": "Three space companies win ESA awards for excellence and innovation",
+        "url": "https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation",
+        "publishedAt": "2026-09-17T07:10:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula",
+        "publishedAt": "2026-09-17T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Summer Goes Out With a Heat Dome",
         "url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome",
         "publishedAt": "2026-09-17T04:01:00+00:00",
@@ -570,15 +579,6 @@
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Snap tries to make the case again for its $2,200 smart glasses",
-        "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses",
-        "publishedAt": "2026-09-17T00:58:49+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
