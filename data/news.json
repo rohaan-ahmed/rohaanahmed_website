@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T22:00:26+00:00",
+  "generatedAt": "2026-09-17T22:53:53+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-17T22:00:26+00:00",
+      "updatedAt": "2026-09-17T22:53:53+00:00",
       "stories": [
         {
           "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-17T22:00:26+00:00",
+      "updatedAt": "2026-09-17T22:53:53+00:00",
       "stories": [
         {
           "title": "BDC Defence Platform names space for the first time",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-17T22:00:26+00:00",
+      "updatedAt": "2026-09-17T22:53:53+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,8 +199,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-17T22:00:26+00:00",
+      "updatedAt": "2026-09-17T22:53:53+00:00",
       "stories": [
+        {
+          "title": "Army adds $234M in undefinitized contract funding for Black Hawk deal",
+          "url": "https://breakingdefense.com/2026/09/army-adds-234m-in-undefinitized-contract-funding-for-black-hawk-deal",
+          "publishedAt": "2026-09-17T22:20:54+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Northrop eyes munitions supply work, Lockheed eyes funding: CEOs",
           "url": "https://breakingdefense.com/2026/09/northrop-eyes-munitions-supply-work-lockheed-eyes-funding-ceos",
@@ -224,6 +230,12 @@
           "url": "https://www.defensenews.com/news/your-military/2026/09/17/us-air-force-to-extend-service-of-b-1-b-2-bombers-official-says",
           "publishedAt": "2026-09-17T20:28:00+00:00",
           "source": "Defense News"
+        },
+        {
+          "title": "Africom’s new Defense Economics Office set up to drive outsized security returns",
+          "url": "https://defensescoop.com/2026/09/17/africom-defense-economics-office",
+          "publishedAt": "2026-09-17T22:03:33+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "‘They overreached’: Amid industry worry, new Feinberg memo tweaks accounting regime",
@@ -256,12 +268,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Lockheed reaches deal to boost production of secretive JATM missile",
-          "url": "https://breakingdefense.com/2026/09/lockheed-reaches-deal-to-boost-production-of-secretive-jatm-missile",
-          "publishedAt": "2026-09-17T15:57:09+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Space Force advancing on-orbit tracking for airborne and ground-based targets",
           "url": "https://defensescoop.com/2026/09/17/space-force-advancing-on-orbit-tracking-for-airborne-and-ground-based-targets",
           "publishedAt": "2026-09-17T18:22:42+00:00",
@@ -284,20 +290,26 @@
           "url": "https://defensescoop.com/2026/09/16/gen-dan-caine-drones-autonomous-systems-ai-enabled-warfare",
           "publishedAt": "2026-09-16T16:14:55+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Pentagon taps USNDA to head its ‘Top Drone’ competitions",
-          "url": "https://defensescoop.com/2026/09/16/pentagon-taps-usnda-to-head-its-top-drone-competitions",
-          "publishedAt": "2026-09-16T10:00:00+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-17T22:00:26+00:00",
+      "updatedAt": "2026-09-17T22:53:53+00:00",
       "stories": [
+        {
+          "title": "PrismML hopes its tiny LLM will change how we all use AI",
+          "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai",
+          "publishedAt": "2026-09-17T22:34:09+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
+          "publishedAt": "2026-09-17T22:14:59+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Google DeepMind starts an AGI think tank",
           "url": "https://institute.deepmind.com/essays/introducing-the-deepmind-institute",
@@ -308,18 +320,6 @@
           "title": "The fix for rogue AI agents could be more AI",
           "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai",
           "publishedAt": "2026-09-17T20:34:47+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-          "publishedAt": "2026-09-17T20:34:24+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Is the AI safety debate about safety or control?",
-          "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control",
-          "publishedAt": "2026-09-17T20:19:37+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-17T22:00:26+00:00",
+      "updatedAt": "2026-09-17T22:53:53+00:00",
       "stories": [
         {
           "title": "Designing long-travel axes: When rack and pinion outperforms ball screws and linear motors",
@@ -489,21 +489,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-17T22:00:26+00:00",
+    "updatedAt": "2026-09-17T22:53:53+00:00",
     "stories": [
       {
-        "title": "Google DeepMind starts an AGI think tank",
-        "url": "https://institute.deepmind.com/essays/introducing-the-deepmind-institute",
-        "publishedAt": "2026-09-17T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "PrismML hopes its tiny LLM will change how we all use AI",
+        "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai",
+        "publishedAt": "2026-09-17T22:34:09+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "The fix for rogue AI agents could be more AI",
-        "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai",
-        "publishedAt": "2026-09-17T20:34:47+00:00",
+        "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+        "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
+        "publishedAt": "2026-09-17T22:14:59+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Northrop eyes munitions supply work, Lockheed eyes funding: CEOs",
-        "url": "https://breakingdefense.com/2026/09/northrop-eyes-munitions-supply-work-lockheed-eyes-funding-ceos",
-        "publishedAt": "2026-09-17T20:25:57+00:00",
+        "title": "Army adds $234M in undefinitized contract funding for Black Hawk deal",
+        "url": "https://breakingdefense.com/2026/09/army-adds-234m-in-undefinitized-contract-funding-for-black-hawk-deal",
+        "publishedAt": "2026-09-17T22:20:54+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
