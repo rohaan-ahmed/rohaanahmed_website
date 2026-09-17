@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T20:00:29+00:00",
+  "generatedAt": "2026-09-17T20:15:55+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-17T20:00:29+00:00",
+      "updatedAt": "2026-09-17T20:15:55+00:00",
       "stories": [
         {
           "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-17T20:00:29+00:00",
+      "updatedAt": "2026-09-17T20:15:55+00:00",
       "stories": [
         {
           "title": "BDC Defence Platform names space for the first time",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-17T20:00:29+00:00",
+      "updatedAt": "2026-09-17T20:15:55+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-17T20:00:29+00:00",
+      "updatedAt": "2026-09-17T20:15:55+00:00",
       "stories": [
         {
           "title": "US clears $24B F-35 sale for Saudi Arabia",
@@ -296,13 +296,19 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-17T20:00:29+00:00",
+      "updatedAt": "2026-09-17T20:15:55+00:00",
       "stories": [
         {
           "title": "Google DeepMind starts an AGI think tank",
           "url": "https://institute.deepmind.com/essays/introducing-the-deepmind-institute",
           "publishedAt": "2026-09-17T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "UN turns to Google to make its global data ready for AI agents",
+          "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents",
+          "publishedAt": "2026-09-17T20:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
@@ -314,12 +320,6 @@
           "title": "Even the king of England has his hesitations about AI",
           "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai",
           "publishedAt": "2026-09-17T17:26:25+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-          "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire",
-          "publishedAt": "2026-09-17T17:15:59+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-17T20:00:29+00:00",
+      "updatedAt": "2026-09-17T20:15:55+00:00",
       "stories": [
         {
           "title": "Designing long-travel axes: When rack and pinion outperforms ball screws and linear motors",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-17T20:00:29+00:00",
+    "updatedAt": "2026-09-17T20:15:55+00:00",
     "stories": [
       {
         "title": "Google DeepMind starts an AGI think tank",
@@ -501,9 +501,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-        "publishedAt": "2026-09-17T19:46:08+00:00",
+        "title": "UN turns to Google to make its global data ready for AI agents",
+        "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents",
+        "publishedAt": "2026-09-17T20:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
