@@ -5,16 +5,16 @@
     <link>https://rohaanahmed.com/news.html</link>
     <description>An automatically curated news feed built around my areas of interest</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 19:00:34 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <guid isPermaLink="false">bf9820cf1d0d5537984a37430b43aa4542886c79d6116dcc54b07144f3cc8db1</guid>
+      <guid isPermaLink="false">fa0cf3e89c84daf773b64f3ebb522e0deb7e35f7df3f8a914fb113527d130706</guid>
       <title>International Space (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-space</link>
-      <pubDate>Fri, 18 Sep 2026 18:00:28 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 19:00:34 +0000</pubDate>
       <category>International Space</category>
       <description>Topic: International Space
-Updated: 2026-09-18T18:00:28+00:00
+Updated: 2026-09-18T19:00:34+00:00
 Stories: 15</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
@@ -43,6 +43,25 @@ Headline: Terran Orbital Promotes Margherita Cardi to Vice President of European
       <ra:kind>story</ra:kind>
     </item>
     <item>
+      <title>NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’</title>
+      <link>https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind</link>
+      <guid isPermaLink="false">953231a94128c873ce8567e6872d8c46abd51407a61740c552bb9c3398609b2b</guid>
+      <pubDate>Fri, 18 Sep 2026 18:02:53 +0000</pubDate>
+      <category>International Space</category>
+      <source url="https://www.nasa.gov/">NASA</source>
+      <description>Topic: International Space
+Source: NASA
+Published: 2026-09-18T18:02:53+00:00
+Headline: NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:publishedAt>2026-09-18T18:02:53+00:00</ra:publishedAt>
+      <ra:sourceName>NASA</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
       <title>Week in images: 14-18 Sep 2026</title>
       <link>https://www.esa.int/About_Us/Week_in_images/Week_in_images_14-18_Sep_2026</link>
       <guid isPermaLink="false">817ecd09c92f20d638e3941053c8abe3fa5752b1db9b185c1964cd777a7627ad</guid>
@@ -56,7 +75,7 @@ Headline: Week in images: 14-18 Sep 2026</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
+      <ra:storyPosition>3</ra:storyPosition>
       <ra:publishedAt>2026-09-18T13:05:00+00:00</ra:publishedAt>
       <ra:sourceName>European Space Agency</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -75,7 +94,7 @@ Headline: NASA Awards SpaceX Three Crew Flights to Space Station</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-09-18T16:02:31+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -94,27 +113,8 @@ Headline: COSI Telescope Comes Together</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
-      <ra:publishedAt>2026-09-18T15:45:03+00:00</ra:publishedAt>
-      <ra:sourceName>NASA</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>NASA’s Hubble Spots an Out-of-Sync Galaxy</title>
-      <link>https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy</link>
-      <guid isPermaLink="false">1162a4f16787100bae27424b26c02f91e88962bff074c1539e76236c84b17b82</guid>
-      <pubDate>Fri, 18 Sep 2026 13:38:12 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.nasa.gov/">NASA</source>
-      <description>Topic: International Space
-Source: NASA
-Published: 2026-09-18T13:38:12+00:00
-Headline: NASA’s Hubble Spots an Out-of-Sync Galaxy</description>
-      <ra:topicId>international-space</ra:topicId>
-      <ra:topicName>International Space</ra:topicName>
-      <ra:topicPosition>1</ra:topicPosition>
       <ra:storyPosition>5</ra:storyPosition>
-      <ra:publishedAt>2026-09-18T13:38:12+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-09-18T15:45:03+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -309,13 +309,13 @@ Headline: Iceye’s global presence expands to address sovereign demand</descrip
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">1d6951504b6f804253a29426734bff7c9a474f8d492c05515faa42dd291d91a8</guid>
+      <guid isPermaLink="false">5872923a7197a73d714abcf4603549275f77ec7cd765e184dfd7e967c9f88eda</guid>
       <title>Canadian Space (10 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
-      <pubDate>Fri, 18 Sep 2026 18:00:28 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 19:00:34 +0000</pubDate>
       <category>Canadian Space</category>
       <description>Topic: Canadian Space
-Updated: 2026-09-18T18:00:28+00:00
+Updated: 2026-09-18T19:00:34+00:00
 Stories: 10</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
@@ -517,14 +517,14 @@ Headline: Wyvern’s $230-million summit pitch is a full-program estimate</descr
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">ecb1f7629fba89f36df20fd3aabe8841e68a41a8583afc4e809d4204a53499f3</guid>
-      <title>Canadian Defence (6 stories)</title>
+      <guid isPermaLink="false">be31ea61b6ee509a1a2e52d67ded9e1f5fdc10e6245b70086280aa0ab5170885</guid>
+      <title>Canadian Defence (5 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
-      <pubDate>Fri, 18 Sep 2026 18:00:28 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 19:00:34 +0000</pubDate>
       <category>Canadian Defence</category>
       <description>Topic: Canadian Defence
-Updated: 2026-09-18T18:00:28+00:00
-Stories: 6</description>
+Updated: 2026-09-18T19:00:34+00:00
+Stories: 5</description>
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
       <ra:topicPosition>3</ra:topicPosition>
@@ -628,37 +628,39 @@ Headline: Statement by the Minister of National Defence on Official Languages Da
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Minister McGuinty concludes visit to Poland, advancing Canada–Poland defence and industrial cooperation</title>
-      <link>https://www.canada.ca/en/department-national-defence/news/2026/09/minister-mcguinty-concludes-visit-to-poland-advancing-canadapoland-defence-and-industrial-cooperation.html</link>
-      <guid isPermaLink="false">830f7374b58f1ac7e2a92ad41078562b573ee1516c24704cf0f0dc17b46b5267</guid>
-      <pubDate>Tue, 08 Sep 2026 18:40:31 +0000</pubDate>
-      <category>Canadian Defence</category>
-      <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
-      <description>Topic: Canadian Defence
-Source: National Defence
-Published: 2026-09-08T18:40:31+00:00
-Headline: Minister McGuinty concludes visit to Poland, advancing Canada–Poland defence and industrial cooperation</description>
-      <ra:topicId>canadian-defence</ra:topicId>
-      <ra:topicName>Canadian Defence</ra:topicName>
-      <ra:topicPosition>3</ra:topicPosition>
-      <ra:storyPosition>6</ra:storyPosition>
-      <ra:publishedAt>2026-09-08T18:40:31+00:00</ra:publishedAt>
-      <ra:sourceName>National Defence</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <guid isPermaLink="false">2f46295a25133b798ea7fefe25e4f6ac6e1942691b3b7ae6c0b9f32f76bfdc77</guid>
+      <guid isPermaLink="false">b041449ac09d6a3abd7f6b3e78769bfd356f2e1b2d8db1bf8175310714d41478</guid>
       <title>International Defence Technology (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
-      <pubDate>Fri, 18 Sep 2026 18:00:28 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 19:00:34 +0000</pubDate>
       <category>International Defence Technology</category>
       <description>Topic: International Defence Technology
-Updated: 2026-09-18T18:00:28+00:00
+Updated: 2026-09-18T19:00:34+00:00
 Stories: 15</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
       <ra:kind>topic</ra:kind>
+    </item>
+    <item>
+      <title>Europe’s space tracking program sees growing support, interest</title>
+      <link>https://breakingdefense.com/2026/09/europes-space-tracking-program-sees-growing-support-interest</link>
+      <guid isPermaLink="false">1bc5edb333a436f912b1a47be7956753d39049c58c820f85a92b3fd652d16426</guid>
+      <pubDate>Fri, 18 Sep 2026 18:10:12 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <category>Bulletin</category>
+      <source url="https://breakingdefense.com/">Breaking Defense</source>
+      <description>Topic: International Defence Technology
+Source: Breaking Defense
+Published: 2026-09-18T18:10:12+00:00
+Headline: Europe’s space tracking program sees growing support, interest</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>6</ra:bulletinPosition>
+      <ra:publishedAt>2026-09-18T18:10:12+00:00</ra:publishedAt>
+      <ra:sourceName>Breaking Defense</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>First German F-35 rolls off the line</title>
@@ -675,8 +677,8 @@ Headline: First German F-35 rolls off the line</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>6</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:bulletinPosition>9</ra:bulletinPosition>
       <ra:publishedAt>2026-09-18T17:10:33+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -696,8 +698,8 @@ Headline: Why the ‘right to repair’ matters to the Pentagon</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
-      <ra:bulletinPosition>9</ra:bulletinPosition>
+      <ra:storyPosition>3</ra:storyPosition>
+      <ra:bulletinPosition>10</ra:bulletinPosition>
       <ra:publishedAt>2026-09-18T16:58:59+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -708,7 +710,6 @@ Headline: Why the ‘right to repair’ matters to the Pentagon</description>
       <guid isPermaLink="false">d2aa31474246c1e729dc49b08236b58dd30b67be268c38561f424b00cd8622a4</guid>
       <pubDate>Fri, 18 Sep 2026 17:44:31 +0000</pubDate>
       <category>International Defence Technology</category>
-      <category>Bulletin</category>
       <source url="https://www.defensenews.com/">Defense News</source>
       <description>Topic: International Defence Technology
 Source: Defense News
@@ -717,8 +718,7 @@ Headline: US clears way for $24.3 billion fighter jet sale to Saudi Arabia</desc
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
-      <ra:bulletinPosition>10</ra:bulletinPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-09-18T17:44:31+00:00</ra:publishedAt>
       <ra:sourceName>Defense News</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -737,7 +737,7 @@ Headline: France’s 2035 national security plan warns of increased conflict in 
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-09-18T15:26:20+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -756,27 +756,8 @@ Headline: ‘Totally new’: Nammo pursues rocket motor engine for latest IRIS-T
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
-      <ra:publishedAt>2026-09-18T14:45:10+00:00</ra:publishedAt>
-      <ra:sourceName>Breaking Defense</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>NATO is measuring Russian adaptation the wrong way</title>
-      <link>https://breakingdefense.com/2026/09/nato-is-measuring-russian-adaptation-the-wrong-way</link>
-      <guid isPermaLink="false">300e9037dd9da64ffdba92cfa5dd9a9655f2d3cfe8d68ab9abbabb178db7bf59</guid>
-      <pubDate>Fri, 18 Sep 2026 14:32:25 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://breakingdefense.com/">Breaking Defense</source>
-      <description>Topic: International Defence Technology
-Source: Breaking Defense
-Published: 2026-09-18T14:32:25+00:00
-Headline: NATO is measuring Russian adaptation the wrong way</description>
-      <ra:topicId>international-defence-technology</ra:topicId>
-      <ra:topicName>International Defence Technology</ra:topicName>
-      <ra:topicPosition>4</ra:topicPosition>
       <ra:storyPosition>6</ra:storyPosition>
-      <ra:publishedAt>2026-09-18T14:32:25+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-09-18T14:45:10+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -952,13 +933,13 @@ Headline: Air Force establishing ‘Megatron’ IDIQ to fast-track DAF Battle Ne
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">75794c63d2abc01946b59649a0a160e823eed1fca960d8762c58f02af3a3c18c</guid>
+      <guid isPermaLink="false">098619bed9782d5c4d82eea5d6eb50671c48fcd3c4359b5935e91356ca626af4</guid>
       <title>Artificial Intelligence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
-      <pubDate>Fri, 18 Sep 2026 18:00:28 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 19:00:34 +0000</pubDate>
       <category>Artificial Intelligence</category>
       <description>Topic: Artificial Intelligence
-Updated: 2026-09-18T18:00:28+00:00
+Updated: 2026-09-18T19:00:34+00:00
 Stories: 15</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
@@ -1008,6 +989,25 @@ Headline: GPT-6 Astra helps crack unsolved WWII message</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
+      <title>A new kind of AI model from a ChatGPT inventor is thrilling developers</title>
+      <link>https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers</link>
+      <guid isPermaLink="false">dccc49a5c50a1186b91474a05cd76052f13bdef2488e77b796f2eb0443443256</guid>
+      <pubDate>Fri, 18 Sep 2026 18:49:30 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
+      <description>Topic: Artificial Intelligence
+Source: TechCrunch AI
+Published: 2026-09-18T18:49:30+00:00
+Headline: A new kind of AI model from a ChatGPT inventor is thrilling developers</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>3</ra:storyPosition>
+      <ra:publishedAt>2026-09-18T18:49:30+00:00</ra:publishedAt>
+      <ra:sourceName>TechCrunch AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
       <title>Disney’s first CTO led an AI startup it once accused of copying its characters</title>
       <link>https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters</link>
       <guid isPermaLink="false">6c9cda2c37c5a831b40031b9fe665564e3f00498c7e79015d26e86cdb3bf818b</guid>
@@ -1021,7 +1021,7 @@ Headline: Disney’s first CTO led an AI startup it once accused of copying its 
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-09-18T17:59:53+00:00</ra:publishedAt>
       <ra:sourceName>TechCrunch AI</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1040,27 +1040,8 @@ Headline: Google’s new ‘CC’ is an AI agent that helps families run their h
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
-      <ra:publishedAt>2026-09-18T17:33:50+00:00</ra:publishedAt>
-      <ra:sourceName>TechCrunch AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?</title>
-      <link>https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow</link>
-      <guid isPermaLink="false">2c29cad90b869f7fa5f55ab17701f783c9f04bb92e0d69149e24bc1dd2487231</guid>
-      <pubDate>Fri, 18 Sep 2026 17:09:56 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
-      <description>Topic: Artificial Intelligence
-Source: TechCrunch AI
-Published: 2026-09-18T17:09:56+00:00
-Headline: Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
       <ra:storyPosition>5</ra:storyPosition>
-      <ra:publishedAt>2026-09-18T17:09:56+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-09-18T17:33:50+00:00</ra:publishedAt>
       <ra:sourceName>TechCrunch AI</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -1255,13 +1236,13 @@ Headline: Chinese researchers detail 'the last AI built by humans'</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">122f9e988ed2ed71ac0fc6e31e55c4c262e71594c37dda32cb3a2897e94e55ee</guid>
+      <guid isPermaLink="false">29850b789c165f001e194b425e793854881a01a0df572c80a2ac8c12ba041288</guid>
       <title>Robotics (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-robotics</link>
-      <pubDate>Fri, 18 Sep 2026 18:00:28 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 19:00:34 +0000</pubDate>
       <category>Robotics</category>
       <description>Topic: Robotics
-Updated: 2026-09-18T18:00:28+00:00
+Updated: 2026-09-18T19:00:34+00:00
 Stories: 15</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>

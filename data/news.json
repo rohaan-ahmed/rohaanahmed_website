@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-09-18T18:00:28+00:00",
+  "generatedAt": "2026-09-18T19:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-18T18:00:28+00:00",
+      "updatedAt": "2026-09-18T19:00:34+00:00",
       "stories": [
         {
           "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
           "url": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs",
           "publishedAt": "2026-09-18T14:47:38+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
+          "url": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind",
+          "publishedAt": "2026-09-18T18:02:53+00:00",
+          "source": "NASA"
         },
         {
           "title": "Week in images: 14-18 Sep 2026",
@@ -28,12 +34,6 @@
           "title": "COSI Telescope Comes Together",
           "url": "https://www.nasa.gov/image-article/cosi-telescope-comes-together",
           "publishedAt": "2026-09-18T15:45:03+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA’s Hubble Spots an Out-of-Sync Galaxy",
-          "url": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy",
-          "publishedAt": "2026-09-18T13:38:12+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-18T18:00:28+00:00",
+      "updatedAt": "2026-09-18T19:00:34+00:00",
       "stories": [
         {
           "title": "Carney cites space in Canada-EU partnership pitch",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-18T18:00:28+00:00",
+      "updatedAt": "2026-09-18T19:00:34+00:00",
       "stories": [
         {
           "title": "Exclusive media preview of the Canadian Forces Artists Program exhibition and artist availability",
@@ -199,20 +199,20 @@
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/statement-by-the-minister-of-national-defence-on-official-languages-day.html",
           "publishedAt": "2026-09-10T13:08:05+00:00",
           "source": "National Defence"
-        },
-        {
-          "title": "Minister McGuinty concludes visit to Poland, advancing Canada–Poland defence and industrial cooperation",
-          "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/minister-mcguinty-concludes-visit-to-poland-advancing-canadapoland-defence-and-industrial-cooperation.html",
-          "publishedAt": "2026-09-08T18:40:31+00:00",
-          "source": "National Defence"
         }
       ]
     },
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-18T18:00:28+00:00",
+      "updatedAt": "2026-09-18T19:00:34+00:00",
       "stories": [
+        {
+          "title": "Europe’s space tracking program sees growing support, interest",
+          "url": "https://breakingdefense.com/2026/09/europes-space-tracking-program-sees-growing-support-interest",
+          "publishedAt": "2026-09-18T18:10:12+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "First German F-35 rolls off the line",
           "url": "https://breakingdefense.com/2026/09/first-german-f-35-rolls-off-the-line",
@@ -241,12 +241,6 @@
           "title": "‘Totally new’: Nammo pursues rocket motor engine for latest IRIS-T air defense",
           "url": "https://breakingdefense.com/2026/09/totally-new-nammo-pursues-rocket-motor-engine-for-latest-iris-t-air-defense",
           "publishedAt": "2026-09-18T14:45:10+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "NATO is measuring Russian adaptation the wrong way",
-          "url": "https://breakingdefense.com/2026/09/nato-is-measuring-russian-adaptation-the-wrong-way",
-          "publishedAt": "2026-09-18T14:32:25+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -308,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-18T18:00:28+00:00",
+      "updatedAt": "2026-09-18T19:00:34+00:00",
       "stories": [
         {
           "title": "OpenAI’s new rules for reporting model misbehavior",
@@ -323,6 +317,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+          "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
+          "publishedAt": "2026-09-18T18:49:30+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
           "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters",
           "publishedAt": "2026-09-18T17:59:53+00:00",
@@ -332,12 +332,6 @@
           "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
           "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households",
           "publishedAt": "2026-09-18T17:33:50+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-          "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow",
-          "publishedAt": "2026-09-18T17:09:56+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -405,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-18T18:00:28+00:00",
+      "updatedAt": "2026-09-18T19:00:34+00:00",
       "stories": [
         {
           "title": "SoftBank agrees to acquire Robotics and AI Institute",
@@ -501,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-18T18:00:28+00:00",
+    "updatedAt": "2026-09-18T19:00:34+00:00",
     "stories": [
       {
         "title": "OpenAI’s new rules for reporting model misbehavior",
@@ -549,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "First German F-35 rolls off the line",
-        "url": "https://breakingdefense.com/2026/09/first-german-f-35-rolls-off-the-line",
-        "publishedAt": "2026-09-18T17:10:33+00:00",
+        "title": "Europe’s space tracking program sees growing support, interest",
+        "url": "https://breakingdefense.com/2026/09/europes-space-tracking-program-sees-growing-support-interest",
+        "publishedAt": "2026-09-18T18:10:12+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -576,19 +570,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Why the ‘right to repair’ matters to the Pentagon",
-        "url": "https://breakingdefense.com/2026/09/why-the-right-to-repair-matters-to-the-pentagon",
-        "publishedAt": "2026-09-18T16:58:59+00:00",
+        "title": "First German F-35 rolls off the line",
+        "url": "https://breakingdefense.com/2026/09/first-german-f-35-rolls-off-the-line",
+        "publishedAt": "2026-09-18T17:10:33+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/18/us-clears-way-for-243-billion-fighter-jet-sale-to-saudi-arabia",
-        "publishedAt": "2026-09-18T17:44:31+00:00",
-        "source": "Defense News",
+        "title": "Why the ‘right to repair’ matters to the Pentagon",
+        "url": "https://breakingdefense.com/2026/09/why-the-right-to-repair-matters-to-the-pentagon",
+        "publishedAt": "2026-09-18T16:58:59+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
