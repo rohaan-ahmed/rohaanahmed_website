@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T21:00:33+00:00",
+  "generatedAt": "2026-09-18T21:56:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-18T21:00:33+00:00",
+      "updatedAt": "2026-09-18T21:56:34+00:00",
       "stories": [
         {
           "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-18T21:00:33+00:00",
+      "updatedAt": "2026-09-18T21:56:34+00:00",
       "stories": [
         {
           "title": "Carney cites space in Canada-EU partnership pitch",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-18T21:00:33+00:00",
+      "updatedAt": "2026-09-18T21:56:34+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on Military Family Appreciation Day",
@@ -211,8 +211,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-18T21:00:33+00:00",
+      "updatedAt": "2026-09-18T21:56:34+00:00",
       "stories": [
+        {
+          "title": "Space Force to prototype new software to fuse commercial, military space tracking data",
+          "url": "https://breakingdefense.com/2026/09/space-force-to-prototype-new-software-to-fuse-commercial-military-space-tracking-data",
+          "publishedAt": "2026-09-18T21:41:13+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Myriad ways that drones, satellites, and common controls reshape ISR",
+          "url": "https://breakingdefense.com/2026/09/myriad-ways-that-drones-satellites-and-common-controls-reshape-isr",
+          "publishedAt": "2026-09-18T21:37:51+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Europe’s space tracking program sees growing support, interest",
           "url": "https://breakingdefense.com/2026/09/europes-space-tracking-program-sees-growing-support-interest",
@@ -242,18 +254,6 @@
           "url": "https://defensescoop.com/2026/09/18/aafes-investigating-suspicious-messages-sent-to-military-customers",
           "publishedAt": "2026-09-18T20:15:49+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "France’s 2035 national security plan warns of increased conflict in sea, outer space",
-          "url": "https://breakingdefense.com/2026/09/frances-2035-national-security-plan-warns-of-increased-conflict-in-sea-outer-space",
-          "publishedAt": "2026-09-18T15:26:20+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "‘Totally new’: Nammo pursues rocket motor engine for latest IRIS-T air defense",
-          "url": "https://breakingdefense.com/2026/09/totally-new-nammo-pursues-rocket-motor-engine-for-latest-iris-t-air-defense",
-          "publishedAt": "2026-09-18T14:45:10+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "US Air Force has a $14 billion supply hole, service officials say",
@@ -308,8 +308,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-18T21:00:33+00:00",
+      "updatedAt": "2026-09-18T21:56:34+00:00",
       "stories": [
+        {
+          "title": "Anthropic’s first embedded evaluator is … Accenture?",
+          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+          "publishedAt": "2026-09-18T21:44:33+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "OpenAI’s new rules for reporting model misbehavior",
           "url": "http://openai.com/index/model-misalignment-reporting-framework",
@@ -341,40 +347,16 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "How Claude is uplifting biomolecular modeling (12 minute read)",
-          "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+          "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households",
+          "publishedAt": "2026-09-18T17:33:50+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Google wants to give your family its own cloud computer (4 minute read)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Projects redesigned: from folder to conversation (4 minute read)",
-          "url": "https://claude.com/blog/projects-redesigned",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement (72 minute read)",
-          "url": "https://www.dwarkesh.com/p/noam-brown",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "LLM Classification Is Feature Engineering (20 minute read)",
-          "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Anthropic says its AI now does a quarter of its research work (25 minute read)",
-          "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+          "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow",
+          "publishedAt": "2026-09-18T17:09:56+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Google DeepMind starts an AGI think tank",
@@ -399,13 +381,31 @@
           "url": "https://arxiv.org/pdf/2609.11873",
           "publishedAt": "2026-09-16T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Trump, Beijing both shoot down the AI slowdown",
+          "url": "https://apnews.com/article/trump-ai-guardrails-data-centers-b85df16775ff7e9611a456b061a0e4b9",
+          "publishedAt": "2026-09-15T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Apple finally starts shipping Siri AI upgrade",
+          "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+          "publishedAt": "2026-09-15T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Microsoft AI drafts the rulebook for ‘Humanist AI’",
+          "url": "https://microsoft.ai/code-of-conduct",
+          "publishedAt": "2026-09-15T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-18T21:00:33+00:00",
+      "updatedAt": "2026-09-18T21:56:34+00:00",
       "stories": [
         {
           "title": "The picks-and-shovels strategy behind the robotics boom",
@@ -501,20 +501,20 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-18T21:00:33+00:00",
+    "updatedAt": "2026-09-18T21:56:34+00:00",
     "stories": [
       {
-        "title": "OpenAI’s new rules for reporting model misbehavior",
-        "url": "http://openai.com/index/model-misalignment-reporting-framework",
-        "publishedAt": "2026-09-18T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Anthropic’s first embedded evaluator is … Accenture?",
+        "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+        "publishedAt": "2026-09-18T21:44:33+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "GPT-6 Astra helps crack unsolved WWII message",
-        "url": "https://mvueh-enigma-solved.carterl.chatgpt.site/",
+        "title": "OpenAI’s new rules for reporting model misbehavior",
+        "url": "http://openai.com/index/model-misalignment-reporting-framework",
         "publishedAt": "2026-09-18T10:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Europe’s space tracking program sees growing support, interest",
-        "url": "https://breakingdefense.com/2026/09/europes-space-tracking-program-sees-growing-support-interest",
-        "publishedAt": "2026-09-18T18:10:12+00:00",
+        "title": "Space Force to prototype new software to fuse commercial, military space tracking data",
+        "url": "https://breakingdefense.com/2026/09/space-force-to-prototype-new-software-to-fuse-commercial-military-space-tracking-data",
+        "publishedAt": "2026-09-18T21:41:13+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Myriad ways that drones, satellites, and common controls reshape ISR",
+        "url": "https://breakingdefense.com/2026/09/myriad-ways-that-drones-satellites-and-common-controls-reshape-isr",
+        "publishedAt": "2026-09-18T21:37:51+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Orange switches on first Telesat Lightspeed gateway",
         "url": "https://spaceq.ca/orange-switches-on-first-telesat-lightspeed-gateway",
         "publishedAt": "2026-09-18T11:23:00+00:00",
@@ -576,18 +585,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "SoftBank agrees to acquire Robotics and AI Institute",
-        "url": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute",
-        "publishedAt": "2026-09-18T17:14:32+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "First German F-35 rolls off the line",
-        "url": "https://breakingdefense.com/2026/09/first-german-f-35-rolls-off-the-line",
-        "publishedAt": "2026-09-18T17:10:33+00:00",
+        "title": "Europe’s space tracking program sees growing support, interest",
+        "url": "https://breakingdefense.com/2026/09/europes-space-tracking-program-sees-growing-support-interest",
+        "publishedAt": "2026-09-18T18:10:12+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -706,6 +706,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-03"
   ]
 }
