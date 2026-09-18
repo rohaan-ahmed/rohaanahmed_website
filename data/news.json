@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-09-18T22:00:30+00:00",
+  "generatedAt": "2026-09-18T23:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-18T22:00:30+00:00",
+      "updatedAt": "2026-09-18T23:00:28+00:00",
       "stories": [
         {
           "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
           "url": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs",
           "publishedAt": "2026-09-18T14:47:38+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "ESA and The Pokémon Company International reveal Europe-wide exhibition and astronaut Pikachu experience",
+          "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience",
+          "publishedAt": "2026-09-18T22:01:00+00:00",
+          "source": "European Space Agency"
         },
         {
           "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
@@ -37,14 +43,14 @@
           "source": "NASA"
         },
         {
-          "title": "Earth from Space: Laguna Colorada",
-          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada",
+          "title": "A galaxy spinning out of sync",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
           "publishedAt": "2026-09-18T08:00:00+00:00",
           "source": "European Space Agency"
         },
         {
-          "title": "A galaxy spinning out of sync",
-          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+          "title": "Earth from Space: Laguna Colorada",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada",
           "publishedAt": "2026-09-18T08:00:00+00:00",
           "source": "European Space Agency"
         },
@@ -85,12 +91,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Three space companies win ESA awards for excellence and innovation",
-          "url": "https://www.esa.int/About_Us/Business_with_ESA/Three_space_companies_win_ESA_awards_for_excellence_and_innovation",
-          "publishedAt": "2026-09-17T07:10:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Iceye’s global presence expands to address sovereign demand",
           "url": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand",
           "publishedAt": "2026-09-15T06:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-18T22:00:30+00:00",
+      "updatedAt": "2026-09-18T23:00:28+00:00",
       "stories": [
         {
           "title": "Carney cites space in Canada-EU partnership pitch",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-18T22:00:30+00:00",
+      "updatedAt": "2026-09-18T23:00:28+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on Military Family Appreciation Day",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-18T22:00:30+00:00",
+      "updatedAt": "2026-09-18T23:00:28+00:00",
       "stories": [
         {
           "title": "Space Force to prototype new software to fuse commercial, military space tracking data",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-18T22:00:30+00:00",
+      "updatedAt": "2026-09-18T23:00:28+00:00",
       "stories": [
         {
           "title": "Anthropic’s first embedded evaluator is … Accenture?",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-18T22:00:30+00:00",
+      "updatedAt": "2026-09-18T23:00:28+00:00",
       "stories": [
         {
           "title": "The picks-and-shovels strategy behind the robotics boom",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-18T22:00:30+00:00",
+    "updatedAt": "2026-09-18T23:00:28+00:00",
     "stories": [
       {
         "title": "Anthropic’s first embedded evaluator is … Accenture?",
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "ESA and The Pokémon Company International reveal Europe-wide exhibition and astronaut Pikachu experience",
+        "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience",
+        "publishedAt": "2026-09-18T22:01:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Myriad ways that drones, satellites, and common controls reshape ISR",
         "url": "https://breakingdefense.com/2026/09/myriad-ways-that-drones-satellites-and-common-controls-reshape-isr",
         "publishedAt": "2026-09-18T21:37:51+00:00",
@@ -582,15 +591,6 @@
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Europe’s space tracking program sees growing support, interest",
-        "url": "https://breakingdefense.com/2026/09/europes-space-tracking-program-sees-growing-support-interest",
-        "publishedAt": "2026-09-18T18:10:12+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
