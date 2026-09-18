@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-09-18T13:00:28+00:00",
+  "generatedAt": "2026-09-18T13:54:37+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-18T13:00:28+00:00",
+      "updatedAt": "2026-09-18T13:54:37+00:00",
       "stories": [
         {
           "title": "Week in images: 14-18 Sep 2026",
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_14-18_Sep_2026",
           "publishedAt": "2026-09-18T13:05:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "NASA’s Hubble Spots an Out-of-Sync Galaxy",
+          "url": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy",
+          "publishedAt": "2026-09-18T13:38:12+00:00",
+          "source": "NASA"
         },
         {
           "title": "Earth from Space: Laguna Colorada",
@@ -67,12 +73,6 @@
           "source": "NASA"
         },
         {
-          "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
-          "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station",
-          "publishedAt": "2026-09-17T18:32:30+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "ESA starts next phase of IRIS² evolution through Low-LEO activities",
           "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_starts_next_phase_of_IRIS2_evolution_through_Low-LEO_activities",
           "publishedAt": "2026-09-17T08:07:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-18T13:00:28+00:00",
+      "updatedAt": "2026-09-18T13:54:37+00:00",
       "stories": [
         {
           "title": "Orange switches on first Telesat Lightspeed gateway",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-18T13:00:28+00:00",
+      "updatedAt": "2026-09-18T13:54:37+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-18T13:00:28+00:00",
+      "updatedAt": "2026-09-18T13:54:37+00:00",
       "stories": [
         {
           "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-18T13:00:28+00:00",
+      "updatedAt": "2026-09-18T13:54:37+00:00",
       "stories": [
         {
           "title": "OpenAI’s new rules for reporting model misbehavior",
@@ -309,6 +309,42 @@
           "url": "https://mvueh-enigma-solved.carterl.chatgpt.site/",
           "publishedAt": "2026-09-18T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Google wants to give your family its own cloud computer (4 minute read)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups",
+          "publishedAt": "2026-09-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How Claude is uplifting biomolecular modeling (12 minute read)",
+          "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+          "publishedAt": "2026-09-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Projects redesigned: from folder to conversation (4 minute read)",
+          "url": "https://claude.com/blog/projects-redesigned",
+          "publishedAt": "2026-09-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement (72 minute read)",
+          "url": "https://www.dwarkesh.com/p/noam-brown",
+          "publishedAt": "2026-09-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "LLM Classification Is Feature Engineering (20 minute read)",
+          "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction",
+          "publishedAt": "2026-09-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Anthropic says its AI now does a quarter of its research work (25 minute read)",
+          "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+          "publishedAt": "2026-09-18T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
@@ -335,42 +371,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Claude Cowork and chat are now one Claude (2 minute read)",
-          "url": "https://claude.com/blog/cowork-is-now-claude",
-          "publishedAt": "2026-09-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "OpenAI Expanded ChatGPT Ads with AI Agents (4 minute read)",
-          "url": "https://openai.com/index/reimagining-advertising-with-ai",
-          "publishedAt": "2026-09-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Your AI agents can now control your Google Home devices (3 minute read)",
-          "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
-          "publishedAt": "2026-09-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "HarnessTax (2 minute read)",
-          "url": "https://arena.ai/blog/coding-agents-harness-tax",
-          "publishedAt": "2026-09-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "AI Cheating is on the Rise (4 minute read)",
-          "url": "https://www.vals.ai/blogs/cheating-on-the-rise",
-          "publishedAt": "2026-09-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How Embedded Evaluators Could Monitor Frontier AI (8 minute read)",
-          "url": "https://transluce.org/embedded-evaluations",
-          "publishedAt": "2026-09-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "ChatGPT co-creator launches new kind of AI model",
           "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
           "publishedAt": "2026-09-16T10:00:00+00:00",
@@ -393,8 +393,20 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-18T13:00:28+00:00",
+      "updatedAt": "2026-09-18T13:54:37+00:00",
       "stories": [
+        {
+          "title": "Neptune Medical earns FDA clearance for its Triton 1 robotic system",
+          "url": "https://www.therobotreport.com/neptune-medical-earns-fda-clearance-triton-1-robotic-system",
+          "publishedAt": "2026-09-18T13:22:16+00:00",
+          "source": "The Robot Report"
+        },
+        {
+          "title": "Icarus Robotics flies ISS-bound robot in microgravity for the first time",
+          "url": "https://www.therobotreport.com/icarus-robotics-flies-iss-bound-robot-in-microgravity-for-the-first-time",
+          "publishedAt": "2026-09-18T13:07:45+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Designing long-travel axes: When rack and pinion outperforms ball screws and linear motors",
           "url": "https://www.therobotreport.com/designing-long-travel-axes-when-rack-and-pinion-outperforms-ball-screws-and-linear-motors",
@@ -444,22 +456,10 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "InOrbit.AI releases OpenRobOps ISO 21423 reference implementation",
-          "url": "https://www.therobotreport.com/inorbit-ai-releases-openrobops-iso-21423-reference-implementation",
-          "publishedAt": "2026-09-15T12:58:29+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe",
           "url": "https://spectrum.ieee.org/humanoid-robot-safety",
           "publishedAt": "2026-09-15T15:22:30+00:00",
           "source": "IEEE Spectrum Robotics"
-        },
-        {
-          "title": "Agility’s Digit 5 humanoid has new legs, batteries, and safety upgrades",
-          "url": "https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades",
-          "publishedAt": "2026-09-15T10:55:15+00:00",
-          "source": "The Robot Report"
         },
         {
           "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-18T13:00:28+00:00",
+    "updatedAt": "2026-09-18T13:54:37+00:00",
     "stories": [
       {
         "title": "OpenAI’s new rules for reporting model misbehavior",
@@ -546,39 +546,39 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Designing long-travel axes: When rack and pinion outperforms ball screws and linear motors",
-        "url": "https://www.therobotreport.com/designing-long-travel-axes-when-rack-and-pinion-outperforms-ball-screws-and-linear-motors",
-        "publishedAt": "2026-09-17T18:34:16+00:00",
+        "title": "Neptune Medical earns FDA clearance for its Triton 1 robotic system",
+        "url": "https://www.therobotreport.com/neptune-medical-earns-fda-clearance-triton-1-robotic-system",
+        "publishedAt": "2026-09-18T13:22:16+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
       },
       {
-        "title": "French Army wants to keep adversaries guessing on see-through battlefield",
-        "url": "https://www.defensenews.com/global/europe/2026/09/18/french-army-wants-to-keep-adversaries-guessing-on-see-through-battlefield",
-        "publishedAt": "2026-09-18T09:01:16+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Icarus Robotics flies ISS-bound robot in microgravity for the first time",
+        "url": "https://www.therobotreport.com/icarus-robotics-flies-iss-bound-robot-in-microgravity-for-the-first-time",
+        "publishedAt": "2026-09-18T13:07:45+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Earth from Space: Laguna Colorada",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada",
-        "publishedAt": "2026-09-18T08:00:00+00:00",
-        "source": "European Space Agency",
+        "title": "NASA’s Hubble Spots an Out-of-Sync Galaxy",
+        "url": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy",
+        "publishedAt": "2026-09-18T13:38:12+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "A galaxy spinning out of sync",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
-        "publishedAt": "2026-09-18T08:00:00+00:00",
-        "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Google wants to give your family its own cloud computer (4 minute read)",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups",
+        "publishedAt": "2026-09-18T00:00:00+00:00",
+        "source": "TLDR AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
