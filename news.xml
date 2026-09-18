@@ -5,16 +5,16 @@
     <link>https://rohaanahmed.com/news.html</link>
     <description>An automatically curated news feed built around my areas of interest</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 18 Sep 2026 11:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:00:29 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <guid isPermaLink="false">6aefa5353071f8de4851726b594efe98c76087a08c015919ff7b6f48a8df6d9f</guid>
+      <guid isPermaLink="false">c692a1da48273b22df23216c41a0eb18dad9f3764f3457eb1af948fb6674f44d</guid>
       <title>International Space (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-space</link>
-      <pubDate>Fri, 18 Sep 2026 11:00:30 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 12:00:29 +0000</pubDate>
       <category>International Space</category>
       <description>Topic: International Space
-Updated: 2026-09-18T11:00:30+00:00
+Updated: 2026-09-18T12:00:29+00:00
 Stories: 15</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
@@ -58,7 +58,7 @@ Headline: A galaxy spinning out of sync</description>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
       <ra:storyPosition>2</ra:storyPosition>
-      <ra:bulletinPosition>8</ra:bulletinPosition>
+      <ra:bulletinPosition>9</ra:bulletinPosition>
       <ra:publishedAt>2026-09-18T08:00:00+00:00</ra:publishedAt>
       <ra:sourceName>European Space Agency</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -69,7 +69,6 @@ Headline: A galaxy spinning out of sync</description>
       <guid isPermaLink="false">f7e2eb891e2d29204cdee106c97cb21b6597e022d863ed65cccfa92619dbce74</guid>
       <pubDate>Thu, 17 Sep 2026 15:05:15 +0000</pubDate>
       <category>International Space</category>
-      <category>Bulletin</category>
       <source url="https://spacenews.com/">SpaceNews</source>
       <description>Topic: International Space
 Source: SpaceNews
@@ -79,7 +78,6 @@ Headline: Satrec Initiative to build 10-centimeter-class optical satellites for 
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
       <ra:storyPosition>3</ra:storyPosition>
-      <ra:bulletinPosition>10</ra:bulletinPosition>
       <ra:publishedAt>2026-09-17T15:05:15+00:00</ra:publishedAt>
       <ra:sourceName>SpaceNews</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -313,18 +311,39 @@ Headline: Sept. 23: What Comes Next for On-Orbit Servicing?</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">1718e0052970294341931b5f9094efe580f3e24d960cbfffee59dd6e8b36c912</guid>
+      <guid isPermaLink="false">5414960c8536991ac6628f311421d3969c69b10f47a0438fc1c3c10969f7d2d6</guid>
       <title>Canadian Space (10 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
-      <pubDate>Fri, 18 Sep 2026 11:00:30 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 12:00:29 +0000</pubDate>
       <category>Canadian Space</category>
       <description>Topic: Canadian Space
-Updated: 2026-09-18T11:00:30+00:00
+Updated: 2026-09-18T12:00:29+00:00
 Stories: 10</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
       <ra:kind>topic</ra:kind>
+    </item>
+    <item>
+      <title>Orange switches on first Telesat Lightspeed gateway</title>
+      <link>https://spaceq.ca/orange-switches-on-first-telesat-lightspeed-gateway</link>
+      <guid isPermaLink="false">8919bd9c1c88b131e77e3893de39db9c8c603d6d1341601f8af414c42f1715de</guid>
+      <pubDate>Fri, 18 Sep 2026 11:23:00 +0000</pubDate>
+      <category>Canadian Space</category>
+      <category>Bulletin</category>
+      <source url="https://spaceq.ca/">SpaceQ</source>
+      <description>Topic: Canadian Space
+Source: SpaceQ
+Published: 2026-09-18T11:23:00+00:00
+Headline: Orange switches on first Telesat Lightspeed gateway</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>3</ra:bulletinPosition>
+      <ra:publishedAt>2026-09-18T11:23:00+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceQ</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>BDC Defence Platform names space for the first time</title>
@@ -341,8 +360,8 @@ Headline: BDC Defence Platform names space for the first time</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>3</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:bulletinPosition>10</ra:bulletinPosition>
       <ra:publishedAt>2026-09-17T18:10:06+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -353,7 +372,6 @@ Headline: BDC Defence Platform names space for the first time</description>
       <guid isPermaLink="false">05cd133570457845d9ef4475c6cb12a0670034f1ac80909dd03eb0e148e2b277</guid>
       <pubDate>Thu, 17 Sep 2026 16:30:39 +0000</pubDate>
       <category>Canadian Space</category>
-      <category>Bulletin</category>
       <source url="https://spaceq.ca/">SpaceQ</source>
       <description>Topic: Canadian Space
 Source: SpaceQ
@@ -362,8 +380,7 @@ Headline: MDA unveils CHORUS Earth observation portfolio ahead of launch</descri
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
-      <ra:bulletinPosition>9</ra:bulletinPosition>
+      <ra:storyPosition>3</ra:storyPosition>
       <ra:publishedAt>2026-09-17T16:30:39+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -382,7 +399,7 @@ Headline: OECD report outlines growing space economy and strategic risks, includ
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-09-16T17:46:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -401,7 +418,7 @@ Headline: SatPort signs on to build Telesat Lightspeed ground network</descripti
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-09-16T11:12:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -420,7 +437,7 @@ Headline: Canadensys partners with Growcer on dual-use Arctic agriculture projec
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
+      <ra:storyPosition>6</ra:storyPosition>
       <ra:publishedAt>2026-09-15T22:26:38+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -439,7 +456,7 @@ Headline: No permanent successor yet for Canadian Space Agency’s top job</desc
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>6</ra:storyPosition>
+      <ra:storyPosition>7</ra:storyPosition>
       <ra:publishedAt>2026-09-15T19:48:12+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -458,7 +475,7 @@ Headline: Maverick books 10 Kepler satellites onto Portal Space Systems’ Motus
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>7</ra:storyPosition>
+      <ra:storyPosition>8</ra:storyPosition>
       <ra:publishedAt>2026-09-15T11:06:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -477,7 +494,7 @@ Headline: Wyvern’s $230-million summit pitch is a full-program estimate</descr
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>8</ra:storyPosition>
+      <ra:storyPosition>9</ra:storyPosition>
       <ra:publishedAt>2026-09-14T21:05:49+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -496,38 +513,19 @@ Headline: MLS and Isar Aerospace finalize statement of work for Spaceport Nova S
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>9</ra:storyPosition>
+      <ra:storyPosition>10</ra:storyPosition>
       <ra:publishedAt>2026-09-14T16:37:37+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Canada Investment Summit prospectus lists four space opportunities</title>
-      <link>https://spaceq.ca/canada-investment-summit-space-projects</link>
-      <guid isPermaLink="false">89e2178caab8d3c90138dbfbe0309961d666e5cc1e9bdbaea2042d752bc2155d</guid>
-      <pubDate>Mon, 14 Sep 2026 11:25:00 +0000</pubDate>
-      <category>Canadian Space</category>
-      <source url="https://spaceq.ca/">SpaceQ</source>
-      <description>Topic: Canadian Space
-Source: SpaceQ
-Published: 2026-09-14T11:25:00+00:00
-Headline: Canada Investment Summit prospectus lists four space opportunities</description>
-      <ra:topicId>canadian-space</ra:topicId>
-      <ra:topicName>Canadian Space</ra:topicName>
-      <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
-      <ra:publishedAt>2026-09-14T11:25:00+00:00</ra:publishedAt>
-      <ra:sourceName>SpaceQ</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <guid isPermaLink="false">82ae51b3be9fe40ce91a5566589392a365bb6391076b951d45bdce02edc6f6fd</guid>
+      <guid isPermaLink="false">ed20fef90054b082343dd28ca8cf00845df4bf1cc491482e5c2cccc921bd7d6e</guid>
       <title>Canadian Defence (4 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
-      <pubDate>Fri, 18 Sep 2026 11:00:30 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 12:00:29 +0000</pubDate>
       <category>Canadian Defence</category>
       <description>Topic: Canadian Defence
-Updated: 2026-09-18T11:00:30+00:00
+Updated: 2026-09-18T12:00:29+00:00
 Stories: 4</description>
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
@@ -613,18 +611,39 @@ Headline: Minister McGuinty concludes visit to Poland, advancing Canada–Poland
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">11619f25de874c52c379c91c12ebb63ff17e9279815eaf66c3b847196d7290a5</guid>
+      <guid isPermaLink="false">5a220125e39cb2880e6089424cb37cd38915e8cfa94d4f6759cc5fac5ad118fd</guid>
       <title>International Defence Technology (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
-      <pubDate>Fri, 18 Sep 2026 11:00:30 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 12:00:29 +0000</pubDate>
       <category>International Defence Technology</category>
       <description>Topic: International Defence Technology
-Updated: 2026-09-18T11:00:30+00:00
+Updated: 2026-09-18T12:00:29+00:00
 Stories: 15</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
       <ra:kind>topic</ra:kind>
+    </item>
+    <item>
+      <title>Latvia chooses Czech howitzers over Swedish Archer offer</title>
+      <link>https://www.defensenews.com/global/europe/2026/09/18/latvia-chooses-czech-howitzers-over-swedish-archer-offer</link>
+      <guid isPermaLink="false">2cdfe3537ebba741b35cccbe416d9b373086623fe0d4e4b4cd65364571e19f34</guid>
+      <pubDate>Fri, 18 Sep 2026 11:01:43 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <category>Bulletin</category>
+      <source url="https://www.defensenews.com/">Defense News</source>
+      <description>Topic: International Defence Technology
+Source: Defense News
+Published: 2026-09-18T11:01:43+00:00
+Headline: Latvia chooses Czech howitzers over Swedish Archer offer</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>6</ra:bulletinPosition>
+      <ra:publishedAt>2026-09-18T11:01:43+00:00</ra:publishedAt>
+      <ra:sourceName>Defense News</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>French Army wants to keep adversaries guessing on see-through battlefield</title>
@@ -641,8 +660,8 @@ Headline: French Army wants to keep adversaries guessing on see-through battlefi
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>6</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:bulletinPosition>8</ra:bulletinPosition>
       <ra:publishedAt>2026-09-18T09:01:16+00:00</ra:publishedAt>
       <ra:sourceName>Defense News</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -661,7 +680,7 @@ Headline: Army adds $234M in undefinitized contract funding for Black Hawk deal<
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
+      <ra:storyPosition>3</ra:storyPosition>
       <ra:publishedAt>2026-09-17T22:20:54+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -680,7 +699,7 @@ Headline: Northrop eyes munitions supply work, Lockheed eyes funding: CEOs</desc
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-09-17T20:25:57+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -699,7 +718,7 @@ Headline: Army has enough drones for each unit, now it needs to train soldiers t
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-09-17T20:16:22+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -718,7 +737,7 @@ Headline: US clears $24B F-35 sale for Saudi Arabia</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
+      <ra:storyPosition>6</ra:storyPosition>
       <ra:publishedAt>2026-09-17T19:39:26+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -737,7 +756,7 @@ Headline: US Air Force to extend service of B-1, B-2 bombers, official says</des
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>6</ra:storyPosition>
+      <ra:storyPosition>7</ra:storyPosition>
       <ra:publishedAt>2026-09-17T20:28:00+00:00</ra:publishedAt>
       <ra:sourceName>Defense News</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -756,7 +775,7 @@ Headline: Africom’s new Defense Economics Office set up to drive outsized secu
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>7</ra:storyPosition>
+      <ra:storyPosition>8</ra:storyPosition>
       <ra:publishedAt>2026-09-17T22:03:33+00:00</ra:publishedAt>
       <ra:sourceName>DefenseScoop</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -775,7 +794,7 @@ Headline: ‘They overreached’: Amid industry worry, new Feinberg memo tweaks 
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>8</ra:storyPosition>
+      <ra:storyPosition>9</ra:storyPosition>
       <ra:publishedAt>2026-09-17T18:08:51+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -794,7 +813,7 @@ Headline: The US Army is looking for new drones to ferry blood supplies</descrip
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>9</ra:storyPosition>
+      <ra:storyPosition>10</ra:storyPosition>
       <ra:publishedAt>2026-09-17T18:48:19+00:00</ra:publishedAt>
       <ra:sourceName>Defense News</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -813,27 +832,8 @@ Headline: Lockheed Martin gets first batch of Patriot interceptor parts from Gen
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
-      <ra:publishedAt>2026-09-17T18:44:33+00:00</ra:publishedAt>
-      <ra:sourceName>Defense News</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>US Navy should target carriers in fight with China, report says</title>
-      <link>https://www.defensenews.com/news/your-military/2026/09/17/us-navy-should-target-chinese-aircraft-carriers-report-says</link>
-      <guid isPermaLink="false">2fca11b65455ce2e5b641d8c2bf92699e941482cc12e5daa950130ac4c6450e2</guid>
-      <pubDate>Thu, 17 Sep 2026 17:14:35 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://www.defensenews.com/">Defense News</source>
-      <description>Topic: International Defence Technology
-Source: Defense News
-Published: 2026-09-17T17:14:35+00:00
-Headline: US Navy should target carriers in fight with China, report says</description>
-      <ra:topicId>international-defence-technology</ra:topicId>
-      <ra:topicName>International Defence Technology</ra:topicName>
-      <ra:topicPosition>4</ra:topicPosition>
       <ra:storyPosition>11</ra:storyPosition>
-      <ra:publishedAt>2026-09-17T17:14:35+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-09-17T18:44:33+00:00</ra:publishedAt>
       <ra:sourceName>Defense News</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -914,13 +914,13 @@ Headline: Joint Chiefs chairman says U.S. forces must prepare to be ‘hunted’
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">f52de2f00d4ab536da85640178e5560146afcdcc8a63df65bd14496fd8e72ad3</guid>
+      <guid isPermaLink="false">7116fe28dea315b485259a357cd8be093f3a6bd6f0b34b64937a7960231578e5</guid>
       <title>Artificial Intelligence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
-      <pubDate>Fri, 18 Sep 2026 11:00:30 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 12:00:29 +0000</pubDate>
       <category>Artificial Intelligence</category>
       <description>Topic: Artificial Intelligence
-Updated: 2026-09-18T11:00:30+00:00
+Updated: 2026-09-18T12:00:29+00:00
 Stories: 15</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
@@ -1217,13 +1217,13 @@ Headline: Chinese researchers detail 'the last AI built by humans'</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">83acfb938f131be05aebeed2f4d98d00b3867d60c95850e823abc42ed88696d3</guid>
+      <guid isPermaLink="false">cc1abd94ebeb1f4cf8bccd510c66a0ad9c3b795603a11f708e3c257847830942</guid>
       <title>Robotics (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-robotics</link>
-      <pubDate>Fri, 18 Sep 2026 11:00:30 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 12:00:29 +0000</pubDate>
       <category>Robotics</category>
       <description>Topic: Robotics
-Updated: 2026-09-18T11:00:30+00:00
+Updated: 2026-09-18T12:00:29+00:00
 Stories: 15</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>

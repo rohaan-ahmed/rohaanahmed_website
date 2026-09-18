@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T11:00:30+00:00",
+  "generatedAt": "2026-09-18T12:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-18T11:00:30+00:00",
+      "updatedAt": "2026-09-18T12:00:29+00:00",
       "stories": [
         {
           "title": "Earth from Space: Laguna Colorada",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-18T11:00:30+00:00",
+      "updatedAt": "2026-09-18T12:00:29+00:00",
       "stories": [
+        {
+          "title": "Orange switches on first Telesat Lightspeed gateway",
+          "url": "https://spaceq.ca/orange-switches-on-first-telesat-lightspeed-gateway",
+          "publishedAt": "2026-09-18T11:23:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "BDC Defence Platform names space for the first time",
           "url": "https://spaceq.ca/bdc-defence-platform-space",
@@ -156,19 +162,13 @@
           "url": "https://spaceq.ca/mls-and-isar-aerospace-finalize-statement-of-work-for-spaceport-nova-scotia-launch-pad",
           "publishedAt": "2026-09-14T16:37:37+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "Canada Investment Summit prospectus lists four space opportunities",
-          "url": "https://spaceq.ca/canada-investment-summit-space-projects",
-          "publishedAt": "2026-09-14T11:25:00+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-18T11:00:30+00:00",
+      "updatedAt": "2026-09-18T12:00:29+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,8 +199,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-18T11:00:30+00:00",
+      "updatedAt": "2026-09-18T12:00:29+00:00",
       "stories": [
+        {
+          "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
+          "url": "https://www.defensenews.com/global/europe/2026/09/18/latvia-chooses-czech-howitzers-over-swedish-archer-offer",
+          "publishedAt": "2026-09-18T11:01:43+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "French Army wants to keep adversaries guessing on see-through battlefield",
           "url": "https://www.defensenews.com/global/europe/2026/09/18/french-army-wants-to-keep-adversaries-guessing-on-see-through-battlefield",
@@ -262,12 +268,6 @@
           "source": "Defense News"
         },
         {
-          "title": "US Navy should target carriers in fight with China, report says",
-          "url": "https://www.defensenews.com/news/your-military/2026/09/17/us-navy-should-target-chinese-aircraft-carriers-report-says",
-          "publishedAt": "2026-09-17T17:14:35+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Space Force advancing on-orbit tracking for airborne and ground-based targets",
           "url": "https://defensescoop.com/2026/09/17/space-force-advancing-on-orbit-tracking-for-airborne-and-ground-based-targets",
           "publishedAt": "2026-09-17T18:22:42+00:00",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-18T11:00:30+00:00",
+      "updatedAt": "2026-09-18T12:00:29+00:00",
       "stories": [
         {
           "title": "OpenAI’s new rules for reporting model misbehavior",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-18T11:00:30+00:00",
+      "updatedAt": "2026-09-18T12:00:29+00:00",
       "stories": [
         {
           "title": "Designing long-travel axes: When rack and pinion outperforms ball screws and linear motors",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-18T11:00:30+00:00",
+    "updatedAt": "2026-09-18T12:00:29+00:00",
     "stories": [
       {
         "title": "OpenAI’s new rules for reporting model misbehavior",
@@ -510,9 +510,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "BDC Defence Platform names space for the first time",
-        "url": "https://spaceq.ca/bdc-defence-platform-space",
-        "publishedAt": "2026-09-17T18:10:06+00:00",
+        "title": "Orange switches on first Telesat Lightspeed gateway",
+        "url": "https://spaceq.ca/orange-switches-on-first-telesat-lightspeed-gateway",
+        "publishedAt": "2026-09-18T11:23:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "French Army wants to keep adversaries guessing on see-through battlefield",
-        "url": "https://www.defensenews.com/global/europe/2026/09/18/french-army-wants-to-keep-adversaries-guessing-on-see-through-battlefield",
-        "publishedAt": "2026-09-18T09:01:16+00:00",
+        "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
+        "url": "https://www.defensenews.com/global/europe/2026/09/18/latvia-chooses-czech-howitzers-over-swedish-archer-offer",
+        "publishedAt": "2026-09-18T11:01:43+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "French Army wants to keep adversaries guessing on see-through battlefield",
+        "url": "https://www.defensenews.com/global/europe/2026/09/18/french-army-wants-to-keep-adversaries-guessing-on-see-through-battlefield",
+        "publishedAt": "2026-09-18T09:01:16+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "A galaxy spinning out of sync",
         "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
         "publishedAt": "2026-09-18T08:00:00+00:00",
@@ -564,21 +573,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "MDA unveils CHORUS Earth observation portfolio ahead of launch",
-        "url": "https://spaceq.ca/mda-unveils-chorus-earth-observation-portfolio-ahead-of-launch",
-        "publishedAt": "2026-09-17T16:30:39+00:00",
+        "title": "BDC Defence Platform names space for the first time",
+        "url": "https://spaceq.ca/bdc-defence-platform-space",
+        "publishedAt": "2026-09-17T18:10:06+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
-        "url": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation",
-        "publishedAt": "2026-09-17T15:05:15+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
