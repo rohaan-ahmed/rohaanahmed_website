@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-18T08:00:30+00:00",
+  "generatedAt": "2026-09-18T09:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-18T08:00:30+00:00",
+      "updatedAt": "2026-09-18T09:00:30+00:00",
       "stories": [
+        {
+          "title": "Earth from Space: Laguna Colorada",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada",
+          "publishedAt": "2026-09-18T08:00:00+00:00",
+          "source": "European Space Agency"
+        },
+        {
+          "title": "A galaxy spinning out of sync",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+          "publishedAt": "2026-09-18T08:00:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
           "url": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation",
@@ -73,22 +85,10 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Faster-flowing glaciers fuel decades of polar ice loss",
-          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Faster-flowing_glaciers_fuel_decades_of_polar_ice_loss",
-          "publishedAt": "2026-09-16T09:00:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Iceye’s global presence expands to address sovereign demand",
           "url": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand",
           "publishedAt": "2026-09-15T06:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "FLEX and Sentinel-3C launch highlights",
-          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/FLEX_and_Sentinel-3C_launch_highlights",
-          "publishedAt": "2026-09-15T07:00:00+00:00",
-          "source": "European Space Agency"
         },
         {
           "title": "Sept. 23: What Comes Next for On-Orbit Servicing?",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-18T08:00:30+00:00",
+      "updatedAt": "2026-09-18T09:00:30+00:00",
       "stories": [
         {
           "title": "BDC Defence Platform names space for the first time",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-18T08:00:30+00:00",
+      "updatedAt": "2026-09-18T09:00:30+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-18T08:00:30+00:00",
+      "updatedAt": "2026-09-18T09:00:30+00:00",
       "stories": [
         {
           "title": "Army adds $234M in undefinitized contract funding for Black Hawk deal",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-18T08:00:30+00:00",
+      "updatedAt": "2026-09-18T09:00:30+00:00",
       "stories": [
         {
           "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-18T08:00:30+00:00",
+      "updatedAt": "2026-09-18T09:00:30+00:00",
       "stories": [
         {
           "title": "Designing long-travel axes: When rack and pinion outperforms ball screws and linear motors",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-18T08:00:30+00:00",
+    "updatedAt": "2026-09-18T09:00:30+00:00",
     "stories": [
       {
         "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
@@ -519,10 +519,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
-        "url": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation",
-        "publishedAt": "2026-09-17T15:05:15+00:00",
-        "source": "SpaceNews",
+        "title": "Earth from Space: Laguna Colorada",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada",
+        "publishedAt": "2026-09-18T08:00:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -555,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "A galaxy spinning out of sync",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+        "publishedAt": "2026-09-18T08:00:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "MDA unveils CHORUS Earth observation portfolio ahead of launch",
         "url": "https://spaceq.ca/mda-unveils-chorus-earth-observation-portfolio-ahead-of-launch",
         "publishedAt": "2026-09-17T16:30:39+00:00",
@@ -564,18 +573,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges",
-        "url": "https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges",
-        "publishedAt": "2026-09-17T14:40:51+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Inside Europe’s push for space autonomy with Josef Aschbacher",
-        "url": "https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher",
-        "publishedAt": "2026-09-17T14:37:26+00:00",
+        "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
+        "url": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation",
+        "publishedAt": "2026-09-17T15:05:15+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
