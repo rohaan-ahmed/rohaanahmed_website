@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-18T12:00:29+00:00",
+  "generatedAt": "2026-09-18T13:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-18T12:00:29+00:00",
+      "updatedAt": "2026-09-18T13:00:28+00:00",
       "stories": [
+        {
+          "title": "Week in images: 14-18 Sep 2026",
+          "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_14-18_Sep_2026",
+          "publishedAt": "2026-09-18T13:05:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "Earth from Space: Laguna Colorada",
           "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada",
@@ -79,12 +85,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Galileo's first civil authenticated position fix under spoofing conditions",
-          "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_under_spoofing_conditions",
-          "publishedAt": "2026-09-17T06:20:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Iceye’s global presence expands to address sovereign demand",
           "url": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand",
           "publishedAt": "2026-09-15T06:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-18T12:00:29+00:00",
+      "updatedAt": "2026-09-18T13:00:28+00:00",
       "stories": [
         {
           "title": "Orange switches on first Telesat Lightspeed gateway",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-18T12:00:29+00:00",
+      "updatedAt": "2026-09-18T13:00:28+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-18T12:00:29+00:00",
+      "updatedAt": "2026-09-18T13:00:28+00:00",
       "stories": [
         {
           "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-18T12:00:29+00:00",
+      "updatedAt": "2026-09-18T13:00:28+00:00",
       "stories": [
         {
           "title": "OpenAI’s new rules for reporting model misbehavior",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-18T12:00:29+00:00",
+      "updatedAt": "2026-09-18T13:00:28+00:00",
       "stories": [
         {
           "title": "Designing long-travel axes: When rack and pinion outperforms ball screws and linear motors",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-18T12:00:29+00:00",
+    "updatedAt": "2026-09-18T13:00:28+00:00",
     "stories": [
       {
         "title": "OpenAI’s new rules for reporting model misbehavior",
@@ -519,9 +519,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Earth from Space: Laguna Colorada",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada",
-        "publishedAt": "2026-09-18T08:00:00+00:00",
+        "title": "Week in images: 14-18 Sep 2026",
+        "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_14-18_Sep_2026",
+        "publishedAt": "2026-09-18T13:05:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -564,8 +564,8 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "A galaxy spinning out of sync",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+        "title": "Earth from Space: Laguna Colorada",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada",
         "publishedAt": "2026-09-18T08:00:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
@@ -573,12 +573,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "BDC Defence Platform names space for the first time",
-        "url": "https://spaceq.ca/bdc-defence-platform-space",
-        "publishedAt": "2026-09-17T18:10:06+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
+        "title": "A galaxy spinning out of sync",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+        "publishedAt": "2026-09-18T08:00:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
