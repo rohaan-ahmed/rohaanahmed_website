@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T23:00:30+00:00",
+  "generatedAt": "2026-09-18T00:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-17T23:00:30+00:00",
+      "updatedAt": "2026-09-18T00:00:30+00:00",
       "stories": [
         {
           "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-17T23:00:30+00:00",
+      "updatedAt": "2026-09-18T00:00:30+00:00",
       "stories": [
         {
           "title": "BDC Defence Platform names space for the first time",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-17T23:00:30+00:00",
+      "updatedAt": "2026-09-18T00:00:30+00:00",
       "stories": [
         {
           "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-17T23:00:30+00:00",
+      "updatedAt": "2026-09-18T00:00:30+00:00",
       "stories": [
         {
           "title": "Army adds $234M in undefinitized contract funding for Black Hawk deal",
@@ -296,8 +296,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-17T23:00:30+00:00",
+      "updatedAt": "2026-09-18T00:00:30+00:00",
       "stories": [
+        {
+          "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+          "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories",
+          "publishedAt": "2026-09-17T23:25:52+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Google DeepMind launches institute to widen the AGI debate",
+          "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate",
+          "publishedAt": "2026-09-17T23:21:17+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "PrismML hopes its tiny LLM will change how we all use AI",
           "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai",
@@ -305,22 +317,10 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
-          "publishedAt": "2026-09-17T22:14:59+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Google DeepMind starts an AGI think tank",
           "url": "https://institute.deepmind.com/essays/introducing-the-deepmind-institute",
           "publishedAt": "2026-09-17T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "The fix for rogue AI agents could be more AI",
-          "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai",
-          "publishedAt": "2026-09-17T20:34:47+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "Claude Cowork and chat are now one Claude (2 minute read)",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-17T23:00:30+00:00",
+      "updatedAt": "2026-09-18T00:00:30+00:00",
       "stories": [
         {
           "title": "Designing long-travel axes: When rack and pinion outperforms ball screws and linear motors",
@@ -489,21 +489,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-17T23:00:30+00:00",
+    "updatedAt": "2026-09-18T00:00:30+00:00",
     "stories": [
       {
-        "title": "PrismML hopes its tiny LLM will change how we all use AI",
-        "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai",
-        "publishedAt": "2026-09-17T22:34:09+00:00",
+        "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+        "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories",
+        "publishedAt": "2026-09-17T23:25:52+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-        "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai",
-        "publishedAt": "2026-09-17T22:14:59+00:00",
+        "title": "Google DeepMind launches institute to widen the AGI debate",
+        "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate",
+        "publishedAt": "2026-09-17T23:21:17+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
