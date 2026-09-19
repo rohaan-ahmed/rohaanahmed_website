@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-19T14:00:25+00:00",
+  "generatedAt": "2026-09-19T15:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-19T14:00:25+00:00",
+      "updatedAt": "2026-09-19T15:00:30+00:00",
       "stories": [
         {
           "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-19T14:00:25+00:00",
+      "updatedAt": "2026-09-19T15:00:30+00:00",
       "stories": [
+        {
+          "title": "Weekly ISS update: New cargo ship launches to station as Crew-13 enters quarantine",
+          "url": "https://spaceq.ca/weekly-iss-update-new-cargo-ship-launches-to-station-as-crew-13-enters-quarantine",
+          "publishedAt": "2026-09-19T14:47:55+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "The Weekly Close: MDA gains, index slips",
           "url": "https://spaceq.ca/the-weekly-close-september-18-2026",
@@ -156,19 +162,13 @@
           "url": "https://spaceq.ca/canadian-space-agency-without-a-permanent-president",
           "publishedAt": "2026-09-15T19:48:12+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "Maverick books 10 Kepler satellites onto Portal Space Systems’ Motus Via Sol mission",
-          "url": "https://spaceq.ca/maverick-books-kepler-satellites-motus-via-sol",
-          "publishedAt": "2026-09-15T11:06:00+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-19T14:00:25+00:00",
+      "updatedAt": "2026-09-19T15:00:30+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on Military Family Appreciation Day",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-19T14:00:25+00:00",
+      "updatedAt": "2026-09-19T15:00:30+00:00",
       "stories": [
         {
           "title": "Space Force to prototype new software to fuse commercial, military space tracking data",
@@ -308,8 +308,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-19T14:00:25+00:00",
+      "updatedAt": "2026-09-19T15:00:30+00:00",
       "stories": [
+        {
+          "title": "AI safety conversations have gotten unbelievable",
+          "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable",
+          "publishedAt": "2026-09-19T15:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
           "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking",
@@ -320,12 +326,6 @@
           "title": "India forces caller-ID apps to feed spam reports to telcos",
           "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos",
           "publishedAt": "2026-09-19T01:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-          "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai",
-          "publishedAt": "2026-09-19T00:12:07+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-19T14:00:25+00:00",
+      "updatedAt": "2026-09-19T15:00:30+00:00",
       "stories": [
         {
           "title": "Hirebotics adds line tracking and linear rail capabilities to its cobots",
@@ -501,8 +501,17 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-19T14:00:25+00:00",
+    "updatedAt": "2026-09-19T15:00:30+00:00",
     "stories": [
+      {
+        "title": "AI safety conversations have gotten unbelievable",
+        "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable",
+        "publishedAt": "2026-09-19T15:00:00+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "lead"
+      },
       {
         "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
         "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking",
@@ -513,18 +522,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "India forces caller-ID apps to feed spam reports to telcos",
-        "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos",
-        "publishedAt": "2026-09-19T01:00:00+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
-        "bulletinRole": "lead"
-      },
-      {
-        "title": "The Weekly Close: MDA gains, index slips",
-        "url": "https://spaceq.ca/the-weekly-close-september-18-2026",
-        "publishedAt": "2026-09-19T00:11:26+00:00",
+        "title": "Weekly ISS update: New cargo ship launches to station as Crew-13 enters quarantine",
+        "url": "https://spaceq.ca/weekly-iss-update-new-cargo-ship-launches-to-station-as-crew-13-enters-quarantine",
+        "publishedAt": "2026-09-19T14:47:55+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "The Weekly Close: MDA gains, index slips",
+        "url": "https://spaceq.ca/the-weekly-close-september-18-2026",
+        "publishedAt": "2026-09-19T00:11:26+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Carney cites space in Canada-EU partnership pitch",
         "url": "https://spaceq.ca/carney-cites-space-in-canada-eu-partnership-pitch",
         "publishedAt": "2026-09-18T17:13:54+00:00",
@@ -580,15 +589,6 @@
         "url": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night",
         "publishedAt": "2026-09-19T04:05:00+00:00",
         "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "ESA and The Pokémon Company International reveal Europe-wide exhibition and astronaut Pikachu experience",
-        "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience",
-        "publishedAt": "2026-09-18T22:01:00+00:00",
-        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
