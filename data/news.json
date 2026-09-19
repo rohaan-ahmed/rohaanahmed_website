@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-09-19T04:00:29+00:00",
+  "generatedAt": "2026-09-19T04:45:15+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-19T04:00:29+00:00",
+      "updatedAt": "2026-09-19T04:45:15+00:00",
       "stories": [
         {
           "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
           "url": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs",
           "publishedAt": "2026-09-18T14:47:38+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "APOD: 2026 September 19 – A Zodiacal Night",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night",
+          "publishedAt": "2026-09-19T04:05:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "ESA and The Pokémon Company International reveal Europe-wide exhibition and astronaut Pikachu experience",
@@ -35,12 +41,6 @@
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_14-18_Sep_2026",
           "publishedAt": "2026-09-18T13:05:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
-          "url": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station",
-          "publishedAt": "2026-09-18T16:02:31+00:00",
-          "source": "NASA"
         },
         {
           "title": "A galaxy spinning out of sync",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-19T04:00:29+00:00",
+      "updatedAt": "2026-09-19T04:45:15+00:00",
       "stories": [
         {
           "title": "The Weekly Close: MDA gains, index slips",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-19T04:00:29+00:00",
+      "updatedAt": "2026-09-19T04:45:15+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on Military Family Appreciation Day",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-19T04:00:29+00:00",
+      "updatedAt": "2026-09-19T04:45:15+00:00",
       "stories": [
         {
           "title": "Space Force to prototype new software to fuse commercial, military space tracking data",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-19T04:00:29+00:00",
+      "updatedAt": "2026-09-19T04:45:15+00:00",
       "stories": [
         {
           "title": "India forces caller-ID apps to feed spam reports to telcos",
@@ -329,6 +329,24 @@
           "source": "TechCrunch AI"
         },
         {
+          "title": "Anthropic is operating a lab that conducts biology experiments",
+          "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
+          "publishedAt": "2026-09-18T23:13:31+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "AI hallucination nearly triggers US military operation",
+          "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
+          "publishedAt": "2026-09-18T23:12:32+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Anthropic’s first embedded evaluator is … Accenture?",
+          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
+          "publishedAt": "2026-09-18T21:44:33+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "OpenAI’s new rules for reporting model misbehavior",
           "url": "http://openai.com/index/model-misalignment-reporting-framework",
           "publishedAt": "2026-09-18T10:00:00+00:00",
@@ -339,42 +357,6 @@
           "url": "https://mvueh-enigma-solved.carterl.chatgpt.site/",
           "publishedAt": "2026-09-18T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "How Claude is uplifting biomolecular modeling (12 minute read)",
-          "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Google wants to give your family its own cloud computer (4 minute read)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Projects redesigned: from folder to conversation (4 minute read)",
-          "url": "https://claude.com/blog/projects-redesigned",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement (72 minute read)",
-          "url": "https://www.dwarkesh.com/p/noam-brown",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "LLM Classification Is Feature Engineering (20 minute read)",
-          "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Anthropic says its AI now does a quarter of its research work (25 minute read)",
-          "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
         },
         {
           "title": "Google DeepMind starts an AGI think tank",
@@ -399,13 +381,31 @@
           "url": "https://arxiv.org/pdf/2609.11873",
           "publishedAt": "2026-09-16T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Trump, Beijing both shoot down the AI slowdown",
+          "url": "https://apnews.com/article/trump-ai-guardrails-data-centers-b85df16775ff7e9611a456b061a0e4b9",
+          "publishedAt": "2026-09-15T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Apple finally starts shipping Siri AI upgrade",
+          "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+          "publishedAt": "2026-09-15T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Microsoft AI drafts the rulebook for ‘Humanist AI’",
+          "url": "https://microsoft.ai/code-of-conduct",
+          "publishedAt": "2026-09-15T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-19T04:00:29+00:00",
+      "updatedAt": "2026-09-19T04:45:15+00:00",
       "stories": [
         {
           "title": "The picks-and-shovels strategy behind the robotics boom",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-19T04:00:29+00:00",
+    "updatedAt": "2026-09-19T04:45:15+00:00",
     "stories": [
       {
         "title": "India forces caller-ID apps to feed spam reports to telcos",
@@ -576,21 +576,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "APOD: 2026 September 19 – A Zodiacal Night",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night",
+        "publishedAt": "2026-09-19T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "ESA and The Pokémon Company International reveal Europe-wide exhibition and astronaut Pikachu experience",
         "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience",
         "publishedAt": "2026-09-18T22:01:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Myriad ways that drones, satellites, and common controls reshape ISR",
-        "url": "https://breakingdefense.com/2026/09/myriad-ways-that-drones-satellites-and-common-controls-reshape-isr",
-        "publishedAt": "2026-09-18T21:37:51+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -706,6 +706,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-03"
   ]
 }
