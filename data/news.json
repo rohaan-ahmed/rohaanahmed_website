@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T23:00:28+00:00",
+  "generatedAt": "2026-09-19T00:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-18T23:00:28+00:00",
+      "updatedAt": "2026-09-19T00:00:31+00:00",
       "stories": [
         {
           "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-18T23:00:28+00:00",
+      "updatedAt": "2026-09-19T00:00:31+00:00",
       "stories": [
         {
           "title": "Carney cites space in Canada-EU partnership pitch",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-18T23:00:28+00:00",
+      "updatedAt": "2026-09-19T00:00:31+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on Military Family Appreciation Day",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-18T23:00:28+00:00",
+      "updatedAt": "2026-09-19T00:00:31+00:00",
       "stories": [
         {
           "title": "Space Force to prototype new software to fuse commercial, military space tracking data",
@@ -308,12 +308,24 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-18T23:00:28+00:00",
+      "updatedAt": "2026-09-19T00:00:31+00:00",
       "stories": [
         {
-          "title": "Anthropic’s first embedded evaluator is … Accenture?",
-          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
-          "publishedAt": "2026-09-18T21:44:33+00:00",
+          "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+          "publishedAt": "2026-09-18T23:25:01+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Anthropic is operating a lab that conducts biology experiments",
+          "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
+          "publishedAt": "2026-09-18T23:13:31+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "AI hallucination nearly triggers US military operation",
+          "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
+          "publishedAt": "2026-09-18T23:12:32+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -327,18 +339,6 @@
           "url": "https://mvueh-enigma-solved.carterl.chatgpt.site/",
           "publishedAt": "2026-09-18T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "World model companies are keeping a lot of secrets",
-          "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets",
-          "publishedAt": "2026-09-18T20:18:14+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-          "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
-          "publishedAt": "2026-09-18T18:49:30+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "How Claude is uplifting biomolecular modeling (12 minute read)",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-18T23:00:28+00:00",
+      "updatedAt": "2026-09-19T00:00:31+00:00",
       "stories": [
         {
           "title": "The picks-and-shovels strategy behind the robotics boom",
@@ -501,22 +501,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-18T23:00:28+00:00",
+    "updatedAt": "2026-09-19T00:00:31+00:00",
     "stories": [
       {
-        "title": "Anthropic’s first embedded evaluator is … Accenture?",
-        "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture",
-        "publishedAt": "2026-09-18T21:44:33+00:00",
+        "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+        "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+        "publishedAt": "2026-09-18T23:25:01+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI’s new rules for reporting model misbehavior",
-        "url": "http://openai.com/index/model-misalignment-reporting-framework",
-        "publishedAt": "2026-09-18T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Anthropic is operating a lab that conducts biology experiments",
+        "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
+        "publishedAt": "2026-09-18T23:13:31+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
