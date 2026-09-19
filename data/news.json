@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-19T00:00:31+00:00",
+  "generatedAt": "2026-09-19T00:12:50+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-19T00:00:31+00:00",
+      "updatedAt": "2026-09-19T00:12:50+00:00",
       "stories": [
         {
           "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-19T00:00:31+00:00",
+      "updatedAt": "2026-09-19T00:12:50+00:00",
       "stories": [
+        {
+          "title": "The Weekly Close: MDA gains, index slips",
+          "url": "https://spaceq.ca/the-weekly-close-september-18-2026",
+          "publishedAt": "2026-09-19T00:11:26+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Carney cites space in Canada-EU partnership pitch",
           "url": "https://spaceq.ca/carney-cites-space-in-canada-eu-partnership-pitch",
@@ -156,19 +162,13 @@
           "url": "https://spaceq.ca/maverick-books-kepler-satellites-motus-via-sol",
           "publishedAt": "2026-09-15T11:06:00+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "Wyvern’s $230-million summit pitch is a full-program estimate",
-          "url": "https://spaceq.ca/wyverns-230-million-summit-pitch-is-a-full-program-estimate",
-          "publishedAt": "2026-09-14T21:05:49+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-19T00:00:31+00:00",
+      "updatedAt": "2026-09-19T00:12:50+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on Military Family Appreciation Day",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-19T00:00:31+00:00",
+      "updatedAt": "2026-09-19T00:12:50+00:00",
       "stories": [
         {
           "title": "Space Force to prototype new software to fuse commercial, military space tracking data",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-19T00:00:31+00:00",
+      "updatedAt": "2026-09-19T00:12:50+00:00",
       "stories": [
         {
           "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-19T00:00:31+00:00",
+      "updatedAt": "2026-09-19T00:12:50+00:00",
       "stories": [
         {
           "title": "The picks-and-shovels strategy behind the robotics boom",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-19T00:00:31+00:00",
+    "updatedAt": "2026-09-19T00:12:50+00:00",
     "stories": [
       {
         "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
@@ -522,9 +522,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Carney cites space in Canada-EU partnership pitch",
-        "url": "https://spaceq.ca/carney-cites-space-in-canada-eu-partnership-pitch",
-        "publishedAt": "2026-09-18T17:13:54+00:00",
+        "title": "The Weekly Close: MDA gains, index slips",
+        "url": "https://spaceq.ca/the-weekly-close-september-18-2026",
+        "publishedAt": "2026-09-19T00:11:26+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Carney cites space in Canada-EU partnership pitch",
+        "url": "https://spaceq.ca/carney-cites-space-in-canada-eu-partnership-pitch",
+        "publishedAt": "2026-09-18T17:13:54+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "ESA and The Pokémon Company International reveal Europe-wide exhibition and astronaut Pikachu experience",
         "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience",
         "publishedAt": "2026-09-18T22:01:00+00:00",
@@ -582,15 +591,6 @@
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Orange switches on first Telesat Lightspeed gateway",
-        "url": "https://spaceq.ca/orange-switches-on-first-telesat-lightspeed-gateway",
-        "publishedAt": "2026-09-18T11:23:00+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
