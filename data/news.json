@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-19T17:00:25+00:00",
+  "generatedAt": "2026-09-19T18:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-19T17:00:25+00:00",
+      "updatedAt": "2026-09-19T18:00:29+00:00",
       "stories": [
         {
           "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-19T17:00:25+00:00",
+      "updatedAt": "2026-09-19T18:00:29+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: New cargo ship launches to station as Crew-13 enters quarantine",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-19T17:00:25+00:00",
+      "updatedAt": "2026-09-19T18:00:29+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on Military Family Appreciation Day",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-19T17:00:25+00:00",
+      "updatedAt": "2026-09-19T18:00:29+00:00",
       "stories": [
         {
           "title": "Space Force to prototype new software to fuse commercial, military space tracking data",
@@ -308,17 +308,23 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-19T17:00:25+00:00",
+      "updatedAt": "2026-09-19T18:00:29+00:00",
       "stories": [
         {
-          "title": "AI safety conversations have gotten unbelievable",
-          "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable",
-          "publishedAt": "2026-09-19T15:00:00+00:00",
+          "title": "Google’s Gemini is the latest AI model to hack other companies",
+          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies",
+          "publishedAt": "2026-09-19T17:30:00+00:00",
           "source": "TechCrunch AI"
         },
         {
           "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
           "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes",
+          "publishedAt": "2026-09-19T15:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "AI safety conversations have gotten unbelievable",
+          "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable",
           "publishedAt": "2026-09-19T15:00:00+00:00",
           "source": "TechCrunch AI"
         },
@@ -338,12 +344,6 @@
           "title": "India forces caller-ID apps to feed spam reports to telcos",
           "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos",
           "publishedAt": "2026-09-19T01:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-          "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai",
-          "publishedAt": "2026-09-19T00:12:07+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-19T17:00:25+00:00",
+      "updatedAt": "2026-09-19T18:00:29+00:00",
       "stories": [
         {
           "title": "Hirebotics adds line tracking and linear rail capabilities to its cobots",
@@ -501,12 +501,12 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-19T17:00:25+00:00",
+    "updatedAt": "2026-09-19T18:00:29+00:00",
     "stories": [
       {
-        "title": "AI safety conversations have gotten unbelievable",
-        "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable",
-        "publishedAt": "2026-09-19T15:00:00+00:00",
+        "title": "Google’s Gemini is the latest AI model to hack other companies",
+        "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies",
+        "publishedAt": "2026-09-19T17:30:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "AI safety conversations have gotten unbelievable",
+        "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable",
+        "publishedAt": "2026-09-19T15:00:00+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
         "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now",
         "publishedAt": "2026-09-19T14:00:00+00:00",
@@ -582,15 +591,6 @@
         "source": "TechCrunch Robotics",
         "topicId": "robotics",
         "topicName": "Robotics",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "The Weekly Close: MDA gains, index slips",
-        "url": "https://spaceq.ca/the-weekly-close-september-18-2026",
-        "publishedAt": "2026-09-19T00:11:26+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -707,6 +707,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-07"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-08-24"
   ]
 }
