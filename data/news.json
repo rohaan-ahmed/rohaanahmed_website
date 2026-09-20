@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-20T04:00:28+00:00",
+  "generatedAt": "2026-09-20T05:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-20T04:00:28+00:00",
+      "updatedAt": "2026-09-20T05:00:30+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones",
+          "publishedAt": "2026-09-20T04:05:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
           "url": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs",
@@ -28,12 +34,6 @@
           "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
           "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony",
           "publishedAt": "2026-09-18T19:56:08+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
-          "url": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind",
-          "publishedAt": "2026-09-18T18:02:53+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-20T04:00:28+00:00",
+      "updatedAt": "2026-09-20T05:00:30+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: New cargo ship launches to station as Crew-13 enters quarantine",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-20T04:00:28+00:00",
+      "updatedAt": "2026-09-20T05:00:30+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on Military Family Appreciation Day",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-20T04:00:28+00:00",
+      "updatedAt": "2026-09-20T05:00:30+00:00",
       "stories": [
         {
           "title": "Space Force to prototype new software to fuse commercial, military space tracking data",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-20T04:00:28+00:00",
+      "updatedAt": "2026-09-20T05:00:30+00:00",
       "stories": [
         {
           "title": "Flock reportedly tries to shrink workforce with employee buyouts",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-20T04:00:28+00:00",
+      "updatedAt": "2026-09-20T05:00:30+00:00",
       "stories": [
         {
           "title": "Hirebotics adds line tracking and linear rail capabilities to its cobots",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-20T04:00:28+00:00",
+    "updatedAt": "2026-09-20T05:00:30+00:00",
     "stories": [
       {
         "title": "Flock reportedly tries to shrink workforce with employee buyouts",
@@ -531,10 +531,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
-        "url": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs",
-        "publishedAt": "2026-09-18T14:47:38+00:00",
-        "source": "SpaceNews",
+        "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones",
+        "publishedAt": "2026-09-20T04:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
