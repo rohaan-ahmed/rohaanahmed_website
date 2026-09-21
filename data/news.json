@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-21T14:00:32+00:00",
+  "generatedAt": "2026-09-21T15:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-21T14:00:32+00:00",
+      "updatedAt": "2026-09-21T15:00:32+00:00",
       "stories": [
+        {
+          "title": "Juice to fly past Earth for third gravity assist",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist",
+          "publishedAt": "2026-09-21T14:00:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "ESA brings public and private capital together to accelerate Europe’s space economy",
           "url": "https://www.esa.int/About_Us/Business_with_ESA/ESA_brings_public_and_private_capital_together_to_accelerate_Europe_s_space_economy",
@@ -55,12 +61,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Earth from Space: Laguna Colorada",
-          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada",
-          "publishedAt": "2026-09-18T08:00:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
           "url": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation",
           "publishedAt": "2026-09-17T15:05:15+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-21T14:00:32+00:00",
+      "updatedAt": "2026-09-21T15:00:32+00:00",
       "stories": [
         {
           "title": "Canada, Norway finalize space agreement, add industry deals",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-21T14:00:32+00:00",
+      "updatedAt": "2026-09-21T15:00:32+00:00",
       "stories": [
         {
           "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
@@ -211,8 +211,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-21T14:00:32+00:00",
+      "updatedAt": "2026-09-21T15:00:32+00:00",
       "stories": [
+        {
+          "title": "The Pentagon asked industry how fast it could make more weapons. The numbers remain private.",
+          "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/21/the-pentagon-asked-industry-how-fast-it-could-make-more-weapons-the-numbers-remain-private",
+          "publishedAt": "2026-09-21T14:22:27+00:00",
+          "source": "Defense News"
+        },
+        {
+          "title": "US watching Chinese marine presence off Alaska, Arctic Coast Guard chief says",
+          "url": "https://www.defensenews.com/news/your-military/2026/09/21/us-watching-chinese-marine-presence-off-alaska-arctic-coast-guard-chief-says",
+          "publishedAt": "2026-09-21T14:11:40+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "After hitting pilot training goal, resolving shortage will take years, Air Force official says",
           "url": "https://breakingdefense.com/2026/09/after-hitting-pilot-training-goal-resolving-shortage-will-take-years-air-force-official-says",
@@ -268,22 +280,10 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "US Air Force has a $14 billion supply hole, service officials say",
-          "url": "https://www.defensenews.com/news/your-military/2026/09/18/us-air-force-has-a-14-billion-supply-hole-service-officials-say",
-          "publishedAt": "2026-09-18T14:35:13+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Pentagon unveils top performers in latest ‘Gauntlet’ for Drone Dominance Program",
           "url": "https://defensescoop.com/2026/09/18/drone-dominance-program-gauntlet-2-results",
           "publishedAt": "2026-09-18T15:54:48+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
-          "url": "https://www.defensenews.com/global/europe/2026/09/18/latvia-chooses-czech-howitzers-over-swedish-archer-offer",
-          "publishedAt": "2026-09-18T11:01:43+00:00",
-          "source": "Defense News"
         },
         {
           "title": "Africom’s new Defense Economics Office set up to drive outsized security returns",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-21T14:00:32+00:00",
+      "updatedAt": "2026-09-21T15:00:32+00:00",
       "stories": [
         {
           "title": "OpenAI hacked by ‘three guys with Claude’",
@@ -321,6 +321,24 @@
           "url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18",
           "publishedAt": "2026-09-21T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+          "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini",
+          "publishedAt": "2026-09-21T14:39:22+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026",
+          "publishedAt": "2026-09-21T14:30:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026",
+          "publishedAt": "2026-09-21T14:15:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI's projected compute bill climbed to $856B (5 minute read)",
@@ -359,24 +377,6 @@
           "source": "TLDR AI"
         },
         {
-          "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
-          "publishedAt": "2026-09-20T21:41:08+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "World model companies are keeping a lot of secrets",
-          "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets",
-          "publishedAt": "2026-09-20T20:29:07+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Is the AI industry really ready to slow down?",
-          "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down",
-          "publishedAt": "2026-09-20T18:56:04+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "OpenAI’s new rules for reporting model misbehavior",
           "url": "http://openai.com/index/model-misalignment-reporting-framework",
           "publishedAt": "2026-09-18T10:00:00+00:00",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-21T14:00:32+00:00",
+      "updatedAt": "2026-09-21T15:00:32+00:00",
       "stories": [
         {
           "title": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoid robots",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-21T14:00:32+00:00",
+    "updatedAt": "2026-09-21T15:00:32+00:00",
     "stories": [
       {
         "title": "OpenAI hacked by ‘three guys with Claude’",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "ESA brings public and private capital together to accelerate Europe’s space economy",
-        "url": "https://www.esa.int/About_Us/Business_with_ESA/ESA_brings_public_and_private_capital_together_to_accelerate_Europe_s_space_economy",
-        "publishedAt": "2026-09-21T09:52:00+00:00",
+        "title": "Juice to fly past Earth for third gravity assist",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist",
+        "publishedAt": "2026-09-21T14:00:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -549,10 +549,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "After hitting pilot training goal, resolving shortage will take years, Air Force official says",
-        "url": "https://breakingdefense.com/2026/09/after-hitting-pilot-training-goal-resolving-shortage-will-take-years-air-force-official-says",
-        "publishedAt": "2026-09-21T13:04:59+00:00",
-        "source": "Breaking Defense",
+        "title": "The Pentagon asked industry how fast it could make more weapons. The numbers remain private.",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/21/the-pentagon-asked-industry-how-fast-it-could-make-more-weapons-the-numbers-remain-private",
+        "publishedAt": "2026-09-21T14:22:27+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -576,18 +576,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Hegseth to chair Pentagon’s new Homeland Defense advisory board",
-        "url": "https://www.defensenews.com/pentagon/2026/09/21/hegseth-to-chair-pentagons-new-homeland-defense-advisory-board",
-        "publishedAt": "2026-09-21T13:27:18+00:00",
+        "title": "US watching Chinese marine presence off Alaska, Arctic Coast Guard chief says",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/21/us-watching-chinese-marine-presence-off-alaska-arctic-coast-guard-chief-says",
+        "publishedAt": "2026-09-21T14:11:40+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "European-made Black Hawk gets an armed upgrade",
-        "url": "https://breakingdefense.com/2026/09/european-made-black-hawk-gets-an-armed-upgrade",
-        "publishedAt": "2026-09-21T12:09:00+00:00",
+        "title": "After hitting pilot training goal, resolving shortage will take years, Air Force official says",
+        "url": "https://breakingdefense.com/2026/09/after-hitting-pilot-training-goal-resolving-shortage-will-take-years-air-force-official-says",
+        "publishedAt": "2026-09-21T13:04:59+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
