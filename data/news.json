@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-09-21T11:00:29+00:00",
+  "generatedAt": "2026-09-21T12:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-21T11:00:29+00:00",
+      "updatedAt": "2026-09-21T12:00:34+00:00",
       "stories": [
         {
           "title": "ESA and ISRO extend and broaden cooperation agreement",
           "url": "https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement",
           "publishedAt": "2026-09-21T08:44:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
+          "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival",
+          "publishedAt": "2026-09-21T11:11:42+00:00",
+          "source": "NASA"
         },
         {
           "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
@@ -29,12 +35,6 @@
           "url": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs",
           "publishedAt": "2026-09-18T14:47:38+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "APOD: 2026 September 19 – A Zodiacal Night",
-          "url": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night",
-          "publishedAt": "2026-09-19T04:05:00+00:00",
-          "source": "NASA"
         },
         {
           "title": "ESA and The Pokémon Company International reveal Europe-wide exhibition and astronaut Pikachu experience",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-21T11:00:29+00:00",
+      "updatedAt": "2026-09-21T12:00:34+00:00",
       "stories": [
+        {
+          "title": "Carney, Macron direct new Canada-France space push",
+          "url": "https://spaceq.ca/carney-macron-direct-new-canada-france-space-push",
+          "publishedAt": "2026-09-21T11:16:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Weekly ISS update: New cargo ship launches to station as Crew-13 enters quarantine",
           "url": "https://spaceq.ca/weekly-iss-update-new-cargo-ship-launches-to-station-as-crew-13-enters-quarantine",
@@ -156,19 +162,13 @@
           "url": "https://spaceq.ca/canadensys-partners-with-growcer-on-dual-use-arctic-agriculture-project",
           "publishedAt": "2026-09-15T22:26:38+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "No permanent successor yet for Canadian Space Agency’s top job",
-          "url": "https://spaceq.ca/canadian-space-agency-without-a-permanent-president",
-          "publishedAt": "2026-09-15T19:48:12+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-21T11:00:29+00:00",
+      "updatedAt": "2026-09-21T12:00:34+00:00",
       "stories": [
         {
           "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-21T11:00:29+00:00",
+      "updatedAt": "2026-09-21T12:00:34+00:00",
       "stories": [
         {
           "title": "Denmark says NATO shares responsibility for Arctic security under Greenland deal",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-21T11:00:29+00:00",
+      "updatedAt": "2026-09-21T12:00:34+00:00",
       "stories": [
         {
           "title": "OpenAI hacked by ‘three guys with Claude’",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-21T11:00:29+00:00",
+      "updatedAt": "2026-09-21T12:00:34+00:00",
       "stories": [
         {
           "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-21T11:00:29+00:00",
+    "updatedAt": "2026-09-21T12:00:34+00:00",
     "stories": [
       {
         "title": "OpenAI hacked by ‘three guys with Claude’",
@@ -522,9 +522,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Weekly ISS update: New cargo ship launches to station as Crew-13 enters quarantine",
-        "url": "https://spaceq.ca/weekly-iss-update-new-cargo-ship-launches-to-station-as-crew-13-enters-quarantine",
-        "publishedAt": "2026-09-19T14:47:55+00:00",
+        "title": "Carney, Macron direct new Canada-France space push",
+        "url": "https://spaceq.ca/carney-macron-direct-new-canada-france-space-push",
+        "publishedAt": "2026-09-21T11:16:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
+        "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival",
+        "publishedAt": "2026-09-21T11:11:42+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
         "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field",
         "publishedAt": "2026-09-21T04:05:00+00:00",
@@ -579,15 +588,6 @@
         "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
         "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
         "publishedAt": "2026-09-20T21:41:08+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "World model companies are keeping a lot of secrets",
-        "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets",
-        "publishedAt": "2026-09-20T20:29:07+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -707,6 +707,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-04"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-07"
   ]
 }
