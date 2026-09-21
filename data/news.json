@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-09-21T18:00:27+00:00",
+  "generatedAt": "2026-09-21T19:00:36+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-21T18:00:27+00:00",
+      "updatedAt": "2026-09-21T19:00:36+00:00",
       "stories": [
         {
           "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
           "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members",
           "publishedAt": "2026-09-21T15:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
+          "url": "https://www.nasa.gov/image-article/nasa-astronaut-reid-wiseman-attends-ravens-vs-saints-game",
+          "publishedAt": "2026-09-21T18:43:13+00:00",
+          "source": "NASA"
         },
         {
           "title": "Juice to fly past Earth for third gravity assist",
@@ -41,12 +47,6 @@
           "url": "https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement",
           "publishedAt": "2026-09-21T08:44:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
-          "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival",
-          "publishedAt": "2026-09-21T11:11:42+00:00",
-          "source": "NASA"
         },
         {
           "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-21T18:00:27+00:00",
+      "updatedAt": "2026-09-21T19:00:36+00:00",
       "stories": [
         {
           "title": "Fall colour arrives early on Nunavut’s tundra, NASA satellite images show",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-21T18:00:27+00:00",
+      "updatedAt": "2026-09-21T19:00:36+00:00",
       "stories": [
         {
           "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
@@ -205,8 +205,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-21T18:00:27+00:00",
+      "updatedAt": "2026-09-21T19:00:36+00:00",
       "stories": [
+        {
+          "title": "The US needs an information-warfare strategy for Iran — and beyond",
+          "url": "https://breakingdefense.com/2026/09/the-us-needs-an-information-warfare-strategy-for-iran-and-beyond",
+          "publishedAt": "2026-09-21T18:46:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Feinberg’s closed-door meeting on the Hill",
           "url": "https://breakingdefense.com/2026/09/feinbergs-closed-door-meeting-on-the-hill",
@@ -262,12 +268,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Space Force to prototype new software to fuse commercial, military space tracking data",
-          "url": "https://breakingdefense.com/2026/09/space-force-to-prototype-new-software-to-fuse-commercial-military-space-tracking-data",
-          "publishedAt": "2026-09-18T21:41:13+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
           "url": "https://www.defensenews.com/industry/techwatch/2026/09/18/us-clears-way-for-243-billion-fighter-jet-sale-to-saudi-arabia",
           "publishedAt": "2026-09-18T17:44:31+00:00",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-21T18:00:27+00:00",
+      "updatedAt": "2026-09-21T19:00:36+00:00",
       "stories": [
         {
           "title": "OpenAI hacked by ‘three guys with Claude’",
@@ -399,8 +399,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-21T18:00:27+00:00",
+      "updatedAt": "2026-09-21T19:00:36+00:00",
       "stories": [
+        {
+          "title": "IAC completes autonomous racing event at Laguna Seca",
+          "url": "https://www.therobotreport.com/iac-completes-autonomous-racing-event-at-laguna-seca",
+          "publishedAt": "2026-09-21T18:02:09+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoids",
           "url": "https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots",
@@ -450,12 +456,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Neptune Medical earns FDA clearance for its Triton 1 robotic system",
-          "url": "https://www.therobotreport.com/neptune-medical-earns-fda-clearance-triton-1-robotic-system",
-          "publishedAt": "2026-09-18T13:22:16+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Two Birotors Make a Quadrotor",
           "url": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
           "publishedAt": "2026-09-18T16:01:05+00:00",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-21T18:00:27+00:00",
+    "updatedAt": "2026-09-21T19:00:36+00:00",
     "stories": [
       {
         "title": "OpenAI hacked by ‘three guys with Claude’",
@@ -543,18 +543,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Feinberg’s closed-door meeting on the Hill",
-        "url": "https://breakingdefense.com/2026/09/feinbergs-closed-door-meeting-on-the-hill",
-        "publishedAt": "2026-09-21T17:30:00+00:00",
+        "title": "The US needs an information-warfare strategy for Iran — and beyond",
+        "url": "https://breakingdefense.com/2026/09/the-us-needs-an-information-warfare-strategy-for-iran-and-beyond",
+        "publishedAt": "2026-09-21T18:46:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoids",
-        "url": "https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots",
-        "publishedAt": "2026-09-21T12:59:00+00:00",
+        "title": "IAC completes autonomous racing event at Laguna Seca",
+        "url": "https://www.therobotreport.com/iac-completes-autonomous-racing-event-at-laguna-seca",
+        "publishedAt": "2026-09-21T18:02:09+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -579,9 +579,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Air Force bids adieu to EC-130H electronic attack plane",
-        "url": "https://breakingdefense.com/2026/09/air-force-bids-adieu-to-ec-130h-electronic-attack-plane",
-        "publishedAt": "2026-09-21T16:20:54+00:00",
+        "title": "Feinberg’s closed-door meeting on the Hill",
+        "url": "https://breakingdefense.com/2026/09/feinbergs-closed-door-meeting-on-the-hill",
+        "publishedAt": "2026-09-21T17:30:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
