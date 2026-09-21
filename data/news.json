@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-09-21T19:19:39+00:00",
+  "generatedAt": "2026-09-21T20:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-21T19:19:39+00:00",
+      "updatedAt": "2026-09-21T20:00:29+00:00",
       "stories": [
         {
           "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
           "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members",
           "publishedAt": "2026-09-21T15:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Perseverance’s View of ‘Turquoise Bay’",
+          "url": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay",
+          "publishedAt": "2026-09-21T19:17:59+00:00",
+          "source": "NASA"
         },
         {
           "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
@@ -35,12 +41,6 @@
           "url": "https://www.esa.int/About_Us/Business_with_ESA/ESA_brings_public_and_private_capital_together_to_accelerate_Europe_s_space_economy",
           "publishedAt": "2026-09-21T09:52:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Widely Attended Gatherings (WAGs) Determinations",
-          "url": "https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags",
-          "publishedAt": "2026-09-21T12:59:26+00:00",
-          "source": "NASA"
         },
         {
           "title": "ESA and ISRO extend and broaden cooperation agreement",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-21T19:19:39+00:00",
+      "updatedAt": "2026-09-21T20:00:29+00:00",
       "stories": [
         {
           "title": "Fall colour arrives early on Nunavut’s tundra, NASA satellite images show",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-21T19:19:39+00:00",
+      "updatedAt": "2026-09-21T20:00:29+00:00",
       "stories": [
         {
           "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-21T19:19:39+00:00",
+      "updatedAt": "2026-09-21T20:00:29+00:00",
       "stories": [
         {
           "title": "Navy selects captain as new chief of information",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-21T19:19:39+00:00",
+      "updatedAt": "2026-09-21T20:00:29+00:00",
       "stories": [
         {
           "title": "OpenAI hacked by ‘three guys with Claude’",
@@ -317,6 +317,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+          "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026",
+          "publishedAt": "2026-09-21T19:25:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
           "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
           "publishedAt": "2026-09-21T19:19:21+00:00",
@@ -326,12 +332,6 @@
           "title": "Meta’s AI agent has been blocked from using Amazon.com",
           "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
           "publishedAt": "2026-09-21T17:55:18+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-          "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete",
-          "publishedAt": "2026-09-21T16:38:51+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-21T19:19:39+00:00",
+      "updatedAt": "2026-09-21T20:00:29+00:00",
       "stories": [
         {
           "title": "IAC completes autonomous racing event at Laguna Seca",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-21T19:19:39+00:00",
+    "updatedAt": "2026-09-21T20:00:29+00:00",
     "stories": [
       {
         "title": "OpenAI hacked by ‘three guys with Claude’",
