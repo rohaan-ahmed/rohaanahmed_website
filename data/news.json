@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-21T13:58:46+00:00",
+  "generatedAt": "2026-09-21T14:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-21T13:58:46+00:00",
+      "updatedAt": "2026-09-21T14:00:32+00:00",
       "stories": [
         {
           "title": "ESA brings public and private capital together to accelerate Europe’s space economy",
@@ -13,10 +13,28 @@
           "source": "European Space Agency"
         },
         {
+          "title": "Widely Attended Gatherings (WAGs) Determinations",
+          "url": "https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags",
+          "publishedAt": "2026-09-21T12:59:26+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "ESA and ISRO extend and broaden cooperation agreement",
           "url": "https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement",
           "publishedAt": "2026-09-21T08:44:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
+          "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival",
+          "publishedAt": "2026-09-21T11:11:42+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field",
+          "publishedAt": "2026-09-21T04:05:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
@@ -39,12 +57,6 @@
         {
           "title": "Earth from Space: Laguna Colorada",
           "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Laguna_Colorada",
-          "publishedAt": "2026-09-18T08:00:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
-          "title": "A galaxy spinning out of sync",
-          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
           "publishedAt": "2026-09-18T08:00:00+00:00",
           "source": "European Space Agency"
         },
@@ -83,25 +95,13 @@
           "url": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand",
           "publishedAt": "2026-09-15T06:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Sept. 23: What Comes Next for On-Orbit Servicing?",
-          "url": "https://spacenews.com/what-comes-next-for-on-orbit-servicing-event",
-          "publishedAt": "2026-09-14T17:09:21+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Space’s growing billion-dollar club",
-          "url": "https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence",
-          "publishedAt": "2026-09-14T15:35:10+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-21T13:58:46+00:00",
+      "updatedAt": "2026-09-21T14:00:32+00:00",
       "stories": [
         {
           "title": "Canada, Norway finalize space agreement, add industry deals",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-21T13:58:46+00:00",
+      "updatedAt": "2026-09-21T14:00:32+00:00",
       "stories": [
         {
           "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-21T13:58:46+00:00",
+      "updatedAt": "2026-09-21T14:00:32+00:00",
       "stories": [
         {
           "title": "After hitting pilot training goal, resolving shortage will take years, Air Force official says",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-21T13:58:46+00:00",
+      "updatedAt": "2026-09-21T14:00:32+00:00",
       "stories": [
         {
           "title": "OpenAI hacked by ‘three guys with Claude’",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-21T13:58:46+00:00",
+      "updatedAt": "2026-09-21T14:00:32+00:00",
       "stories": [
         {
           "title": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoid robots",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-21T13:58:46+00:00",
+    "updatedAt": "2026-09-21T14:00:32+00:00",
     "stories": [
       {
         "title": "OpenAI hacked by ‘three guys with Claude’",
@@ -706,7 +706,6 @@
     }
   ],
   "warnings": [
-    "NASA: 429 Client Error: Too Many Requests for url: https://www.nasa.gov/feed/",
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
   ]
 }
