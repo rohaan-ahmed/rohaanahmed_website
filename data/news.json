@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-21T10:00:31+00:00",
+  "generatedAt": "2026-09-21T11:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-21T10:00:31+00:00",
+      "updatedAt": "2026-09-21T11:00:29+00:00",
       "stories": [
         {
           "title": "ESA and ISRO extend and broaden cooperation agreement",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-21T10:00:31+00:00",
+      "updatedAt": "2026-09-21T11:00:29+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: New cargo ship launches to station as Crew-13 enters quarantine",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-21T10:00:31+00:00",
+      "updatedAt": "2026-09-21T11:00:29+00:00",
       "stories": [
         {
           "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-21T10:00:31+00:00",
+      "updatedAt": "2026-09-21T11:00:29+00:00",
       "stories": [
         {
           "title": "Denmark says NATO shares responsibility for Arctic security under Greenland deal",
@@ -308,8 +308,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-21T10:00:31+00:00",
+      "updatedAt": "2026-09-21T11:00:29+00:00",
       "stories": [
+        {
+          "title": "OpenAI hacked by ‘three guys with Claude’",
+          "url": "https://www.hacktron.ai/blog/hacking-openai",
+          "publishedAt": "2026-09-21T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic moves its biology push into a real lab",
+          "url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18",
+          "publishedAt": "2026-09-21T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
           "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
@@ -387,25 +399,13 @@
           "url": "https://apnews.com/article/trump-ai-guardrails-data-centers-b85df16775ff7e9611a456b061a0e4b9",
           "publishedAt": "2026-09-15T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Apple finally starts shipping Siri AI upgrade",
-          "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
-          "publishedAt": "2026-09-15T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Microsoft AI drafts the rulebook for ‘Humanist AI’",
-          "url": "https://microsoft.ai/code-of-conduct",
-          "publishedAt": "2026-09-15T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-21T10:00:31+00:00",
+      "updatedAt": "2026-09-21T11:00:29+00:00",
       "stories": [
         {
           "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
@@ -501,22 +501,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-21T10:00:31+00:00",
+    "updatedAt": "2026-09-21T11:00:29+00:00",
     "stories": [
       {
-        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
-        "publishedAt": "2026-09-20T21:41:08+00:00",
-        "source": "TechCrunch AI",
+        "title": "OpenAI hacked by ‘three guys with Claude’",
+        "url": "https://www.hacktron.ai/blog/hacking-openai",
+        "publishedAt": "2026-09-21T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "World model companies are keeping a lot of secrets",
-        "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets",
-        "publishedAt": "2026-09-20T20:29:07+00:00",
-        "source": "TechCrunch AI",
+        "title": "Anthropic moves its biology push into a real lab",
+        "url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18",
+        "publishedAt": "2026-09-21T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -576,18 +576,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Is the AI industry really ready to slow down?",
-        "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down",
-        "publishedAt": "2026-09-20T18:56:04+00:00",
+        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
+        "publishedAt": "2026-09-20T21:41:08+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-        "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking",
-        "publishedAt": "2026-09-20T18:32:52+00:00",
+        "title": "World model companies are keeping a lot of secrets",
+        "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets",
+        "publishedAt": "2026-09-20T20:29:07+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -707,6 +707,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-02"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-04"
   ]
 }
