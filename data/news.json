@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-21T09:00:33+00:00",
+  "generatedAt": "2026-09-21T10:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-21T09:00:33+00:00",
+      "updatedAt": "2026-09-21T10:00:31+00:00",
       "stories": [
+        {
+          "title": "ESA and ISRO extend and broaden cooperation agreement",
+          "url": "https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement",
+          "publishedAt": "2026-09-21T08:44:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
           "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field",
@@ -85,12 +91,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "ESA starts next phase of IRIS² evolution through Low-LEO activities",
-          "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_starts_next_phase_of_IRIS2_evolution_through_Low-LEO_activities",
-          "publishedAt": "2026-09-17T08:07:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Iceye’s global presence expands to address sovereign demand",
           "url": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand",
           "publishedAt": "2026-09-15T06:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-21T09:00:33+00:00",
+      "updatedAt": "2026-09-21T10:00:31+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: New cargo ship launches to station as Crew-13 enters quarantine",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-21T09:00:33+00:00",
+      "updatedAt": "2026-09-21T10:00:31+00:00",
       "stories": [
         {
           "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
@@ -211,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-21T09:00:33+00:00",
+      "updatedAt": "2026-09-21T10:00:31+00:00",
       "stories": [
+        {
+          "title": "Denmark says NATO shares responsibility for Arctic security under Greenland deal",
+          "url": "https://www.defensenews.com/global/europe/2026/09/21/denmark-says-nato-shares-responsibility-for-arctic-security-under-greenland-deal",
+          "publishedAt": "2026-09-21T09:52:22+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Space Force to prototype new software to fuse commercial, military space tracking data",
           "url": "https://breakingdefense.com/2026/09/space-force-to-prototype-new-software-to-fuse-commercial-military-space-tracking-data",
@@ -280,12 +286,6 @@
           "source": "Defense News"
         },
         {
-          "title": "US Air Force to extend service of B-1, B-2 bombers, official says",
-          "url": "https://www.defensenews.com/news/your-military/2026/09/17/us-air-force-to-extend-service-of-b-1-b-2-bombers-official-says",
-          "publishedAt": "2026-09-17T20:28:00+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Africom’s new Defense Economics Office set up to drive outsized security returns",
           "url": "https://defensescoop.com/2026/09/17/africom-defense-economics-office",
           "publishedAt": "2026-09-17T22:03:33+00:00",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-21T09:00:33+00:00",
+      "updatedAt": "2026-09-21T10:00:31+00:00",
       "stories": [
         {
           "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
@@ -329,6 +329,24 @@
           "source": "TechCrunch AI"
         },
         {
+          "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+          "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking",
+          "publishedAt": "2026-09-20T18:32:52+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "ScrollEd wants to turn textbooks into TikTok",
+          "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok",
+          "publishedAt": "2026-09-20T18:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+          "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts",
+          "publishedAt": "2026-09-19T20:39:13+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "OpenAI’s new rules for reporting model misbehavior",
           "url": "http://openai.com/index/model-misalignment-reporting-framework",
           "publishedAt": "2026-09-18T10:00:00+00:00",
@@ -339,42 +357,6 @@
           "url": "https://mvueh-enigma-solved.carterl.chatgpt.site/",
           "publishedAt": "2026-09-18T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "How Claude is uplifting biomolecular modeling (12 minute read)",
-          "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Google wants to give your family its own cloud computer (4 minute read)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Projects redesigned: from folder to conversation (4 minute read)",
-          "url": "https://claude.com/blog/projects-redesigned",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement (72 minute read)",
-          "url": "https://www.dwarkesh.com/p/noam-brown",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "LLM Classification Is Feature Engineering (20 minute read)",
-          "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Anthropic says its AI now does a quarter of its research work (25 minute read)",
-          "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-          "publishedAt": "2026-09-18T00:00:00+00:00",
-          "source": "TLDR AI"
         },
         {
           "title": "Google DeepMind starts an AGI think tank",
@@ -399,13 +381,31 @@
           "url": "https://arxiv.org/pdf/2609.11873",
           "publishedAt": "2026-09-16T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Trump, Beijing both shoot down the AI slowdown",
+          "url": "https://apnews.com/article/trump-ai-guardrails-data-centers-b85df16775ff7e9611a456b061a0e4b9",
+          "publishedAt": "2026-09-15T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Apple finally starts shipping Siri AI upgrade",
+          "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+          "publishedAt": "2026-09-15T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Microsoft AI drafts the rulebook for ‘Humanist AI’",
+          "url": "https://microsoft.ai/code-of-conduct",
+          "publishedAt": "2026-09-15T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-21T09:00:33+00:00",
+      "updatedAt": "2026-09-21T10:00:31+00:00",
       "stories": [
         {
           "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-21T09:00:33+00:00",
+    "updatedAt": "2026-09-21T10:00:31+00:00",
     "stories": [
       {
         "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
@@ -531,10 +531,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field",
-        "publishedAt": "2026-09-21T04:05:00+00:00",
-        "source": "NASA",
+        "title": "ESA and ISRO extend and broaden cooperation agreement",
+        "url": "https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement",
+        "publishedAt": "2026-09-21T08:44:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -549,10 +549,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Space Force to prototype new software to fuse commercial, military space tracking data",
-        "url": "https://breakingdefense.com/2026/09/space-force-to-prototype-new-software-to-fuse-commercial-military-space-tracking-data",
-        "publishedAt": "2026-09-18T21:41:13+00:00",
-        "source": "Breaking Defense",
+        "title": "Denmark says NATO shares responsibility for Arctic security under Greenland deal",
+        "url": "https://www.defensenews.com/global/europe/2026/09/21/denmark-says-nato-shares-responsibility-for-arctic-security-under-greenland-deal",
+        "publishedAt": "2026-09-21T09:52:22+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field",
+        "publishedAt": "2026-09-21T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Is the AI industry really ready to slow down?",
         "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down",
         "publishedAt": "2026-09-20T18:56:04+00:00",
@@ -576,21 +585,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "What do you do with a humanoid robot when it breaks down?",
-        "url": "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down",
-        "publishedAt": "2026-09-20T12:45:45+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones",
-        "publishedAt": "2026-09-20T04:05:00+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+        "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking",
+        "publishedAt": "2026-09-20T18:32:52+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -706,6 +706,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-02"
   ]
 }
