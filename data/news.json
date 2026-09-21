@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-21T04:00:30+00:00",
+  "generatedAt": "2026-09-21T05:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-21T04:00:30+00:00",
+      "updatedAt": "2026-09-21T05:00:31+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field",
+          "publishedAt": "2026-09-21T04:05:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
           "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones",
@@ -29,12 +35,6 @@
           "url": "https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_The_Pokemon_Company_International_reveal_Europe-wide_exhibition_and_astronaut_Pikachu_experience",
           "publishedAt": "2026-09-18T22:01:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
-          "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony",
-          "publishedAt": "2026-09-18T19:56:08+00:00",
-          "source": "NASA"
         },
         {
           "title": "Week in images: 14-18 Sep 2026",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-21T04:00:30+00:00",
+      "updatedAt": "2026-09-21T05:00:31+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: New cargo ship launches to station as Crew-13 enters quarantine",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-21T04:00:30+00:00",
+      "updatedAt": "2026-09-21T05:00:31+00:00",
       "stories": [
         {
           "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-21T04:00:30+00:00",
+      "updatedAt": "2026-09-21T05:00:31+00:00",
       "stories": [
         {
           "title": "Space Force to prototype new software to fuse commercial, military space tracking data",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-21T04:00:30+00:00",
+      "updatedAt": "2026-09-21T05:00:31+00:00",
       "stories": [
         {
           "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-21T04:00:30+00:00",
+      "updatedAt": "2026-09-21T05:00:31+00:00",
       "stories": [
         {
           "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-21T04:00:30+00:00",
+    "updatedAt": "2026-09-21T05:00:31+00:00",
     "stories": [
       {
         "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones",
-        "publishedAt": "2026-09-20T04:05:00+00:00",
+        "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field",
+        "publishedAt": "2026-09-21T04:05:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -585,12 +585,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Hirebotics adds line tracking and linear rail capabilities to its cobots",
-        "url": "https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots",
-        "publishedAt": "2026-09-19T12:40:50+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
+        "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones",
+        "publishedAt": "2026-09-20T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
