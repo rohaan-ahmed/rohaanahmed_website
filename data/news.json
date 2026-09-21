@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-21T15:00:32+00:00",
+  "generatedAt": "2026-09-21T16:00:37+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-21T15:00:32+00:00",
+      "updatedAt": "2026-09-21T16:00:37+00:00",
       "stories": [
+        {
+          "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
+          "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members",
+          "publishedAt": "2026-09-21T15:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Juice to fly past Earth for third gravity assist",
           "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist",
@@ -89,19 +95,13 @@
           "url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight",
           "publishedAt": "2026-09-17T13:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Iceye’s global presence expands to address sovereign demand",
-          "url": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand",
-          "publishedAt": "2026-09-15T06:00:00+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-21T15:00:32+00:00",
+      "updatedAt": "2026-09-21T16:00:37+00:00",
       "stories": [
         {
           "title": "Canada, Norway finalize space agreement, add industry deals",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-21T15:00:32+00:00",
+      "updatedAt": "2026-09-21T16:00:37+00:00",
       "stories": [
         {
           "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
@@ -199,19 +199,13 @@
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/statement-on-canadas-participation-in-multilateral-maritime-cooperative-activity.html",
           "publishedAt": "2026-09-14T12:43:17+00:00",
           "source": "National Defence"
-        },
-        {
-          "title": "Statement from the Minister of National Defence on the 25th Anniversary of 9/11",
-          "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/statement-from-the-minister-of-national-defence-on-the-25th-anniversary-of-911.html",
-          "publishedAt": "2026-09-11T16:00:00+00:00",
-          "source": "National Defence"
         }
       ]
     },
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-21T15:00:32+00:00",
+      "updatedAt": "2026-09-21T16:00:37+00:00",
       "stories": [
         {
           "title": "The Pentagon asked industry how fast it could make more weapons. The numbers remain private.",
@@ -308,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-21T15:00:32+00:00",
+      "updatedAt": "2026-09-21T16:00:37+00:00",
       "stories": [
         {
           "title": "OpenAI hacked by ‘three guys with Claude’",
@@ -323,6 +317,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026",
+          "publishedAt": "2026-09-21T15:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
           "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini",
           "publishedAt": "2026-09-21T14:39:22+00:00",
@@ -332,12 +332,6 @@
           "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
           "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026",
           "publishedAt": "2026-09-21T14:30:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026",
-          "publishedAt": "2026-09-21T14:15:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -405,10 +399,10 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-21T15:00:32+00:00",
+      "updatedAt": "2026-09-21T16:00:37+00:00",
       "stories": [
         {
-          "title": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoid robots",
+          "title": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoids",
           "url": "https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots",
           "publishedAt": "2026-09-21T12:59:00+00:00",
           "source": "The Robot Report"
@@ -456,6 +450,12 @@
           "source": "The Robot Report"
         },
         {
+          "title": "Neptune Medical earns FDA clearance for its Triton 1 robotic system",
+          "url": "https://www.therobotreport.com/neptune-medical-earns-fda-clearance-triton-1-robotic-system",
+          "publishedAt": "2026-09-18T13:22:16+00:00",
+          "source": "The Robot Report"
+        },
+        {
           "title": "Video Friday: Two Birotors Make a Quadrotor",
           "url": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
           "publishedAt": "2026-09-18T16:01:05+00:00",
@@ -490,18 +490,12 @@
           "url": "https://spectrum.ieee.org/humanoid-robot-safety",
           "publishedAt": "2026-09-15T15:22:30+00:00",
           "source": "IEEE Spectrum Robotics"
-        },
-        {
-          "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
-          "url": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
-          "publishedAt": "2026-09-11T15:30:04+00:00",
-          "source": "IEEE Spectrum Robotics"
         }
       ]
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-21T15:00:32+00:00",
+    "updatedAt": "2026-09-21T16:00:37+00:00",
     "stories": [
       {
         "title": "OpenAI hacked by ‘three guys with Claude’",
@@ -531,10 +525,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Juice to fly past Earth for third gravity assist",
-        "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist",
-        "publishedAt": "2026-09-21T14:00:00+00:00",
-        "source": "European Space Agency",
+        "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
+        "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members",
+        "publishedAt": "2026-09-21T15:00:00+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -558,7 +552,7 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoid robots",
+        "title": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoids",
         "url": "https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots",
         "publishedAt": "2026-09-21T12:59:00+00:00",
         "source": "The Robot Report",
@@ -576,19 +570,19 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "Juice to fly past Earth for third gravity assist",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist",
+        "publishedAt": "2026-09-21T14:00:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "US watching Chinese marine presence off Alaska, Arctic Coast Guard chief says",
         "url": "https://www.defensenews.com/news/your-military/2026/09/21/us-watching-chinese-marine-presence-off-alaska-arctic-coast-guard-chief-says",
         "publishedAt": "2026-09-21T14:11:40+00:00",
         "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "After hitting pilot training goal, resolving shortage will take years, Air Force official says",
-        "url": "https://breakingdefense.com/2026/09/after-hitting-pilot-training-goal-resolving-shortage-will-take-years-air-force-official-says",
-        "publishedAt": "2026-09-21T13:04:59+00:00",
-        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
