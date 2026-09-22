@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T14:00:29+00:00",
+  "generatedAt": "2026-09-22T15:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-22T14:00:29+00:00",
+      "updatedAt": "2026-09-22T15:00:30+00:00",
       "stories": [
         {
           "title": "A call to boost European space exploration",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-22T14:00:29+00:00",
+      "updatedAt": "2026-09-22T15:00:30+00:00",
       "stories": [
+        {
+          "title": "McGill Institute of Air and Space Law marks 75 years of shaping global policy",
+          "url": "https://spaceq.ca/mcgill-institute-of-air-and-space-law-marks-75-years-of-shaping-global-policy",
+          "publishedAt": "2026-09-22T14:15:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "UK’s new space strategy leans on Europe — where Canada fits",
           "url": "https://spaceq.ca/uks-new-space-strategy-leans-on-europe-where-canada-fits",
@@ -156,19 +162,13 @@
           "url": "https://spaceq.ca/bdc-defence-platform-space",
           "publishedAt": "2026-09-17T18:10:06+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "MDA unveils CHORUS Earth observation portfolio ahead of launch",
-          "url": "https://spaceq.ca/mda-unveils-chorus-earth-observation-portfolio-ahead-of-launch",
-          "publishedAt": "2026-09-17T16:30:39+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-22T14:00:29+00:00",
+      "updatedAt": "2026-09-22T15:00:30+00:00",
       "stories": [
         {
           "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
@@ -205,8 +205,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-22T14:00:29+00:00",
+      "updatedAt": "2026-09-22T15:00:30+00:00",
       "stories": [
+        {
+          "title": "The big news out of AFA, plus a guided tour of the show floor",
+          "url": "https://breakingdefense.com/2026/09/the-big-news-out-of-afa-plus-a-guided-tour-of-the-show-floor",
+          "publishedAt": "2026-09-22T14:50:18+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "The Army’s Digital Transformation: Inside TechNet Augusta 2026",
           "url": "https://breakingdefense.com/2026/09/the-armys-digital-transformation-inside-technet-augusta-2026",
@@ -247,12 +253,6 @@
           "title": "The US needs an information-warfare strategy for Iran — and beyond",
           "url": "https://breakingdefense.com/2026/09/the-us-needs-an-information-warfare-strategy-for-iran-and-beyond",
           "publishedAt": "2026-09-21T18:46:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Feinberg’s closed-door meeting on the Hill",
-          "url": "https://breakingdefense.com/2026/09/feinbergs-closed-door-meeting-on-the-hill",
-          "publishedAt": "2026-09-21T17:30:00+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-22T14:00:29+00:00",
+      "updatedAt": "2026-09-22T15:00:30+00:00",
       "stories": [
         {
           "title": "Amazon blocks Meta’s Muse agent",
@@ -323,57 +323,39 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Anthropic tests Fable 5.2 and Opus 5.5 ahead of the release (3 minute read)",
-          "url": "https://www.testingcatalog.com/anthropic-tests-fable-5-2-and-opus-5-5-ahead-of-the-release",
-          "publishedAt": "2026-09-22T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+          "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
+          "publishedAt": "2026-09-22T15:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Xiaomi open-sources MiMo-V2.6 Pro and Flash models (2 minute read)",
-          "url": "https://www.testingcatalog.com/xiaomi-open-sources-mimo-v2-6-pro-and-flash-models",
-          "publishedAt": "2026-09-22T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "AstroForge is putting AI in command of its next spacecraft",
+          "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft",
+          "publishedAt": "2026-09-22T15:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Introducing Grok 4.7 (3 minute read)",
-          "url": "https://x.ai/news/grok-4-7",
-          "publishedAt": "2026-09-22T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+          "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage",
+          "publishedAt": "2026-09-22T14:30:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads (4 minute read)",
-          "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
-          "publishedAt": "2026-09-22T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30",
+          "publishedAt": "2026-09-22T14:15:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Swarm Scaling (13 minute read)",
-          "url": "https://www.tobyord.com/writing/swarm-scaling",
-          "publishedAt": "2026-09-22T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Great Unbundling of Intelligence (8 minute read)",
-          "url": "https://x.com/JayaGup10/status/2101799427145183571",
-          "publishedAt": "2026-09-22T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026",
+          "publishedAt": "2026-09-22T14:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Everyone can find a reason to dislike data center construction",
           "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction",
           "publishedAt": "2026-09-22T13:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-          "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again",
-          "publishedAt": "2026-09-22T12:23:05+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-          "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping",
-          "publishedAt": "2026-09-21T23:44:28+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -393,13 +375,31 @@
           "url": "http://openai.com/index/model-misalignment-reporting-framework",
           "publishedAt": "2026-09-18T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "GPT-6 Astra helps crack unsolved WWII message",
+          "url": "https://mvueh-enigma-solved.carterl.chatgpt.site/",
+          "publishedAt": "2026-09-18T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Google DeepMind starts an AGI think tank",
+          "url": "https://institute.deepmind.com/essays/introducing-the-deepmind-institute",
+          "publishedAt": "2026-09-17T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "ChatGPT co-creator launches new kind of AI model",
+          "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+          "publishedAt": "2026-09-16T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-22T14:00:29+00:00",
+      "updatedAt": "2026-09-22T15:00:30+00:00",
       "stories": [
         {
           "title": "Intrinsic open sources key parts of its platform for easier development",
@@ -408,10 +408,34 @@
           "source": "The Robot Report"
         },
         {
+          "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+          "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
+          "publishedAt": "2026-09-22T15:00:00+00:00",
+          "source": "TechCrunch Robotics"
+        },
+        {
           "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
           "url": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
           "publishedAt": "2026-09-22T14:00:04+00:00",
           "source": "IEEE Spectrum Robotics"
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+          "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage",
+          "publishedAt": "2026-09-22T14:30:00+00:00",
+          "source": "TechCrunch Robotics"
+        },
+        {
+          "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30",
+          "publishedAt": "2026-09-22T14:15:00+00:00",
+          "source": "TechCrunch Robotics"
+        },
+        {
+          "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026",
+          "publishedAt": "2026-09-22T14:00:00+00:00",
+          "source": "TechCrunch Robotics"
         },
         {
           "title": "IAC completes autonomous racing event at Laguna Seca",
@@ -444,12 +468,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Prices go up in 7 days — get your Disrupt ticket now",
-          "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now",
-          "publishedAt": "2026-09-19T14:00:00+00:00",
-          "source": "TechCrunch Robotics"
-        },
-        {
           "title": "The picks-and-shovels strategy behind the robotics boom",
           "url": "https://www.therobotreport.com/the-picks-and-shovels-strategy-behind-the-robotics-boom",
           "publishedAt": "2026-09-18T18:57:36+00:00",
@@ -462,28 +480,10 @@
           "source": "IEEE Spectrum Robotics"
         },
         {
-          "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026",
-          "publishedAt": "2026-09-18T14:00:00+00:00",
-          "source": "TechCrunch Robotics"
-        },
-        {
           "title": "Rethinking Robot Safety in the Age of AI",
           "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
           "publishedAt": "2026-09-16T16:51:02+00:00",
           "source": "IEEE Spectrum Robotics"
-        },
-        {
-          "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026",
-          "publishedAt": "2026-09-16T15:00:00+00:00",
-          "source": "TechCrunch Robotics"
-        },
-        {
-          "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-          "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed",
-          "publishedAt": "2026-09-16T14:15:00+00:00",
-          "source": "TechCrunch Robotics"
         },
         {
           "title": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-22T14:00:29+00:00",
+    "updatedAt": "2026-09-22T15:00:30+00:00",
     "stories": [
       {
         "title": "Amazon blocks Meta’s Muse agent",
@@ -516,9 +516,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "UK’s new space strategy leans on Europe — where Canada fits",
-        "url": "https://spaceq.ca/uks-new-space-strategy-leans-on-europe-where-canada-fits",
-        "publishedAt": "2026-09-22T11:28:00+00:00",
+        "title": "McGill Institute of Air and Space Law marks 75 years of shaping global policy",
+        "url": "https://spaceq.ca/mcgill-institute-of-air-and-space-law-marks-75-years-of-shaping-global-policy",
+        "publishedAt": "2026-09-22T14:15:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The Army’s Digital Transformation: Inside TechNet Augusta 2026",
-        "url": "https://breakingdefense.com/2026/09/the-armys-digital-transformation-inside-technet-augusta-2026",
-        "publishedAt": "2026-09-22T13:48:21+00:00",
+        "title": "The big news out of AFA, plus a guided tour of the show floor",
+        "url": "https://breakingdefense.com/2026/09/the-big-news-out-of-afa-plus-a-guided-tour-of-the-show-floor",
+        "publishedAt": "2026-09-22T14:50:18+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -561,6 +561,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "UK’s new space strategy leans on Europe — where Canada fits",
+        "url": "https://spaceq.ca/uks-new-space-strategy-leans-on-europe-where-canada-fits",
+        "publishedAt": "2026-09-22T11:28:00+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Researchers find a ‘pain’ signal inside AI models",
         "url": "https://arxiv.org/pdf/2609.16247",
         "publishedAt": "2026-09-22T10:00:00+00:00",
@@ -570,19 +579,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Boeing picks Lite Coms for Aussie BLOS SATCOM terminals",
-        "url": "https://breakingdefense.com/2026/09/boeing-picks-lite-coms-for-aussie-blos-satcom-terminals",
-        "publishedAt": "2026-09-22T13:40:51+00:00",
+        "title": "The Army’s Digital Transformation: Inside TechNet Augusta 2026",
+        "url": "https://breakingdefense.com/2026/09/the-armys-digital-transformation-inside-technet-augusta-2026",
+        "publishedAt": "2026-09-22T13:48:21+00:00",
         "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "US to open two new military bases in Greenland, sources say",
-        "url": "https://www.defensenews.com/global/europe/2026/09/22/us-to-open-two-new-military-bases-in-greenland-sources-say",
-        "publishedAt": "2026-09-22T13:03:04+00:00",
-        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
@@ -700,6 +700,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-08"
   ]
 }
