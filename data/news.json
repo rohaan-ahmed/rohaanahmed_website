@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T21:00:30+00:00",
+  "generatedAt": "2026-09-22T22:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-22T21:00:30+00:00",
+      "updatedAt": "2026-09-22T22:00:29+00:00",
       "stories": [
         {
           "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-22T21:00:30+00:00",
+      "updatedAt": "2026-09-22T22:00:29+00:00",
       "stories": [
         {
           "title": "RSAT Space to sell INNOSPACE launch services in Canada",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-22T21:00:30+00:00",
+      "updatedAt": "2026-09-22T22:00:29+00:00",
       "stories": [
         {
           "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
@@ -205,8 +205,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-22T21:00:30+00:00",
+      "updatedAt": "2026-09-22T22:00:29+00:00",
       "stories": [
+        {
+          "title": "Air Force says China Aerospace Studies Institute will continue, despite civilian cuts",
+          "url": "https://breakingdefense.com/2026/09/air-force-says-china-aerospace-studies-institute-will-continue-despite-civilian-cuts",
+          "publishedAt": "2026-09-22T21:46:08+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Australian MQ-4C Tritons, MC-55A Peregrines reach Initial Operational Capability",
           "url": "https://breakingdefense.com/2026/09/australian-mq-4c-tritons-mc-55a-peregrines-reach-initial-operational-capability",
@@ -230,6 +236,18 @@
           "url": "https://breakingdefense.com/2026/09/aussie-defense-chief-confirms-missing-f-35-parts-says-none-are-sensitive",
           "publishedAt": "2026-09-22T17:50:07+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "More than 100K personnel use Maven Smart System: Pentagon official",
+          "url": "https://defensescoop.com/2026/09/22/maven-smart-system-ai-james-mazol-cameron-stanley-defensetalks",
+          "publishedAt": "2026-09-22T21:20:22+00:00",
+          "source": "DefenseScoop"
+        },
+        {
+          "title": "AI to help make logistics less predictable and vulnerable to adversaries, Transcom commander says",
+          "url": "https://defensescoop.com/2026/09/22/ai-contested-logistics-defensetalks-gen-randall-reed",
+          "publishedAt": "2026-09-22T21:01:00+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Royal Navy successfully launches US Mk 48 torpedo from uncrewed submersible",
@@ -274,27 +292,9 @@
           "source": "Defense News"
         },
         {
-          "title": "The big news out of AFA, plus a guided tour of the show floor",
-          "url": "https://breakingdefense.com/2026/09/the-big-news-out-of-afa-plus-a-guided-tour-of-the-show-floor",
-          "publishedAt": "2026-09-22T14:50:18+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "III Armored Corps receiving baseline NGC2 capabilities",
           "url": "https://defensescoop.com/2026/09/21/iii-armored-corps-receiving-baseline-ngc2-capabilities",
           "publishedAt": "2026-09-21T20:05:19+00:00",
-          "source": "DefenseScoop"
-        },
-        {
-          "title": "Pentagon taps Northrop Grumman, True Anomaly for recon satellites that can monitor other space systems",
-          "url": "https://defensescoop.com/2026/09/21/ghostr-satellite-program-contract-awards-northrop-grumman-true-anomaly",
-          "publishedAt": "2026-09-21T17:14:39+00:00",
-          "source": "DefenseScoop"
-        },
-        {
-          "title": "AAFES investigating ‘suspicious’ messages sent to military customers through email and store’s official app",
-          "url": "https://defensescoop.com/2026/09/18/aafes-investigating-suspicious-messages-sent-to-military-customers",
-          "publishedAt": "2026-09-18T20:15:49+00:00",
           "source": "DefenseScoop"
         }
       ]
@@ -302,8 +302,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-22T21:00:30+00:00",
+      "updatedAt": "2026-09-22T22:00:29+00:00",
       "stories": [
+        {
+          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+          "publishedAt": "2026-09-22T21:56:43+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Amazon blocks Meta’s Muse agent",
           "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping",
@@ -332,12 +338,6 @@
           "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
           "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence",
           "publishedAt": "2026-09-22T19:09:11+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
-          "publishedAt": "2026-09-22T18:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -399,8 +399,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-22T21:00:30+00:00",
+      "updatedAt": "2026-09-22T22:00:29+00:00",
       "stories": [
+        {
+          "title": "Intel to discuss the infrastructure needed to scale physical AI at RoboBusiness",
+          "url": "https://www.therobotreport.com/intel-discusses-infrastructure-needed-to-scale-physical-ai-robobusiness",
+          "publishedAt": "2026-09-22T21:31:19+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Isaac ROS 5.0 brings AI agents to robotics development, says NVIDIA",
           "url": "https://www.therobotreport.com/isaac-ros-5-0-brings-ai-agents-robotics-development-says-nvidia",
@@ -462,12 +468,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Hirebotics adds line tracking and linear rail capabilities to its cobots",
-          "url": "https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots",
-          "publishedAt": "2026-09-19T12:40:50+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Prices go up in 7 days — get your Disrupt ticket now",
           "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now",
           "publishedAt": "2026-09-19T14:00:00+00:00",
@@ -495,20 +495,20 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-22T21:00:30+00:00",
+    "updatedAt": "2026-09-22T22:00:29+00:00",
     "stories": [
       {
-        "title": "Amazon blocks Meta’s Muse agent",
-        "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping",
-        "publishedAt": "2026-09-22T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+        "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+        "publishedAt": "2026-09-22T21:56:43+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Trump wants an ‘AI Force’ to guard U.S. lead",
-        "url": "https://www.bbc.com/news/articles/cqlykr2vrv04o",
+        "title": "Amazon blocks Meta’s Muse agent",
+        "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping",
         "publishedAt": "2026-09-22T10:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
@@ -543,18 +543,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Australian MQ-4C Tritons, MC-55A Peregrines reach Initial Operational Capability",
-        "url": "https://breakingdefense.com/2026/09/australian-mq-4c-tritons-mc-55a-peregrines-reach-initial-operational-capability",
-        "publishedAt": "2026-09-22T18:40:00+00:00",
+        "title": "Air Force says China Aerospace Studies Institute will continue, despite civilian cuts",
+        "url": "https://breakingdefense.com/2026/09/air-force-says-china-aerospace-studies-institute-will-continue-despite-civilian-cuts",
+        "publishedAt": "2026-09-22T21:46:08+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Isaac ROS 5.0 brings AI agents to robotics development, says NVIDIA",
-        "url": "https://www.therobotreport.com/isaac-ros-5-0-brings-ai-agents-robotics-development-says-nvidia",
-        "publishedAt": "2026-09-22T17:51:19+00:00",
+        "title": "Intel to discuss the infrastructure needed to scale physical AI at RoboBusiness",
+        "url": "https://www.therobotreport.com/intel-discusses-infrastructure-needed-to-scale-physical-ai-robobusiness",
+        "publishedAt": "2026-09-22T21:31:19+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -579,9 +579,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Trump orders all US agencies to refer to AI as ‘super intelligence’",
-        "url": "https://breakingdefense.com/2026/09/trump-orders-all-us-agencies-to-refer-to-ai-as-super-intelligence",
-        "publishedAt": "2026-09-22T18:10:00+00:00",
+        "title": "Australian MQ-4C Tritons, MC-55A Peregrines reach Initial Operational Capability",
+        "url": "https://breakingdefense.com/2026/09/australian-mq-4c-tritons-mc-55a-peregrines-reach-initial-operational-capability",
+        "publishedAt": "2026-09-22T18:40:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
