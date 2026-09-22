@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-22T17:00:31+00:00",
+  "generatedAt": "2026-09-22T18:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-22T17:00:31+00:00",
+      "updatedAt": "2026-09-22T18:00:31+00:00",
       "stories": [
+        {
+          "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+          "url": "https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat",
+          "publishedAt": "2026-09-22T17:33:10+00:00",
+          "source": "NASA"
+        },
         {
           "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
           "url": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy",
@@ -29,12 +35,6 @@
           "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members",
           "publishedAt": "2026-09-21T15:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "An Epic View of the Seasons",
-          "url": "https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons",
-          "publishedAt": "2026-09-22T04:01:00+00:00",
-          "source": "NASA"
         },
         {
           "title": "Juice to fly past Earth for third gravity assist",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-22T17:00:31+00:00",
+      "updatedAt": "2026-09-22T18:00:31+00:00",
       "stories": [
+        {
+          "title": "RSAT Space to sell INNOSPACE launch services in Canada",
+          "url": "https://spaceq.ca/rsat-space-innospace-canada-distribution-agreement",
+          "publishedAt": "2026-09-22T17:37:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "McGill Institute of Air and Space Law marks 75 years of shaping global policy",
           "url": "https://spaceq.ca/mcgill-institute-of-air-and-space-law-marks-75-years-of-shaping-global-policy",
@@ -156,19 +162,13 @@
           "url": "https://spaceq.ca/orange-switches-on-first-telesat-lightspeed-gateway",
           "publishedAt": "2026-09-18T11:23:00+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "BDC Defence Platform names space for the first time",
-          "url": "https://spaceq.ca/bdc-defence-platform-space",
-          "publishedAt": "2026-09-17T18:10:06+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-22T17:00:31+00:00",
+      "updatedAt": "2026-09-22T18:00:31+00:00",
       "stories": [
         {
           "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
@@ -205,8 +205,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-22T17:00:31+00:00",
+      "updatedAt": "2026-09-22T18:00:31+00:00",
       "stories": [
+        {
+          "title": "Aussie defense chief confirms missing F-35 parts, says none are ‘sensitive’",
+          "url": "https://breakingdefense.com/2026/09/aussie-defense-chief-confirms-missing-f-35-parts-says-none-are-sensitive",
+          "publishedAt": "2026-09-22T17:50:07+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Trump signs Greenland security agreement, defusing allied tensions",
+          "url": "https://breakingdefense.com/2026/09/trump-signs-greenland-security-agreement-defusing-allied-tensions",
+          "publishedAt": "2026-09-22T17:19:35+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "CENTCOM has become a battle lab for unmanned systems",
           "url": "https://www.defensenews.com/news/your-military/2026/09/22/centcom-has-become-a-battle-lab-for-unmanned-systems",
@@ -256,18 +268,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Navy selects captain as new chief of information",
-          "url": "https://breakingdefense.com/2026/09/navy-selects-captain-as-new-chief-of-information",
-          "publishedAt": "2026-09-21T19:15:07+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "The US needs an information-warfare strategy for Iran — and beyond",
-          "url": "https://breakingdefense.com/2026/09/the-us-needs-an-information-warfare-strategy-for-iran-and-beyond",
-          "publishedAt": "2026-09-21T18:46:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "III Armored Corps receiving baseline NGC2 capabilities",
           "url": "https://defensescoop.com/2026/09/21/iii-armored-corps-receiving-baseline-ngc2-capabilities",
           "publishedAt": "2026-09-21T20:05:19+00:00",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-22T17:00:31+00:00",
+      "updatedAt": "2026-09-22T18:00:31+00:00",
       "stories": [
         {
           "title": "Amazon blocks Meta’s Muse agent",
@@ -323,6 +323,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
+          "publishedAt": "2026-09-22T18:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
           "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
           "publishedAt": "2026-09-22T16:30:07+00:00",
@@ -331,12 +337,6 @@
         {
           "title": "AstroForge is putting AI in command of its next spacecraft",
           "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft",
-          "publishedAt": "2026-09-22T15:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-          "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
           "publishedAt": "2026-09-22T15:00:00+00:00",
           "source": "TechCrunch AI"
         },
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-22T17:00:31+00:00",
+      "updatedAt": "2026-09-22T18:00:31+00:00",
       "stories": [
         {
           "title": "Intrinsic open sources key parts of its platform for easier development",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-22T17:00:31+00:00",
+    "updatedAt": "2026-09-22T18:00:31+00:00",
     "stories": [
       {
         "title": "Amazon blocks Meta’s Muse agent",
@@ -516,18 +516,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "McGill Institute of Air and Space Law marks 75 years of shaping global policy",
-        "url": "https://spaceq.ca/mcgill-institute-of-air-and-space-law-marks-75-years-of-shaping-global-policy",
-        "publishedAt": "2026-09-22T14:15:00+00:00",
+        "title": "RSAT Space to sell INNOSPACE launch services in Canada",
+        "url": "https://spaceq.ca/rsat-space-innospace-canada-distribution-agreement",
+        "publishedAt": "2026-09-22T17:37:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy",
-        "url": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy",
-        "publishedAt": "2026-09-22T15:40:48+00:00",
+        "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+        "url": "https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat",
+        "publishedAt": "2026-09-22T17:33:10+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -543,10 +543,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "CENTCOM has become a battle lab for unmanned systems",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/22/centcom-has-become-a-battle-lab-for-unmanned-systems",
-        "publishedAt": "2026-09-22T16:43:00+00:00",
-        "source": "Defense News",
+        "title": "Aussie defense chief confirms missing F-35 parts, says none are ‘sensitive’",
+        "url": "https://breakingdefense.com/2026/09/aussie-defense-chief-confirms-missing-f-35-parts-says-none-are-sensitive",
+        "publishedAt": "2026-09-22T17:50:07+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -559,6 +559,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "McGill Institute of Air and Space Law marks 75 years of shaping global policy",
+        "url": "https://spaceq.ca/mcgill-institute-of-air-and-space-law-marks-75-years-of-shaping-global-policy",
+        "publishedAt": "2026-09-22T14:15:00+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "UK’s new space strategy leans on Europe — where Canada fits",
@@ -576,15 +585,6 @@
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "F-16 fighter jet crashes at US air base in western Germany",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/22/f-16-fighter-jet-crashes-at-us-air-base-in-western-germany",
-        "publishedAt": "2026-09-22T16:23:40+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
