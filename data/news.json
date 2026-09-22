@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T22:01:06+00:00",
+  "generatedAt": "2026-09-22T23:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-22T22:01:06+00:00",
+      "updatedAt": "2026-09-22T23:00:27+00:00",
       "stories": [
         {
           "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-22T22:01:06+00:00",
+      "updatedAt": "2026-09-22T23:00:27+00:00",
       "stories": [
         {
           "title": "RSAT Space to sell INNOSPACE launch services in Canada",
@@ -168,8 +168,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-22T22:01:06+00:00",
+      "updatedAt": "2026-09-22T23:00:27+00:00",
       "stories": [
+        {
+          "title": "Canada Army Run 2026: Bringing Canadians Together in Support of the People Behind the Army",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/canada-army-run-2026-bringing-canadians-together-in-support-of-the-people-behind-the-army.html",
+          "publishedAt": "2026-09-22T22:16:57+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/ministers-of-national-defence-and-veterans-affairs-recognize-the-86th-anniversary-of-the-battle-of-britain.html",
@@ -205,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-22T22:01:06+00:00",
+      "updatedAt": "2026-09-22T23:00:27+00:00",
       "stories": [
         {
           "title": "Air Force says China Aerospace Studies Institute will continue, despite civilian cuts",
@@ -302,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-22T22:01:06+00:00",
+      "updatedAt": "2026-09-22T23:00:27+00:00",
       "stories": [
         {
           "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
@@ -399,12 +405,18 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-22T22:01:06+00:00",
+      "updatedAt": "2026-09-22T23:00:27+00:00",
       "stories": [
         {
           "title": "Intel to discuss the infrastructure needed to scale physical AI at RoboBusiness",
           "url": "https://www.therobotreport.com/intel-discusses-infrastructure-needed-to-scale-physical-ai-robobusiness",
           "publishedAt": "2026-09-22T21:31:19+00:00",
+          "source": "The Robot Report"
+        },
+        {
+          "title": "Why outdoor robots fail (and how to build systems that survive)",
+          "url": "https://www.therobotreport.com/why-outdoor-robots-fail-how-to-build-systems-that-survive",
+          "publishedAt": "2026-09-22T18:00:37+00:00",
           "source": "The Robot Report"
         },
         {
@@ -462,12 +474,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "What do you do with a humanoid robot when it breaks down?",
-          "url": "https://www.therobotreport.com/what-do-you-do-with-a-humanoid-robot-when-it-breaks-down",
-          "publishedAt": "2026-09-20T12:45:45+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Prices go up in 7 days — get your Disrupt ticket now",
           "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now",
           "publishedAt": "2026-09-19T14:00:00+00:00",
@@ -495,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-22T22:01:06+00:00",
+    "updatedAt": "2026-09-22T23:00:27+00:00",
     "stories": [
       {
         "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
@@ -534,9 +540,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/ministers-of-national-defence-and-veterans-affairs-recognize-the-86th-anniversary-of-the-battle-of-britain.html",
-        "publishedAt": "2026-09-20T14:00:06+00:00",
+        "title": "Canada Army Run 2026: Bringing Canadians Together in Support of the People Behind the Army",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/canada-army-run-2026-bringing-canadians-together-in-support-of-the-people-behind-the-army.html",
+        "publishedAt": "2026-09-22T22:16:57+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
