@@ -1,14 +1,20 @@
 {
-  "generatedAt": "2026-09-22T19:07:10+00:00",
+  "generatedAt": "2026-09-22T20:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-22T19:07:10+00:00",
+      "updatedAt": "2026-09-22T20:00:29+00:00",
       "stories": [
         {
+          "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
+          "url": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications",
+          "publishedAt": "2026-09-22T19:19:45+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
-          "url": "https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat",
+          "url": "https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat",
           "publishedAt": "2026-09-22T17:33:10+00:00",
           "source": "NASA"
         },
@@ -23,12 +29,6 @@
           "url": "https://www.esa.int/About_Us/Corporate_news/A_call_to_boost_European_space_exploration",
           "publishedAt": "2026-09-22T11:26:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "NASA Astronaut to Answer Questions from New Hampshire Students",
-          "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students",
-          "publishedAt": "2026-09-22T13:38:53+00:00",
-          "source": "NASA"
         },
         {
           "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-22T19:07:10+00:00",
+      "updatedAt": "2026-09-22T20:00:29+00:00",
       "stories": [
         {
           "title": "RSAT Space to sell INNOSPACE launch services in Canada",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-22T19:07:10+00:00",
+      "updatedAt": "2026-09-22T20:00:29+00:00",
       "stories": [
         {
           "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-22T19:07:10+00:00",
+      "updatedAt": "2026-09-22T20:00:29+00:00",
       "stories": [
         {
           "title": "Australian MQ-4C Tritons, MC-55A Peregrines reach Initial Operational Capability",
@@ -250,6 +250,12 @@
           "source": "Defense News"
         },
         {
+          "title": "New report urges defense agencies to adopt unified data observability",
+          "url": "https://defensescoop.com/2026/09/22/defense-unified-data-observability-report",
+          "publishedAt": "2026-09-22T19:30:00+00:00",
+          "source": "DefenseScoop"
+        },
+        {
           "title": "CENTCOM has become a battle lab for unmanned systems",
           "url": "https://www.defensenews.com/news/your-military/2026/09/22/centcom-has-become-a-battle-lab-for-unmanned-systems",
           "publishedAt": "2026-09-22T16:43:00+00:00",
@@ -290,19 +296,13 @@
           "url": "https://defensescoop.com/2026/09/18/drone-dominance-program-gauntlet-2-results",
           "publishedAt": "2026-09-18T15:54:48+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Africom’s new Defense Economics Office set up to drive outsized security returns",
-          "url": "https://defensescoop.com/2026/09/17/africom-defense-economics-office",
-          "publishedAt": "2026-09-17T22:03:33+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-22T19:07:10+00:00",
+      "updatedAt": "2026-09-22T20:00:29+00:00",
       "stories": [
         {
           "title": "Amazon blocks Meta’s Muse agent",
@@ -323,6 +323,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+          "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence",
+          "publishedAt": "2026-09-22T19:09:11+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
           "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
           "publishedAt": "2026-09-22T18:00:00+00:00",
@@ -332,12 +338,6 @@
           "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
           "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
           "publishedAt": "2026-09-22T16:30:07+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "AstroForge is putting AI in command of its next spacecraft",
-          "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft",
-          "publishedAt": "2026-09-22T15:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-22T19:07:10+00:00",
+      "updatedAt": "2026-09-22T20:00:29+00:00",
       "stories": [
         {
           "title": "Isaac ROS 5.0 brings AI agents to robotics development, says NVIDIA",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-22T19:07:10+00:00",
+    "updatedAt": "2026-09-22T20:00:29+00:00",
     "stories": [
       {
         "title": "Amazon blocks Meta’s Muse agent",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
-        "url": "https://science.nasa.gov/earth/nasa-funded-research-finds-complex-life-defying-record-heat",
-        "publishedAt": "2026-09-22T17:33:10+00:00",
+        "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
+        "url": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications",
+        "publishedAt": "2026-09-22T19:19:45+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
