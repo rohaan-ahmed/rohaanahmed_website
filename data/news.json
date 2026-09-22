@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T11:27:44+00:00",
+  "generatedAt": "2026-09-22T12:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-22T11:27:44+00:00",
+      "updatedAt": "2026-09-22T12:00:29+00:00",
       "stories": [
         {
           "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-22T11:27:44+00:00",
+      "updatedAt": "2026-09-22T12:00:29+00:00",
       "stories": [
+        {
+          "title": "UK’s new space strategy leans on Europe — where Canada fits",
+          "url": "https://spaceq.ca/uks-new-space-strategy-leans-on-europe-where-canada-fits",
+          "publishedAt": "2026-09-22T11:28:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Fall colour arrives early on Nunavut’s tundra, NASA satellite images show",
           "url": "https://spaceq.ca/fall-colour-nunavut-tundra-nasa",
@@ -156,19 +162,13 @@
           "url": "https://spaceq.ca/mda-unveils-chorus-earth-observation-portfolio-ahead-of-launch",
           "publishedAt": "2026-09-17T16:30:39+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "OECD report outlines growing space economy and strategic risks, including for Canada",
-          "url": "https://spaceq.ca/global-space-economy-approaches-600-billion-oecd-finds",
-          "publishedAt": "2026-09-16T17:46:00+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-22T11:27:44+00:00",
+      "updatedAt": "2026-09-22T12:00:29+00:00",
       "stories": [
         {
           "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-22T11:27:44+00:00",
+      "updatedAt": "2026-09-22T12:00:29+00:00",
       "stories": [
         {
           "title": "The Golden Dome czar must get control of all US missile defense programs",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-22T11:27:44+00:00",
+      "updatedAt": "2026-09-22T12:00:29+00:00",
       "stories": [
         {
           "title": "Amazon blocks Meta’s Muse agent",
@@ -399,8 +399,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-22T11:27:44+00:00",
+      "updatedAt": "2026-09-22T12:00:29+00:00",
       "stories": [
+        {
+          "title": "Intrinsic open sources key parts of its platform for easier development",
+          "url": "https://www.therobotreport.com/intrinsic-open-sources-key-parts-platform-easier-development",
+          "publishedAt": "2026-09-22T11:55:37+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "IAC completes autonomous racing event at Laguna Seca",
           "url": "https://www.therobotreport.com/iac-completes-autonomous-racing-event-at-laguna-seca",
@@ -450,12 +456,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "F-Prime Capital to give insights on the state of robotics investments at RoboBusiness",
-          "url": "https://www.therobotreport.com/f-prime-capital-give-insights-state-robotics-investments-robobusiness",
-          "publishedAt": "2026-09-18T16:16:44+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Two Birotors Make a Quadrotor",
           "url": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
           "publishedAt": "2026-09-18T16:01:05+00:00",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-22T11:27:44+00:00",
+    "updatedAt": "2026-09-22T12:00:29+00:00",
     "stories": [
       {
         "title": "Amazon blocks Meta’s Muse agent",
@@ -516,9 +516,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Fall colour arrives early on Nunavut’s tundra, NASA satellite images show",
-        "url": "https://spaceq.ca/fall-colour-nunavut-tundra-nasa",
-        "publishedAt": "2026-09-21T16:30:00+00:00",
+        "title": "UK’s new space strategy leans on Europe — where Canada fits",
+        "url": "https://spaceq.ca/uks-new-space-strategy-leans-on-europe-where-canada-fits",
+        "publishedAt": "2026-09-22T11:28:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -552,9 +552,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "IAC completes autonomous racing event at Laguna Seca",
-        "url": "https://www.therobotreport.com/iac-completes-autonomous-racing-event-at-laguna-seca",
-        "publishedAt": "2026-09-21T18:02:09+00:00",
+        "title": "Intrinsic open sources key parts of its platform for easier development",
+        "url": "https://www.therobotreport.com/intrinsic-open-sources-key-parts-platform-easier-development",
+        "publishedAt": "2026-09-22T11:55:37+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -570,18 +570,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Canada, Norway finalize space agreement, add industry deals",
-        "url": "https://spaceq.ca/canada-norway-space-agreement",
-        "publishedAt": "2026-09-21T13:35:00+00:00",
+        "title": "Fall colour arrives early on Nunavut’s tundra, NASA satellite images show",
+        "url": "https://spaceq.ca/fall-colour-nunavut-tundra-nasa",
+        "publishedAt": "2026-09-21T16:30:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Carney, Macron direct new Canada-France space push",
-        "url": "https://spaceq.ca/carney-macron-direct-new-canada-france-space-push",
-        "publishedAt": "2026-09-21T11:16:00+00:00",
+        "title": "Canada, Norway finalize space agreement, add industry deals",
+        "url": "https://spaceq.ca/canada-norway-space-agreement",
+        "publishedAt": "2026-09-21T13:35:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
