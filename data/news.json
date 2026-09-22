@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T10:00:30+00:00",
+  "generatedAt": "2026-09-22T11:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-22T10:00:30+00:00",
+      "updatedAt": "2026-09-22T11:00:30+00:00",
       "stories": [
         {
           "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-22T10:00:30+00:00",
+      "updatedAt": "2026-09-22T11:00:30+00:00",
       "stories": [
         {
           "title": "Fall colour arrives early on Nunavut’s tundra, NASA satellite images show",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-22T10:00:30+00:00",
+      "updatedAt": "2026-09-22T11:00:30+00:00",
       "stories": [
         {
           "title": "Ministers of National Defence and Veterans Affairs recognize the 86th anniversary of the Battle of Britain",
@@ -205,8 +205,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-22T10:00:30+00:00",
+      "updatedAt": "2026-09-22T11:00:30+00:00",
       "stories": [
+        {
+          "title": "The Golden Dome czar must get control of all US missile defense programs",
+          "url": "https://www.defensenews.com/opinion/2026/09/22/the-golden-dome-czar-must-get-control-of-all-us-missile-defense-programs",
+          "publishedAt": "2026-09-22T10:30:53+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "General Atomics delivers FQ-42 Vengeance to Nevada air base",
           "url": "https://www.defensenews.com/industry/techwatch/2026/09/21/general-atomics-delivers-fq-42-vengeance-to-nevada-air-base",
@@ -274,12 +280,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Denmark says NATO shares responsibility for Arctic security under Greenland deal",
-          "url": "https://www.defensenews.com/global/europe/2026/09/21/denmark-says-nato-shares-responsibility-for-arctic-security-under-greenland-deal",
-          "publishedAt": "2026-09-21T09:52:22+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "AAFES investigating ‘suspicious’ messages sent to military customers through email and store’s official app",
           "url": "https://defensescoop.com/2026/09/18/aafes-investigating-suspicious-messages-sent-to-military-customers",
           "publishedAt": "2026-09-18T20:15:49+00:00",
@@ -302,8 +302,26 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-22T10:00:30+00:00",
+      "updatedAt": "2026-09-22T11:00:30+00:00",
       "stories": [
+        {
+          "title": "Amazon blocks Meta’s Muse agent",
+          "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping",
+          "publishedAt": "2026-09-22T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Trump wants an ‘AI Force’ to guard U.S. lead",
+          "url": "https://www.bbc.com/news/articles/cqlykr2vrv04o",
+          "publishedAt": "2026-09-22T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Researchers find a ‘pain’ signal inside AI models",
+          "url": "https://arxiv.org/pdf/2609.16247",
+          "publishedAt": "2026-09-22T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
           "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping",
@@ -335,40 +353,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "OpenAI's projected compute bill climbed to $856B (5 minute read)",
-          "url": "https://thenextweb.com/news/openai-856bn-compute-vs-600bn-reset-burn-improved",
-          "publishedAt": "2026-09-21T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+          "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+          "publishedAt": "2026-09-21T19:19:21+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Opening access for developers to build Muse connectors (1 minute read)",
-          "url": "https://threadreaderapp.com/thread/2101084678640066765.html",
-          "publishedAt": "2026-09-21T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Meta’s AI agent has been blocked from using Amazon.com",
+          "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
+          "publishedAt": "2026-09-21T17:55:18+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Segment Anything Model (SAM) 3.1 (2 minute read)",
-          "url": "https://developer.meta.com/ai/models/sam-3-1",
-          "publishedAt": "2026-09-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Google's Gemini becomes latest AI model to break out and hack computer systems (3 minute read)",
-          "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
-          "publishedAt": "2026-09-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Inference Gap (56 minute read)",
-          "url": "https://x.com/Lon/status/2101034933284417614",
-          "publishedAt": "2026-09-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Can internal model transparency tame the AI race? (11 minute read)",
-          "url": "https://blog.karthiktadepalli.com/p/internal-model-transparency",
-          "publishedAt": "2026-09-21T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+          "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete",
+          "publishedAt": "2026-09-21T16:38:51+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI’s new rules for reporting model misbehavior",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-22T10:00:30+00:00",
+      "updatedAt": "2026-09-22T11:00:30+00:00",
       "stories": [
         {
           "title": "IAC completes autonomous racing event at Laguna Seca",
@@ -495,21 +495,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-22T10:00:30+00:00",
+    "updatedAt": "2026-09-22T11:00:30+00:00",
     "stories": [
       {
-        "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-        "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping",
-        "publishedAt": "2026-09-21T23:44:28+00:00",
-        "source": "TechCrunch AI",
+        "title": "Amazon blocks Meta’s Muse agent",
+        "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping",
+        "publishedAt": "2026-09-22T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI hacked by ‘three guys with Claude’",
-        "url": "https://www.hacktron.ai/blog/hacking-openai",
-        "publishedAt": "2026-09-21T10:00:00+00:00",
+        "title": "Trump wants an ‘AI Force’ to guard U.S. lead",
+        "url": "https://www.bbc.com/news/articles/cqlykr2vrv04o",
+        "publishedAt": "2026-09-22T10:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "General Atomics delivers FQ-42 Vengeance to Nevada air base",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/21/general-atomics-delivers-fq-42-vengeance-to-nevada-air-base",
-        "publishedAt": "2026-09-21T21:12:41+00:00",
+        "title": "The Golden Dome czar must get control of all US missile defense programs",
+        "url": "https://www.defensenews.com/opinion/2026/09/22/the-golden-dome-czar-must-get-control-of-all-us-missile-defense-programs",
+        "publishedAt": "2026-09-22T10:30:53+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -559,6 +559,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Researchers find a ‘pain’ signal inside AI models",
+        "url": "https://arxiv.org/pdf/2609.16247",
+        "publishedAt": "2026-09-22T10:00:00+00:00",
+        "source": "The Rundown AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Canada, Norway finalize space agreement, add industry deals",
@@ -576,15 +585,6 @@
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Navy selects captain as new chief of information",
-        "url": "https://breakingdefense.com/2026/09/navy-selects-captain-as-new-chief-of-information",
-        "publishedAt": "2026-09-21T19:15:07+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -700,6 +700,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8667: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-02"
   ]
 }
