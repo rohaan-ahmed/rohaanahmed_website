@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-09-23T17:00:30+00:00",
+  "generatedAt": "2026-09-23T18:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-23T17:00:30+00:00",
+      "updatedAt": "2026-09-23T18:00:30+00:00",
       "stories": [
         {
           "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
           "url": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1",
           "publishedAt": "2026-09-23T15:18:10+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
+          "url": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min",
+          "publishedAt": "2026-09-23T17:15:32+00:00",
+          "source": "NASA"
         },
         {
           "title": "Shannon Lucid’s Record-Setting Mission Aboard Mir",
@@ -29,12 +35,6 @@
           "url": "https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission",
           "publishedAt": "2026-09-23T11:17:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Risk of Hydrazine Use Following Freeze–Thaw Exposure",
-          "url": "https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure",
-          "publishedAt": "2026-09-23T14:31:58+00:00",
-          "source": "NASA"
         },
         {
           "title": "A hitchhiker’s guide to Hera’s target asteroids",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-23T17:00:30+00:00",
+      "updatedAt": "2026-09-23T18:00:30+00:00",
       "stories": [
         {
           "title": "Launch Canada secures federal funding as Waterloo Rocketry breaks world altitude record",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-23T17:00:30+00:00",
+      "updatedAt": "2026-09-23T18:00:30+00:00",
       "stories": [
         {
           "title": "Canada Army Run 2026: Bringing Canadians Together in Support of the People Behind the Army",
@@ -217,8 +217,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-23T17:00:30+00:00",
+      "updatedAt": "2026-09-23T18:00:30+00:00",
       "stories": [
+        {
+          "title": "Syria looks to end foreign military presence, have sovereignty over all bases: President",
+          "url": "https://breakingdefense.com/2026/09/syria-looks-to-end-foreign-military-presence-have-sovereignty-over-all-bases-president",
+          "publishedAt": "2026-09-23T17:28:59+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "UK launches first space squadron to ‘degrade and deny’ enemies",
           "url": "https://breakingdefense.com/2026/09/uk-launches-first-space-squadron-to-degrade-and-deny-enemies",
@@ -280,12 +286,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "The future of European airpower might be unmanned",
-          "url": "https://breakingdefense.com/2026/09/the-future-of-european-airpower-might-be-unmanned",
-          "publishedAt": "2026-09-23T08:02:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "More than 100K personnel use Maven Smart System: Pentagon official",
           "url": "https://defensescoop.com/2026/09/22/maven-smart-system-ai-james-mazol-cameron-stanley-defensetalks",
           "publishedAt": "2026-09-22T21:20:22+00:00",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-23T17:00:30+00:00",
+      "updatedAt": "2026-09-23T18:00:30+00:00",
       "stories": [
         {
           "title": "Anthropic, OpenAI deliver dueling frontier AI discounts",
@@ -335,6 +335,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "ChatGPT mobile app gets voice-based agentic features",
+          "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features",
+          "publishedAt": "2026-09-23T17:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Even Americans who use AI every day are worried about it",
           "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it",
           "publishedAt": "2026-09-23T16:49:58+00:00",
@@ -344,12 +350,6 @@
           "title": "YouTube Music gets more conversational with new AI features",
           "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features",
           "publishedAt": "2026-09-23T15:19:30+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "YouTube will let you build your own algorithm with AI",
-          "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai",
-          "publishedAt": "2026-09-23T14:30:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-23T17:00:30+00:00",
+      "updatedAt": "2026-09-23T18:00:30+00:00",
       "stories": [
         {
           "title": "Helicon brings automation to high-volume composites manufacturing",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-23T17:00:30+00:00",
+    "updatedAt": "2026-09-23T18:00:30+00:00",
     "stories": [
       {
         "title": "Anthropic, OpenAI deliver dueling frontier AI discounts",
@@ -555,9 +555,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "UK launches first space squadron to ‘degrade and deny’ enemies",
-        "url": "https://breakingdefense.com/2026/09/uk-launches-first-space-squadron-to-degrade-and-deny-enemies",
-        "publishedAt": "2026-09-23T15:55:46+00:00",
+        "title": "Syria looks to end foreign military presence, have sovereignty over all bases: President",
+        "url": "https://breakingdefense.com/2026/09/syria-looks-to-end-foreign-military-presence-have-sovereignty-over-all-bases-president",
+        "publishedAt": "2026-09-23T17:28:59+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
