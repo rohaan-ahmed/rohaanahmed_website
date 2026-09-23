@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-23T09:00:29+00:00",
+  "generatedAt": "2026-09-23T09:35:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-23T09:00:29+00:00",
+      "updatedAt": "2026-09-23T09:35:33+00:00",
       "stories": [
         {
           "title": "A hitchhiker’s guide to Hera’s target asteroids",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-23T09:00:29+00:00",
+      "updatedAt": "2026-09-23T09:35:33+00:00",
       "stories": [
         {
           "title": "RSAT Space to sell INNOSPACE launch services in Canada",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-23T09:00:29+00:00",
+      "updatedAt": "2026-09-23T09:35:33+00:00",
       "stories": [
         {
           "title": "Canada Army Run 2026: Bringing Canadians Together in Support of the People Behind the Army",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-23T09:00:29+00:00",
+      "updatedAt": "2026-09-23T09:35:33+00:00",
       "stories": [
         {
           "title": "The future of European airpower might be unmanned",
@@ -308,8 +308,26 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-23T09:00:29+00:00",
+      "updatedAt": "2026-09-23T09:35:33+00:00",
       "stories": [
+        {
+          "title": "Anthropic, OpenAI deliver dueling frontier AI discounts",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "publishedAt": "2026-09-23T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI taps mathematicians to check its AI",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "publishedAt": "2026-09-23T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "a16z’s new AI-driven college alternative",
+          "url": "https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e",
+          "publishedAt": "2026-09-23T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
           "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai",
@@ -381,31 +399,13 @@
           "url": "https://www.strangeloopcanon.com/p/the-business-of-building-god",
           "publishedAt": "2026-09-22T00:00:00+00:00",
           "source": "TLDR AI"
-        },
-        {
-          "title": "OpenAI hacked by ‘three guys with Claude’",
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "publishedAt": "2026-09-21T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic moves its biology push into a real lab",
-          "url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18",
-          "publishedAt": "2026-09-21T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s new rules for reporting model misbehavior",
-          "url": "http://openai.com/index/model-misalignment-reporting-framework",
-          "publishedAt": "2026-09-18T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-23T09:00:29+00:00",
+      "updatedAt": "2026-09-23T09:35:33+00:00",
       "stories": [
         {
           "title": "Intel to discuss the infrastructure needed to scale physical AI at RoboBusiness",
@@ -501,22 +501,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-23T09:00:29+00:00",
+    "updatedAt": "2026-09-23T09:35:33+00:00",
     "stories": [
       {
-        "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-        "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai",
-        "publishedAt": "2026-09-23T04:59:08+00:00",
-        "source": "TechCrunch AI",
+        "title": "Anthropic, OpenAI deliver dueling frontier AI discounts",
+        "url": "https://www.anthropic.com/claude-opus-5-5",
+        "publishedAt": "2026-09-23T09:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-        "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
-        "publishedAt": "2026-09-22T23:21:49+00:00",
-        "source": "TechCrunch AI",
+        "title": "OpenAI taps mathematicians to check its AI",
+        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "publishedAt": "2026-09-23T09:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -567,30 +567,30 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "a16z’s new AI-driven college alternative",
+        "url": "https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e",
+        "publishedAt": "2026-09-23T09:00:00+00:00",
+        "source": "The Rundown AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+        "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai",
+        "publishedAt": "2026-09-23T04:59:08+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
         "url": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater",
         "publishedAt": "2026-09-23T04:05:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Boom Year for Desert Blooms",
-        "url": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms",
-        "publishedAt": "2026-09-23T04:01:00+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "McGill Institute of Air and Space Law marks 75 years of shaping global policy",
-        "url": "https://spaceq.ca/mcgill-institute-of-air-and-space-law-marks-75-years-of-shaping-global-policy",
-        "publishedAt": "2026-09-22T14:15:00+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
