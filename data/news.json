@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-23T04:54:03+00:00",
+  "generatedAt": "2026-09-23T05:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-23T04:54:03+00:00",
+      "updatedAt": "2026-09-23T05:00:30+00:00",
       "stories": [
         {
           "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-23T04:54:03+00:00",
+      "updatedAt": "2026-09-23T05:00:30+00:00",
       "stories": [
         {
           "title": "RSAT Space to sell INNOSPACE launch services in Canada",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-23T04:54:03+00:00",
+      "updatedAt": "2026-09-23T05:00:30+00:00",
       "stories": [
         {
           "title": "Canada Army Run 2026: Bringing Canadians Together in Support of the People Behind the Army",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-23T04:54:03+00:00",
+      "updatedAt": "2026-09-23T05:00:30+00:00",
       "stories": [
         {
           "title": "Fate of Air Force’s China Aerospace Studies Institute up in air",
@@ -308,8 +308,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-23T04:54:03+00:00",
+      "updatedAt": "2026-09-23T05:00:30+00:00",
       "stories": [
+        {
+          "title": "“We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI",
+          "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai",
+          "publishedAt": "2026-09-23T04:59:08+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
           "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
@@ -339,12 +345,6 @@
           "url": "https://arxiv.org/pdf/2609.16247",
           "publishedAt": "2026-09-22T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-          "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
-          "publishedAt": "2026-09-22T20:00:00+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "Xiaomi open-sources MiMo-V2.6 Pro and Flash models (2 minute read)",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-23T04:54:03+00:00",
+      "updatedAt": "2026-09-23T05:00:30+00:00",
       "stories": [
         {
           "title": "Intel to discuss the infrastructure needed to scale physical AI at RoboBusiness",
@@ -501,21 +501,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-23T04:54:03+00:00",
+    "updatedAt": "2026-09-23T05:00:30+00:00",
     "stories": [
       {
-        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-        "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
-        "publishedAt": "2026-09-22T23:21:49+00:00",
+        "title": "“We’re already fighting yesterday’s battle”: Greece’s prime minister gets candid about AI",
+        "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai",
+        "publishedAt": "2026-09-23T04:59:08+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-        "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
-        "publishedAt": "2026-09-22T21:56:43+00:00",
+        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+        "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
+        "publishedAt": "2026-09-22T23:21:49+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
