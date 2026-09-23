@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-23T08:00:33+00:00",
+  "generatedAt": "2026-09-23T09:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-23T08:00:33+00:00",
+      "updatedAt": "2026-09-23T09:00:29+00:00",
       "stories": [
+        {
+          "title": "A hitchhiker’s guide to Hera’s target asteroids",
+          "url": "https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids",
+          "publishedAt": "2026-09-23T08:10:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
           "url": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater",
@@ -46,12 +52,6 @@
           "title": "ESA brings public and private capital together to accelerate Europe’s space economy",
           "url": "https://www.esa.int/About_Us/Business_with_ESA/ESA_brings_public_and_private_capital_together_to_accelerate_Europe_s_space_economy",
           "publishedAt": "2026-09-21T09:52:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
-          "title": "ESA and ISRO extend and broaden cooperation agreement",
-          "url": "https://www.esa.int/About_Us/Corporate_news/ESA_and_ISRO_extend_and_broaden_cooperation_agreement",
-          "publishedAt": "2026-09-21T08:44:00+00:00",
           "source": "European Space Agency"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-23T08:00:33+00:00",
+      "updatedAt": "2026-09-23T09:00:29+00:00",
       "stories": [
         {
           "title": "RSAT Space to sell INNOSPACE launch services in Canada",
@@ -168,7 +168,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-23T08:00:33+00:00",
+      "updatedAt": "2026-09-23T09:00:29+00:00",
       "stories": [
         {
           "title": "Canada Army Run 2026: Bringing Canadians Together in Support of the People Behind the Army",
@@ -211,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-23T08:00:33+00:00",
+      "updatedAt": "2026-09-23T09:00:29+00:00",
       "stories": [
+        {
+          "title": "The future of European airpower might be unmanned",
+          "url": "https://breakingdefense.com/2026/09/the-future-of-european-airpower-might-be-unmanned",
+          "publishedAt": "2026-09-23T08:02:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Fate of Air Force’s China Aerospace Studies Institute up in air",
           "url": "https://breakingdefense.com/2026/09/air-force-says-china-aerospace-studies-institute-will-continue-despite-civilian-cuts",
@@ -262,12 +268,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Trump signs Greenland security agreement, defusing allied tensions",
-          "url": "https://breakingdefense.com/2026/09/trump-signs-greenland-security-agreement-defusing-allied-tensions",
-          "publishedAt": "2026-09-22T17:19:35+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Italian Navy plots race of two local machines: an F-35B against a Ferrari",
           "url": "https://www.defensenews.com/global/europe/2026/09/22/italian-navy-plots-race-of-two-local-machines-an-f-35b-against-a-ferrari",
           "publishedAt": "2026-09-22T18:09:49+00:00",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-23T08:00:33+00:00",
+      "updatedAt": "2026-09-23T09:00:29+00:00",
       "stories": [
         {
           "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-23T08:00:33+00:00",
+      "updatedAt": "2026-09-23T09:00:29+00:00",
       "stories": [
         {
           "title": "Intel to discuss the infrastructure needed to scale physical AI at RoboBusiness",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-23T08:00:33+00:00",
+    "updatedAt": "2026-09-23T09:00:29+00:00",
     "stories": [
       {
         "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
@@ -531,10 +531,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater",
-        "publishedAt": "2026-09-23T04:05:00+00:00",
-        "source": "NASA",
+        "title": "A hitchhiker’s guide to Hera’s target asteroids",
+        "url": "https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids",
+        "publishedAt": "2026-09-23T08:10:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Fate of Air Force’s China Aerospace Studies Institute up in air",
-        "url": "https://breakingdefense.com/2026/09/air-force-says-china-aerospace-studies-institute-will-continue-despite-civilian-cuts",
-        "publishedAt": "2026-09-22T21:46:08+00:00",
+        "title": "The future of European airpower might be unmanned",
+        "url": "https://breakingdefense.com/2026/09/the-future-of-european-airpower-might-be-unmanned",
+        "publishedAt": "2026-09-23T08:02:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "APOD: 2026 September 23 – A New Lunar Crater: McGetchin",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater",
+        "publishedAt": "2026-09-23T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Boom Year for Desert Blooms",
         "url": "https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms",
         "publishedAt": "2026-09-23T04:01:00+00:00",
@@ -579,15 +588,6 @@
         "title": "McGill Institute of Air and Space Law marks 75 years of shaping global policy",
         "url": "https://spaceq.ca/mcgill-institute-of-air-and-space-law-marks-75-years-of-shaping-global-policy",
         "publishedAt": "2026-09-22T14:15:00+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "UK’s new space strategy leans on Europe — where Canada fits",
-        "url": "https://spaceq.ca/uks-new-space-strategy-leans-on-europe-where-canada-fits",
-        "publishedAt": "2026-09-22T11:28:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
