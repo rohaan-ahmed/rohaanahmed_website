@@ -5,16 +5,16 @@
     <link>https://rohaanahmed.com/news.html</link>
     <description>An automatically curated news feed built around my areas of interest</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 23 Sep 2026 01:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 02:00:28 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <guid isPermaLink="false">62e94205767717d3280a4f9dbd216b511169bc4d0b3f437f64194f33dcd52d89</guid>
+      <guid isPermaLink="false">ceffeba510307ff28b40f67a11fd3db0c7daeafe3aba67387fb12452045b3d28</guid>
       <title>International Space (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-space</link>
-      <pubDate>Wed, 23 Sep 2026 01:00:30 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 02:00:28 +0000</pubDate>
       <category>International Space</category>
       <description>Topic: International Space
-Updated: 2026-09-23T01:00:30+00:00
+Updated: 2026-09-23T02:00:28+00:00
 Stories: 15</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
@@ -22,12 +22,32 @@ Stories: 15</description>
       <ra:kind>topic</ra:kind>
     </item>
     <item>
+      <title>Curiosity Blog, Sols 5010-5015: Checking out the Bands</title>
+      <link>https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands</link>
+      <guid isPermaLink="false">a2fc7efffb057ef6f270ee6bd21984e877806a134c6eaa27e508dd880de14d4b</guid>
+      <pubDate>Wed, 23 Sep 2026 00:40:16 +0000</pubDate>
+      <category>International Space</category>
+      <category>Bulletin</category>
+      <source url="https://www.nasa.gov/">NASA</source>
+      <description>Topic: International Space
+Source: NASA
+Published: 2026-09-23T00:40:16+00:00
+Headline: Curiosity Blog, Sols 5010-5015: Checking out the Bands</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>4</ra:bulletinPosition>
+      <ra:publishedAt>2026-09-23T00:40:16+00:00</ra:publishedAt>
+      <ra:sourceName>NASA</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
       <title>Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications</title>
       <link>https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications</link>
       <guid isPermaLink="false">a73d07f697e44ff04886bc3f6540bf1cf6522c2ba81a5c53883d795009e1f4e0</guid>
       <pubDate>Tue, 22 Sep 2026 19:19:45 +0000</pubDate>
       <category>International Space</category>
-      <category>Bulletin</category>
       <source url="https://www.nasa.gov/">NASA</source>
       <description>Topic: International Space
 Source: NASA
@@ -36,8 +56,7 @@ Headline: Risks of Decompression Sickness and Venous Thromboembolism during Spac
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>4</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
       <ra:publishedAt>2026-09-22T19:19:45+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -56,27 +75,8 @@ Headline: NASA-Funded Research Finds Complex Life Defying Record Heat</descripti
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
-      <ra:publishedAt>2026-09-22T17:33:10+00:00</ra:publishedAt>
-      <ra:sourceName>NASA</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy</title>
-      <link>https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy</link>
-      <guid isPermaLink="false">bcb68ccc9819ff0cf9aa6bb58ec029482f285ce9a8f4f4901bb379fecf58db94</guid>
-      <pubDate>Tue, 22 Sep 2026 15:40:48 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.nasa.gov/">NASA</source>
-      <description>Topic: International Space
-Source: NASA
-Published: 2026-09-22T15:40:48+00:00
-Headline: NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy</description>
-      <ra:topicId>international-space</ra:topicId>
-      <ra:topicName>International Space</ra:topicName>
-      <ra:topicPosition>1</ra:topicPosition>
       <ra:storyPosition>3</ra:storyPosition>
-      <ra:publishedAt>2026-09-22T15:40:48+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-09-22T17:33:10+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -309,13 +309,13 @@ Headline: Icarus Robotics tests Joy in Canada ahead of ISS flight</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">fdecee1d852e10df85a6885f83b24ea631584ae62012fa6a2b2a4d9c16f4535e</guid>
+      <guid isPermaLink="false">2ab004c20303b176f084faf5f2942f1a840357e417441d802d84cf539c8834d5</guid>
       <title>Canadian Space (10 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
-      <pubDate>Wed, 23 Sep 2026 01:00:30 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 02:00:28 +0000</pubDate>
       <category>Canadian Space</category>
       <description>Topic: Canadian Space
-Updated: 2026-09-23T01:00:30+00:00
+Updated: 2026-09-23T02:00:28+00:00
 Stories: 10</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
@@ -519,13 +519,13 @@ Headline: Orange switches on first Telesat Lightspeed gateway</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">90ac5b19ffe405f814cce7418c03a588bf2efceb3d8100e7defa2ccdf33abb14</guid>
+      <guid isPermaLink="false">f21091869ed630716d262e370ee1394c9490c9ca1b4fdd227f37d622c7eb828c</guid>
       <title>Canadian Defence (6 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
-      <pubDate>Wed, 23 Sep 2026 01:00:30 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 02:00:28 +0000</pubDate>
       <category>Canadian Defence</category>
       <description>Topic: Canadian Defence
-Updated: 2026-09-23T01:00:30+00:00
+Updated: 2026-09-23T02:00:28+00:00
 Stories: 6</description>
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
@@ -649,13 +649,13 @@ Headline: Statement on Canada’s Participation in Multilateral Maritime Coopera
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">2bf4b9ece96f47a54f941f6ed84e7aba5e9ad217ced2d4baf99ba233b9d7ac96</guid>
+      <guid isPermaLink="false">fc5060efb5b6499aff91824628bbf718ec07cef68f93d6afa7351e1e17caefcc</guid>
       <title>International Defence Technology (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
-      <pubDate>Wed, 23 Sep 2026 01:00:30 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 02:00:28 +0000</pubDate>
       <category>International Defence Technology</category>
       <description>Topic: International Defence Technology
-Updated: 2026-09-23T01:00:30+00:00
+Updated: 2026-09-23T02:00:28+00:00
 Stories: 15</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
@@ -952,13 +952,13 @@ Headline: III Armored Corps receiving baseline NGC2 capabilities</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">f645e0c655580702fe4d552bf5aa4bb70b399607c56f7c47b34433bf61a7096c</guid>
+      <guid isPermaLink="false">41e145e7bd5f1969721ca8f271df3412b163288a17e05d3e3204c69f95d17ad6</guid>
       <title>Artificial Intelligence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
-      <pubDate>Wed, 23 Sep 2026 01:00:30 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 02:00:28 +0000</pubDate>
       <category>Artificial Intelligence</category>
       <description>Topic: Artificial Intelligence
-Updated: 2026-09-23T01:00:30+00:00
+Updated: 2026-09-23T02:00:28+00:00
 Stories: 15</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
@@ -1255,13 +1255,13 @@ Headline: OpenAI’s new rules for reporting model misbehavior</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">645f2a3cba35b69cd6e60fd573563997f8eeaf21b06a4873f35a23b4bd5349b0</guid>
+      <guid isPermaLink="false">709c3a0a63286fee83ebfad36bbb77d990767b7ab2df5b958738dacaa986c8c4</guid>
       <title>Robotics (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-robotics</link>
-      <pubDate>Wed, 23 Sep 2026 01:00:30 +0000</pubDate>
+      <pubDate>Wed, 23 Sep 2026 02:00:28 +0000</pubDate>
       <category>Robotics</category>
       <description>Topic: Robotics
-Updated: 2026-09-23T01:00:30+00:00
+Updated: 2026-09-23T02:00:28+00:00
 Stories: 15</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
