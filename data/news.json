@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-23T18:00:30+00:00",
+  "generatedAt": "2026-09-23T18:27:00+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-23T18:00:30+00:00",
+      "updatedAt": "2026-09-23T18:27:00+00:00",
       "stories": [
         {
           "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-23T18:00:30+00:00",
+      "updatedAt": "2026-09-23T18:27:00+00:00",
       "stories": [
         {
           "title": "Launch Canada secures federal funding as Waterloo Rocketry breaks world altitude record",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-23T18:00:30+00:00",
+      "updatedAt": "2026-09-23T18:27:00+00:00",
       "stories": [
         {
           "title": "Canada Army Run 2026: Bringing Canadians Together in Support of the People Behind the Army",
@@ -217,13 +217,19 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-23T18:00:30+00:00",
+      "updatedAt": "2026-09-23T18:27:00+00:00",
       "stories": [
         {
           "title": "Syria looks to end foreign military presence, have sovereignty over all bases: President",
           "url": "https://breakingdefense.com/2026/09/syria-looks-to-end-foreign-military-presence-have-sovereignty-over-all-bases-president",
           "publishedAt": "2026-09-23T17:28:59+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Steam catapults? US Navy appears to be sticking with electromagnetics on carriers",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/09/23/steam-catapults-us-navy-appears-to-be-sticking-with-electromagnetics-on-carriers",
+          "publishedAt": "2026-09-23T18:22:04+00:00",
+          "source": "Defense News"
         },
         {
           "title": "UK launches first space squadron to ‘degrade and deny’ enemies",
@@ -274,12 +280,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Germany wants to manufacture American PAC-3 interceptors to help meet global demand",
-          "url": "https://www.defensenews.com/global/europe/2026/09/23/germany-wants-to-manufacture-american-pac-3-interceptors-to-help-meet-global-demand",
-          "publishedAt": "2026-09-23T12:58:17+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "What’s unique about Northcom’s Falcon Peak 26.2 counter-drone exercise",
           "url": "https://defensescoop.com/2026/09/23/northern-command-falcon-peak-26-2-counter-drone-exercise",
           "publishedAt": "2026-09-23T15:32:42+00:00",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-23T18:00:30+00:00",
+      "updatedAt": "2026-09-23T18:27:00+00:00",
       "stories": [
         {
           "title": "Anthropic, OpenAI deliver dueling frontier AI discounts",
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-23T18:00:30+00:00",
+      "updatedAt": "2026-09-23T18:27:00+00:00",
       "stories": [
         {
           "title": "Helicon brings automation to high-volume composites manufacturing",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-23T18:00:30+00:00",
+    "updatedAt": "2026-09-23T18:27:00+00:00",
     "stories": [
       {
         "title": "Anthropic, OpenAI deliver dueling frontier AI discounts",
@@ -591,12 +591,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "a16z’s new AI-driven college alternative",
-        "url": "https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e",
-        "publishedAt": "2026-09-23T09:00:00+00:00",
-        "source": "The Rundown AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "Steam catapults? US Navy appears to be sticking with electromagnetics on carriers",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/23/steam-catapults-us-navy-appears-to-be-sticking-with-electromagnetics-on-carriers",
+        "publishedAt": "2026-09-23T18:22:04+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
