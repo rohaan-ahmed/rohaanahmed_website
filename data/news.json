@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T17:00:31+00:00",
+  "generatedAt": "2026-09-24T18:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-24T17:00:31+00:00",
+      "updatedAt": "2026-09-24T18:00:29+00:00",
       "stories": [
         {
           "title": "True or false on space industry trends with Pacôme Révillon",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-24T17:00:31+00:00",
+      "updatedAt": "2026-09-24T18:00:29+00:00",
       "stories": [
         {
           "title": "Carleton University wins Canadian International Rover Challenge in Alberta",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-24T17:00:31+00:00",
+      "updatedAt": "2026-09-24T18:00:29+00:00",
       "stories": [
         {
           "title": "Canada Army Run 2026: Bringing Canadians Together in Support of the People Behind the Army",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-24T17:00:31+00:00",
+      "updatedAt": "2026-09-24T18:00:29+00:00",
       "stories": [
         {
           "title": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-24T17:00:31+00:00",
+      "updatedAt": "2026-09-24T18:00:29+00:00",
       "stories": [
         {
           "title": "Claude spots a CRISPR-like DNA mystery",
@@ -323,21 +323,21 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+          "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend",
+          "publishedAt": "2026-09-24T17:39:24+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+          "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios",
+          "publishedAt": "2026-09-24T17:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "TechCrunch Founder Summit 2026: Everything you need to know",
           "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know",
           "publishedAt": "2026-09-24T16:46:47+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
-          "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
-          "publishedAt": "2026-09-24T16:35:13+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026",
-          "publishedAt": "2026-09-24T16:03:36+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -405,8 +405,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-24T17:00:31+00:00",
+      "updatedAt": "2026-09-24T18:00:29+00:00",
       "stories": [
+        {
+          "title": "Why you should look beyond the spec sheet when choosing motion architecture",
+          "url": "https://www.therobotreport.com/why-you-should-look-beyond-spec-sheet-when-choosing-motion-architecture",
+          "publishedAt": "2026-09-24T16:39:14+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Epson introduces AX6 cobot with compact design, no-code programming",
           "url": "https://www.therobotreport.com/epson-introduces-ax6-cobot-compact-design-no-code-programming",
@@ -447,12 +453,6 @@
           "title": "State of Humanoids keynote brings industry leaders to RoboBusiness",
           "url": "https://www.therobotreport.com/state-of-humanoids-keynote-brings-industry-leaders-robobusiness",
           "publishedAt": "2026-09-23T12:25:11+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Qualcomm to acquire PickNik Robotics and keep MoveIt open-source",
-          "url": "https://www.therobotreport.com/qualcomm-acquires-picknik-robotics-keep-moveit-open-source",
-          "publishedAt": "2026-09-23T11:29:32+00:00",
           "source": "The Robot Report"
         },
         {
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-24T17:00:31+00:00",
+    "updatedAt": "2026-09-24T18:00:29+00:00",
     "stories": [
       {
         "title": "Claude spots a CRISPR-like DNA mystery",
@@ -558,9 +558,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Epson introduces AX6 cobot with compact design, no-code programming",
-        "url": "https://www.therobotreport.com/epson-introduces-ax6-cobot-compact-design-no-code-programming",
-        "publishedAt": "2026-09-24T14:51:07+00:00",
+        "title": "Why you should look beyond the spec sheet when choosing motion architecture",
+        "url": "https://www.therobotreport.com/why-you-should-look-beyond-spec-sheet-when-choosing-motion-architecture",
+        "publishedAt": "2026-09-24T16:39:14+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
