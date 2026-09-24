@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T22:00:23+00:00",
+  "generatedAt": "2026-09-24T23:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-24T22:00:23+00:00",
+      "updatedAt": "2026-09-24T23:00:26+00:00",
       "stories": [
         {
           "title": "True or false on space industry trends with Pacôme Révillon",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-24T22:00:23+00:00",
+      "updatedAt": "2026-09-24T23:00:26+00:00",
       "stories": [
         {
           "title": "Adaptability is key for Josh Kutryk as long-delayed ISS mission nears",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-24T22:00:23+00:00",
+      "updatedAt": "2026-09-24T23:00:26+00:00",
       "stories": [
         {
           "title": "Canada Army Run 2026: Bringing Canadians Together in Support of the People Behind the Army",
@@ -211,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-24T22:00:23+00:00",
+      "updatedAt": "2026-09-24T23:00:26+00:00",
       "stories": [
+        {
+          "title": "BAE Systems delivers two AMPV 30s to Army built with internal funding in project the service didn’t formally request",
+          "url": "https://defensescoop.com/2026/09/24/bae-systems-ampv-30-prototypes-army",
+          "publishedAt": "2026-09-24T22:51:50+00:00",
+          "source": "DefenseScoop"
+        },
         {
           "title": "Russian hybrid attacks likely to increase in coming months: Danish intel assessment",
           "url": "https://breakingdefense.com/2026/09/russian-hybrid-attacks-likely-to-increase-in-coming-months-danish-intel-assessment",
@@ -296,19 +302,13 @@
           "url": "https://defensescoop.com/2026/09/23/northern-command-falcon-peak-26-2-counter-drone-exercise",
           "publishedAt": "2026-09-23T15:32:42+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "More than 100K personnel use Maven Smart System: Pentagon official",
-          "url": "https://defensescoop.com/2026/09/22/maven-smart-system-ai-james-mazol-cameron-stanley-defensetalks",
-          "publishedAt": "2026-09-22T21:20:22+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-24T22:00:23+00:00",
+      "updatedAt": "2026-09-24T23:00:26+00:00",
       "stories": [
         {
           "title": "Claude spots a CRISPR-like DNA mystery",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-24T22:00:23+00:00",
+      "updatedAt": "2026-09-24T23:00:26+00:00",
       "stories": [
         {
           "title": "5 million robots are now at work in factories worldwide, reports the IFR",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-24T22:00:23+00:00",
+    "updatedAt": "2026-09-24T23:00:26+00:00",
     "stories": [
       {
         "title": "Claude spots a CRISPR-like DNA mystery",
@@ -549,10 +549,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Russian hybrid attacks likely to increase in coming months: Danish intel assessment",
-        "url": "https://breakingdefense.com/2026/09/russian-hybrid-attacks-likely-to-increase-in-coming-months-danish-intel-assessment",
-        "publishedAt": "2026-09-24T18:09:16+00:00",
-        "source": "Breaking Defense",
+        "title": "BAE Systems delivers two AMPV 30s to Army built with internal funding in project the service didn’t formally request",
+        "url": "https://defensescoop.com/2026/09/24/bae-systems-ampv-30-prototypes-army",
+        "publishedAt": "2026-09-24T22:51:50+00:00",
+        "source": "DefenseScoop",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -585,9 +585,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "OCCAR awards $4.2B DDX destroyer contract to Fincantieri, Leonardo joint venture",
-        "url": "https://breakingdefense.com/2026/09/occar-awards-4-2b-ddx-destroyer-contract-to-fincantieri-leonardo-joint-venture",
-        "publishedAt": "2026-09-24T18:03:00+00:00",
+        "title": "Russian hybrid attacks likely to increase in coming months: Danish intel assessment",
+        "url": "https://breakingdefense.com/2026/09/russian-hybrid-attacks-likely-to-increase-in-coming-months-danish-intel-assessment",
+        "publishedAt": "2026-09-24T18:09:16+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
