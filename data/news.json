@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T01:00:24+00:00",
+  "generatedAt": "2026-09-24T02:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-24T01:00:24+00:00",
+      "updatedAt": "2026-09-24T02:00:25+00:00",
       "stories": [
         {
           "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-24T01:00:24+00:00",
+      "updatedAt": "2026-09-24T02:00:25+00:00",
       "stories": [
         {
           "title": "MDA Space cleared for share buyback of up to 5%",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-24T01:00:24+00:00",
+      "updatedAt": "2026-09-24T02:00:25+00:00",
       "stories": [
         {
           "title": "Canada Army Run 2026: Bringing Canadians Together in Support of the People Behind the Army",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-24T01:00:24+00:00",
+      "updatedAt": "2026-09-24T02:00:25+00:00",
       "stories": [
         {
           "title": "Army awards Palantir $48.1M to modernize ammo management",
@@ -314,8 +314,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-24T01:00:24+00:00",
+      "updatedAt": "2026-09-24T02:00:25+00:00",
       "stories": [
+        {
+          "title": "Everything new coming to Meta’s AI agent Muse",
+          "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse",
+          "publishedAt": "2026-09-24T01:13:32+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
           "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
@@ -326,12 +332,6 @@
           "title": "Meta introduces camera-free AI glasses",
           "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses",
           "publishedAt": "2026-09-23T23:39:44+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Anthropic says its biology lab has already found something big",
-          "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big",
-          "publishedAt": "2026-09-23T22:17:39+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-24T01:00:24+00:00",
+      "updatedAt": "2026-09-24T02:00:25+00:00",
       "stories": [
         {
           "title": "With the new VENTUNO Q board, Arduino hopes to make robotics development easier",
@@ -507,21 +507,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-24T01:00:24+00:00",
+    "updatedAt": "2026-09-24T02:00:25+00:00",
     "stories": [
       {
-        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-        "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
-        "publishedAt": "2026-09-24T00:46:17+00:00",
+        "title": "Everything new coming to Meta’s AI agent Muse",
+        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse",
+        "publishedAt": "2026-09-24T01:13:32+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Meta introduces camera-free AI glasses",
-        "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses",
-        "publishedAt": "2026-09-23T23:39:44+00:00",
+        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+        "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
+        "publishedAt": "2026-09-24T00:46:17+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
