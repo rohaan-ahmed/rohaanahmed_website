@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T12:00:32+00:00",
+  "generatedAt": "2026-09-24T13:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-24T12:00:32+00:00",
+      "updatedAt": "2026-09-24T13:00:30+00:00",
       "stories": [
         {
           "title": "Record participation in ESA’s Industry Space Days 2026",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-24T12:00:32+00:00",
+      "updatedAt": "2026-09-24T13:00:30+00:00",
       "stories": [
         {
           "title": "Carleton University wins Canadian International Rover Challenge in Alberta",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-24T12:00:32+00:00",
+      "updatedAt": "2026-09-24T13:00:30+00:00",
       "stories": [
         {
           "title": "Canada Army Run 2026: Bringing Canadians Together in Support of the People Behind the Army",
@@ -205,20 +205,20 @@
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/canada-army-run-returns-to-downtown-ottawa-this-weekend.html",
           "publishedAt": "2026-09-18T14:00:03+00:00",
           "source": "National Defence"
-        },
-        {
-          "title": "Statement on Canada’s Participation in Multilateral Maritime Cooperative Activity",
-          "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/statement-on-canadas-participation-in-multilateral-maritime-cooperative-activity.html",
-          "publishedAt": "2026-09-14T12:43:17+00:00",
-          "source": "National Defence"
         }
       ]
     },
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-24T12:00:32+00:00",
+      "updatedAt": "2026-09-24T13:00:30+00:00",
       "stories": [
+        {
+          "title": "Navy wants more offensive, ‘expeditionary’ cyber capabilities",
+          "url": "https://breakingdefense.com/2026/09/navy-wants-more-offensive-expeditionary-cyber-capabilities",
+          "publishedAt": "2026-09-24T12:34:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Report: CIA warned Europe of Russian drone attack from vessels in the Mediterranean",
           "url": "https://www.defensenews.com/global/europe/2026/09/24/report-cia-warned-europe-of-russian-drone-attack-from-vessels-in-the-mediterranean",
@@ -280,12 +280,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Air, Space Forces pick up research pace for orbital cargo delivery",
-          "url": "https://breakingdefense.com/2026/09/air-space-forces-pick-up-research-pace-for-orbital-cargo-delivery",
-          "publishedAt": "2026-09-23T14:10:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "What’s unique about Northcom’s Falcon Peak 26.2 counter-drone exercise",
           "url": "https://defensescoop.com/2026/09/23/northern-command-falcon-peak-26-2-counter-drone-exercise",
           "publishedAt": "2026-09-23T15:32:42+00:00",
@@ -314,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-24T12:00:32+00:00",
+      "updatedAt": "2026-09-24T13:00:30+00:00",
       "stories": [
         {
           "title": "Claude spots a CRISPR-like DNA mystery",
@@ -329,6 +323,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+          "publishedAt": "2026-09-24T12:54:19+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Everything new coming to Meta’s AI agent Muse",
           "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse",
           "publishedAt": "2026-09-24T01:13:32+00:00",
@@ -338,12 +338,6 @@
           "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
           "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
           "publishedAt": "2026-09-24T00:46:17+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Meta introduces camera-free AI glasses",
-          "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses",
-          "publishedAt": "2026-09-23T23:39:44+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -411,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-24T12:00:32+00:00",
+      "updatedAt": "2026-09-24T13:00:30+00:00",
       "stories": [
         {
           "title": "With the new VENTUNO Q board, Arduino hopes to make robotics development easier",
@@ -507,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-24T12:00:32+00:00",
+    "updatedAt": "2026-09-24T13:00:30+00:00",
     "stories": [
       {
         "title": "Claude spots a CRISPR-like DNA mystery",
@@ -555,10 +549,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Report: CIA warned Europe of Russian drone attack from vessels in the Mediterranean",
-        "url": "https://www.defensenews.com/global/europe/2026/09/24/report-cia-warned-europe-of-russian-drone-attack-from-vessels-in-the-mediterranean",
-        "publishedAt": "2026-09-24T11:19:36+00:00",
-        "source": "Defense News",
+        "title": "Navy wants more offensive, ‘expeditionary’ cyber capabilities",
+        "url": "https://breakingdefense.com/2026/09/navy-wants-more-offensive-expeditionary-cyber-capabilities",
+        "publishedAt": "2026-09-24T12:34:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -573,30 +567,30 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Report: CIA warned Europe of Russian drone attack from vessels in the Mediterranean",
+        "url": "https://www.defensenews.com/global/europe/2026/09/24/report-cia-warned-europe-of-russian-drone-attack-from-vessels-in-the-mediterranean",
+        "publishedAt": "2026-09-24T11:19:36+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+        "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+        "publishedAt": "2026-09-24T12:54:19+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "MDA Space cleared for share buyback of up to 5%",
         "url": "https://spaceq.ca/mda-space-cleared-for-share-buyback-of-up-to-5",
         "publishedAt": "2026-09-23T18:44:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Launch Canada secures federal funding as Waterloo Rocketry breaks world altitude record",
-        "url": "https://spaceq.ca/launch-canada-secures-federal-funding-as-waterloo-rocketry-breaks-world-altitude-record",
-        "publishedAt": "2026-09-23T16:48:00+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
-        "url": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1",
-        "publishedAt": "2026-09-23T15:18:10+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
