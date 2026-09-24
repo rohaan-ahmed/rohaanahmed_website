@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-24T07:00:25+00:00",
+  "generatedAt": "2026-09-24T08:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-24T07:00:25+00:00",
+      "updatedAt": "2026-09-24T08:00:29+00:00",
       "stories": [
+        {
+          "title": "Record participation in ESA’s Industry Space Days 2026",
+          "url": "https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026",
+          "publishedAt": "2026-09-24T07:05:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
           "url": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1",
@@ -55,12 +61,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Juice to fly past Earth for third gravity assist",
-          "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist",
-          "publishedAt": "2026-09-21T14:00:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
           "url": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs",
           "publishedAt": "2026-09-18T14:47:38+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-24T07:00:25+00:00",
+      "updatedAt": "2026-09-24T08:00:29+00:00",
       "stories": [
         {
           "title": "MDA Space cleared for share buyback of up to 5%",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-24T07:00:25+00:00",
+      "updatedAt": "2026-09-24T08:00:29+00:00",
       "stories": [
         {
           "title": "Canada Army Run 2026: Bringing Canadians Together in Support of the People Behind the Army",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-24T07:00:25+00:00",
+      "updatedAt": "2026-09-24T08:00:29+00:00",
       "stories": [
         {
           "title": "Army awards Palantir $48.1M to modernize ammo management",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-24T07:00:25+00:00",
+      "updatedAt": "2026-09-24T08:00:29+00:00",
       "stories": [
         {
           "title": "Everything new coming to Meta’s AI agent Muse",
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-24T07:00:25+00:00",
+      "updatedAt": "2026-09-24T08:00:29+00:00",
       "stories": [
         {
           "title": "With the new VENTUNO Q board, Arduino hopes to make robotics development easier",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-24T07:00:25+00:00",
+    "updatedAt": "2026-09-24T08:00:29+00:00",
     "stories": [
       {
         "title": "Everything new coming to Meta’s AI agent Muse",
@@ -537,10 +537,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
-        "url": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1",
-        "publishedAt": "2026-09-23T15:18:10+00:00",
-        "source": "SpaceNews",
+        "title": "Record participation in ESA’s Industry Space Days 2026",
+        "url": "https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026",
+        "publishedAt": "2026-09-24T07:05:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -582,21 +582,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
+        "url": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1",
+        "publishedAt": "2026-09-23T15:18:10+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Iain Christie returns: Let me explain…",
         "url": "https://spaceq.ca/iain-christie-returns-let-me-explain",
         "publishedAt": "2026-09-23T14:42:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas",
-        "publishedAt": "2026-09-24T04:05:00+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
