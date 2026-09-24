@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T18:28:03+00:00",
+  "generatedAt": "2026-09-24T19:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-24T18:28:03+00:00",
+      "updatedAt": "2026-09-24T19:00:34+00:00",
       "stories": [
         {
           "title": "True or false on space industry trends with Pacôme Révillon",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-24T18:28:03+00:00",
+      "updatedAt": "2026-09-24T19:00:34+00:00",
       "stories": [
+        {
+          "title": "Adaptability is key for Josh Kutryk as long-delayed ISS mission nears",
+          "url": "https://spaceq.ca/adaptability-is-key-for-josh-kutryk-as-long-delayed-iss-mission-nears",
+          "publishedAt": "2026-09-24T18:54:58+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Carleton University wins Canadian International Rover Challenge in Alberta",
           "url": "https://spaceq.ca/carleton-university-wins-canadian-international-rover-challenge-in-alberta",
@@ -162,19 +168,13 @@
           "url": "https://spaceq.ca/fall-colour-nunavut-tundra-nasa",
           "publishedAt": "2026-09-21T16:30:00+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "Canada, Norway finalize space agreement, add industry deals",
-          "url": "https://spaceq.ca/canada-norway-space-agreement",
-          "publishedAt": "2026-09-21T13:35:00+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-24T18:28:03+00:00",
+      "updatedAt": "2026-09-24T19:00:34+00:00",
       "stories": [
         {
           "title": "Canada Army Run 2026: Bringing Canadians Together in Support of the People Behind the Army",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-24T18:28:03+00:00",
+      "updatedAt": "2026-09-24T19:00:34+00:00",
       "stories": [
         {
           "title": "Russian hybrid attacks likely to increase in coming months: Danish intel assessment",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-24T18:28:03+00:00",
+      "updatedAt": "2026-09-24T19:00:34+00:00",
       "stories": [
         {
           "title": "Claude spots a CRISPR-like DNA mystery",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-24T18:28:03+00:00",
+      "updatedAt": "2026-09-24T19:00:34+00:00",
       "stories": [
         {
           "title": "Why you should look beyond the spec sheet when choosing motion architecture",
@@ -418,6 +418,12 @@
           "url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
           "publishedAt": "2026-09-24T18:00:04+00:00",
           "source": "IEEE Spectrum Robotics"
+        },
+        {
+          "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+          "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers",
+          "publishedAt": "2026-09-24T18:52:38+00:00",
+          "source": "TechCrunch Robotics"
         },
         {
           "title": "Epson introduces AX6 cobot with compact design, no-code programming",
@@ -474,12 +480,6 @@
           "source": "IEEE Spectrum Robotics"
         },
         {
-          "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-          "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage",
-          "publishedAt": "2026-09-22T14:30:00+00:00",
-          "source": "TechCrunch Robotics"
-        },
-        {
           "title": "Video Friday: Two Birotors Make a Quadrotor",
           "url": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
           "publishedAt": "2026-09-18T16:01:05+00:00",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-24T18:28:03+00:00",
+    "updatedAt": "2026-09-24T19:00:34+00:00",
     "stories": [
       {
         "title": "Claude spots a CRISPR-like DNA mystery",
@@ -522,9 +522,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Carleton University wins Canadian International Rover Challenge in Alberta",
-        "url": "https://spaceq.ca/carleton-university-wins-canadian-international-rover-challenge-in-alberta",
-        "publishedAt": "2026-09-24T11:40:00+00:00",
+        "title": "Adaptability is key for Josh Kutryk as long-delayed ISS mission nears",
+        "url": "https://spaceq.ca/adaptability-is-key-for-josh-kutryk-as-long-delayed-iss-mission-nears",
+        "publishedAt": "2026-09-24T18:54:58+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -576,18 +576,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "OCCAR awards $4.2B DDX destroyer contract to Fincantieri, Leonardo joint venture",
-        "url": "https://breakingdefense.com/2026/09/occar-awards-4-2b-ddx-destroyer-contract-to-fincantieri-leonardo-joint-venture",
-        "publishedAt": "2026-09-24T18:03:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Carleton University wins Canadian International Rover Challenge in Alberta",
+        "url": "https://spaceq.ca/carleton-university-wins-canadian-international-rover-challenge-in-alberta",
+        "publishedAt": "2026-09-24T11:40:00+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
-        "url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center",
-        "publishedAt": "2026-09-24T16:53:55+00:00",
+        "title": "OCCAR awards $4.2B DDX destroyer contract to Fincantieri, Leonardo joint venture",
+        "url": "https://breakingdefense.com/2026/09/occar-awards-4-2b-ddx-destroyer-contract-to-fincantieri-leonardo-joint-venture",
+        "publishedAt": "2026-09-24T18:03:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
