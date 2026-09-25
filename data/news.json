@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T05:00:26+00:00",
+  "generatedAt": "2026-09-25T06:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-25T05:00:26+00:00",
+      "updatedAt": "2026-09-25T06:00:28+00:00",
       "stories": [
         {
           "title": "True or false on space industry trends with Pacôme Révillon",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-25T05:00:26+00:00",
+      "updatedAt": "2026-09-25T06:00:28+00:00",
       "stories": [
         {
           "title": "Adaptability is key for Josh Kutryk as long-delayed ISS mission nears",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-25T05:00:26+00:00",
+      "updatedAt": "2026-09-25T06:00:28+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to welcome Vietnam’s Deputy Prime Minister and Minister of National Defence",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-25T05:00:26+00:00",
+      "updatedAt": "2026-09-25T06:00:28+00:00",
       "stories": [
         {
           "title": "BAE Systems delivers two AMPV 30s to Army built with internal funding in project the service didn’t formally request",
@@ -314,8 +314,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-25T05:00:26+00:00",
+      "updatedAt": "2026-09-25T06:00:28+00:00",
       "stories": [
+        {
+          "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+          "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
+          "publishedAt": "2026-09-25T05:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Claude spots a CRISPR-like DNA mystery",
           "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
@@ -338,12 +344,6 @@
           "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
           "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses",
           "publishedAt": "2026-09-24T19:00:42+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-          "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center",
-          "publishedAt": "2026-09-24T18:11:44+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-25T05:00:26+00:00",
+      "updatedAt": "2026-09-25T06:00:28+00:00",
       "stories": [
         {
           "title": "5 million robots are now at work in factories worldwide, reports the IFR",
@@ -507,20 +507,20 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-25T05:00:26+00:00",
+    "updatedAt": "2026-09-25T06:00:28+00:00",
     "stories": [
       {
-        "title": "Claude spots a CRISPR-like DNA mystery",
-        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "publishedAt": "2026-09-24T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+        "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
+        "publishedAt": "2026-09-25T05:00:00+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Claude now leads 26% of Anthropic's AI research",
-        "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+        "title": "Claude spots a CRISPR-like DNA mystery",
+        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
         "publishedAt": "2026-09-24T09:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
