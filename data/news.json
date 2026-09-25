@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-25T22:00:24+00:00",
+  "generatedAt": "2026-09-25T22:14:13+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-25T22:00:24+00:00",
+      "updatedAt": "2026-09-25T22:14:13+00:00",
       "stories": [
+        {
+          "title": "NASA, Boeing to Provide Update on Starliner Development",
+          "url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development",
+          "publishedAt": "2026-09-25T22:06:50+00:00",
+          "source": "NASA"
+        },
         {
           "title": "NASA Welcomes San Marino Signing the Artemis Accords",
           "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords",
@@ -16,12 +22,6 @@
           "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
           "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch",
           "publishedAt": "2026-09-25T19:36:10+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "2026-2027 DWU: Middle School Design Challenge",
-          "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge",
-          "publishedAt": "2026-09-25T17:20:51+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-25T22:00:24+00:00",
+      "updatedAt": "2026-09-25T22:14:13+00:00",
       "stories": [
         {
           "title": "MDA Space becomes Denver Broncos’ first space partner",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-25T22:00:24+00:00",
+      "updatedAt": "2026-09-25T22:14:13+00:00",
       "stories": [
         {
           "title": "Counter Uncrewed Aerial Systems (CUAS) Sandbox 2026",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-25T22:00:24+00:00",
+      "updatedAt": "2026-09-25T22:14:13+00:00",
       "stories": [
         {
           "title": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-25T22:00:24+00:00",
+      "updatedAt": "2026-09-25T22:14:13+00:00",
       "stories": [
         {
           "title": "Meta’s Connect turns into a Muse takeover",
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-25T22:00:24+00:00",
+      "updatedAt": "2026-09-25T22:14:13+00:00",
       "stories": [
         {
           "title": "Amazon to invest $100M in new Indiana manufacturing facility",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-25T22:00:24+00:00",
+    "updatedAt": "2026-09-25T22:14:13+00:00",
     "stories": [
       {
         "title": "Meta’s Connect turns into a Muse takeover",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NASA Welcomes San Marino Signing the Artemis Accords",
-        "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords",
-        "publishedAt": "2026-09-25T19:53:03+00:00",
+        "title": "NASA, Boeing to Provide Update on Starliner Development",
+        "url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development",
+        "publishedAt": "2026-09-25T22:06:50+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",

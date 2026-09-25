@@ -5,16 +5,16 @@
     <link>https://rohaanahmed.com/news.html</link>
     <description>An automatically curated news feed built around my areas of interest</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 25 Sep 2026 22:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 22:14:13 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <guid isPermaLink="false">3b4dde1fd07b795a9fde0ebcd0c8b54fb9496ccba748b2161bf2d8be05bed384</guid>
+      <guid isPermaLink="false">888cff4d14d6ec6919e562bc8cb7dae3d67ca9266fc2106ee9d95326ae0c1739</guid>
       <title>International Space (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-space</link>
-      <pubDate>Fri, 25 Sep 2026 22:00:24 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 22:14:13 +0000</pubDate>
       <category>International Space</category>
       <description>Topic: International Space
-Updated: 2026-09-25T22:00:24+00:00
+Updated: 2026-09-25T22:14:13+00:00
 Stories: 15</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
@@ -22,12 +22,32 @@ Stories: 15</description>
       <ra:kind>topic</ra:kind>
     </item>
     <item>
+      <title>NASA, Boeing to Provide Update on Starliner Development</title>
+      <link>https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development</link>
+      <guid isPermaLink="false">4748b5f5578c86533b5556f0ef4ec4bb6fbc9132c66aa3fcce40e5b894f1adcc</guid>
+      <pubDate>Fri, 25 Sep 2026 22:06:50 +0000</pubDate>
+      <category>International Space</category>
+      <category>Bulletin</category>
+      <source url="https://www.nasa.gov/">NASA</source>
+      <description>Topic: International Space
+Source: NASA
+Published: 2026-09-25T22:06:50+00:00
+Headline: NASA, Boeing to Provide Update on Starliner Development</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>4</ra:bulletinPosition>
+      <ra:publishedAt>2026-09-25T22:06:50+00:00</ra:publishedAt>
+      <ra:sourceName>NASA</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
       <title>NASA Welcomes San Marino Signing the Artemis Accords</title>
       <link>https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords</link>
       <guid isPermaLink="false">5147a1b4d12d942cf25f05797fc9e6bbbd2425755b167abb12aa4405e9c76c50</guid>
       <pubDate>Fri, 25 Sep 2026 19:53:03 +0000</pubDate>
       <category>International Space</category>
-      <category>Bulletin</category>
       <source url="https://www.nasa.gov/">NASA</source>
       <description>Topic: International Space
 Source: NASA
@@ -36,8 +56,7 @@ Headline: NASA Welcomes San Marino Signing the Artemis Accords</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>4</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
       <ra:publishedAt>2026-09-25T19:53:03+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -56,27 +75,8 @@ Headline: NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
-      <ra:publishedAt>2026-09-25T19:36:10+00:00</ra:publishedAt>
-      <ra:sourceName>NASA</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>2026-2027 DWU: Middle School Design Challenge</title>
-      <link>https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge</link>
-      <guid isPermaLink="false">b8133399c96cb615f2b2c725042b774b91d1c37480bc18f53ffb6210261a51c2</guid>
-      <pubDate>Fri, 25 Sep 2026 17:20:51 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.nasa.gov/">NASA</source>
-      <description>Topic: International Space
-Source: NASA
-Published: 2026-09-25T17:20:51+00:00
-Headline: 2026-2027 DWU: Middle School Design Challenge</description>
-      <ra:topicId>international-space</ra:topicId>
-      <ra:topicName>International Space</ra:topicName>
-      <ra:topicPosition>1</ra:topicPosition>
       <ra:storyPosition>3</ra:storyPosition>
-      <ra:publishedAt>2026-09-25T17:20:51+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-09-25T19:36:10+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -309,13 +309,13 @@ Headline: Simera Sense and IDOM partner to develop and produce xScape350 optical
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">327a5f23a6bea6493336b228d4d91867efc1a52c49ac38307771d713ab74745b</guid>
+      <guid isPermaLink="false">d196006a03862ea195366d3202251946eedb3b380f4a0d4fb38ddaba2ac711bd</guid>
       <title>Canadian Space (11 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
-      <pubDate>Fri, 25 Sep 2026 22:00:24 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 22:14:13 +0000</pubDate>
       <category>Canadian Space</category>
       <description>Topic: Canadian Space
-Updated: 2026-09-25T22:00:24+00:00
+Updated: 2026-09-25T22:14:13+00:00
 Stories: 11</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
@@ -534,13 +534,13 @@ Headline: UK’s new space strategy leans on Europe — where Canada fits</descr
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">e5889bbc5e1d22aa88993f36061f3db9b3758881cc576267be0231b66f0a7b00</guid>
+      <guid isPermaLink="false">27ef927ede8b1a9f99b09aba03f11d04d7423eb85006ccdbc46551b808aeb182</guid>
       <title>Canadian Defence (7 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
-      <pubDate>Fri, 25 Sep 2026 22:00:24 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 22:14:13 +0000</pubDate>
       <category>Canadian Defence</category>
       <description>Topic: Canadian Defence
-Updated: 2026-09-25T22:00:24+00:00
+Updated: 2026-09-25T22:14:13+00:00
 Stories: 7</description>
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
@@ -683,13 +683,13 @@ Headline: Canada Army Run Returns to Downtown Ottawa This Weekend</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">a2b2e819cc545b16bdf5d25081e682b2de110c415b6ce9c9cf3b27c5ac590d52</guid>
+      <guid isPermaLink="false">debf37cd11ac657272de3c011309678d3819d4cc70241ac79464b9c577554230</guid>
       <title>International Defence Technology (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
-      <pubDate>Fri, 25 Sep 2026 22:00:24 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 22:14:13 +0000</pubDate>
       <category>International Defence Technology</category>
       <description>Topic: International Defence Technology
-Updated: 2026-09-25T22:00:24+00:00
+Updated: 2026-09-25T22:14:13+00:00
 Stories: 15</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
@@ -990,13 +990,13 @@ Headline: Cartel drone ops on the U.S.-Mexico border ‘get more creative every 
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">64568c88edea84f6eca22c7f3d88703595c1289f02d7af0bb09521f9eb239149</guid>
+      <guid isPermaLink="false">49c3e266e02283b12b33c75dcb53146615254b7f82520a60ebaa6332b0ba80be</guid>
       <title>Artificial Intelligence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
-      <pubDate>Fri, 25 Sep 2026 22:00:24 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 22:14:13 +0000</pubDate>
       <category>Artificial Intelligence</category>
       <description>Topic: Artificial Intelligence
-Updated: 2026-09-25T22:00:24+00:00
+Updated: 2026-09-25T22:14:13+00:00
 Stories: 15</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
@@ -1293,13 +1293,13 @@ Headline: OpenAI taps mathematicians to check its AI</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">e280dfbbeb7c5ff9172dab5ffa7129f5c473b03e4362a5a19a33c3a4f9830457</guid>
+      <guid isPermaLink="false">61550395034cf7960b76249cdb1e80c6fd4059218f16c15930378510788ffd48</guid>
       <title>Robotics (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-robotics</link>
-      <pubDate>Fri, 25 Sep 2026 22:00:24 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 22:14:13 +0000</pubDate>
       <category>Robotics</category>
       <description>Topic: Robotics
-Updated: 2026-09-25T22:00:24+00:00
+Updated: 2026-09-25T22:14:13+00:00
 Stories: 15</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
