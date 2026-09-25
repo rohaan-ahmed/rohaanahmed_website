@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T00:04:34+00:00",
+  "generatedAt": "2026-09-25T01:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-25T00:04:34+00:00",
+      "updatedAt": "2026-09-25T01:00:32+00:00",
       "stories": [
         {
           "title": "True or false on space industry trends with Pacôme Révillon",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-25T00:04:34+00:00",
+      "updatedAt": "2026-09-25T01:00:32+00:00",
       "stories": [
         {
           "title": "Adaptability is key for Josh Kutryk as long-delayed ISS mission nears",
@@ -174,8 +174,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-25T00:04:34+00:00",
+      "updatedAt": "2026-09-25T01:00:32+00:00",
       "stories": [
+        {
+          "title": "Minister McGuinty to welcome Vietnam’s Deputy Prime Minister and Minister of National Defence",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/minister-mcguinty-to-welcome-vietnams-deputy-prime-minister-and-minister-of-national-defence.html",
+          "publishedAt": "2026-09-25T00:12:37+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Canada Army Run 2026: Bringing Canadians Together in Support of the People Behind the Army",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/canada-army-run-2026-bringing-canadians-together-in-support-of-the-people-behind-the-army.html",
@@ -211,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-25T00:04:34+00:00",
+      "updatedAt": "2026-09-25T01:00:32+00:00",
       "stories": [
         {
           "title": "BAE Systems delivers two AMPV 30s to Army built with internal funding in project the service didn’t formally request",
@@ -308,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-25T00:04:34+00:00",
+      "updatedAt": "2026-09-25T01:00:32+00:00",
       "stories": [
         {
           "title": "Claude spots a CRISPR-like DNA mystery",
@@ -405,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-25T00:04:34+00:00",
+      "updatedAt": "2026-09-25T01:00:32+00:00",
       "stories": [
         {
           "title": "5 million robots are now at work in factories worldwide, reports the IFR",
@@ -501,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-25T00:04:34+00:00",
+    "updatedAt": "2026-09-25T01:00:32+00:00",
     "stories": [
       {
         "title": "Claude spots a CRISPR-like DNA mystery",
@@ -540,9 +546,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Canada Army Run 2026: Bringing Canadians Together in Support of the People Behind the Army",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/canada-army-run-2026-bringing-canadians-together-in-support-of-the-people-behind-the-army.html",
-        "publishedAt": "2026-09-22T22:16:57+00:00",
+        "title": "Minister McGuinty to welcome Vietnam’s Deputy Prime Minister and Minister of National Defence",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/minister-mcguinty-to-welcome-vietnams-deputy-prime-minister-and-minister-of-national-defence.html",
+        "publishedAt": "2026-09-25T00:12:37+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
