@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T18:57:44+00:00",
+  "generatedAt": "2026-09-25T19:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-25T18:57:44+00:00",
+      "updatedAt": "2026-09-25T19:00:28+00:00",
       "stories": [
         {
           "title": "2026-2027 DWU: Middle School Design Challenge",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-25T18:57:44+00:00",
+      "updatedAt": "2026-09-25T19:00:28+00:00",
       "stories": [
         {
           "title": "MDA Space becomes Denver Broncos’ first space partner",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-25T18:57:44+00:00",
+      "updatedAt": "2026-09-25T19:00:28+00:00",
       "stories": [
         {
           "title": "Counter Uncrewed Aerial Systems (CUAS) Sandbox 2026",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-25T18:57:44+00:00",
+      "updatedAt": "2026-09-25T19:00:28+00:00",
       "stories": [
         {
           "title": "South Korea inducts first locally developed fighter jet into air force",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-25T18:57:44+00:00",
+      "updatedAt": "2026-09-25T19:00:28+00:00",
       "stories": [
         {
           "title": "Meta’s Connect turns into a Muse takeover",
@@ -417,8 +417,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-25T18:57:44+00:00",
+      "updatedAt": "2026-09-25T19:00:28+00:00",
       "stories": [
+        {
+          "title": "General Robotics is betting on modular intelligence, not one robot brain",
+          "url": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain",
+          "publishedAt": "2026-09-25T18:43:22+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
           "url": "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots",
@@ -480,12 +486,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "Epson introduces AX6 cobot with compact design, no-code programming",
-          "url": "https://www.therobotreport.com/epson-introduces-ax6-cobot-compact-design-no-code-programming",
-          "publishedAt": "2026-09-24T14:51:07+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
           "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026",
           "publishedAt": "2026-09-24T15:00:00+00:00",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-25T18:57:44+00:00",
+    "updatedAt": "2026-09-25T19:00:28+00:00",
     "stories": [
       {
         "title": "Meta’s Connect turns into a Muse takeover",
@@ -570,9 +570,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
-        "url": "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots",
-        "publishedAt": "2026-09-25T14:08:27+00:00",
+        "title": "General Robotics is betting on modular intelligence, not one robot brain",
+        "url": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain",
+        "publishedAt": "2026-09-25T18:43:22+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
