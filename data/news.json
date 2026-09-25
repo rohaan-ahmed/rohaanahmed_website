@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T21:00:27+00:00",
+  "generatedAt": "2026-09-25T22:00:24+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-25T21:00:27+00:00",
+      "updatedAt": "2026-09-25T22:00:24+00:00",
       "stories": [
         {
           "title": "NASA Welcomes San Marino Signing the Artemis Accords",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-25T21:00:27+00:00",
+      "updatedAt": "2026-09-25T22:00:24+00:00",
       "stories": [
         {
           "title": "MDA Space becomes Denver Broncos’ first space partner",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-25T21:00:27+00:00",
+      "updatedAt": "2026-09-25T22:00:24+00:00",
       "stories": [
         {
           "title": "Counter Uncrewed Aerial Systems (CUAS) Sandbox 2026",
@@ -223,8 +223,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-25T21:00:27+00:00",
+      "updatedAt": "2026-09-25T22:00:24+00:00",
       "stories": [
+        {
+          "title": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
+          "url": "https://www.defensenews.com/unmanned/2026/09/25/ukraines-deadly-ai-training-platform-for-drone-tech-opens-to-uk-companies",
+          "publishedAt": "2026-09-25T21:24:56+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Building logistics networks that survive contested environments",
           "url": "https://breakingdefense.com/2026/09/building-logistics-networks-that-survive-contested-environments",
@@ -280,12 +286,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Desolate Arctic outpost likely to host US troops under new Greenland deal",
-          "url": "https://www.defensenews.com/news/your-military/2026/09/25/desolate-arctic-outpost-likely-to-host-us-troops-under-new-greenland-deal",
-          "publishedAt": "2026-09-25T13:20:08+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Navy creates warfighting development center in Virginia to determine how the sea service will employ unmanned systems in future battles",
           "url": "https://defensescoop.com/2026/09/25/navy-creates-robotic-autonomous-systems-warfighting-development-center",
           "publishedAt": "2026-09-25T14:34:04+00:00",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-25T21:00:27+00:00",
+      "updatedAt": "2026-09-25T22:00:24+00:00",
       "stories": [
         {
           "title": "Meta’s Connect turns into a Muse takeover",
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-25T21:00:27+00:00",
+      "updatedAt": "2026-09-25T22:00:24+00:00",
       "stories": [
         {
           "title": "Amazon to invest $100M in new Indiana manufacturing facility",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-25T21:00:27+00:00",
+    "updatedAt": "2026-09-25T22:00:24+00:00",
     "stories": [
       {
         "title": "Meta’s Connect turns into a Muse takeover",
@@ -561,10 +561,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Building logistics networks that survive contested environments",
-        "url": "https://breakingdefense.com/2026/09/building-logistics-networks-that-survive-contested-environments",
-        "publishedAt": "2026-09-25T20:28:21+00:00",
-        "source": "Breaking Defense",
+        "title": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
+        "url": "https://www.defensenews.com/unmanned/2026/09/25/ukraines-deadly-ai-training-platform-for-drone-tech-opens-to-uk-companies",
+        "publishedAt": "2026-09-25T21:24:56+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -579,6 +579,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Building logistics networks that survive contested environments",
+        "url": "https://breakingdefense.com/2026/09/building-logistics-networks-that-survive-contested-environments",
+        "publishedAt": "2026-09-25T20:28:21+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "DC Circuit panel upholds Pentagon’s ban on Anthropic – so what comes next?",
         "url": "https://breakingdefense.com/2026/09/dc-circuit-panel-upholds-pentagons-ban-on-anthropic-so-what-comes-next",
         "publishedAt": "2026-09-25T19:50:44+00:00",
@@ -591,15 +600,6 @@
         "title": "Navy’s shipyard revamp could cost more than $200 billion: GAO",
         "url": "https://breakingdefense.com/2026/09/navys-shipyard-revamp-could-cost-more-than-200-billion-gao",
         "publishedAt": "2026-09-25T19:45:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "‘Cyber magazine’ can run out ‘pretty damn quick’ in modern conflict: Admiral",
-        "url": "https://breakingdefense.com/2026/09/cyber-magazine-can-run-out-pretty-damn-quick-in-modern-conflict-admiral",
-        "publishedAt": "2026-09-25T19:12:45+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
