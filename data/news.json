@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-25T09:00:26+00:00",
+  "generatedAt": "2026-09-25T09:51:35+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-25T09:00:26+00:00",
+      "updatedAt": "2026-09-25T09:51:35+00:00",
       "stories": [
+        {
+          "title": "ESA and the EU partner with Museo Galileo on new exhibition",
+          "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition",
+          "publishedAt": "2026-09-25T09:00:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "Earth from Space: Venetian Lagoon",
           "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon",
@@ -67,12 +73,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "A hitchhiker’s guide to Hera’s target asteroids",
-          "url": "https://www.esa.int/Space_Safety/Hera/A_hitchhiker_s_guide_to_Hera_s_target_asteroids",
-          "publishedAt": "2026-09-23T08:10:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
           "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members",
           "publishedAt": "2026-09-21T15:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-25T09:00:26+00:00",
+      "updatedAt": "2026-09-25T09:51:35+00:00",
       "stories": [
         {
           "title": "Adaptability is key for Josh Kutryk as long-delayed ISS mission nears",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-25T09:00:26+00:00",
+      "updatedAt": "2026-09-25T09:51:35+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to welcome Vietnam’s Deputy Prime Minister and Minister of National Defence",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-25T09:00:26+00:00",
+      "updatedAt": "2026-09-25T09:51:35+00:00",
       "stories": [
         {
           "title": "BAE Systems delivers two AMPV 30s to Army built with internal funding in project the service didn’t formally request",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-25T09:00:26+00:00",
+      "updatedAt": "2026-09-25T09:51:35+00:00",
       "stories": [
         {
           "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-25T09:00:26+00:00",
+      "updatedAt": "2026-09-25T09:51:35+00:00",
       "stories": [
         {
           "title": "5 million robots are now at work in factories worldwide, reports the IFR",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-25T09:00:26+00:00",
+    "updatedAt": "2026-09-25T09:51:35+00:00",
     "stories": [
       {
         "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Earth from Space: Venetian Lagoon",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon",
-        "publishedAt": "2026-09-25T08:00:00+00:00",
+        "title": "ESA and the EU partner with Museo Galileo on new exhibition",
+        "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition",
+        "publishedAt": "2026-09-25T09:00:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -573,6 +573,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Earth from Space: Venetian Lagoon",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon",
+        "publishedAt": "2026-09-25T08:00:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "True or false on space industry trends with Pacôme Révillon",
         "url": "https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon",
         "publishedAt": "2026-09-24T15:51:42+00:00",
@@ -586,15 +595,6 @@
         "url": "https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production",
         "publishedAt": "2026-09-24T15:05:28+00:00",
         "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri",
-        "publishedAt": "2026-09-25T04:05:00+00:00",
-        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
