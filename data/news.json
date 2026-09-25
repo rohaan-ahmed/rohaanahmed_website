@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-25T17:00:29+00:00",
+  "generatedAt": "2026-09-25T18:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-25T17:00:29+00:00",
+      "updatedAt": "2026-09-25T18:00:25+00:00",
       "stories": [
+        {
+          "title": "2026-2027 DWU: Middle School Design Challenge",
+          "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge",
+          "publishedAt": "2026-09-25T17:20:51+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "2026-2027 DWU: High School Engineering Challenge",
+          "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge",
+          "publishedAt": "2026-09-25T17:19:42+00:00",
+          "source": "NASA"
+        },
         {
           "title": "Week in images: 21-25 Sep 2026",
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_Sep_2026",
@@ -22,12 +34,6 @@
           "title": "Hubble Spots Chaotic Secret in Galaxy",
           "url": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy",
           "publishedAt": "2026-09-25T15:54:10+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "TB 26-07 Aluminum Alloy 2219 Material Guidance",
-          "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance",
-          "publishedAt": "2026-09-25T14:45:51+00:00",
           "source": "NASA"
         },
         {
@@ -53,12 +59,6 @@
           "url": "https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production",
           "publishedAt": "2026-09-24T15:05:28+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
-          "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri",
-          "publishedAt": "2026-09-25T04:05:00+00:00",
-          "source": "NASA"
         },
         {
           "title": "Win a trip to ESA to witness BepiColombo arrive at Mercury",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-25T17:00:29+00:00",
+      "updatedAt": "2026-09-25T18:00:25+00:00",
       "stories": [
         {
           "title": "MDA Space becomes Denver Broncos’ first space partner",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-25T17:00:29+00:00",
+      "updatedAt": "2026-09-25T18:00:25+00:00",
       "stories": [
         {
           "title": "Counter Uncrewed Aerial Systems (CUAS) Sandbox 2026",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-25T17:00:29+00:00",
+      "updatedAt": "2026-09-25T18:00:25+00:00",
       "stories": [
         {
           "title": "Navy launches Phase II for medium robo-ship project, seeks ‘innovative solutions’",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-25T17:00:29+00:00",
+      "updatedAt": "2026-09-25T18:00:25+00:00",
       "stories": [
         {
           "title": "Meta’s Connect turns into a Muse takeover",
@@ -333,6 +333,18 @@
           "url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
           "publishedAt": "2026-09-25T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+          "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web",
+          "publishedAt": "2026-09-25T17:29:46+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Astra and Opus just passed Turing’s other test",
+          "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test",
+          "publishedAt": "2026-09-25T17:24:36+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Meta is putting its muscle behind Muse as the AI app takes off",
@@ -353,34 +365,10 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Bringing Your Muse to Life (5 minute read)",
-          "url": "https://research.meta.ai/blog/bringing-your-muse-to-life",
-          "publishedAt": "2026-09-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Gemini 3.8 Live with Live Avatar (1 minute read)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar",
-          "publishedAt": "2026-09-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "OpenAI prepares new $500/month Pro Max plan for ChatGPT (2 minute read)",
-          "url": "https://www.testingcatalog.com/openai-prepares-new-500-month-pro-max-plan-for-chatgpt",
-          "publishedAt": "2026-09-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Contrastive Language Models (8 minute read)",
-          "url": "https://contrastive-lm.notion.site/",
-          "publishedAt": "2026-09-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Managed Deep Agents v0.8: new auth, memory, and channels (12 minute read)",
-          "url": "https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new",
-          "publishedAt": "2026-09-25T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+          "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware",
+          "publishedAt": "2026-09-25T15:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Claude spots a CRISPR-like DNA mystery",
@@ -395,12 +383,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Qwen Intelligence Launches Three Mobile AI Agents (1 minute read)",
-          "url": "https://x.com/Alibaba_Qwen/status/2102727405198876753",
-          "publishedAt": "2026-09-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Anthropic, OpenAI deliver dueling frontier AI discounts",
           "url": "https://www.anthropic.com/claude-opus-5-5",
           "publishedAt": "2026-09-23T09:00:00+00:00",
@@ -411,13 +393,31 @@
           "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
           "publishedAt": "2026-09-23T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "a16z’s new AI-driven college alternative",
+          "url": "https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e",
+          "publishedAt": "2026-09-23T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Amazon blocks Meta’s Muse agent",
+          "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping",
+          "publishedAt": "2026-09-22T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Trump wants an ‘AI Force’ to guard U.S. lead",
+          "url": "https://www.bbc.com/news/articles/cqlykr2vrv04o",
+          "publishedAt": "2026-09-22T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-25T17:00:29+00:00",
+      "updatedAt": "2026-09-25T18:00:25+00:00",
       "stories": [
         {
           "title": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-25T17:00:29+00:00",
+    "updatedAt": "2026-09-25T18:00:25+00:00",
     "stories": [
       {
         "title": "Meta’s Connect turns into a Muse takeover",
@@ -543,10 +543,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Week in images: 21-25 Sep 2026",
-        "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_Sep_2026",
-        "publishedAt": "2026-09-25T13:10:00+00:00",
-        "source": "European Space Agency",
+        "title": "2026-2027 DWU: Middle School Design Challenge",
+        "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge",
+        "publishedAt": "2026-09-25T17:20:51+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -597,12 +597,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Video Friday: Life’s Better With a Little Robot Goose",
-        "url": "https://spectrum.ieee.org/video-friday-goose-household-robots",
-        "publishedAt": "2026-09-25T16:00:04+00:00",
-        "source": "IEEE Spectrum Robotics",
-        "topicId": "robotics",
-        "topicName": "Robotics",
+        "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+        "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web",
+        "publishedAt": "2026-09-25T17:29:46+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -718,6 +718,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8732: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8732: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-08"
   ]
 }
