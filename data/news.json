@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-25T13:00:29+00:00",
+  "generatedAt": "2026-09-25T14:00:42+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-25T13:00:29+00:00",
+      "updatedAt": "2026-09-25T14:00:42+00:00",
       "stories": [
+        {
+          "title": "Week in images: 21-25 Sep 2026",
+          "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_Sep_2026",
+          "publishedAt": "2026-09-25T13:10:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "Three Earth Explorer candidates go forward",
           "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Three_Earth_Explorer_candidates_go_forward",
@@ -61,12 +67,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Record participation in ESA’s Industry Space Days 2026",
-          "url": "https://www.esa.int/About_Us/Business_with_ESA/Record_participation_in_ESA_s_Industry_Space_Days_2026",
-          "publishedAt": "2026-09-24T07:05:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
           "url": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1",
           "publishedAt": "2026-09-23T15:18:10+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-25T13:00:29+00:00",
+      "updatedAt": "2026-09-25T14:00:42+00:00",
       "stories": [
         {
           "title": "MDA Space becomes Denver Broncos’ first space partner",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-25T13:00:29+00:00",
+      "updatedAt": "2026-09-25T14:00:42+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to welcome Vietnam’s Deputy Prime Minister and Minister of National Defence",
@@ -217,8 +217,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-25T13:00:29+00:00",
+      "updatedAt": "2026-09-25T14:00:42+00:00",
       "stories": [
+        {
+          "title": "Desolate Arctic outpost likely to host US troops under new Greenland deal",
+          "url": "https://www.defensenews.com/news/your-military/2026/09/25/desolate-arctic-outpost-likely-to-host-us-troops-under-new-greenland-deal",
+          "publishedAt": "2026-09-25T13:20:08+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "France to send military to protect Saudi Arabia on Red Sea oil route, Macron says",
           "url": "https://www.defensenews.com/global/europe/2026/09/25/france-to-send-military-to-protect-saudi-arabia-on-red-sea-oil-route-macron-says",
@@ -286,12 +292,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Why the last tactical mile is crucial to acquisition reform",
-          "url": "https://www.defensenews.com/opinion/2026/09/24/why-the-last-tactical-mile-is-crucial-to-acquisition-reform",
-          "publishedAt": "2026-09-24T15:49:22+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Hawk trainer crash prompts UK to ground fleet",
           "url": "https://breakingdefense.com/2026/09/hawk-trainer-crash-prompts-uk-to-ground-fleet",
           "publishedAt": "2026-09-24T13:32:00+00:00",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-25T13:00:29+00:00",
+      "updatedAt": "2026-09-25T14:00:42+00:00",
       "stories": [
         {
           "title": "Meta’s Connect turns into a Muse takeover",
@@ -327,6 +327,36 @@
           "url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
           "publishedAt": "2026-09-25T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Bringing Your Muse to Life (5 minute read)",
+          "url": "https://research.meta.ai/blog/bringing-your-muse-to-life",
+          "publishedAt": "2026-09-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Gemini 3.8 Live with Live Avatar (1 minute read)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar",
+          "publishedAt": "2026-09-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "OpenAI prepares new $500/month Pro Max plan for ChatGPT (2 minute read)",
+          "url": "https://www.testingcatalog.com/openai-prepares-new-500-month-pro-max-plan-for-chatgpt",
+          "publishedAt": "2026-09-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Contrastive Language Models (8 minute read)",
+          "url": "https://contrastive-lm.notion.site/",
+          "publishedAt": "2026-09-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Managed Deep Agents v0.8: new auth, memory, and channels (12 minute read)",
+          "url": "https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new",
+          "publishedAt": "2026-09-25T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
@@ -365,36 +395,6 @@
           "source": "TLDR AI"
         },
         {
-          "title": "Google's new speech models can design and direct voices (12 minute read)",
-          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-          "publishedAt": "2026-09-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Escaping SPACE: Part I (23 minute read)",
-          "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-i",
-          "publishedAt": "2026-09-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Towards Universal Post-Training for Robotics (18 minute read)",
-          "url": "https://pd-perry.github.io/posts/post-training.html",
-          "publishedAt": "2026-09-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Introducing Ember-1 (9 minute read)",
-          "url": "https://fireworks.ai/blog/ember-1",
-          "publishedAt": "2026-09-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "tev1-4B-experimental (1 minute read)",
-          "url": "https://threadreaderapp.com/thread/2102882216950763814.html",
-          "publishedAt": "2026-09-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Anthropic, OpenAI deliver dueling frontier AI discounts",
           "url": "https://www.anthropic.com/claude-opus-5-5",
           "publishedAt": "2026-09-23T09:00:00+00:00",
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-25T13:00:29+00:00",
+      "updatedAt": "2026-09-25T14:00:42+00:00",
       "stories": [
         {
           "title": "Farmers are facing more pressure; CNH says robotics can help",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-25T13:00:29+00:00",
+    "updatedAt": "2026-09-25T14:00:42+00:00",
     "stories": [
       {
         "title": "Meta’s Connect turns into a Muse takeover",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Three Earth Explorer candidates go forward",
-        "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Three_Earth_Explorer_candidates_go_forward",
-        "publishedAt": "2026-09-25T12:20:00+00:00",
+        "title": "Week in images: 21-25 Sep 2026",
+        "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_Sep_2026",
+        "publishedAt": "2026-09-25T13:10:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -555,9 +555,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "France to send military to protect Saudi Arabia on Red Sea oil route, Macron says",
-        "url": "https://www.defensenews.com/global/europe/2026/09/25/france-to-send-military-to-protect-saudi-arabia-on-red-sea-oil-route-macron-says",
-        "publishedAt": "2026-09-25T11:24:07+00:00",
+        "title": "Desolate Arctic outpost likely to host US troops under new Greenland deal",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/25/desolate-arctic-outpost-likely-to-host-us-troops-under-new-greenland-deal",
+        "publishedAt": "2026-09-25T13:20:08+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -573,30 +573,30 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "US F-35 fighters to debut in Indian multinational air exercise",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/25/us-f-35-fighters-to-debut-in-indian-multinational-air-exercise",
-        "publishedAt": "2026-09-25T10:18:48+00:00",
+        "title": "Three Earth Explorer candidates go forward",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Three_Earth_Explorer_candidates_go_forward",
+        "publishedAt": "2026-09-25T12:20:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "France to send military to protect Saudi Arabia on Red Sea oil route, Macron says",
+        "url": "https://www.defensenews.com/global/europe/2026/09/25/france-to-send-military-to-protect-saudi-arabia-on-red-sea-oil-route-macron-says",
+        "publishedAt": "2026-09-25T11:24:07+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Northcom’s next counter-drone demo will be its first in an urban area",
-        "url": "https://defensescoop.com/2026/09/25/northern-command-counter-drone-demonstration-urban-area",
-        "publishedAt": "2026-09-25T12:55:52+00:00",
-        "source": "DefenseScoop",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "ESA and the EU partner with Museo Galileo on new exhibition",
-        "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition",
-        "publishedAt": "2026-09-25T09:00:00+00:00",
-        "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Bringing Your Muse to Life (5 minute read)",
+        "url": "https://research.meta.ai/blog/bringing-your-muse-to-life",
+        "publishedAt": "2026-09-25T00:00:00+00:00",
+        "source": "TLDR AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
