@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-25T12:00:28+00:00",
+  "generatedAt": "2026-09-25T13:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-25T12:00:28+00:00",
+      "updatedAt": "2026-09-25T13:00:29+00:00",
       "stories": [
+        {
+          "title": "Three Earth Explorer candidates go forward",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Three_Earth_Explorer_candidates_go_forward",
+          "publishedAt": "2026-09-25T12:20:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "ESA and the EU partner with Museo Galileo on new exhibition",
           "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition",
@@ -67,12 +73,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "First switch on for ESA-JAXA Ramses asteroid mission",
-          "url": "https://www.esa.int/Space_Safety/Planetary_Defence/First_switch_on_for_ESA-JAXA_Ramses_asteroid_mission",
-          "publishedAt": "2026-09-23T11:17:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
           "url": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members",
           "publishedAt": "2026-09-21T15:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-25T12:00:28+00:00",
+      "updatedAt": "2026-09-25T13:00:29+00:00",
       "stories": [
         {
           "title": "MDA Space becomes Denver Broncos’ first space partner",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-25T12:00:28+00:00",
+      "updatedAt": "2026-09-25T13:00:29+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to welcome Vietnam’s Deputy Prime Minister and Minister of National Defence",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-25T12:00:28+00:00",
+      "updatedAt": "2026-09-25T13:00:29+00:00",
       "stories": [
         {
           "title": "France to send military to protect Saudi Arabia on Red Sea oil route, Macron says",
@@ -230,6 +230,12 @@
           "url": "https://www.defensenews.com/global/asia-pacific/2026/09/25/us-f-35-fighters-to-debut-in-indian-multinational-air-exercise",
           "publishedAt": "2026-09-25T10:18:48+00:00",
           "source": "Defense News"
+        },
+        {
+          "title": "Northcom’s next counter-drone demo will be its first in an urban area",
+          "url": "https://defensescoop.com/2026/09/25/northern-command-counter-drone-demonstration-urban-area",
+          "publishedAt": "2026-09-25T12:55:52+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "BAE Systems delivers two AMPV 30s to Army built with internal funding in project the service didn’t formally request",
@@ -302,19 +308,13 @@
           "url": "https://defensescoop.com/2026/09/23/genai-mil-pentagon-frontier-models-defensetalks",
           "publishedAt": "2026-09-23T18:25:18+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "What’s unique about Northcom’s Falcon Peak 26.2 counter-drone exercise",
-          "url": "https://defensescoop.com/2026/09/23/northern-command-falcon-peak-26-2-counter-drone-exercise",
-          "publishedAt": "2026-09-23T15:32:42+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-25T12:00:28+00:00",
+      "updatedAt": "2026-09-25T13:00:29+00:00",
       "stories": [
         {
           "title": "Meta’s Connect turns into a Muse takeover",
@@ -411,8 +411,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-25T12:00:28+00:00",
+      "updatedAt": "2026-09-25T13:00:29+00:00",
       "stories": [
+        {
+          "title": "Farmers are facing more pressure; CNH says robotics can help",
+          "url": "https://www.therobotreport.com/farmers-are-facing-more-pressure-cnh-says-robotics-can-help",
+          "publishedAt": "2026-09-25T12:18:36+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "5 million robots are now at work in factories worldwide, reports the IFR",
           "url": "https://www.therobotreport.com/5-million-robots-now-working-factories-worldwide-ifr-reports",
@@ -468,12 +474,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "With the new VENTUNO Q board, Arduino hopes to make robotics development easier",
-          "url": "https://www.therobotreport.com/new-ventuno-q-board-arduino-hopes-make-robotics-development-easier",
-          "publishedAt": "2026-09-23T18:04:35+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
           "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026",
           "publishedAt": "2026-09-23T14:00:00+00:00",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-25T12:00:28+00:00",
+    "updatedAt": "2026-09-25T13:00:29+00:00",
     "stories": [
       {
         "title": "Meta’s Connect turns into a Muse takeover",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "ESA and the EU partner with Museo Galileo on new exhibition",
-        "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition",
-        "publishedAt": "2026-09-25T09:00:00+00:00",
+        "title": "Three Earth Explorer candidates go forward",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Three_Earth_Explorer_candidates_go_forward",
+        "publishedAt": "2026-09-25T12:20:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -564,9 +564,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "5 million robots are now at work in factories worldwide, reports the IFR",
-        "url": "https://www.therobotreport.com/5-million-robots-now-working-factories-worldwide-ifr-reports",
-        "publishedAt": "2026-09-24T20:15:51+00:00",
+        "title": "Farmers are facing more pressure; CNH says robotics can help",
+        "url": "https://www.therobotreport.com/farmers-are-facing-more-pressure-cnh-says-robotics-can-help",
+        "publishedAt": "2026-09-25T12:18:36+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -582,21 +582,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Earth from Space: Venetian Lagoon",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Earth_from_Space_Venetian_Lagoon",
-        "publishedAt": "2026-09-25T08:00:00+00:00",
-        "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Northcom’s next counter-drone demo will be its first in an urban area",
+        "url": "https://defensescoop.com/2026/09/25/northern-command-counter-drone-demonstration-urban-area",
+        "publishedAt": "2026-09-25T12:55:52+00:00",
+        "source": "DefenseScoop",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Adaptability is key for Josh Kutryk as long-delayed ISS mission nears",
-        "url": "https://spaceq.ca/adaptability-is-key-for-josh-kutryk-as-long-delayed-iss-mission-nears",
-        "publishedAt": "2026-09-24T18:54:58+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
+        "title": "ESA and the EU partner with Museo Galileo on new exhibition",
+        "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition",
+        "publishedAt": "2026-09-25T09:00:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
