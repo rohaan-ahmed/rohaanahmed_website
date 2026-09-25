@@ -1,21 +1,27 @@
 {
-  "generatedAt": "2026-09-25T19:00:28+00:00",
+  "generatedAt": "2026-09-25T20:00:24+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-25T19:00:28+00:00",
+      "updatedAt": "2026-09-25T20:00:24+00:00",
       "stories": [
+        {
+          "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+          "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords",
+          "publishedAt": "2026-09-25T19:53:03+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+          "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch",
+          "publishedAt": "2026-09-25T19:36:10+00:00",
+          "source": "NASA"
+        },
         {
           "title": "2026-2027 DWU: Middle School Design Challenge",
           "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge",
           "publishedAt": "2026-09-25T17:20:51+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "2026-2027 DWU: High School Engineering Challenge",
-          "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge",
-          "publishedAt": "2026-09-25T17:19:42+00:00",
           "source": "NASA"
         },
         {
@@ -29,12 +35,6 @@
           "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Three_Earth_Explorer_candidates_go_forward",
           "publishedAt": "2026-09-25T12:20:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Hubble Spots Chaotic Secret in Galaxy",
-          "url": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy",
-          "publishedAt": "2026-09-25T15:54:10+00:00",
-          "source": "NASA"
         },
         {
           "title": "ESA and the EU partner with Museo Galileo on new exhibition",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-25T19:00:28+00:00",
+      "updatedAt": "2026-09-25T20:00:24+00:00",
       "stories": [
         {
           "title": "MDA Space becomes Denver Broncos’ first space partner",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-25T19:00:28+00:00",
+      "updatedAt": "2026-09-25T20:00:24+00:00",
       "stories": [
         {
           "title": "Counter Uncrewed Aerial Systems (CUAS) Sandbox 2026",
@@ -223,8 +223,38 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-25T19:00:28+00:00",
+      "updatedAt": "2026-09-25T20:00:24+00:00",
       "stories": [
+        {
+          "title": "DC Circuit panel upholds Pentagon’s ban on Anthropic – so what comes next?",
+          "url": "https://breakingdefense.com/2026/09/dc-circuit-panel-upholds-pentagons-ban-on-anthropic-so-what-comes-next",
+          "publishedAt": "2026-09-25T19:50:44+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Navy’s shipyard revamp could cost more than $200 billion: GAO",
+          "url": "https://breakingdefense.com/2026/09/navys-shipyard-revamp-could-cost-more-than-200-billion-gao",
+          "publishedAt": "2026-09-25T19:45:00+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "‘Cyber magazine’ can run out ‘pretty damn quick’ in modern conflict: Admiral",
+          "url": "https://breakingdefense.com/2026/09/cyber-magazine-can-run-out-pretty-damn-quick-in-modern-conflict-admiral",
+          "publishedAt": "2026-09-25T19:12:45+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Trump administration obligates $307M for military aid to Ukraine",
+          "url": "https://www.defensenews.com/global/europe/2026/09/25/trump-administration-obligates-307m-for-military-aid-to-ukraine",
+          "publishedAt": "2026-09-25T19:49:34+00:00",
+          "source": "Defense News"
+        },
+        {
+          "title": "US appeals court upholds Pentagon’s blacklisting of Anthropic",
+          "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/25/us-appeals-court-upholds-pentagons-blacklisting-of-anthropic",
+          "publishedAt": "2026-09-25T19:19:29+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "South Korea inducts first locally developed fighter jet into air force",
           "url": "https://breakingdefense.com/2026/09/south-korea-inducts-first-locally-developed-fighter-jet-into-air-force",
@@ -250,12 +280,6 @@
           "source": "Defense News"
         },
         {
-          "title": "How China is rethinking tank survival against FPVs and top-attack threats",
-          "url": "https://breakingdefense.com/2026/09/how-china-is-rethinking-tank-survival-against-fpvs-and-top-attack-threats",
-          "publishedAt": "2026-09-25T14:37:52+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Desolate Arctic outpost likely to host US troops under new Greenland deal",
           "url": "https://www.defensenews.com/news/your-military/2026/09/25/desolate-arctic-outpost-likely-to-host-us-troops-under-new-greenland-deal",
           "publishedAt": "2026-09-25T13:20:08+00:00",
@@ -268,18 +292,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "France to send military to protect Saudi Arabia on Red Sea oil route, Macron says",
-          "url": "https://www.defensenews.com/global/europe/2026/09/25/france-to-send-military-to-protect-saudi-arabia-on-red-sea-oil-route-macron-says",
-          "publishedAt": "2026-09-25T11:24:07+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "US F-35 fighters to debut in Indian multinational air exercise",
-          "url": "https://www.defensenews.com/global/asia-pacific/2026/09/25/us-f-35-fighters-to-debut-in-indian-multinational-air-exercise",
-          "publishedAt": "2026-09-25T10:18:48+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Northcom’s next counter-drone demo will be its first in an urban area",
           "url": "https://defensescoop.com/2026/09/25/northern-command-counter-drone-demonstration-urban-area",
           "publishedAt": "2026-09-25T12:55:52+00:00",
@@ -290,18 +302,6 @@
           "url": "https://defensescoop.com/2026/09/24/bae-systems-ampv-30-prototypes-army",
           "publishedAt": "2026-09-24T22:51:50+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Russian hybrid attacks likely to increase in coming months: Danish intel assessment",
-          "url": "https://breakingdefense.com/2026/09/russian-hybrid-attacks-likely-to-increase-in-coming-months-danish-intel-assessment",
-          "publishedAt": "2026-09-24T18:09:16+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "OCCAR awards $4.2B DDX destroyer contract to Fincantieri, Leonardo joint venture",
-          "url": "https://breakingdefense.com/2026/09/occar-awards-4-2b-ddx-destroyer-contract-to-fincantieri-leonardo-joint-venture",
-          "publishedAt": "2026-09-24T18:03:00+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Navy prepares to add new sea drones and vendors to online marketplace",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-25T19:00:28+00:00",
+      "updatedAt": "2026-09-25T20:00:24+00:00",
       "stories": [
         {
           "title": "Meta’s Connect turns into a Muse takeover",
@@ -335,6 +335,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+          "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+          "publishedAt": "2026-09-25T19:13:38+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
           "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026",
           "publishedAt": "2026-09-25T18:48:33+00:00",
@@ -344,12 +350,6 @@
           "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
           "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing",
           "publishedAt": "2026-09-25T18:33:59+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-          "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic",
-          "publishedAt": "2026-09-25T18:22:47+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -417,8 +417,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-25T19:00:28+00:00",
+      "updatedAt": "2026-09-25T20:00:24+00:00",
       "stories": [
+        {
+          "title": "Amazon to invest $100M in new Indiana manufacturing facility",
+          "url": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility",
+          "publishedAt": "2026-09-25T18:59:01+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "General Robotics is betting on modular intelligence, not one robot brain",
           "url": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain",
@@ -459,12 +465,6 @@
           "title": "5 million robots are now at work in factories worldwide, reports the IFR",
           "url": "https://www.therobotreport.com/5-million-robots-now-working-factories-worldwide-ifr-reports",
           "publishedAt": "2026-09-24T20:15:51+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Why you should look beyond the spec sheet when choosing motion architecture",
-          "url": "https://www.therobotreport.com/why-you-should-look-beyond-spec-sheet-when-choosing-motion-architecture",
-          "publishedAt": "2026-09-24T16:39:14+00:00",
           "source": "The Robot Report"
         },
         {
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-25T19:00:28+00:00",
+    "updatedAt": "2026-09-25T20:00:24+00:00",
     "stories": [
       {
         "title": "Meta’s Connect turns into a Muse takeover",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "2026-2027 DWU: Middle School Design Challenge",
-        "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge",
-        "publishedAt": "2026-09-25T17:20:51+00:00",
+        "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+        "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords",
+        "publishedAt": "2026-09-25T19:53:03+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -561,48 +561,48 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "South Korea inducts first locally developed fighter jet into air force",
-        "url": "https://breakingdefense.com/2026/09/south-korea-inducts-first-locally-developed-fighter-jet-into-air-force",
-        "publishedAt": "2026-09-25T17:58:58+00:00",
+        "title": "DC Circuit panel upholds Pentagon’s ban on Anthropic – so what comes next?",
+        "url": "https://breakingdefense.com/2026/09/dc-circuit-panel-upholds-pentagons-ban-on-anthropic-so-what-comes-next",
+        "publishedAt": "2026-09-25T19:50:44+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "General Robotics is betting on modular intelligence, not one robot brain",
-        "url": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain",
-        "publishedAt": "2026-09-25T18:43:22+00:00",
+        "title": "Amazon to invest $100M in new Indiana manufacturing facility",
+        "url": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility",
+        "publishedAt": "2026-09-25T18:59:01+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
       },
       {
-        "title": "US Navy stands up hub to prepare unmanned systems for combat",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/25/us-navy-stands-up-hub-to-prepare-unmanned-systems-for-combat",
-        "publishedAt": "2026-09-25T18:13:48+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Navy launches Phase II for medium robo-ship project, seeks ‘innovative solutions’",
-        "url": "https://breakingdefense.com/2026/09/navy-launches-phase-ii-for-medium-robo-ship-project-seeks-innovative-solutions",
-        "publishedAt": "2026-09-25T16:51:54+00:00",
+        "title": "Navy’s shipyard revamp could cost more than $200 billion: GAO",
+        "url": "https://breakingdefense.com/2026/09/navys-shipyard-revamp-could-cost-more-than-200-billion-gao",
+        "publishedAt": "2026-09-25T19:45:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-        "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026",
-        "publishedAt": "2026-09-25T18:48:33+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "‘Cyber magazine’ can run out ‘pretty damn quick’ in modern conflict: Admiral",
+        "url": "https://breakingdefense.com/2026/09/cyber-magazine-can-run-out-pretty-damn-quick-in-modern-conflict-admiral",
+        "publishedAt": "2026-09-25T19:12:45+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Trump administration obligates $307M for military aid to Ukraine",
+        "url": "https://www.defensenews.com/global/europe/2026/09/25/trump-administration-obligates-307m-for-military-aid-to-ukraine",
+        "publishedAt": "2026-09-25T19:49:34+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
