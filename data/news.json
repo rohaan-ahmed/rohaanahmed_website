@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T10:00:26+00:00",
+  "generatedAt": "2026-09-25T11:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-25T10:00:26+00:00",
+      "updatedAt": "2026-09-25T11:00:26+00:00",
       "stories": [
         {
           "title": "ESA and the EU partner with Museo Galileo on new exhibition",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-25T10:00:26+00:00",
+      "updatedAt": "2026-09-25T11:00:26+00:00",
       "stories": [
         {
           "title": "Adaptability is key for Josh Kutryk as long-delayed ISS mission nears",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-25T10:00:26+00:00",
+      "updatedAt": "2026-09-25T11:00:26+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to welcome Vietnam’s Deputy Prime Minister and Minister of National Defence",
@@ -217,8 +217,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-25T10:00:26+00:00",
+      "updatedAt": "2026-09-25T11:00:26+00:00",
       "stories": [
+        {
+          "title": "US F-35 fighters to debut in Indian multinational air exercise",
+          "url": "https://www.defensenews.com/global/asia-pacific/2026/09/25/us-f-35-fighters-to-debut-in-indian-multinational-air-exercise",
+          "publishedAt": "2026-09-25T10:18:48+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "BAE Systems delivers two AMPV 30s to Army built with internal funding in project the service didn’t formally request",
           "url": "https://defensescoop.com/2026/09/24/bae-systems-ampv-30-prototypes-army",
@@ -286,12 +292,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Report: CIA warned Europe of Russian drone attack from vessels in the Mediterranean",
-          "url": "https://www.defensenews.com/global/europe/2026/09/24/report-cia-warned-europe-of-russian-drone-attack-from-vessels-in-the-mediterranean",
-          "publishedAt": "2026-09-24T11:19:36+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Cartel drone ops on the U.S.-Mexico border ‘get more creative every day,’ task force warns",
           "url": "https://defensescoop.com/2026/09/24/cartel-drone-operations-southern-border-getting-more-creative-task-force-warns",
           "publishedAt": "2026-09-24T13:46:33+00:00",
@@ -314,8 +314,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-25T10:00:26+00:00",
+      "updatedAt": "2026-09-25T11:00:26+00:00",
       "stories": [
+        {
+          "title": "Meta’s Connect turns into a Muse takeover",
+          "url": "https://www.meta.com/blog/meta-connect-2026-everything-we-announced",
+          "publishedAt": "2026-09-25T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Google’s AI chips are headed to space",
+          "url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
+          "publishedAt": "2026-09-25T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
           "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
@@ -347,22 +359,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-          "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center",
-          "publishedAt": "2026-09-24T18:11:44+00:00",
-          "source": "TechCrunch AI"
+          "title": "Qwen Intelligence Launches Three Mobile AI Agents (1 minute read)",
+          "url": "https://x.com/Alibaba_Qwen/status/2102727405198876753",
+          "publishedAt": "2026-09-24T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-          "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend",
-          "publishedAt": "2026-09-24T17:39:24+00:00",
-          "source": "TechCrunch AI"
+          "title": "Google's new speech models can design and direct voices (12 minute read)",
+          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+          "publishedAt": "2026-09-24T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-          "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios",
-          "publishedAt": "2026-09-24T17:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Escaping SPACE: Part I (23 minute read)",
+          "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-i",
+          "publishedAt": "2026-09-24T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Towards Universal Post-Training for Robotics (18 minute read)",
+          "url": "https://pd-perry.github.io/posts/post-training.html",
+          "publishedAt": "2026-09-24T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Ember-1 (9 minute read)",
+          "url": "https://fireworks.ai/blog/ember-1",
+          "publishedAt": "2026-09-24T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "tev1-4B-experimental (1 minute read)",
+          "url": "https://threadreaderapp.com/thread/2102882216950763814.html",
+          "publishedAt": "2026-09-24T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Anthropic, OpenAI deliver dueling frontier AI discounts",
@@ -375,43 +405,13 @@
           "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
           "publishedAt": "2026-09-23T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "a16z’s new AI-driven college alternative",
-          "url": "https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e",
-          "publishedAt": "2026-09-23T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Amazon blocks Meta’s Muse agent",
-          "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping",
-          "publishedAt": "2026-09-22T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Trump wants an ‘AI Force’ to guard U.S. lead",
-          "url": "https://www.bbc.com/news/articles/cqlykr2vrv04o",
-          "publishedAt": "2026-09-22T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Researchers find a ‘pain’ signal inside AI models",
-          "url": "https://arxiv.org/pdf/2609.16247",
-          "publishedAt": "2026-09-22T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI hacked by ‘three guys with Claude’",
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "publishedAt": "2026-09-21T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-25T10:00:26+00:00",
+      "updatedAt": "2026-09-25T11:00:26+00:00",
       "stories": [
         {
           "title": "5 million robots are now at work in factories worldwide, reports the IFR",
@@ -507,21 +507,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-25T10:00:26+00:00",
+    "updatedAt": "2026-09-25T11:00:26+00:00",
     "stories": [
       {
-        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-        "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai",
-        "publishedAt": "2026-09-25T05:00:00+00:00",
-        "source": "TechCrunch AI",
+        "title": "Meta’s Connect turns into a Muse takeover",
+        "url": "https://www.meta.com/blog/meta-connect-2026-everything-we-announced",
+        "publishedAt": "2026-09-25T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Claude spots a CRISPR-like DNA mystery",
-        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "publishedAt": "2026-09-24T09:00:00+00:00",
+        "title": "Google’s AI chips are headed to space",
+        "url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
+        "publishedAt": "2026-09-25T10:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -555,10 +555,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "BAE Systems delivers two AMPV 30s to Army built with internal funding in project the service didn’t formally request",
-        "url": "https://defensescoop.com/2026/09/24/bae-systems-ampv-30-prototypes-army",
-        "publishedAt": "2026-09-24T22:51:50+00:00",
-        "source": "DefenseScoop",
+        "title": "US F-35 fighters to debut in Indian multinational air exercise",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/25/us-f-35-fighters-to-debut-in-indian-multinational-air-exercise",
+        "publishedAt": "2026-09-25T10:18:48+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -712,7 +712,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8732: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-10"
+    "Vanguard: <unknown>:157:8732: not well-formed (invalid token)"
   ]
 }
