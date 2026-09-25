@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T16:00:35+00:00",
+  "generatedAt": "2026-09-25T17:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-25T16:00:35+00:00",
+      "updatedAt": "2026-09-25T17:00:29+00:00",
       "stories": [
         {
           "title": "Week in images: 21-25 Sep 2026",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-25T16:00:35+00:00",
+      "updatedAt": "2026-09-25T17:00:29+00:00",
       "stories": [
         {
           "title": "MDA Space becomes Denver Broncos’ first space partner",
@@ -174,8 +174,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-25T16:00:35+00:00",
+      "updatedAt": "2026-09-25T17:00:29+00:00",
       "stories": [
+        {
+          "title": "Counter Uncrewed Aerial Systems (CUAS) Sandbox 2026",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/counter-uncrewed-aerial-systems-cuas-sandbox-2026.html",
+          "publishedAt": "2026-09-25T16:35:09+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Minister McGuinty to welcome Vietnam’s Deputy Prime Minister and Minister of National Defence",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/minister-mcguinty-to-welcome-vietnams-deputy-prime-minister-and-minister-of-national-defence.html",
@@ -217,8 +223,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-25T16:00:35+00:00",
+      "updatedAt": "2026-09-25T17:00:29+00:00",
       "stories": [
+        {
+          "title": "Navy launches Phase II for medium robo-ship project, seeks ‘innovative solutions’",
+          "url": "https://breakingdefense.com/2026/09/navy-launches-phase-ii-for-medium-robo-ship-project-seeks-innovative-solutions",
+          "publishedAt": "2026-09-25T16:51:54+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Thales in ‘quite advanced’ talks with NATO countries on AI-powered command software",
           "url": "https://www.defensenews.com/global/europe/2026/09/25/thales-in-quite-advanced-talks-with-nato-countries-on-ai-powered-command-software",
@@ -292,12 +304,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "The Air Force says its China think tank will continue. Its director says it’s basically dead.",
-          "url": "https://breakingdefense.com/2026/09/the-air-force-says-its-china-think-tank-will-continue-its-director-says-its-basically-dead",
-          "publishedAt": "2026-09-24T15:56:32+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Italy taps state-owned firms to build two naval destroyers in $4.2 billion deal",
           "url": "https://www.defensenews.com/global/europe/2026/09/24/italy-taps-state-owned-firms-to-build-two-naval-destroyers-in-42-billion-deal",
           "publishedAt": "2026-09-24T16:33:41+00:00",
@@ -314,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-25T16:00:35+00:00",
+      "updatedAt": "2026-09-25T17:00:29+00:00",
       "stories": [
         {
           "title": "Meta’s Connect turns into a Muse takeover",
@@ -329,6 +335,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+          "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off",
+          "publishedAt": "2026-09-25T16:16:52+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
           "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
           "publishedAt": "2026-09-25T15:48:14+00:00",
@@ -338,12 +350,6 @@
           "title": "Anthropic’s founders seek voting control ahead of IPO",
           "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo",
           "publishedAt": "2026-09-25T15:40:03+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-          "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware",
-          "publishedAt": "2026-09-25T15:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -411,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-25T16:00:35+00:00",
+      "updatedAt": "2026-09-25T17:00:29+00:00",
       "stories": [
         {
           "title": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
@@ -507,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-25T16:00:35+00:00",
+    "updatedAt": "2026-09-25T17:00:29+00:00",
     "stories": [
       {
         "title": "Meta’s Connect turns into a Muse takeover",
@@ -546,19 +552,19 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Minister McGuinty to welcome Vietnam’s Deputy Prime Minister and Minister of National Defence",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/minister-mcguinty-to-welcome-vietnams-deputy-prime-minister-and-minister-of-national-defence.html",
-        "publishedAt": "2026-09-25T00:12:37+00:00",
+        "title": "Counter Uncrewed Aerial Systems (CUAS) Sandbox 2026",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/counter-uncrewed-aerial-systems-cuas-sandbox-2026.html",
+        "publishedAt": "2026-09-25T16:35:09+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Thales in ‘quite advanced’ talks with NATO countries on AI-powered command software",
-        "url": "https://www.defensenews.com/global/europe/2026/09/25/thales-in-quite-advanced-talks-with-nato-countries-on-ai-powered-command-software",
-        "publishedAt": "2026-09-25T15:34:42+00:00",
-        "source": "Defense News",
+        "title": "Navy launches Phase II for medium robo-ship project, seeks ‘innovative solutions’",
+        "url": "https://breakingdefense.com/2026/09/navy-launches-phase-ii-for-medium-robo-ship-project-seeks-innovative-solutions",
+        "publishedAt": "2026-09-25T16:51:54+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -571,6 +577,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Thales in ‘quite advanced’ talks with NATO countries on AI-powered command software",
+        "url": "https://www.defensenews.com/global/europe/2026/09/25/thales-in-quite-advanced-talks-with-nato-countries-on-ai-powered-command-software",
+        "publishedAt": "2026-09-25T15:34:42+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "How China is rethinking tank survival against FPVs and top-attack threats",
@@ -588,15 +603,6 @@
         "source": "IEEE Spectrum Robotics",
         "topicId": "robotics",
         "topicName": "Robotics",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Desolate Arctic outpost likely to host US troops under new Greenland deal",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/25/desolate-arctic-outpost-likely-to-host-us-troops-under-new-greenland-deal",
-        "publishedAt": "2026-09-25T13:20:08+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
