@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T20:00:24+00:00",
+  "generatedAt": "2026-09-25T21:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-25T20:00:24+00:00",
+      "updatedAt": "2026-09-25T21:00:27+00:00",
       "stories": [
         {
           "title": "NASA Welcomes San Marino Signing the Artemis Accords",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-25T20:00:24+00:00",
+      "updatedAt": "2026-09-25T21:00:27+00:00",
       "stories": [
         {
           "title": "MDA Space becomes Denver Broncos’ first space partner",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-25T20:00:24+00:00",
+      "updatedAt": "2026-09-25T21:00:27+00:00",
       "stories": [
         {
           "title": "Counter Uncrewed Aerial Systems (CUAS) Sandbox 2026",
@@ -223,8 +223,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-25T20:00:24+00:00",
+      "updatedAt": "2026-09-25T21:00:27+00:00",
       "stories": [
+        {
+          "title": "Building logistics networks that survive contested environments",
+          "url": "https://breakingdefense.com/2026/09/building-logistics-networks-that-survive-contested-environments",
+          "publishedAt": "2026-09-25T20:28:21+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "DC Circuit panel upholds Pentagon’s ban on Anthropic – so what comes next?",
           "url": "https://breakingdefense.com/2026/09/dc-circuit-panel-upholds-pentagons-ban-on-anthropic-so-what-comes-next",
@@ -266,12 +272,6 @@
           "url": "https://www.defensenews.com/industry/techwatch/2026/09/25/us-navy-stands-up-hub-to-prepare-unmanned-systems-for-combat",
           "publishedAt": "2026-09-25T18:13:48+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "Navy launches Phase II for medium robo-ship project, seeks ‘innovative solutions’",
-          "url": "https://breakingdefense.com/2026/09/navy-launches-phase-ii-for-medium-robo-ship-project-seeks-innovative-solutions",
-          "publishedAt": "2026-09-25T16:51:54+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Thales in ‘quite advanced’ talks with NATO countries on AI-powered command software",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-25T20:00:24+00:00",
+      "updatedAt": "2026-09-25T21:00:27+00:00",
       "stories": [
         {
           "title": "Meta’s Connect turns into a Muse takeover",
@@ -335,6 +335,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Meta opens early access program for new Muse features",
+          "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features",
+          "publishedAt": "2026-09-25T20:34:53+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
           "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
           "publishedAt": "2026-09-25T19:13:38+00:00",
@@ -344,12 +350,6 @@
           "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
           "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026",
           "publishedAt": "2026-09-25T18:48:33+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-          "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing",
-          "publishedAt": "2026-09-25T18:33:59+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-25T20:00:24+00:00",
+      "updatedAt": "2026-09-25T21:00:27+00:00",
       "stories": [
         {
           "title": "Amazon to invest $100M in new Indiana manufacturing facility",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-25T20:00:24+00:00",
+    "updatedAt": "2026-09-25T21:00:27+00:00",
     "stories": [
       {
         "title": "Meta’s Connect turns into a Muse takeover",
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "DC Circuit panel upholds Pentagon’s ban on Anthropic – so what comes next?",
-        "url": "https://breakingdefense.com/2026/09/dc-circuit-panel-upholds-pentagons-ban-on-anthropic-so-what-comes-next",
-        "publishedAt": "2026-09-25T19:50:44+00:00",
+        "title": "Building logistics networks that survive contested environments",
+        "url": "https://breakingdefense.com/2026/09/building-logistics-networks-that-survive-contested-environments",
+        "publishedAt": "2026-09-25T20:28:21+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -579,6 +579,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "DC Circuit panel upholds Pentagon’s ban on Anthropic – so what comes next?",
+        "url": "https://breakingdefense.com/2026/09/dc-circuit-panel-upholds-pentagons-ban-on-anthropic-so-what-comes-next",
+        "publishedAt": "2026-09-25T19:50:44+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Navy’s shipyard revamp could cost more than $200 billion: GAO",
         "url": "https://breakingdefense.com/2026/09/navys-shipyard-revamp-could-cost-more-than-200-billion-gao",
         "publishedAt": "2026-09-25T19:45:00+00:00",
@@ -592,15 +601,6 @@
         "url": "https://breakingdefense.com/2026/09/cyber-magazine-can-run-out-pretty-damn-quick-in-modern-conflict-admiral",
         "publishedAt": "2026-09-25T19:12:45+00:00",
         "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Trump administration obligates $307M for military aid to Ukraine",
-        "url": "https://www.defensenews.com/global/europe/2026/09/25/trump-administration-obligates-307m-for-military-aid-to-ukraine",
-        "publishedAt": "2026-09-25T19:49:34+00:00",
-        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
