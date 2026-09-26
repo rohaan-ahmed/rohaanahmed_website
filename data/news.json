@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T03:00:24+00:00",
+  "generatedAt": "2026-09-26T04:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-26T03:00:24+00:00",
+      "updatedAt": "2026-09-26T04:00:26+00:00",
       "stories": [
         {
           "title": "NASA, Boeing to Provide Update on Starliner Development",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-26T03:00:24+00:00",
+      "updatedAt": "2026-09-26T04:00:26+00:00",
       "stories": [
         {
           "title": "The Weekly Close: the Canadian Space Index climbs",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-26T03:00:24+00:00",
+      "updatedAt": "2026-09-26T04:00:26+00:00",
       "stories": [
         {
           "title": "Counter Uncrewed Aerial Systems (CUAS) Sandbox 2026",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-26T03:00:24+00:00",
+      "updatedAt": "2026-09-26T04:00:26+00:00",
       "stories": [
         {
           "title": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
@@ -320,8 +320,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-26T03:00:24+00:00",
+      "updatedAt": "2026-09-26T04:00:26+00:00",
       "stories": [
+        {
+          "title": "At Meta Connect, the company’s smart glasses were everywhere",
+          "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere",
+          "publishedAt": "2026-09-26T01:08:57+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
           "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
@@ -345,12 +351,6 @@
           "url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
           "publishedAt": "2026-09-25T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Meta opens early access program for new Muse features",
-          "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features",
-          "publishedAt": "2026-09-25T20:34:53+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "Bringing Your Muse to Life (5 minute read)",
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-26T03:00:24+00:00",
+      "updatedAt": "2026-09-26T04:00:26+00:00",
       "stories": [
         {
           "title": "Amazon to invest $100M in new Indiana manufacturing facility",
@@ -513,21 +513,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-26T03:00:24+00:00",
+    "updatedAt": "2026-09-26T04:00:26+00:00",
     "stories": [
       {
-        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-        "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
-        "publishedAt": "2026-09-25T23:11:10+00:00",
+        "title": "At Meta Connect, the company’s smart glasses were everywhere",
+        "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere",
+        "publishedAt": "2026-09-26T01:08:57+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-        "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
-        "publishedAt": "2026-09-25T22:20:47+00:00",
+        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
+        "publishedAt": "2026-09-25T23:11:10+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
