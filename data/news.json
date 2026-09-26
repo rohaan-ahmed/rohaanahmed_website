@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T23:00:24+00:00",
+  "generatedAt": "2026-09-26T00:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-25T23:00:24+00:00",
+      "updatedAt": "2026-09-26T00:00:27+00:00",
       "stories": [
         {
           "title": "NASA, Boeing to Provide Update on Starliner Development",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-25T23:00:24+00:00",
+      "updatedAt": "2026-09-26T00:00:27+00:00",
       "stories": [
+        {
+          "title": "The Weekly Close: the Canadian Space Index climbs",
+          "url": "https://spaceq.ca/the-weekly-close-september-25-2026",
+          "publishedAt": "2026-09-25T23:01:14+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "MDA Space becomes Denver Broncos’ first space partner",
           "url": "https://spaceq.ca/mda-space-denver-broncos-space-partner",
@@ -162,19 +168,13 @@
           "url": "https://spaceq.ca/mcgill-institute-of-air-and-space-law-marks-75-years-of-shaping-global-policy",
           "publishedAt": "2026-09-22T14:15:00+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "UK’s new space strategy leans on Europe — where Canada fits",
-          "url": "https://spaceq.ca/uks-new-space-strategy-leans-on-europe-where-canada-fits",
-          "publishedAt": "2026-09-22T11:28:00+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-25T23:00:24+00:00",
+      "updatedAt": "2026-09-26T00:00:27+00:00",
       "stories": [
         {
           "title": "Counter Uncrewed Aerial Systems (CUAS) Sandbox 2026",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-25T23:00:24+00:00",
+      "updatedAt": "2026-09-26T00:00:27+00:00",
       "stories": [
         {
           "title": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
@@ -320,8 +320,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-25T23:00:24+00:00",
+      "updatedAt": "2026-09-26T00:00:27+00:00",
       "stories": [
+        {
+          "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+          "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
+          "publishedAt": "2026-09-25T23:11:10+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
           "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
@@ -344,12 +350,6 @@
           "title": "Meta opens early access program for new Muse features",
           "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features",
           "publishedAt": "2026-09-25T20:34:53+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-          "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
-          "publishedAt": "2026-09-25T19:13:38+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-25T23:00:24+00:00",
+      "updatedAt": "2026-09-26T00:00:27+00:00",
       "stories": [
         {
           "title": "Amazon to invest $100M in new Indiana manufacturing facility",
@@ -513,8 +513,17 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-25T23:00:24+00:00",
+    "updatedAt": "2026-09-26T00:00:27+00:00",
     "stories": [
+      {
+        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
+        "publishedAt": "2026-09-25T23:11:10+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "lead"
+      },
       {
         "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
         "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
@@ -525,18 +534,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Meta’s Connect turns into a Muse takeover",
-        "url": "https://www.meta.com/blog/meta-connect-2026-everything-we-announced",
-        "publishedAt": "2026-09-25T10:00:00+00:00",
-        "source": "The Rundown AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
-        "bulletinRole": "lead"
-      },
-      {
-        "title": "MDA Space becomes Denver Broncos’ first space partner",
-        "url": "https://spaceq.ca/mda-space-denver-broncos-space-partner",
-        "publishedAt": "2026-09-25T11:11:00+00:00",
+        "title": "The Weekly Close: the Canadian Space Index climbs",
+        "url": "https://spaceq.ca/the-weekly-close-september-25-2026",
+        "publishedAt": "2026-09-25T23:01:14+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -579,6 +579,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "MDA Space becomes Denver Broncos’ first space partner",
+        "url": "https://spaceq.ca/mda-space-denver-broncos-space-partner",
+        "publishedAt": "2026-09-25T11:11:00+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Building logistics networks that survive contested environments",
         "url": "https://breakingdefense.com/2026/09/building-logistics-networks-that-survive-contested-environments",
         "publishedAt": "2026-09-25T20:28:21+00:00",
@@ -591,15 +600,6 @@
         "title": "DC Circuit panel upholds Pentagon’s ban on Anthropic – so what comes next?",
         "url": "https://breakingdefense.com/2026/09/dc-circuit-panel-upholds-pentagons-ban-on-anthropic-so-what-comes-next",
         "publishedAt": "2026-09-25T19:50:44+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Navy’s shipyard revamp could cost more than $200 billion: GAO",
-        "url": "https://breakingdefense.com/2026/09/navys-shipyard-revamp-could-cost-more-than-200-billion-gao",
-        "publishedAt": "2026-09-25T19:45:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
