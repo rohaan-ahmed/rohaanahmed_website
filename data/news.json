@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T19:00:37+00:00",
+  "generatedAt": "2026-09-26T20:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-26T19:00:37+00:00",
+      "updatedAt": "2026-09-26T20:00:26+00:00",
       "stories": [
         {
           "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-26T19:00:37+00:00",
+      "updatedAt": "2026-09-26T20:00:26+00:00",
       "stories": [
         {
           "title": "The Weekly Close: the Canadian Space Index climbs",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-26T19:00:37+00:00",
+      "updatedAt": "2026-09-26T20:00:26+00:00",
       "stories": [
         {
           "title": "Counter Uncrewed Aerial Systems (CUAS) Sandbox 2026",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-26T19:00:37+00:00",
+      "updatedAt": "2026-09-26T20:00:26+00:00",
       "stories": [
         {
           "title": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-26T19:00:37+00:00",
+      "updatedAt": "2026-09-26T20:00:26+00:00",
       "stories": [
         {
           "title": "I created an interactive digital avatar of myself — and you can talk to it",
@@ -341,12 +341,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-          "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
-          "publishedAt": "2026-09-25T22:20:47+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Meta’s Connect turns into a Muse takeover",
           "url": "https://www.meta.com/blog/meta-connect-2026-everything-we-announced",
           "publishedAt": "2026-09-25T10:00:00+00:00",
@@ -359,16 +353,34 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Meta opens early access program for new Muse features",
-          "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features",
-          "publishedAt": "2026-09-25T20:34:53+00:00",
-          "source": "TechCrunch AI"
+          "title": "Bringing Your Muse to Life (5 minute read)",
+          "url": "https://research.meta.ai/blog/bringing-your-muse-to-life",
+          "publishedAt": "2026-09-25T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-          "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
-          "publishedAt": "2026-09-25T19:13:38+00:00",
-          "source": "TechCrunch AI"
+          "title": "Gemini 3.8 Live with Live Avatar (1 minute read)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar",
+          "publishedAt": "2026-09-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "OpenAI prepares new $500/month Pro Max plan for ChatGPT (2 minute read)",
+          "url": "https://www.testingcatalog.com/openai-prepares-new-500-month-pro-max-plan-for-chatgpt",
+          "publishedAt": "2026-09-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Contrastive Language Models (8 minute read)",
+          "url": "https://contrastive-lm.notion.site/",
+          "publishedAt": "2026-09-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Managed Deep Agents v0.8: new auth, memory, and channels (12 minute read)",
+          "url": "https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new",
+          "publishedAt": "2026-09-25T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Claude spots a CRISPR-like DNA mystery",
@@ -383,6 +395,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Qwen Intelligence Launches Three Mobile AI Agents (1 minute read)",
+          "url": "https://x.com/Alibaba_Qwen/status/2102727405198876753",
+          "publishedAt": "2026-09-24T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Anthropic, OpenAI deliver dueling frontier AI discounts",
           "url": "https://www.anthropic.com/claude-opus-5-5",
           "publishedAt": "2026-09-23T09:00:00+00:00",
@@ -393,31 +411,13 @@
           "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
           "publishedAt": "2026-09-23T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "a16z’s new AI-driven college alternative",
-          "url": "https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e",
-          "publishedAt": "2026-09-23T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Amazon blocks Meta’s Muse agent",
-          "url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping",
-          "publishedAt": "2026-09-22T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Trump wants an ‘AI Force’ to guard U.S. lead",
-          "url": "https://www.bbc.com/news/articles/cqlykr2vrv04o",
-          "publishedAt": "2026-09-22T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-26T19:00:37+00:00",
+      "updatedAt": "2026-09-26T20:00:26+00:00",
       "stories": [
         {
           "title": "From 14 cities to 15,000: What it will take to scale robotaxis?",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-26T19:00:37+00:00",
+    "updatedAt": "2026-09-26T20:00:26+00:00",
     "stories": [
       {
         "title": "I created an interactive digital avatar of myself — and you can talk to it",
@@ -718,7 +718,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8732: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-16"
+    "Vanguard: <unknown>:157:8732: not well-formed (invalid token)"
   ]
 }
