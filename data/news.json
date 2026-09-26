@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T12:00:30+00:00",
+  "generatedAt": "2026-09-26T13:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-26T12:00:30+00:00",
+      "updatedAt": "2026-09-26T13:00:27+00:00",
       "stories": [
         {
           "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-26T12:00:30+00:00",
+      "updatedAt": "2026-09-26T13:00:27+00:00",
       "stories": [
         {
           "title": "The Weekly Close: the Canadian Space Index climbs",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-26T12:00:30+00:00",
+      "updatedAt": "2026-09-26T13:00:27+00:00",
       "stories": [
         {
           "title": "Counter Uncrewed Aerial Systems (CUAS) Sandbox 2026",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-26T12:00:30+00:00",
+      "updatedAt": "2026-09-26T13:00:27+00:00",
       "stories": [
         {
           "title": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-26T12:00:30+00:00",
+      "updatedAt": "2026-09-26T13:00:27+00:00",
       "stories": [
         {
           "title": "At Meta Connect, the company’s smart glasses were everywhere",
@@ -417,8 +417,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-26T12:00:30+00:00",
+      "updatedAt": "2026-09-26T13:00:27+00:00",
       "stories": [
+        {
+          "title": "From 14 cities to 15,000: What it will take to scale robotaxis?",
+          "url": "https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis",
+          "publishedAt": "2026-09-26T12:34:55+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Amazon to invest $100M in new Indiana manufacturing facility",
           "url": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility",
@@ -460,12 +466,6 @@
           "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum",
           "publishedAt": "2026-09-25T14:00:00+00:00",
           "source": "TechCrunch Robotics"
-        },
-        {
-          "title": "5 million robots are now at work in factories worldwide, reports the IFR",
-          "url": "https://www.therobotreport.com/5-million-robots-now-working-factories-worldwide-ifr-reports",
-          "publishedAt": "2026-09-24T20:15:51+00:00",
-          "source": "The Robot Report"
         },
         {
           "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-26T12:00:30+00:00",
+    "updatedAt": "2026-09-26T13:00:27+00:00",
     "stories": [
       {
         "title": "At Meta Connect, the company’s smart glasses were everywhere",
@@ -570,9 +570,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Amazon to invest $100M in new Indiana manufacturing facility",
-        "url": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility",
-        "publishedAt": "2026-09-25T18:59:01+00:00",
+        "title": "From 14 cities to 15,000: What it will take to scale robotaxis?",
+        "url": "https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis",
+        "publishedAt": "2026-09-26T12:34:55+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
