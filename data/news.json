@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-27T04:00:26+00:00",
+  "generatedAt": "2026-09-27T05:00:23+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-27T04:00:26+00:00",
+      "updatedAt": "2026-09-27T05:00:23+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop",
+          "publishedAt": "2026-09-27T04:05:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
           "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way",
@@ -16,12 +22,6 @@
           "title": "NASA, Boeing to Provide Update on Starliner Development",
           "url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development",
           "publishedAt": "2026-09-25T22:06:50+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Welcomes San Marino Signing the Artemis Accords",
-          "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords",
-          "publishedAt": "2026-09-25T19:53:03+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-27T04:00:26+00:00",
+      "updatedAt": "2026-09-27T05:00:23+00:00",
       "stories": [
         {
           "title": "The Weekly Close: the Canadian Space Index climbs",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-27T04:00:26+00:00",
+      "updatedAt": "2026-09-27T05:00:23+00:00",
       "stories": [
         {
           "title": "Counter Uncrewed Aerial Systems (CUAS) Sandbox 2026",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-27T04:00:26+00:00",
+      "updatedAt": "2026-09-27T05:00:23+00:00",
       "stories": [
         {
           "title": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-27T04:00:26+00:00",
+      "updatedAt": "2026-09-27T05:00:23+00:00",
       "stories": [
         {
           "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-27T04:00:26+00:00",
+      "updatedAt": "2026-09-27T05:00:23+00:00",
       "stories": [
         {
           "title": "From 14 cities to 15,000: What it will take to scale robotaxis?",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-27T04:00:26+00:00",
+    "updatedAt": "2026-09-27T05:00:23+00:00",
     "stories": [
       {
         "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way",
-        "publishedAt": "2026-09-26T04:05:00+00:00",
+        "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop",
+        "publishedAt": "2026-09-27T04:05:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -588,21 +588,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way",
+        "publishedAt": "2026-09-26T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "At Meta Connect, the company’s smart glasses were everywhere",
         "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere",
         "publishedAt": "2026-09-26T01:08:57+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "MDA Space becomes Denver Broncos’ first space partner",
-        "url": "https://spaceq.ca/mda-space-denver-broncos-space-partner",
-        "publishedAt": "2026-09-25T11:11:00+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -719,6 +719,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8732: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-14"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-11"
   ]
 }
