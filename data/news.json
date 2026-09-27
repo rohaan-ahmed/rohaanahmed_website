@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T20:27:38+00:00",
+  "generatedAt": "2026-09-27T21:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-27T20:27:38+00:00",
+      "updatedAt": "2026-09-27T21:00:28+00:00",
       "stories": [
         {
           "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-27T20:27:38+00:00",
+      "updatedAt": "2026-09-27T21:00:28+00:00",
       "stories": [
         {
           "title": "The Weekly Close: the Canadian Space Index climbs",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-27T20:27:38+00:00",
+      "updatedAt": "2026-09-27T21:00:28+00:00",
       "stories": [
         {
           "title": "Counter Uncrewed Aerial Systems (CUAS) Sandbox 2026",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-27T20:27:38+00:00",
+      "updatedAt": "2026-09-27T21:00:28+00:00",
       "stories": [
         {
           "title": "Terror suspects wanted to do ‘big damage’ to air base used by US, Trump says",
@@ -320,8 +320,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-27T20:27:38+00:00",
+      "updatedAt": "2026-09-27T21:00:28+00:00",
       "stories": [
+        {
+          "title": "Anthropic’s CEO is about to have dinner with President Trump",
+          "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump",
+          "publishedAt": "2026-09-27T20:34:28+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Can Muse overcome Meta’s trust issues?",
           "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues",
@@ -332,12 +338,6 @@
           "title": "Anthropic’s Dario Amodei gets the SNL treatment",
           "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment",
           "publishedAt": "2026-09-27T16:30:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-          "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
-          "publishedAt": "2026-09-27T01:30:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-27T20:27:38+00:00",
+      "updatedAt": "2026-09-27T21:00:28+00:00",
       "stories": [
         {
           "title": "Asimov’s laws are not enough to keep robotics and AI safe",
@@ -513,21 +513,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-27T20:27:38+00:00",
+    "updatedAt": "2026-09-27T21:00:28+00:00",
     "stories": [
       {
-        "title": "Can Muse overcome Meta’s trust issues?",
-        "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues",
-        "publishedAt": "2026-09-27T19:57:30+00:00",
+        "title": "Anthropic’s CEO is about to have dinner with President Trump",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump",
+        "publishedAt": "2026-09-27T20:34:28+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-        "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment",
-        "publishedAt": "2026-09-27T16:30:00+00:00",
+        "title": "Can Muse overcome Meta’s trust issues?",
+        "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues",
+        "publishedAt": "2026-09-27T19:57:30+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-        "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
-        "publishedAt": "2026-09-27T01:30:00+00:00",
+        "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment",
+        "publishedAt": "2026-09-27T16:30:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
