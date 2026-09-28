@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-28T21:00:26+00:00",
+  "generatedAt": "2026-09-28T21:52:19+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-28T21:00:26+00:00",
+      "updatedAt": "2026-09-28T21:52:19+00:00",
       "stories": [
         {
           "title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-28T21:00:26+00:00",
+      "updatedAt": "2026-09-28T21:52:19+00:00",
       "stories": [
         {
           "title": "SpaceX’s Starship Flight 14 reaches orbit, delivers Starlink satellites",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-28T21:00:26+00:00",
+      "updatedAt": "2026-09-28T21:52:19+00:00",
       "stories": [
         {
           "title": "Minister McGuinty meets with the Deputy Prime Minister and Minister of National Defence of Vietnam",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-28T21:00:26+00:00",
+      "updatedAt": "2026-09-28T21:52:19+00:00",
       "stories": [
         {
           "title": "U.S. Africa Command wants tech innovation to offset troops’ shrinking ground presence",
@@ -308,8 +308,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-28T21:00:26+00:00",
+      "updatedAt": "2026-09-28T21:52:19+00:00",
       "stories": [
+        {
+          "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+          "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation",
+          "publishedAt": "2026-09-28T21:29:18+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "OpenAI’s agents went rogue on U.S. government sites",
           "url": "https://edition.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
@@ -341,40 +347,16 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "OpenAI prepares to expand Ultrafast API to more users (1 minute read)",
-          "url": "https://www.testingcatalog.com/openai-prepares-to-expand-ultrafast-api-to-more-users",
-          "publishedAt": "2026-09-28T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+          "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner",
+          "publishedAt": "2026-09-28T18:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Why I'm Building Muse (2 minute read)",
-          "url": "https://x.com/alexandr_wang/status/2103551714536439951",
-          "publishedAt": "2026-09-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "OpenAI and Anthropic Probe Tens of Thousands of Incidents as OpenAI Halts Training (4 minute read)",
-          "url": "https://www.implicator.ai/openai-anthropic-tens-of-thousands-incidents-pause",
-          "publishedAt": "2026-09-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Let's talk about trading compute (16 minute read)",
-          "url": "https://x.com/gpugene/status/2104186844007248332?s=12",
-          "publishedAt": "2026-09-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Can AI self-improvement overcome diminishing returns? (38 minute read)",
-          "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
-          "publishedAt": "2026-09-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Agent (Muse) Compute Demand (5 minute read)",
-          "url": "https://robonomics.substack.com/p/agent-muse-compute-demand",
-          "publishedAt": "2026-09-28T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+          "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills",
+          "publishedAt": "2026-09-28T17:29:50+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Meta’s Connect turns into a Muse takeover",
@@ -399,14 +381,38 @@
           "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
           "publishedAt": "2026-09-24T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic, OpenAI deliver dueling frontier AI discounts",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "publishedAt": "2026-09-23T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI taps mathematicians to check its AI",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "publishedAt": "2026-09-23T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "a16z’s new AI-driven college alternative",
+          "url": "https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e",
+          "publishedAt": "2026-09-23T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-28T21:00:26+00:00",
+      "updatedAt": "2026-09-28T21:52:19+00:00",
       "stories": [
+        {
+          "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+          "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
+          "publishedAt": "2026-09-28T21:48:56+00:00",
+          "source": "IEEE Spectrum Robotics"
+        },
         {
           "title": "Gecko Robotics works with NVIDIA to add AI agent security and control",
           "url": "https://www.therobotreport.com/gecko-robotics-works-with-nvidia-adds-ai-agent-security-and-control",
@@ -447,12 +453,6 @@
           "title": "Amazon to invest $100M in new Indiana manufacturing facility",
           "url": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility",
           "publishedAt": "2026-09-25T18:59:01+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "General Robotics is betting on modular intelligence, not one robot brain",
-          "url": "https://www.therobotreport.com/general-robotics-is-betting-on-modular-intelligence-not-one-robot-brain",
-          "publishedAt": "2026-09-25T18:43:22+00:00",
           "source": "The Robot Report"
         },
         {
@@ -501,20 +501,20 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-28T21:00:26+00:00",
+    "updatedAt": "2026-09-28T21:52:19+00:00",
     "stories": [
       {
-        "title": "OpenAI’s agents went rogue on U.S. government sites",
-        "url": "https://edition.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
-        "publishedAt": "2026-09-28T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+        "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation",
+        "publishedAt": "2026-09-28T21:29:18+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Anthropic loses Pentagon blacklist appeal",
-        "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+        "title": "OpenAI’s agents went rogue on U.S. government sites",
+        "url": "https://edition.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
         "publishedAt": "2026-09-28T09:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
@@ -558,10 +558,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Gecko Robotics works with NVIDIA to add AI agent security and control",
-        "url": "https://www.therobotreport.com/gecko-robotics-works-with-nvidia-adds-ai-agent-security-and-control",
-        "publishedAt": "2026-09-28T17:41:32+00:00",
-        "source": "The Robot Report",
+        "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+        "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
+        "publishedAt": "2026-09-28T21:48:56+00:00",
+        "source": "IEEE Spectrum Robotics",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
@@ -585,12 +585,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Russia raises 2027 military spending by 27%, budget documents show",
-        "url": "https://www.defensenews.com/global/europe/2026/09/28/russia-raises-2027-military-spending-by-27-budget-documents-show",
-        "publishedAt": "2026-09-28T18:07:08+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Gecko Robotics works with NVIDIA to add AI agent security and control",
+        "url": "https://www.therobotreport.com/gecko-robotics-works-with-nvidia-adds-ai-agent-security-and-control",
+        "publishedAt": "2026-09-28T17:41:32+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -706,6 +706,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8732: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8732: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-03"
   ]
 }
