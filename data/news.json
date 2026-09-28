@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-28T17:00:27+00:00",
+  "generatedAt": "2026-09-28T18:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-28T17:00:27+00:00",
+      "updatedAt": "2026-09-28T18:00:30+00:00",
       "stories": [
         {
           "title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-28T17:00:27+00:00",
+      "updatedAt": "2026-09-28T18:00:30+00:00",
       "stories": [
+        {
+          "title": "NorthStar promotes Peter Klimas to chief technology officer",
+          "url": "https://spaceq.ca/northstar-promotes-peter-klimas-to-chief-technology-officer",
+          "publishedAt": "2026-09-28T17:19:54+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Weekly ISS update: Crew-13 launch date is set for Oct. 1",
           "url": "https://spaceq.ca/weekly-iss-update-crew-13-launch-date-is-set-for-oct-1",
@@ -162,19 +168,13 @@
           "url": "https://www.canada.ca/en/space-agency/news/2026/09/new-launch-date-and-last-opportunity-for-media-to-speak-with-csa-astronaut-joshua-kutryk-before-launch-of-crew-13.html",
           "publishedAt": "2026-09-23T14:05:47+00:00",
           "source": "Canadian Space Agency"
-        },
-        {
-          "title": "RSAT Space to sell INNOSPACE launch services in Canada",
-          "url": "https://spaceq.ca/rsat-space-innospace-canada-distribution-agreement",
-          "publishedAt": "2026-09-22T17:37:00+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-28T17:00:27+00:00",
+      "updatedAt": "2026-09-28T18:00:30+00:00",
       "stories": [
         {
           "title": "Minister McGuinty meets with the Deputy Prime Minister and Minister of National Defence of Vietnam",
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-28T17:00:27+00:00",
+      "updatedAt": "2026-09-28T18:00:30+00:00",
       "stories": [
         {
           "title": "UK to gather defense CEOs for ‘closed-door’ Russian security briefing",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-28T17:00:27+00:00",
+      "updatedAt": "2026-09-28T18:00:30+00:00",
       "stories": [
         {
           "title": "OpenAI’s agents went rogue on U.S. government sites",
@@ -329,21 +329,21 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+          "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills",
+          "publishedAt": "2026-09-28T17:29:50+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "publishedAt": "2026-09-28T17:09:02+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
           "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative",
           "publishedAt": "2026-09-28T16:52:38+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026",
-          "publishedAt": "2026-09-28T15:30:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-          "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action",
-          "publishedAt": "2026-09-28T15:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-28T17:00:27+00:00",
+      "updatedAt": "2026-09-28T18:00:30+00:00",
       "stories": [
         {
           "title": "Raise Robotics to discuss scaling field robots at RoboBusiness",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-28T17:00:27+00:00",
+    "updatedAt": "2026-09-28T18:00:30+00:00",
     "stories": [
       {
         "title": "OpenAI’s agents went rogue on U.S. government sites",
@@ -528,9 +528,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Weekly ISS update: Crew-13 launch date is set for Oct. 1",
-        "url": "https://spaceq.ca/weekly-iss-update-crew-13-launch-date-is-set-for-oct-1",
-        "publishedAt": "2026-09-26T15:54:29+00:00",
+        "title": "NorthStar promotes Peter Klimas to chief technology officer",
+        "url": "https://spaceq.ca/northstar-promotes-peter-klimas-to-chief-technology-officer",
+        "publishedAt": "2026-09-28T17:19:54+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
