@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-28T22:00:28+00:00",
+  "generatedAt": "2026-09-28T23:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-28T22:00:28+00:00",
+      "updatedAt": "2026-09-28T23:00:28+00:00",
       "stories": [
         {
           "title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-28T22:00:28+00:00",
+      "updatedAt": "2026-09-28T23:00:28+00:00",
       "stories": [
         {
           "title": "SpaceX’s Starship Flight 14 reaches orbit, delivers Starlink satellites",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-28T22:00:28+00:00",
+      "updatedAt": "2026-09-28T23:00:28+00:00",
       "stories": [
         {
           "title": "Minister McGuinty meets with the Deputy Prime Minister and Minister of National Defence of Vietnam",
@@ -211,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-28T22:00:28+00:00",
+      "updatedAt": "2026-09-28T23:00:28+00:00",
       "stories": [
+        {
+          "title": "US, UK test SM-6, other missiles on SINKEX target frigate",
+          "url": "https://breakingdefense.com/2026/09/us-uk-test-sm-6-other-missiles-on-sinkex-target-frigate",
+          "publishedAt": "2026-09-28T22:00:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "U.S. Africa Command wants tech innovation to offset troops’ shrinking ground presence",
           "url": "https://defensescoop.com/2026/09/28/u-s-africa-command-wants-tech-innovation-to-offset-troops-shrinking-ground-presence",
@@ -280,12 +286,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Building logistics networks that survive contested environments",
-          "url": "https://breakingdefense.com/2026/09/building-logistics-networks-that-survive-contested-environments",
-          "publishedAt": "2026-09-25T20:28:21+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Navy creates warfighting development center in Virginia to determine how the sea service will employ unmanned systems in future battles",
           "url": "https://defensescoop.com/2026/09/25/navy-creates-robotic-autonomous-systems-warfighting-development-center",
           "publishedAt": "2026-09-25T14:34:04+00:00",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-28T22:00:28+00:00",
+      "updatedAt": "2026-09-28T23:00:28+00:00",
       "stories": [
         {
           "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-28T22:00:28+00:00",
+      "updatedAt": "2026-09-28T23:00:28+00:00",
       "stories": [
         {
           "title": "A Day in the Life of a Roboticist: Charlie Kemp",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-28T22:00:28+00:00",
+    "updatedAt": "2026-09-28T23:00:28+00:00",
     "stories": [
       {
         "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
@@ -549,10 +549,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "U.S. Africa Command wants tech innovation to offset troops’ shrinking ground presence",
-        "url": "https://defensescoop.com/2026/09/28/u-s-africa-command-wants-tech-innovation-to-offset-troops-shrinking-ground-presence",
-        "publishedAt": "2026-09-28T20:52:59+00:00",
-        "source": "DefenseScoop",
+        "title": "US, UK test SM-6, other missiles on SINKEX target frigate",
+        "url": "https://breakingdefense.com/2026/09/us-uk-test-sm-6-other-missiles-on-sinkex-target-frigate",
+        "publishedAt": "2026-09-28T22:00:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
