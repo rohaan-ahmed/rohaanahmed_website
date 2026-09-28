@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-28T19:00:26+00:00",
+  "generatedAt": "2026-09-28T20:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-28T19:00:26+00:00",
+      "updatedAt": "2026-09-28T20:00:25+00:00",
       "stories": [
         {
           "title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
@@ -17,6 +17,18 @@
           "url": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth",
           "publishedAt": "2026-09-28T12:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
+          "url": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans",
+          "publishedAt": "2026-09-28T19:26:57+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
+          "url": "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation",
+          "publishedAt": "2026-09-28T19:20:01+00:00",
+          "source": "NASA"
         },
         {
           "title": "Successful Earth flyby improves Juice’s course to Jupiter",
@@ -34,18 +46,6 @@
           "title": "NASA Celebrates as Artemis Accords Surpasses 75 Signatories",
           "url": "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories",
           "publishedAt": "2026-09-28T16:26:45+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Meet NASA’s Artemis II Crew During Houston Public Event",
-          "url": "https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event",
-          "publishedAt": "2026-09-28T16:16:40+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "What You Need to Know About NASA’s SpaceX Crew-13 Mission",
-          "url": "https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission",
-          "publishedAt": "2026-09-28T16:09:09+00:00",
           "source": "NASA"
         },
         {
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-28T19:00:26+00:00",
+      "updatedAt": "2026-09-28T20:00:25+00:00",
       "stories": [
+        {
+          "title": "SpaceX’s Starship Flight 14 reaches orbit, delivers Starlink satellites",
+          "url": "https://spaceq.ca/starship-flight-14-reaches-orbit-starlink-satellites",
+          "publishedAt": "2026-09-28T19:28:29+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "NorthStar promotes Peter Klimas to chief technology officer",
           "url": "https://spaceq.ca/northstar-promotes-peter-klimas-to-chief-technology-officer",
@@ -158,12 +164,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "GHGSat second-generation satellite to spot smaller methane leaks",
-          "url": "https://spaceq.ca/ghgsat-second-generation-satellite",
-          "publishedAt": "2026-09-23T11:18:00+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "New launch date and last opportunity for media to speak with CSA astronaut Joshua Kutryk before launch of Crew-13",
           "url": "https://www.canada.ca/en/space-agency/news/2026/09/new-launch-date-and-last-opportunity-for-media-to-speak-with-csa-astronaut-joshua-kutryk-before-launch-of-crew-13.html",
           "publishedAt": "2026-09-23T14:05:47+00:00",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-28T19:00:26+00:00",
+      "updatedAt": "2026-09-28T20:00:25+00:00",
       "stories": [
         {
           "title": "Minister McGuinty meets with the Deputy Prime Minister and Minister of National Defence of Vietnam",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-28T19:00:26+00:00",
+      "updatedAt": "2026-09-28T20:00:25+00:00",
       "stories": [
         {
           "title": "Russia raises 2027 military spending by 27%, budget documents show",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-28T19:00:26+00:00",
+      "updatedAt": "2026-09-28T20:00:25+00:00",
       "stories": [
         {
           "title": "OpenAI’s agents went rogue on U.S. government sites",
@@ -323,6 +323,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Shopify opens checkout to browser-based AI agents",
+          "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents",
+          "publishedAt": "2026-09-28T19:33:57+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Nvidia launches new platform for reining in rogue AI agents",
           "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
           "publishedAt": "2026-09-28T18:31:23+00:00",
@@ -332,12 +338,6 @@
           "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
           "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner",
           "publishedAt": "2026-09-28T18:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-          "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills",
-          "publishedAt": "2026-09-28T17:29:50+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-28T19:00:26+00:00",
+      "updatedAt": "2026-09-28T20:00:25+00:00",
       "stories": [
         {
           "title": "Gecko Robotics works with NVIDIA to add AI agent security and control",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-28T19:00:26+00:00",
+    "updatedAt": "2026-09-28T20:00:25+00:00",
     "stories": [
       {
         "title": "OpenAI’s agents went rogue on U.S. government sites",
@@ -522,9 +522,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NorthStar promotes Peter Klimas to chief technology officer",
-        "url": "https://spaceq.ca/northstar-promotes-peter-klimas-to-chief-technology-officer",
-        "publishedAt": "2026-09-28T17:19:54+00:00",
+        "title": "SpaceX’s Starship Flight 14 reaches orbit, delivers Starlink satellites",
+        "url": "https://spaceq.ca/starship-flight-14-reaches-orbit-starlink-satellites",
+        "publishedAt": "2026-09-28T19:28:29+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "NorthStar promotes Peter Klimas to chief technology officer",
+        "url": "https://spaceq.ca/northstar-promotes-peter-klimas-to-chief-technology-officer",
+        "publishedAt": "2026-09-28T17:19:54+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
         "url": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth",
         "publishedAt": "2026-09-28T12:00:00+00:00",
@@ -582,15 +591,6 @@
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Successful Earth flyby improves Juice’s course to Jupiter",
-        "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter",
-        "publishedAt": "2026-09-28T15:00:00+00:00",
-        "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
