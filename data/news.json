@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-09-28T12:00:32+00:00",
+  "generatedAt": "2026-09-28T13:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-28T12:00:32+00:00",
+      "updatedAt": "2026-09-28T13:00:27+00:00",
       "stories": [
         {
           "title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
           "url": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth",
           "publishedAt": "2026-09-28T12:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "One geology step closer to the Moon",
+          "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/One_geology_step_closer_to_the_Moon",
+          "publishedAt": "2026-09-28T12:03:00+00:00",
+          "source": "European Space Agency"
+        },
+        {
+          "title": "Contractor to Civil Servant: NASA Welcomes Kristie Foster",
+          "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-kristie-foster",
+          "publishedAt": "2026-09-28T13:00:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "APOD: 2026 September 28 – Cosmic Latte: The Average Color of the Universe",
@@ -28,12 +40,6 @@
           "title": "Uncovering the Valleys Hidden Below Greenland’s Ice",
           "url": "https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice",
           "publishedAt": "2026-09-28T04:00:00+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
-          "url": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop",
-          "publishedAt": "2026-09-27T04:05:00+00:00",
           "source": "NASA"
         },
         {
@@ -73,12 +79,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Win a trip to ESA to witness BepiColombo arrive at Mercury",
-          "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury",
-          "publishedAt": "2026-09-24T13:00:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
           "url": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1",
           "publishedAt": "2026-09-23T15:18:10+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-28T12:00:32+00:00",
+      "updatedAt": "2026-09-28T13:00:27+00:00",
       "stories": [
         {
           "title": "The Weekly Close: the Canadian Space Index climbs",
@@ -174,8 +174,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-28T12:00:32+00:00",
+      "updatedAt": "2026-09-28T13:00:27+00:00",
       "stories": [
+        {
+          "title": "Minister McGuinty meets with the Deputy Prime Minister and Minister of National Defence of Vietnam",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/minister-mcguinty-meets-with-the-deputy-prime-minister-and-minister-of-national-defence-of-vietnam.html",
+          "publishedAt": "2026-09-28T12:51:24+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Counter Uncrewed Aerial Systems (CUAS) Sandbox 2026",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/counter-uncrewed-aerial-systems-cuas-sandbox-2026.html",
@@ -223,8 +229,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-28T12:00:32+00:00",
+      "updatedAt": "2026-09-28T13:00:27+00:00",
       "stories": [
+        {
+          "title": "As private investment in defense increases, some bottlenecks in funding: AIA-Bain",
+          "url": "https://breakingdefense.com/2026/09/as-private-investment-in-defense-increases-some-bottlenecks-in-funding-aia-bain",
+          "publishedAt": "2026-09-28T12:45:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "UK’s Healey puts defense in focus for reindustrialization push",
           "url": "https://www.defensenews.com/global/europe/2026/09/28/uks-healey-puts-defense-in-focus-for-reindustrialization-push",
@@ -265,12 +277,6 @@
           "title": "Navy’s shipyard revamp could cost more than $200 billion: GAO",
           "url": "https://breakingdefense.com/2026/09/navys-shipyard-revamp-could-cost-more-than-200-billion-gao",
           "publishedAt": "2026-09-25T19:45:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "‘Cyber magazine’ can run out ‘pretty damn quick’ in modern conflict: Admiral",
-          "url": "https://breakingdefense.com/2026/09/cyber-magazine-can-run-out-pretty-damn-quick-in-modern-conflict-admiral",
-          "publishedAt": "2026-09-25T19:12:45+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -320,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-28T12:00:32+00:00",
+      "updatedAt": "2026-09-28T13:00:27+00:00",
       "stories": [
         {
           "title": "OpenAI’s agents went rogue on U.S. government sites",
@@ -353,6 +359,24 @@
           "source": "TechCrunch AI"
         },
         {
+          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+          "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
+          "publishedAt": "2026-09-27T01:30:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Insurers claim AI is already increasing healthcare costs",
+          "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
+          "publishedAt": "2026-09-26T21:02:06+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "I created an interactive digital avatar of myself — and you can talk to it",
+          "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it",
+          "publishedAt": "2026-09-26T14:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Meta’s Connect turns into a Muse takeover",
           "url": "https://www.meta.com/blog/meta-connect-2026-everything-we-announced",
           "publishedAt": "2026-09-25T10:00:00+00:00",
@@ -363,36 +387,6 @@
           "url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
           "publishedAt": "2026-09-25T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Bringing Your Muse to Life (5 minute read)",
-          "url": "https://research.meta.ai/blog/bringing-your-muse-to-life",
-          "publishedAt": "2026-09-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Gemini 3.8 Live with Live Avatar (1 minute read)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar",
-          "publishedAt": "2026-09-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "OpenAI prepares new $500/month Pro Max plan for ChatGPT (2 minute read)",
-          "url": "https://www.testingcatalog.com/openai-prepares-new-500-month-pro-max-plan-for-chatgpt",
-          "publishedAt": "2026-09-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Contrastive Language Models (8 minute read)",
-          "url": "https://contrastive-lm.notion.site/",
-          "publishedAt": "2026-09-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Managed Deep Agents v0.8: new auth, memory, and channels (12 minute read)",
-          "url": "https://www.langchain.com/blog/langsmith-managed-deep-agents-whats-new",
-          "publishedAt": "2026-09-25T00:00:00+00:00",
-          "source": "TLDR AI"
         },
         {
           "title": "Claude spots a CRISPR-like DNA mystery",
@@ -407,17 +401,29 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Qwen Intelligence Launches Three Mobile AI Agents (1 minute read)",
-          "url": "https://x.com/Alibaba_Qwen/status/2102727405198876753",
-          "publishedAt": "2026-09-24T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Anthropic, OpenAI deliver dueling frontier AI discounts",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "publishedAt": "2026-09-23T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI taps mathematicians to check its AI",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "publishedAt": "2026-09-23T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "a16z’s new AI-driven college alternative",
+          "url": "https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e",
+          "publishedAt": "2026-09-23T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-28T12:00:32+00:00",
+      "updatedAt": "2026-09-28T13:00:27+00:00",
       "stories": [
         {
           "title": "Asimov’s laws are not enough to keep robotics and AI safe",
@@ -513,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-28T12:00:32+00:00",
+    "updatedAt": "2026-09-28T13:00:27+00:00",
     "stories": [
       {
         "title": "OpenAI’s agents went rogue on U.S. government sites",
@@ -552,19 +558,19 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Counter Uncrewed Aerial Systems (CUAS) Sandbox 2026",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/counter-uncrewed-aerial-systems-cuas-sandbox-2026.html",
-        "publishedAt": "2026-09-25T16:35:09+00:00",
+        "title": "Minister McGuinty meets with the Deputy Prime Minister and Minister of National Defence of Vietnam",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/minister-mcguinty-meets-with-the-deputy-prime-minister-and-minister-of-national-defence-of-vietnam.html",
+        "publishedAt": "2026-09-28T12:51:24+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
         "bulletinRole": "lead"
       },
       {
-        "title": "UK’s Healey puts defense in focus for reindustrialization push",
-        "url": "https://www.defensenews.com/global/europe/2026/09/28/uks-healey-puts-defense-in-focus-for-reindustrialization-push",
-        "publishedAt": "2026-09-28T11:13:11+00:00",
-        "source": "Defense News",
+        "title": "As private investment in defense increases, some bottlenecks in funding: AIA-Bain",
+        "url": "https://breakingdefense.com/2026/09/as-private-investment-in-defense-increases-some-bottlenecks-in-funding-aia-bain",
+        "publishedAt": "2026-09-28T12:45:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -579,27 +585,27 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Israel’s Uvision, Estonia’s Lendurai to integrate systems for NATO military",
-        "url": "https://breakingdefense.com/2026/09/israels-uvision-estonias-lendurai-to-integrate-systems-for-nato-military",
-        "publishedAt": "2026-09-28T08:13:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "APOD: 2026 September 28 – Cosmic Latte: The Average Color of the Universe",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-28-cosmic-latte-the-average-color-of-the-universe",
-        "publishedAt": "2026-09-28T11:14:27+00:00",
-        "source": "NASA",
+        "title": "One geology step closer to the Moon",
+        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/One_geology_step_closer_to_the_Moon",
+        "publishedAt": "2026-09-28T12:03:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Reliable Robots: Meet Johnson’s Dexterous Robotics Team",
-        "url": "https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team",
-        "publishedAt": "2026-09-28T10:00:00+00:00",
+        "title": "UK’s Healey puts defense in focus for reindustrialization push",
+        "url": "https://www.defensenews.com/global/europe/2026/09/28/uks-healey-puts-defense-in-focus-for-reindustrialization-push",
+        "publishedAt": "2026-09-28T11:13:11+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Contractor to Civil Servant: NASA Welcomes Kristie Foster",
+        "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-kristie-foster",
+        "publishedAt": "2026-09-28T13:00:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -718,6 +724,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8732: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8732: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-08"
   ]
 }
