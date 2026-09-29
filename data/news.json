@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-09-29T13:59:46+00:00",
+  "generatedAt": "2026-09-29T14:01:06+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-29T13:59:46+00:00",
+      "updatedAt": "2026-09-29T14:01:06+00:00",
       "stories": [
         {
           "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
           "url": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit",
           "publishedAt": "2026-09-29T11:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Under the Microscope: NASA-Made Material for Moon Manufacturing",
+          "url": "https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing",
+          "publishedAt": "2026-09-29T14:00:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "Galaxies in a cosmic house of mirrors",
@@ -41,12 +47,6 @@
           "url": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth",
           "publishedAt": "2026-09-28T12:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Mars Has Its Charmes",
-          "url": "https://science.nasa.gov/blog/mars-has-its-charmes",
-          "publishedAt": "2026-09-29T01:27:52+00:00",
-          "source": "NASA"
         },
         {
           "title": "Successful Earth flyby improves Juice’s course to Jupiter",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-29T13:59:46+00:00",
+      "updatedAt": "2026-09-29T14:01:06+00:00",
       "stories": [
         {
           "title": "SpaceX’s Starship Flight 14 reaches orbit, delivers Starlink satellites",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-29T13:59:46+00:00",
+      "updatedAt": "2026-09-29T14:01:06+00:00",
       "stories": [
         {
           "title": "Minister McGuinty meets with the Deputy Prime Minister and Minister of National Defence of Vietnam",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-29T13:59:46+00:00",
+      "updatedAt": "2026-09-29T14:01:06+00:00",
       "stories": [
         {
           "title": "DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-29T13:59:46+00:00",
+      "updatedAt": "2026-09-29T14:01:06+00:00",
       "stories": [
         {
           "title": "Anthropic's Sonnet 5.5 nears Opus at half the price",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-29T13:59:46+00:00",
+      "updatedAt": "2026-09-29T14:01:06+00:00",
       "stories": [
         {
           "title": "State of Robots in Manufacturing",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-29T13:59:46+00:00",
+    "updatedAt": "2026-09-29T14:01:06+00:00",
     "stories": [
       {
         "title": "Anthropic's Sonnet 5.5 nears Opus at half the price",
@@ -585,12 +585,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-        "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox",
-        "publishedAt": "2026-09-29T13:53:01+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "Under the Microscope: NASA-Made Material for Moon Manufacturing",
+        "url": "https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing",
+        "publishedAt": "2026-09-29T14:00:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
