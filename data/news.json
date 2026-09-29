@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-29T08:00:26+00:00",
+  "generatedAt": "2026-09-29T09:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-29T08:00:26+00:00",
+      "updatedAt": "2026-09-29T09:00:29+00:00",
       "stories": [
+        {
+          "title": "Happy New Year on Mars",
+          "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars",
+          "publishedAt": "2026-09-30T06:00:00+00:00",
+          "source": "European Space Agency"
+        },
+        {
+          "title": "Galaxies in a cosmic house of mirrors",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
+          "publishedAt": "2026-09-29T08:00:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
           "url": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando",
@@ -61,18 +73,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "Three Earth Explorer candidates go forward",
-          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Three_Earth_Explorer_candidates_go_forward",
-          "publishedAt": "2026-09-25T12:20:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
-          "title": "ESA and the EU partner with Museo Galileo on new exhibition",
-          "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_and_the_EU_partner_with_Museo_Galileo_on_new_exhibition",
-          "publishedAt": "2026-09-25T09:00:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "True or false on space industry trends with Pacôme Révillon",
           "url": "https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon",
           "publishedAt": "2026-09-24T15:51:42+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-29T08:00:26+00:00",
+      "updatedAt": "2026-09-29T09:00:29+00:00",
       "stories": [
         {
           "title": "SpaceX’s Starship Flight 14 reaches orbit, delivers Starlink satellites",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-29T08:00:26+00:00",
+      "updatedAt": "2026-09-29T09:00:29+00:00",
       "stories": [
         {
           "title": "Minister McGuinty meets with the Deputy Prime Minister and Minister of National Defence of Vietnam",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-29T08:00:26+00:00",
+      "updatedAt": "2026-09-29T09:00:29+00:00",
       "stories": [
         {
           "title": "US, UK test SM-6, other missiles on SINKEX target frigate",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-29T08:00:26+00:00",
+      "updatedAt": "2026-09-29T09:00:29+00:00",
       "stories": [
         {
           "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-29T08:00:26+00:00",
+      "updatedAt": "2026-09-29T09:00:29+00:00",
       "stories": [
         {
           "title": "A Day in the Life of a Roboticist: Charlie Kemp",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-29T08:00:26+00:00",
+    "updatedAt": "2026-09-29T09:00:29+00:00",
     "stories": [
       {
         "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
@@ -531,10 +531,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
-        "url": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando",
-        "publishedAt": "2026-09-28T14:57:21+00:00",
-        "source": "SpaceNews",
+        "title": "Happy New Year on Mars",
+        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars",
+        "publishedAt": "2026-09-30T06:00:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Galaxies in a cosmic house of mirrors",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
+        "publishedAt": "2026-09-29T08:00:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "NorthStar promotes Peter Klimas to chief technology officer",
         "url": "https://spaceq.ca/northstar-promotes-peter-klimas-to-chief-technology-officer",
         "publishedAt": "2026-09-28T17:19:54+00:00",
@@ -576,19 +585,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula",
-        "publishedAt": "2026-09-29T04:05:00+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Fire Cloud with a Pileus on Top",
-        "url": "https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top",
-        "publishedAt": "2026-09-29T04:01:00+00:00",
-        "source": "NASA",
+        "title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
+        "url": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando",
+        "publishedAt": "2026-09-28T14:57:21+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
