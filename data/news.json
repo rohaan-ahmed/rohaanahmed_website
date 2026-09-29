@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T05:00:28+00:00",
+  "generatedAt": "2026-09-29T06:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-29T05:00:28+00:00",
+      "updatedAt": "2026-09-29T06:00:25+00:00",
       "stories": [
         {
           "title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-29T05:00:28+00:00",
+      "updatedAt": "2026-09-29T06:00:25+00:00",
       "stories": [
         {
           "title": "SpaceX’s Starship Flight 14 reaches orbit, delivers Starlink satellites",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-29T05:00:28+00:00",
+      "updatedAt": "2026-09-29T06:00:25+00:00",
       "stories": [
         {
           "title": "Minister McGuinty meets with the Deputy Prime Minister and Minister of National Defence of Vietnam",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-29T05:00:28+00:00",
+      "updatedAt": "2026-09-29T06:00:25+00:00",
       "stories": [
         {
           "title": "US, UK test SM-6, other missiles on SINKEX target frigate",
@@ -308,8 +308,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-29T05:00:28+00:00",
+      "updatedAt": "2026-09-29T06:00:25+00:00",
       "stories": [
+        {
+          "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+          "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity",
+          "publishedAt": "2026-09-29T05:13:43+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
           "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises",
@@ -320,12 +326,6 @@
           "title": "OpenAI reportedly ditches model over safety concerns",
           "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns",
           "publishedAt": "2026-09-28T23:39:20+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-          "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation",
-          "publishedAt": "2026-09-28T21:29:18+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-29T05:00:28+00:00",
+      "updatedAt": "2026-09-29T06:00:25+00:00",
       "stories": [
         {
           "title": "A Day in the Life of a Roboticist: Charlie Kemp",
@@ -501,21 +501,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-29T05:00:28+00:00",
+    "updatedAt": "2026-09-29T06:00:25+00:00",
     "stories": [
       {
-        "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-        "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises",
-        "publishedAt": "2026-09-29T00:30:00+00:00",
+        "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+        "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity",
+        "publishedAt": "2026-09-29T05:13:43+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI reportedly ditches model over safety concerns",
-        "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns",
-        "publishedAt": "2026-09-28T23:39:20+00:00",
+        "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+        "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises",
+        "publishedAt": "2026-09-29T00:30:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
