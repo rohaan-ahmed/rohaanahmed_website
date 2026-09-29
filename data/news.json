@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T21:00:31+00:00",
+  "generatedAt": "2026-09-29T22:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-29T21:00:31+00:00",
+      "updatedAt": "2026-09-29T22:00:26+00:00",
       "stories": [
         {
           "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
@@ -25,6 +25,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
+          "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications",
+          "publishedAt": "2026-09-29T21:27:56+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
           "url": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract",
           "publishedAt": "2026-09-29T21:00:00+00:00",
@@ -34,12 +40,6 @@
           "title": "NASA Features Exploration, Science at International Space Conference",
           "url": "https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference",
           "publishedAt": "2026-09-29T20:55:24+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
-          "url": "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract",
-          "publishedAt": "2026-09-29T20:08:01+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-29T21:00:31+00:00",
+      "updatedAt": "2026-09-29T22:00:26+00:00",
       "stories": [
         {
           "title": "SpaceX Transporter-18 to carry three Canadian satellites",
@@ -180,8 +180,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-29T21:00:31+00:00",
+      "updatedAt": "2026-09-29T22:00:26+00:00",
       "stories": [
+        {
+          "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/government-of-canada-to-mark-start-of-construction-on-infrastructure-project-at-5-wing-goose-bay.html",
+          "publishedAt": "2026-09-29T21:39:10+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Meeting Minister McGuinty to attend Joint Expeditionary Force Defence Ministers’ Meeting in Iceland",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/meeting-minister-mcguinty-to-attend-joint-expeditionary-force-defence-ministers-meeting-in-iceland.html",
@@ -223,8 +229,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-29T21:00:31+00:00",
+      "updatedAt": "2026-09-29T22:00:26+00:00",
       "stories": [
+        {
+          "title": "Boeing wins Navy next-gen fighter F/A-XX competition",
+          "url": "https://breakingdefense.com/2026/09/boeing-navy-ngad-faxx-next-gen-fighter-competition-northrop",
+          "publishedAt": "2026-09-29T21:26:24+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Army awards up to $7B in sprawling counter-drone IDIQ",
           "url": "https://breakingdefense.com/2026/09/army-awards-up-to-7b-in-sprawling-counter-drone-idiq",
@@ -236,6 +248,12 @@
           "url": "https://breakingdefense.com/2026/09/the-drone-war-will-be-won-on-the-factory-floor-not-just-the-front-line",
           "publishedAt": "2026-09-29T18:16:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Task force says drone threats on US-Mexico border increasingly linked to human trafficking",
+          "url": "https://defensescoop.com/2026/09/29/task-force-says-drone-threats-on-us-mexico-border-increasingly-linked-to-human-trafficking",
+          "publishedAt": "2026-09-29T21:22:13+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Raytheon nets potential $20.7 billion AMRAAM deal",
@@ -260,12 +278,6 @@
           "url": "https://www.defensenews.com/news/your-military/2026/09/29/uss-klakring-sent-to-the-bottom-of-the-atlantic-in-joint-us-uk-sinkex",
           "publishedAt": "2026-09-29T16:11:08+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "Estonia accuses Russia of ordering August arson attack on Milrem",
-          "url": "https://breakingdefense.com/2026/09/estonia-accuses-russia-of-ordering-august-arson-attack-on-milrem",
-          "publishedAt": "2026-09-29T14:42:16+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Estonia blames Russia in arson attack on military robotics firm Milrem",
@@ -308,19 +320,13 @@
           "url": "https://defensescoop.com/2026/09/25/northern-command-counter-drone-demonstration-urban-area",
           "publishedAt": "2026-09-25T12:55:52+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "BAE Systems delivers two AMPV 30s to Army built with internal funding in project the service didn’t formally request",
-          "url": "https://defensescoop.com/2026/09/24/bae-systems-ampv-30-prototypes-army",
-          "publishedAt": "2026-09-24T22:51:50+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-29T21:00:31+00:00",
+      "updatedAt": "2026-09-29T22:00:26+00:00",
       "stories": [
         {
           "title": "Anthropic's Sonnet 5.5 nears Opus at half the price",
@@ -417,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-29T21:00:31+00:00",
+      "updatedAt": "2026-09-29T22:00:26+00:00",
       "stories": [
         {
           "title": "ForceN to give a crash course on force and torque sensing for humanoids at RoboBusiness",
@@ -513,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-29T21:00:31+00:00",
+    "updatedAt": "2026-09-29T22:00:26+00:00",
     "stories": [
       {
         "title": "Anthropic's Sonnet 5.5 nears Opus at half the price",
@@ -552,18 +558,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Meeting Minister McGuinty to attend Joint Expeditionary Force Defence Ministers’ Meeting in Iceland",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/meeting-minister-mcguinty-to-attend-joint-expeditionary-force-defence-ministers-meeting-in-iceland.html",
-        "publishedAt": "2026-09-29T20:26:03+00:00",
+        "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/government-of-canada-to-mark-start-of-construction-on-infrastructure-project-at-5-wing-goose-bay.html",
+        "publishedAt": "2026-09-29T21:39:10+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Army awards up to $7B in sprawling counter-drone IDIQ",
-        "url": "https://breakingdefense.com/2026/09/army-awards-up-to-7b-in-sprawling-counter-drone-idiq",
-        "publishedAt": "2026-09-29T18:30:00+00:00",
+        "title": "Boeing wins Navy next-gen fighter F/A-XX competition",
+        "url": "https://breakingdefense.com/2026/09/boeing-navy-ngad-faxx-next-gen-fighter-competition-northrop",
+        "publishedAt": "2026-09-29T21:26:24+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
