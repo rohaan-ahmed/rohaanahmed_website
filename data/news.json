@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-09-29T04:00:30+00:00",
+  "generatedAt": "2026-09-29T05:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-29T04:00:30+00:00",
+      "updatedAt": "2026-09-29T05:00:28+00:00",
       "stories": [
         {
           "title": "Space is everyone’s business: Economist Enterprise’s 4th annual Space Economy Summit returns to Orlando",
           "url": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando",
           "publishedAt": "2026-09-28T14:57:21+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula",
+          "publishedAt": "2026-09-29T04:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Fire Cloud with a Pileus on Top",
+          "url": "https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top",
+          "publishedAt": "2026-09-29T04:01:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
@@ -28,18 +40,6 @@
           "title": "October’s Night Sky Notes: Spooky Stargazing",
           "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing",
           "publishedAt": "2026-09-28T22:48:56+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
-          "url": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans",
-          "publishedAt": "2026-09-28T19:26:57+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
-          "url": "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation",
-          "publishedAt": "2026-09-28T19:20:01+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-29T04:00:30+00:00",
+      "updatedAt": "2026-09-29T05:00:28+00:00",
       "stories": [
         {
           "title": "SpaceX’s Starship Flight 14 reaches orbit, delivers Starlink satellites",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-29T04:00:30+00:00",
+      "updatedAt": "2026-09-29T05:00:28+00:00",
       "stories": [
         {
           "title": "Minister McGuinty meets with the Deputy Prime Minister and Minister of National Defence of Vietnam",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-29T04:00:30+00:00",
+      "updatedAt": "2026-09-29T05:00:28+00:00",
       "stories": [
         {
           "title": "US, UK test SM-6, other missiles on SINKEX target frigate",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-29T04:00:30+00:00",
+      "updatedAt": "2026-09-29T05:00:28+00:00",
       "stories": [
         {
           "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-29T04:00:30+00:00",
+      "updatedAt": "2026-09-29T05:00:28+00:00",
       "stories": [
         {
           "title": "A Day in the Life of a Roboticist: Charlie Kemp",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-29T04:00:30+00:00",
+    "updatedAt": "2026-09-29T05:00:28+00:00",
     "stories": [
       {
         "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
@@ -576,18 +576,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
-        "url": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth",
-        "publishedAt": "2026-09-28T12:00:00+00:00",
-        "source": "SpaceNews",
+        "title": "APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula",
+        "publishedAt": "2026-09-29T04:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Mars Has Its Charmes",
-        "url": "https://science.nasa.gov/blog/mars-has-its-charmes",
-        "publishedAt": "2026-09-29T01:27:52+00:00",
+        "title": "Fire Cloud with a Pileus on Top",
+        "url": "https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top",
+        "publishedAt": "2026-09-29T04:01:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
