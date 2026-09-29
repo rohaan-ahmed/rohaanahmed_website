@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T13:00:27+00:00",
+  "generatedAt": "2026-09-29T13:59:46+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-29T13:00:27+00:00",
+      "updatedAt": "2026-09-29T13:59:46+00:00",
       "stories": [
         {
           "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-29T13:00:27+00:00",
+      "updatedAt": "2026-09-29T13:59:46+00:00",
       "stories": [
         {
           "title": "SpaceX’s Starship Flight 14 reaches orbit, delivers Starlink satellites",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-29T13:00:27+00:00",
+      "updatedAt": "2026-09-29T13:59:46+00:00",
       "stories": [
         {
           "title": "Minister McGuinty meets with the Deputy Prime Minister and Minister of National Defence of Vietnam",
@@ -211,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-29T13:00:27+00:00",
+      "updatedAt": "2026-09-29T13:59:46+00:00",
       "stories": [
+        {
+          "title": "DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO",
+          "url": "https://breakingdefense.com/2026/09/diu-space-force-team-up-to-kick-start-buys-of-commercial-sats-for-monitoring-geo",
+          "publishedAt": "2026-09-29T12:58:01+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "How readiness stays ready: The F110 delivers power, reliability and scale for the F-15EX",
           "url": "https://breakingdefense.com/2026/09/how-readiness-stays-ready-the-f110-delivers-power-reliability-and-scale-for-the-f-15ex",
@@ -274,12 +280,6 @@
           "source": "Defense News"
         },
         {
-          "title": "As private investment in defense increases, some bottlenecks in funding: AIA-Bain",
-          "url": "https://breakingdefense.com/2026/09/as-private-investment-in-defense-increases-some-bottlenecks-in-funding-aia-bain",
-          "publishedAt": "2026-09-28T12:45:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "UK’s Healey puts defense in focus for reindustrialization push",
           "url": "https://www.defensenews.com/global/europe/2026/09/28/uks-healey-puts-defense-in-focus-for-reindustrialization-push",
           "publishedAt": "2026-09-28T11:13:11+00:00",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-29T13:00:27+00:00",
+      "updatedAt": "2026-09-29T13:59:46+00:00",
       "stories": [
         {
           "title": "Anthropic's Sonnet 5.5 nears Opus at half the price",
@@ -329,21 +329,57 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+          "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox",
+          "publishedAt": "2026-09-29T13:53:01+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Meta is expanding its AI agent Muse to small businesses",
+          "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses",
+          "publishedAt": "2026-09-29T13:47:30+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "NVIDIA Launched Open Agent Safety Platform (4 minute read)",
+          "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+          "publishedAt": "2026-09-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs (5 minute read)",
+          "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html",
+          "publishedAt": "2026-09-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "AMD to Acquire World Labs for $8.2 Billion (3 minute read)",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute",
+          "publishedAt": "2026-09-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "State of Agent Skills (9 minute read)",
+          "url": "https://vercel.com/blog/state-of-agent-skills",
+          "publishedAt": "2026-09-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "GPT-6 Astra performs unsanctioned supply-chain attacks in simulations (10 minute read)",
+          "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
+          "publishedAt": "2026-09-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Eleven v4, our most emotive model (9 minute read)",
+          "url": "https://elevenlabs.io/blog/eleven-v4",
+          "publishedAt": "2026-09-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
           "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites",
           "publishedAt": "2026-09-29T12:45:05+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Reco raises $55M as AI agent security startups crowd the market",
-          "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market",
-          "publishedAt": "2026-09-29T12:30:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-          "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity",
-          "publishedAt": "2026-09-29T05:13:43+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -359,42 +395,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "OpenAI prepares to expand Ultrafast API to more users (1 minute read)",
-          "url": "https://www.testingcatalog.com/openai-prepares-to-expand-ultrafast-api-to-more-users",
-          "publishedAt": "2026-09-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Why I'm Building Muse (2 minute read)",
-          "url": "https://x.com/alexandr_wang/status/2103551714536439951",
-          "publishedAt": "2026-09-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "OpenAI and Anthropic Probe Tens of Thousands of Incidents as OpenAI Halts Training (4 minute read)",
-          "url": "https://www.implicator.ai/openai-anthropic-tens-of-thousands-incidents-pause",
-          "publishedAt": "2026-09-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Let's talk about trading compute (16 minute read)",
-          "url": "https://x.com/gpugene/status/2104186844007248332?s=12",
-          "publishedAt": "2026-09-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Can AI self-improvement overcome diminishing returns? (38 minute read)",
-          "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
-          "publishedAt": "2026-09-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Agent (Muse) Compute Demand (5 minute read)",
-          "url": "https://robonomics.substack.com/p/agent-muse-compute-demand",
-          "publishedAt": "2026-09-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Meta’s Connect turns into a Muse takeover",
           "url": "https://www.meta.com/blog/meta-connect-2026-everything-we-announced",
           "publishedAt": "2026-09-25T10:00:00+00:00",
@@ -405,8 +405,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-29T13:00:27+00:00",
+      "updatedAt": "2026-09-29T13:59:46+00:00",
       "stories": [
+        {
+          "title": "State of Robots in Manufacturing",
+          "url": "https://www.therobotreport.com/state-of-robots-in-manufacturing",
+          "publishedAt": "2026-09-29T13:22:56+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "A Day in the Life of a Roboticist: Charlie Kemp",
           "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
@@ -447,12 +453,6 @@
           "title": "From 14 cities to 15,000: What it will take to scale robotaxis?",
           "url": "https://www.therobotreport.com/from-14-cities-to-15000-what-it-will-take-to-scale-robotaxis",
           "publishedAt": "2026-09-26T12:34:55+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Amazon to invest $100M in new Indiana manufacturing facility",
-          "url": "https://www.therobotreport.com/amazon-to-invest-100m-in-new-indiana-manufacturing-facility",
-          "publishedAt": "2026-09-25T18:59:01+00:00",
           "source": "The Robot Report"
         },
         {
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-29T13:00:27+00:00",
+    "updatedAt": "2026-09-29T13:59:46+00:00",
     "stories": [
       {
         "title": "Anthropic's Sonnet 5.5 nears Opus at half the price",
@@ -549,19 +549,19 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "How readiness stays ready: The F110 delivers power, reliability and scale for the F-15EX",
-        "url": "https://breakingdefense.com/2026/09/how-readiness-stays-ready-the-f110-delivers-power-reliability-and-scale-for-the-f-15ex",
-        "publishedAt": "2026-09-29T12:29:00+00:00",
+        "title": "DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO",
+        "url": "https://breakingdefense.com/2026/09/diu-space-force-team-up-to-kick-start-buys-of-commercial-sats-for-monitoring-geo",
+        "publishedAt": "2026-09-29T12:58:01+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "A Day in the Life of a Roboticist: Charlie Kemp",
-        "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
-        "publishedAt": "2026-09-28T21:48:56+00:00",
-        "source": "IEEE Spectrum Robotics",
+        "title": "State of Robots in Manufacturing",
+        "url": "https://www.therobotreport.com/state-of-robots-in-manufacturing",
+        "publishedAt": "2026-09-29T13:22:56+00:00",
+        "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
@@ -576,21 +576,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "French artillery regiment reorganizes guns to survive drone threats",
-        "url": "https://www.defensenews.com/global/2026/09/29/french-artillery-regiment-reorganizes-guns-to-survive-drone-threats",
-        "publishedAt": "2026-09-29T10:34:09+00:00",
-        "source": "Defense News",
+        "title": "How readiness stays ready: The F110 delivers power, reliability and scale for the F-15EX",
+        "url": "https://breakingdefense.com/2026/09/how-readiness-stays-ready-the-f110-delivers-power-reliability-and-scale-for-the-f-15ex",
+        "publishedAt": "2026-09-29T12:29:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "New Zealand, Australia sign pact to deepen naval cooperation",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/29/new-zealand-australia-sign-pact-to-deepen-naval-cooperation",
-        "publishedAt": "2026-09-29T10:25:20+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+        "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox",
+        "publishedAt": "2026-09-29T13:53:01+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
