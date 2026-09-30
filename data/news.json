@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T01:00:31+00:00",
+  "generatedAt": "2026-09-30T02:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-30T01:00:31+00:00",
+      "updatedAt": "2026-09-30T02:00:30+00:00",
       "stories": [
         {
           "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-30T01:00:31+00:00",
+      "updatedAt": "2026-09-30T02:00:30+00:00",
       "stories": [
         {
           "title": "SpaceX Transporter-18 to carry three Canadian satellites",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-30T01:00:31+00:00",
+      "updatedAt": "2026-09-30T02:00:30+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -229,8 +229,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-30T01:00:31+00:00",
+      "updatedAt": "2026-09-30T02:00:30+00:00",
       "stories": [
+        {
+          "title": "What Boeing’s F/A-XX win means for the company, and what challenges come next",
+          "url": "https://breakingdefense.com/2026/09/what-boeings-f-a-xx-win-means-for-the-company-and-what-challenges-come-next",
+          "publishedAt": "2026-09-30T01:55:49+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Why the Pentagon just dropped $450M on tungsten mining",
           "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/30/why-the-pentagon-just-dropped-450m-on-tungsten-mining",
@@ -280,12 +286,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "Raytheon nets potential $20.7 billion AMRAAM deal",
-          "url": "https://breakingdefense.com/2026/09/raytheon-nets-potential-20-7-billion-amraam-deal",
-          "publishedAt": "2026-09-29T16:59:08+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Pentagon awards Raytheon up to $20.7 billion to nearly double AMRAAM production",
           "url": "https://www.defensenews.com/pentagon/2026/09/29/pentagon-awards-raytheon-up-to-207-billion-to-nearly-double-amraam-production",
           "publishedAt": "2026-09-29T16:18:42+00:00",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-30T01:00:31+00:00",
+      "updatedAt": "2026-09-30T02:00:30+00:00",
       "stories": [
         {
           "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-30T01:00:31+00:00",
+      "updatedAt": "2026-09-30T02:00:30+00:00",
       "stories": [
         {
           "title": "ForceN to give a crash course on force and torque sensing for humanoids at RoboBusiness",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-30T01:00:31+00:00",
+    "updatedAt": "2026-09-30T02:00:30+00:00",
     "stories": [
       {
         "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
@@ -567,10 +567,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Why the Pentagon just dropped $450M on tungsten mining",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/30/why-the-pentagon-just-dropped-450m-on-tungsten-mining",
-        "publishedAt": "2026-09-30T00:03:53+00:00",
-        "source": "Defense News",
+        "title": "What Boeing’s F/A-XX win means for the company, and what challenges come next",
+        "url": "https://breakingdefense.com/2026/09/what-boeings-f-a-xx-win-means-for-the-company-and-what-challenges-come-next",
+        "publishedAt": "2026-09-30T01:55:49+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -603,10 +603,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Navy to purchase 30 MUSVs following at-sea testing",
-        "url": "https://breakingdefense.com/2026/09/navy-to-purchase-30-musvs-following-at-sea-testing",
-        "publishedAt": "2026-09-29T22:25:05+00:00",
-        "source": "Breaking Defense",
+        "title": "Why the Pentagon just dropped $450M on tungsten mining",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/30/why-the-pentagon-just-dropped-450m-on-tungsten-mining",
+        "publishedAt": "2026-09-30T00:03:53+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
