@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-30T15:00:15+00:00",
+  "generatedAt": "2026-09-30T16:00:40+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-30T15:00:15+00:00",
+      "updatedAt": "2026-09-30T16:00:40+00:00",
       "stories": [
+        {
+          "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
+          "url": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier",
+          "publishedAt": "2026-09-30T15:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
           "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission",
@@ -89,19 +95,13 @@
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_Sep_2026",
           "publishedAt": "2026-09-25T13:10:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "True or false on space industry trends with Pacôme Révillon",
-          "url": "https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon",
-          "publishedAt": "2026-09-24T15:51:42+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-30T15:00:15+00:00",
+      "updatedAt": "2026-09-30T16:00:40+00:00",
       "stories": [
         {
           "title": "Astranis lands $468M financing to boost MicroGEO satellite manufacturing",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-30T15:00:15+00:00",
+      "updatedAt": "2026-09-30T16:00:40+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-30T15:00:15+00:00",
+      "updatedAt": "2026-09-30T16:00:40+00:00",
       "stories": [
         {
           "title": "US withdraws last remaining troops out of Iraq",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-30T15:00:15+00:00",
+      "updatedAt": "2026-09-30T16:00:40+00:00",
       "stories": [
         {
           "title": "OpenAI puts a 24/7 agent inside ChatGPT",
@@ -341,21 +341,21 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "DoorDash launches an AI agent you can text to order food",
+          "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food",
+          "publishedAt": "2026-09-30T16:00:24+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Instinct’s new product recommendations are giving some users the ick",
+          "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick",
+          "publishedAt": "2026-09-30T15:56:28+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
           "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026",
           "publishedAt": "2026-09-30T14:30:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-          "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents",
-          "publishedAt": "2026-09-30T14:27:11+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2",
-          "publishedAt": "2026-09-30T14:15:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-30T15:00:15+00:00",
+      "updatedAt": "2026-09-30T16:00:40+00:00",
       "stories": [
         {
           "title": "The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI",
@@ -436,6 +436,12 @@
           "url": "https://www.therobotreport.com/tackling-construction-labor-shortages-asi-softbank-partner-autonomous-fleets",
           "publishedAt": "2026-09-30T12:30:17+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+          "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page",
+          "publishedAt": "2026-09-30T16:00:00+00:00",
+          "source": "TechCrunch Robotics"
         },
         {
           "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
@@ -492,12 +498,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-          "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass",
-          "publishedAt": "2026-09-24T19:15:00+00:00",
-          "source": "TechCrunch Robotics"
-        },
-        {
           "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
           "url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
           "publishedAt": "2026-09-24T18:00:04+00:00",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-30T15:00:15+00:00",
+    "updatedAt": "2026-09-30T16:00:40+00:00",
     "stories": [
       {
         "title": "OpenAI puts a 24/7 agent inside ChatGPT",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
-        "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission",
-        "publishedAt": "2026-09-30T13:00:00+00:00",
+        "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
+        "url": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier",
+        "publishedAt": "2026-09-30T15:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -579,6 +579,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
+        "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission",
+        "publishedAt": "2026-09-30T13:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "The U.S. federal government gets an AI front door",
         "url": "https://america.gov/",
         "publishedAt": "2026-09-30T09:00:00+00:00",
@@ -594,15 +603,6 @@
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Innodata opens motion-capture lab to help humanoids move more like people",
-        "url": "https://www.therobotreport.com/innodata-opens-motion-capture-lab-help-humanoids-move-more-like-people",
-        "publishedAt": "2026-09-30T12:59:12+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
