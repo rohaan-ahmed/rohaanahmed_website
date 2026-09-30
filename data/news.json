@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T23:00:23+00:00",
+  "generatedAt": "2026-09-30T23:41:54+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-30T23:00:23+00:00",
+      "updatedAt": "2026-09-30T23:41:54+00:00",
       "stories": [
         {
           "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
@@ -19,6 +19,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them",
+          "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them",
+          "publishedAt": "2026-09-30T23:37:47+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "Help Overlap Zoo Reveal Cosmic Dust",
           "url": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust",
           "publishedAt": "2026-09-30T21:19:33+00:00",
@@ -28,12 +34,6 @@
           "title": "NASA Adds New Science Investigations for Moon Base",
           "url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base",
           "publishedAt": "2026-09-30T21:11:23+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Awards Contract to Develop 5G Communications for Moon",
-          "url": "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon",
-          "publishedAt": "2026-09-30T20:41:26+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-30T23:00:23+00:00",
+      "updatedAt": "2026-09-30T23:41:54+00:00",
       "stories": [
         {
           "title": "GHGSat-D2 satellite to weigh nearly 100 kg, built by SFL Missions",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-30T23:00:23+00:00",
+      "updatedAt": "2026-09-30T23:41:54+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-30T23:00:23+00:00",
+      "updatedAt": "2026-09-30T23:41:54+00:00",
       "stories": [
         {
           "title": "Hegseth announces plans for new 4-star drone command, among other initiatives",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-30T23:00:23+00:00",
+      "updatedAt": "2026-09-30T23:41:54+00:00",
       "stories": [
         {
           "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-30T23:00:23+00:00",
+      "updatedAt": "2026-09-30T23:41:54+00:00",
       "stories": [
         {
           "title": "The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-30T23:00:23+00:00",
+    "updatedAt": "2026-09-30T23:41:54+00:00",
     "stories": [
       {
         "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
@@ -597,12 +597,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Saronic breaks ground on new Port Alpha shipyard in Texas",
-        "url": "https://breakingdefense.com/2026/09/saronic-breaks-ground-on-new-port-alpha-shipyard-in-texas",
-        "publishedAt": "2026-09-30T19:45:05+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them",
+        "publishedAt": "2026-09-30T23:37:47+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
