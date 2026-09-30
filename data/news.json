@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T19:00:29+00:00",
+  "generatedAt": "2026-09-30T19:56:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-30T19:00:29+00:00",
+      "updatedAt": "2026-09-30T19:56:31+00:00",
       "stories": [
         {
           "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-30T19:00:29+00:00",
+      "updatedAt": "2026-09-30T19:56:31+00:00",
       "stories": [
         {
           "title": "GHGSat-D2 satellite to weigh nearly 100 kg, built by SFL Missions",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-30T19:00:29+00:00",
+      "updatedAt": "2026-09-30T19:56:31+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -223,8 +223,26 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-30T19:00:29+00:00",
+      "updatedAt": "2026-09-30T19:56:31+00:00",
       "stories": [
+        {
+          "title": "Saronic breaks ground on new Port Alpha shipyard in Texas",
+          "url": "https://breakingdefense.com/2026/09/saronic-breaks-ground-on-new-port-alpha-shipyard-in-texas",
+          "publishedAt": "2026-09-30T19:45:05+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Army taps 5 companies for PrSM Inc 4 prototypes",
+          "url": "https://breakingdefense.com/2026/09/army-taps-5-companies-for-prsm-inc-4-prototypes",
+          "publishedAt": "2026-09-30T19:08:03+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "US Air Force awards $2.38B contract to Boeing for 22 F-15EX",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/09/30/us-air-force-awards-238b-contract-to-boeing-for-22-f-15ex",
+          "publishedAt": "2026-09-30T19:21:14+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "EXCLUSIVE: How the DIA measures a military’s ‘Will to Fight’",
           "url": "https://breakingdefense.com/2026/09/exclusive-how-the-dia-measures-a-militarys-will-to-fight",
@@ -250,10 +268,10 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Boeing nabs $2.4 billion deal for more F-15EX fighters",
-          "url": "https://breakingdefense.com/2026/09/boeing-nabs-2-4-billion-deal-for-more-f-15ex-fighters",
-          "publishedAt": "2026-09-30T16:21:59+00:00",
-          "source": "Breaking Defense"
+          "title": "Navy to procure 30 robotic ships at an average cost of $40M per vessel",
+          "url": "https://defensescoop.com/2026/09/30/navy-to-procure-30-musv-from-sea-drone-makers",
+          "publishedAt": "2026-09-30T19:46:59+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Operation Atlantic City ushers Marines on rare trip to ... remote Arctic island",
@@ -280,22 +298,10 @@
           "source": "Defense News"
         },
         {
-          "title": "US withdraws last remaining troops out of Iraq",
-          "url": "https://breakingdefense.com/2026/09/us-withdraws-last-remaining-troops-out-of-iraq",
-          "publishedAt": "2026-09-30T14:04:24+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Trump nominates Skillman as vice chief of naval operations",
           "url": "https://defensescoop.com/2026/09/30/trump-nominates-skillman-as-vice-chief-of-naval-operations",
           "publishedAt": "2026-09-30T17:16:06+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "UAE turns to Russian shadow airline for missions in Africa: Investigation",
-          "url": "https://www.defensenews.com/global/mideast-africa/2026/09/30/uae-turns-to-russian-shadow-airline-for-missions-in-africa-investigation",
-          "publishedAt": "2026-09-30T12:06:52+00:00",
-          "source": "Defense News"
         },
         {
           "title": "Pentagon task force, Army announce billions in counter-drone tech awards",
@@ -308,19 +314,13 @@
           "url": "https://defensescoop.com/2026/09/29/task-force-says-drone-threats-on-us-mexico-border-increasingly-linked-to-human-trafficking",
           "publishedAt": "2026-09-29T21:22:13+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "U.S. Africa Command wants tech innovation to offset troops’ shrinking ground presence",
-          "url": "https://defensescoop.com/2026/09/28/u-s-africa-command-wants-tech-innovation-to-offset-troops-shrinking-ground-presence",
-          "publishedAt": "2026-09-28T20:52:59+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-30T19:00:29+00:00",
+      "updatedAt": "2026-09-30T19:56:31+00:00",
       "stories": [
         {
           "title": "OpenAI puts a 24/7 agent inside ChatGPT",
@@ -339,6 +339,12 @@
           "url": "https://america.gov/",
           "publishedAt": "2026-09-30T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+          "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents",
+          "publishedAt": "2026-09-30T19:00:57+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "AI voice startup ElevenLabs doubles valuation to $22B",
@@ -368,12 +374,6 @@
           "title": "DoorDash launches an AI agent you can text to order food",
           "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food",
           "publishedAt": "2026-09-30T16:00:24+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-          "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page",
-          "publishedAt": "2026-09-30T16:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-30T19:00:29+00:00",
+      "updatedAt": "2026-09-30T19:56:31+00:00",
       "stories": [
         {
           "title": "The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-30T19:00:29+00:00",
+    "updatedAt": "2026-09-30T19:56:31+00:00",
     "stories": [
       {
         "title": "OpenAI puts a 24/7 agent inside ChatGPT",
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "EXCLUSIVE: How the DIA measures a military’s ‘Will to Fight’",
-        "url": "https://breakingdefense.com/2026/09/exclusive-how-the-dia-measures-a-militarys-will-to-fight",
-        "publishedAt": "2026-09-30T18:08:46+00:00",
+        "title": "Saronic breaks ground on new Port Alpha shipyard in Texas",
+        "url": "https://breakingdefense.com/2026/09/saronic-breaks-ground-on-new-port-alpha-shipyard-in-texas",
+        "publishedAt": "2026-09-30T19:45:05+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -597,10 +597,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "White House nominates next general to helm US Space Command",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/30/white-house-nominates-next-general-to-helm-us-space-command",
-        "publishedAt": "2026-09-30T18:49:06+00:00",
-        "source": "Defense News",
+        "title": "Army taps 5 companies for PrSM Inc 4 prototypes",
+        "url": "https://breakingdefense.com/2026/09/army-taps-5-companies-for-prsm-inc-4-prototypes",
+        "publishedAt": "2026-09-30T19:08:03+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
@@ -719,6 +719,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-07"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-17"
   ]
 }
