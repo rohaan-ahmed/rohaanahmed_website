@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T18:00:30+00:00",
+  "generatedAt": "2026-09-30T19:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-30T18:00:30+00:00",
+      "updatedAt": "2026-09-30T19:00:29+00:00",
       "stories": [
         {
           "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
@@ -17,6 +17,18 @@
           "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission",
           "publishedAt": "2026-09-30T13:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "NASA, International Partners Advance Work on Space Crops",
+          "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops",
+          "publishedAt": "2026-09-30T18:38:20+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Star Trails",
+          "url": "https://www.nasa.gov/image-article/star-trails",
+          "publishedAt": "2026-09-30T17:50:50+00:00",
+          "source": "NASA"
         },
         {
           "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
@@ -35,6 +47,12 @@
           "url": "https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer",
           "publishedAt": "2026-09-29T17:42:20+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries",
+          "publishedAt": "2026-09-30T04:05:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
@@ -77,31 +95,13 @@
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_Sep_2026",
           "publishedAt": "2026-09-25T13:10:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Three Earth Explorer candidates go forward",
-          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Three_Earth_Explorer_candidates_go_forward",
-          "publishedAt": "2026-09-25T12:20:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
-          "title": "True or false on space industry trends with Pacôme Révillon",
-          "url": "https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon",
-          "publishedAt": "2026-09-24T15:51:42+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production",
-          "url": "https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production",
-          "publishedAt": "2026-09-24T15:05:28+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-30T18:00:30+00:00",
+      "updatedAt": "2026-09-30T19:00:29+00:00",
       "stories": [
         {
           "title": "GHGSat-D2 satellite to weigh nearly 100 kg, built by SFL Missions",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-30T18:00:30+00:00",
+      "updatedAt": "2026-09-30T19:00:29+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -223,8 +223,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-30T18:00:30+00:00",
+      "updatedAt": "2026-09-30T19:00:29+00:00",
       "stories": [
+        {
+          "title": "EXCLUSIVE: How the DIA measures a military’s ‘Will to Fight’",
+          "url": "https://breakingdefense.com/2026/09/exclusive-how-the-dia-measures-a-militarys-will-to-fight",
+          "publishedAt": "2026-09-30T18:08:46+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "White House nominates next general to helm US Space Command",
+          "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/30/white-house-nominates-next-general-to-helm-us-space-command",
+          "publishedAt": "2026-09-30T18:49:06+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "White House names nominees for SPACECOM, Navy No. 2",
           "url": "https://breakingdefense.com/2026/09/white-house-names-nominees-for-spacecom-navy-no-2",
@@ -256,6 +268,12 @@
           "source": "Defense News"
         },
         {
+          "title": "How to build observability for the agentic AI era",
+          "url": "https://fedscoop.com/splunk-agent-observability",
+          "publishedAt": "2026-09-30T18:55:19+00:00",
+          "source": "DefenseScoop"
+        },
+        {
           "title": "Aircraft carrier USS Harry S. Truman to undergo $5.1B mid-life overhaul",
           "url": "https://www.defensenews.com/industry/techwatch/2026/09/30/aircraft-carrier-uss-harry-s-truman-to-undergo-51b-mid-life-overhaul",
           "publishedAt": "2026-09-30T16:03:55+00:00",
@@ -274,21 +292,9 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "Riyadh gets closer to F-35s, Damascus presses sovereignty and an expert take on Iran",
-          "url": "https://breakingdefense.com/2026/09/riyadh-gets-closer-to-f-35s-damascus-presses-sovereignty-and-an-expert-take-on-iran",
-          "publishedAt": "2026-09-30T13:30:16+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "UAE turns to Russian shadow airline for missions in Africa: Investigation",
           "url": "https://www.defensenews.com/global/mideast-africa/2026/09/30/uae-turns-to-russian-shadow-airline-for-missions-in-africa-investigation",
           "publishedAt": "2026-09-30T12:06:52+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "Ukraine’s former defense minister launches ‘Manhattan Project’ for killer robots",
-          "url": "https://www.defensenews.com/unmanned/2026/09/30/ukraines-former-defense-minister-launches-manhattan-project-for-killer-robots",
-          "publishedAt": "2026-09-30T08:29:57+00:00",
           "source": "Defense News"
         },
         {
@@ -308,19 +314,13 @@
           "url": "https://defensescoop.com/2026/09/28/u-s-africa-command-wants-tech-innovation-to-offset-troops-shrinking-ground-presence",
           "publishedAt": "2026-09-28T20:52:59+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Marine Corps awards Anduril nearly $16M for Pulsar-Lite EW system to counter drones",
-          "url": "https://defensescoop.com/2026/09/28/marine-corps-awards-anduril-nearly-16m-for-pulsar-lite-ew-system-to-counter-drones",
-          "publishedAt": "2026-09-28T20:21:32+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-30T18:00:30+00:00",
+      "updatedAt": "2026-09-30T19:00:29+00:00",
       "stories": [
         {
           "title": "OpenAI puts a 24/7 agent inside ChatGPT",
@@ -341,6 +341,18 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+          "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b",
+          "publishedAt": "2026-09-30T18:23:57+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+          "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots",
+          "publishedAt": "2026-09-30T17:45:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "The ugly economics of consumer AI",
           "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai",
           "publishedAt": "2026-09-30T17:24:45+00:00",
@@ -359,40 +371,10 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Introducing dots (10 minute read)",
-          "url": "https://openai.com/index/introducing-dots",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Future Is for Everyone: Muse for Small Business (3 minute read)",
-          "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Introducing GPT-6.1 Sol (6 minute read)",
-          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The world's best gradual disempowerment model organism: Frontier AI labs (32 minute read)",
-          "url": "https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Segmentation Drives Market Share Wins in AI (2 minute read)",
-          "url": "https://tomtunguz.com/anthropic-repriced-the-enterprise",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "d1 (2 minute read)",
-          "url": "https://threadreaderapp.com/thread/2105003472332693869.html",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+          "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page",
+          "publishedAt": "2026-09-30T16:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Anthropic's Sonnet 5.5 nears Opus at half the price",
@@ -411,13 +393,31 @@
           "url": "https://drfeifei.substack.com/p/worldlabs-joining-amd",
           "publishedAt": "2026-09-29T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI’s agents went rogue on U.S. government sites",
+          "url": "https://edition.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
+          "publishedAt": "2026-09-28T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic loses Pentagon blacklist appeal",
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "publishedAt": "2026-09-28T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Meta’s Connect turns into a Muse takeover",
+          "url": "https://www.meta.com/blog/meta-connect-2026-everything-we-announced",
+          "publishedAt": "2026-09-25T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-30T18:00:30+00:00",
+      "updatedAt": "2026-09-30T19:00:29+00:00",
       "stories": [
         {
           "title": "The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-30T18:00:30+00:00",
+    "updatedAt": "2026-09-30T19:00:29+00:00",
     "stories": [
       {
         "title": "OpenAI puts a 24/7 agent inside ChatGPT",
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "White House names nominees for SPACECOM, Navy No. 2",
-        "url": "https://breakingdefense.com/2026/09/white-house-names-nominees-for-spacecom-navy-no-2",
-        "publishedAt": "2026-09-30T17:01:00+00:00",
+        "title": "EXCLUSIVE: How the DIA measures a military’s ‘Will to Fight’",
+        "url": "https://breakingdefense.com/2026/09/exclusive-how-the-dia-measures-a-militarys-will-to-fight",
+        "publishedAt": "2026-09-30T18:08:46+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -597,12 +597,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "The U.S. federal government gets an AI front door",
-        "url": "https://america.gov/",
-        "publishedAt": "2026-09-30T09:00:00+00:00",
-        "source": "The Rundown AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "White House nominates next general to helm US Space Command",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/30/white-house-nominates-next-general-to-helm-us-space-command",
+        "publishedAt": "2026-09-30T18:49:06+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -718,7 +718,7 @@
     }
   ],
   "warnings": [
-    "NASA: 429 Client Error: Too Many Requests for url: https://www.nasa.gov/feed/",
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-07"
   ]
 }
