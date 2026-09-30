@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T14:00:27+00:00",
+  "generatedAt": "2026-09-30T15:00:15+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-30T14:00:27+00:00",
+      "updatedAt": "2026-09-30T15:00:15+00:00",
       "stories": [
         {
           "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-30T14:00:27+00:00",
+      "updatedAt": "2026-09-30T15:00:15+00:00",
       "stories": [
         {
           "title": "Astranis lands $468M financing to boost MicroGEO satellite manufacturing",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-30T14:00:27+00:00",
+      "updatedAt": "2026-09-30T15:00:15+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -223,8 +223,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-30T14:00:27+00:00",
+      "updatedAt": "2026-09-30T15:00:15+00:00",
       "stories": [
+        {
+          "title": "US withdraws last remaining troops out of Iraq",
+          "url": "https://breakingdefense.com/2026/09/us-withdraws-last-remaining-troops-out-of-iraq",
+          "publishedAt": "2026-09-30T14:04:24+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Riyadh gets closer to F-35s, Damascus presses sovereignty and an expert take on Iran",
           "url": "https://breakingdefense.com/2026/09/riyadh-gets-closer-to-f-35s-damascus-presses-sovereignty-and-an-expert-take-on-iran",
@@ -265,12 +271,6 @@
           "title": "Navy to purchase 30 MUSVs following at-sea testing",
           "url": "https://breakingdefense.com/2026/09/navy-to-purchase-30-musvs-following-at-sea-testing",
           "publishedAt": "2026-09-29T22:25:05+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Boeing wins Navy next-gen fighter F/A-XX competition",
-          "url": "https://breakingdefense.com/2026/09/boeing-navy-ngad-faxx-next-gen-fighter-competition-northrop",
-          "publishedAt": "2026-09-29T21:26:24+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-30T14:00:27+00:00",
+      "updatedAt": "2026-09-30T15:00:15+00:00",
       "stories": [
         {
           "title": "OpenAI puts a 24/7 agent inside ChatGPT",
@@ -341,22 +341,58 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Airbnb adds AI search, more social features",
-          "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features",
-          "publishedAt": "2026-09-30T12:00:00+00:00",
+          "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026",
+          "publishedAt": "2026-09-30T14:30:00+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-          "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch",
-          "publishedAt": "2026-09-29T23:30:55+00:00",
+          "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+          "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents",
+          "publishedAt": "2026-09-30T14:27:11+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-          "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch",
-          "publishedAt": "2026-09-29T22:20:59+00:00",
+          "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2",
+          "publishedAt": "2026-09-30T14:15:00+00:00",
           "source": "TechCrunch AI"
+        },
+        {
+          "title": "Introducing dots (10 minute read)",
+          "url": "https://openai.com/index/introducing-dots",
+          "publishedAt": "2026-09-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Future Is for Everyone: Muse for Small Business (3 minute read)",
+          "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business",
+          "publishedAt": "2026-09-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing GPT-6.1 Sol (6 minute read)",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "publishedAt": "2026-09-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The world's best gradual disempowerment model organism: Frontier AI labs (32 minute read)",
+          "url": "https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism",
+          "publishedAt": "2026-09-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Segmentation Drives Market Share Wins in AI (2 minute read)",
+          "url": "https://tomtunguz.com/anthropic-repriced-the-enterprise",
+          "publishedAt": "2026-09-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "d1 (2 minute read)",
+          "url": "https://threadreaderapp.com/thread/2105003472332693869.html",
+          "publishedAt": "2026-09-30T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Anthropic's Sonnet 5.5 nears Opus at half the price",
@@ -375,50 +411,20 @@
           "url": "https://drfeifei.substack.com/p/worldlabs-joining-amd",
           "publishedAt": "2026-09-29T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s latest features take direct aim at the app store model",
-          "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
-          "publishedAt": "2026-09-29T20:15:47+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
-          "publishedAt": "2026-09-29T19:52:37+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-          "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents",
-          "publishedAt": "2026-09-29T18:35:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "OpenAI’s agents went rogue on U.S. government sites",
-          "url": "https://edition.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
-          "publishedAt": "2026-09-28T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic loses Pentagon blacklist appeal",
-          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-          "publishedAt": "2026-09-28T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Meta’s Connect turns into a Muse takeover",
-          "url": "https://www.meta.com/blog/meta-connect-2026-everything-we-announced",
-          "publishedAt": "2026-09-25T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-30T14:00:27+00:00",
+      "updatedAt": "2026-09-30T15:00:15+00:00",
       "stories": [
+        {
+          "title": "The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI",
+          "url": "https://www.therobotreport.com/robot-report-parent-arrowfly-launches-ai-for-engineers-platform-events-engineers-navigating-ai",
+          "publishedAt": "2026-09-30T14:03:31+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Innodata opens motion-capture lab to help humanoids move more like people",
           "url": "https://www.therobotreport.com/innodata-opens-motion-capture-lab-help-humanoids-move-more-like-people",
@@ -430,6 +436,12 @@
           "url": "https://www.therobotreport.com/tackling-construction-labor-shortages-asi-softbank-partner-autonomous-fleets",
           "publishedAt": "2026-09-30T12:30:17+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2",
+          "publishedAt": "2026-09-30T14:15:00+00:00",
+          "source": "TechCrunch Robotics"
         },
         {
           "title": "ForceN to give a crash course on force and torque sensing for humanoids at RoboBusiness",
@@ -454,12 +466,6 @@
           "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
           "publishedAt": "2026-09-28T21:48:56+00:00",
           "source": "IEEE Spectrum Robotics"
-        },
-        {
-          "title": "Gecko Robotics works with NVIDIA to add AI agent security and control",
-          "url": "https://www.therobotreport.com/gecko-robotics-works-with-nvidia-adds-ai-agent-security-and-control",
-          "publishedAt": "2026-09-28T17:41:32+00:00",
-          "source": "The Robot Report"
         },
         {
           "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
@@ -498,12 +504,6 @@
           "source": "IEEE Spectrum Robotics"
         },
         {
-          "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-          "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers",
-          "publishedAt": "2026-09-24T18:52:38+00:00",
-          "source": "TechCrunch Robotics"
-        },
-        {
           "title": "Barbara Mazzolai Wants to Build a New Field of Robotics",
           "url": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
           "publishedAt": "2026-09-22T14:00:04+00:00",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-30T14:00:27+00:00",
+    "updatedAt": "2026-09-30T15:00:15+00:00",
     "stories": [
       {
         "title": "OpenAI puts a 24/7 agent inside ChatGPT",
@@ -561,18 +561,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Riyadh gets closer to F-35s, Damascus presses sovereignty and an expert take on Iran",
-        "url": "https://breakingdefense.com/2026/09/riyadh-gets-closer-to-f-35s-damascus-presses-sovereignty-and-an-expert-take-on-iran",
-        "publishedAt": "2026-09-30T13:30:16+00:00",
+        "title": "US withdraws last remaining troops out of Iraq",
+        "url": "https://breakingdefense.com/2026/09/us-withdraws-last-remaining-troops-out-of-iraq",
+        "publishedAt": "2026-09-30T14:04:24+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Innodata opens motion-capture lab to help humanoids move more like people",
-        "url": "https://www.therobotreport.com/innodata-opens-motion-capture-lab-help-humanoids-move-more-like-people",
-        "publishedAt": "2026-09-30T12:59:12+00:00",
+        "title": "The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI",
+        "url": "https://www.therobotreport.com/robot-report-parent-arrowfly-launches-ai-for-engineers-platform-events-engineers-navigating-ai",
+        "publishedAt": "2026-09-30T14:03:31+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -588,21 +588,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Tackling construction labor shortages: ASI and SoftBank partner on autonomous fleets",
-        "url": "https://www.therobotreport.com/tackling-construction-labor-shortages-asi-softbank-partner-autonomous-fleets",
-        "publishedAt": "2026-09-30T12:30:17+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "The Army has ‘owned the night’; now it must own the electromagnetic spectrum",
-        "url": "https://breakingdefense.com/2026/09/the-army-has-owned-the-night-now-it-must-own-the-electromagnetic-spectrum",
-        "publishedAt": "2026-09-30T12:28:00+00:00",
+        "title": "Riyadh gets closer to F-35s, Damascus presses sovereignty and an expert take on Iran",
+        "url": "https://breakingdefense.com/2026/09/riyadh-gets-closer-to-f-35s-damascus-presses-sovereignty-and-an-expert-take-on-iran",
+        "publishedAt": "2026-09-30T13:30:16+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Innodata opens motion-capture lab to help humanoids move more like people",
+        "url": "https://www.therobotreport.com/innodata-opens-motion-capture-lab-help-humanoids-move-more-like-people",
+        "publishedAt": "2026-09-30T12:59:12+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -718,7 +718,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-16"
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
   ]
 }
