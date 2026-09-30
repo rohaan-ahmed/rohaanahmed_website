@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T08:23:45+00:00",
+  "generatedAt": "2026-09-30T09:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-30T08:23:45+00:00",
+      "updatedAt": "2026-09-30T09:00:27+00:00",
       "stories": [
         {
           "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-30T08:23:45+00:00",
+      "updatedAt": "2026-09-30T09:00:27+00:00",
       "stories": [
         {
           "title": "SpaceX Transporter-18 to carry three Canadian satellites",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-30T08:23:45+00:00",
+      "updatedAt": "2026-09-30T09:00:27+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -229,8 +229,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-30T08:23:45+00:00",
+      "updatedAt": "2026-09-30T09:00:27+00:00",
       "stories": [
+        {
+          "title": "Ukraine’s former defense minister launches ‘Manhattan Project’ for killer robots",
+          "url": "https://www.defensenews.com/unmanned/2026/09/30/ukraines-former-defense-minister-launches-manhattan-project-for-killer-robots",
+          "publishedAt": "2026-09-30T08:29:57+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "What Boeing’s F/A-XX win means for the company, and what challenges come next",
           "url": "https://breakingdefense.com/2026/09/what-boeings-f-a-xx-win-means-for-the-company-and-what-challenges-come-next",
@@ -298,12 +304,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Estonia blames Russia in arson attack on military robotics firm Milrem",
-          "url": "https://www.defensenews.com/global/europe/2026/09/29/estonia-blames-russia-in-arson-attack-on-military-robotics-firm-milrem",
-          "publishedAt": "2026-09-29T14:52:40+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "U.S. Africa Command wants tech innovation to offset troops’ shrinking ground presence",
           "url": "https://defensescoop.com/2026/09/28/u-s-africa-command-wants-tech-innovation-to-offset-troops-shrinking-ground-presence",
           "publishedAt": "2026-09-28T20:52:59+00:00",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-30T08:23:45+00:00",
+      "updatedAt": "2026-09-30T09:00:27+00:00",
       "stories": [
         {
           "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
@@ -365,22 +365,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
-          "publishedAt": "2026-09-29T19:52:37+00:00",
-          "source": "TechCrunch AI"
+          "title": "NVIDIA Launched Open Agent Safety Platform (4 minute read)",
+          "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+          "publishedAt": "2026-09-29T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-          "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents",
-          "publishedAt": "2026-09-29T18:35:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs (5 minute read)",
+          "url": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html",
+          "publishedAt": "2026-09-29T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-          "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
-          "publishedAt": "2026-09-29T17:45:51+00:00",
-          "source": "TechCrunch AI"
+          "title": "AMD to Acquire World Labs for $8.2 Billion (3 minute read)",
+          "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute",
+          "publishedAt": "2026-09-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "State of Agent Skills (9 minute read)",
+          "url": "https://vercel.com/blog/state-of-agent-skills",
+          "publishedAt": "2026-09-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "GPT-6 Astra performs unsanctioned supply-chain attacks in simulations (10 minute read)",
+          "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
+          "publishedAt": "2026-09-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Eleven v4, our most emotive model (9 minute read)",
+          "url": "https://elevenlabs.io/blog/eleven-v4",
+          "publishedAt": "2026-09-29T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI’s agents went rogue on U.S. government sites",
@@ -399,31 +417,13 @@
           "url": "https://www.meta.com/blog/meta-connect-2026-everything-we-announced",
           "publishedAt": "2026-09-25T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Google’s AI chips are headed to space",
-          "url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
-          "publishedAt": "2026-09-25T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Claude spots a CRISPR-like DNA mystery",
-          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-          "publishedAt": "2026-09-24T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Claude now leads 26% of Anthropic's AI research",
-          "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-          "publishedAt": "2026-09-24T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-30T08:23:45+00:00",
+      "updatedAt": "2026-09-30T09:00:27+00:00",
       "stories": [
         {
           "title": "ForceN to give a crash course on force and torque sensing for humanoids at RoboBusiness",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-30T08:23:45+00:00",
+    "updatedAt": "2026-09-30T09:00:27+00:00",
     "stories": [
       {
         "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
@@ -567,10 +567,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "What Boeing’s F/A-XX win means for the company, and what challenges come next",
-        "url": "https://breakingdefense.com/2026/09/what-boeings-f-a-xx-win-means-for-the-company-and-what-challenges-come-next",
-        "publishedAt": "2026-09-30T01:55:49+00:00",
-        "source": "Breaking Defense",
+        "title": "Ukraine’s former defense minister launches ‘Manhattan Project’ for killer robots",
+        "url": "https://www.defensenews.com/unmanned/2026/09/30/ukraines-former-defense-minister-launches-manhattan-project-for-killer-robots",
+        "publishedAt": "2026-09-30T08:29:57+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -724,7 +724,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-10"
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
   ]
 }
