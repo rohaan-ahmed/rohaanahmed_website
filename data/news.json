@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T09:23:30+00:00",
+  "generatedAt": "2026-10-01T10:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-01T09:23:30+00:00",
+      "updatedAt": "2026-10-01T10:00:27+00:00",
       "stories": [
         {
           "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
@@ -25,10 +25,28 @@
           "source": "SpaceNews"
         },
         {
+          "title": "APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna",
+          "publishedAt": "2026-10-01T04:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "An Agricultural “Island” in the Saskatchewan River Delta",
+          "url": "https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta",
+          "publishedAt": "2026-10-01T04:00:00+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
           "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission",
           "publishedAt": "2026-09-30T13:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them",
+          "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them",
+          "publishedAt": "2026-09-30T23:37:47+00:00",
+          "source": "NASA"
         },
         {
           "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
@@ -67,12 +85,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
-          "url": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth",
-          "publishedAt": "2026-09-28T12:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Successful Earth flyby improves Juice’s course to Jupiter",
           "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter",
           "publishedAt": "2026-09-28T15:00:00+00:00",
@@ -83,25 +95,13 @@
           "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/One_geology_step_closer_to_the_Moon",
           "publishedAt": "2026-09-28T12:03:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Week in images: 21-25 Sep 2026",
-          "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_Sep_2026",
-          "publishedAt": "2026-09-25T13:10:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
-          "title": "True or false on space industry trends with Pacôme Révillon",
-          "url": "https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon",
-          "publishedAt": "2026-09-24T15:51:42+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-01T09:23:30+00:00",
+      "updatedAt": "2026-10-01T10:00:27+00:00",
       "stories": [
         {
           "title": "Canada’s Josh Kutryk ready for a launch Oct. 1, but weather is uncertain",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-01T09:23:30+00:00",
+      "updatedAt": "2026-10-01T10:00:27+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-01T09:23:30+00:00",
+      "updatedAt": "2026-10-01T10:00:27+00:00",
       "stories": [
         {
           "title": "What Europe’s military air fleets will look like in 30 years",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-01T09:23:30+00:00",
+      "updatedAt": "2026-10-01T10:00:27+00:00",
       "stories": [
         {
           "title": "Gemini 4 Argon looks to return Google to the frontier",
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-01T09:23:30+00:00",
+      "updatedAt": "2026-10-01T10:00:27+00:00",
       "stories": [
         {
           "title": "ANYbotics launches Shift to streamline robot fleet operations, scale inspections",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-01T09:23:30+00:00",
+    "updatedAt": "2026-10-01T10:00:27+00:00",
     "stories": [
       {
         "title": "Gemini 4 Argon looks to return Google to the frontier",
@@ -718,7 +718,6 @@
     }
   ],
   "warnings": [
-    "NASA: 429 Client Error: Too Many Requests for url: https://www.nasa.gov/feed/",
     "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
   ]
 }
