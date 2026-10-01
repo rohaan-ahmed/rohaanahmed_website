@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-10-01T07:00:27+00:00",
+  "generatedAt": "2026-10-01T08:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-01T07:00:27+00:00",
+      "updatedAt": "2026-10-01T08:00:26+00:00",
       "stories": [
         {
           "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
           "url": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit",
           "publishedAt": "2026-10-01T00:24:08+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "EarthCARE’s view of volcanic plume boosts air safety",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety",
+          "publishedAt": "2026-10-01T07:30:00+00:00",
+          "source": "European Space Agency"
         },
         {
           "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
@@ -89,19 +95,13 @@
           "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/One_geology_step_closer_to_the_Moon",
           "publishedAt": "2026-09-28T12:03:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Week in images: 21-25 Sep 2026",
-          "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_Sep_2026",
-          "publishedAt": "2026-09-25T13:10:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-01T07:00:27+00:00",
+      "updatedAt": "2026-10-01T08:00:26+00:00",
       "stories": [
         {
           "title": "Canada’s Josh Kutryk ready for a launch Oct. 1, but weather is uncertain",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-01T07:00:27+00:00",
+      "updatedAt": "2026-10-01T08:00:26+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-01T07:00:27+00:00",
+      "updatedAt": "2026-10-01T08:00:26+00:00",
       "stories": [
         {
           "title": "Hegseth announces plans for new 4-star drone command, among other initiatives",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-01T07:00:27+00:00",
+      "updatedAt": "2026-10-01T08:00:26+00:00",
       "stories": [
         {
           "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-01T07:00:27+00:00",
+      "updatedAt": "2026-10-01T08:00:26+00:00",
       "stories": [
         {
           "title": "The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-01T07:00:27+00:00",
+    "updatedAt": "2026-10-01T08:00:26+00:00",
     "stories": [
       {
         "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
@@ -579,6 +579,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "EarthCARE’s view of volcanic plume boosts air safety",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety",
+        "publishedAt": "2026-10-01T07:30:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "GHGSat-D2 satellite to weigh nearly 100 kg, built by SFL Missions",
         "url": "https://spaceq.ca/ghgsat-d2-satellite-sfl-missions",
         "publishedAt": "2026-09-30T17:53:10+00:00",
@@ -592,15 +601,6 @@
         "url": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier",
         "publishedAt": "2026-09-30T15:00:00+00:00",
         "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna",
-        "publishedAt": "2026-10-01T04:05:00+00:00",
-        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
