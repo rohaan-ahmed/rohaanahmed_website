@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T23:41:54+00:00",
+  "generatedAt": "2026-10-01T00:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-09-30T23:41:54+00:00",
+      "updatedAt": "2026-10-01T00:00:34+00:00",
       "stories": [
         {
           "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-09-30T23:41:54+00:00",
+      "updatedAt": "2026-10-01T00:00:34+00:00",
       "stories": [
         {
           "title": "GHGSat-D2 satellite to weigh nearly 100 kg, built by SFL Missions",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-09-30T23:41:54+00:00",
+      "updatedAt": "2026-10-01T00:00:34+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-09-30T23:41:54+00:00",
+      "updatedAt": "2026-10-01T00:00:34+00:00",
       "stories": [
         {
           "title": "Hegseth announces plans for new 4-star drone command, among other initiatives",
@@ -320,8 +320,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-09-30T23:41:54+00:00",
+      "updatedAt": "2026-10-01T00:00:34+00:00",
       "stories": [
+        {
+          "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+          "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
+          "publishedAt": "2026-09-30T23:43:07+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
           "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation",
@@ -353,28 +359,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-          "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b",
-          "publishedAt": "2026-09-30T18:23:57+00:00",
-          "source": "TechCrunch AI"
+          "title": "Introducing GPT-6.1 Sol (6 minute read)",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "publishedAt": "2026-09-30T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-          "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots",
-          "publishedAt": "2026-09-30T17:45:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Introducing dots (10 minute read)",
+          "url": "https://openai.com/index/introducing-dots",
+          "publishedAt": "2026-09-30T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "The ugly economics of consumer AI",
-          "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai",
-          "publishedAt": "2026-09-30T17:24:45+00:00",
-          "source": "TechCrunch AI"
+          "title": "The Future Is for Everyone: Muse for Small Business (3 minute read)",
+          "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business",
+          "publishedAt": "2026-09-30T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-          "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission",
-          "publishedAt": "2026-09-30T16:24:23+00:00",
-          "source": "TechCrunch AI"
+          "title": "The world's best gradual disempowerment model organism: Frontier AI labs (32 minute read)",
+          "url": "https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism",
+          "publishedAt": "2026-09-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Segmentation Drives Market Share Wins in AI (2 minute read)",
+          "url": "https://tomtunguz.com/anthropic-repriced-the-enterprise",
+          "publishedAt": "2026-09-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "d1 (2 minute read)",
+          "url": "https://threadreaderapp.com/thread/2105003472332693869.html",
+          "publishedAt": "2026-09-30T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Anthropic's Sonnet 5.5 nears Opus at half the price",
@@ -393,31 +411,13 @@
           "url": "https://drfeifei.substack.com/p/worldlabs-joining-amd",
           "publishedAt": "2026-09-29T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s agents went rogue on U.S. government sites",
-          "url": "https://edition.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
-          "publishedAt": "2026-09-28T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic loses Pentagon blacklist appeal",
-          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-          "publishedAt": "2026-09-28T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Meta’s Connect turns into a Muse takeover",
-          "url": "https://www.meta.com/blog/meta-connect-2026-everything-we-announced",
-          "publishedAt": "2026-09-25T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-09-30T23:41:54+00:00",
+      "updatedAt": "2026-10-01T00:00:34+00:00",
       "stories": [
         {
           "title": "The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI",
@@ -513,22 +513,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-09-30T23:41:54+00:00",
+    "updatedAt": "2026-10-01T00:00:34+00:00",
     "stories": [
       {
-        "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-        "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation",
-        "publishedAt": "2026-09-30T21:07:40+00:00",
+        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+        "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
+        "publishedAt": "2026-09-30T23:43:07+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI puts a 24/7 agent inside ChatGPT",
-        "url": "https://openai.com/index/devday-2026-recap",
-        "publishedAt": "2026-09-30T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+        "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation",
+        "publishedAt": "2026-09-30T21:07:40+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -718,7 +718,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-18"
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
   ]
 }
