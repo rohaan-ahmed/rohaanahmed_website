@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T16:00:29+00:00",
+  "generatedAt": "2026-10-01T16:32:47+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-01T16:00:29+00:00",
+      "updatedAt": "2026-10-01T16:32:47+00:00",
       "stories": [
         {
           "title": "World Space Week 2026 Celebrates the “Rocket Revolution”",
@@ -101,13 +101,19 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-01T16:00:29+00:00",
+      "updatedAt": "2026-10-01T16:32:47+00:00",
       "stories": [
         {
           "title": "Josh Kutryk reaches space for the first time aboard SpaceX Crew-13",
           "url": "https://spaceq.ca/josh-kutryk-reaches-space-for-the-first-time-aboard-spacex-crew-13",
           "publishedAt": "2026-10-01T15:31:49+00:00",
           "source": "SpaceQ"
+        },
+        {
+          "title": "Canadian Space Agency astronaut Joshua Kutryk begins his first space mission",
+          "url": "https://www.canada.ca/en/space-agency/news/2026/10/canadian-space-agency-astronaut-joshua-kutryk-begins-his-first-space-mission.html",
+          "publishedAt": "2026-10-01T16:20:56+00:00",
+          "source": "Canadian Space Agency"
         },
         {
           "title": "Canada’s Josh Kutryk ready for a launch Oct. 1, but weather is uncertain",
@@ -180,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-01T16:00:29+00:00",
+      "updatedAt": "2026-10-01T16:32:47+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -223,8 +229,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-01T16:00:29+00:00",
+      "updatedAt": "2026-10-01T16:32:47+00:00",
       "stories": [
+        {
+          "title": "Moroccan startup unveils prototye UAV that operates without GPS signal",
+          "url": "https://breakingdefense.com/2026/10/moroccan-startup-unveils-prototye-uav-that-operates-without-gps-signal",
+          "publishedAt": "2026-10-01T16:02:44+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Ex-defense minister’s futuristic ‘Army of Robots’ raises eyebrows in Ukraine",
           "url": "https://breakingdefense.com/2026/10/ex-defense-ministers-futuristic-army-of-robots-raises-eyebrows-in-ukraine",
@@ -256,6 +268,12 @@
           "source": "Defense News"
         },
         {
+          "title": "DIA makes fast-tracked data center maintenance award to avoid ‘eventual equipment failure’",
+          "url": "https://defensescoop.com/2026/10/01/dia-data-center-maintenance-award-avoid-equipment-failure",
+          "publishedAt": "2026-10-01T16:07:48+00:00",
+          "source": "DefenseScoop"
+        },
+        {
           "title": "Space Force picks two companies to build new ‘space-to-space’ satellites by 2028",
           "url": "https://www.defensenews.com/space/2026/10/01/space-force-picks-two-companies-to-build-new-space-to-space-satellites-by-2028",
           "publishedAt": "2026-10-01T12:49:43+00:00",
@@ -277,12 +295,6 @@
           "title": "Hegseth announces plans for new 4-star drone command, among other initiatives",
           "url": "https://breakingdefense.com/2026/09/hegseth-announces-plans-for-new-4-star-drone-command-further-general-officer-cuts",
           "publishedAt": "2026-09-30T21:17:46+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Saronic breaks ground on new Port Alpha shipyard in Texas",
-          "url": "https://breakingdefense.com/2026/09/saronic-breaks-ground-on-new-port-alpha-shipyard-in-texas",
-          "publishedAt": "2026-09-30T19:45:05+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -308,19 +320,13 @@
           "url": "https://fedscoop.com/splunk-agent-observability",
           "publishedAt": "2026-09-30T18:55:19+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Trump nominates Skillman as vice chief of naval operations",
-          "url": "https://defensescoop.com/2026/09/30/trump-nominates-skillman-as-vice-chief-of-naval-operations",
-          "publishedAt": "2026-09-30T17:16:06+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-01T16:00:29+00:00",
+      "updatedAt": "2026-10-01T16:32:47+00:00",
       "stories": [
         {
           "title": "Gemini 4 Argon looks to return Google to the frontier",
@@ -341,45 +347,27 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Musk's SpaceXAI Considers Overhaul of Pricing for Grok, X Users (1 minute read)",
-          "url": "https://links.tldrnewsletter.com/VezRJB",
-          "publishedAt": "2026-10-01T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Claude for Government is now generally available (3 minute read)",
-          "url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
-          "publishedAt": "2026-10-01T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "We can and must solve alignment (14 minute read)",
-          "url": "https://www.goodfire.com/blog/we-can-and-must-solve-alignment",
-          "publishedAt": "2026-10-01T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Generalization Dynamics of LM Pre-training (4 minute read)",
-          "url": "https://www.alphaxiv.org/abs/2609.33150",
-          "publishedAt": "2026-10-01T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Praxis-1 (5 minute read)",
-          "url": "https://runway.com/research/introducing-praxis-1",
-          "publishedAt": "2026-10-01T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "NVIDIA OpenShell Secures Autonomous AI Agents (GitHub Repo)",
-          "url": "https://github.com/NVIDIA/OpenShell",
-          "publishedAt": "2026-10-01T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Hearing tech startup Legato launches its AI hearing glasses",
           "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses",
           "publishedAt": "2026-10-01T13:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+          "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
+          "publishedAt": "2026-10-01T12:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+          "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
+          "publishedAt": "2026-09-30T23:43:07+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+          "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation",
+          "publishedAt": "2026-09-30T21:07:40+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -411,13 +399,31 @@
           "url": "https://casp.ac/reports/intelligence-explosion",
           "publishedAt": "2026-09-29T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "AMD strikes $8.2B deal for Fei-Fei Li's World Labs",
+          "url": "https://drfeifei.substack.com/p/worldlabs-joining-amd",
+          "publishedAt": "2026-09-29T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI’s agents went rogue on U.S. government sites",
+          "url": "https://edition.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
+          "publishedAt": "2026-09-28T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic loses Pentagon blacklist appeal",
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "publishedAt": "2026-09-28T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-01T16:00:29+00:00",
+      "updatedAt": "2026-10-01T16:32:47+00:00",
       "stories": [
         {
           "title": "Precision In Motion. Vishay Precision Group, Inc. (VPG) to Showcase Custom Sensing Capabilities for Humanoid Robotics at RoboBusiness 2026",
@@ -513,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-01T16:00:29+00:00",
+    "updatedAt": "2026-10-01T16:32:47+00:00",
     "stories": [
       {
         "title": "Gemini 4 Argon looks to return Google to the frontier",
@@ -561,9 +567,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Ex-defense minister’s futuristic ‘Army of Robots’ raises eyebrows in Ukraine",
-        "url": "https://breakingdefense.com/2026/10/ex-defense-ministers-futuristic-army-of-robots-raises-eyebrows-in-ukraine",
-        "publishedAt": "2026-10-01T15:03:17+00:00",
+        "title": "Moroccan startup unveils prototye UAV that operates without GPS signal",
+        "url": "https://breakingdefense.com/2026/10/moroccan-startup-unveils-prototye-uav-that-operates-without-gps-signal",
+        "publishedAt": "2026-10-01T16:02:44+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -718,6 +724,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
+    "TLDR AI: 500 Server Error: Internal Server Error for url: https://tldr.tech/api/rss/ai"
   ]
 }
