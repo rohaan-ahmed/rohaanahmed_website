@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T21:00:28+00:00",
+  "generatedAt": "2026-10-01T21:16:52+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-01T21:00:28+00:00",
+      "updatedAt": "2026-10-01T21:16:52+00:00",
       "stories": [
         {
           "title": "World Space Week 2026 Celebrates the “Rocket Revolution”",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-01T21:00:28+00:00",
+      "updatedAt": "2026-10-01T21:16:52+00:00",
       "stories": [
         {
           "title": "Northstar Defence Lab is first in Calian’s planned regional network",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-01T21:00:28+00:00",
+      "updatedAt": "2026-10-01T21:16:52+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-01T21:00:28+00:00",
+      "updatedAt": "2026-10-01T21:16:52+00:00",
       "stories": [
         {
           "title": "Can’t start, won’t start: Over 150 new military programs face delay under a CR",
@@ -326,8 +326,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-01T21:00:28+00:00",
+      "updatedAt": "2026-10-01T21:16:52+00:00",
       "stories": [
+        {
+          "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+          "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president",
+          "publishedAt": "2026-10-01T21:08:11+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Gemini 4 Argon looks to return Google to the frontier",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon",
@@ -344,12 +350,6 @@
           "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
           "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground",
           "publishedAt": "2026-10-01T19:18:03+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-          "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
-          "publishedAt": "2026-10-01T18:14:42+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-01T21:00:28+00:00",
+      "updatedAt": "2026-10-01T21:16:52+00:00",
       "stories": [
         {
           "title": "Top 10 robotics stories of September 2026",
@@ -519,22 +519,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-01T21:00:28+00:00",
+    "updatedAt": "2026-10-01T21:16:52+00:00",
     "stories": [
       {
-        "title": "Gemini 4 Argon looks to return Google to the frontier",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon",
-        "publishedAt": "2026-10-01T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+        "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president",
+        "publishedAt": "2026-10-01T21:08:11+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "ChatGPT can now virtually try on clothes for you",
-        "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you",
-        "publishedAt": "2026-10-01T19:21:53+00:00",
-        "source": "TechCrunch AI",
+        "title": "Gemini 4 Argon looks to return Google to the frontier",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon",
+        "publishedAt": "2026-10-01T09:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
