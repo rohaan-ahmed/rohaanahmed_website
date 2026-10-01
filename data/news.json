@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T08:00:26+00:00",
+  "generatedAt": "2026-10-01T09:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-01T08:00:26+00:00",
+      "updatedAt": "2026-10-01T09:00:28+00:00",
       "stories": [
         {
           "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-01T08:00:26+00:00",
+      "updatedAt": "2026-10-01T09:00:28+00:00",
       "stories": [
         {
           "title": "Canada’s Josh Kutryk ready for a launch Oct. 1, but weather is uncertain",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-01T08:00:26+00:00",
+      "updatedAt": "2026-10-01T09:00:28+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -223,8 +223,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-01T08:00:26+00:00",
+      "updatedAt": "2026-10-01T09:00:28+00:00",
       "stories": [
+        {
+          "title": "What Europe’s military air fleets will look like in 30 years",
+          "url": "https://breakingdefense.com/2026/10/what-europes-military-air-fleets-will-look-like-in-30-years",
+          "publishedAt": "2026-10-01T08:32:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Hegseth announces plans for new 4-star drone command, among other initiatives",
           "url": "https://breakingdefense.com/2026/09/hegseth-announces-plans-for-new-4-star-drone-command-further-general-officer-cuts",
@@ -274,12 +280,6 @@
           "source": "Defense News"
         },
         {
-          "title": "White House names nominees for SPACECOM, Navy No. 2",
-          "url": "https://breakingdefense.com/2026/09/white-house-names-nominees-for-spacecom-navy-no-2",
-          "publishedAt": "2026-09-30T17:01:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Navy to procure 30 robotic ships at an average cost of $40M per vessel",
           "url": "https://defensescoop.com/2026/09/30/navy-to-procure-30-musv-from-sea-drone-makers",
           "publishedAt": "2026-09-30T19:46:59+00:00",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-01T08:00:26+00:00",
+      "updatedAt": "2026-10-01T09:00:28+00:00",
       "stories": [
         {
           "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
@@ -417,8 +417,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-01T08:00:26+00:00",
+      "updatedAt": "2026-10-01T09:00:28+00:00",
       "stories": [
+        {
+          "title": "ANYbotics launches Shift to streamline robot fleet operations, scale inspections",
+          "url": "https://www.therobotreport.com/anybotics-launches-shift-streamline-robot-fleet-operations-scale-autonomous-inspections",
+          "publishedAt": "2026-10-01T07:59:59+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI",
           "url": "https://www.therobotreport.com/robot-report-parent-arrowfly-launches-ai-for-engineers-platform-events-engineers-navigating-ai",
@@ -459,12 +465,6 @@
           "title": "Meet Flourish One, the Raspberry Pi-powered humanoid built for busy parents",
           "url": "https://www.therobotreport.com/meet-flourish-one-raspberry-pi-powered-humanoid-built-busy-parents",
           "publishedAt": "2026-09-29T14:00:12+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "State of Robots in Manufacturing",
-          "url": "https://www.therobotreport.com/state-of-robots-in-manufacturing",
-          "publishedAt": "2026-09-29T13:22:56+00:00",
           "source": "The Robot Report"
         },
         {
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-01T08:00:26+00:00",
+    "updatedAt": "2026-10-01T09:00:28+00:00",
     "stories": [
       {
         "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
@@ -561,18 +561,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Hegseth announces plans for new 4-star drone command, among other initiatives",
-        "url": "https://breakingdefense.com/2026/09/hegseth-announces-plans-for-new-4-star-drone-command-further-general-officer-cuts",
-        "publishedAt": "2026-09-30T21:17:46+00:00",
+        "title": "What Europe’s military air fleets will look like in 30 years",
+        "url": "https://breakingdefense.com/2026/10/what-europes-military-air-fleets-will-look-like-in-30-years",
+        "publishedAt": "2026-10-01T08:32:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI",
-        "url": "https://www.therobotreport.com/robot-report-parent-arrowfly-launches-ai-for-engineers-platform-events-engineers-navigating-ai",
-        "publishedAt": "2026-09-30T14:03:31+00:00",
+        "title": "ANYbotics launches Shift to streamline robot fleet operations, scale inspections",
+        "url": "https://www.therobotreport.com/anybotics-launches-shift-streamline-robot-fleet-operations-scale-autonomous-inspections",
+        "publishedAt": "2026-10-01T07:59:59+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
