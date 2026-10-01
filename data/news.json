@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T04:00:28+00:00",
+  "generatedAt": "2026-10-01T05:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-01T04:00:28+00:00",
+      "updatedAt": "2026-10-01T05:00:25+00:00",
       "stories": [
         {
           "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
@@ -19,6 +19,18 @@
           "source": "SpaceNews"
         },
         {
+          "title": "APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna",
+          "publishedAt": "2026-10-01T04:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "An Agricultural “Island” in the Saskatchewan River Delta",
+          "url": "https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta",
+          "publishedAt": "2026-10-01T04:00:00+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
           "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission",
           "publishedAt": "2026-09-30T13:00:00+00:00",
@@ -28,18 +40,6 @@
           "title": "Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them",
           "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them",
           "publishedAt": "2026-09-30T23:37:47+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Help Overlap Zoo Reveal Cosmic Dust",
-          "url": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust",
-          "publishedAt": "2026-09-30T21:19:33+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Adds New Science Investigations for Moon Base",
-          "url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base",
-          "publishedAt": "2026-09-30T21:11:23+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-01T04:00:28+00:00",
+      "updatedAt": "2026-10-01T05:00:25+00:00",
       "stories": [
         {
           "title": "Canada’s Josh Kutryk ready for a launch Oct. 1, but weather is uncertain",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-01T04:00:28+00:00",
+      "updatedAt": "2026-10-01T05:00:25+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-01T04:00:28+00:00",
+      "updatedAt": "2026-10-01T05:00:25+00:00",
       "stories": [
         {
           "title": "Hegseth announces plans for new 4-star drone command, among other initiatives",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-01T04:00:28+00:00",
+      "updatedAt": "2026-10-01T05:00:25+00:00",
       "stories": [
         {
           "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-01T04:00:28+00:00",
+      "updatedAt": "2026-10-01T05:00:25+00:00",
       "stories": [
         {
           "title": "The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-01T04:00:28+00:00",
+    "updatedAt": "2026-10-01T05:00:25+00:00",
     "stories": [
       {
         "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
@@ -597,10 +597,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
-        "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission",
-        "publishedAt": "2026-09-30T13:00:00+00:00",
-        "source": "SpaceNews",
+        "title": "APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna",
+        "publishedAt": "2026-10-01T04:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
