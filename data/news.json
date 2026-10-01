@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-01T00:00:34+00:00",
+  "generatedAt": "2026-10-01T01:00:23+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-01T00:00:34+00:00",
+      "updatedAt": "2026-10-01T01:00:23+00:00",
       "stories": [
+        {
+          "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
+          "url": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit",
+          "publishedAt": "2026-10-01T00:24:08+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
           "url": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier",
@@ -73,12 +79,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
-          "url": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth",
-          "publishedAt": "2026-09-28T12:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
           "title": "Successful Earth flyby improves Juice’s course to Jupiter",
           "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter",
           "publishedAt": "2026-09-28T15:00:00+00:00",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-01T00:00:34+00:00",
+      "updatedAt": "2026-10-01T01:00:23+00:00",
       "stories": [
+        {
+          "title": "Canada’s Josh Kutryk ready for a launch Oct. 1, but weather is uncertain",
+          "url": "https://spaceq.ca/canadas-josh-kutryk-ready-for-a-launch-oct-1-but-weather-is-uncertain",
+          "publishedAt": "2026-10-01T00:55:22+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "GHGSat-D2 satellite to weigh nearly 100 kg, built by SFL Missions",
           "url": "https://spaceq.ca/ghgsat-d2-satellite-sfl-missions",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "Adaptability is key for Josh Kutryk as long-delayed ISS mission nears",
-          "url": "https://spaceq.ca/adaptability-is-key-for-josh-kutryk-as-long-delayed-iss-mission-nears",
-          "publishedAt": "2026-09-24T18:54:58+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "New launch date and last opportunity for media to speak with CSA astronaut Joshua Kutryk before launch of Crew-13",
           "url": "https://www.canada.ca/en/space-agency/news/2026/09/new-launch-date-and-last-opportunity-for-media-to-speak-with-csa-astronaut-joshua-kutryk-before-launch-of-crew-13.html",
           "publishedAt": "2026-09-23T14:05:47+00:00",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-01T00:00:34+00:00",
+      "updatedAt": "2026-10-01T01:00:23+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-01T00:00:34+00:00",
+      "updatedAt": "2026-10-01T01:00:23+00:00",
       "stories": [
         {
           "title": "Hegseth announces plans for new 4-star drone command, among other initiatives",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-01T00:00:34+00:00",
+      "updatedAt": "2026-10-01T01:00:23+00:00",
       "stories": [
         {
           "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
@@ -359,40 +359,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Introducing GPT-6.1 Sol (6 minute read)",
-          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+          "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b",
+          "publishedAt": "2026-09-30T18:23:57+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Introducing dots (10 minute read)",
-          "url": "https://openai.com/index/introducing-dots",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+          "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots",
+          "publishedAt": "2026-09-30T17:45:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "The Future Is for Everyone: Muse for Small Business (3 minute read)",
-          "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The world's best gradual disempowerment model organism: Frontier AI labs (32 minute read)",
-          "url": "https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Segmentation Drives Market Share Wins in AI (2 minute read)",
-          "url": "https://tomtunguz.com/anthropic-repriced-the-enterprise",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "d1 (2 minute read)",
-          "url": "https://threadreaderapp.com/thread/2105003472332693869.html",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "The ugly economics of consumer AI",
+          "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai",
+          "publishedAt": "2026-09-30T17:24:45+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Anthropic's Sonnet 5.5 nears Opus at half the price",
@@ -411,13 +393,31 @@
           "url": "https://drfeifei.substack.com/p/worldlabs-joining-amd",
           "publishedAt": "2026-09-29T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI’s agents went rogue on U.S. government sites",
+          "url": "https://edition.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
+          "publishedAt": "2026-09-28T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic loses Pentagon blacklist appeal",
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "publishedAt": "2026-09-28T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Meta’s Connect turns into a Muse takeover",
+          "url": "https://www.meta.com/blog/meta-connect-2026-everything-we-announced",
+          "publishedAt": "2026-09-25T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-01T00:00:34+00:00",
+      "updatedAt": "2026-10-01T01:00:23+00:00",
       "stories": [
         {
           "title": "The Robot Report parent Arrowfly launches AI for Engineers platform, events for engineers navigating AI",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-01T00:00:34+00:00",
+    "updatedAt": "2026-10-01T01:00:23+00:00",
     "stories": [
       {
         "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
@@ -534,18 +534,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "GHGSat-D2 satellite to weigh nearly 100 kg, built by SFL Missions",
-        "url": "https://spaceq.ca/ghgsat-d2-satellite-sfl-missions",
-        "publishedAt": "2026-09-30T17:53:10+00:00",
+        "title": "Canada’s Josh Kutryk ready for a launch Oct. 1, but weather is uncertain",
+        "url": "https://spaceq.ca/canadas-josh-kutryk-ready-for-a-launch-oct-1-but-weather-is-uncertain",
+        "publishedAt": "2026-10-01T00:55:22+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
-        "url": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier",
-        "publishedAt": "2026-09-30T15:00:00+00:00",
+        "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
+        "url": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit",
+        "publishedAt": "2026-10-01T00:24:08+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -579,28 +579,28 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
-        "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission",
-        "publishedAt": "2026-09-30T13:00:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Astranis lands $468M financing to boost MicroGEO satellite manufacturing",
-        "url": "https://spaceq.ca/astranis-lands-468m-financing-to-boost-microgeo-satellite-manufacturing",
-        "publishedAt": "2026-09-30T13:01:00+00:00",
+        "title": "GHGSat-D2 satellite to weigh nearly 100 kg, built by SFL Missions",
+        "url": "https://spaceq.ca/ghgsat-d2-satellite-sfl-missions",
+        "publishedAt": "2026-09-30T17:53:10+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them",
-        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them",
-        "publishedAt": "2026-09-30T23:37:47+00:00",
-        "source": "NASA",
+        "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
+        "url": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier",
+        "publishedAt": "2026-09-30T15:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
+        "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission",
+        "publishedAt": "2026-09-30T13:00:00+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -718,6 +718,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-17"
   ]
 }
