@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T21:16:52+00:00",
+  "generatedAt": "2026-10-01T22:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-01T21:16:52+00:00",
+      "updatedAt": "2026-10-01T22:00:27+00:00",
       "stories": [
         {
           "title": "World Space Week 2026 Celebrates the “Rocket Revolution”",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-01T21:16:52+00:00",
+      "updatedAt": "2026-10-01T22:00:27+00:00",
       "stories": [
         {
           "title": "Northstar Defence Lab is first in Calian’s planned regional network",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-01T21:16:52+00:00",
+      "updatedAt": "2026-10-01T22:00:27+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -229,8 +229,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-01T21:16:52+00:00",
+      "updatedAt": "2026-10-01T22:00:27+00:00",
       "stories": [
+        {
+          "title": "DoD obligates $142B from reconciliation bill before deadline, leaving billions subject to cuts",
+          "url": "https://breakingdefense.com/2026/10/dod-obligates-142b-from-reconciliation-bill-before-deadline-leaving-billions-subject-to-cuts",
+          "publishedAt": "2026-10-01T21:57:29+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Can’t start, won’t start: Over 150 new military programs face delay under a CR",
           "url": "https://breakingdefense.com/2026/10/cant-start-wont-start-over-150-new-military-programs-face-delay-under-a-cr",
@@ -250,6 +256,12 @@
           "source": "Defense News"
         },
         {
+          "title": "The Pentagon’s new cyber mastery incentive model promised a ‘new era.’ Troops are bracing for pay cuts.",
+          "url": "https://defensescoop.com/2026/10/01/pentagon-new-cyber-mastery-incentive-model-troops-bracing-for-pay-cuts",
+          "publishedAt": "2026-10-01T21:39:25+00:00",
+          "source": "DefenseScoop"
+        },
+        {
           "title": "Over the Finnish line: Helsinki welcomes home first two F-35 jets",
           "url": "https://breakingdefense.com/2026/10/over-the-finnish-line-helsinki-welcomes-home-first-two-f-35-jets",
           "publishedAt": "2026-10-01T17:58:00+00:00",
@@ -266,12 +278,6 @@
           "url": "https://www.defensenews.com/industry/techwatch/2026/10/01/boeing-adds-to-big-week-with-first-full-rate-grey-wolf-helicopter-order",
           "publishedAt": "2026-10-01T17:49:35+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "DoD demo contract takes a step closer to beaming solar power from space",
-          "url": "https://breakingdefense.com/2026/10/dod-demo-contract-takes-a-step-closer-to-beaming-solar-power-from-space",
-          "publishedAt": "2026-10-01T16:55:27+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "How AI agents are informing JIATF-401’s procurement plans after Falcon Peak",
@@ -314,19 +320,13 @@
           "url": "https://defensescoop.com/2026/09/30/trump-nominates-lt-gen-david-miller-to-lead-us-space-command",
           "publishedAt": "2026-09-30T21:36:17+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Navy to procure 30 robotic ships at an average cost of $40M per vessel",
-          "url": "https://defensescoop.com/2026/09/30/navy-to-procure-30-musv-from-sea-drone-makers",
-          "publishedAt": "2026-09-30T19:46:59+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-01T21:16:52+00:00",
+      "updatedAt": "2026-10-01T22:00:27+00:00",
       "stories": [
         {
           "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-01T21:16:52+00:00",
+      "updatedAt": "2026-10-01T22:00:27+00:00",
       "stories": [
         {
           "title": "Top 10 robotics stories of September 2026",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-01T21:16:52+00:00",
+    "updatedAt": "2026-10-01T22:00:27+00:00",
     "stories": [
       {
         "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
@@ -567,9 +567,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Can’t start, won’t start: Over 150 new military programs face delay under a CR",
-        "url": "https://breakingdefense.com/2026/10/cant-start-wont-start-over-150-new-military-programs-face-delay-under-a-cr",
-        "publishedAt": "2026-10-01T20:56:55+00:00",
+        "title": "DoD obligates $142B from reconciliation bill before deadline, leaving billions subject to cuts",
+        "url": "https://breakingdefense.com/2026/10/dod-obligates-142b-from-reconciliation-bill-before-deadline-leaving-billions-subject-to-cuts",
+        "publishedAt": "2026-10-01T21:57:29+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
