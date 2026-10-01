@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-01T14:00:31+00:00",
+  "generatedAt": "2026-10-01T15:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-01T14:00:31+00:00",
+      "updatedAt": "2026-10-01T15:00:30+00:00",
       "stories": [
+        {
+          "title": "Rethinking risk with electronics for space",
+          "url": "https://spacenews.com/rethinking-risk-with-electronics-for-space",
+          "publishedAt": "2026-10-01T14:51:34+00:00",
+          "source": "SpaceNews"
+        },
+        {
+          "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
+          "url": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia",
+          "publishedAt": "2026-10-01T14:40:51+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest",
           "url": "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest",
@@ -17,6 +29,12 @@
           "url": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit",
           "publishedAt": "2026-10-01T00:24:08+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "NASA’s Webb Provides Crash Course on Planet-Shattering Collisions",
+          "url": "https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions",
+          "publishedAt": "2026-10-01T14:00:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "EarthCARE’s view of volcanic plume boosts air safety",
@@ -49,12 +67,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them",
-          "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them",
-          "publishedAt": "2026-09-30T23:37:47+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
           "url": "https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035",
           "publishedAt": "2026-09-29T20:32:07+00:00",
@@ -65,18 +77,6 @@
           "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
           "publishedAt": "2026-09-30T07:05:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Terran Orbital Names Jamin Brown Chief Operating Officer",
-          "url": "https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer",
-          "publishedAt": "2026-09-29T17:42:20+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
-          "url": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit",
-          "publishedAt": "2026-09-29T11:00:00+00:00",
-          "source": "SpaceNews"
         },
         {
           "title": "Galaxies in a cosmic house of mirrors",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-01T14:00:31+00:00",
+      "updatedAt": "2026-10-01T15:00:30+00:00",
       "stories": [
         {
           "title": "Canada’s Josh Kutryk ready for a launch Oct. 1, but weather is uncertain",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-01T14:00:31+00:00",
+      "updatedAt": "2026-10-01T15:00:30+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -223,8 +223,26 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-01T14:00:31+00:00",
+      "updatedAt": "2026-10-01T15:00:30+00:00",
       "stories": [
+        {
+          "title": "Battling sand and wind, Pentagon evaluates counter-drone tech at southern border exercise",
+          "url": "https://breakingdefense.com/2026/10/battling-sand-and-wind-pentagon-evaluates-counter-drone-tech-at-southern-border-exercise",
+          "publishedAt": "2026-10-01T14:29:39+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Taiwan takes a page from Ukraine’s playbook in steeling society for an invasion",
+          "url": "https://www.defensenews.com/global/asia-pacific/2026/10/01/taiwan-takes-a-page-from-ukraines-playbook-in-steeling-society-for-an-invasion",
+          "publishedAt": "2026-10-01T14:13:06+00:00",
+          "source": "Defense News"
+        },
+        {
+          "title": "Neros, Perennial Autonomy lead in Pentagon’s drone competition",
+          "url": "https://www.defensenews.com/unmanned/2026/10/01/neros-perennial-autonomy-lead-in-pentagons-drone-competition",
+          "publishedAt": "2026-10-01T14:02:08+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Space Force picks two companies to build new ‘space-to-space’ satellites by 2028",
           "url": "https://www.defensenews.com/space/2026/10/01/space-force-picks-two-companies-to-build-new-space-to-space-satellites-by-2028",
@@ -274,34 +292,16 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "EXCLUSIVE: How the DIA measures a military’s ‘Will to Fight’",
-          "url": "https://breakingdefense.com/2026/09/exclusive-how-the-dia-measures-a-militarys-will-to-fight",
-          "publishedAt": "2026-09-30T18:08:46+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Trump taps Miller to head U.S. Space Command",
           "url": "https://defensescoop.com/2026/09/30/trump-nominates-lt-gen-david-miller-to-lead-us-space-command",
           "publishedAt": "2026-09-30T21:36:17+00:00",
           "source": "DefenseScoop"
         },
         {
-          "title": "White House nominates next general to helm US Space Command",
-          "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/30/white-house-nominates-next-general-to-helm-us-space-command",
-          "publishedAt": "2026-09-30T18:49:06+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Navy to procure 30 robotic ships at an average cost of $40M per vessel",
           "url": "https://defensescoop.com/2026/09/30/navy-to-procure-30-musv-from-sea-drone-makers",
           "publishedAt": "2026-09-30T19:46:59+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Operation Atlantic City ushers Marines on rare trip to ... remote Arctic island",
-          "url": "https://www.defensenews.com/news/your-military/2026/09/30/operation-atlantic-city-ushers-marines-on-rare-trip-to-remote-arctic-island",
-          "publishedAt": "2026-09-30T16:52:06+00:00",
-          "source": "Defense News"
         },
         {
           "title": "How to build observability for the agentic AI era",
@@ -320,13 +320,55 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-01T14:00:31+00:00",
+      "updatedAt": "2026-10-01T15:00:30+00:00",
       "stories": [
         {
           "title": "Gemini 4 Argon looks to return Google to the frontier",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon",
           "publishedAt": "2026-10-01T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+          "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents",
+          "publishedAt": "2026-10-01T14:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Musk's SpaceXAI Considers Overhaul of Pricing for Grok, X Users (1 minute read)",
+          "url": "https://links.tldrnewsletter.com/VezRJB",
+          "publishedAt": "2026-10-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Claude for Government is now generally available (3 minute read)",
+          "url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
+          "publishedAt": "2026-10-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "We can and must solve alignment (14 minute read)",
+          "url": "https://www.goodfire.com/blog/we-can-and-must-solve-alignment",
+          "publishedAt": "2026-10-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Praxis-1 (5 minute read)",
+          "url": "https://runway.com/research/introducing-praxis-1",
+          "publishedAt": "2026-10-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "NVIDIA OpenShell Secures Autonomous AI Agents (GitHub Repo)",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "publishedAt": "2026-10-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Generalization Dynamics of LM Pre-training (4 minute read)",
+          "url": "https://www.alphaxiv.org/abs/2609.33150",
+          "publishedAt": "2026-10-01T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Hearing tech startup Legato launches its AI hearing glasses",
@@ -338,12 +380,6 @@
           "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
           "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
           "publishedAt": "2026-10-01T12:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-          "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
-          "publishedAt": "2026-09-30T23:43:07+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -365,42 +401,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Introducing GPT-6.1 Sol (6 minute read)",
-          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Introducing dots (10 minute read)",
-          "url": "https://openai.com/index/introducing-dots",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Future Is for Everyone: Muse for Small Business (3 minute read)",
-          "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The world's best gradual disempowerment model organism: Frontier AI labs (32 minute read)",
-          "url": "https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Segmentation Drives Market Share Wins in AI (2 minute read)",
-          "url": "https://tomtunguz.com/anthropic-repriced-the-enterprise",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "d1 (2 minute read)",
-          "url": "https://threadreaderapp.com/thread/2105003472332693869.html",
-          "publishedAt": "2026-09-30T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Anthropic's Sonnet 5.5 nears Opus at half the price",
           "url": "https://www.anthropic.com/claude-sonnet-5-5",
           "publishedAt": "2026-09-29T09:00:00+00:00",
@@ -417,13 +417,19 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-01T14:00:31+00:00",
+      "updatedAt": "2026-10-01T15:00:30+00:00",
       "stories": [
         {
           "title": "How Maven Robotics plans to automate industrial work, one task at a time",
           "url": "https://www.therobotreport.com/how-maven-robotics-plans-automate-industrial-work-one-task-at-a-time",
           "publishedAt": "2026-10-01T12:30:39+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "Atlas Robot’s New Hand May Outperform Human-Like Designs",
+          "url": "https://spectrum.ieee.org/robust-robot-hand",
+          "publishedAt": "2026-10-01T14:40:12+00:00",
+          "source": "IEEE Spectrum Robotics"
         },
         {
           "title": "ANYbotics launches Shift to streamline robot fleet operations, scale inspections",
@@ -460,12 +466,6 @@
           "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2",
           "publishedAt": "2026-09-30T14:15:00+00:00",
           "source": "TechCrunch Robotics"
-        },
-        {
-          "title": "ForceN to give a crash course on force and torque sensing for humanoids at RoboBusiness",
-          "url": "https://www.therobotreport.com/forcen-gives-crash-course-force-torque-sensing-humanoids-robobusiness-2026",
-          "publishedAt": "2026-09-29T19:52:46+00:00",
-          "source": "The Robot Report"
         },
         {
           "title": "A Day in the Life of a Roboticist: Charlie Kemp",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-01T14:00:31+00:00",
+    "updatedAt": "2026-10-01T15:00:30+00:00",
     "stories": [
       {
         "title": "Gemini 4 Argon looks to return Google to the frontier",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Hearing tech startup Legato launches its AI hearing glasses",
-        "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses",
-        "publishedAt": "2026-10-01T13:00:00+00:00",
+        "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+        "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents",
+        "publishedAt": "2026-10-01T14:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest",
-        "url": "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest",
-        "publishedAt": "2026-10-01T12:46:32+00:00",
+        "title": "Rethinking risk with electronics for space",
+        "url": "https://spacenews.com/rethinking-risk-with-electronics-for-space",
+        "publishedAt": "2026-10-01T14:51:34+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -561,10 +561,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Space Force picks two companies to build new ‘space-to-space’ satellites by 2028",
-        "url": "https://www.defensenews.com/space/2026/10/01/space-force-picks-two-companies-to-build-new-space-to-space-satellites-by-2028",
-        "publishedAt": "2026-10-01T12:49:43+00:00",
-        "source": "Defense News",
+        "title": "Battling sand and wind, Pentagon evaluates counter-drone tech at southern border exercise",
+        "url": "https://breakingdefense.com/2026/10/battling-sand-and-wind-pentagon-evaluates-counter-drone-tech-at-southern-border-exercise",
+        "publishedAt": "2026-10-01T14:29:39+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -579,28 +579,28 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Ukraine has struck Russian factory vital for Moscow’s missiles, private intelligence firm says",
-        "url": "https://www.defensenews.com/global/europe/2026/10/01/ukraine-has-struck-russian-factory-vital-for-moscows-missiles-private-intelligence-firm-says",
-        "publishedAt": "2026-10-01T12:13:02+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
-        "url": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit",
-        "publishedAt": "2026-10-01T00:24:08+00:00",
+        "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
+        "url": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia",
+        "publishedAt": "2026-10-01T14:40:51+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "What Europe’s military air fleets will look like in 30 years",
-        "url": "https://breakingdefense.com/2026/10/what-europes-military-air-fleets-will-look-like-in-30-years",
-        "publishedAt": "2026-10-01T08:32:00+00:00",
-        "source": "Breaking Defense",
+        "title": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest",
+        "url": "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest",
+        "publishedAt": "2026-10-01T12:46:32+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Taiwan takes a page from Ukraine’s playbook in steeling society for an invasion",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/10/01/taiwan-takes-a-page-from-ukraines-playbook-in-steeling-society-for-an-invasion",
+        "publishedAt": "2026-10-01T14:13:06+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
