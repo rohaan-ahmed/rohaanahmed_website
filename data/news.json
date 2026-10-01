@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T13:00:30+00:00",
+  "generatedAt": "2026-10-01T14:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-01T13:00:30+00:00",
+      "updatedAt": "2026-10-01T14:00:31+00:00",
       "stories": [
         {
           "title": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-01T13:00:30+00:00",
+      "updatedAt": "2026-10-01T14:00:31+00:00",
       "stories": [
         {
           "title": "Canada’s Josh Kutryk ready for a launch Oct. 1, but weather is uncertain",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-01T13:00:30+00:00",
+      "updatedAt": "2026-10-01T14:00:31+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-01T13:00:30+00:00",
+      "updatedAt": "2026-10-01T14:00:31+00:00",
       "stories": [
         {
           "title": "Space Force picks two companies to build new ‘space-to-space’ satellites by 2028",
@@ -320,13 +320,19 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-01T13:00:30+00:00",
+      "updatedAt": "2026-10-01T14:00:31+00:00",
       "stories": [
         {
           "title": "Gemini 4 Argon looks to return Google to the frontier",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon",
           "publishedAt": "2026-10-01T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Hearing tech startup Legato launches its AI hearing glasses",
+          "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses",
+          "publishedAt": "2026-10-01T13:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
@@ -338,12 +344,6 @@
           "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
           "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
           "publishedAt": "2026-09-30T23:43:07+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-          "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation",
-          "publishedAt": "2026-09-30T21:07:40+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -417,8 +417,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-01T13:00:30+00:00",
+      "updatedAt": "2026-10-01T14:00:31+00:00",
       "stories": [
+        {
+          "title": "How Maven Robotics plans to automate industrial work, one task at a time",
+          "url": "https://www.therobotreport.com/how-maven-robotics-plans-automate-industrial-work-one-task-at-a-time",
+          "publishedAt": "2026-10-01T12:30:39+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "ANYbotics launches Shift to streamline robot fleet operations, scale inspections",
           "url": "https://www.therobotreport.com/anybotics-launches-shift-streamline-robot-fleet-operations-scale-autonomous-inspections",
@@ -459,12 +465,6 @@
           "title": "ForceN to give a crash course on force and torque sensing for humanoids at RoboBusiness",
           "url": "https://www.therobotreport.com/forcen-gives-crash-course-force-torque-sensing-humanoids-robobusiness-2026",
           "publishedAt": "2026-09-29T19:52:46+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Meet Flourish One, the Raspberry Pi-powered humanoid built for busy parents",
-          "url": "https://www.therobotreport.com/meet-flourish-one-raspberry-pi-powered-humanoid-built-busy-parents",
-          "publishedAt": "2026-09-29T14:00:12+00:00",
           "source": "The Robot Report"
         },
         {
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-01T13:00:30+00:00",
+    "updatedAt": "2026-10-01T14:00:31+00:00",
     "stories": [
       {
         "title": "Gemini 4 Argon looks to return Google to the frontier",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-        "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
-        "publishedAt": "2026-10-01T12:00:00+00:00",
+        "title": "Hearing tech startup Legato launches its AI hearing glasses",
+        "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses",
+        "publishedAt": "2026-10-01T13:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -570,9 +570,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "ANYbotics launches Shift to streamline robot fleet operations, scale inspections",
-        "url": "https://www.therobotreport.com/anybotics-launches-shift-streamline-robot-fleet-operations-scale-autonomous-inspections",
-        "publishedAt": "2026-10-01T07:59:59+00:00",
+        "title": "How Maven Robotics plans to automate industrial work, one task at a time",
+        "url": "https://www.therobotreport.com/how-maven-robotics-plans-automate-industrial-work-one-task-at-a-time",
+        "publishedAt": "2026-10-01T12:30:39+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
