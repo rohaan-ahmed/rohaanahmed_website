@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T18:04:23+00:00",
+  "generatedAt": "2026-10-02T19:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-02T18:04:23+00:00",
+      "updatedAt": "2026-10-02T19:00:27+00:00",
       "stories": [
         {
           "title": "Week in images: 28 Sep - 2 Oct 2026",
@@ -19,15 +19,15 @@
           "source": "NASA"
         },
         {
-          "title": "NASA Campaign Explores Clouds Spawned by Wildfires",
-          "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires",
-          "publishedAt": "2026-10-02T16:34:57+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
           "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests",
           "publishedAt": "2026-10-02T16:10:55+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "NASA Opens Applications for Next Class of Flight Directors",
+          "url": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors",
+          "publishedAt": "2026-10-02T15:49:26+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-02T18:04:23+00:00",
+      "updatedAt": "2026-10-02T19:00:27+00:00",
       "stories": [
         {
           "title": "Crew-13 docking: Kutryk reaches station in under eight hours",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-02T18:04:23+00:00",
+      "updatedAt": "2026-10-02T19:00:27+00:00",
       "stories": [
         {
           "title": "The Royal Canadian Air Force partners with Fanshawe College to deliver training",
@@ -241,8 +241,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-02T18:04:23+00:00",
+      "updatedAt": "2026-10-02T19:00:27+00:00",
       "stories": [
+        {
+          "title": "Long-range radar deal puts Ireland on course to shrink capability gap",
+          "url": "https://breakingdefense.com/2026/10/long-range-radar-deal-puts-ireland-on-course-to-shrink-capability-gap",
+          "publishedAt": "2026-10-02T18:20:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "After yearslong delay, Taiwan receives first pair of new F-16s",
           "url": "https://breakingdefense.com/2026/10/after-yearslong-delay-taiwan-receives-first-pair-of-new-f-16s",
@@ -272,12 +278,6 @@
           "url": "https://www.defensenews.com/global/europe/2026/10/02/ukraine-war-fatigue-fuels-defense-spending-downgrade-plan-in-italy",
           "publishedAt": "2026-10-02T15:29:29+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "Navy, Raytheon ink $24.4B deal for SM-6 ‘acceleration’",
-          "url": "https://breakingdefense.com/2026/10/navy-raytheon-ink-24-4b-deal-for-sm-6-acceleration",
-          "publishedAt": "2026-10-02T13:49:31+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Taiwan’s first two F-16V fighter jets arrive to bolster defenses against China",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-02T18:04:23+00:00",
+      "updatedAt": "2026-10-02T19:00:27+00:00",
       "stories": [
         {
           "title": "Tavus’ Griffin passes for human on video calls",
@@ -359,6 +359,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "publishedAt": "2026-10-02T18:11:27+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
           "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it",
           "publishedAt": "2026-10-02T17:56:00+00:00",
@@ -371,28 +377,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-          "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants",
-          "publishedAt": "2026-10-02T17:32:05+00:00",
-          "source": "TechCrunch AI"
+          "title": "Claude-shaped science (24 minute read)",
+          "url": "https://www.anthropic.com/research/claude-shaped-science",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-          "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you",
-          "publishedAt": "2026-10-02T17:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports (2 minute read)",
+          "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Pope Leo XIV is not a fan of AI-generated art",
-          "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art",
-          "publishedAt": "2026-10-02T15:39:41+00:00",
-          "source": "TechCrunch AI"
+          "title": "Why Superintelligent Machines May Be Most Valuable Doing Routine Work (19 minute read)",
+          "url": "https://openai.com/index/the-eternal-complement",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-          "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer",
-          "publishedAt": "2026-10-02T14:30:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Why Muse May Never Need Ads (10 minute read)",
+          "url": "https://www.mbi-deepdives.com/no-ads-muse",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform (10 minute read)",
+          "url": "https://blog.cloudflare.com/clef-decision-models",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Google Researchers Built an Agent for Automated Research (9 minute read)",
+          "url": "https://imhgchoi.github.io/agentic-idea-manager",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Gemini 4 Argon looks to return Google to the frontier",
@@ -411,32 +429,20 @@
           "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28",
           "publishedAt": "2026-09-30T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "The U.S. federal government gets an AI front door",
-          "url": "https://america.gov/",
-          "publishedAt": "2026-09-30T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic's Sonnet 5.5 nears Opus at half the price",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "publishedAt": "2026-09-29T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI leaders continue to sound the self-improving AI alarm",
-          "url": "https://casp.ac/reports/intelligence-explosion",
-          "publishedAt": "2026-09-29T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-02T18:04:23+00:00",
+      "updatedAt": "2026-10-02T19:00:27+00:00",
       "stories": [
+        {
+          "title": "Runway introduces Praxis-1 world action model for robotics",
+          "url": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics",
+          "publishedAt": "2026-10-02T18:32:13+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Calling robotics startups: Submissions for the 2026 Robotics Startup Radar close soon",
           "url": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar",
@@ -471,12 +477,6 @@
           "title": "Precision In Motion. Vishay Precision Group, Inc. (VPG) to Showcase Custom Sensing Capabilities for Humanoid Robotics at RoboBusiness 2026",
           "url": "https://www.therobotreport.com/precision-in-motion-vishay-precision-group-inc-vpg-to-showcase-custom-sensing-capabilities-for-humanoid-robotics-at-robobusiness-2026",
           "publishedAt": "2026-10-01T15:29:55+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
-          "url": "https://www.therobotreport.com/your-robots-safety-functions-already-work-what-if-the-input-lies",
-          "publishedAt": "2026-10-01T15:02:19+00:00",
           "source": "The Robot Report"
         },
         {
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-02T18:04:23+00:00",
+    "updatedAt": "2026-10-02T19:00:27+00:00",
     "stories": [
       {
         "title": "Tavus’ Griffin passes for human on video calls",
@@ -579,22 +579,31 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "After yearslong delay, Taiwan receives first pair of new F-16s",
-        "url": "https://breakingdefense.com/2026/10/after-yearslong-delay-taiwan-receives-first-pair-of-new-f-16s",
-        "publishedAt": "2026-10-02T17:20:31+00:00",
+        "title": "Long-range radar deal puts Ireland on course to shrink capability gap",
+        "url": "https://breakingdefense.com/2026/10/long-range-radar-deal-puts-ireland-on-course-to-shrink-capability-gap",
+        "publishedAt": "2026-10-02T18:20:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Calling robotics startups: Submissions for the 2026 Robotics Startup Radar close soon",
-        "url": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar",
-        "publishedAt": "2026-10-02T14:00:59+00:00",
+        "title": "Runway introduces Praxis-1 world action model for robotics",
+        "url": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics",
+        "publishedAt": "2026-10-02T18:32:13+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "After yearslong delay, Taiwan receives first pair of new F-16s",
+        "url": "https://breakingdefense.com/2026/10/after-yearslong-delay-taiwan-receives-first-pair-of-new-f-16s",
+        "publishedAt": "2026-10-02T17:20:31+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Google’s AI watermarks cross into the lab",
@@ -609,15 +618,6 @@
         "title": "Pentagon partners with CIA’s In-Q-Tel for ‘technology scouting’",
         "url": "https://breakingdefense.com/2026/10/pentagon-partners-with-cias-in-q-tel-for-technology-scouting",
         "publishedAt": "2026-10-02T16:38:57+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Berkowitz out at DoD Space Policy office",
-        "url": "https://breakingdefense.com/2026/10/berkowitz-out-at-dod-space-policy-office",
-        "publishedAt": "2026-10-02T15:26:14+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -736,7 +736,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-21"
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
   ]
 }
