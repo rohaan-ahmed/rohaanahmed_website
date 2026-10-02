@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T11:00:28+00:00",
+  "generatedAt": "2026-10-02T12:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-02T11:00:28+00:00",
+      "updatedAt": "2026-10-02T12:00:29+00:00",
       "stories": [
         {
           "title": "Beyond the airlock - Sophie Adenot's three spacewalks",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-02T11:00:28+00:00",
+      "updatedAt": "2026-10-02T12:00:29+00:00",
       "stories": [
         {
           "title": "SpaceX Transporter-18 launches three Canadian satellites",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-02T11:00:28+00:00",
+      "updatedAt": "2026-10-02T12:00:29+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -229,8 +229,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-02T11:00:28+00:00",
+      "updatedAt": "2026-10-02T12:00:29+00:00",
       "stories": [
+        {
+          "title": "US leaders send mixed messages to Indo-Pacific nations",
+          "url": "https://www.defensenews.com/global/asia-pacific/2026/10/02/us-leaders-send-mixed-messages-to-indo-pacific-nations",
+          "publishedAt": "2026-10-02T11:55:33+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "In Ukraine, data centers ‘facing increased attacks’ in recent weeks: Ex-official",
           "url": "https://breakingdefense.com/2026/10/in-ukraine-data-centers-facing-increased-attacks-in-recent-weeks-ex-official",
@@ -298,12 +304,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Taiwan takes a page from Ukraine’s playbook in steeling society for an invasion",
-          "url": "https://www.defensenews.com/global/asia-pacific/2026/10/01/taiwan-takes-a-page-from-ukraines-playbook-in-steeling-society-for-an-invasion",
-          "publishedAt": "2026-10-01T14:13:06+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "DIA makes fast-tracked data center maintenance award to avoid ‘eventual equipment failure’",
           "url": "https://defensescoop.com/2026/10/01/dia-data-center-maintenance-award-avoid-equipment-failure",
           "publishedAt": "2026-10-01T16:07:48+00:00",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-02T11:00:28+00:00",
+      "updatedAt": "2026-10-02T12:00:29+00:00",
       "stories": [
         {
           "title": "Tavus’ Griffin passes for human on video calls",
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-02T11:00:28+00:00",
+      "updatedAt": "2026-10-02T12:00:29+00:00",
       "stories": [
         {
           "title": "Top 10 robotics stories of September 2026",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-02T11:00:28+00:00",
+    "updatedAt": "2026-10-02T12:00:29+00:00",
     "stories": [
       {
         "title": "Tavus’ Griffin passes for human on video calls",
@@ -567,10 +567,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "In Ukraine, data centers ‘facing increased attacks’ in recent weeks: Ex-official",
-        "url": "https://breakingdefense.com/2026/10/in-ukraine-data-centers-facing-increased-attacks-in-recent-weeks-ex-official",
-        "publishedAt": "2026-10-02T09:00:00+00:00",
-        "source": "Breaking Defense",
+        "title": "US leaders send mixed messages to Indo-Pacific nations",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/10/02/us-leaders-send-mixed-messages-to-indo-pacific-nations",
+        "publishedAt": "2026-10-02T11:55:33+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -603,12 +603,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Jammertest pumps up the jam in Norway",
-        "url": "https://www.esa.int/Applications/Satellite_navigation/Jammertest_pumps_up_the_jam_in_Norway",
-        "publishedAt": "2026-10-02T07:05:00+00:00",
-        "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "In Ukraine, data centers ‘facing increased attacks’ in recent weeks: Ex-official",
+        "url": "https://breakingdefense.com/2026/10/in-ukraine-data-centers-facing-increased-attacks-in-recent-weeks-ex-official",
+        "publishedAt": "2026-10-02T09:00:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
