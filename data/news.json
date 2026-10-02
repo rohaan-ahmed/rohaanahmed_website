@@ -1,29 +1,11 @@
 {
-  "generatedAt": "2026-10-02T21:00:24+00:00",
+  "generatedAt": "2026-10-02T22:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-02T21:00:24+00:00",
+      "updatedAt": "2026-10-02T22:00:26+00:00",
       "stories": [
-        {
-          "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
-          "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia",
-          "publishedAt": "2026-10-02T19:54:54+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
-          "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission",
-          "publishedAt": "2026-10-02T19:30:00+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA’s DAVINCI Probe Can Stand the Heat",
-          "url": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat",
-          "publishedAt": "2026-10-02T19:00:36+00:00",
-          "source": "NASA"
-        },
         {
           "title": "Week in images: 28 Sep - 2 Oct 2026",
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_Sep_-_2_Oct_2026",
@@ -79,6 +61,12 @@
           "source": "European Space Agency"
         },
         {
+          "title": "ESA at the 77th International Astronautical Congress",
+          "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_the_77th_International_Astronautical_Congress",
+          "publishedAt": "2026-10-01T14:20:00+00:00",
+          "source": "European Space Agency"
+        },
+        {
           "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
           "url": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit",
           "publishedAt": "2026-10-01T00:24:08+00:00",
@@ -95,13 +83,25 @@
           "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission",
           "publishedAt": "2026-09-30T13:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
+          "url": "https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035",
+          "publishedAt": "2026-09-29T20:32:07+00:00",
+          "source": "SpaceNews"
+        },
+        {
+          "title": "Terran Orbital Names Jamin Brown Chief Operating Officer",
+          "url": "https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer",
+          "publishedAt": "2026-09-29T17:42:20+00:00",
+          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-02T21:00:24+00:00",
+      "updatedAt": "2026-10-02T22:00:26+00:00",
       "stories": [
         {
           "title": "Canadian Centre for Space Isotopes launches in Toronto",
@@ -186,8 +186,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-02T21:00:24+00:00",
+      "updatedAt": "2026-10-02T22:00:26+00:00",
       "stories": [
+        {
+          "title": "Minister McGuinty participates in Joint Expeditionary Force Defence Ministers’ Meeting in Iceland",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/minister-mcguinty-participates-in-joint-expeditionary-force-defence-ministers-meeting-in-iceland.html",
+          "publishedAt": "2026-10-02T21:30:00+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "The Royal Canadian Air Force partners with Fanshawe College to deliver training",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/the-royal-canadian-air-force-partners-with-fanshawe-college-to-deliver-training.html",
@@ -204,12 +210,6 @@
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/government-of-canada-to-mark-start-of-construction-on-infrastructure-project-at-5-wing-goose-bay.html",
           "publishedAt": "2026-09-29T21:39:10+00:00",
-          "source": "National Defence"
-        },
-        {
-          "title": "Meeting Minister McGuinty to attend Joint Expeditionary Force Defence Ministers’ Meeting in Iceland",
-          "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/meeting-minister-mcguinty-to-attend-joint-expeditionary-force-defence-ministers-meeting-in-iceland.html",
-          "publishedAt": "2026-09-29T20:26:03+00:00",
           "source": "National Defence"
         },
         {
@@ -241,8 +241,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-02T21:00:24+00:00",
+      "updatedAt": "2026-10-02T22:00:26+00:00",
       "stories": [
+        {
+          "title": "Army to establish new autonomy command, acquisition executive",
+          "url": "https://breakingdefense.com/2026/10/army-to-establish-new-autonomy-command-acquisition-executive",
+          "publishedAt": "2026-10-02T21:46:37+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "GDIT replaces longtime president Gilliland",
           "url": "https://breakingdefense.com/2026/10/gdit-replaces-longtime-president-gilliland",
@@ -262,6 +268,18 @@
           "source": "Defense News"
         },
         {
+          "title": "Hegseth issues new directive to hasten U.S. military’s counter-drone pursuits",
+          "url": "https://defensescoop.com/2026/10/02/hegseth-issues-new-directive-to-hasten-counter-drone-pursuits",
+          "publishedAt": "2026-10-02T21:12:11+00:00",
+          "source": "DefenseScoop"
+        },
+        {
+          "title": "Space Force laying groundwork to connect future satellite ‘enclaves’ as it prepares for additional launches",
+          "url": "https://defensescoop.com/2026/10/02/space-force-laying-groundwork-to-connect-future-satellite-enclaves",
+          "publishedAt": "2026-10-02T21:00:00+00:00",
+          "source": "DefenseScoop"
+        },
+        {
           "title": "After yearslong delay, Taiwan receives first pair of new F-16s",
           "url": "https://breakingdefense.com/2026/10/after-yearslong-delay-taiwan-receives-first-pair-of-new-f-16s",
           "publishedAt": "2026-10-02T17:20:31+00:00",
@@ -277,12 +295,6 @@
           "title": "Pentagon partners with CIA’s In-Q-Tel for ‘technology scouting’",
           "url": "https://breakingdefense.com/2026/10/pentagon-partners-with-cias-in-q-tel-for-technology-scouting",
           "publishedAt": "2026-10-02T16:38:57+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Berkowitz out at DoD Space Policy office",
-          "url": "https://breakingdefense.com/2026/10/berkowitz-out-at-dod-space-policy-office",
-          "publishedAt": "2026-10-02T15:26:14+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -320,26 +332,20 @@
           "url": "https://defensescoop.com/2026/10/01/ai-agents-jiatf-401-procurement-plans-falcon-peak",
           "publishedAt": "2026-10-01T20:28:57+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "DIA makes fast-tracked data center maintenance award to avoid ‘eventual equipment failure’",
-          "url": "https://defensescoop.com/2026/10/01/dia-data-center-maintenance-award-avoid-equipment-failure",
-          "publishedAt": "2026-10-01T16:07:48+00:00",
-          "source": "DefenseScoop"
-        },
-        {
-          "title": "U.S. creates new Autonomous Warfare Command to fuse and enhance military drone ops",
-          "url": "https://defensescoop.com/2026/09/30/hegseth-announces-autonomous-warfare-command",
-          "publishedAt": "2026-09-30T21:46:55+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-02T21:00:24+00:00",
+      "updatedAt": "2026-10-02T22:00:26+00:00",
       "stories": [
+        {
+          "title": "Sean Parker is rebuilding Stability AI around music",
+          "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music",
+          "publishedAt": "2026-10-02T21:09:14+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Tavus’ Griffin passes for human on video calls",
           "url": "https://www.tavus.io/griffin",
@@ -371,28 +377,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-          "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it",
-          "publishedAt": "2026-10-02T17:56:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Claude-shaped science (24 minute read)",
+          "url": "https://www.anthropic.com/research/claude-shaped-science",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-          "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house",
-          "publishedAt": "2026-10-02T17:48:16+00:00",
-          "source": "TechCrunch AI"
+          "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports (2 minute read)",
+          "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-          "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants",
-          "publishedAt": "2026-10-02T17:32:05+00:00",
-          "source": "TechCrunch AI"
+          "title": "Why Superintelligent Machines May Be Most Valuable Doing Routine Work (19 minute read)",
+          "url": "https://openai.com/index/the-eternal-complement",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-          "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you",
-          "publishedAt": "2026-10-02T17:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Why Muse May Never Need Ads (10 minute read)",
+          "url": "https://www.mbi-deepdives.com/no-ads-muse",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform (10 minute read)",
+          "url": "https://blog.cloudflare.com/clef-decision-models",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Google Researchers Built an Agent for Automated Research (9 minute read)",
+          "url": "https://imhgchoi.github.io/agentic-idea-manager",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Gemini 4 Argon looks to return Google to the frontier",
@@ -411,32 +429,20 @@
           "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28",
           "publishedAt": "2026-09-30T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "The U.S. federal government gets an AI front door",
-          "url": "https://america.gov/",
-          "publishedAt": "2026-09-30T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic's Sonnet 5.5 nears Opus at half the price",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "publishedAt": "2026-09-29T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI leaders continue to sound the self-improving AI alarm",
-          "url": "https://casp.ac/reports/intelligence-explosion",
-          "publishedAt": "2026-09-29T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-02T21:00:24+00:00",
+      "updatedAt": "2026-10-02T22:00:26+00:00",
       "stories": [
+        {
+          "title": "Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness",
+          "url": "https://www.therobotreport.com/eli-lilly-purdue-to-share-field-learnings-on-human-robot-interaction-at-robobusiness",
+          "publishedAt": "2026-10-02T21:12:14+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Runway introduces Praxis-1 world action model for robotics",
           "url": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics",
@@ -477,12 +483,6 @@
           "title": "Boston Dynamics drops pinkie on new humanoid hand",
           "url": "https://www.therobotreport.com/boston-dynamics-drops-pinkie-on-new-humanoid-hand",
           "publishedAt": "2026-10-01T17:52:51+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Precision In Motion. Vishay Precision Group, Inc. (VPG) to Showcase Custom Sensing Capabilities for Humanoid Robotics at RoboBusiness 2026",
-          "url": "https://www.therobotreport.com/precision-in-motion-vishay-precision-group-inc-vpg-to-showcase-custom-sensing-capabilities-for-humanoid-robotics-at-robobusiness-2026",
-          "publishedAt": "2026-10-01T15:29:55+00:00",
           "source": "The Robot Report"
         },
         {
@@ -531,20 +531,20 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-02T21:00:24+00:00",
+    "updatedAt": "2026-10-02T22:00:26+00:00",
     "stories": [
       {
-        "title": "Tavus’ Griffin passes for human on video calls",
-        "url": "https://www.tavus.io/griffin",
-        "publishedAt": "2026-10-02T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Sean Parker is rebuilding Stability AI around music",
+        "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music",
+        "publishedAt": "2026-10-02T21:09:14+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "My recurring AI performance review",
-        "url": "https://docs.google.com/document/d/13R_bKjJt--z5UGBIigqU0sCYj2-gB5shhfty2pX5PHg/edit?usp=sharing",
+        "title": "Tavus’ Griffin passes for human on video calls",
+        "url": "https://www.tavus.io/griffin",
         "publishedAt": "2026-10-02T09:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
@@ -561,36 +561,36 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
-        "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia",
-        "publishedAt": "2026-10-02T19:54:54+00:00",
-        "source": "NASA",
+        "title": "Week in images: 28 Sep - 2 Oct 2026",
+        "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_Sep_-_2_Oct_2026",
+        "publishedAt": "2026-10-02T13:10:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "The Royal Canadian Air Force partners with Fanshawe College to deliver training",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/the-royal-canadian-air-force-partners-with-fanshawe-college-to-deliver-training.html",
-        "publishedAt": "2026-10-02T16:00:55+00:00",
+        "title": "Minister McGuinty participates in Joint Expeditionary Force Defence Ministers’ Meeting in Iceland",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/minister-mcguinty-participates-in-joint-expeditionary-force-defence-ministers-meeting-in-iceland.html",
+        "publishedAt": "2026-10-02T21:30:00+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
         "bulletinRole": "lead"
       },
       {
-        "title": "GDIT replaces longtime president Gilliland",
-        "url": "https://breakingdefense.com/2026/10/gdit-replaces-longtime-president-gilliland",
-        "publishedAt": "2026-10-02T20:18:22+00:00",
+        "title": "Army to establish new autonomy command, acquisition executive",
+        "url": "https://breakingdefense.com/2026/10/army-to-establish-new-autonomy-command-acquisition-executive",
+        "publishedAt": "2026-10-02T21:46:37+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Runway introduces Praxis-1 world action model for robotics",
-        "url": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics",
-        "publishedAt": "2026-10-02T18:32:13+00:00",
+        "title": "Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness",
+        "url": "https://www.therobotreport.com/eli-lilly-purdue-to-share-field-learnings-on-human-robot-interaction-at-robobusiness",
+        "publishedAt": "2026-10-02T21:12:14+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -606,21 +606,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Long-range radar deal puts Ireland on course to shrink capability gap",
-        "url": "https://breakingdefense.com/2026/10/long-range-radar-deal-puts-ireland-on-course-to-shrink-capability-gap",
-        "publishedAt": "2026-10-02T18:20:00+00:00",
+        "title": "GDIT replaces longtime president Gilliland",
+        "url": "https://breakingdefense.com/2026/10/gdit-replaces-longtime-president-gilliland",
+        "publishedAt": "2026-10-02T20:18:22+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Saudis plan assault on Houthis to break Red Sea chokehold",
-        "url": "https://www.defensenews.com/global/mideast-africa/2026/10/02/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold",
-        "publishedAt": "2026-10-02T19:00:24+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Runway introduces Praxis-1 world action model for robotics",
+        "url": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics",
+        "publishedAt": "2026-10-02T18:32:13+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -736,7 +736,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-22"
+    "NASA: 429 Client Error: Too Many Requests for url: https://www.nasa.gov/feed/",
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
   ]
 }
