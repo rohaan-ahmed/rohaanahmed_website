@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T04:00:23+00:00",
+  "generatedAt": "2026-10-02T05:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-02T04:00:23+00:00",
+      "updatedAt": "2026-10-02T05:00:32+00:00",
       "stories": [
         {
           "title": "World Space Week 2026 Celebrates the “Rocket Revolution”",
@@ -25,6 +25,18 @@
           "source": "SpaceNews"
         },
         {
+          "title": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae",
+          "publishedAt": "2026-10-02T04:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Rains Swamp the Gandak River",
+          "url": "https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river",
+          "publishedAt": "2026-10-02T04:01:00+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest",
           "url": "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest",
           "publishedAt": "2026-10-01T12:46:32+00:00",
@@ -34,18 +46,6 @@
           "title": "10 Things: Movie Night",
           "url": "https://science.nasa.gov/solar-system/10-things-movie-night",
           "publishedAt": "2026-10-02T00:25:36+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Awards Enterprise Logistics Support Services Agreements",
-          "url": "https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements",
-          "publishedAt": "2026-10-01T20:34:27+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA’s SpaceX Crew-13 Launches",
-          "url": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches",
-          "publishedAt": "2026-10-01T18:05:38+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-02T04:00:23+00:00",
+      "updatedAt": "2026-10-02T05:00:32+00:00",
       "stories": [
         {
           "title": "SpaceX Transporter-18 launches three Canadian satellites",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-02T04:00:23+00:00",
+      "updatedAt": "2026-10-02T05:00:32+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-02T04:00:23+00:00",
+      "updatedAt": "2026-10-02T05:00:32+00:00",
       "stories": [
         {
           "title": "DoD obligates $142B from reconciliation bill before deadline, leaving billions subject to cuts",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-02T04:00:23+00:00",
+      "updatedAt": "2026-10-02T05:00:32+00:00",
       "stories": [
         {
           "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
@@ -353,22 +353,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-          "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
-          "publishedAt": "2026-10-01T18:14:42+00:00",
-          "source": "TechCrunch AI"
+          "title": "Musk's SpaceXAI Considers Overhaul of Pricing for Grok, X Users (1 minute read)",
+          "url": "https://links.tldrnewsletter.com/VezRJB",
+          "publishedAt": "2026-10-01T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-          "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells",
-          "publishedAt": "2026-10-01T17:50:19+00:00",
-          "source": "TechCrunch AI"
+          "title": "Claude for Government is now generally available (3 minute read)",
+          "url": "https://claude.com/blog/claude-for-government-is-now-generally-available",
+          "publishedAt": "2026-10-01T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Amazon releases its own Jev clone as decision models flood the web",
-          "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web",
-          "publishedAt": "2026-10-01T16:49:22+00:00",
-          "source": "TechCrunch AI"
+          "title": "We can and must solve alignment (14 minute read)",
+          "url": "https://www.goodfire.com/blog/we-can-and-must-solve-alignment",
+          "publishedAt": "2026-10-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Generalization Dynamics of LM Pre-training (4 minute read)",
+          "url": "https://www.alphaxiv.org/abs/2609.33150",
+          "publishedAt": "2026-10-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Praxis-1 (5 minute read)",
+          "url": "https://runway.com/research/introducing-praxis-1",
+          "publishedAt": "2026-10-01T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "NVIDIA OpenShell Secures Autonomous AI Agents (GitHub Repo)",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "publishedAt": "2026-10-01T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI puts a 24/7 agent inside ChatGPT",
@@ -399,31 +417,13 @@
           "url": "https://casp.ac/reports/intelligence-explosion",
           "publishedAt": "2026-09-29T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "AMD strikes $8.2B deal for Fei-Fei Li's World Labs",
-          "url": "https://drfeifei.substack.com/p/worldlabs-joining-amd",
-          "publishedAt": "2026-09-29T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s agents went rogue on U.S. government sites",
-          "url": "https://edition.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
-          "publishedAt": "2026-09-28T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic loses Pentagon blacklist appeal",
-          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-          "publishedAt": "2026-09-28T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-02T04:00:23+00:00",
+      "updatedAt": "2026-10-02T05:00:32+00:00",
       "stories": [
         {
           "title": "Top 10 robotics stories of September 2026",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-02T04:00:23+00:00",
+    "updatedAt": "2026-10-02T05:00:32+00:00",
     "stories": [
       {
         "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
@@ -724,7 +724,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-22"
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
   ]
 }
