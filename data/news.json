@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-10-02T15:00:29+00:00",
+  "generatedAt": "2026-10-02T16:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-02T15:00:29+00:00",
+      "updatedAt": "2026-10-02T16:00:34+00:00",
       "stories": [
         {
           "title": "Week in images: 28 Sep - 2 Oct 2026",
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_Sep_-_2_Oct_2026",
           "publishedAt": "2026-10-02T13:10:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "NASA Opens Applications for Next Class of Flight Directors",
+          "url": "https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors",
+          "publishedAt": "2026-10-02T15:49:26+00:00",
+          "source": "NASA"
         },
         {
           "title": "Beyond the airlock - Sophie Adenot's three spacewalks",
@@ -67,12 +73,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "10 Things: Movie Night",
-          "url": "https://science.nasa.gov/solar-system/10-things-movie-night",
-          "publishedAt": "2026-10-02T00:25:36+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Juice’s September 2026 Earth flyby: the movie",
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Juice_s_September_2026_Earth_flyby_the_movie",
           "publishedAt": "2026-10-01T15:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-02T15:00:29+00:00",
+      "updatedAt": "2026-10-02T16:00:34+00:00",
       "stories": [
         {
           "title": "SpaceX Transporter-18 launches three Canadian satellites",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-02T15:00:29+00:00",
+      "updatedAt": "2026-10-02T16:00:34+00:00",
       "stories": [
         {
           "title": "Government of Canada begins construction on New Central Heating Plant at 5 Wing Goose Bay",
@@ -235,8 +235,26 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-02T15:00:29+00:00",
+      "updatedAt": "2026-10-02T16:00:34+00:00",
       "stories": [
+        {
+          "title": "Berkowitz out at DoD Space Policy office",
+          "url": "https://breakingdefense.com/2026/10/berkowitz-out-at-dod-space-policy-office",
+          "publishedAt": "2026-10-02T15:26:14+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "The NIH-Pentagon deal isn’t a cash grab. It’s a rescue.",
+          "url": "https://breakingdefense.com/2026/10/the-nih-pentagon-deal-isnt-a-cash-grab-its-a-rescue",
+          "publishedAt": "2026-10-02T15:10:00+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Ukraine war fatigue fuels defense-spending downgrade plan in Italy",
+          "url": "https://www.defensenews.com/global/europe/2026/10/02/ukraine-war-fatigue-fuels-defense-spending-downgrade-plan-in-italy",
+          "publishedAt": "2026-10-02T15:29:29+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Navy, Raytheon ink $24.4B deal for SM-6 ‘acceleration’",
           "url": "https://breakingdefense.com/2026/10/navy-raytheon-ink-24-4b-deal-for-sm-6-acceleration",
@@ -280,24 +298,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Can’t start, won’t start: Over 150 new military programs face delay under a CR",
-          "url": "https://breakingdefense.com/2026/10/cant-start-wont-start-over-150-new-military-programs-face-delay-under-a-cr",
-          "publishedAt": "2026-10-01T20:56:55+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "How Hegseth envisions a new Autonomous Warfare Command",
-          "url": "https://breakingdefense.com/2026/10/how-hegseth-envisions-a-new-autonomous-warfare-command",
-          "publishedAt": "2026-10-01T20:15:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskyy says",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/10/01/ukraine-deploys-fp-7-tactical-ballistic-missile-in-combat-for-first-time-zelenskyy-says",
-          "publishedAt": "2026-10-01T19:54:35+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "The Pentagon’s new cyber mastery incentive model promised a ‘new era.’ Troops are bracing for pay cuts.",
           "url": "https://defensescoop.com/2026/10/01/pentagon-new-cyber-mastery-incentive-model-troops-bracing-for-pay-cuts",
           "publishedAt": "2026-10-01T21:39:25+00:00",
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-02T15:00:29+00:00",
+      "updatedAt": "2026-10-02T16:00:34+00:00",
       "stories": [
         {
           "title": "Tavus’ Griffin passes for human on video calls",
@@ -353,6 +353,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Pope Leo XIV is not a fan of AI-generated art",
+          "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art",
+          "publishedAt": "2026-10-02T15:39:41+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
           "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants",
           "publishedAt": "2026-10-02T15:00:00+00:00",
@@ -362,12 +368,6 @@
           "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
           "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer",
           "publishedAt": "2026-10-02T14:30:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-          "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders",
-          "publishedAt": "2026-10-02T14:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -429,8 +429,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-02T15:00:29+00:00",
+      "updatedAt": "2026-10-02T16:00:34+00:00",
       "stories": [
+        {
+          "title": "Calling robotics startups: Submissions for the 2026 Robotics Startup Radar close soon",
+          "url": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar",
+          "publishedAt": "2026-10-02T14:00:59+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
           "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders",
@@ -472,12 +478,6 @@
           "url": "https://spectrum.ieee.org/robust-robot-hand",
           "publishedAt": "2026-10-01T14:40:12+00:00",
           "source": "IEEE Spectrum Robotics"
-        },
-        {
-          "title": "ANYbotics launches Shift to streamline robot fleet operations, scale inspections",
-          "url": "https://www.therobotreport.com/anybotics-launches-shift-streamline-robot-fleet-operations-scale-autonomous-inspections",
-          "publishedAt": "2026-10-01T07:59:59+00:00",
-          "source": "The Robot Report"
         },
         {
           "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-02T15:00:29+00:00",
+    "updatedAt": "2026-10-02T16:00:34+00:00",
     "stories": [
       {
         "title": "Tavus’ Griffin passes for human on video calls",
@@ -573,19 +573,19 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Navy, Raytheon ink $24.4B deal for SM-6 ‘acceleration’",
-        "url": "https://breakingdefense.com/2026/10/navy-raytheon-ink-24-4b-deal-for-sm-6-acceleration",
-        "publishedAt": "2026-10-02T13:49:31+00:00",
+        "title": "Berkowitz out at DoD Space Policy office",
+        "url": "https://breakingdefense.com/2026/10/berkowitz-out-at-dod-space-policy-office",
+        "publishedAt": "2026-10-02T15:26:14+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-        "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders",
-        "publishedAt": "2026-10-02T14:00:00+00:00",
-        "source": "TechCrunch Robotics",
+        "title": "Calling robotics startups: Submissions for the 2026 Robotics Startup Radar close soon",
+        "url": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar",
+        "publishedAt": "2026-10-02T14:00:59+00:00",
+        "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
@@ -600,18 +600,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Taiwan’s first two F-16V fighter jets arrive to bolster defenses against China",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/10/02/taiwans-first-two-f-16v-fighter-jets-arrive-to-bolster-defenses-against-china",
-        "publishedAt": "2026-10-02T14:15:53+00:00",
-        "source": "Defense News",
+        "title": "The NIH-Pentagon deal isn’t a cash grab. It’s a rescue.",
+        "url": "https://breakingdefense.com/2026/10/the-nih-pentagon-deal-isnt-a-cash-grab-its-a-rescue",
+        "publishedAt": "2026-10-02T15:10:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "French Air Force plans loyal wingman flight in 2028 in sovereign AI push",
-        "url": "https://www.defensenews.com/global/europe/2026/10/02/french-air-force-plans-loyal-wingman-flight-in-2028-in-sovereign-ai-push",
-        "publishedAt": "2026-10-02T13:59:10+00:00",
+        "title": "Ukraine war fatigue fuels defense-spending downgrade plan in Italy",
+        "url": "https://www.defensenews.com/global/europe/2026/10/02/ukraine-war-fatigue-fuels-defense-spending-downgrade-plan-in-italy",
+        "publishedAt": "2026-10-02T15:29:29+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
