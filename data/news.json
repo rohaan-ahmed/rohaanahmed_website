@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-10-02T22:07:21+00:00",
+  "generatedAt": "2026-10-02T23:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-02T22:07:21+00:00",
+      "updatedAt": "2026-10-02T23:00:25+00:00",
       "stories": [
+        {
+          "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+          "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia",
+          "publishedAt": "2026-10-02T19:54:54+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+          "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission",
+          "publishedAt": "2026-10-02T19:30:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "NASA’s DAVINCI Probe Can Stand the Heat",
+          "url": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat",
+          "publishedAt": "2026-10-02T19:00:36+00:00",
+          "source": "NASA"
+        },
         {
           "title": "Week in images: 28 Sep - 2 Oct 2026",
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_Sep_-_2_Oct_2026",
@@ -61,12 +79,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "ESA at the 77th International Astronautical Congress",
-          "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_the_77th_International_Astronautical_Congress",
-          "publishedAt": "2026-10-01T14:20:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
           "url": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit",
           "publishedAt": "2026-10-01T00:24:08+00:00",
@@ -83,25 +95,13 @@
           "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission",
           "publishedAt": "2026-09-30T13:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
-          "url": "https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035",
-          "publishedAt": "2026-09-29T20:32:07+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "Terran Orbital Names Jamin Brown Chief Operating Officer",
-          "url": "https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer",
-          "publishedAt": "2026-09-29T17:42:20+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-02T22:07:21+00:00",
+      "updatedAt": "2026-10-02T23:00:25+00:00",
       "stories": [
         {
           "title": "Canadian Centre for Space Isotopes launches in Toronto",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-02T22:07:21+00:00",
+      "updatedAt": "2026-10-02T23:00:25+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in Joint Expeditionary Force Defence Ministers’ Meeting in Iceland",
@@ -229,19 +229,13 @@
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/minister-mcguinty-to-welcome-vietnams-deputy-prime-minister-and-minister-of-national-defence.html",
           "publishedAt": "2026-09-25T00:12:37+00:00",
           "source": "National Defence"
-        },
-        {
-          "title": "Canada Army Run 2026: Bringing Canadians Together in Support of the People Behind the Army",
-          "url": "https://www.canada.ca/en/department-national-defence/news/2026/09/canada-army-run-2026-bringing-canadians-together-in-support-of-the-people-behind-the-army.html",
-          "publishedAt": "2026-09-22T22:16:57+00:00",
-          "source": "National Defence"
         }
       ]
     },
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-02T22:07:21+00:00",
+      "updatedAt": "2026-10-02T23:00:25+00:00",
       "stories": [
         {
           "title": "Army to establish new autonomy command, acquisition executive",
@@ -338,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-02T22:07:21+00:00",
+      "updatedAt": "2026-10-02T23:00:25+00:00",
       "stories": [
         {
           "title": "Sean Parker is rebuilding Stability AI around music",
@@ -377,40 +371,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Claude-shaped science (24 minute read)",
-          "url": "https://www.anthropic.com/research/claude-shaped-science",
-          "publishedAt": "2026-10-02T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+          "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it",
+          "publishedAt": "2026-10-02T17:56:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports (2 minute read)",
-          "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
-          "publishedAt": "2026-10-02T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+          "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house",
+          "publishedAt": "2026-10-02T17:48:16+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Why Superintelligent Machines May Be Most Valuable Doing Routine Work (19 minute read)",
-          "url": "https://openai.com/index/the-eternal-complement",
-          "publishedAt": "2026-10-02T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Why Muse May Never Need Ads (10 minute read)",
-          "url": "https://www.mbi-deepdives.com/no-ads-muse",
-          "publishedAt": "2026-10-02T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform (10 minute read)",
-          "url": "https://blog.cloudflare.com/clef-decision-models",
-          "publishedAt": "2026-10-02T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Google Researchers Built an Agent for Automated Research (9 minute read)",
-          "url": "https://imhgchoi.github.io/agentic-idea-manager",
-          "publishedAt": "2026-10-02T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+          "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants",
+          "publishedAt": "2026-10-02T17:32:05+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Gemini 4 Argon looks to return Google to the frontier",
@@ -429,13 +405,31 @@
           "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28",
           "publishedAt": "2026-09-30T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "The U.S. federal government gets an AI front door",
+          "url": "https://america.gov/",
+          "publishedAt": "2026-09-30T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic's Sonnet 5.5 nears Opus at half the price",
+          "url": "https://www.anthropic.com/claude-sonnet-5-5",
+          "publishedAt": "2026-09-29T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "AI leaders continue to sound the self-improving AI alarm",
+          "url": "https://casp.ac/reports/intelligence-explosion",
+          "publishedAt": "2026-09-29T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-02T22:07:21+00:00",
+      "updatedAt": "2026-10-02T23:00:25+00:00",
       "stories": [
         {
           "title": "Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness",
@@ -531,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-02T22:07:21+00:00",
+    "updatedAt": "2026-10-02T23:00:25+00:00",
     "stories": [
       {
         "title": "Sean Parker is rebuilding Stability AI around music",
@@ -561,10 +555,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Week in images: 28 Sep - 2 Oct 2026",
-        "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_Sep_-_2_Oct_2026",
-        "publishedAt": "2026-10-02T13:10:00+00:00",
-        "source": "European Space Agency",
+        "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
+        "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia",
+        "publishedAt": "2026-10-02T19:54:54+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -736,7 +730,7 @@
     }
   ],
   "warnings": [
-    "NASA: 429 Client Error: Too Many Requests for url: https://www.nasa.gov/feed/",
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-18"
   ]
 }
