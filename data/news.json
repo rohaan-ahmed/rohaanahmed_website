@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-02T09:00:27+00:00",
+  "generatedAt": "2026-10-02T10:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-02T09:00:27+00:00",
+      "updatedAt": "2026-10-02T10:00:25+00:00",
       "stories": [
+        {
+          "title": "Earth from Space: Typhoon Surigae",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Typhoon_Surigae",
+          "publishedAt": "2026-10-02T09:00:00+00:00",
+          "source": "European Space Agency"
+        },
+        {
+          "title": "Jammertest pumps up the jam in Norway",
+          "url": "https://www.esa.int/Applications/Satellite_navigation/Jammertest_pumps_up_the_jam_in_Norway",
+          "publishedAt": "2026-10-02T07:05:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "World Space Week 2026 Celebrates the “Rocket Revolution”",
           "url": "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution",
@@ -73,12 +85,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "EarthCARE’s view of volcanic plume boosts air safety",
-          "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_s_view_of_volcanic_plume_boosts_air_safety",
-          "publishedAt": "2026-10-01T07:30:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit’s ION Satellite Carrier",
           "url": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier",
           "publishedAt": "2026-09-30T15:00:00+00:00",
@@ -89,19 +95,13 @@
           "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission",
           "publishedAt": "2026-09-30T13:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Science begins for Smile",
-          "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
-          "publishedAt": "2026-09-30T07:05:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-02T09:00:27+00:00",
+      "updatedAt": "2026-10-02T10:00:25+00:00",
       "stories": [
         {
           "title": "SpaceX Transporter-18 launches three Canadian satellites",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-02T09:00:27+00:00",
+      "updatedAt": "2026-10-02T10:00:25+00:00",
       "stories": [
         {
           "title": "Government of Canada to mark start of construction on infrastructure project at 5 Wing Goose Bay",
@@ -229,8 +229,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-02T09:00:27+00:00",
+      "updatedAt": "2026-10-02T10:00:25+00:00",
       "stories": [
+        {
+          "title": "In Ukraine, data centers ‘facing increased attacks’ in recent weeks: Ex-official",
+          "url": "https://breakingdefense.com/2026/10/in-ukraine-data-centers-facing-increased-attacks-in-recent-weeks-ex-official",
+          "publishedAt": "2026-10-02T09:00:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "DoD obligates $142B from reconciliation bill before deadline, leaving billions subject to cuts",
           "url": "https://breakingdefense.com/2026/10/dod-obligates-142b-from-reconciliation-bill-before-deadline-leaving-billions-subject-to-cuts",
@@ -271,12 +277,6 @@
           "title": "Over the Finnish line: Helsinki welcomes home first two F-35 jets",
           "url": "https://breakingdefense.com/2026/10/over-the-finnish-line-helsinki-welcomes-home-first-two-f-35-jets",
           "publishedAt": "2026-10-01T17:58:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Drone-maker Powerus, backed by Trump brothers, goes public",
-          "url": "https://breakingdefense.com/2026/10/dronemaker-powerus-backed-by-trump-brothers-goes-public",
-          "publishedAt": "2026-10-01T17:05:21+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -326,8 +326,26 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-02T09:00:27+00:00",
+      "updatedAt": "2026-10-02T10:00:25+00:00",
       "stories": [
+        {
+          "title": "Tavus’ Griffin passes for human on video calls",
+          "url": "https://www.tavus.io/griffin",
+          "publishedAt": "2026-10-02T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "My recurring AI performance review",
+          "url": "https://docs.google.com/document/d/13R_bKjJt--z5UGBIigqU0sCYj2-gB5shhfty2pX5PHg/edit?usp=sharing",
+          "publishedAt": "2026-10-02T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Google’s AI watermarks cross into the lab",
+          "url": "https://deepmind.google/blog/introducing-synthid-bio",
+          "publishedAt": "2026-10-02T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
           "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president",
@@ -399,31 +417,13 @@
           "url": "https://casp.ac/reports/intelligence-explosion",
           "publishedAt": "2026-09-29T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "AMD strikes $8.2B deal for Fei-Fei Li's World Labs",
-          "url": "https://drfeifei.substack.com/p/worldlabs-joining-amd",
-          "publishedAt": "2026-09-29T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s agents went rogue on U.S. government sites",
-          "url": "https://edition.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites",
-          "publishedAt": "2026-09-28T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic loses Pentagon blacklist appeal",
-          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-          "publishedAt": "2026-09-28T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-02T09:00:27+00:00",
+      "updatedAt": "2026-10-02T10:00:25+00:00",
       "stories": [
         {
           "title": "Top 10 robotics stories of September 2026",
@@ -519,21 +519,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-02T09:00:27+00:00",
+    "updatedAt": "2026-10-02T10:00:25+00:00",
     "stories": [
       {
-        "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-        "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president",
-        "publishedAt": "2026-10-01T21:08:11+00:00",
-        "source": "TechCrunch AI",
+        "title": "Tavus’ Griffin passes for human on video calls",
+        "url": "https://www.tavus.io/griffin",
+        "publishedAt": "2026-10-02T09:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Gemini 4 Argon looks to return Google to the frontier",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon",
-        "publishedAt": "2026-10-01T09:00:00+00:00",
+        "title": "My recurring AI performance review",
+        "url": "https://docs.google.com/document/d/13R_bKjJt--z5UGBIigqU0sCYj2-gB5shhfty2pX5PHg/edit?usp=sharing",
+        "publishedAt": "2026-10-02T09:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -549,10 +549,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "World Space Week 2026 Celebrates the “Rocket Revolution”",
-        "url": "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution",
-        "publishedAt": "2026-10-01T15:06:43+00:00",
-        "source": "SpaceNews",
+        "title": "Earth from Space: Typhoon Surigae",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Typhoon_Surigae",
+        "publishedAt": "2026-10-02T09:00:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -567,9 +567,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "DoD obligates $142B from reconciliation bill before deadline, leaving billions subject to cuts",
-        "url": "https://breakingdefense.com/2026/10/dod-obligates-142b-from-reconciliation-bill-before-deadline-leaving-billions-subject-to-cuts",
-        "publishedAt": "2026-10-01T21:57:29+00:00",
+        "title": "In Ukraine, data centers ‘facing increased attacks’ in recent weeks: Ex-official",
+        "url": "https://breakingdefense.com/2026/10/in-ukraine-data-centers-facing-increased-attacks-in-recent-weeks-ex-official",
+        "publishedAt": "2026-10-02T09:00:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -585,30 +585,30 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Google’s AI watermarks cross into the lab",
+        "url": "https://deepmind.google/blog/introducing-synthid-bio",
+        "publishedAt": "2026-10-02T09:00:00+00:00",
+        "source": "The Rundown AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Jammertest pumps up the jam in Norway",
+        "url": "https://www.esa.int/Applications/Satellite_navigation/Jammertest_pumps_up_the_jam_in_Norway",
+        "publishedAt": "2026-10-02T07:05:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Northstar Defence Lab is first in Calian’s planned regional network",
         "url": "https://spaceq.ca/northstar-defence-lab-calian",
         "publishedAt": "2026-10-01T16:57:47+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Rethinking risk with electronics for space",
-        "url": "https://spacenews.com/rethinking-risk-with-electronics-for-space",
-        "publishedAt": "2026-10-01T14:51:34+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
-        "url": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia",
-        "publishedAt": "2026-10-01T14:40:51+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -724,7 +724,7 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-14",
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-15"
   ]
 }
