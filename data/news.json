@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T13:00:26+00:00",
+  "generatedAt": "2026-10-03T14:00:23+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-03T13:00:26+00:00",
+      "updatedAt": "2026-10-03T14:00:23+00:00",
       "stories": [
         {
           "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-03T13:00:26+00:00",
+      "updatedAt": "2026-10-03T14:00:23+00:00",
       "stories": [
         {
           "title": "Canada Rocket Company breaks ground on engine test site in London, Ont.",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-03T13:00:26+00:00",
+      "updatedAt": "2026-10-03T14:00:23+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in Joint Expeditionary Force Defence Ministers’ Meeting in Iceland",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-03T13:00:26+00:00",
+      "updatedAt": "2026-10-03T14:00:23+00:00",
       "stories": [
         {
           "title": "Army to establish new autonomy command, acquisition executive",
@@ -332,8 +332,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-03T13:00:26+00:00",
+      "updatedAt": "2026-10-03T14:00:23+00:00",
       "stories": [
+        {
+          "title": "All the AI agents that can live in your text messages",
+          "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
+          "publishedAt": "2026-10-03T14:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Meta wants your next gadget to be Muse-infused",
           "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget",
@@ -383,12 +389,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-          "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house",
-          "publishedAt": "2026-10-02T17:48:16+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Gemini 4 Argon looks to return Google to the frontier",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon",
           "publishedAt": "2026-10-01T09:00:00+00:00",
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-03T13:00:26+00:00",
+      "updatedAt": "2026-10-03T14:00:23+00:00",
       "stories": [
         {
           "title": "Inside Omron’s next-generation LD mobile robots",
@@ -525,21 +525,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-03T13:00:26+00:00",
+    "updatedAt": "2026-10-03T14:00:23+00:00",
     "stories": [
       {
-        "title": "Meta wants your next gadget to be Muse-infused",
-        "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget",
-        "publishedAt": "2026-10-03T00:45:39+00:00",
+        "title": "All the AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
+        "publishedAt": "2026-10-03T14:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Sean Parker is rebuilding Stability AI around music",
-        "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music",
-        "publishedAt": "2026-10-02T21:09:14+00:00",
+        "title": "Meta wants your next gadget to be Muse-infused",
+        "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget",
+        "publishedAt": "2026-10-03T00:45:39+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -731,6 +731,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-21"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-08"
   ]
 }
