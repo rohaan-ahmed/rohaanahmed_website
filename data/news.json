@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T23:00:25+00:00",
+  "generatedAt": "2026-10-03T00:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-02T23:00:25+00:00",
+      "updatedAt": "2026-10-03T00:00:29+00:00",
       "stories": [
         {
           "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
@@ -101,8 +101,20 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-02T23:00:25+00:00",
+      "updatedAt": "2026-10-03T00:00:29+00:00",
       "stories": [
+        {
+          "title": "Canada Rocket Company breaks ground on engine test site in London, Ont.",
+          "url": "https://spaceq.ca/canada-rocket-company-engine-test-facility-london",
+          "publishedAt": "2026-10-02T23:34:59+00:00",
+          "source": "SpaceQ"
+        },
+        {
+          "title": "The Weekly Close: NorthStar goes public, index edges higher",
+          "url": "https://spaceq.ca/the-weekly-close-october-2-2026",
+          "publishedAt": "2026-10-02T23:32:36+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Canadian Centre for Space Isotopes launches in Toronto",
           "url": "https://spaceq.ca/canadian-centre-for-space-isotopes",
@@ -158,18 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "SpaceX Transporter-18 to carry three Canadian satellites",
-          "url": "https://spaceq.ca/spacex-transporter-18-three-canadian-satellites",
-          "publishedAt": "2026-09-29T20:13:46+00:00",
-          "source": "SpaceQ"
-        },
-        {
-          "title": "Crew-13 launch rehearsal: Kutryk suits up two days before liftoff",
-          "url": "https://spaceq.ca/crew-13-launch-rehearsal-kutryk",
-          "publishedAt": "2026-09-29T16:49:24+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Launch of Canadian Space Agency astronaut Joshua Kutryk to the International Space Station",
           "url": "https://www.canada.ca/en/space-agency/news/2026/09/launch-of-canadian-space-agency-astronaut-joshua-kutryk-to-the-international-space-station.html",
           "publishedAt": "2026-09-29T20:19:38+00:00",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-02T23:00:25+00:00",
+      "updatedAt": "2026-10-03T00:00:29+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in Joint Expeditionary Force Defence Ministers’ Meeting in Iceland",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-02T23:00:25+00:00",
+      "updatedAt": "2026-10-03T00:00:29+00:00",
       "stories": [
         {
           "title": "Army to establish new autonomy command, acquisition executive",
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-02T23:00:25+00:00",
+      "updatedAt": "2026-10-03T00:00:29+00:00",
       "stories": [
         {
           "title": "Sean Parker is rebuilding Stability AI around music",
@@ -371,22 +371,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-          "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it",
-          "publishedAt": "2026-10-02T17:56:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Claude-shaped science (24 minute read)",
+          "url": "https://www.anthropic.com/research/claude-shaped-science",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-          "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house",
-          "publishedAt": "2026-10-02T17:48:16+00:00",
-          "source": "TechCrunch AI"
+          "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports (2 minute read)",
+          "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-          "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants",
-          "publishedAt": "2026-10-02T17:32:05+00:00",
-          "source": "TechCrunch AI"
+          "title": "Why Superintelligent Machines May Be Most Valuable Doing Routine Work (19 minute read)",
+          "url": "https://openai.com/index/the-eternal-complement",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Why Muse May Never Need Ads (10 minute read)",
+          "url": "https://www.mbi-deepdives.com/no-ads-muse",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform (10 minute read)",
+          "url": "https://blog.cloudflare.com/clef-decision-models",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Google Researchers Built an Agent for Automated Research (9 minute read)",
+          "url": "https://imhgchoi.github.io/agentic-idea-manager",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Gemini 4 Argon looks to return Google to the frontier",
@@ -405,32 +423,20 @@
           "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28",
           "publishedAt": "2026-09-30T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "The U.S. federal government gets an AI front door",
-          "url": "https://america.gov/",
-          "publishedAt": "2026-09-30T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic's Sonnet 5.5 nears Opus at half the price",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "publishedAt": "2026-09-29T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI leaders continue to sound the self-improving AI alarm",
-          "url": "https://casp.ac/reports/intelligence-explosion",
-          "publishedAt": "2026-09-29T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-02T23:00:25+00:00",
+      "updatedAt": "2026-10-03T00:00:29+00:00",
       "stories": [
+        {
+          "title": "Inside Omron’s next-generation LD mobile robots",
+          "url": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots",
+          "publishedAt": "2026-10-02T23:01:36+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness",
           "url": "https://www.therobotreport.com/eli-lilly-purdue-to-share-field-learnings-on-human-robot-interaction-at-robobusiness",
@@ -471,12 +477,6 @@
           "title": "Top 10 robotics stories of September 2026",
           "url": "https://www.therobotreport.com/top-10-robotics-stories-of-september-2026",
           "publishedAt": "2026-10-01T20:42:08+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Boston Dynamics drops pinkie on new humanoid hand",
-          "url": "https://www.therobotreport.com/boston-dynamics-drops-pinkie-on-new-humanoid-hand",
-          "publishedAt": "2026-10-01T17:52:51+00:00",
           "source": "The Robot Report"
         },
         {
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-02T23:00:25+00:00",
+    "updatedAt": "2026-10-03T00:00:29+00:00",
     "stories": [
       {
         "title": "Sean Parker is rebuilding Stability AI around music",
@@ -546,9 +546,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Canadian Centre for Space Isotopes launches in Toronto",
-        "url": "https://spaceq.ca/canadian-centre-for-space-isotopes",
-        "publishedAt": "2026-10-02T19:03:59+00:00",
+        "title": "Canada Rocket Company breaks ground on engine test site in London, Ont.",
+        "url": "https://spaceq.ca/canada-rocket-company-engine-test-facility-london",
+        "publishedAt": "2026-10-02T23:34:59+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -582,13 +582,31 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness",
-        "url": "https://www.therobotreport.com/eli-lilly-purdue-to-share-field-learnings-on-human-robot-interaction-at-robobusiness",
-        "publishedAt": "2026-10-02T21:12:14+00:00",
+        "title": "Inside Omron’s next-generation LD mobile robots",
+        "url": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots",
+        "publishedAt": "2026-10-02T23:01:36+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "The Weekly Close: NorthStar goes public, index edges higher",
+        "url": "https://spaceq.ca/the-weekly-close-october-2-2026",
+        "publishedAt": "2026-10-02T23:32:36+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Canadian Centre for Space Isotopes launches in Toronto",
+        "url": "https://spaceq.ca/canadian-centre-for-space-isotopes",
+        "publishedAt": "2026-10-02T19:03:59+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Crew-13 docking: Kutryk reaches station in under eight hours",
@@ -597,24 +615,6 @@
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "GDIT replaces longtime president Gilliland",
-        "url": "https://breakingdefense.com/2026/10/gdit-replaces-longtime-president-gilliland",
-        "publishedAt": "2026-10-02T20:18:22+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Runway introduces Praxis-1 world action model for robotics",
-        "url": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics",
-        "publishedAt": "2026-10-02T18:32:13+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -730,7 +730,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-18"
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
   ]
 }
