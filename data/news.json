@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T18:43:16+00:00",
+  "generatedAt": "2026-10-03T19:00:24+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-03T18:43:16+00:00",
+      "updatedAt": "2026-10-03T19:00:24+00:00",
       "stories": [
         {
           "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-03T18:43:16+00:00",
+      "updatedAt": "2026-10-03T19:00:24+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Joshua Kutryk aboard after record-fast docking",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-03T18:43:16+00:00",
+      "updatedAt": "2026-10-03T19:00:24+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in Joint Expeditionary Force Defence Ministers’ Meeting in Iceland",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-03T18:43:16+00:00",
+      "updatedAt": "2026-10-03T19:00:24+00:00",
       "stories": [
         {
           "title": "Army to establish new autonomy command, acquisition executive",
@@ -326,8 +326,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-03T18:43:16+00:00",
+      "updatedAt": "2026-10-03T19:00:24+00:00",
       "stories": [
+        {
+          "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+          "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
+          "publishedAt": "2026-10-03T18:43:57+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
           "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
@@ -338,12 +344,6 @@
           "title": "All the AI agents that can live in your text messages",
           "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
           "publishedAt": "2026-10-03T14:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Meta wants your next gadget to be Muse-infused",
-          "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget",
-          "publishedAt": "2026-10-03T00:45:39+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-03T18:43:16+00:00",
+      "updatedAt": "2026-10-03T19:00:24+00:00",
       "stories": [
         {
           "title": "The physical AI race will be won in the patent office",
@@ -519,21 +519,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-03T18:43:16+00:00",
+    "updatedAt": "2026-10-03T19:00:24+00:00",
     "stories": [
       {
-        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-        "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
-        "publishedAt": "2026-10-03T16:30:01+00:00",
+        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
+        "publishedAt": "2026-10-03T18:43:57+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "All the AI agents that can live in your text messages",
-        "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
-        "publishedAt": "2026-10-03T14:00:00+00:00",
+        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+        "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+        "publishedAt": "2026-10-03T16:30:01+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -585,6 +585,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "All the AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
+        "publishedAt": "2026-10-03T14:00:00+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Canada Rocket Company breaks ground on engine test site in London, Ont.",
         "url": "https://spaceq.ca/canada-rocket-company-engine-test-facility-london",
         "publishedAt": "2026-10-02T23:34:59+00:00",
@@ -597,15 +606,6 @@
         "title": "The Weekly Close: NorthStar goes public, index edges higher",
         "url": "https://spaceq.ca/the-weekly-close-october-2-2026",
         "publishedAt": "2026-10-02T23:32:36+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Canadian Centre for Space Isotopes launches in Toronto",
-        "url": "https://spaceq.ca/canadian-centre-for-space-isotopes",
-        "publishedAt": "2026-10-02T19:03:59+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
