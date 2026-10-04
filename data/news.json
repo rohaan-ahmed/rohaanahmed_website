@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T05:00:24+00:00",
+  "generatedAt": "2026-10-04T05:43:40+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-04T05:00:24+00:00",
+      "updatedAt": "2026-10-04T05:43:40+00:00",
       "stories": [
         {
           "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-04T05:00:24+00:00",
+      "updatedAt": "2026-10-04T05:43:40+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Joshua Kutryk aboard after record-fast docking",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-04T05:00:24+00:00",
+      "updatedAt": "2026-10-04T05:43:40+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in Joint Expeditionary Force Defence Ministers’ Meeting in Iceland",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-04T05:00:24+00:00",
+      "updatedAt": "2026-10-04T05:43:40+00:00",
       "stories": [
         {
           "title": "Army to establish new autonomy command, acquisition executive",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-04T05:00:24+00:00",
+      "updatedAt": "2026-10-04T05:43:40+00:00",
       "stories": [
         {
           "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
@@ -344,18 +344,6 @@
           "title": "All the AI agents that can live in your text messages",
           "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
           "publishedAt": "2026-10-03T14:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Meta wants your next gadget to be Muse-infused",
-          "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget",
-          "publishedAt": "2026-10-03T00:45:39+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Sean Parker is rebuilding Stability AI around music",
-          "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music",
-          "publishedAt": "2026-10-02T21:09:14+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -377,10 +365,40 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-          "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars",
-          "publishedAt": "2026-10-02T19:15:51+00:00",
-          "source": "TechCrunch AI"
+          "title": "Claude-shaped science (24 minute read)",
+          "url": "https://www.anthropic.com/research/claude-shaped-science",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports (2 minute read)",
+          "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Why Superintelligent Machines May Be Most Valuable Doing Routine Work (19 minute read)",
+          "url": "https://openai.com/index/the-eternal-complement",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Why Muse May Never Need Ads (10 minute read)",
+          "url": "https://www.mbi-deepdives.com/no-ads-muse",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform (10 minute read)",
+          "url": "https://blog.cloudflare.com/clef-decision-models",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Google Researchers Built an Agent for Automated Research (9 minute read)",
+          "url": "https://imhgchoi.github.io/agentic-idea-manager",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Gemini 4 Argon looks to return Google to the frontier",
@@ -399,31 +417,13 @@
           "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28",
           "publishedAt": "2026-09-30T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "The U.S. federal government gets an AI front door",
-          "url": "https://america.gov/",
-          "publishedAt": "2026-09-30T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic's Sonnet 5.5 nears Opus at half the price",
-          "url": "https://www.anthropic.com/claude-sonnet-5-5",
-          "publishedAt": "2026-09-29T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI leaders continue to sound the self-improving AI alarm",
-          "url": "https://casp.ac/reports/intelligence-explosion",
-          "publishedAt": "2026-09-29T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-04T05:00:24+00:00",
+      "updatedAt": "2026-10-04T05:43:40+00:00",
       "stories": [
         {
           "title": "The physical AI race will be won in the patent office",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-04T05:00:24+00:00",
+    "updatedAt": "2026-10-04T05:43:40+00:00",
     "stories": [
       {
         "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
@@ -724,7 +724,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-18"
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
   ]
 }
