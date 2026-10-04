@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-04T19:01:02+00:00",
+  "generatedAt": "2026-10-04T20:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-04T19:01:02+00:00",
+      "updatedAt": "2026-10-04T20:00:26+00:00",
       "stories": [
+        {
+          "title": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
+          "url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino",
+          "publishedAt": "2026-10-04T19:10:59+00:00",
+          "source": "NASA"
+        },
         {
           "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
           "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey",
@@ -16,12 +22,6 @@
           "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
           "url": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge",
           "publishedAt": "2026-10-03T04:05:00+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia",
-          "url": "https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia",
-          "publishedAt": "2026-10-02T19:54:54+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-04T19:01:02+00:00",
+      "updatedAt": "2026-10-04T20:00:26+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Joshua Kutryk aboard after record-fast docking",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-04T19:01:02+00:00",
+      "updatedAt": "2026-10-04T20:00:26+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in Joint Expeditionary Force Defence Ministers’ Meeting in Iceland",
@@ -229,8 +229,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-04T19:01:02+00:00",
+      "updatedAt": "2026-10-04T20:00:26+00:00",
       "stories": [
+        {
+          "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+          "url": "https://www.defensenews.com/global/mideast-africa/2026/10/04/yemeni-government-launches-offensive-to-seize-all-areas-from-iran-backed-houthis",
+          "publishedAt": "2026-10-04T19:50:12+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Army to establish new autonomy command, acquisition executive",
           "url": "https://breakingdefense.com/2026/10/army-to-establish-new-autonomy-command-acquisition-executive",
@@ -310,12 +316,6 @@
           "source": "Defense News"
         },
         {
-          "title": "US leaders send mixed messages to Indo-Pacific nations",
-          "url": "https://www.defensenews.com/global/asia-pacific/2026/10/02/us-leaders-send-mixed-messages-to-indo-pacific-nations",
-          "publishedAt": "2026-10-02T11:55:33+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "The Pentagon’s new cyber mastery incentive model promised a ‘new era.’ Troops are bracing for pay cuts.",
           "url": "https://defensescoop.com/2026/10/01/pentagon-new-cyber-mastery-incentive-model-troops-bracing-for-pay-cuts",
           "publishedAt": "2026-10-01T21:39:25+00:00",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-04T19:01:02+00:00",
+      "updatedAt": "2026-10-04T20:00:26+00:00",
       "stories": [
         {
           "title": "Trump unveils his new Super Intelligence Force",
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-04T19:01:02+00:00",
+      "updatedAt": "2026-10-04T20:00:26+00:00",
       "stories": [
         {
           "title": "How robotics and physical AI can responsibly tackle key physical security challenges",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-04T19:01:02+00:00",
+    "updatedAt": "2026-10-04T20:00:26+00:00",
     "stories": [
       {
         "title": "Trump unveils his new Super Intelligence Force",
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey",
-        "publishedAt": "2026-10-04T04:05:00+00:00",
+        "title": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
+        "url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino",
+        "publishedAt": "2026-10-04T19:10:59+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -567,10 +567,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Army to establish new autonomy command, acquisition executive",
-        "url": "https://breakingdefense.com/2026/10/army-to-establish-new-autonomy-command-acquisition-executive",
-        "publishedAt": "2026-10-02T21:46:37+00:00",
-        "source": "Breaking Defense",
+        "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/10/04/yemeni-government-launches-offensive-to-seize-all-areas-from-iran-backed-houthis",
+        "publishedAt": "2026-10-04T19:50:12+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -583,6 +583,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey",
+        "publishedAt": "2026-10-04T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "The physical AI race will be won in the patent office",
@@ -600,15 +609,6 @@
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Canada Rocket Company breaks ground on engine test site in London, Ont.",
-        "url": "https://spaceq.ca/canada-rocket-company-engine-test-facility-london",
-        "publishedAt": "2026-10-02T23:34:59+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
