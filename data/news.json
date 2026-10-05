@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T14:57:32+00:00",
+  "generatedAt": "2026-10-05T15:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-05T14:57:32+00:00",
+      "updatedAt": "2026-10-05T15:00:28+00:00",
       "stories": [
         {
           "title": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-05T14:57:32+00:00",
+      "updatedAt": "2026-10-05T15:00:28+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Joshua Kutryk aboard after record-fast docking",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-05T14:57:32+00:00",
+      "updatedAt": "2026-10-05T15:00:28+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in Joint Expeditionary Force Defence Ministers’ Meeting in Iceland",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-05T14:57:32+00:00",
+      "updatedAt": "2026-10-05T15:00:28+00:00",
       "stories": [
         {
           "title": "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-05T14:57:32+00:00",
+      "updatedAt": "2026-10-05T15:00:28+00:00",
       "stories": [
         {
           "title": "OpenAI's safety report lead quits over 'broken' culture",
@@ -335,6 +335,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026",
+          "publishedAt": "2026-10-05T15:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
           "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet",
           "publishedAt": "2026-10-05T14:35:09+00:00",
@@ -347,28 +353,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026",
-          "publishedAt": "2026-10-05T14:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Prime Inference: Fast, Reliable Serving for Frontier Open Models (18 minute read)",
+          "url": "https://www.primeintellect.ai/blog/prime-inference",
+          "publishedAt": "2026-10-05T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-          "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
-          "publishedAt": "2026-10-05T12:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Aleph Alpha releases open-weight Kolibri with 1M context (3 minute read)",
+          "url": "https://www.testingcatalog.com/aleph-alpha-releases-open-weight-kolibri-with-1m-context",
+          "publishedAt": "2026-10-05T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-          "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions",
-          "publishedAt": "2026-10-04T20:31:07+00:00",
-          "source": "TechCrunch AI"
+          "title": "Anthropic to invest $100 million to train AI engineer talent (3 minute read)",
+          "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
+          "publishedAt": "2026-10-05T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-          "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem",
-          "publishedAt": "2026-10-04T20:08:34+00:00",
-          "source": "TechCrunch AI"
+          "title": "How many AI agents could run on the AI chips shipped through 2027? (34 minute read)",
+          "url": "https://epoch.ai/publications/estimating-the-agent-population",
+          "publishedAt": "2026-10-05T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "AI21 uses Kueue to manage a 10,000-GPU fleet (15 minute read)",
+          "url": "https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue",
+          "publishedAt": "2026-10-05T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Smaller models are the future of AI sovereignty (10 minute read)",
+          "url": "https://katecarruthers.com/smaller-models-are-the-future-of-ai-sovereignty-2",
+          "publishedAt": "2026-10-05T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Tavus’ Griffin passes for human on video calls",
@@ -393,31 +411,13 @@
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon",
           "publishedAt": "2026-10-01T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI puts a 24/7 agent inside ChatGPT",
-          "url": "https://openai.com/index/devday-2026-recap",
-          "publishedAt": "2026-09-30T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic's doom-heavy IPO filing leaks",
-          "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28",
-          "publishedAt": "2026-09-30T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "The U.S. federal government gets an AI front door",
-          "url": "https://america.gov/",
-          "publishedAt": "2026-09-30T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-05T14:57:32+00:00",
+      "updatedAt": "2026-10-05T15:00:28+00:00",
       "stories": [
         {
           "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-05T14:57:32+00:00",
+    "updatedAt": "2026-10-05T15:00:28+00:00",
     "stories": [
       {
         "title": "OpenAI's safety report lead quits over 'broken' culture",
@@ -718,7 +718,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-21"
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
   ]
 }
