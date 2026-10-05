@@ -5,16 +5,16 @@
     <link>https://rohaanahmed.com/news.html</link>
     <description>An automatically curated news feed built around my areas of interest</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 05 Oct 2026 21:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 21:57:50 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <guid isPermaLink="false">fd1aee15b16e73555e4d6ce16f025c4bd2a1847e8554ee66e09d9cf509b92381</guid>
+      <guid isPermaLink="false">83749d61e499047553b3c09849ecaa656e4d1a4bfcc1dd9feaef7cc9d7f2e67d</guid>
       <title>International Space (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-space</link>
-      <pubDate>Mon, 05 Oct 2026 21:00:42 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 21:57:50 +0000</pubDate>
       <category>International Space</category>
       <description>Topic: International Space
-Updated: 2026-10-05T21:00:42+00:00
+Updated: 2026-10-05T21:57:50+00:00
 Stories: 15</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
@@ -69,7 +69,6 @@ Headline: Agile Space Industries Strengthens Board and Corporate Development to 
       <guid isPermaLink="false">741812cd4ef541bb05c61d2036c58e7ef1dea6fdcf2015514e62cfbc346da800</guid>
       <pubDate>Mon, 05 Oct 2026 18:28:00 +0000</pubDate>
       <category>International Space</category>
-      <category>Bulletin</category>
       <source url="https://www.esa.int/">European Space Agency</source>
       <description>Topic: International Space
 Source: European Space Agency
@@ -79,9 +78,27 @@ Headline: ESA at IAC 2026 – Day 1</description>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
       <ra:storyPosition>3</ra:storyPosition>
-      <ra:bulletinPosition>10</ra:bulletinPosition>
       <ra:publishedAt>2026-10-05T18:28:00+00:00</ra:publishedAt>
       <ra:sourceName>European Space Agency</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>NASA to Stream SpaceX Crew-12 Return, Splashdown Live</title>
+      <link>https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live</link>
+      <guid isPermaLink="false">78596b21c19448b8ce2108894eec679f9c581fd7b144bc03eccd1fd49f654ed3</guid>
+      <pubDate>Mon, 05 Oct 2026 21:44:40 +0000</pubDate>
+      <category>International Space</category>
+      <source url="https://www.nasa.gov/">NASA</source>
+      <description>Topic: International Space
+Source: NASA
+Published: 2026-10-05T21:44:40+00:00
+Headline: NASA to Stream SpaceX Crew-12 Return, Splashdown Live</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>4</ra:storyPosition>
+      <ra:publishedAt>2026-10-05T21:44:40+00:00</ra:publishedAt>
+      <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
@@ -98,7 +115,7 @@ Headline: NASA Astronaut Christina Koch at Eagles vs. Rams</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-10-05T17:42:56+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -117,27 +134,8 @@ Headline: NASA Testing Aims at Supercooled Large Droplet Aviation Safety</descri
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
-      <ra:publishedAt>2026-10-05T15:27:23+00:00</ra:publishedAt>
-      <ra:sourceName>NASA</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Suspected Second-generation Planet Solves NASA Hubble Cold Case</title>
-      <link>https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case</link>
-      <guid isPermaLink="false">802a55a60d99775fc7e1b235f895d0cf9b45d032c2d4afeddd4d932ce9823661</guid>
-      <pubDate>Mon, 05 Oct 2026 15:00:35 +0000</pubDate>
-      <category>International Space</category>
-      <source url="https://www.nasa.gov/">NASA</source>
-      <description>Topic: International Space
-Source: NASA
-Published: 2026-10-05T15:00:35+00:00
-Headline: Suspected Second-generation Planet Solves NASA Hubble Cold Case</description>
-      <ra:topicId>international-space</ra:topicId>
-      <ra:topicName>International Space</ra:topicName>
-      <ra:topicPosition>1</ra:topicPosition>
       <ra:storyPosition>6</ra:storyPosition>
-      <ra:publishedAt>2026-10-05T15:00:35+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-10-05T15:27:23+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -313,13 +311,13 @@ Headline: Galileo Space Is Building Satellites That Turn Signals Into Answers in
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">f5001d247254ec0fd69a3dec160ceebade26a92cf47a729414829c6305dde7c0</guid>
+      <guid isPermaLink="false">07195fe700dffbbd2e2130caea50b8617cfdce96b85aba5b0415a8c36382eaf6</guid>
       <title>Canadian Space (12 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
-      <pubDate>Mon, 05 Oct 2026 21:00:42 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 21:57:50 +0000</pubDate>
       <category>Canadian Space</category>
       <description>Topic: Canadian Space
-Updated: 2026-10-05T21:00:42+00:00
+Updated: 2026-10-05T21:57:50+00:00
 Stories: 12</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
@@ -557,13 +555,13 @@ Headline: Launch of Canadian Space Agency astronaut Joshua Kutryk to the Interna
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">6cbed468939ca0dd2cd7c80b9186c58891c3d9bbf35821baa48fdfe9782404d4</guid>
+      <guid isPermaLink="false">0d3c39a997a96fff7aa361e1060e0e707cca5ff18d18fcbe59d33b9908ec2584</guid>
       <title>Canadian Defence (6 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
-      <pubDate>Mon, 05 Oct 2026 21:00:42 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 21:57:50 +0000</pubDate>
       <category>Canadian Defence</category>
       <description>Topic: Canadian Defence
-Updated: 2026-10-05T21:00:42+00:00
+Updated: 2026-10-05T21:57:50+00:00
 Stories: 6</description>
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
@@ -687,18 +685,39 @@ Headline: Minister McGuinty meets with the Deputy Prime Minister and Minister of
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">1a63df595cd0cf5dcaa57d7d70319a874b740ffd4246e9d554cc1c3540f0ac46</guid>
+      <guid isPermaLink="false">7d6808378f74806f92084a4672298919f4a6688022b695676f3994068dbda7ca</guid>
       <title>International Defence Technology (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
-      <pubDate>Mon, 05 Oct 2026 21:00:42 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 21:57:50 +0000</pubDate>
       <category>International Defence Technology</category>
       <description>Topic: International Defence Technology
-Updated: 2026-10-05T21:00:42+00:00
+Updated: 2026-10-05T21:57:50+00:00
 Stories: 15</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
       <ra:kind>topic</ra:kind>
+    </item>
+    <item>
+      <title>Pentagon picks 4 vendors for counter-drone directed energy pilot program</title>
+      <link>https://breakingdefense.com/2026/10/pentagon-picks-4-vendors-for-counter-drone-directed-energy-pilot-program</link>
+      <guid isPermaLink="false">9ddc520fe11fb1a4d37d57a95980c29840be4a6dc519d0d7f15084a2e377e01a</guid>
+      <pubDate>Mon, 05 Oct 2026 21:51:21 +0000</pubDate>
+      <category>International Defence Technology</category>
+      <category>Bulletin</category>
+      <source url="https://breakingdefense.com/">Breaking Defense</source>
+      <description>Topic: International Defence Technology
+Source: Breaking Defense
+Published: 2026-10-05T21:51:21+00:00
+Headline: Pentagon picks 4 vendors for counter-drone directed energy pilot program</description>
+      <ra:topicId>international-defence-technology</ra:topicId>
+      <ra:topicName>International Defence Technology</ra:topicName>
+      <ra:topicPosition>4</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>6</ra:bulletinPosition>
+      <ra:publishedAt>2026-10-05T21:51:21+00:00</ra:publishedAt>
+      <ra:sourceName>Breaking Defense</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Boeing nabs potential $14.7 billion PAC-3 seeker contract</title>
@@ -715,8 +734,8 @@ Headline: Boeing nabs potential $14.7 billion PAC-3 seeker contract</description
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>6</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:bulletinPosition>9</ra:bulletinPosition>
       <ra:publishedAt>2026-10-05T20:21:58+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -736,8 +755,8 @@ Headline: US OKs missile guidance kits, Patriot repairs, Javelins for Middle Eas
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
-      <ra:bulletinPosition>9</ra:bulletinPosition>
+      <ra:storyPosition>3</ra:storyPosition>
+      <ra:bulletinPosition>10</ra:bulletinPosition>
       <ra:publishedAt>2026-10-05T19:39:32+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -756,7 +775,7 @@ Headline: Can Golden Dome truly succeed without logistics and sustainment in spa
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-10-05T18:21:56+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -775,27 +794,8 @@ Headline: Northrop logs first flight for self-funded drone wingman</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
       <ra:topicPosition>4</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
-      <ra:publishedAt>2026-10-05T17:52:56+00:00</ra:publishedAt>
-      <ra:sourceName>Breaking Defense</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Germany pledges $1.1B military aid package to Ukraine flush with drone interceptors</title>
-      <link>https://breakingdefense.com/2026/10/germany-pledges-1-1-b-military-aid-package-to-ukraine-flush-with-drone-interceptors</link>
-      <guid isPermaLink="false">1ebe2981f086f4ddf0e41eb9acfe739767705472ef3b7acf018a59e85091c30d</guid>
-      <pubDate>Mon, 05 Oct 2026 16:22:51 +0000</pubDate>
-      <category>International Defence Technology</category>
-      <source url="https://breakingdefense.com/">Breaking Defense</source>
-      <description>Topic: International Defence Technology
-Source: Breaking Defense
-Published: 2026-10-05T16:22:51+00:00
-Headline: Germany pledges $1.1B military aid package to Ukraine flush with drone interceptors</description>
-      <ra:topicId>international-defence-technology</ra:topicId>
-      <ra:topicName>International Defence Technology</ra:topicName>
-      <ra:topicPosition>4</ra:topicPosition>
       <ra:storyPosition>5</ra:storyPosition>
-      <ra:publishedAt>2026-10-05T16:22:51+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-10-05T17:52:56+00:00</ra:publishedAt>
       <ra:sourceName>Breaking Defense</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -990,13 +990,13 @@ Headline: Hegseth issues new directive to hasten U.S. military’s counter-drone
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">246d302018ca5300d2d89a2d82ba116dfac27adec31ed71282264bfe44af6edc</guid>
+      <guid isPermaLink="false">1144dc7b30b5be3d78a38aab9615499e638b63079881ac5ed0f16e147a529fc8</guid>
       <title>Artificial Intelligence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
-      <pubDate>Mon, 05 Oct 2026 21:00:42 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 21:57:50 +0000</pubDate>
       <category>Artificial Intelligence</category>
       <description>Topic: Artificial Intelligence
-Updated: 2026-10-05T21:00:42+00:00
+Updated: 2026-10-05T21:57:50+00:00
 Stories: 15</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
@@ -1103,117 +1103,60 @@ Headline: Instinct brings its AI agent to group chats, even for friends without 
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Prime Inference: Fast, Reliable Serving for Frontier Open Models (18 minute read)</title>
-      <link>https://www.primeintellect.ai/blog/prime-inference</link>
-      <guid isPermaLink="false">e092ff84cc261c4d7c4c100514fa7f9f99939a672cd317bc9eb830ddbecac07b</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <title>TikTok rolls out an AI shopping assistant and one-click checkout</title>
+      <link>https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout</link>
+      <guid isPermaLink="false">0fcf12703b4a3a5d1a1437ccb048c18c9c360611ec1958ee4e7bc6e18915186f</guid>
+      <pubDate>Mon, 05 Oct 2026 18:29:00 +0000</pubDate>
       <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
       <description>Topic: Artificial Intelligence
-Source: TLDR AI
-Published: 2026-10-05T00:00:00+00:00
-Headline: Prime Inference: Fast, Reliable Serving for Frontier Open Models (18 minute read)</description>
+Source: TechCrunch AI
+Published: 2026-10-05T18:29:00+00:00
+Headline: TikTok rolls out an AI shopping assistant and one-click checkout</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
       <ra:storyPosition>6</ra:storyPosition>
-      <ra:publishedAt>2026-10-05T00:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:publishedAt>2026-10-05T18:29:00+00:00</ra:publishedAt>
+      <ra:sourceName>TechCrunch AI</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Aleph Alpha releases open-weight Kolibri with 1M context (3 minute read)</title>
-      <link>https://www.testingcatalog.com/aleph-alpha-releases-open-weight-kolibri-with-1m-context</link>
-      <guid isPermaLink="false">718f36944e762f8226607033151e803b061b892152684f2421c07975316795b4</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Hot Girl Hotline is like ‘Dear Abby’ for the AI era</title>
+      <link>https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era</link>
+      <guid isPermaLink="false">dfcd27c8a56e5ed9d7aa32db654bcea65490bd0a328eb147368b01132f54770a</guid>
+      <pubDate>Mon, 05 Oct 2026 17:29:22 +0000</pubDate>
       <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
       <description>Topic: Artificial Intelligence
-Source: TLDR AI
-Published: 2026-10-05T00:00:00+00:00
-Headline: Aleph Alpha releases open-weight Kolibri with 1M context (3 minute read)</description>
+Source: TechCrunch AI
+Published: 2026-10-05T17:29:22+00:00
+Headline: Hot Girl Hotline is like ‘Dear Abby’ for the AI era</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
       <ra:storyPosition>7</ra:storyPosition>
-      <ra:publishedAt>2026-10-05T00:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:publishedAt>2026-10-05T17:29:22+00:00</ra:publishedAt>
+      <ra:sourceName>TechCrunch AI</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Anthropic to invest $100 million to train AI engineer talent (3 minute read)</title>
-      <link>https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html</link>
-      <guid isPermaLink="false">0017483b5f942a339f2a1199f0858a3dfa7fa22a4ad25e70d412cee41a8eb9a0</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <title>HackerRank’s AI interviewer offers a glimpse into what job interviews could become</title>
+      <link>https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become</link>
+      <guid isPermaLink="false">7769f98c821de699d7f051bdb6424078b19ec5301bc0636bd6e44da9558578d1</guid>
+      <pubDate>Mon, 05 Oct 2026 16:43:35 +0000</pubDate>
       <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
+      <source url="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</source>
       <description>Topic: Artificial Intelligence
-Source: TLDR AI
-Published: 2026-10-05T00:00:00+00:00
-Headline: Anthropic to invest $100 million to train AI engineer talent (3 minute read)</description>
+Source: TechCrunch AI
+Published: 2026-10-05T16:43:35+00:00
+Headline: HackerRank’s AI interviewer offers a glimpse into what job interviews could become</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
       <ra:storyPosition>8</ra:storyPosition>
-      <ra:publishedAt>2026-10-05T00:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>TLDR AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>How many AI agents could run on the AI chips shipped through 2027? (34 minute read)</title>
-      <link>https://epoch.ai/publications/estimating-the-agent-population</link>
-      <guid isPermaLink="false">f311720d23cc9e5a8950cb391272ed21b2413e102a17b4bdfcc62c10526a12af</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
-      <description>Topic: Artificial Intelligence
-Source: TLDR AI
-Published: 2026-10-05T00:00:00+00:00
-Headline: How many AI agents could run on the AI chips shipped through 2027? (34 minute read)</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>9</ra:storyPosition>
-      <ra:publishedAt>2026-10-05T00:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>TLDR AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>AI21 uses Kueue to manage a 10,000-GPU fleet (15 minute read)</title>
-      <link>https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue</link>
-      <guid isPermaLink="false">ac97d220b9ebe71a3ccafb5e73e31b889a2417120040591df786d8455f045942</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
-      <description>Topic: Artificial Intelligence
-Source: TLDR AI
-Published: 2026-10-05T00:00:00+00:00
-Headline: AI21 uses Kueue to manage a 10,000-GPU fleet (15 minute read)</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
-      <ra:publishedAt>2026-10-05T00:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>TLDR AI</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Smaller models are the future of AI sovereignty (10 minute read)</title>
-      <link>https://katecarruthers.com/smaller-models-are-the-future-of-ai-sovereignty-2</link>
-      <guid isPermaLink="false">fb29d4526d0f22185d39849e32a0ea78f335bcfc7f01d367973c3132c653beef</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Artificial Intelligence</category>
-      <source url="https://tldr.tech/ai">TLDR AI</source>
-      <description>Topic: Artificial Intelligence
-Source: TLDR AI
-Published: 2026-10-05T00:00:00+00:00
-Headline: Smaller models are the future of AI sovereignty (10 minute read)</description>
-      <ra:topicId>artificial-intelligence</ra:topicId>
-      <ra:topicName>Artificial Intelligence</ra:topicName>
-      <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>11</ra:storyPosition>
-      <ra:publishedAt>2026-10-05T00:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>TLDR AI</ra:sourceName>
+      <ra:publishedAt>2026-10-05T16:43:35+00:00</ra:publishedAt>
+      <ra:sourceName>TechCrunch AI</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
@@ -1230,7 +1173,7 @@ Headline: Tavus’ Griffin passes for human on video calls</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>12</ra:storyPosition>
+      <ra:storyPosition>9</ra:storyPosition>
       <ra:publishedAt>2026-10-02T09:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1249,7 +1192,7 @@ Headline: My recurring AI performance review</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>13</ra:storyPosition>
+      <ra:storyPosition>10</ra:storyPosition>
       <ra:publishedAt>2026-10-02T09:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1268,7 +1211,7 @@ Headline: Google’s AI watermarks cross into the lab</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>14</ra:storyPosition>
+      <ra:storyPosition>11</ra:storyPosition>
       <ra:publishedAt>2026-10-02T09:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1287,19 +1230,76 @@ Headline: Gemini 4 Argon looks to return Google to the frontier</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
-      <ra:storyPosition>15</ra:storyPosition>
+      <ra:storyPosition>12</ra:storyPosition>
       <ra:publishedAt>2026-10-01T09:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">414f66faa1cf2a018a7339ccd147735122258a1527cce0ddc259933682a73187</guid>
+      <title>OpenAI puts a 24/7 agent inside ChatGPT</title>
+      <link>https://openai.com/index/devday-2026-recap</link>
+      <guid isPermaLink="false">4e6a59ada1cb9dfad3f4ff9f12e37f7556f4480a95477d3b9181c4990752f169</guid>
+      <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://www.therundown.ai/">The Rundown AI</source>
+      <description>Topic: Artificial Intelligence
+Source: The Rundown AI
+Published: 2026-09-30T09:00:00+00:00
+Headline: OpenAI puts a 24/7 agent inside ChatGPT</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>13</ra:storyPosition>
+      <ra:publishedAt>2026-09-30T09:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>The Rundown AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>Anthropic's doom-heavy IPO filing leaks</title>
+      <link>https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28</link>
+      <guid isPermaLink="false">08a68b50b8c4bbb85f2c606d9a3ccecf76fa10e4928a8230da1127d3c21badde</guid>
+      <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://www.therundown.ai/">The Rundown AI</source>
+      <description>Topic: Artificial Intelligence
+Source: The Rundown AI
+Published: 2026-09-30T09:00:00+00:00
+Headline: Anthropic's doom-heavy IPO filing leaks</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>14</ra:storyPosition>
+      <ra:publishedAt>2026-09-30T09:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>The Rundown AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <title>The U.S. federal government gets an AI front door</title>
+      <link>https://america.gov/</link>
+      <guid isPermaLink="false">de3d21e2f8a2962c4dfe3eefefa518e84eecbf3da01e2a332916846c4ab8d68a</guid>
+      <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <source url="https://www.therundown.ai/">The Rundown AI</source>
+      <description>Topic: Artificial Intelligence
+Source: The Rundown AI
+Published: 2026-09-30T09:00:00+00:00
+Headline: The U.S. federal government gets an AI front door</description>
+      <ra:topicId>artificial-intelligence</ra:topicId>
+      <ra:topicName>Artificial Intelligence</ra:topicName>
+      <ra:topicPosition>5</ra:topicPosition>
+      <ra:storyPosition>15</ra:storyPosition>
+      <ra:publishedAt>2026-09-30T09:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>The Rundown AI</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
+      <guid isPermaLink="false">ee58dc16dd682d5794f075de73b99050c41433b9e6b9dbb706287242e15166e4</guid>
       <title>Robotics (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-robotics</link>
-      <pubDate>Mon, 05 Oct 2026 21:00:42 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 21:57:50 +0000</pubDate>
       <category>Robotics</category>
       <description>Topic: Robotics
-Updated: 2026-10-05T21:00:42+00:00
+Updated: 2026-10-05T21:57:50+00:00
 Stories: 15</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
