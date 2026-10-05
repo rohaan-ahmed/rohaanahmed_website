@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-05T12:00:24+00:00",
+  "generatedAt": "2026-10-05T13:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-05T12:00:24+00:00",
+      "updatedAt": "2026-10-05T13:00:30+00:00",
       "stories": [
+        {
+          "title": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
+          "url": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth",
+          "publishedAt": "2026-10-05T12:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
           "url": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams",
@@ -89,19 +95,13 @@
           "url": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier",
           "publishedAt": "2026-09-30T15:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
-          "url": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission",
-          "publishedAt": "2026-09-30T13:00:00+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-05T12:00:24+00:00",
+      "updatedAt": "2026-10-05T13:00:30+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Joshua Kutryk aboard after record-fast docking",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-05T12:00:24+00:00",
+      "updatedAt": "2026-10-05T13:00:30+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in Joint Expeditionary Force Defence Ministers’ Meeting in Iceland",
@@ -223,8 +223,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-05T12:00:24+00:00",
+      "updatedAt": "2026-10-05T13:00:30+00:00",
       "stories": [
+        {
+          "title": "US Marine Corps anti-ship weaponry to see exercise action on remote Japan island near Taiwan",
+          "url": "https://www.defensenews.com/global/asia-pacific/2026/10/05/us-marine-corps-anti-ship-weaponry-to-see-exercise-action-on-remote-japan-island-near-taiwan",
+          "publishedAt": "2026-10-05T12:24:45+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Missiles, satellites and warplanes — Ukraine, Europe advance key arms projects",
           "url": "https://www.defensenews.com/global/europe/2026/10/05/missiles-satellites-and-warplanes-ukraine-europe-advance-key-arms-projects",
@@ -304,12 +310,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Ukraine war fatigue fuels defense-spending downgrade plan in Italy",
-          "url": "https://www.defensenews.com/global/europe/2026/10/02/ukraine-war-fatigue-fuels-defense-spending-downgrade-plan-in-italy",
-          "publishedAt": "2026-10-02T15:29:29+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "The Pentagon’s new cyber mastery incentive model promised a ‘new era.’ Troops are bracing for pay cuts.",
           "url": "https://defensescoop.com/2026/10/01/pentagon-new-cyber-mastery-incentive-model-troops-bracing-for-pay-cuts",
           "publishedAt": "2026-10-01T21:39:25+00:00",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-05T12:00:24+00:00",
+      "updatedAt": "2026-10-05T13:00:30+00:00",
       "stories": [
         {
           "title": "OpenAI's safety report lead quits over 'broken' culture",
@@ -335,6 +335,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
+          "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
+          "publishedAt": "2026-10-05T12:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
           "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions",
           "publishedAt": "2026-10-04T20:31:07+00:00",
@@ -344,30 +350,6 @@
           "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
           "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem",
           "publishedAt": "2026-10-04T20:08:34+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Trump unveils his new Super Intelligence Force",
-          "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force",
-          "publishedAt": "2026-10-04T15:15:10+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-          "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
-          "publishedAt": "2026-10-03T18:43:57+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-          "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
-          "publishedAt": "2026-10-03T16:30:01+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "All the AI agents that can live in your text messages",
-          "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
-          "publishedAt": "2026-10-03T14:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -389,27 +371,45 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Claude-shaped science (24 minute read)",
+          "url": "https://www.anthropic.com/research/claude-shaped-science",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports (2 minute read)",
+          "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Why Superintelligent Machines May Be Most Valuable Doing Routine Work (19 minute read)",
+          "url": "https://openai.com/index/the-eternal-complement",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Why Muse May Never Need Ads (10 minute read)",
+          "url": "https://www.mbi-deepdives.com/no-ads-muse",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform (10 minute read)",
+          "url": "https://blog.cloudflare.com/clef-decision-models",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Google Researchers Built an Agent for Automated Research (9 minute read)",
+          "url": "https://imhgchoi.github.io/agentic-idea-manager",
+          "publishedAt": "2026-10-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Gemini 4 Argon looks to return Google to the frontier",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon",
           "publishedAt": "2026-10-01T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI puts a 24/7 agent inside ChatGPT",
-          "url": "https://openai.com/index/devday-2026-recap",
-          "publishedAt": "2026-09-30T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic's doom-heavy IPO filing leaks",
-          "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28",
-          "publishedAt": "2026-09-30T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "The U.S. federal government gets an AI front door",
-          "url": "https://america.gov/",
-          "publishedAt": "2026-09-30T09:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-05T12:00:24+00:00",
+      "updatedAt": "2026-10-05T13:00:30+00:00",
       "stories": [
         {
           "title": "How robotics and physical AI can responsibly tackle key physical security challenges",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-05T12:00:24+00:00",
+    "updatedAt": "2026-10-05T13:00:30+00:00",
     "stories": [
       {
         "title": "OpenAI's safety report lead quits over 'broken' culture",
@@ -543,10 +543,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams",
-        "publishedAt": "2026-10-05T04:05:00+00:00",
-        "source": "NASA",
+        "title": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
+        "url": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth",
+        "publishedAt": "2026-10-05T12:00:00+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Missiles, satellites and warplanes — Ukraine, Europe advance key arms projects",
-        "url": "https://www.defensenews.com/global/europe/2026/10/05/missiles-satellites-and-warplanes-ukraine-europe-advance-key-arms-projects",
-        "publishedAt": "2026-10-05T10:36:55+00:00",
+        "title": "US Marine Corps anti-ship weaponry to see exercise action on remote Japan island near Taiwan",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/10/05/us-marine-corps-anti-ship-weaponry-to-see-exercise-action-on-remote-japan-island-near-taiwan",
+        "publishedAt": "2026-10-05T12:24:45+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -579,27 +579,27 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "US removes B-1 bombers from UK base amid security concerns",
-        "url": "https://www.defensenews.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns",
-        "publishedAt": "2026-10-05T07:40:09+00:00",
+        "title": "Missiles, satellites and warplanes — Ukraine, Europe advance key arms projects",
+        "url": "https://www.defensenews.com/global/europe/2026/10/05/missiles-satellites-and-warplanes-ukraine-europe-advance-key-arms-projects",
+        "publishedAt": "2026-10-05T10:36:55+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Moon-Like Madagascar",
-        "url": "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar",
-        "publishedAt": "2026-10-05T04:01:00+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
+        "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
+        "publishedAt": "2026-10-05T12:00:00+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
-        "url": "https://www.defensenews.com/global/mideast-africa/2026/10/04/yemeni-government-launches-offensive-to-seize-all-areas-from-iran-backed-houthis",
-        "publishedAt": "2026-10-04T19:50:12+00:00",
+        "title": "US removes B-1 bombers from UK base amid security concerns",
+        "url": "https://www.defensenews.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns",
+        "publishedAt": "2026-10-05T07:40:09+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -718,7 +718,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-21"
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
   ]
 }
