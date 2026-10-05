@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T15:00:28+00:00",
+  "generatedAt": "2026-10-05T16:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-05T15:00:28+00:00",
+      "updatedAt": "2026-10-05T16:00:30+00:00",
       "stories": [
         {
           "title": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
@@ -13,21 +13,21 @@
           "source": "SpaceNews"
         },
         {
+          "title": "NASA Testing Aims at Supercooled Large Droplet Aviation Safety",
+          "url": "https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety",
+          "publishedAt": "2026-10-05T15:27:23+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Suspected Second-generation Planet Solves NASA Hubble Cold Case",
+          "url": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case",
+          "publishedAt": "2026-10-05T15:00:35+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "Contacting NASA’s Langley Research Center",
           "url": "https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center",
           "publishedAt": "2026-10-05T14:50:39+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
-          "url": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams",
-          "publishedAt": "2026-10-05T04:05:00+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Moon-Like Madagascar",
-          "url": "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar",
-          "publishedAt": "2026-10-05T04:01:00+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-05T15:00:28+00:00",
+      "updatedAt": "2026-10-05T16:00:30+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Joshua Kutryk aboard after record-fast docking",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-05T15:00:28+00:00",
+      "updatedAt": "2026-10-05T16:00:30+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in Joint Expeditionary Force Defence Ministers’ Meeting in Iceland",
@@ -223,8 +223,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-05T15:00:28+00:00",
+      "updatedAt": "2026-10-05T16:00:30+00:00",
       "stories": [
+        {
+          "title": "US Army tests counter-drone tech at Mexican border as cartel drone use rises",
+          "url": "https://www.defensenews.com/news/your-military/2026/10/05/us-army-tests-counter-drone-tech-at-mexican-border-as-cartel-drone-use-rises",
+          "publishedAt": "2026-10-05T15:31:00+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts",
           "url": "https://www.defensenews.com/global/europe/2026/10/05/european-defense-startups-to-raise-record-105-billion-in-2026-dealroom-forecasts",
@@ -250,15 +256,15 @@
           "source": "Defense News"
         },
         {
+          "title": "After developing Pentagon’s counter-drone marketplace, Kaizen nabs $49M IDIQ from Army with first task order for classified work",
+          "url": "https://defensescoop.com/2026/10/05/kaizen-49m-contract-army-task-order-classified-work",
+          "publishedAt": "2026-10-05T15:00:00+00:00",
+          "source": "DefenseScoop"
+        },
+        {
           "title": "Missiles, satellites and warplanes — Ukraine, Europe advance key arms projects",
           "url": "https://www.defensenews.com/global/europe/2026/10/05/missiles-satellites-and-warplanes-ukraine-europe-advance-key-arms-projects",
           "publishedAt": "2026-10-05T10:36:55+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "US removes B-1 bombers from UK base amid security concerns",
-          "url": "https://www.defensenews.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns",
-          "publishedAt": "2026-10-05T07:40:09+00:00",
           "source": "Defense News"
         },
         {
@@ -308,19 +314,13 @@
           "url": "https://defensescoop.com/2026/10/02/travis-metz-diu-owen-west-autowarcom-pete-hegseth",
           "publishedAt": "2026-10-02T20:29:44+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "The Pentagon’s new cyber mastery incentive model promised a ‘new era.’ Troops are bracing for pay cuts.",
-          "url": "https://defensescoop.com/2026/10/01/pentagon-new-cyber-mastery-incentive-model-troops-bracing-for-pay-cuts",
-          "publishedAt": "2026-10-01T21:39:25+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-05T15:00:28+00:00",
+      "updatedAt": "2026-10-05T16:00:30+00:00",
       "stories": [
         {
           "title": "OpenAI's safety report lead quits over 'broken' culture",
@@ -335,6 +335,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "OpenAI launches visual ads that appear alongside image generation results",
+          "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results",
+          "publishedAt": "2026-10-05T15:14:24+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
           "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026",
           "publishedAt": "2026-10-05T15:00:00+00:00",
@@ -344,12 +350,6 @@
           "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
           "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet",
           "publishedAt": "2026-10-05T14:35:09+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026",
-          "publishedAt": "2026-10-05T14:30:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-05T15:00:28+00:00",
+      "updatedAt": "2026-10-05T16:00:30+00:00",
       "stories": [
         {
           "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
@@ -480,6 +480,12 @@
           "source": "TechCrunch Robotics"
         },
         {
+          "title": "Top 10 robotics stories of September 2026",
+          "url": "https://www.therobotreport.com/top-10-robotics-stories-of-september-2026",
+          "publishedAt": "2026-10-01T20:42:08+00:00",
+          "source": "The Robot Report"
+        },
+        {
           "title": "Atlas Robot’s New Hand May Outperform Humanlike Designs",
           "url": "https://spectrum.ieee.org/robust-robot-hand",
           "publishedAt": "2026-10-01T14:40:12+00:00",
@@ -502,18 +508,12 @@
           "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
           "publishedAt": "2026-09-28T21:48:56+00:00",
           "source": "IEEE Spectrum Robotics"
-        },
-        {
-          "title": "Video Friday: Life’s Better With a Little Robot Goose",
-          "url": "https://spectrum.ieee.org/video-friday-goose-household-robots",
-          "publishedAt": "2026-09-25T16:00:04+00:00",
-          "source": "IEEE Spectrum Robotics"
         }
       ]
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-05T15:00:28+00:00",
+    "updatedAt": "2026-10-05T16:00:30+00:00",
     "stories": [
       {
         "title": "OpenAI's safety report lead quits over 'broken' culture",
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts",
-        "url": "https://www.defensenews.com/global/europe/2026/10/05/european-defense-startups-to-raise-record-105-billion-in-2026-dealroom-forecasts",
-        "publishedAt": "2026-10-05T14:54:11+00:00",
+        "title": "US Army tests counter-drone tech at Mexican border as cartel drone use rises",
+        "url": "https://www.defensenews.com/news/your-military/2026/10/05/us-army-tests-counter-drone-tech-at-mexican-border-as-cartel-drone-use-rises",
+        "publishedAt": "2026-10-05T15:31:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -579,6 +579,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts",
+        "url": "https://www.defensenews.com/global/europe/2026/10/05/european-defense-startups-to-raise-record-105-billion-in-2026-dealroom-forecasts",
+        "publishedAt": "2026-10-05T14:54:11+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "What are humanoid robots actually for on the battlefield?",
         "url": "https://breakingdefense.com/2026/10/what-are-humanoid-robots-actually-for-on-the-battlefield",
         "publishedAt": "2026-10-05T13:45:33+00:00",
@@ -591,15 +600,6 @@
         "title": "Germany to set up first drone regiment next year, modeled after Ukraine war lessons",
         "url": "https://www.defensenews.com/global/europe/2026/10/05/germany-to-set-up-first-drone-regiment-next-year-modeled-after-ukraine-war-lessons",
         "publishedAt": "2026-10-05T14:01:14+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "US Marine Corps anti-ship weaponry to see exercise action on remote Japan island near Taiwan",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/10/05/us-marine-corps-anti-ship-weaponry-to-see-exercise-action-on-remote-japan-island-near-taiwan",
-        "publishedAt": "2026-10-05T12:24:45+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
