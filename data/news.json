@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T10:00:28+00:00",
+  "generatedAt": "2026-10-05T11:01:01+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-05T10:00:28+00:00",
+      "updatedAt": "2026-10-05T11:01:01+00:00",
       "stories": [
         {
           "title": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-05T10:00:28+00:00",
+      "updatedAt": "2026-10-05T11:01:01+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Joshua Kutryk aboard after record-fast docking",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-05T10:00:28+00:00",
+      "updatedAt": "2026-10-05T11:01:01+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in Joint Expeditionary Force Defence Ministers’ Meeting in Iceland",
@@ -223,8 +223,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-05T10:00:28+00:00",
+      "updatedAt": "2026-10-05T11:01:01+00:00",
       "stories": [
+        {
+          "title": "Missiles, satellites and warplanes — Ukraine, Europe advance key arms projects",
+          "url": "https://www.defensenews.com/global/europe/2026/10/05/missiles-satellites-and-warplanes-ukraine-europe-advance-key-arms-projects",
+          "publishedAt": "2026-10-05T10:36:55+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "US removes B-1 bombers from UK base amid security concerns",
           "url": "https://www.defensenews.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns",
@@ -304,12 +310,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Taiwan’s first two F-16V fighter jets arrive to bolster defenses against China",
-          "url": "https://www.defensenews.com/global/asia-pacific/2026/10/02/taiwans-first-two-f-16v-fighter-jets-arrive-to-bolster-defenses-against-china",
-          "publishedAt": "2026-10-02T14:15:53+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "The Pentagon’s new cyber mastery incentive model promised a ‘new era.’ Troops are bracing for pay cuts.",
           "url": "https://defensescoop.com/2026/10/01/pentagon-new-cyber-mastery-incentive-model-troops-bracing-for-pay-cuts",
           "publishedAt": "2026-10-01T21:39:25+00:00",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-05T10:00:28+00:00",
+      "updatedAt": "2026-10-05T11:01:01+00:00",
       "stories": [
         {
           "title": "OpenAI's safety report lead quits over 'broken' culture",
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-05T10:00:28+00:00",
+      "updatedAt": "2026-10-05T11:01:01+00:00",
       "stories": [
         {
           "title": "How robotics and physical AI can responsibly tackle key physical security challenges",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-05T10:00:28+00:00",
+    "updatedAt": "2026-10-05T11:01:01+00:00",
     "stories": [
       {
         "title": "OpenAI's safety report lead quits over 'broken' culture",
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "US removes B-1 bombers from UK base amid security concerns",
-        "url": "https://www.defensenews.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns",
-        "publishedAt": "2026-10-05T07:40:09+00:00",
+        "title": "Missiles, satellites and warplanes — Ukraine, Europe advance key arms projects",
+        "url": "https://www.defensenews.com/global/europe/2026/10/05/missiles-satellites-and-warplanes-ukraine-europe-advance-key-arms-projects",
+        "publishedAt": "2026-10-05T10:36:55+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -577,6 +577,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "US removes B-1 bombers from UK base amid security concerns",
+        "url": "https://www.defensenews.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns",
+        "publishedAt": "2026-10-05T07:40:09+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Moon-Like Madagascar",
@@ -594,15 +603,6 @@
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
-        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek",
-        "publishedAt": "2026-10-04T21:13:07+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -719,6 +719,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-16"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-22"
   ]
 }
