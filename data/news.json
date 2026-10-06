@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-10-06T15:00:28+00:00",
+  "generatedAt": "2026-10-06T15:52:17+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-06T15:00:28+00:00",
+      "updatedAt": "2026-10-06T15:52:17+00:00",
       "stories": [
+        {
+          "title": "ESA at IAC 2026 – Day 2",
+          "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_2",
+          "publishedAt": "2026-10-06T14:37:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "Webb captures commotion from nebula’s stellar jets",
           "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets",
           "publishedAt": "2026-10-06T13:00:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "NASA’s Curiosity Rover Catches Stunning Martian Dawn",
+          "url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn",
+          "publishedAt": "2026-10-06T15:30:07+00:00",
+          "source": "NASA"
         },
         {
           "title": "European rover trains for Mars in the desert",
@@ -41,18 +53,6 @@
           "url": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth",
           "publishedAt": "2026-10-05T12:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Curiosity Blog, Sols 5029-5035: Back in the Lab",
-          "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab",
-          "publishedAt": "2026-10-06T01:04:01+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "ESA at IAC 2026 – Day 1",
-          "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_1",
-          "publishedAt": "2026-10-05T18:28:00+00:00",
-          "source": "European Space Agency"
         },
         {
           "title": "Week in images: 28 Sep - 2 Oct 2026",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-06T15:00:28+00:00",
+      "updatedAt": "2026-10-06T15:52:17+00:00",
       "stories": [
         {
           "title": "With Kutryk in space, next up is launching a Canadian space strategy",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-06T15:00:28+00:00",
+      "updatedAt": "2026-10-06T15:52:17+00:00",
       "stories": [
         {
           "title": "Canadian Army Reorganizes to Strengthen Canada’s Defence",
@@ -223,13 +223,19 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-06T15:00:28+00:00",
+      "updatedAt": "2026-10-06T15:52:17+00:00",
       "stories": [
         {
-          "title": "Australia’s Guided Weapons and Munitions effort makes progress, but risks remain",
+          "title": "Australia’s guided weapons and munitions effort makes progress, but risks remain",
           "url": "https://breakingdefense.com/2026/10/australias-guided-weapons-and-munitions-effort-makes-progress-but-risks-remain",
           "publishedAt": "2026-10-06T14:54:03+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Northrop Grumman’s YFQ-48A CCA completes first fully autonomous flight",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/northrop-grummans-yfq-48a-cca-completes-first-fully-autonomous-flight",
+          "publishedAt": "2026-10-06T15:46:33+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Unpacking Boeing’s F/A-XX win, plus a report from wartime Ukraine",
@@ -292,12 +298,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "US Army tests counter-drone tech at Mexican border as cartel drone use rises",
-          "url": "https://www.defensenews.com/news/your-military/2026/10/05/us-army-tests-counter-drone-tech-at-mexican-border-as-cartel-drone-use-rises",
-          "publishedAt": "2026-10-05T15:31:00+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "7th Air Force seeks new counter-drone capabilities for point defense modernization in South Korea",
           "url": "https://defensescoop.com/2026/10/05/air-force-counter-drone-point-defense-modernization-south-korea",
           "publishedAt": "2026-10-05T17:25:32+00:00",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-06T15:00:28+00:00",
+      "updatedAt": "2026-10-06T15:52:17+00:00",
       "stories": [
         {
           "title": "Reflection AI enters the open-model race",
@@ -341,6 +341,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "LibreOffice says ‘no AI’ is now a software feature",
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+          "publishedAt": "2026-10-06T15:25:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
           "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals",
           "publishedAt": "2026-10-06T14:33:16+00:00",
@@ -359,42 +365,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Instinct in group chats (1 minute read)",
-          "url": "https://x.com/noahrshinn/status/2107161132192690558",
-          "publishedAt": "2026-10-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "OpenAI in $30 Billion Round Talks With UAE Funds, BlackRock (3 minute read)",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-05/openai-in-talks-with-uae-funds-blackrock-for-30-billion-round?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTI1MzgzNiwiZXhwIjoxNzkxODU4NjM2LCJhcnRpY2xlSWQiOiJUTUZUQ1lWVFRDWlgwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.vS73_YQLDTKfkP47Ng4A03lSGOWrQB5ypl8y3nr5r2A",
-          "publishedAt": "2026-10-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How Devin's Memory and Dreaming Work (4 minute read)",
-          "url": "https://devin.ai/blog/memory-and-dreaming",
-          "publishedAt": "2026-10-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How to Build an AI-Native Software Factory (19 minute read)",
-          "url": "https://www.theaithinker.com/p/how-to-build-an-ai-native-software",
-          "publishedAt": "2026-10-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "OpenAI's B2B Marketplace: The Hyperscaler Of AI Apps (6 minute read)",
-          "url": "https://www.akashbajwa.co/p/openais-b2b-marketplace-the-hyperscaler",
-          "publishedAt": "2026-10-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Framefields (GitHub Repo)",
-          "url": "https://github.com/gatewai-dev/framefields",
-          "publishedAt": "2026-10-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "OpenAI's safety report lead quits over 'broken' culture",
           "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
           "publishedAt": "2026-10-05T09:00:00+00:00",
@@ -407,9 +377,39 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+          "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu",
+          "publishedAt": "2026-10-05T20:36:48+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+          "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost",
+          "publishedAt": "2026-10-05T19:33:53+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Tavus’ Griffin passes for human on video calls",
           "url": "https://www.tavus.io/griffin",
           "publishedAt": "2026-10-02T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "My recurring AI performance review",
+          "url": "https://docs.google.com/document/d/13R_bKjJt--z5UGBIigqU0sCYj2-gB5shhfty2pX5PHg/edit?usp=sharing",
+          "publishedAt": "2026-10-02T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Google’s AI watermarks cross into the lab",
+          "url": "https://deepmind.google/blog/introducing-synthid-bio",
+          "publishedAt": "2026-10-02T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Gemini 4 Argon looks to return Google to the frontier",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon",
+          "publishedAt": "2026-10-01T09:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-06T15:00:28+00:00",
+      "updatedAt": "2026-10-06T15:52:17+00:00",
       "stories": [
         {
           "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-06T15:00:28+00:00",
+    "updatedAt": "2026-10-06T15:52:17+00:00",
     "stories": [
       {
         "title": "Reflection AI enters the open-model race",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Webb captures commotion from nebula’s stellar jets",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets",
-        "publishedAt": "2026-10-06T13:00:00+00:00",
+        "title": "ESA at IAC 2026 – Day 2",
+        "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_2",
+        "publishedAt": "2026-10-06T14:37:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -561,7 +561,7 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Australia’s Guided Weapons and Munitions effort makes progress, but risks remain",
+        "title": "Australia’s guided weapons and munitions effort makes progress, but risks remain",
         "url": "https://breakingdefense.com/2026/10/australias-guided-weapons-and-munitions-effort-makes-progress-but-risks-remain",
         "publishedAt": "2026-10-06T14:54:03+00:00",
         "source": "Breaking Defense",
@@ -588,19 +588,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Unpacking Boeing’s F/A-XX win, plus a report from wartime Ukraine",
-        "url": "https://breakingdefense.com/2026/10/unpacking-boeings-f-a-xx-win-plus-a-report-from-wartime-ukraine",
-        "publishedAt": "2026-10-06T14:05:00+00:00",
-        "source": "Breaking Defense",
+        "title": "Northrop Grumman’s YFQ-48A CCA completes first fully autonomous flight",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/northrop-grummans-yfq-48a-cca-completes-first-fully-autonomous-flight",
+        "publishedAt": "2026-10-06T15:46:33+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Anduril, US Navy invest $6.6 billion to boost submarine parts production",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/anduril-us-navy-invest-66-billion-to-boost-submarine-parts-production",
-        "publishedAt": "2026-10-06T14:15:29+00:00",
-        "source": "Defense News",
+        "title": "Unpacking Boeing’s F/A-XX win, plus a report from wartime Ukraine",
+        "url": "https://breakingdefense.com/2026/10/unpacking-boeings-f-a-xx-win-plus-a-report-from-wartime-ukraine",
+        "publishedAt": "2026-10-06T14:05:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
@@ -718,6 +718,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-24"
   ]
 }
