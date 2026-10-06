@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-10-06T17:00:23+00:00",
+  "generatedAt": "2026-10-06T18:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-06T17:00:23+00:00",
+      "updatedAt": "2026-10-06T18:00:28+00:00",
       "stories": [
         {
           "title": "ESA at IAC 2026 – Day 2",
           "url": "https://www.esa.int/About_Us/Corporate_news/ESA_at_IAC_2026_Day_2",
           "publishedAt": "2026-10-06T14:37:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "NASA Glenn Invites Phase 1 Proposals for Aerospace Power Systems Laboratory",
+          "url": "https://www.nasa.gov/news-release/nasa-glenn-invites-phase-1-proposals-for-aerospace-power-systems-laboratory",
+          "publishedAt": "2026-10-06T17:55:52+00:00",
+          "source": "NASA"
         },
         {
           "title": "Webb captures commotion from nebula’s stellar jets",
@@ -47,12 +53,6 @@
           "url": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations",
           "publishedAt": "2026-10-05T19:13:40+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "APOD: 2026 October 6 – A Complete Auroral Oval from SMILE",
-          "url": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile",
-          "publishedAt": "2026-10-06T04:05:00+00:00",
-          "source": "NASA"
         },
         {
           "title": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-06T17:00:23+00:00",
+      "updatedAt": "2026-10-06T18:00:28+00:00",
       "stories": [
         {
           "title": "With Kutryk in space, next up is launching a Canadian space strategy",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-06T17:00:23+00:00",
+      "updatedAt": "2026-10-06T18:00:28+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to visit CFB Edmonton to highlight defence investments in Alberta",
@@ -229,8 +229,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-06T17:00:23+00:00",
+      "updatedAt": "2026-10-06T18:00:28+00:00",
       "stories": [
+        {
+          "title": "What it takes to succeed as Secretary of the Navy",
+          "url": "https://breakingdefense.com/2026/10/what-it-takes-to-succeed-as-secretary-of-the-navy",
+          "publishedAt": "2026-10-06T17:41:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "EU deepens collective space security with mutual defense pact",
           "url": "https://breakingdefense.com/2026/10/eu-deepens-collective-space-security-with-mutual-defense-pact",
@@ -262,6 +268,12 @@
           "source": "Breaking Defense"
         },
         {
+          "title": "Army awards Anduril contract worth up to $1.8B over five years to expand NGC2",
+          "url": "https://defensescoop.com/2026/10/06/army-awards-anduril-1-8b-contract-expand-ngc2",
+          "publishedAt": "2026-10-06T17:06:35+00:00",
+          "source": "DefenseScoop"
+        },
+        {
           "title": "Anduril, US Navy invest $6.6 billion to boost submarine parts production",
           "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/anduril-us-navy-invest-66-billion-to-boost-submarine-parts-production",
           "publishedAt": "2026-10-06T14:15:29+00:00",
@@ -278,12 +290,6 @@
           "url": "https://defensescoop.com/2026/10/06/white-house-anduril-announce-new-shipyard-baltimore-county",
           "publishedAt": "2026-10-06T13:44:27+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Leonardo DRS announces new UK-based subsidiary",
-          "url": "https://breakingdefense.com/2026/10/leonardo-drs-announces-new-uk-based-subsidiary",
-          "publishedAt": "2026-10-06T09:11:00+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Lithuania says it would pay the cost if US establishes military base",
@@ -314,19 +320,13 @@
           "url": "https://defensescoop.com/2026/10/05/kaizen-49m-contract-army-task-order-classified-work",
           "publishedAt": "2026-10-05T15:00:00+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Army Special Forces graduate first batch of Robotics Technician Integrators, a new job the rest of the service is eyeing",
-          "url": "https://defensescoop.com/2026/10/02/army-special-forces-graduate-first-batch-robotics-technician-integrators",
-          "publishedAt": "2026-10-02T22:04:28+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-06T17:00:23+00:00",
+      "updatedAt": "2026-10-06T18:00:28+00:00",
       "stories": [
         {
           "title": "Reflection AI enters the open-model race",
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-06T17:00:23+00:00",
+      "updatedAt": "2026-10-06T18:00:28+00:00",
       "stories": [
         {
           "title": "FireDome builds autonomous ‘artillery’ for wildfire defense",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-06T17:00:23+00:00",
+    "updatedAt": "2026-10-06T18:00:28+00:00",
     "stories": [
       {
         "title": "Reflection AI enters the open-model race",
@@ -567,9 +567,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "EU deepens collective space security with mutual defense pact",
-        "url": "https://breakingdefense.com/2026/10/eu-deepens-collective-space-security-with-mutual-defense-pact",
-        "publishedAt": "2026-10-06T16:04:45+00:00",
+        "title": "What it takes to succeed as Secretary of the Navy",
+        "url": "https://breakingdefense.com/2026/10/what-it-takes-to-succeed-as-secretary-of-the-navy",
+        "publishedAt": "2026-10-06T17:41:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -594,19 +594,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "France fires upgraded nuclear-capable missile from submarine for first time",
-        "url": "https://www.defensenews.com/global/europe/2026/10/06/france-fires-upgraded-nuclear-capable-missile-from-submarine-for-first-time",
-        "publishedAt": "2026-10-06T16:08:47+00:00",
-        "source": "Defense News",
+        "title": "EU deepens collective space security with mutual defense pact",
+        "url": "https://breakingdefense.com/2026/10/eu-deepens-collective-space-security-with-mutual-defense-pact",
+        "publishedAt": "2026-10-06T16:04:45+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Australia’s guided weapons and munitions effort makes progress, but risks remain",
-        "url": "https://breakingdefense.com/2026/10/australias-guided-weapons-and-munitions-effort-makes-progress-but-risks-remain",
-        "publishedAt": "2026-10-06T14:54:03+00:00",
-        "source": "Breaking Defense",
+        "title": "France fires upgraded nuclear-capable missile from submarine for first time",
+        "url": "https://www.defensenews.com/global/europe/2026/10/06/france-fires-upgraded-nuclear-capable-missile-from-submarine-for-first-time",
+        "publishedAt": "2026-10-06T16:08:47+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
