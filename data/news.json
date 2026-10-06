@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T22:00:26+00:00",
+  "generatedAt": "2026-10-06T23:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-06T22:00:26+00:00",
+      "updatedAt": "2026-10-06T23:00:26+00:00",
       "stories": [
         {
           "title": "Deposition Sciences, Inc. Expands Sunshade® Tape Offering with New 12″ × 30″ Format",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-06T22:00:26+00:00",
+      "updatedAt": "2026-10-06T23:00:26+00:00",
       "stories": [
         {
           "title": "CSA and ESA seek Canadian host for Spaceship Canada",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-06T22:00:26+00:00",
+      "updatedAt": "2026-10-06T23:00:26+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to visit CFB Edmonton to highlight Canada’s defence investments in Alberta",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-06T22:00:26+00:00",
+      "updatedAt": "2026-10-06T23:00:26+00:00",
       "stories": [
         {
           "title": "It’s official: US Army’s improved M8 rifle to begin fielding in December",
@@ -326,8 +326,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-06T22:00:26+00:00",
+      "updatedAt": "2026-10-06T23:00:26+00:00",
       "stories": [
+        {
+          "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+          "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product",
+          "publishedAt": "2026-10-06T22:34:03+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Reflection AI enters the open-model race",
           "url": "https://reflection.ai/blog/introducing-beam",
@@ -356,12 +362,6 @@
           "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
           "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo",
           "publishedAt": "2026-10-06T20:00:30+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "The next hurdle for AI agents: getting websites to let them in",
-          "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in",
-          "publishedAt": "2026-10-06T19:56:50+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-06T22:00:26+00:00",
+      "updatedAt": "2026-10-06T23:00:26+00:00",
       "stories": [
         {
           "title": "Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO",
@@ -519,20 +519,20 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-06T22:00:26+00:00",
+    "updatedAt": "2026-10-06T23:00:26+00:00",
     "stories": [
       {
-        "title": "Reflection AI enters the open-model race",
-        "url": "https://reflection.ai/blog/introducing-beam",
-        "publishedAt": "2026-10-06T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+        "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product",
+        "publishedAt": "2026-10-06T22:34:03+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "a16z’s top AI apps list follows the money",
-        "url": "https://a16z.com/100-gen-ai-apps-7",
+        "title": "Reflection AI enters the open-model race",
+        "url": "https://reflection.ai/blog/introducing-beam",
         "publishedAt": "2026-10-06T09:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
