@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-10-07T20:00:24+00:00",
+  "generatedAt": "2026-10-07T21:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-07T20:00:24+00:00",
+      "updatedAt": "2026-10-07T21:00:27+00:00",
       "stories": [
         {
           "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
           "url": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards",
           "publishedAt": "2026-10-07T14:18:18+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "NASA’s SpaceX 35th Commercial Resupply Mission Overview",
+          "url": "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview",
+          "publishedAt": "2026-10-07T20:17:16+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
+          "url": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept",
+          "publishedAt": "2026-10-07T20:15:49+00:00",
+          "source": "NASA"
         },
         {
           "title": "Mars’s oddest cloud may be even odder than we thought",
@@ -31,22 +43,10 @@
           "source": "NASA"
         },
         {
-          "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
-          "url": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs",
-          "publishedAt": "2026-10-07T16:49:50+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Brake! Time for ESA’s Hera asteroid mission to go slow",
           "url": "https://www.esa.int/Space_Safety/Hera/Brake!_Time_for_ESA_s_Hera_asteroid_mission_to_go_slow",
           "publishedAt": "2026-10-07T12:33:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Artemis II Crew Moon Photo Annotations",
-          "url": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations",
-          "publishedAt": "2026-10-07T15:44:59+00:00",
-          "source": "NASA"
         },
         {
           "title": "The Incredible Adventures of the Hera mission – The space detectives arrive",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-07T20:00:24+00:00",
+      "updatedAt": "2026-10-07T21:00:27+00:00",
       "stories": [
         {
           "title": "NASA Space Apps Challenge returns to 19 Canadian sites",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-07T20:00:24+00:00",
+      "updatedAt": "2026-10-07T21:00:27+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to visit CFB Edmonton to highlight Canada’s defence investments in Alberta",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-07T20:00:24+00:00",
+      "updatedAt": "2026-10-07T21:00:27+00:00",
       "stories": [
         {
           "title": "Army issues just under $100M in application awards for NGC2 to 9 companies",
@@ -242,6 +242,12 @@
           "url": "https://www.defensenews.com/global/europe/2026/10/07/rubio-says-us-greece-to-jointly-combat-security-threats",
           "publishedAt": "2026-10-07T18:25:10+00:00",
           "source": "Defense News"
+        },
+        {
+          "title": "Pentagon launches pilot program that will use AI to manage sensitive information",
+          "url": "https://defensescoop.com/2026/10/07/pentagon-launches-ai-pilot-program-automated-classification-management",
+          "publishedAt": "2026-10-07T20:34:44+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "From directed energy to AI and hardening, JIATF-401 is widening counter-UAS options",
@@ -314,19 +320,13 @@
           "url": "https://defensescoop.com/2026/10/06/army-awards-anduril-1-8b-contract-expand-ngc2",
           "publishedAt": "2026-10-06T17:06:35+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "White House, Anduril announce plans for new ‘software-defined’ shipyard to help build attack submarines",
-          "url": "https://defensescoop.com/2026/10/06/white-house-anduril-announce-new-shipyard-baltimore-county",
-          "publishedAt": "2026-10-06T13:44:27+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-07T20:00:24+00:00",
+      "updatedAt": "2026-10-07T21:00:27+00:00",
       "stories": [
         {
           "title": "OpenAI’s math explosion continues with 700+ papers",
@@ -347,21 +347,21 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+          "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users",
+          "publishedAt": "2026-10-07T20:48:45+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+          "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11",
+          "publishedAt": "2026-10-07T20:22:37+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
           "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut",
           "publishedAt": "2026-10-07T18:30:57+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-          "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises",
-          "publishedAt": "2026-10-07T18:15:28+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-          "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface",
-          "publishedAt": "2026-10-07T18:00:19+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-07T20:00:24+00:00",
+      "updatedAt": "2026-10-07T21:00:27+00:00",
       "stories": [
         {
           "title": "Teradyne Robotics, Elite Robots settle cobot dispute",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-07T20:00:24+00:00",
+    "updatedAt": "2026-10-07T21:00:27+00:00",
     "stories": [
       {
         "title": "OpenAI’s math explosion continues with 700+ papers",
