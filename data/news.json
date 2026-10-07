@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T19:00:27+00:00",
+  "generatedAt": "2026-10-07T20:00:24+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-07T19:00:27+00:00",
+      "updatedAt": "2026-10-07T20:00:24+00:00",
       "stories": [
         {
           "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-07T19:00:27+00:00",
+      "updatedAt": "2026-10-07T20:00:24+00:00",
       "stories": [
         {
           "title": "NASA Space Apps Challenge returns to 19 Canadian sites",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-07T19:00:27+00:00",
+      "updatedAt": "2026-10-07T20:00:24+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to visit CFB Edmonton to highlight Canada’s defence investments in Alberta",
@@ -229,8 +229,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-07T19:00:27+00:00",
+      "updatedAt": "2026-10-07T20:00:24+00:00",
       "stories": [
+        {
+          "title": "Army issues just under $100M in application awards for NGC2 to 9 companies",
+          "url": "https://breakingdefense.com/2026/10/army-issues-just-under-100m-in-application-awards-for-ngc2-to-9-companies",
+          "publishedAt": "2026-10-07T19:38:41+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Rubio says US, Greece to jointly combat security threats",
           "url": "https://www.defensenews.com/global/europe/2026/10/07/rubio-says-us-greece-to-jointly-combat-security-threats",
@@ -286,12 +292,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Big offensive EW capabilities in a small package",
-          "url": "https://breakingdefense.com/2026/10/big-offensive-ew-capabilities-in-a-small-package",
-          "publishedAt": "2026-10-06T18:14:34+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Bonnie Evangelista to lead drone buying on Pentagon’s new DRPM-UxS team",
           "url": "https://defensescoop.com/2026/10/06/pentagon-drpm-uxs-drone-acquisition-bonnie-evangelista",
           "publishedAt": "2026-10-06T21:17:19+00:00",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-07T19:00:27+00:00",
+      "updatedAt": "2026-10-07T20:00:24+00:00",
       "stories": [
         {
           "title": "OpenAI’s math explosion continues with 700+ papers",
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-07T19:00:27+00:00",
+      "updatedAt": "2026-10-07T20:00:24+00:00",
       "stories": [
         {
           "title": "Teradyne Robotics, Elite Robots settle cobot dispute",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-07T19:00:27+00:00",
+    "updatedAt": "2026-10-07T20:00:24+00:00",
     "stories": [
       {
         "title": "OpenAI’s math explosion continues with 700+ papers",
@@ -567,10 +567,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Rubio says US, Greece to jointly combat security threats",
-        "url": "https://www.defensenews.com/global/europe/2026/10/07/rubio-says-us-greece-to-jointly-combat-security-threats",
-        "publishedAt": "2026-10-07T18:25:10+00:00",
-        "source": "Defense News",
+        "title": "Army issues just under $100M in application awards for NGC2 to 9 companies",
+        "url": "https://breakingdefense.com/2026/10/army-issues-just-under-100m-in-application-awards-for-ngc2-to-9-companies",
+        "publishedAt": "2026-10-07T19:38:41+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -603,10 +603,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "From directed energy to AI and hardening, JIATF-401 is widening counter-UAS options",
-        "url": "https://breakingdefense.com/2026/10/from-directed-energy-to-ai-and-hardening-jiatf-401-is-widening-counter-uas-options",
-        "publishedAt": "2026-10-07T16:39:28+00:00",
-        "source": "Breaking Defense",
+        "title": "Rubio says US, Greece to jointly combat security threats",
+        "url": "https://www.defensenews.com/global/europe/2026/10/07/rubio-says-us-greece-to-jointly-combat-security-threats",
+        "publishedAt": "2026-10-07T18:25:10+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
