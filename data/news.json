@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T23:00:30+00:00",
+  "generatedAt": "2026-10-07T23:20:39+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-07T23:00:30+00:00",
+      "updatedAt": "2026-10-07T23:20:39+00:00",
       "stories": [
         {
           "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-07T23:00:30+00:00",
+      "updatedAt": "2026-10-07T23:20:39+00:00",
       "stories": [
         {
           "title": "Canada considering a new astronaut recruitment campaign, says Joly",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-07T23:00:30+00:00",
+      "updatedAt": "2026-10-07T23:20:39+00:00",
       "stories": [
         {
           "title": "Minister McGuinty visits CFB Edmonton to highlight Canada’s defence investments in Alberta",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-07T23:00:30+00:00",
+      "updatedAt": "2026-10-07T23:20:39+00:00",
       "stories": [
         {
           "title": "General Dynamics CEO Phebe Novakovic to step down in 2027",
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-07T23:00:30+00:00",
+      "updatedAt": "2026-10-07T23:20:39+00:00",
       "stories": [
         {
           "title": "OpenAI’s math explosion continues with 700+ papers",
@@ -371,22 +371,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-          "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises",
-          "publishedAt": "2026-10-07T18:15:28+00:00",
-          "source": "TechCrunch AI"
+          "title": "Nano Banana 2.1 (5 minute read)",
+          "url": "https://deepmind.google/models/model-cards/nano-banana-2-1",
+          "publishedAt": "2026-10-07T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-          "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface",
-          "publishedAt": "2026-10-07T18:00:19+00:00",
-          "source": "TechCrunch AI"
+          "title": "The Cyber Risk Discourse is Broken (11 minute read)",
+          "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+          "publishedAt": "2026-10-07T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-          "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material",
-          "publishedAt": "2026-10-07T16:53:46+00:00",
-          "source": "TechCrunch AI"
+          "title": "Building Faster Emergency Patching Systems (8 minute read)",
+          "url": "https://projectzero.google/2026/10/emergency-patching.html",
+          "publishedAt": "2026-10-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Decisions API is now available in Public Beta (1 minute read)",
+          "url": "https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877",
+          "publishedAt": "2026-10-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "EmbeddingGemma 2 (5 minute read)",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
+          "publishedAt": "2026-10-07T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Personal Agent Protocol (5 minute read)",
+          "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+          "publishedAt": "2026-10-07T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Reflection AI enters the open-model race",
@@ -405,31 +423,13 @@
           "url": "https://openai.com/index/eu-text-provenance",
           "publishedAt": "2026-10-06T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI's safety report lead quits over 'broken' culture",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "publishedAt": "2026-10-05T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic seeks religious wisdom for raising Claude",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "publishedAt": "2026-10-05T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Tavus’ Griffin passes for human on video calls",
-          "url": "https://www.tavus.io/griffin",
-          "publishedAt": "2026-10-02T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-07T23:00:30+00:00",
+      "updatedAt": "2026-10-07T23:20:39+00:00",
       "stories": [
         {
           "title": "PTC acquisition positions Schneider Electric to challenge Siemens",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-07T23:00:30+00:00",
+    "updatedAt": "2026-10-07T23:20:39+00:00",
     "stories": [
       {
         "title": "OpenAI’s math explosion continues with 700+ papers",
@@ -730,7 +730,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-24"
+    "Vanguard: <unknown>:157:8803: not well-formed (invalid token)"
   ]
 }
