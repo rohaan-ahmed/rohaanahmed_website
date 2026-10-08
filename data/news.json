@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T08:00:26+00:00",
+  "generatedAt": "2026-10-08T09:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-08T08:00:26+00:00",
+      "updatedAt": "2026-10-08T09:00:28+00:00",
       "stories": [
         {
           "title": "Keeping the sky dark and quiet",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-08T08:00:26+00:00",
+      "updatedAt": "2026-10-08T09:00:28+00:00",
       "stories": [
         {
           "title": "Canada considering a new astronaut recruitment campaign, says Joly",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-08T08:00:26+00:00",
+      "updatedAt": "2026-10-08T09:00:28+00:00",
       "stories": [
         {
           "title": "Minister McGuinty visits CFB Edmonton to highlight Canada’s defence investments in Alberta",
@@ -235,8 +235,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-08T08:00:26+00:00",
+      "updatedAt": "2026-10-08T09:00:28+00:00",
       "stories": [
+        {
+          "title": "After B-1’s leave England, analysts point to limited options, importance of base defense",
+          "url": "https://breakingdefense.com/2026/10/after-b-1s-leave-england-analysts-point-to-limited-options-importance-of-base-defense",
+          "publishedAt": "2026-10-08T08:29:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "General Dynamics CEO Phebe Novakovic to step down in 2027",
           "url": "https://breakingdefense.com/2026/10/general-dynamics-ceo-phebe-novakovic-to-step-down-in-2027",
@@ -271,12 +277,6 @@
           "title": "Urban warfare: Next Falcon Peak exercise to take counter-drone tech to the streets",
           "url": "https://breakingdefense.com/2026/10/urban-warfare-next-falcon-peak-exercise-to-take-counter-drone-tech-to-the-streets",
           "publishedAt": "2026-10-07T16:02:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "General Dynamics taps Primordial to build AI assistant for combat vehicle crews",
-          "url": "https://breakingdefense.com/2026/10/general-dynamics-taps-primordial-to-build-ai-assistant-for-combat-vehicle-crews",
-          "publishedAt": "2026-10-07T14:41:08+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-08T08:00:26+00:00",
+      "updatedAt": "2026-10-08T09:00:28+00:00",
       "stories": [
         {
           "title": "OpenAI’s math explosion continues with 700+ papers",
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-08T08:00:26+00:00",
+      "updatedAt": "2026-10-08T09:00:28+00:00",
       "stories": [
         {
           "title": "PTC acquisition positions Schneider Electric to challenge Siemens",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-08T08:00:26+00:00",
+    "updatedAt": "2026-10-08T09:00:28+00:00",
     "stories": [
       {
         "title": "OpenAI’s math explosion continues with 700+ papers",
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "General Dynamics CEO Phebe Novakovic to step down in 2027",
-        "url": "https://breakingdefense.com/2026/10/general-dynamics-ceo-phebe-novakovic-to-step-down-in-2027",
-        "publishedAt": "2026-10-07T21:40:14+00:00",
+        "title": "After B-1’s leave England, analysts point to limited options, importance of base defense",
+        "url": "https://breakingdefense.com/2026/10/after-b-1s-leave-england-analysts-point-to-limited-options-importance-of-base-defense",
+        "publishedAt": "2026-10-08T08:29:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
