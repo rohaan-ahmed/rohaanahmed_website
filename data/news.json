@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T04:00:24+00:00",
+  "generatedAt": "2026-10-08T05:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-08T04:00:24+00:00",
+      "updatedAt": "2026-10-08T05:00:32+00:00",
       "stories": [
         {
           "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
@@ -13,21 +13,21 @@
           "source": "SpaceNews"
         },
         {
+          "title": "APOD: 2026 October 8 – The Saturn System Smörgåsbord",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord",
+          "publishedAt": "2026-10-08T04:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Fighting Drought in Texas Cotton Country",
+          "url": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country",
+          "publishedAt": "2026-10-08T04:01:00+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
           "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival",
           "publishedAt": "2026-10-07T21:16:42+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA’s SpaceX 35th Commercial Resupply Mission Overview",
-          "url": "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview",
-          "publishedAt": "2026-10-07T20:17:16+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
-          "url": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept",
-          "publishedAt": "2026-10-07T20:15:49+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-08T04:00:24+00:00",
+      "updatedAt": "2026-10-08T05:00:32+00:00",
       "stories": [
         {
           "title": "Canada considering a new astronaut recruitment campaign, says Joly",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-08T04:00:24+00:00",
+      "updatedAt": "2026-10-08T05:00:32+00:00",
       "stories": [
         {
           "title": "Minister McGuinty visits CFB Edmonton to highlight Canada’s defence investments in Alberta",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-08T04:00:24+00:00",
+      "updatedAt": "2026-10-08T05:00:32+00:00",
       "stories": [
         {
           "title": "General Dynamics CEO Phebe Novakovic to step down in 2027",
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-08T04:00:24+00:00",
+      "updatedAt": "2026-10-08T05:00:32+00:00",
       "stories": [
         {
           "title": "OpenAI’s math explosion continues with 700+ papers",
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-08T04:00:24+00:00",
+      "updatedAt": "2026-10-08T05:00:32+00:00",
       "stories": [
         {
           "title": "PTC acquisition positions Schneider Electric to challenge Siemens",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-08T04:00:24+00:00",
+    "updatedAt": "2026-10-08T05:00:32+00:00",
     "stories": [
       {
         "title": "OpenAI’s math explosion continues with 700+ papers",
@@ -600,21 +600,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Mission Control to supply Rashid Rover 2 communications on the Moon",
-        "url": "https://spaceq.ca/rashid-rover-2-mission-control-communications",
-        "publishedAt": "2026-10-07T11:46:00+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
+        "title": "APOD: 2026 October 8 – The Saturn System Smörgåsbord",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord",
+        "publishedAt": "2026-10-08T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-        "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia",
-        "publishedAt": "2026-10-07T23:36:57+00:00",
-        "source": "TechCrunch Robotics",
-        "topicId": "robotics",
-        "topicName": "Robotics",
+        "title": "Fighting Drought in Texas Cotton Country",
+        "url": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country",
+        "publishedAt": "2026-10-08T04:01:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
