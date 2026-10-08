@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T19:00:27+00:00",
+  "generatedAt": "2026-10-08T20:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-08T19:00:27+00:00",
+      "updatedAt": "2026-10-08T20:00:25+00:00",
       "stories": [
         {
           "title": "What will it take to build a moon base?",
@@ -19,6 +19,12 @@
           "source": "European Space Agency"
         },
         {
+          "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
+          "url": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit",
+          "publishedAt": "2026-10-08T19:40:00+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
           "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies",
           "publishedAt": "2026-10-08T18:56:25+00:00",
@@ -28,12 +34,6 @@
           "title": "Crew-12 Returns to Earth",
           "url": "https://www.nasa.gov/image-article/crew-12-returns-to-earth",
           "publishedAt": "2026-10-08T18:52:27+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
-          "url": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs",
-          "publishedAt": "2026-10-08T18:22:48+00:00",
           "source": "NASA"
         },
         {
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-08T19:00:27+00:00",
+      "updatedAt": "2026-10-08T20:00:25+00:00",
       "stories": [
+        {
+          "title": "New Defence Investment Agency Crown corporation to speed up buying",
+          "url": "https://spaceq.ca/defence-investment-agency-crown-corporation",
+          "publishedAt": "2026-10-08T19:55:10+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Galaxia to build Maritime Launch’s autonomous flight safety system",
           "url": "https://spaceq.ca/galaxia-maritime-launch-autonomous-flight-safety-system",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "Weekly ISS update: Joshua Kutryk aboard after record-fast docking",
-          "url": "https://spaceq.ca/weekly-iss-update-joshua-kutryk-aboard-after-record-fast-docking",
-          "publishedAt": "2026-10-03T17:45:06+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Canadian Space Agency astronaut Joshua Kutryk begins his first space mission",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/canadian-space-agency-astronaut-joshua-kutryk-begins-his-first-space-mission.html",
           "publishedAt": "2026-10-01T16:20:56+00:00",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-08T19:00:27+00:00",
+      "updatedAt": "2026-10-08T20:00:25+00:00",
       "stories": [
         {
           "title": "Minister McGuinty visits CFB Edmonton to highlight Canada’s defence investments in Alberta",
@@ -235,8 +235,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-08T19:00:27+00:00",
+      "updatedAt": "2026-10-08T20:00:25+00:00",
       "stories": [
+        {
+          "title": "Sig Sauer develops 25-round mag for Army’s next-gen rifle",
+          "url": "https://www.defensenews.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle",
+          "publishedAt": "2026-10-08T19:23:25+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Power at the sprocket: It’s the transmission that gives tracked vehicles their control",
           "url": "https://breakingdefense.com/2026/10/power-at-the-sprocket-its-the-transmission-that-gives-tracked-vehicles-their-control",
@@ -298,12 +304,6 @@
           "source": "Defense News"
         },
         {
-          "title": "German pilots prepare for CH‑47F fleet with US Army flight simulator",
-          "url": "https://www.defensenews.com/news/your-military/2026/10/08/german-pilots-prepare-for-ch47f-fleet-with-us-army-flight-simulator",
-          "publishedAt": "2026-10-08T13:25:20+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Pentagon launches pilot program that will use AI to manage sensitive information",
           "url": "https://defensescoop.com/2026/10/07/pentagon-launches-ai-pilot-program-automated-classification-management",
           "publishedAt": "2026-10-07T20:34:44+00:00",
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-08T19:00:27+00:00",
+      "updatedAt": "2026-10-08T20:00:25+00:00",
       "stories": [
         {
           "title": "AI's next frontier is the human cell",
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-08T19:00:27+00:00",
+      "updatedAt": "2026-10-08T20:00:25+00:00",
       "stories": [
         {
           "title": "Jabil discusses the pace of humanoid robot development and production",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-08T19:00:27+00:00",
+    "updatedAt": "2026-10-08T20:00:25+00:00",
     "stories": [
       {
         "title": "AI's next frontier is the human cell",
@@ -546,9 +546,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Galaxia to build Maritime Launch’s autonomous flight safety system",
-        "url": "https://spaceq.ca/galaxia-maritime-launch-autonomous-flight-safety-system",
-        "publishedAt": "2026-10-08T16:36:47+00:00",
+        "title": "New Defence Investment Agency Crown corporation to speed up buying",
+        "url": "https://spaceq.ca/defence-investment-agency-crown-corporation",
+        "publishedAt": "2026-10-08T19:55:10+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -573,10 +573,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Power at the sprocket: It’s the transmission that gives tracked vehicles their control",
-        "url": "https://breakingdefense.com/2026/10/power-at-the-sprocket-its-the-transmission-that-gives-tracked-vehicles-their-control",
-        "publishedAt": "2026-10-08T18:23:57+00:00",
-        "source": "Breaking Defense",
+        "title": "Sig Sauer develops 25-round mag for Army’s next-gen rifle",
+        "url": "https://www.defensenews.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle",
+        "publishedAt": "2026-10-08T19:23:25+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -591,6 +591,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Galaxia to build Maritime Launch’s autonomous flight safety system",
+        "url": "https://spaceq.ca/galaxia-maritime-launch-autonomous-flight-safety-system",
+        "publishedAt": "2026-10-08T16:36:47+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Reaction Dynamics drops hybrid engine, plans medium-lift rocket",
         "url": "https://spaceq.ca/reaction-dynamics-liquid-engines-medium-lift-borealis",
         "publishedAt": "2026-10-08T12:00:00+00:00",
@@ -600,21 +609,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Lessons for CENTCOM from counter-drone experiments in the Arizona desert",
-        "url": "https://breakingdefense.com/2026/10/lessons-for-centcom-from-counter-drone-experiments-in-the-arizona-desert",
-        "publishedAt": "2026-10-08T18:08:11+00:00",
+        "title": "Power at the sprocket: It’s the transmission that gives tracked vehicles their control",
+        "url": "https://breakingdefense.com/2026/10/power-at-the-sprocket-its-the-transmission-that-gives-tracked-vehicles-their-control",
+        "publishedAt": "2026-10-08T18:23:57+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Splashdown confirmed for Sophie Adenot",
-        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Splashdown_confirmed_for_Sophie_Adenot",
-        "publishedAt": "2026-10-08T16:51:00+00:00",
-        "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
