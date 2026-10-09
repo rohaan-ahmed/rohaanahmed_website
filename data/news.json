@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-09T10:00:27+00:00",
+  "generatedAt": "2026-10-09T11:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-09T10:00:27+00:00",
+      "updatedAt": "2026-10-09T11:00:27+00:00",
       "stories": [
         {
           "title": "Earth from Space: Namibia’s biggest salt pan",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-09T10:00:27+00:00",
+      "updatedAt": "2026-10-09T11:00:27+00:00",
       "stories": [
         {
           "title": "New Defence Investment Agency Crown corporation to speed up buying",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-09T10:00:27+00:00",
+      "updatedAt": "2026-10-09T11:00:27+00:00",
       "stories": [
         {
           "title": "Minister McGuinty visits CFB Edmonton to highlight Canada’s defence investments in Alberta",
@@ -235,8 +235,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-09T10:00:27+00:00",
+      "updatedAt": "2026-10-09T11:00:27+00:00",
       "stories": [
+        {
+          "title": "Pentagon, Lockheed weigh multi-year F-35 production, sustainment deal",
+          "url": "https://breakingdefense.com/2026/10/pentagon-lockheed-weigh-multi-year-f-35-production-sustainment-deal",
+          "publishedAt": "2026-10-09T10:18:00+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Estonia’s KrattWorks crafting Shahed-like dummy drone for target practice",
+          "url": "https://www.defensenews.com/global/europe/2026/10/09/estonias-krattworks-crafting-shahed-like-dummy-drone-for-target-practice",
+          "publishedAt": "2026-10-09T10:11:46+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Century-old houses getting new life at Fort Bragg",
           "url": "https://www.defensenews.com/news/your-army/2026/10/08/century-old-houses-getting-new-life-at-fort-bragg",
@@ -286,21 +298,9 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Could Germany join GCAP? UK ‘seeks to progress’ the potential switch",
-          "url": "https://breakingdefense.com/2026/10/could-germany-join-gcap-uk-seeks-to-progress-the-potential-switch",
-          "publishedAt": "2026-10-08T15:55:33+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Future cost, use of Marine Corps ACVs scrutinized in congressional report",
           "url": "https://www.defensenews.com/news/2026/10/08/future-cost-use-of-marine-corps-acvs-scrutinized-in-congressional-report",
           "publishedAt": "2026-10-08T16:34:20+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "US Air Force, Army eye industry access on test ranges",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/10/08/us-air-force-army-eye-industry-access-on-test-ranges",
-          "publishedAt": "2026-10-08T16:27:32+00:00",
           "source": "Defense News"
         },
         {
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-09T10:00:27+00:00",
+      "updatedAt": "2026-10-09T11:00:27+00:00",
       "stories": [
         {
           "title": "Anthropic prohibits abuse or cruelty against Claude",
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-09T10:00:27+00:00",
+      "updatedAt": "2026-10-09T11:00:27+00:00",
       "stories": [
         {
           "title": "SafeWorld emerges from stealth to build, deploy robot safety simulation technologies",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-09T10:00:27+00:00",
+    "updatedAt": "2026-10-09T11:00:27+00:00",
     "stories": [
       {
         "title": "Anthropic prohibits abuse or cruelty against Claude",
@@ -573,10 +573,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Century-old houses getting new life at Fort Bragg",
-        "url": "https://www.defensenews.com/news/your-army/2026/10/08/century-old-houses-getting-new-life-at-fort-bragg",
-        "publishedAt": "2026-10-08T23:41:48+00:00",
-        "source": "Defense News",
+        "title": "Pentagon, Lockheed weigh multi-year F-35 production, sustainment deal",
+        "url": "https://breakingdefense.com/2026/10/pentagon-lockheed-weigh-multi-year-f-35-production-sustainment-deal",
+        "publishedAt": "2026-10-09T10:18:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -589,6 +589,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Estonia’s KrattWorks crafting Shahed-like dummy drone for target practice",
+        "url": "https://www.defensenews.com/global/europe/2026/10/09/estonias-krattworks-crafting-shahed-like-dummy-drone-for-target-practice",
+        "publishedAt": "2026-10-09T10:11:46+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Galaxia to build Maritime Launch’s autonomous flight safety system",
@@ -604,15 +613,6 @@
         "url": "https://spacenews.com/what-will-it-take-to-build-a-moon-base",
         "publishedAt": "2026-10-08T13:57:38+00:00",
         "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "APOD: 2026 October 9 – Stickney Crater",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater",
-        "publishedAt": "2026-10-09T04:05:00+00:00",
-        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
