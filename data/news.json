@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-09T14:37:22+00:00",
+  "generatedAt": "2026-10-09T15:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-09T14:37:22+00:00",
+      "updatedAt": "2026-10-09T15:00:29+00:00",
       "stories": [
         {
           "title": "Week in images: 05-09 October 2026",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-09T14:37:22+00:00",
+      "updatedAt": "2026-10-09T15:00:29+00:00",
       "stories": [
         {
           "title": "New Defence Investment Agency Crown corporation to speed up buying",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-09T14:37:22+00:00",
+      "updatedAt": "2026-10-09T15:00:29+00:00",
       "stories": [
         {
           "title": "Minister McGuinty visits CFB Edmonton to highlight Canada’s defence investments in Alberta",
@@ -235,8 +235,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-09T14:37:22+00:00",
+      "updatedAt": "2026-10-09T15:00:29+00:00",
       "stories": [
+        {
+          "title": "Swedish government launches first Patriot mission to Poland",
+          "url": "https://breakingdefense.com/2026/10/swedish-government-launches-first-patriot-mission-to-poland",
+          "publishedAt": "2026-10-09T14:45:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Hanwha sets sights on Army’s tracked howitzer program after victory in wheeled competition",
           "url": "https://breakingdefense.com/2026/10/hanwha-sets-sights-on-armys-tracked-howitzer-program-after-victory-in-wheeled-competition",
@@ -262,7 +268,7 @@
           "source": "Defense News"
         },
         {
-          "title": "Pentagon, Lockheed weigh multi-year F-35 production, sustainment deal",
+          "title": "EXCLUSIVE: Pentagon, Lockheed weigh multi-year F-35 production, sustainment deal",
           "url": "https://breakingdefense.com/2026/10/pentagon-lockheed-weigh-multi-year-f-35-production-sustainment-deal",
           "publishedAt": "2026-10-09T10:18:00+00:00",
           "source": "Breaking Defense"
@@ -278,12 +284,6 @@
           "url": "https://www.defensenews.com/news/your-army/2026/10/08/century-old-houses-getting-new-life-at-fort-bragg",
           "publishedAt": "2026-10-08T23:41:48+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "Pentagon, Raytheon ink up to $6.3 billion multi-year contract for SM-3 IB missiles",
-          "url": "https://breakingdefense.com/2026/10/pentagon-raytheon-ink-up-to-6-3-billion-multi-year-contract-for-sm-3-ib-missiles",
-          "publishedAt": "2026-10-08T22:07:21+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Pentagon barred Qatar base access to hide Iran war damage, US senator claims",
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-09T14:37:22+00:00",
+      "updatedAt": "2026-10-09T15:00:29+00:00",
       "stories": [
         {
           "title": "Anthropic prohibits abuse or cruelty against Claude",
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-09T14:37:22+00:00",
+      "updatedAt": "2026-10-09T15:00:29+00:00",
       "stories": [
         {
           "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-09T14:37:22+00:00",
+    "updatedAt": "2026-10-09T15:00:29+00:00",
     "stories": [
       {
         "title": "Anthropic prohibits abuse or cruelty against Claude",
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Hanwha sets sights on Army’s tracked howitzer program after victory in wheeled competition",
-        "url": "https://breakingdefense.com/2026/10/hanwha-sets-sights-on-armys-tracked-howitzer-program-after-victory-in-wheeled-competition",
-        "publishedAt": "2026-10-09T14:09:00+00:00",
+        "title": "Swedish government launches first Patriot mission to Poland",
+        "url": "https://breakingdefense.com/2026/10/swedish-government-launches-first-patriot-mission-to-poland",
+        "publishedAt": "2026-10-09T14:45:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -591,6 +591,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Hanwha sets sights on Army’s tracked howitzer program after victory in wheeled competition",
+        "url": "https://breakingdefense.com/2026/10/hanwha-sets-sights-on-armys-tracked-howitzer-program-after-victory-in-wheeled-competition",
+        "publishedAt": "2026-10-09T14:09:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Zero Trust gets harder when every user, device, weapon, and AI agent needs an identity",
         "url": "https://breakingdefense.com/2026/10/zero-trust-gets-harder-when-every-user-device-weapon-and-ai-agent-needs-an-identity",
         "publishedAt": "2026-10-09T13:20:00+00:00",
@@ -604,15 +613,6 @@
         "url": "https://breakingdefense.com/2026/10/bringing-real-autonomy-to-battlefield-drone-swarms",
         "publishedAt": "2026-10-09T12:25:00+00:00",
         "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Official poster depicts the US Army’s newest threat: The Iranian soldier",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/09/official-poster-depicts-the-us-armys-newest-threat-the-iranian-soldier",
-        "publishedAt": "2026-10-09T13:00:52+00:00",
-        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
