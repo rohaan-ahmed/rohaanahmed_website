@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-09T19:42:21+00:00",
+  "generatedAt": "2026-10-09T20:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-09T19:42:21+00:00",
+      "updatedAt": "2026-10-09T20:00:25+00:00",
       "stories": [
         {
           "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-09T19:42:21+00:00",
+      "updatedAt": "2026-10-09T20:00:25+00:00",
       "stories": [
         {
           "title": "NorthStar rings NYSE bell, adds U.S. technical director",
@@ -186,8 +186,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-09T19:42:21+00:00",
+      "updatedAt": "2026-10-09T20:00:25+00:00",
       "stories": [
+        {
+          "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/his-majestys-canadian-ship-ottawa-returns-to-esquimalt-following-operations-horizon-and-latitude.html",
+          "publishedAt": "2026-10-09T19:43:56+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Minister McGuinty visits CFB Edmonton to highlight Canada’s defence investments in Alberta",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/minister-mcguinty-visits-cfb-edmonton-to-highlight-canadas-defence-investments-in-alberta.html",
@@ -235,8 +241,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-09T19:42:21+00:00",
+      "updatedAt": "2026-10-09T20:00:25+00:00",
       "stories": [
+        {
+          "title": "Lockheed unveils PAC-3 Edge, its next-gen Patriot interceptor",
+          "url": "https://breakingdefense.com/2026/10/lockheed-unveils-pac-3-edge-its-next-gen-patriot-interceptor",
+          "publishedAt": "2026-10-09T19:45:39+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Drones and autonomous warfare: ‘One-way attack’ and reshaping ISR",
           "url": "https://breakingdefense.com/2026/10/drones-and-autonomous-warfare-one-way-attack-and-reshaping-isr",
@@ -266,12 +278,6 @@
           "url": "https://www.defensenews.com/news/your-military/2026/10/09/us-army-activates-new-multi-domain-task-force-to-deny-disrupt-enemies-in-indo-pacific",
           "publishedAt": "2026-10-09T17:15:54+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "New leaders, new drone command: What we expect from AUSA 2026",
-          "url": "https://breakingdefense.com/2026/10/new-leaders-new-drone-command-what-we-expect-from-ausa-2026",
-          "publishedAt": "2026-10-09T16:07:00+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "US Army Corps of Engineers failed to explain drop in environmental mitigation work: Watchdog",
@@ -332,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-09T19:42:21+00:00",
+      "updatedAt": "2026-10-09T20:00:25+00:00",
       "stories": [
         {
           "title": "Anthropic prohibits abuse or cruelty against Claude",
@@ -429,8 +435,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-09T19:42:21+00:00",
+      "updatedAt": "2026-10-09T20:00:25+00:00",
       "stories": [
+        {
+          "title": "Why humanoid robot demos still fail the generalization test",
+          "url": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test",
+          "publishedAt": "2026-10-09T19:28:41+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Boston Dynamics gives more insight into its redesigned humanoid hand",
           "url": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand",
@@ -480,12 +492,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "AWS launches open-source Physical AI Toolchain for robotics",
-          "url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics",
-          "publishedAt": "2026-10-08T13:23:58+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
           "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door",
           "publishedAt": "2026-10-08T14:00:00+00:00",
@@ -525,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-09T19:42:21+00:00",
+    "updatedAt": "2026-10-09T20:00:25+00:00",
     "stories": [
       {
         "title": "Anthropic prohibits abuse or cruelty against Claude",
@@ -564,27 +570,27 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Minister McGuinty visits CFB Edmonton to highlight Canada’s defence investments in Alberta",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/minister-mcguinty-visits-cfb-edmonton-to-highlight-canadas-defence-investments-in-alberta.html",
-        "publishedAt": "2026-10-07T21:40:37+00:00",
+        "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/his-majestys-canadian-ship-ottawa-returns-to-esquimalt-following-operations-horizon-and-latitude.html",
+        "publishedAt": "2026-10-09T19:43:56+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Drones and autonomous warfare: ‘One-way attack’ and reshaping ISR",
-        "url": "https://breakingdefense.com/2026/10/drones-and-autonomous-warfare-one-way-attack-and-reshaping-isr",
-        "publishedAt": "2026-10-09T19:19:11+00:00",
+        "title": "Lockheed unveils PAC-3 Edge, its next-gen Patriot interceptor",
+        "url": "https://breakingdefense.com/2026/10/lockheed-unveils-pac-3-edge-its-next-gen-patriot-interceptor",
+        "publishedAt": "2026-10-09T19:45:39+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Boston Dynamics gives more insight into its redesigned humanoid hand",
-        "url": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand",
-        "publishedAt": "2026-10-09T16:59:57+00:00",
+        "title": "Why humanoid robot demos still fail the generalization test",
+        "url": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test",
+        "publishedAt": "2026-10-09T19:28:41+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -600,18 +606,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Ideal Aerosmith debuts ‘Troublemaker’ for one-way attack",
-        "url": "https://breakingdefense.com/2026/10/ideal-aerosmith-debuts-troublemaker-for-one-way-attack",
-        "publishedAt": "2026-10-09T18:02:00+00:00",
+        "title": "Drones and autonomous warfare: ‘One-way attack’ and reshaping ISR",
+        "url": "https://breakingdefense.com/2026/10/drones-and-autonomous-warfare-one-way-attack-and-reshaping-isr",
+        "publishedAt": "2026-10-09T19:19:11+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Thales looks to export new C2 platform to Gulf nations, says executive",
-        "url": "https://breakingdefense.com/2026/10/thales-looks-to-export-new-c2-platform-to-gulf-nations-says-executive",
-        "publishedAt": "2026-10-09T17:13:00+00:00",
+        "title": "Ideal Aerosmith debuts ‘Troublemaker’ for one-way attack",
+        "url": "https://breakingdefense.com/2026/10/ideal-aerosmith-debuts-troublemaker-for-one-way-attack",
+        "publishedAt": "2026-10-09T18:02:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
