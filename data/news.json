@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-09T19:00:29+00:00",
+  "generatedAt": "2026-10-09T19:42:21+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-09T19:00:29+00:00",
+      "updatedAt": "2026-10-09T19:42:21+00:00",
       "stories": [
         {
           "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-09T19:00:29+00:00",
+      "updatedAt": "2026-10-09T19:42:21+00:00",
       "stories": [
+        {
+          "title": "NorthStar rings NYSE bell, adds U.S. technical director",
+          "url": "https://spaceq.ca/northstar-nyse-bell-us-technical-director",
+          "publishedAt": "2026-10-09T19:11:47+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Canada, Norway space agencies sign first MOU",
           "url": "https://spaceq.ca/canada-norway-space-agencies-sign-mou",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "With Kutryk in space, next up is launching a Canadian space strategy",
-          "url": "https://spaceq.ca/with-kutryk-in-space-next-up-is-launching-a-canadian-space-strategy",
-          "publishedAt": "2026-10-06T11:06:00+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Canadian Space Agency astronaut Joshua Kutryk begins his first space mission",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/canadian-space-agency-astronaut-joshua-kutryk-begins-his-first-space-mission.html",
           "publishedAt": "2026-10-01T16:20:56+00:00",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-09T19:00:29+00:00",
+      "updatedAt": "2026-10-09T19:42:21+00:00",
       "stories": [
         {
           "title": "Minister McGuinty visits CFB Edmonton to highlight Canada’s defence investments in Alberta",
@@ -235,8 +235,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-09T19:00:29+00:00",
+      "updatedAt": "2026-10-09T19:42:21+00:00",
       "stories": [
+        {
+          "title": "Drones and autonomous warfare: ‘One-way attack’ and reshaping ISR",
+          "url": "https://breakingdefense.com/2026/10/drones-and-autonomous-warfare-one-way-attack-and-reshaping-isr",
+          "publishedAt": "2026-10-09T19:19:11+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Ideal Aerosmith debuts ‘Troublemaker’ for one-way attack",
           "url": "https://breakingdefense.com/2026/10/ideal-aerosmith-debuts-troublemaker-for-one-way-attack",
@@ -272,12 +278,6 @@
           "url": "https://www.defensenews.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog",
           "publishedAt": "2026-10-09T15:59:53+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "A leap in drone range and payloads come from a battery with different chemistry",
-          "url": "https://breakingdefense.com/2026/10/a-leap-in-drone-range-and-payloads-come-from-a-battery-with-different-chemistry",
-          "publishedAt": "2026-10-09T15:03:05+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Official poster depicts the US Army’s newest threat: The Iranian soldier",
@@ -332,13 +332,19 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-09T19:00:29+00:00",
+      "updatedAt": "2026-10-09T19:42:21+00:00",
       "stories": [
         {
           "title": "Anthropic prohibits abuse or cruelty against Claude",
           "url": "https://www.anthropic.com/news/2026-usage-policy-update",
           "publishedAt": "2026-10-09T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "publishedAt": "2026-10-09T19:36:56+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
@@ -350,12 +356,6 @@
           "title": "Amazon drops data center NDAs, and AI agents want your credit card",
           "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card",
           "publishedAt": "2026-10-09T16:53:02+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Danu Robotics’ fight to build a better recycling robot",
-          "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot",
-          "publishedAt": "2026-10-09T16:45:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-09T19:00:29+00:00",
+      "updatedAt": "2026-10-09T19:42:21+00:00",
       "stories": [
         {
           "title": "Boston Dynamics gives more insight into its redesigned humanoid hand",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-09T19:00:29+00:00",
+    "updatedAt": "2026-10-09T19:42:21+00:00",
     "stories": [
       {
         "title": "Anthropic prohibits abuse or cruelty against Claude",
@@ -537,18 +537,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-        "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust",
-        "publishedAt": "2026-10-09T16:56:42+00:00",
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+        "publishedAt": "2026-10-09T19:36:56+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Canada, Norway space agencies sign first MOU",
-        "url": "https://spaceq.ca/canada-norway-space-agencies-sign-mou",
-        "publishedAt": "2026-10-09T16:06:44+00:00",
+        "title": "NorthStar rings NYSE bell, adds U.S. technical director",
+        "url": "https://spaceq.ca/northstar-nyse-bell-us-technical-director",
+        "publishedAt": "2026-10-09T19:11:47+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Ideal Aerosmith debuts ‘Troublemaker’ for one-way attack",
-        "url": "https://breakingdefense.com/2026/10/ideal-aerosmith-debuts-troublemaker-for-one-way-attack",
-        "publishedAt": "2026-10-09T18:02:00+00:00",
+        "title": "Drones and autonomous warfare: ‘One-way attack’ and reshaping ISR",
+        "url": "https://breakingdefense.com/2026/10/drones-and-autonomous-warfare-one-way-attack-and-reshaping-isr",
+        "publishedAt": "2026-10-09T19:19:11+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -591,28 +591,28 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Canada, Norway space agencies sign first MOU",
+        "url": "https://spaceq.ca/canada-norway-space-agencies-sign-mou",
+        "publishedAt": "2026-10-09T16:06:44+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Ideal Aerosmith debuts ‘Troublemaker’ for one-way attack",
+        "url": "https://breakingdefense.com/2026/10/ideal-aerosmith-debuts-troublemaker-for-one-way-attack",
+        "publishedAt": "2026-10-09T18:02:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Thales looks to export new C2 platform to Gulf nations, says executive",
         "url": "https://breakingdefense.com/2026/10/thales-looks-to-export-new-c2-platform-to-gulf-nations-says-executive",
         "publishedAt": "2026-10-09T17:13:00+00:00",
         "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "GDLS exec: New loitering munitions platform to be delivered to Army by end of month",
-        "url": "https://breakingdefense.com/2026/10/gdls-exec-new-loitering-munitions-platform-to-be-delivered-to-army-by-end-of-month",
-        "publishedAt": "2026-10-09T16:35:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "US Army activates new multi-domain task force to ‘deny, disrupt’ enemies in Indo-Pacific",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/09/us-army-activates-new-multi-domain-task-force-to-deny-disrupt-enemies-in-indo-pacific",
-        "publishedAt": "2026-10-09T17:15:54+00:00",
-        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
