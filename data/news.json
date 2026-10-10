@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T15:16:37+00:00",
+  "generatedAt": "2026-10-10T16:00:22+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-10T15:16:37+00:00",
+      "updatedAt": "2026-10-10T16:00:22+00:00",
       "stories": [
         {
           "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-10T15:16:37+00:00",
+      "updatedAt": "2026-10-10T16:00:22+00:00",
       "stories": [
         {
           "title": "A down week for space stocks as the Canadian Space Index drops 5.4%",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-10T15:16:37+00:00",
+      "updatedAt": "2026-10-10T16:00:22+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-10T15:16:37+00:00",
+      "updatedAt": "2026-10-10T16:00:22+00:00",
       "stories": [
         {
           "title": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
@@ -326,8 +326,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-10T15:16:37+00:00",
+      "updatedAt": "2026-10-10T16:00:22+00:00",
       "stories": [
+        {
+          "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+          "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
+          "publishedAt": "2026-10-10T15:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Here are the top AI agents that can live in your text messages",
           "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages",
@@ -341,34 +347,46 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-          "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
-          "publishedAt": "2026-10-09T21:41:29+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Anthropic prohibits abuse or cruelty against Claude",
           "url": "https://www.anthropic.com/news/2026-usage-policy-update",
           "publishedAt": "2026-10-09T09:00:00+00:00",
           "source": "The Rundown AI"
         },
         {
-          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-          "publishedAt": "2026-10-09T19:36:56+00:00",
-          "source": "TechCrunch AI"
+          "title": "Ultrafast is rolling out today for GPT-6.1 Sol in the API, Codex, and ChatGPT Work (2 minute read)",
+          "url": "https://threadreaderapp.com/thread/2108262812489531498.html",
+          "publishedAt": "2026-10-09T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-          "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust",
-          "publishedAt": "2026-10-09T16:56:42+00:00",
-          "source": "TechCrunch AI"
+          "title": "Gemini Agent (18 minute read)",
+          "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "publishedAt": "2026-10-09T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-          "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card",
-          "publishedAt": "2026-10-09T16:53:02+00:00",
-          "source": "TechCrunch AI"
+          "title": "Former Cognition, Ramp Staffers Want AI Agents Running Businesses (2 minute read)",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-08/former-openai-cognition-staffers-want-ai-to-help-run-a-business?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTUxNjQ4NywiZXhwIjoxNzkyMTIxMjg3LCJhcnRpY2xlSWQiOiJUTUxHQ0JSS1YyVUcwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.Jtwqx1KL4tjx_bLoAYVftZkw_Sg4QVDOCe3pGu64cos",
+          "publishedAt": "2026-10-09T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Can AI automate Epoch? (20 minute read)",
+          "url": "https://epoch.ai/publications/can-ai-automate-epoch",
+          "publishedAt": "2026-10-09T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Why is Speculative Decoding Fast? (4 minute read)",
+          "url": "https://jbarrow.ai/2026-10-08-why-is-speculative-decoding-fast",
+          "publishedAt": "2026-10-09T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "ATLAS: Evaluating Agents on Search-Intensive Tasks (13 minute read)",
+          "url": "https://exa.ai/blog/atlas-benchmark",
+          "publishedAt": "2026-10-09T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "AI's next frontier is the human cell",
@@ -399,31 +417,13 @@
           "url": "https://reflection.ai/blog/introducing-beam",
           "publishedAt": "2026-10-06T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "a16z’s top AI apps list follows the money",
-          "url": "https://a16z.com/100-gen-ai-apps-7",
-          "publishedAt": "2026-10-06T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s text watermark stops at the EU border",
-          "url": "https://openai.com/index/eu-text-provenance",
-          "publishedAt": "2026-10-06T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI's safety report lead quits over 'broken' culture",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "publishedAt": "2026-10-05T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-10T15:16:37+00:00",
+      "updatedAt": "2026-10-10T16:00:22+00:00",
       "stories": [
         {
           "title": "Why dexterity is physical AI’s real bottleneck",
@@ -519,21 +519,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-10T15:16:37+00:00",
+    "updatedAt": "2026-10-10T16:00:22+00:00",
     "stories": [
       {
-        "title": "Here are the top AI agents that can live in your text messages",
-        "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages",
-        "publishedAt": "2026-10-10T14:00:00+00:00",
+        "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+        "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
+        "publishedAt": "2026-10-10T15:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-        "publishedAt": "2026-10-10T00:18:32+00:00",
+        "title": "Here are the top AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages",
+        "publishedAt": "2026-10-10T14:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -724,7 +724,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:661:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-15"
+    "Vanguard: <unknown>:661:8803: not well-formed (invalid token)"
   ]
 }
