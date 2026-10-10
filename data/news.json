@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T12:00:26+00:00",
+  "generatedAt": "2026-10-10T13:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-10T12:00:26+00:00",
+      "updatedAt": "2026-10-10T13:00:25+00:00",
       "stories": [
         {
           "title": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-10T12:00:26+00:00",
+      "updatedAt": "2026-10-10T13:00:25+00:00",
       "stories": [
         {
           "title": "A down week for space stocks as the Canadian Space Index drops 5.4%",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-10T12:00:26+00:00",
+      "updatedAt": "2026-10-10T13:00:25+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-10T12:00:26+00:00",
+      "updatedAt": "2026-10-10T13:00:25+00:00",
       "stories": [
         {
           "title": "Coast Guard places $248 million order for first MQ-9B drones",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-10T12:00:26+00:00",
+      "updatedAt": "2026-10-10T13:00:25+00:00",
       "stories": [
         {
           "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
@@ -423,8 +423,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-10T12:00:26+00:00",
+      "updatedAt": "2026-10-10T13:00:25+00:00",
       "stories": [
+        {
+          "title": "Why dexterity is physical AI’s real bottleneck",
+          "url": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck",
+          "publishedAt": "2026-10-10T12:45:15+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Why humanoid robot demos still fail the generalization test",
           "url": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test",
@@ -474,12 +480,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Jabil discusses the pace of humanoid robot development and production",
-          "url": "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production",
-          "publishedAt": "2026-10-08T16:16:21+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
           "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door",
           "publishedAt": "2026-10-08T14:00:00+00:00",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-10T12:00:26+00:00",
+    "updatedAt": "2026-10-10T13:00:25+00:00",
     "stories": [
       {
         "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
@@ -576,9 +576,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Why humanoid robot demos still fail the generalization test",
-        "url": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test",
-        "publishedAt": "2026-10-09T19:28:41+00:00",
+        "title": "Why dexterity is physical AI’s real bottleneck",
+        "url": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck",
+        "publishedAt": "2026-10-10T12:45:15+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
