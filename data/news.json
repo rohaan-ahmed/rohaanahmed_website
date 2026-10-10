@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T15:00:25+00:00",
+  "generatedAt": "2026-10-10T15:16:37+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-10T15:00:25+00:00",
+      "updatedAt": "2026-10-10T15:16:37+00:00",
       "stories": [
         {
           "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-10T15:00:25+00:00",
+      "updatedAt": "2026-10-10T15:16:37+00:00",
       "stories": [
         {
           "title": "A down week for space stocks as the Canadian Space Index drops 5.4%",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-10T15:00:25+00:00",
+      "updatedAt": "2026-10-10T15:16:37+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-10T15:00:25+00:00",
+      "updatedAt": "2026-10-10T15:16:37+00:00",
       "stories": [
         {
           "title": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-10T15:00:25+00:00",
+      "updatedAt": "2026-10-10T15:16:37+00:00",
       "stories": [
         {
           "title": "Here are the top AI agents that can live in your text messages",
@@ -423,13 +423,19 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-10T15:00:25+00:00",
+      "updatedAt": "2026-10-10T15:16:37+00:00",
       "stories": [
         {
           "title": "Why dexterity is physical AI’s real bottleneck",
           "url": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck",
           "publishedAt": "2026-10-10T12:45:15+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+          "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
+          "publishedAt": "2026-10-10T15:00:00+00:00",
+          "source": "TechCrunch Robotics"
         },
         {
           "title": "Why humanoid robot demos still fail the generalization test",
@@ -492,12 +498,6 @@
           "source": "IEEE Spectrum Robotics"
         },
         {
-          "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-          "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia",
-          "publishedAt": "2026-10-07T23:36:57+00:00",
-          "source": "TechCrunch Robotics"
-        },
-        {
           "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
           "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction",
           "publishedAt": "2026-10-07T13:49:48+00:00",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-10T15:00:25+00:00",
+    "updatedAt": "2026-10-10T15:16:37+00:00",
     "stories": [
       {
         "title": "Here are the top AI agents that can live in your text messages",
@@ -585,6 +585,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+        "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
+        "publishedAt": "2026-10-10T15:00:00+00:00",
+        "source": "TechCrunch Robotics",
+        "topicId": "robotics",
+        "topicName": "Robotics",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
         "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station",
         "publishedAt": "2026-10-10T09:01:00+00:00",
@@ -597,15 +606,6 @@
         "title": "NorthStar rings NYSE bell, adds U.S. technical director",
         "url": "https://spaceq.ca/northstar-nyse-bell-us-technical-director",
         "publishedAt": "2026-10-09T19:11:47+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Canada, Norway space agencies sign first MOU",
-        "url": "https://spaceq.ca/canada-norway-space-agencies-sign-mou",
-        "publishedAt": "2026-10-09T16:06:44+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -725,6 +725,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:661:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-29"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-15"
   ]
 }
