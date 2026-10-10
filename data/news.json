@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T16:00:22+00:00",
+  "generatedAt": "2026-10-10T17:00:22+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-10T16:00:22+00:00",
+      "updatedAt": "2026-10-10T17:00:22+00:00",
       "stories": [
         {
           "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-10T16:00:22+00:00",
+      "updatedAt": "2026-10-10T17:00:22+00:00",
       "stories": [
+        {
+          "title": "Weekly ISS update: Crew-12 departs as Dubrov takes command",
+          "url": "https://spaceq.ca/weekly-iss-update-crew-12-departs-as-dubrov-takes-command",
+          "publishedAt": "2026-10-10T16:38:45+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "A down week for space stocks as the Canadian Space Index drops 5.4%",
           "url": "https://spaceq.ca/the-weekly-close-october-9-2026",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "CSA and ESA seek Canadian host for Spaceship Canada",
-          "url": "https://spaceq.ca/spaceship-canada-host-call",
-          "publishedAt": "2026-10-06T21:17:49+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Canadian Space Agency astronaut Joshua Kutryk begins his first space mission",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/canadian-space-agency-astronaut-joshua-kutryk-begins-his-first-space-mission.html",
           "publishedAt": "2026-10-01T16:20:56+00:00",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-10T16:00:22+00:00",
+      "updatedAt": "2026-10-10T17:00:22+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-10T16:00:22+00:00",
+      "updatedAt": "2026-10-10T17:00:22+00:00",
       "stories": [
         {
           "title": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-10T16:00:22+00:00",
+      "updatedAt": "2026-10-10T17:00:22+00:00",
       "stories": [
         {
           "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-10T16:00:22+00:00",
+      "updatedAt": "2026-10-10T17:00:22+00:00",
       "stories": [
         {
           "title": "Why dexterity is physical AI’s real bottleneck",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-10T16:00:22+00:00",
+    "updatedAt": "2026-10-10T17:00:22+00:00",
     "stories": [
       {
         "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
@@ -540,9 +540,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "A down week for space stocks as the Canadian Space Index drops 5.4%",
-        "url": "https://spaceq.ca/the-weekly-close-october-9-2026",
-        "publishedAt": "2026-10-09T21:55:43+00:00",
+        "title": "Weekly ISS update: Crew-12 departs as Dubrov takes command",
+        "url": "https://spaceq.ca/weekly-iss-update-crew-12-departs-as-dubrov-takes-command",
+        "publishedAt": "2026-10-10T16:38:45+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -603,9 +603,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "NorthStar rings NYSE bell, adds U.S. technical director",
-        "url": "https://spaceq.ca/northstar-nyse-bell-us-technical-director",
-        "publishedAt": "2026-10-09T19:11:47+00:00",
+        "title": "A down week for space stocks as the Canadian Space Index drops 5.4%",
+        "url": "https://spaceq.ca/the-weekly-close-october-9-2026",
+        "publishedAt": "2026-10-09T21:55:43+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
