@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-10T14:00:22+00:00",
+  "generatedAt": "2026-10-10T15:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-10T14:00:22+00:00",
+      "updatedAt": "2026-10-10T15:00:25+00:00",
       "stories": [
+        {
+          "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+          "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium",
+          "publishedAt": "2026-10-10T14:18:59+00:00",
+          "source": "NASA"
+        },
         {
           "title": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
           "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station",
@@ -22,12 +28,6 @@
           "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
           "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations",
           "publishedAt": "2026-10-09T18:11:44+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-          "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies",
-          "publishedAt": "2026-10-09T16:59:24+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-10T14:00:22+00:00",
+      "updatedAt": "2026-10-10T15:00:25+00:00",
       "stories": [
         {
           "title": "A down week for space stocks as the Canadian Space Index drops 5.4%",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-10T14:00:22+00:00",
+      "updatedAt": "2026-10-10T15:00:25+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-10T14:00:22+00:00",
+      "updatedAt": "2026-10-10T15:00:25+00:00",
       "stories": [
         {
           "title": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
@@ -326,8 +326,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-10T14:00:22+00:00",
+      "updatedAt": "2026-10-10T15:00:25+00:00",
       "stories": [
+        {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages",
+          "publishedAt": "2026-10-10T14:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
           "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
@@ -362,12 +368,6 @@
           "title": "Amazon drops data center NDAs, and AI agents want your credit card",
           "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card",
           "publishedAt": "2026-10-09T16:53:02+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Danu Robotics’ fight to build a better recycling robot",
-          "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot",
-          "publishedAt": "2026-10-09T16:45:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-10T14:00:22+00:00",
+      "updatedAt": "2026-10-10T15:00:25+00:00",
       "stories": [
         {
           "title": "Why dexterity is physical AI’s real bottleneck",
@@ -519,21 +519,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-10T14:00:22+00:00",
+    "updatedAt": "2026-10-10T15:00:25+00:00",
     "stories": [
       {
-        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-        "publishedAt": "2026-10-10T00:18:32+00:00",
+        "title": "Here are the top AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages",
+        "publishedAt": "2026-10-10T14:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-        "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
-        "publishedAt": "2026-10-09T21:41:29+00:00",
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+        "publishedAt": "2026-10-10T00:18:32+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -549,10 +549,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
-        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station",
-        "publishedAt": "2026-10-10T09:01:00+00:00",
-        "source": "European Space Agency",
+        "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+        "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium",
+        "publishedAt": "2026-10-10T14:18:59+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -585,6 +585,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "ESA astronaut Sophie Adenot returns from her first mission to the International Space Station",
+        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station",
+        "publishedAt": "2026-10-10T09:01:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "NorthStar rings NYSE bell, adds U.S. technical director",
         "url": "https://spaceq.ca/northstar-nyse-bell-us-technical-director",
         "publishedAt": "2026-10-09T19:11:47+00:00",
@@ -600,15 +609,6 @@
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "APOD: 2026 October 10 – Lunar Farside",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside",
-        "publishedAt": "2026-10-10T04:05:00+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -725,6 +725,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:661:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-25"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-29"
   ]
 }
