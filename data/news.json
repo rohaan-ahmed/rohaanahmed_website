@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T16:00:24+00:00",
+  "generatedAt": "2026-10-11T17:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-11T16:00:24+00:00",
+      "updatedAt": "2026-10-11T17:00:26+00:00",
       "stories": [
         {
           "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-11T16:00:24+00:00",
+      "updatedAt": "2026-10-11T17:00:26+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Crew-12 departs as Dubrov takes command",
@@ -168,19 +168,13 @@
           "url": "https://spaceq.ca/rashid-rover-2-mission-control-communications",
           "publishedAt": "2026-10-07T11:46:00+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "Canadian Space Agency astronaut Joshua Kutryk begins his first space mission",
-          "url": "https://www.canada.ca/en/space-agency/news/2026/10/canadian-space-agency-astronaut-joshua-kutryk-begins-his-first-space-mission.html",
-          "publishedAt": "2026-10-01T16:20:56+00:00",
-          "source": "Canadian Space Agency"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-11T16:00:24+00:00",
+      "updatedAt": "2026-10-11T17:00:26+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -229,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-11T16:00:24+00:00",
+      "updatedAt": "2026-10-11T17:00:26+00:00",
       "stories": [
         {
           "title": "US Army, Kaizen Laboratories to establish common software platform for classified material",
@@ -326,13 +320,19 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-11T16:00:24+00:00",
+      "updatedAt": "2026-10-11T17:00:26+00:00",
       "stories": [
         {
           "title": "What Microsoft had to relearn with Copilot",
           "url": "https://www.microsoft.com/en-us/copilot?OCID=CGE_csocial_MG_CopilotAppEngagement_868meb6uh",
           "publishedAt": "2026-10-11T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+          "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+          "publishedAt": "2026-10-11T16:52:33+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
@@ -344,12 +344,6 @@
           "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
           "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
           "publishedAt": "2026-10-10T21:47:51+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-          "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
-          "publishedAt": "2026-10-10T15:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -423,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-11T16:00:24+00:00",
+      "updatedAt": "2026-10-11T17:00:26+00:00",
       "stories": [
         {
           "title": "Will ‘boring’ robots win in the real world? Why robotic form should follow workflow",
@@ -519,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-11T16:00:24+00:00",
+    "updatedAt": "2026-10-11T17:00:26+00:00",
     "stories": [
       {
         "title": "What Microsoft had to relearn with Copilot",
@@ -531,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-        "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet",
-        "publishedAt": "2026-10-11T14:00:00+00:00",
+        "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+        "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+        "publishedAt": "2026-10-11T16:52:33+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -585,6 +579,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+        "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet",
+        "publishedAt": "2026-10-11T14:00:00+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
         "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
         "publishedAt": "2026-10-10T21:47:51+00:00",
@@ -600,15 +603,6 @@
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/10/lockheed-martin-unveils-pac-3-edge-interceptor-designed-to-counter-hypersonic-threats",
-        "publishedAt": "2026-10-10T13:18:04+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
