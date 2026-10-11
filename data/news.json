@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-11T04:00:23+00:00",
+  "generatedAt": "2026-10-11T05:00:24+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-11T04:00:23+00:00",
+      "updatedAt": "2026-10-11T05:00:24+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos",
+          "publishedAt": "2026-10-11T04:05:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
           "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium",
@@ -22,12 +28,6 @@
           "title": "APOD: 2026 October 10 – Lunar Farside",
           "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside",
           "publishedAt": "2026-10-10T04:05:00+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
-          "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations",
-          "publishedAt": "2026-10-09T18:11:44+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-11T04:00:23+00:00",
+      "updatedAt": "2026-10-11T05:00:24+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Crew-12 departs as Dubrov takes command",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-11T04:00:23+00:00",
+      "updatedAt": "2026-10-11T05:00:24+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-11T04:00:23+00:00",
+      "updatedAt": "2026-10-11T05:00:24+00:00",
       "stories": [
         {
           "title": "US Army, Kaizen Laboratories to establish common software platform for classified material",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-11T04:00:23+00:00",
+      "updatedAt": "2026-10-11T05:00:24+00:00",
       "stories": [
         {
           "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-11T04:00:23+00:00",
+      "updatedAt": "2026-10-11T05:00:24+00:00",
       "stories": [
         {
           "title": "Why dexterity is physical AI’s real bottleneck",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-11T04:00:23+00:00",
+    "updatedAt": "2026-10-11T05:00:24+00:00",
     "stories": [
       {
         "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
-        "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium",
-        "publishedAt": "2026-10-10T14:18:59+00:00",
+        "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos",
+        "publishedAt": "2026-10-11T04:05:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -603,12 +603,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Here are the top AI agents that can live in your text messages",
-        "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages",
-        "publishedAt": "2026-10-10T14:00:00+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
+        "url": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium",
+        "publishedAt": "2026-10-10T14:18:59+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
