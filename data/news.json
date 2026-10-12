@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T09:00:30+00:00",
+  "generatedAt": "2026-10-12T10:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-12T09:00:30+00:00",
+      "updatedAt": "2026-10-12T10:00:27+00:00",
       "stories": [
         {
           "title": "APOD: 2026 October 12 – Jupiter and the Moons",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-12T09:00:30+00:00",
+      "updatedAt": "2026-10-12T10:00:27+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Crew-12 departs as Dubrov takes command",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-12T09:00:30+00:00",
+      "updatedAt": "2026-10-12T10:00:27+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -223,8 +223,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-12T09:00:30+00:00",
+      "updatedAt": "2026-10-12T10:00:27+00:00",
       "stories": [
+        {
+          "title": "Vector, Nammo expand push to mass-produce armed drones",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/12/vector-nammo-expand-push-to-mass-produce-armed-drones",
+          "publishedAt": "2026-10-12T09:00:00+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Three years of war, 100,000 targets struck: IDF releases new conflict data",
           "url": "https://breakingdefense.com/2026/10/three-years-of-war-100000-targets-struck-idf-releases-new-conflict-data",
@@ -286,12 +292,6 @@
           "source": "Defense News"
         },
         {
-          "title": "US Army Corps of Engineers failed to explain drop in environmental mitigation work: Watchdog",
-          "url": "https://www.defensenews.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog",
-          "publishedAt": "2026-10-09T15:59:53+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Bipartisan Senate bill would push DOD to expand its oversight of in-use commercial frontier AI models",
           "url": "https://defensescoop.com/2026/10/08/senate-bill-expand-dod-oversight-commercial-frontier-ai-models",
           "publishedAt": "2026-10-08T22:20:50+00:00",
@@ -320,8 +320,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-12T09:00:30+00:00",
+      "updatedAt": "2026-10-12T10:00:27+00:00",
       "stories": [
+        {
+          "title": "Atomic Machines’ AI turns code into tiny machines",
+          "url": "https://www.atomicmachines.com/matter-compiler",
+          "publishedAt": "2026-10-12T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "What Microsoft had to relearn with Copilot",
           "url": "https://www.microsoft.com/en-us/copilot?OCID=CGE_csocial_MG_CopilotAppEngagement_868meb6uh",
@@ -405,19 +411,13 @@
           "url": "https://mistral.ai/news/mistral-large-4",
           "publishedAt": "2026-10-07T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Brett Adcock’s Hark launches a proactive AI assistant",
-          "url": "https://hark.com/chat",
-          "publishedAt": "2026-10-07T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-12T09:00:30+00:00",
+      "updatedAt": "2026-10-12T10:00:27+00:00",
       "stories": [
         {
           "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
@@ -513,22 +513,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-12T09:00:30+00:00",
+    "updatedAt": "2026-10-12T10:00:27+00:00",
     "stories": [
       {
-        "title": "What Microsoft had to relearn with Copilot",
-        "url": "https://www.microsoft.com/en-us/copilot?OCID=CGE_csocial_MG_CopilotAppEngagement_868meb6uh",
-        "publishedAt": "2026-10-11T10:00:00+00:00",
+        "title": "Atomic Machines’ AI turns code into tiny machines",
+        "url": "https://www.atomicmachines.com/matter-compiler",
+        "publishedAt": "2026-10-12T09:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Will the HomeView be Apple’s first smart home success?",
-        "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success",
-        "publishedAt": "2026-10-11T21:14:40+00:00",
-        "source": "TechCrunch AI",
+        "title": "What Microsoft had to relearn with Copilot",
+        "url": "https://www.microsoft.com/en-us/copilot?OCID=CGE_csocial_MG_CopilotAppEngagement_868meb6uh",
+        "publishedAt": "2026-10-11T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -561,10 +561,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Three years of war, 100,000 targets struck: IDF releases new conflict data",
-        "url": "https://breakingdefense.com/2026/10/three-years-of-war-100000-targets-struck-idf-releases-new-conflict-data",
-        "publishedAt": "2026-10-12T08:00:00+00:00",
-        "source": "Breaking Defense",
+        "title": "Vector, Nammo expand push to mass-produce armed drones",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/12/vector-nammo-expand-push-to-mass-produce-armed-drones",
+        "publishedAt": "2026-10-12T09:00:00+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -577,6 +577,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Three years of war, 100,000 targets struck: IDF releases new conflict data",
+        "url": "https://breakingdefense.com/2026/10/three-years-of-war-100000-targets-struck-idf-releases-new-conflict-data",
+        "publishedAt": "2026-10-12T08:00:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Anduril unveils Steelfin interceptor as cheaper option to PAC-3 missiles",
@@ -594,15 +603,6 @@
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-        "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next",
-        "publishedAt": "2026-10-11T19:00:00+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
