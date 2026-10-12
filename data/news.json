@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T22:00:30+00:00",
+  "generatedAt": "2026-10-12T23:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-12T22:00:30+00:00",
+      "updatedAt": "2026-10-12T23:00:26+00:00",
       "stories": [
         {
           "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-12T22:00:30+00:00",
+      "updatedAt": "2026-10-12T23:00:26+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Crew-12 departs as Dubrov takes command",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-12T22:00:30+00:00",
+      "updatedAt": "2026-10-12T23:00:26+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -205,8 +205,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-12T22:00:30+00:00",
+      "updatedAt": "2026-10-12T23:00:26+00:00",
       "stories": [
+        {
+          "title": "The US Army is back in the jungle. Panamanians are showing soldiers the way.",
+          "url": "https://www.defensenews.com/news/your-military/2026/10/12/the-us-army-is-back-in-the-jungle-panamanians-are-showing-soldiers-the-way",
+          "publishedAt": "2026-10-12T22:32:28+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "At Warsaw Security Forum, Poland’s Tusk raises alarm over ‘real threat’ from Russia",
           "url": "https://breakingdefense.com/2026/10/at-warsaw-security-forum-polands-tusk-raises-alarm-over-real-threat-from-russia",
@@ -280,12 +286,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Sikorsky packs 4 Nomad drones into a single shipping container",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/10/12/sikorsky-packs-4-nomad-drones-into-a-single-shipping-container",
-          "publishedAt": "2026-10-12T18:00:00+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Telle says Army will ‘find the weak links’ in the industrial supply chain through ‘manufacturing rodeo’",
           "url": "https://defensescoop.com/2026/10/12/telle-says-army-will-find-the-weak-links-in-the-industrial-supply-chain-through-manufacturing-rodeo",
           "publishedAt": "2026-10-12T19:53:55+00:00",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-12T22:00:30+00:00",
+      "updatedAt": "2026-10-12T23:00:26+00:00",
       "stories": [
         {
           "title": "Atomic Machines’ AI turns code into tiny machines",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-12T22:00:30+00:00",
+      "updatedAt": "2026-10-12T23:00:26+00:00",
       "stories": [
         {
           "title": "Closing the reality gap: Why real-time execution has become the new competitive advantage",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-12T22:00:30+00:00",
+    "updatedAt": "2026-10-12T23:00:26+00:00",
     "stories": [
       {
         "title": "Atomic Machines’ AI turns code into tiny machines",
@@ -543,10 +543,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "At Warsaw Security Forum, Poland’s Tusk raises alarm over ‘real threat’ from Russia",
-        "url": "https://breakingdefense.com/2026/10/at-warsaw-security-forum-polands-tusk-raises-alarm-over-real-threat-from-russia",
-        "publishedAt": "2026-10-12T20:39:43+00:00",
-        "source": "Breaking Defense",
+        "title": "The US Army is back in the jungle. Panamanians are showing soldiers the way.",
+        "url": "https://www.defensenews.com/news/your-military/2026/10/12/the-us-army-is-back-in-the-jungle-panamanians-are-showing-soldiers-the-way",
+        "publishedAt": "2026-10-12T22:32:28+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -559,6 +559,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "At Warsaw Security Forum, Poland’s Tusk raises alarm over ‘real threat’ from Russia",
+        "url": "https://breakingdefense.com/2026/10/at-warsaw-security-forum-polands-tusk-raises-alarm-over-real-threat-from-russia",
+        "publishedAt": "2026-10-12T20:39:43+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "From drones to ground vehicles: Check out day 1 of AUSA",
@@ -574,15 +583,6 @@
         "url": "https://breakingdefense.com/2026/10/army-sent-balloon-swarms-to-middle-east-to-support-centcom-operations",
         "publishedAt": "2026-10-12T19:30:00+00:00",
         "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Twenty-Six Defense unveils new soldier-worn tech",
-        "url": "https://www.defensenews.com/land/2026/10/12/twenty-six-defense-unveils-new-soldier-worn-tech",
-        "publishedAt": "2026-10-12T19:59:27+00:00",
-        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
