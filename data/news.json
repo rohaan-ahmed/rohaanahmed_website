@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T17:47:10+00:00",
+  "generatedAt": "2026-10-12T18:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-12T17:47:10+00:00",
+      "updatedAt": "2026-10-12T18:00:28+00:00",
       "stories": [
         {
           "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-12T17:47:10+00:00",
+      "updatedAt": "2026-10-12T18:00:28+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Crew-12 departs as Dubrov takes command",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-12T17:47:10+00:00",
+      "updatedAt": "2026-10-12T18:00:28+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-12T17:47:10+00:00",
+      "updatedAt": "2026-10-12T18:00:28+00:00",
       "stories": [
         {
           "title": "Acting army secretary announces ‘manufacturing rodeo’ to tackle ‘weak links’ in supply chain",
@@ -308,13 +308,19 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-12T17:47:10+00:00",
+      "updatedAt": "2026-10-12T18:00:28+00:00",
       "stories": [
         {
           "title": "Atomic Machines’ AI turns code into tiny machines",
           "url": "https://www.atomicmachines.com/matter-compiler",
           "publishedAt": "2026-10-12T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Meta releases its first frontier model, Muse Wonder",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
+          "publishedAt": "2026-10-12T17:56:56+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
@@ -326,12 +332,6 @@
           "title": "Microsoft president says UK is best placed to drive AI regulation",
           "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
           "publishedAt": "2026-10-12T15:31:19+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-          "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes",
-          "publishedAt": "2026-10-12T15:27:59+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-12T17:47:10+00:00",
+      "updatedAt": "2026-10-12T18:00:28+00:00",
       "stories": [
         {
           "title": "Closing the reality gap: Why real-time execution has become the new competitive advantage",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-12T17:47:10+00:00",
+    "updatedAt": "2026-10-12T18:00:28+00:00",
     "stories": [
       {
         "title": "Atomic Machines’ AI turns code into tiny machines",
@@ -513,9 +513,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-        "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data",
-        "publishedAt": "2026-10-12T17:19:14+00:00",
+        "title": "Meta releases its first frontier model, Muse Wonder",
+        "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
+        "publishedAt": "2026-10-12T17:56:56+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
