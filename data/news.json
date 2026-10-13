@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T22:00:27+00:00",
+  "generatedAt": "2026-10-13T23:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-13T22:00:27+00:00",
+      "updatedAt": "2026-10-13T23:00:30+00:00",
       "stories": [
         {
           "title": "On this day in space! Oct. 13, 1773: Astronomer Charles Messier discovers the Whirlpool Galaxy before we ever knew it was a galaxy",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-13T22:00:27+00:00",
+      "updatedAt": "2026-10-13T23:00:30+00:00",
       "stories": [
         {
           "title": "A new report reviews UK In-Situ Resource Utilization technology capability",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-13T22:00:27+00:00",
+      "updatedAt": "2026-10-13T23:00:30+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -205,8 +205,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-13T22:00:27+00:00",
+      "updatedAt": "2026-10-13T23:00:30+00:00",
       "stories": [
+        {
+          "title": "Anduril’s Palmer Luckey envisions missiles made in car factories, underground battles",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/andurils-palmer-luckey-envisions-missiles-made-in-car-factories-underground-battles",
+          "publishedAt": "2026-10-13T22:30:00+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Avio, Lockheed sign agreement for solid rocket motor production",
           "url": "https://breakingdefense.com/2026/10/avio-lockheed-sign-agreement-for-solid-rocket-motor-production",
@@ -268,12 +274,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Startup wants US soldiers to command AI agents through its smart glasses",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/startup-wants-us-soldiers-to-command-ai-agents-through-its-smart-glasses",
-          "publishedAt": "2026-10-13T18:45:00+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Three-star will head Army’s new autonomy command, which will initially focus on corps-level systems",
           "url": "https://defensescoop.com/2026/10/13/three-star-will-head-armys-new-autonomy-command-which-will-initially-focus-on-corps-level-systems",
           "publishedAt": "2026-10-13T20:28:24+00:00",
@@ -302,8 +302,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-13T22:00:27+00:00",
+      "updatedAt": "2026-10-13T23:00:30+00:00",
       "stories": [
+        {
+          "title": "Cerebras CEO pushes back on AI doomsday warnings",
+          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
+          "publishedAt": "2026-10-13T22:36:59+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Meta’s Muse Wonder lands at the frontier",
           "url": "https://research.meta.ai/blog/muse-wonder",
@@ -326,12 +332,6 @@
           "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
           "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads",
           "publishedAt": "2026-10-13T18:30:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Facebook is giving users more control over their algorithm",
-          "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm",
-          "publishedAt": "2026-10-13T18:05:24+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -399,13 +399,19 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-13T22:00:27+00:00",
+      "updatedAt": "2026-10-13T23:00:30+00:00",
       "stories": [
         {
           "title": "Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness",
           "url": "https://www.therobotreport.com/hello-robot-ak-robotics-discuss-how-robots-navigate-crowded-indoor-spaces-robobusiness",
           "publishedAt": "2026-10-13T19:48:58+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+          "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks",
+          "publishedAt": "2026-10-13T23:00:00+00:00",
+          "source": "TechCrunch Robotics"
         },
         {
           "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
@@ -462,12 +468,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-          "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
-          "publishedAt": "2026-10-10T15:00:00+00:00",
-          "source": "TechCrunch Robotics"
-        },
-        {
           "title": "Why humanoid robot demos still fail the generalization test",
           "url": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test",
           "publishedAt": "2026-10-09T19:28:41+00:00",
@@ -495,20 +495,20 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-13T22:00:27+00:00",
+    "updatedAt": "2026-10-13T23:00:30+00:00",
     "stories": [
       {
-        "title": "Meta’s Muse Wonder lands at the frontier",
-        "url": "https://research.meta.ai/blog/muse-wonder",
-        "publishedAt": "2026-10-13T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Cerebras CEO pushes back on AI doomsday warnings",
+        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
+        "publishedAt": "2026-10-13T22:36:59+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Microsoft’s Maia 300 takes aim at Nvidia",
-        "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments",
+        "title": "Meta’s Muse Wonder lands at the frontier",
+        "url": "https://research.meta.ai/blog/muse-wonder",
         "publishedAt": "2026-10-13T09:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
@@ -543,10 +543,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Avio, Lockheed sign agreement for solid rocket motor production",
-        "url": "https://breakingdefense.com/2026/10/avio-lockheed-sign-agreement-for-solid-rocket-motor-production",
-        "publishedAt": "2026-10-13T20:48:43+00:00",
-        "source": "Breaking Defense",
+        "title": "Anduril’s Palmer Luckey envisions missiles made in car factories, underground battles",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/andurils-palmer-luckey-envisions-missiles-made-in-car-factories-underground-battles",
+        "publishedAt": "2026-10-13T22:30:00+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -570,19 +570,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Army’s Project Gatekeeper aims to cut software approval times from months to ‘minutes’",
-        "url": "https://breakingdefense.com/2026/10/armys-project-gatekeeper-aims-to-cut-software-approval-times-from-months-to-minutes",
-        "publishedAt": "2026-10-13T20:23:16+00:00",
+        "title": "Avio, Lockheed sign agreement for solid rocket motor production",
+        "url": "https://breakingdefense.com/2026/10/avio-lockheed-sign-agreement-for-solid-rocket-motor-production",
+        "publishedAt": "2026-10-13T20:48:43+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Anduril awarded contract to expand US Army’s next-gen battlefield command system",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/anduril-awarded-contract-to-expand-us-armys-next-gen-battlefield-command-system",
-        "publishedAt": "2026-10-13T21:15:00+00:00",
-        "source": "Defense News",
+        "title": "Army’s Project Gatekeeper aims to cut software approval times from months to ‘minutes’",
+        "url": "https://breakingdefense.com/2026/10/armys-project-gatekeeper-aims-to-cut-software-approval-times-from-months-to-minutes",
+        "publishedAt": "2026-10-13T20:23:16+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
