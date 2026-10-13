@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-13T21:00:27+00:00",
+  "generatedAt": "2026-10-13T22:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-13T21:00:27+00:00",
+      "updatedAt": "2026-10-13T22:00:27+00:00",
       "stories": [
+        {
+          "title": "On this day in space! Oct. 13, 1773: Astronomer Charles Messier discovers the Whirlpool Galaxy before we ever knew it was a galaxy",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-13-2026",
+          "publishedAt": "2026-10-13T21:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York",
           "url": "https://www.space.com/entertainment/star-treks-galileo-shuttle-warps-into-new-york-as-part-of-the-original-series-set-tour",
@@ -23,12 +29,6 @@
           "url": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer",
           "publishedAt": "2026-10-13T20:41:11+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Earth's poles shifted surprisingly fast during the age of dinosaurs, ancient sea levels reveal",
-          "url": "https://www.space.com/astronomy/earth/earths-poles-shifted-surprisingly-fast-during-the-age-of-dinosaurs-ancient-sea-levels-reveal",
-          "publishedAt": "2026-10-13T18:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Comparing Off-World Rover Driving Distances",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-13T21:00:27+00:00",
+      "updatedAt": "2026-10-13T22:00:27+00:00",
       "stories": [
         {
           "title": "A new report reviews UK In-Situ Resource Utilization technology capability",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-13T21:00:27+00:00",
+      "updatedAt": "2026-10-13T22:00:27+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-13T21:00:27+00:00",
+      "updatedAt": "2026-10-13T22:00:27+00:00",
       "stories": [
         {
           "title": "Avio, Lockheed sign agreement for solid rocket motor production",
@@ -218,6 +218,12 @@
           "url": "https://breakingdefense.com/2026/10/armys-project-gatekeeper-aims-to-cut-software-approval-times-from-months-to-minutes",
           "publishedAt": "2026-10-13T20:23:16+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Anduril awarded contract to expand US Army’s next-gen battlefield command system",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/anduril-awarded-contract-to-expand-us-armys-next-gen-battlefield-command-system",
+          "publishedAt": "2026-10-13T21:15:00+00:00",
+          "source": "Defense News"
         },
         {
           "title": "LaNeve to industry: ‘We are not walking away from modernization’",
@@ -250,6 +256,12 @@
           "source": "Breaking Defense"
         },
         {
+          "title": "As Army I Corps gets parts of NGC2 ecosystem, ‘tyranny of distance and disruption’ in the Pacific are top of mind for commander",
+          "url": "https://defensescoop.com/2026/10/13/army-i-corps-next-generation-command-and-control-ngc2",
+          "publishedAt": "2026-10-13T21:57:09+00:00",
+          "source": "DefenseScoop"
+        },
+        {
           "title": "How autonomous weapons are changing the way brigades fight",
           "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/how-autonomous-weapons-are-changing-the-way-brigades-fight",
           "publishedAt": "2026-10-13T19:15:00+00:00",
@@ -259,12 +271,6 @@
           "title": "Startup wants US soldiers to command AI agents through its smart glasses",
           "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/startup-wants-us-soldiers-to-command-ai-agents-through-its-smart-glasses",
           "publishedAt": "2026-10-13T18:45:00+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "Army eyes changes to emergency war gear stocks amid review",
-          "url": "https://www.defensenews.com/news/your-military/2026/10/13/army-eyes-changes-to-emergency-war-gear-stocks-amid-review",
-          "publishedAt": "2026-10-13T18:15:00+00:00",
           "source": "Defense News"
         },
         {
@@ -290,19 +296,13 @@
           "url": "https://defensescoop.com/2026/10/12/army-turning-to-ai-in-its-fight-against-biological-threats",
           "publishedAt": "2026-10-12T21:07:33+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Telle says Army will ‘find the weak links’ in the industrial supply chain through ‘manufacturing rodeo’",
-          "url": "https://defensescoop.com/2026/10/12/telle-says-army-will-find-the-weak-links-in-the-industrial-supply-chain-through-manufacturing-rodeo",
-          "publishedAt": "2026-10-12T19:53:55+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-13T21:00:27+00:00",
+      "updatedAt": "2026-10-13T22:00:27+00:00",
       "stories": [
         {
           "title": "Meta’s Muse Wonder lands at the frontier",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-13T21:00:27+00:00",
+      "updatedAt": "2026-10-13T22:00:27+00:00",
       "stories": [
         {
           "title": "Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-13T21:00:27+00:00",
+    "updatedAt": "2026-10-13T22:00:27+00:00",
     "stories": [
       {
         "title": "Meta’s Muse Wonder lands at the frontier",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York",
-        "url": "https://www.space.com/entertainment/star-treks-galileo-shuttle-warps-into-new-york-as-part-of-the-original-series-set-tour",
-        "publishedAt": "2026-10-13T20:00:00+00:00",
+        "title": "On this day in space! Oct. 13, 1773: Astronomer Charles Messier discovers the Whirlpool Galaxy before we ever knew it was a galaxy",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-13-2026",
+        "publishedAt": "2026-10-13T21:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -579,9 +579,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "LaNeve to industry: ‘We are not walking away from modernization’",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/13/laneve-to-industry-we-are-not-walking-away-from-modernization",
-        "publishedAt": "2026-10-13T20:45:00+00:00",
+        "title": "Anduril awarded contract to expand US Army’s next-gen battlefield command system",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/anduril-awarded-contract-to-expand-us-armys-next-gen-battlefield-command-system",
+        "publishedAt": "2026-10-13T21:15:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -700,6 +700,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: HTTPSConnectionPool(host='vanguarddefence.ca', port=443): Read timed out. (read timeout=25)"
+    "Vanguard: <unknown>:661:8803: not well-formed (invalid token)"
   ]
 }
