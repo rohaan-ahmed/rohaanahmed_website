@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T20:00:32+00:00",
+  "generatedAt": "2026-10-13T21:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-13T20:00:32+00:00",
+      "updatedAt": "2026-10-13T21:00:27+00:00",
       "stories": [
         {
           "title": "See the original Galileo shuttle from 'Star Trek' in its new home at the Original Series Set Tour in New York",
@@ -17,6 +17,12 @@
           "url": "https://www.space.com/entertainment/space-movies-shows/we-basically-did-top-gun-in-space-star-trek-starfleet-academy-warps-back-into-action-in-march-2027-for-sophomore-year-in-the-final-frontier",
           "publishedAt": "2026-10-13T20:00:00+00:00",
           "source": "Space.com"
+        },
+        {
+          "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
+          "url": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer",
+          "publishedAt": "2026-10-13T20:41:11+00:00",
+          "source": "NASA"
         },
         {
           "title": "Earth's poles shifted surprisingly fast during the age of dinosaurs, ancient sea levels reveal",
@@ -34,12 +40,6 @@
           "title": "NASA’s Record-Setting Perseverance Rover Team",
           "url": "https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team",
           "publishedAt": "2026-10-13T17:48:46+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Perseverance Navcam Image Marks Record Drive",
-          "url": "https://science.nasa.gov/photojournal/perseverance-navcam-image-marks-record-drive",
-          "publishedAt": "2026-10-13T17:42:51+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-13T20:00:32+00:00",
+      "updatedAt": "2026-10-13T21:00:27+00:00",
       "stories": [
         {
           "title": "A new report reviews UK In-Situ Resource Utilization technology capability",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-13T20:00:32+00:00",
+      "updatedAt": "2026-10-13T21:00:27+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -205,13 +205,37 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-13T20:00:32+00:00",
+      "updatedAt": "2026-10-13T21:00:27+00:00",
       "stories": [
+        {
+          "title": "Avio, Lockheed sign agreement for solid rocket motor production",
+          "url": "https://breakingdefense.com/2026/10/avio-lockheed-sign-agreement-for-solid-rocket-motor-production",
+          "publishedAt": "2026-10-13T20:48:43+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Army’s Project Gatekeeper aims to cut software approval times from months to ‘minutes’",
+          "url": "https://breakingdefense.com/2026/10/armys-project-gatekeeper-aims-to-cut-software-approval-times-from-months-to-minutes",
+          "publishedAt": "2026-10-13T20:23:16+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "LaNeve to industry: ‘We are not walking away from modernization’",
+          "url": "https://www.defensenews.com/news/your-military/2026/10/13/laneve-to-industry-we-are-not-walking-away-from-modernization",
+          "publishedAt": "2026-10-13T20:45:00+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Precision at scale: APKWS counters the threat",
           "url": "https://breakingdefense.com/2026/10/precision-at-scale-apkws-counters-the-threat",
           "publishedAt": "2026-10-13T19:23:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "BAE Systems unveils new layered air-defense system",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/bae-systems-unveils-new-layered-air-defense-system",
+          "publishedAt": "2026-10-13T20:15:00+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Democratic midterm gains could speed US military aid to Ukraine, lawmaker says",
@@ -232,22 +256,10 @@
           "source": "Defense News"
         },
         {
-          "title": "Israel’s IAI unveils 3 new air defense systems at AUSA",
-          "url": "https://breakingdefense.com/2026/10/israels-iai-unveils-3-new-air-defense-systems-at-ausa",
-          "publishedAt": "2026-10-13T17:52:05+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Startup wants US soldiers to command AI agents through its smart glasses",
           "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/startup-wants-us-soldiers-to-command-ai-agents-through-its-smart-glasses",
           "publishedAt": "2026-10-13T18:45:00+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "Race cars and robots on drones: Sights from AUSA day 2",
-          "url": "https://breakingdefense.com/2026/10/race-cars-and-robots-on-drones-sights-from-ausa-day-2",
-          "publishedAt": "2026-10-13T17:33:08+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Army eyes changes to emergency war gear stocks amid review",
@@ -256,16 +268,10 @@
           "source": "Defense News"
         },
         {
-          "title": "Kongsberg to build new plant in Poland for counter-drone systems",
-          "url": "https://www.defensenews.com/global/europe/2026/10/13/kongsberg-to-build-new-plant-in-poland-for-counter-drone-systems",
-          "publishedAt": "2026-10-13T18:08:19+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "US Army targets 2028 for first high-energy laser counter-drone weapons",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/10/13/us-army-targets-2028-for-first-high-energy-laser-counter-drone-weapons",
-          "publishedAt": "2026-10-13T17:45:00+00:00",
-          "source": "Defense News"
+          "title": "Three-star will head Army’s new autonomy command, which will initially focus on corps-level systems",
+          "url": "https://defensescoop.com/2026/10/13/three-star-will-head-armys-new-autonomy-command-which-will-initially-focus-on-corps-level-systems",
+          "publishedAt": "2026-10-13T20:28:24+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "American Army forces in South Korea adapting to new drone threats",
@@ -290,19 +296,13 @@
           "url": "https://defensescoop.com/2026/10/12/telle-says-army-will-find-the-weak-links-in-the-industrial-supply-chain-through-manufacturing-rodeo",
           "publishedAt": "2026-10-12T19:53:55+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Pentagon moving to modify its online portal for reporting U.S. military casualties",
-          "url": "https://defensescoop.com/2026/10/09/dcas-defense-casualty-analysis-system-changes",
-          "publishedAt": "2026-10-09T20:10:13+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-13T20:00:32+00:00",
+      "updatedAt": "2026-10-13T21:00:27+00:00",
       "stories": [
         {
           "title": "Meta’s Muse Wonder lands at the frontier",
@@ -317,6 +317,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+          "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
+          "publishedAt": "2026-10-13T20:36:44+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
           "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads",
           "publishedAt": "2026-10-13T18:30:00+00:00",
@@ -326,12 +332,6 @@
           "title": "Facebook is giving users more control over their algorithm",
           "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm",
           "publishedAt": "2026-10-13T18:05:24+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-          "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
-          "publishedAt": "2026-10-13T17:30:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -399,11 +399,17 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-13T20:00:32+00:00",
+      "updatedAt": "2026-10-13T21:00:27+00:00",
       "stories": [
         {
-          "title": "Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field",
-          "url": "https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field",
+          "title": "Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness",
+          "url": "https://www.therobotreport.com/hello-robot-ak-robotics-discuss-how-robots-navigate-crowded-indoor-spaces-robobusiness",
+          "publishedAt": "2026-10-13T19:48:58+00:00",
+          "source": "The Robot Report"
+        },
+        {
+          "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
+          "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field",
           "publishedAt": "2026-10-13T18:30:03+00:00",
           "source": "TechCrunch Robotics"
         },
@@ -468,12 +474,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Boston Dynamics gives more insight into its redesigned humanoid hand",
-          "url": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand",
-          "publishedAt": "2026-10-09T16:59:57+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
           "url": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
           "publishedAt": "2026-10-09T15:30:02+00:00",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-13T20:00:32+00:00",
+    "updatedAt": "2026-10-13T21:00:27+00:00",
     "stories": [
       {
         "title": "Meta’s Muse Wonder lands at the frontier",
@@ -543,19 +543,19 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Precision at scale: APKWS counters the threat",
-        "url": "https://breakingdefense.com/2026/10/precision-at-scale-apkws-counters-the-threat",
-        "publishedAt": "2026-10-13T19:23:00+00:00",
+        "title": "Avio, Lockheed sign agreement for solid rocket motor production",
+        "url": "https://breakingdefense.com/2026/10/avio-lockheed-sign-agreement-for-solid-rocket-motor-production",
+        "publishedAt": "2026-10-13T20:48:43+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field",
-        "url": "https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field",
-        "publishedAt": "2026-10-13T18:30:03+00:00",
-        "source": "TechCrunch Robotics",
+        "title": "Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness",
+        "url": "https://www.therobotreport.com/hello-robot-ak-robotics-discuss-how-robots-navigate-crowded-indoor-spaces-robobusiness",
+        "publishedAt": "2026-10-13T19:48:58+00:00",
+        "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
@@ -570,19 +570,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Democratic midterm gains could speed US military aid to Ukraine, lawmaker says",
-        "url": "https://breakingdefense.com/2026/10/democratic-midterm-gains-could-speed-us-military-aid-to-ukraine-lawmaker-says",
-        "publishedAt": "2026-10-13T18:58:01+00:00",
+        "title": "Army’s Project Gatekeeper aims to cut software approval times from months to ‘minutes’",
+        "url": "https://breakingdefense.com/2026/10/armys-project-gatekeeper-aims-to-cut-software-approval-times-from-months-to-minutes",
+        "publishedAt": "2026-10-13T20:23:16+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "LaNeve ‘redesignates’ Army’s Futures and Concepts Command as new FASCOM autonomy command",
-        "url": "https://breakingdefense.com/2026/10/laneve-redesignates-armys-futures-and-concepts-command-as-new-fascom-autonomy-command",
-        "publishedAt": "2026-10-13T18:51:30+00:00",
-        "source": "Breaking Defense",
+        "title": "LaNeve to industry: ‘We are not walking away from modernization’",
+        "url": "https://www.defensenews.com/news/your-military/2026/10/13/laneve-to-industry-we-are-not-walking-away-from-modernization",
+        "publishedAt": "2026-10-13T20:45:00+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
@@ -700,6 +700,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:661:8803: not well-formed (invalid token)"
+    "Vanguard: HTTPSConnectionPool(host='vanguarddefence.ca', port=443): Read timed out. (read timeout=25)"
   ]
 }
