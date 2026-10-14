@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T23:05:08+00:00",
+  "generatedAt": "2026-10-14T00:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-13T23:05:08+00:00",
+      "updatedAt": "2026-10-14T00:00:29+00:00",
       "stories": [
         {
           "title": "On this day in space! Oct. 13, 1773: Astronomer Charles Messier discovers the Whirlpool Galaxy before we ever knew it was a galaxy",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-13T23:05:08+00:00",
+      "updatedAt": "2026-10-14T00:00:29+00:00",
       "stories": [
         {
           "title": "A new report reviews UK In-Situ Resource Utilization technology capability",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-13T23:05:08+00:00",
+      "updatedAt": "2026-10-14T00:00:29+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-13T23:05:08+00:00",
+      "updatedAt": "2026-10-14T00:00:29+00:00",
       "stories": [
         {
           "title": "US Army suspends longtime hometown recruiter assistance program, faces cancellation",
@@ -302,8 +302,26 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-13T23:05:08+00:00",
+      "updatedAt": "2026-10-14T00:00:29+00:00",
       "stories": [
+        {
+          "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+          "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient",
+          "publishedAt": "2026-10-13T23:13:31+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home",
+          "publishedAt": "2026-10-13T23:05:34+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+          "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks",
+          "publishedAt": "2026-10-13T23:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Cerebras CEO pushes back on AI doomsday warnings",
           "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
@@ -332,24 +350,6 @@
           "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
           "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads",
           "publishedAt": "2026-10-13T18:30:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Facebook is giving users more control over their algorithm",
-          "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm",
-          "publishedAt": "2026-10-13T18:05:24+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-          "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
-          "publishedAt": "2026-10-13T17:30:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-          "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache",
-          "publishedAt": "2026-10-13T17:18:25+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -399,8 +399,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-13T23:05:08+00:00",
+      "updatedAt": "2026-10-14T00:00:29+00:00",
       "stories": [
+        {
+          "title": "NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
+          "url": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors",
+          "publishedAt": "2026-10-13T23:22:05+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness",
           "url": "https://www.therobotreport.com/hello-robot-ak-robotics-discuss-how-robots-navigate-crowded-indoor-spaces-robobusiness",
@@ -468,12 +474,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Why humanoid robot demos still fail the generalization test",
-          "url": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test",
-          "publishedAt": "2026-10-09T19:28:41+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
           "url": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
           "publishedAt": "2026-10-09T15:30:02+00:00",
@@ -495,22 +495,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-13T23:05:08+00:00",
+    "updatedAt": "2026-10-14T00:00:29+00:00",
     "stories": [
       {
-        "title": "Cerebras CEO pushes back on AI doomsday warnings",
-        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
-        "publishedAt": "2026-10-13T22:36:59+00:00",
+        "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+        "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient",
+        "publishedAt": "2026-10-13T23:13:31+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Meta’s Muse Wonder lands at the frontier",
-        "url": "https://research.meta.ai/blog/muse-wonder",
-        "publishedAt": "2026-10-13T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home",
+        "publishedAt": "2026-10-13T23:05:34+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -552,9 +552,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness",
-        "url": "https://www.therobotreport.com/hello-robot-ak-robotics-discuss-how-robots-navigate-crowded-indoor-spaces-robobusiness",
-        "publishedAt": "2026-10-13T19:48:58+00:00",
+        "title": "NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
+        "url": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors",
+        "publishedAt": "2026-10-13T23:22:05+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -701,6 +701,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:661:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-29"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-23"
   ]
 }
