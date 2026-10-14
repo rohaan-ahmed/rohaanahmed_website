@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T12:29:08+00:00",
+  "generatedAt": "2026-10-14T13:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-14T12:29:08+00:00",
+      "updatedAt": "2026-10-14T13:00:29+00:00",
       "stories": [
         {
           "title": "Four years ago, NASA punched an asteroid. Europe's Hera probe arrives this month to inspect the wreckage",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-14T12:29:08+00:00",
+      "updatedAt": "2026-10-14T13:00:29+00:00",
       "stories": [
         {
           "title": "A new report reviews UK In-Situ Resource Utilization technology capability",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-14T12:29:08+00:00",
+      "updatedAt": "2026-10-14T13:00:29+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-14T12:29:08+00:00",
+      "updatedAt": "2026-10-14T13:00:29+00:00",
       "stories": [
         {
           "title": "What dismounted soldiers need to survive a battlefield with drones and sensors",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-14T12:29:08+00:00",
+      "updatedAt": "2026-10-14T13:00:29+00:00",
       "stories": [
         {
           "title": "OpenAI engineer bugged exec meeting room",
@@ -341,18 +341,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-          "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks",
-          "publishedAt": "2026-10-13T23:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Cerebras CEO pushes back on AI doomsday warnings",
-          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
-          "publishedAt": "2026-10-13T22:36:59+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Meta’s Muse Wonder lands at the frontier",
           "url": "https://research.meta.ai/blog/muse-wonder",
           "publishedAt": "2026-10-13T09:00:00+00:00",
@@ -365,33 +353,45 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-          "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
-          "publishedAt": "2026-10-13T20:36:44+00:00",
-          "source": "TechCrunch AI"
+          "title": "Microsoft Introduced the Maia 300 AI Chip (4 minute read)",
+          "url": "https://news.microsoft.com/maia-2026",
+          "publishedAt": "2026-10-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Releasing AI-generated software (8 minute read)",
+          "url": "https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software",
+          "publishedAt": "2026-10-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "What I saw around the Curve, 2026 (26 minute read)",
+          "url": "https://secondthoughts.ai/p/what-i-saw-around-the-curve-2026",
+          "publishedAt": "2026-10-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How Close Are AI Models to Self-Replication? (28 minute read)",
+          "url": "https://www.anthropic.com/research/self-replicating-ai",
+          "publishedAt": "2026-10-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Expensive-Loop Problem (22 minute read)",
+          "url": "https://www.lesswrong.com/posts/2mStxuNDMdaWdyHu6/the-expensive-loop-problem",
+          "publishedAt": "2026-10-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Can we change an AI model's architecture without retraining it from scratch? (14 minute read)",
+          "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+          "publishedAt": "2026-10-13T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Atomic Machines’ AI turns code into tiny machines",
           "url": "https://www.atomicmachines.com/matter-compiler",
           "publishedAt": "2026-10-12T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "What Microsoft had to relearn with Copilot",
-          "url": "https://www.microsoft.com/en-us/copilot?OCID=CGE_csocial_MG_CopilotAppEngagement_868meb6uh",
-          "publishedAt": "2026-10-11T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic prohibits abuse or cruelty against Claude",
-          "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-          "publishedAt": "2026-10-09T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI's next frontier is the human cell",
-          "url": "https://biohub.org/news/virtual-biology-initiative-expansion",
-          "publishedAt": "2026-10-08T09:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-14T12:29:08+00:00",
+      "updatedAt": "2026-10-14T13:00:29+00:00",
       "stories": [
         {
           "title": "Timken Precision Drives puts the motion challenge first in humanoid robots",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-14T12:29:08+00:00",
+    "updatedAt": "2026-10-14T13:00:29+00:00",
     "stories": [
       {
         "title": "OpenAI engineer bugged exec meeting room",
@@ -700,7 +700,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:661:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-28"
+    "Vanguard: <unknown>:661:8803: not well-formed (invalid token)"
   ]
 }
