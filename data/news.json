@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T22:00:29+00:00",
+  "generatedAt": "2026-10-14T23:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-14T22:00:29+00:00",
+      "updatedAt": "2026-10-14T23:00:27+00:00",
       "stories": [
         {
           "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-14T22:00:29+00:00",
+      "updatedAt": "2026-10-14T23:00:27+00:00",
       "stories": [
+        {
+          "title": "Czech group CSG becomes MDA Space’s largest shareholder",
+          "url": "https://spaceq.ca/csg-mda-space-largest-shareholder",
+          "publishedAt": "2026-10-14T22:51:20+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Buyers wanted … traders need not apply",
           "url": "https://spaceq.ca/buyers-wanted-traders-need-not-apply",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "New Defence Investment Agency Crown corporation to speed up buying",
-          "url": "https://spaceq.ca/defence-investment-agency-crown-corporation",
-          "publishedAt": "2026-10-08T19:55:10+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Crew-13 Mission: Joshua Kutryk’s First Canadian Press Conference from Space",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/crew-13-mission-joshua-kutryks-first-canadian-press-conference-from-space.html",
           "publishedAt": "2026-10-08T12:57:23+00:00",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-14T22:00:29+00:00",
+      "updatedAt": "2026-10-14T23:00:27+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -211,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-14T22:00:29+00:00",
+      "updatedAt": "2026-10-14T23:00:27+00:00",
       "stories": [
+        {
+          "title": "Pentagon needs $50B for mass drone production, Hegseth says",
+          "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/14/pentagon-needs-50b-for-mass-drone-production-hegseth-says",
+          "publishedAt": "2026-10-14T22:06:56+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Hegseth talks autonomy at AUSA, a key show focus",
           "url": "https://breakingdefense.com/2026/10/hegseth-talks-autonomy-at-ausa-a-key-show-focus",
@@ -268,12 +274,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "‘You’re a coward’: Protesters heckle Hegseth during AUSA panel",
-          "url": "https://www.defensenews.com/news/your-military/2026/10/14/youre-a-coward-protesters-heckle-hegseth-during-ausa-panel",
-          "publishedAt": "2026-10-14T17:24:26+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "U.S. military debuts new Task Force Easy to enable drone tech ‘adaptation dominance’",
           "url": "https://defensescoop.com/2026/10/14/military-drone-tech-task-force-easy",
           "publishedAt": "2026-10-14T19:33:10+00:00",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-14T22:00:29+00:00",
+      "updatedAt": "2026-10-14T23:00:27+00:00",
       "stories": [
         {
           "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
@@ -405,14 +405,8 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-14T22:00:29+00:00",
+      "updatedAt": "2026-10-14T23:00:27+00:00",
       "stories": [
-        {
-          "title": "How ADI is helping robotics startups scale",
-          "url": "https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale",
-          "publishedAt": "2026-10-14T20:29:21+00:00",
-          "source": "The Robot Report"
-        },
         {
           "title": "RoboBusiness 2026 panel to discuss reshoring with robots",
           "url": "https://www.therobotreport.com/robobusiness-2026-panel-discusses-reshoring-with-robots",
@@ -480,6 +474,12 @@
           "source": "IEEE Spectrum Robotics"
         },
         {
+          "title": "Closing the reality gap: Why real-time execution has become the new competitive advantage",
+          "url": "https://www.therobotreport.com/closing-reality-gap-why-real-time-execution-has-become-new-competitive-advantage",
+          "publishedAt": "2026-10-12T14:30:33+00:00",
+          "source": "The Robot Report"
+        },
+        {
           "title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
           "url": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
           "publishedAt": "2026-10-09T15:30:02+00:00",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-14T22:00:29+00:00",
+    "updatedAt": "2026-10-14T23:00:27+00:00",
     "stories": [
       {
         "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
@@ -522,9 +522,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Buyers wanted … traders need not apply",
-        "url": "https://spaceq.ca/buyers-wanted-traders-need-not-apply",
-        "publishedAt": "2026-10-14T19:09:29+00:00",
+        "title": "Czech group CSG becomes MDA Space’s largest shareholder",
+        "url": "https://spaceq.ca/csg-mda-space-largest-shareholder",
+        "publishedAt": "2026-10-14T22:51:20+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -549,22 +549,31 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Hegseth talks autonomy at AUSA, a key show focus",
-        "url": "https://breakingdefense.com/2026/10/hegseth-talks-autonomy-at-ausa-a-key-show-focus",
-        "publishedAt": "2026-10-14T21:06:33+00:00",
-        "source": "Breaking Defense",
+        "title": "Pentagon needs $50B for mass drone production, Hegseth says",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/14/pentagon-needs-50b-for-mass-drone-production-hegseth-says",
+        "publishedAt": "2026-10-14T22:06:56+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "How ADI is helping robotics startups scale",
-        "url": "https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale",
-        "publishedAt": "2026-10-14T20:29:21+00:00",
+        "title": "RoboBusiness 2026 panel to discuss reshoring with robots",
+        "url": "https://www.therobotreport.com/robobusiness-2026-panel-discusses-reshoring-with-robots",
+        "publishedAt": "2026-10-14T15:08:59+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Buyers wanted … traders need not apply",
+        "url": "https://spaceq.ca/buyers-wanted-traders-need-not-apply",
+        "publishedAt": "2026-10-14T19:09:29+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "SpaceX wants up to 456 Starship launches a year from Texas",
@@ -582,15 +591,6 @@
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "France mulls keeping Charles de Gaulle carrier sailing after 2038",
-        "url": "https://www.defensenews.com/global/europe/2026/10/14/france-mulls-keeping-charles-de-gaulle-carrier-sailing-after-2038",
-        "publishedAt": "2026-10-14T21:19:30+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
