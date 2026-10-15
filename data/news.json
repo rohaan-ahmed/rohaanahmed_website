@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-10-15T04:00:26+00:00",
+  "generatedAt": "2026-10-15T05:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-15T04:00:26+00:00",
+      "updatedAt": "2026-10-15T05:00:25+00:00",
       "stories": [
+        {
+          "title": "Watch SpaceX deliver more than 6,000 pounds of cargo to the ISS today",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
+          "publishedAt": "2026-10-15T04:05:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan",
+          "publishedAt": "2026-10-15T04:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Fires Arrive in the Amazon Rainforest",
+          "url": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest",
+          "publishedAt": "2026-10-15T04:01:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
           "url": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit",
@@ -28,24 +46,6 @@
           "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
           "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101",
           "publishedAt": "2026-10-14T20:13:29+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Astronauts to Answer Questions from Florida Students",
-          "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students",
-          "publishedAt": "2026-10-14T19:12:51+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "SpaceX's Starship just turned 10 years old. When will it go to Mars?",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-just-turned-10-years-old-when-will-it-go-to-mars",
-          "publishedAt": "2026-10-14T18:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
-          "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision",
-          "publishedAt": "2026-10-14T16:46:58+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-15T04:00:26+00:00",
+      "updatedAt": "2026-10-15T05:00:25+00:00",
       "stories": [
         {
           "title": "Czech group CSG becomes MDA Space’s largest shareholder",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-15T04:00:26+00:00",
+      "updatedAt": "2026-10-15T05:00:25+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-15T04:00:26+00:00",
+      "updatedAt": "2026-10-15T05:00:25+00:00",
       "stories": [
         {
           "title": "Acting US Army secretary creates task force for HVAC repairs",
@@ -308,8 +308,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-15T04:00:26+00:00",
+      "updatedAt": "2026-10-15T05:00:25+00:00",
       "stories": [
+        {
+          "title": "Figma announces new features to define how agents work on its platform",
+          "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform",
+          "publishedAt": "2026-10-15T04:30:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
           "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
@@ -359,12 +365,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Deezer will soon let you filter out AI-generated music",
-          "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music",
-          "publishedAt": "2026-10-14T15:16:04+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Meta’s Muse Wonder lands at the frontier",
           "url": "https://research.meta.ai/blog/muse-wonder",
           "publishedAt": "2026-10-13T09:00:00+00:00",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-15T04:00:26+00:00",
+      "updatedAt": "2026-10-15T05:00:25+00:00",
       "stories": [
         {
           "title": "RoboBusiness 2026 panel to discuss reshoring with robots",
@@ -501,21 +501,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-15T04:00:26+00:00",
+    "updatedAt": "2026-10-15T05:00:25+00:00",
     "stories": [
       {
-        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
-        "publishedAt": "2026-10-15T01:01:32+00:00",
+        "title": "Figma announces new features to define how agents work on its platform",
+        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform",
+        "publishedAt": "2026-10-15T04:30:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-        "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt",
-        "publishedAt": "2026-10-15T00:00:00+00:00",
+        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
+        "publishedAt": "2026-10-15T01:01:32+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -531,10 +531,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
-        "url": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit",
-        "publishedAt": "2026-10-14T13:09:21+00:00",
-        "source": "SpaceNews",
+        "title": "Watch SpaceX deliver more than 6,000 pounds of cargo to the ISS today",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
+        "publishedAt": "2026-10-15T04:05:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -707,6 +707,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:661:8803: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-18"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-02"
   ]
 }
