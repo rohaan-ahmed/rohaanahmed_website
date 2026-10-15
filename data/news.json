@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-10-15T13:00:30+00:00",
+  "generatedAt": "2026-10-15T14:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-15T13:00:30+00:00",
+      "updatedAt": "2026-10-15T14:00:32+00:00",
       "stories": [
         {
           "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
           "url": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office",
           "publishedAt": "2026-10-15T12:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Beat light pollution with these six portable telescopes",
+          "url": "https://www.space.com/stargazing/skywatching-kit/beat-light-pollution-with-these-six-portable-telescopes",
+          "publishedAt": "2026-10-15T13:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Scientists discover 'chemical starter kit' for life in planetary birthplaces",
@@ -22,12 +28,6 @@
           "title": "SpaceX wants to launch Starship more than 450 times per year from South Texas",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-starship-more-than-450-times-per-year-from-south-texas",
           "publishedAt": "2026-10-15T10:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Watch SpaceX deliver more than 6,000 pounds of cargo to the ISS today",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
-          "publishedAt": "2026-10-15T04:05:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-15T13:00:30+00:00",
+      "updatedAt": "2026-10-15T14:00:32+00:00",
       "stories": [
         {
           "title": "Czech group CSG becomes MDA Space’s largest shareholder",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-15T13:00:30+00:00",
+      "updatedAt": "2026-10-15T14:00:32+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -211,8 +211,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-15T13:00:30+00:00",
+      "updatedAt": "2026-10-15T14:00:32+00:00",
       "stories": [
+        {
+          "title": "Why the midterms could matter for Ukraine aid",
+          "url": "https://breakingdefense.com/2026/10/why-the-midterms-could-matter-for-ukraine-aid",
+          "publishedAt": "2026-10-15T13:41:35+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "US ‘economic supremacy’ key in the Western Hemisphere, top US Army general says",
+          "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-economic-supremacy-key-in-the-western-hemisphere-top-us-army-general-says",
+          "publishedAt": "2026-10-15T13:00:00+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Thales Australia tackles heavy battlefield logistics with new big-rig robot",
           "url": "https://www.defensenews.com/land/2026/10/15/thales-australia-tackles-heavy-battlefield-logistics-with-new-big-rig-robot",
@@ -235,12 +247,6 @@
           "title": "Honeywell Aerospace’s counter-drone software unites data from multiple sensors into one",
           "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one",
           "publishedAt": "2026-10-15T09:00:00+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "Acting US Army secretary creates task force for HVAC repairs",
-          "url": "https://www.defensenews.com/news/your-military/2026/10/15/acting-us-army-secretary-creates-task-force-for-hvac-repairs",
-          "publishedAt": "2026-10-15T03:00:00+00:00",
           "source": "Defense News"
         },
         {
@@ -280,12 +286,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "How Poland’s air force is responding to Russian drones in the skies",
-          "url": "https://breakingdefense.com/2026/10/how-polands-air-force-is-responding-to-russian-drones-in-the-skies",
-          "publishedAt": "2026-10-14T15:24:25+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Army to launch Project Gatekeeper, an effort to make it easier for vendors to onboard software",
           "url": "https://defensescoop.com/2026/10/14/army-project-gatekeeper-software-artificial-intelligence",
           "publishedAt": "2026-10-14T15:16:56+00:00",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-15T13:00:30+00:00",
+      "updatedAt": "2026-10-15T14:00:32+00:00",
       "stories": [
         {
           "title": "Researchers make ‘first contact’ with a rogue AI fleet",
@@ -321,6 +321,42 @@
           "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.176.0_1.pdf",
           "publishedAt": "2026-10-15T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Grok Voice 3.0 (3 minute read)",
+          "url": "https://x.ai/news/grok-voice-3",
+          "publishedAt": "2026-10-15T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Jev: For the builders AND dreamers (5 minute read)",
+          "url": "https://typesafe.ai/blog/jev-1-14",
+          "publishedAt": "2026-10-15T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "A Hybrid, Multi-Model AI Future (6 minute read)",
+          "url": "https://x.com/gavinsbaker/status/2110041532770160668",
+          "publishedAt": "2026-10-15T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "More Agents, Same Mythical Month (18 minute read)",
+          "url": "https://www.brokenrobot.xyz/blog/more-agents-same-mythical-month",
+          "publishedAt": "2026-10-15T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Google Harness² for Recursive Self Improvement (GitHub Repo)",
+          "url": "https://github.com/google-research/harness2",
+          "publishedAt": "2026-10-15T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Analyzing technical documents with Deep Review (12 minute read)",
+          "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
+          "publishedAt": "2026-10-15T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
@@ -359,42 +395,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "OpenAI Employee Arrested Over Hidden Recording Device (2 minute read)",
-          "url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
-          "publishedAt": "2026-10-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Gemini 4 Argon Lands on Google Cloud (3 minute read)",
-          "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud",
-          "publishedAt": "2026-10-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Arguments About AI Consciousness Remain Highly Motivated and At Best Overconfident (14 minute read)",
-          "url": "https://thezvi.wordpress.com/2026/10/13/arguments-about-ai-consciousness-remain-highly-motivated-and-at-best-overconfident",
-          "publishedAt": "2026-10-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How Anthropic's Dynamic Workflows Coordinate Claude Agents (6 minute read)",
-          "url": "https://www.latent.space/p/claude-dynamic-workflows",
-          "publishedAt": "2026-10-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "LFM2.5-24B-A2B (7 minute read)",
-          "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-          "publishedAt": "2026-10-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform (17 minute read)",
-          "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform",
-          "publishedAt": "2026-10-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Meta’s Muse Wonder lands at the frontier",
           "url": "https://research.meta.ai/blog/muse-wonder",
           "publishedAt": "2026-10-13T09:00:00+00:00",
@@ -405,13 +405,19 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-15T13:00:30+00:00",
+      "updatedAt": "2026-10-15T14:00:32+00:00",
       "stories": [
         {
           "title": "Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid",
           "url": "https://www.therobotreport.com/agility-robotics-chooses-nyobolt-ultra-fast-charging-digit-5-humanoid",
           "publishedAt": "2026-10-15T10:59:24+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: Last day",
+          "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day",
+          "publishedAt": "2026-10-15T14:00:00+00:00",
+          "source": "TechCrunch Robotics"
         },
         {
           "title": "RoboBusiness 2026 panel to discuss reshoring with robots",
@@ -462,12 +468,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-          "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
-          "publishedAt": "2026-10-13T17:30:00+00:00",
-          "source": "TechCrunch Robotics"
-        },
-        {
           "title": "Promise Robotics partners with D.R. Horton on physical AI for homebuilding",
           "url": "https://www.therobotreport.com/promise-robotics-partners-d-r-horton-physical-ai-homebuilding",
           "publishedAt": "2026-10-13T13:00:05+00:00",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-15T13:00:30+00:00",
+    "updatedAt": "2026-10-15T14:00:32+00:00",
     "stories": [
       {
         "title": "Researchers make ‘first contact’ with a rogue AI fleet",
@@ -549,10 +549,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Thales Australia tackles heavy battlefield logistics with new big-rig robot",
-        "url": "https://www.defensenews.com/land/2026/10/15/thales-australia-tackles-heavy-battlefield-logistics-with-new-big-rig-robot",
-        "publishedAt": "2026-10-15T12:00:00+00:00",
-        "source": "Defense News",
+        "title": "Why the midterms could matter for Ukraine aid",
+        "url": "https://breakingdefense.com/2026/10/why-the-midterms-could-matter-for-ukraine-aid",
+        "publishedAt": "2026-10-15T13:41:35+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -567,30 +567,30 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "‘Who doesn’t want to be first?’ Best Squad, NCO and Soldier named at AUSA",
-        "url": "https://www.defensenews.com/news/your-army/2026/10/14/who-doesnt-want-to-be-first-best-squad-nco-and-soldier-named-at-ausa",
-        "publishedAt": "2026-10-15T11:00:00+00:00",
+        "title": "US ‘economic supremacy’ key in the Western Hemisphere, top US Army general says",
+        "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-economic-supremacy-key-in-the-western-hemisphere-top-us-army-general-says",
+        "publishedAt": "2026-10-15T13:00:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Scientists discover 'chemical starter kit' for life in planetary birthplaces",
-        "url": "https://www.space.com/space-exploration/search-for-life/scientists-discover-chemical-starter-kit-for-life-in-planetary-birthplaces",
+        "title": "Thales Australia tackles heavy battlefield logistics with new big-rig robot",
+        "url": "https://www.defensenews.com/land/2026/10/15/thales-australia-tackles-heavy-battlefield-logistics-with-new-big-rig-robot",
         "publishedAt": "2026-10-15T12:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "US Army to address parents’ blocked access to teen medical records",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-to-address-parents-blocked-access-to-teen-medical-records",
-        "publishedAt": "2026-10-15T10:00:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026: Last day",
+        "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day",
+        "publishedAt": "2026-10-15T14:00:00+00:00",
+        "source": "TechCrunch Robotics",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -706,6 +706,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:661:8803: not well-formed (invalid token)"
+    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)"
   ]
 }
