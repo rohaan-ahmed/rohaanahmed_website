@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-15T12:01:12+00:00",
+  "generatedAt": "2026-10-15T13:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-15T12:01:12+00:00",
+      "updatedAt": "2026-10-15T13:00:30+00:00",
       "stories": [
         {
           "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-15T12:01:12+00:00",
+      "updatedAt": "2026-10-15T13:00:30+00:00",
       "stories": [
         {
           "title": "Czech group CSG becomes MDA Space’s largest shareholder",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-15T12:01:12+00:00",
+      "updatedAt": "2026-10-15T13:00:30+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -211,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-15T12:01:12+00:00",
+      "updatedAt": "2026-10-15T13:00:30+00:00",
       "stories": [
+        {
+          "title": "Thales Australia tackles heavy battlefield logistics with new big-rig robot",
+          "url": "https://www.defensenews.com/land/2026/10/15/thales-australia-tackles-heavy-battlefield-logistics-with-new-big-rig-robot",
+          "publishedAt": "2026-10-15T12:00:00+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "‘Who doesn’t want to be first?’ Best Squad, NCO and Soldier named at AUSA",
           "url": "https://www.defensenews.com/news/your-army/2026/10/14/who-doesnt-want-to-be-first-best-squad-nco-and-soldier-named-at-ausa",
@@ -235,12 +241,6 @@
           "title": "Acting US Army secretary creates task force for HVAC repairs",
           "url": "https://www.defensenews.com/news/your-military/2026/10/15/acting-us-army-secretary-creates-task-force-for-hvac-repairs",
           "publishedAt": "2026-10-15T03:00:00+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "US soldiers must train on ‘new basics’ of unmanned systems, officials say",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-soldiers-must-train-on-new-basics-of-unmanned-systems-officials-say",
-          "publishedAt": "2026-10-15T01:00:00+00:00",
           "source": "Defense News"
         },
         {
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-15T12:01:12+00:00",
+      "updatedAt": "2026-10-15T13:00:30+00:00",
       "stories": [
         {
           "title": "Researchers make ‘first contact’ with a rogue AI fleet",
@@ -323,6 +323,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+          "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
+          "publishedAt": "2026-10-15T12:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Figma announces new features to define how agents work on its platform",
           "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform",
           "publishedAt": "2026-10-15T04:30:00+00:00",
@@ -332,12 +338,6 @@
           "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
           "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
           "publishedAt": "2026-10-15T01:01:32+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-          "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt",
-          "publishedAt": "2026-10-15T00:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-15T12:01:12+00:00",
+      "updatedAt": "2026-10-15T13:00:30+00:00",
       "stories": [
         {
           "title": "Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-15T12:01:12+00:00",
+    "updatedAt": "2026-10-15T13:00:30+00:00",
     "stories": [
       {
         "title": "Researchers make ‘first contact’ with a rogue AI fleet",
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "‘Who doesn’t want to be first?’ Best Squad, NCO and Soldier named at AUSA",
-        "url": "https://www.defensenews.com/news/your-army/2026/10/14/who-doesnt-want-to-be-first-best-squad-nco-and-soldier-named-at-ausa",
-        "publishedAt": "2026-10-15T11:00:00+00:00",
+        "title": "Thales Australia tackles heavy battlefield logistics with new big-rig robot",
+        "url": "https://www.defensenews.com/land/2026/10/15/thales-australia-tackles-heavy-battlefield-logistics-with-new-big-rig-robot",
+        "publishedAt": "2026-10-15T12:00:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "‘Who doesn’t want to be first?’ Best Squad, NCO and Soldier named at AUSA",
+        "url": "https://www.defensenews.com/news/your-army/2026/10/14/who-doesnt-want-to-be-first-best-squad-nco-and-soldier-named-at-ausa",
+        "publishedAt": "2026-10-15T11:00:00+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Scientists discover 'chemical starter kit' for life in planetary birthplaces",
         "url": "https://www.space.com/space-exploration/search-for-life/scientists-discover-chemical-starter-kit-for-life-in-planetary-birthplaces",
         "publishedAt": "2026-10-15T12:00:00+00:00",
@@ -579,15 +588,6 @@
         "title": "US Army to address parents’ blocked access to teen medical records",
         "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-to-address-parents-blocked-access-to-teen-medical-records",
         "publishedAt": "2026-10-15T10:00:00+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Honeywell Aerospace’s counter-drone software unites data from multiple sensors into one",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one",
-        "publishedAt": "2026-10-15T09:00:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
