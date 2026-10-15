@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-15T16:51:33+00:00",
+  "generatedAt": "2026-10-15T17:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-15T16:51:33+00:00",
+      "updatedAt": "2026-10-15T17:00:29+00:00",
       "stories": [
         {
           "title": "How NASA is thinking about a moon base",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-15T16:51:33+00:00",
+      "updatedAt": "2026-10-15T17:00:29+00:00",
       "stories": [
+        {
+          "title": "Mission Control raises $10 million to scale up for larger missions",
+          "url": "https://spaceq.ca/mission-control-10-million-financing-rovers",
+          "publishedAt": "2026-10-15T16:56:55+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "CSA Space Technology Development Program AO 10 awards $11M to 15 companies",
           "url": "https://spaceq.ca/space-technology-development-program-ao-10-awards",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "NorthStar rings NYSE bell, adds U.S. technical director",
-          "url": "https://spaceq.ca/northstar-nyse-bell-us-technical-director",
-          "publishedAt": "2026-10-09T19:11:47+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Crew-13 Mission: Joshua Kutryk’s First Canadian Press Conference from Space",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/crew-13-mission-joshua-kutryks-first-canadian-press-conference-from-space.html",
           "publishedAt": "2026-10-08T12:57:23+00:00",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-15T16:51:33+00:00",
+      "updatedAt": "2026-10-15T17:00:29+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-15T16:51:33+00:00",
+      "updatedAt": "2026-10-15T17:00:29+00:00",
       "stories": [
         {
           "title": "Routine testosterone screening of US troops may require extensive follow-on care, study finds",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-15T16:51:33+00:00",
+      "updatedAt": "2026-10-15T17:00:29+00:00",
       "stories": [
         {
           "title": "Researchers make ‘first contact’ with a rogue AI fleet",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-15T16:51:33+00:00",
+      "updatedAt": "2026-10-15T17:00:29+00:00",
       "stories": [
         {
           "title": "Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-15T16:51:33+00:00",
+    "updatedAt": "2026-10-15T17:00:29+00:00",
     "stories": [
       {
         "title": "Researchers make ‘first contact’ with a rogue AI fleet",
@@ -516,9 +516,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "CSA Space Technology Development Program AO 10 awards $11M to 15 companies",
-        "url": "https://spaceq.ca/space-technology-development-program-ao-10-awards",
-        "publishedAt": "2026-10-15T15:52:49+00:00",
+        "title": "Mission Control raises $10 million to scale up for larger missions",
+        "url": "https://spaceq.ca/mission-control-10-million-financing-rovers",
+        "publishedAt": "2026-10-15T16:56:55+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -561,6 +561,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "CSA Space Technology Development Program AO 10 awards $11M to 15 companies",
+        "url": "https://spaceq.ca/space-technology-development-program-ao-10-awards",
+        "publishedAt": "2026-10-15T15:52:49+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
         "url": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office",
         "publishedAt": "2026-10-15T12:00:00+00:00",
@@ -574,15 +583,6 @@
         "url": "https://www.defensenews.com/global/europe/2026/10/15/france-to-go-it-alone-on-next-gen-combat-aircraft-after-fcas-collapse",
         "publishedAt": "2026-10-15T15:30:54+00:00",
         "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "As critical mineral deadline looms, Army expects to feel ‘some impact’",
-        "url": "https://breakingdefense.com/2026/10/as-critical-mineral-deadline-looms-army-expects-to-feel-some-impact",
-        "publishedAt": "2026-10-15T14:07:35+00:00",
-        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
