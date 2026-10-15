@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-15T09:00:28+00:00",
+  "generatedAt": "2026-10-15T10:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-15T09:00:28+00:00",
+      "updatedAt": "2026-10-15T10:00:29+00:00",
       "stories": [
         {
           "title": "Watch SpaceX deliver more than 6,000 pounds of cargo to the ISS today",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-15T09:00:28+00:00",
+      "updatedAt": "2026-10-15T10:00:29+00:00",
       "stories": [
         {
           "title": "Czech group CSG becomes MDA Space’s largest shareholder",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-15T09:00:28+00:00",
+      "updatedAt": "2026-10-15T10:00:29+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -211,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-15T09:00:28+00:00",
+      "updatedAt": "2026-10-15T10:00:29+00:00",
       "stories": [
+        {
+          "title": "Honeywell Aerospace’s counter-drone software unites data from multiple sensors into one",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one",
+          "publishedAt": "2026-10-15T09:00:00+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Acting US Army secretary creates task force for HVAC repairs",
           "url": "https://www.defensenews.com/news/your-military/2026/10/15/acting-us-army-secretary-creates-task-force-for-hvac-repairs",
@@ -242,12 +248,6 @@
           "url": "https://breakingdefense.com/2026/10/hegseth-talks-autonomy-at-ausa-a-key-show-focus",
           "publishedAt": "2026-10-14T21:06:33+00:00",
           "source": "Breaking Defense"
-        },
-        {
-          "title": "France mulls keeping Charles de Gaulle carrier sailing after 2038",
-          "url": "https://www.defensenews.com/global/europe/2026/10/14/france-mulls-keeping-charles-de-gaulle-carrier-sailing-after-2038",
-          "publishedAt": "2026-10-14T21:19:30+00:00",
-          "source": "Defense News"
         },
         {
           "title": "NORTHCOM’s Joint Task Force-Gold to coordinate cyber warfare for Golden Dome",
@@ -308,8 +308,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-15T09:00:28+00:00",
+      "updatedAt": "2026-10-15T10:00:29+00:00",
       "stories": [
+        {
+          "title": "Researchers make ‘first contact’ with a rogue AI fleet",
+          "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+          "publishedAt": "2026-10-15T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI and Apple trade theft accusations",
+          "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.176.0_1.pdf",
+          "publishedAt": "2026-10-15T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Figma announces new features to define how agents work on its platform",
           "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform",
@@ -387,25 +399,13 @@
           "url": "https://research.meta.ai/blog/muse-wonder",
           "publishedAt": "2026-10-13T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Microsoft’s Maia 300 takes aim at Nvidia",
-          "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments",
-          "publishedAt": "2026-10-13T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Atomic Machines’ AI turns code into tiny machines",
-          "url": "https://www.atomicmachines.com/matter-compiler",
-          "publishedAt": "2026-10-12T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-15T09:00:28+00:00",
+      "updatedAt": "2026-10-15T10:00:29+00:00",
       "stories": [
         {
           "title": "RoboBusiness 2026 panel to discuss reshoring with robots",
@@ -501,22 +501,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-15T09:00:28+00:00",
+    "updatedAt": "2026-10-15T10:00:29+00:00",
     "stories": [
       {
-        "title": "Figma announces new features to define how agents work on its platform",
-        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform",
-        "publishedAt": "2026-10-15T04:30:00+00:00",
-        "source": "TechCrunch AI",
+        "title": "Researchers make ‘first contact’ with a rogue AI fleet",
+        "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+        "publishedAt": "2026-10-15T09:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
-        "publishedAt": "2026-10-15T01:01:32+00:00",
-        "source": "TechCrunch AI",
+        "title": "OpenAI and Apple trade theft accusations",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.176.0_1.pdf",
+        "publishedAt": "2026-10-15T09:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Acting US Army secretary creates task force for HVAC repairs",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/15/acting-us-army-secretary-creates-task-force-for-hvac-repairs",
-        "publishedAt": "2026-10-15T03:00:00+00:00",
+        "title": "Honeywell Aerospace’s counter-drone software unites data from multiple sensors into one",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one",
+        "publishedAt": "2026-10-15T09:00:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -585,12 +585,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Canadian astronaut Josh Kutryk says his ISS mission is a space-industry moment",
-        "url": "https://spaceq.ca/canadian-astronaut-josh-kutryk-says-his-iss-mission-is-a-space-industry-moment",
-        "publishedAt": "2026-10-14T15:49:38+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
+        "title": "Acting US Army secretary creates task force for HVAC repairs",
+        "url": "https://www.defensenews.com/news/your-military/2026/10/15/acting-us-army-secretary-creates-task-force-for-hvac-repairs",
+        "publishedAt": "2026-10-15T03:00:00+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
