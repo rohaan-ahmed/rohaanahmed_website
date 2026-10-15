@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-15T10:00:29+00:00",
+  "generatedAt": "2026-10-15T11:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-15T10:00:29+00:00",
+      "updatedAt": "2026-10-15T11:00:28+00:00",
       "stories": [
+        {
+          "title": "SpaceX wants to launch Starship more than 450 times per year from South Texas",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-starship-more-than-450-times-per-year-from-south-texas",
+          "publishedAt": "2026-10-15T10:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Watch SpaceX deliver more than 6,000 pounds of cargo to the ISS today",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
@@ -34,12 +40,6 @@
           "title": "Planetary genealogy: Milky Way worlds belong to 1 of 2 ‘families,’ scientists find",
           "url": "https://www.space.com/astronomy/exoplanets/planetary-genealogy-milky-way-worlds-belong-to-1-of-2-families-scientists-find",
           "publishedAt": "2026-10-14T21:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "'Dungeon Crawler Carl' author Matt Dinniman talks inspirations, success, and the upcoming Peacock TV series (interview)",
-          "url": "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-author-matt-dinniman-talks-inspirations-success-and-the-upcoming-peacock-tv-series-interview",
-          "publishedAt": "2026-10-14T20:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-15T10:00:29+00:00",
+      "updatedAt": "2026-10-15T11:00:28+00:00",
       "stories": [
         {
           "title": "Czech group CSG becomes MDA Space’s largest shareholder",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-15T10:00:29+00:00",
+      "updatedAt": "2026-10-15T11:00:28+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -211,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-15T10:00:29+00:00",
+      "updatedAt": "2026-10-15T11:00:28+00:00",
       "stories": [
+        {
+          "title": "US Army to address parents’ blocked access to teen medical records",
+          "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-to-address-parents-blocked-access-to-teen-medical-records",
+          "publishedAt": "2026-10-15T10:00:00+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Honeywell Aerospace’s counter-drone software unites data from multiple sensors into one",
           "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one",
@@ -235,12 +241,6 @@
           "title": "Northrop Grumman breaks out the big guns at AUSA",
           "url": "https://www.defensenews.com/industry/techwatch/2026/10/14/northrop-grumman-breaks-out-the-big-guns-at-ausa",
           "publishedAt": "2026-10-14T23:00:00+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "Pentagon needs $50B for mass drone production, Hegseth says",
-          "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/14/pentagon-needs-50b-for-mass-drone-production-hegseth-says",
-          "publishedAt": "2026-10-14T22:06:56+00:00",
           "source": "Defense News"
         },
         {
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-15T10:00:29+00:00",
+      "updatedAt": "2026-10-15T11:00:28+00:00",
       "stories": [
         {
           "title": "Researchers make ‘first contact’ with a rogue AI fleet",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-15T10:00:29+00:00",
+      "updatedAt": "2026-10-15T11:00:28+00:00",
       "stories": [
         {
           "title": "RoboBusiness 2026 panel to discuss reshoring with robots",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-15T10:00:29+00:00",
+    "updatedAt": "2026-10-15T11:00:28+00:00",
     "stories": [
       {
         "title": "Researchers make ‘first contact’ with a rogue AI fleet",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Watch SpaceX deliver more than 6,000 pounds of cargo to the ISS today",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
-        "publishedAt": "2026-10-15T04:05:00+00:00",
+        "title": "SpaceX wants to launch Starship more than 450 times per year from South Texas",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-starship-more-than-450-times-per-year-from-south-texas",
+        "publishedAt": "2026-10-15T10:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Honeywell Aerospace’s counter-drone software unites data from multiple sensors into one",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one",
-        "publishedAt": "2026-10-15T09:00:00+00:00",
+        "title": "US Army to address parents’ blocked access to teen medical records",
+        "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-to-address-parents-blocked-access-to-teen-medical-records",
+        "publishedAt": "2026-10-15T10:00:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -565,6 +565,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Honeywell Aerospace’s counter-drone software unites data from multiple sensors into one",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one",
+        "publishedAt": "2026-10-15T09:00:00+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Buyers wanted … traders need not apply",
@@ -582,15 +591,6 @@
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Acting US Army secretary creates task force for HVAC repairs",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/15/acting-us-army-secretary-creates-task-force-for-hvac-repairs",
-        "publishedAt": "2026-10-15T03:00:00+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
