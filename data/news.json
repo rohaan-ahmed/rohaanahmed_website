@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-15T22:00:28+00:00",
+  "generatedAt": "2026-10-15T23:00:15+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-15T22:00:28+00:00",
+      "updatedAt": "2026-10-15T23:00:15+00:00",
       "stories": [
         {
           "title": "Oct. 29: Applying AI to the GEOINT Mission",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-15T22:00:28+00:00",
+      "updatedAt": "2026-10-15T23:00:15+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services gets conditional approval to list on the TSX",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-15T22:00:28+00:00",
+      "updatedAt": "2026-10-15T23:00:15+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -205,8 +205,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-15T22:00:28+00:00",
+      "updatedAt": "2026-10-15T23:00:15+00:00",
       "stories": [
+        {
+          "title": "Ukrainian officials blame Pentagon for withholding life-saving intel from Kyiv",
+          "url": "https://www.defensenews.com/global/2026/10/15/ukrainian-officials-blame-pentagon-for-withholding-life-saving-intel-from-kyiv",
+          "publishedAt": "2026-10-15T22:00:48+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Army looks to add third CAML system, Lozano says",
           "url": "https://breakingdefense.com/2026/10/army-looks-to-add-third-caml-system-lozano-says",
@@ -238,6 +244,12 @@
           "source": "Defense News"
         },
         {
+          "title": "Pentagon averts cyber pay cuts — for now — with one-year C-MIP ‘transition plan’",
+          "url": "https://defensescoop.com/2026/10/15/pentagon-cyber-pay-c-mip-transition-plan",
+          "publishedAt": "2026-10-15T22:19:38+00:00",
+          "source": "DefenseScoop"
+        },
+        {
           "title": "‘Revolutionary’: Bell touts MV-75 Cheyenne II as combat game changer",
           "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/revolutionary-bell-touts-mv-75-cheyenne-ii-as-combat-game-changer",
           "publishedAt": "2026-10-15T19:00:00+00:00",
@@ -254,12 +266,6 @@
           "url": "https://defensescoop.com/2026/10/15/humans-vs-artificial-intelligence-wargames-drone-swarms",
           "publishedAt": "2026-10-15T20:38:08+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "US Army to stand up second expeditionary cyber battalion in coming months",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-to-stand-up-second-expeditionary-cyber-battalion-in-coming-months",
-          "publishedAt": "2026-10-15T17:00:00+00:00",
-          "source": "Defense News"
         },
         {
           "title": "Army playing ‘ACEs’ to meet commanders’ capability needs",
@@ -290,19 +296,13 @@
           "url": "https://defensescoop.com/2026/10/14/military-drone-tech-task-force-easy",
           "publishedAt": "2026-10-14T19:33:10+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Army to launch Project Gatekeeper, an effort to make it easier for vendors to onboard software",
-          "url": "https://defensescoop.com/2026/10/14/army-project-gatekeeper-software-artificial-intelligence",
-          "publishedAt": "2026-10-14T15:16:56+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-15T22:00:28+00:00",
+      "updatedAt": "2026-10-15T23:00:15+00:00",
       "stories": [
         {
           "title": "Researchers make ‘first contact’ with a rogue AI fleet",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-15T22:00:28+00:00",
+      "updatedAt": "2026-10-15T23:00:15+00:00",
       "stories": [
         {
           "title": "Stryker invests $400M into CMR Surgical",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-15T22:00:28+00:00",
+    "updatedAt": "2026-10-15T23:00:15+00:00",
     "stories": [
       {
         "title": "Researchers make ‘first contact’ with a rogue AI fleet",
@@ -543,10 +543,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Army looks to add third CAML system, Lozano says",
-        "url": "https://breakingdefense.com/2026/10/army-looks-to-add-third-caml-system-lozano-says",
-        "publishedAt": "2026-10-15T20:54:22+00:00",
-        "source": "Breaking Defense",
+        "title": "Ukrainian officials blame Pentagon for withholding life-saving intel from Kyiv",
+        "url": "https://www.defensenews.com/global/2026/10/15/ukrainian-officials-blame-pentagon-for-withholding-life-saving-intel-from-kyiv",
+        "publishedAt": "2026-10-15T22:00:48+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
