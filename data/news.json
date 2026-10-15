@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T23:52:49+00:00",
+  "generatedAt": "2026-10-15T00:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-14T23:52:49+00:00",
+      "updatedAt": "2026-10-15T00:00:28+00:00",
       "stories": [
         {
           "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-14T23:52:49+00:00",
+      "updatedAt": "2026-10-15T00:00:28+00:00",
       "stories": [
         {
           "title": "Czech group CSG becomes MDA Space’s largest shareholder",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-14T23:52:49+00:00",
+      "updatedAt": "2026-10-15T00:00:28+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-14T23:52:49+00:00",
+      "updatedAt": "2026-10-15T00:00:28+00:00",
       "stories": [
         {
           "title": "Northrop Grumman breaks out the big guns at AUSA",
@@ -308,8 +308,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-14T23:52:49+00:00",
+      "updatedAt": "2026-10-15T00:00:28+00:00",
       "stories": [
+        {
+          "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+          "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt",
+          "publishedAt": "2026-10-15T00:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
           "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different",
@@ -338,12 +344,6 @@
           "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
           "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms",
           "publishedAt": "2026-10-14T18:23:46+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-          "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence",
-          "publishedAt": "2026-10-14T18:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-14T23:52:49+00:00",
+      "updatedAt": "2026-10-15T00:00:28+00:00",
       "stories": [
         {
           "title": "RoboBusiness 2026 panel to discuss reshoring with robots",
@@ -501,22 +501,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-14T23:52:49+00:00",
+    "updatedAt": "2026-10-15T00:00:28+00:00",
     "stories": [
       {
-        "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-        "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different",
-        "publishedAt": "2026-10-14T21:30:33+00:00",
+        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+        "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt",
+        "publishedAt": "2026-10-15T00:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI engineer bugged exec meeting room",
-        "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai",
-        "publishedAt": "2026-10-14T09:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+        "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different",
+        "publishedAt": "2026-10-14T21:30:33+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
