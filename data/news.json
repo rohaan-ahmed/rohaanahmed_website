@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-15T11:00:28+00:00",
+  "generatedAt": "2026-10-15T12:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-15T11:00:28+00:00",
+      "updatedAt": "2026-10-15T12:00:27+00:00",
       "stories": [
+        {
+          "title": "Scientists discover 'chemical starter kit' for life in planetary birthplaces",
+          "url": "https://www.space.com/space-exploration/search-for-life/scientists-discover-chemical-starter-kit-for-life-in-planetary-birthplaces",
+          "publishedAt": "2026-10-15T12:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "SpaceX wants to launch Starship more than 450 times per year from South Texas",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-starship-more-than-450-times-per-year-from-south-texas",
@@ -35,12 +41,6 @@
           "url": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit",
           "publishedAt": "2026-10-14T13:09:21+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Planetary genealogy: Milky Way worlds belong to 1 of 2 ‘families,’ scientists find",
-          "url": "https://www.space.com/astronomy/exoplanets/planetary-genealogy-milky-way-worlds-belong-to-1-of-2-families-scientists-find",
-          "publishedAt": "2026-10-14T21:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-15T11:00:28+00:00",
+      "updatedAt": "2026-10-15T12:00:27+00:00",
       "stories": [
         {
           "title": "Czech group CSG becomes MDA Space’s largest shareholder",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-15T11:00:28+00:00",
+      "updatedAt": "2026-10-15T12:00:27+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -211,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-15T11:00:28+00:00",
+      "updatedAt": "2026-10-15T12:00:27+00:00",
       "stories": [
+        {
+          "title": "‘Who doesn’t want to be first?’ Best Squad, NCO and Soldier named at AUSA",
+          "url": "https://www.defensenews.com/news/your-army/2026/10/14/who-doesnt-want-to-be-first-best-squad-nco-and-soldier-named-at-ausa",
+          "publishedAt": "2026-10-15T11:00:00+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "US Army to address parents’ blocked access to teen medical records",
           "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-to-address-parents-blocked-access-to-teen-medical-records",
@@ -235,12 +241,6 @@
           "title": "US soldiers must train on ‘new basics’ of unmanned systems, officials say",
           "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-soldiers-must-train-on-new-basics-of-unmanned-systems-officials-say",
           "publishedAt": "2026-10-15T01:00:00+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "Northrop Grumman breaks out the big guns at AUSA",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/10/14/northrop-grumman-breaks-out-the-big-guns-at-ausa",
-          "publishedAt": "2026-10-14T23:00:00+00:00",
           "source": "Defense News"
         },
         {
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-15T11:00:28+00:00",
+      "updatedAt": "2026-10-15T12:00:27+00:00",
       "stories": [
         {
           "title": "Researchers make ‘first contact’ with a rogue AI fleet",
@@ -341,6 +341,12 @@
           "source": "TechCrunch AI"
         },
         {
+          "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+          "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different",
+          "publishedAt": "2026-10-14T21:30:33+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "OpenAI engineer bugged exec meeting room",
           "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai",
           "publishedAt": "2026-10-14T09:00:00+00:00",
@@ -359,45 +365,39 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "OpenAI Employee Arrested Over Hidden Recording Device (2 minute read)",
-          "url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
-          "publishedAt": "2026-10-14T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+          "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms",
+          "publishedAt": "2026-10-14T18:23:46+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Gemini 4 Argon Lands on Google Cloud (3 minute read)",
-          "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud",
-          "publishedAt": "2026-10-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Arguments About AI Consciousness Remain Highly Motivated and At Best Overconfident (14 minute read)",
-          "url": "https://thezvi.wordpress.com/2026/10/13/arguments-about-ai-consciousness-remain-highly-motivated-and-at-best-overconfident",
-          "publishedAt": "2026-10-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How Anthropic's Dynamic Workflows Coordinate Claude Agents (6 minute read)",
-          "url": "https://www.latent.space/p/claude-dynamic-workflows",
-          "publishedAt": "2026-10-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "LFM2.5-24B-A2B (7 minute read)",
-          "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-          "publishedAt": "2026-10-14T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform (17 minute read)",
-          "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform",
-          "publishedAt": "2026-10-14T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+          "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence",
+          "publishedAt": "2026-10-14T18:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Meta’s Muse Wonder lands at the frontier",
           "url": "https://research.meta.ai/blog/muse-wonder",
           "publishedAt": "2026-10-13T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Microsoft’s Maia 300 takes aim at Nvidia",
+          "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments",
+          "publishedAt": "2026-10-13T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Atomic Machines’ AI turns code into tiny machines",
+          "url": "https://www.atomicmachines.com/matter-compiler",
+          "publishedAt": "2026-10-12T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "What Microsoft had to relearn with Copilot",
+          "url": "https://www.microsoft.com/en-us/copilot?OCID=CGE_csocial_MG_CopilotAppEngagement_868meb6uh",
+          "publishedAt": "2026-10-11T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -405,8 +405,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-15T11:00:28+00:00",
+      "updatedAt": "2026-10-15T12:00:27+00:00",
       "stories": [
+        {
+          "title": "Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid",
+          "url": "https://www.therobotreport.com/agility-robotics-chooses-nyobolt-ultra-fast-charging-digit-5-humanoid",
+          "publishedAt": "2026-10-15T10:59:24+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "RoboBusiness 2026 panel to discuss reshoring with robots",
           "url": "https://www.therobotreport.com/robobusiness-2026-panel-discusses-reshoring-with-robots",
@@ -474,12 +480,6 @@
           "source": "IEEE Spectrum Robotics"
         },
         {
-          "title": "Closing the reality gap: Why real-time execution has become the new competitive advantage",
-          "url": "https://www.therobotreport.com/closing-reality-gap-why-real-time-execution-has-become-new-competitive-advantage",
-          "publishedAt": "2026-10-12T14:30:33+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
           "url": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
           "publishedAt": "2026-10-09T15:30:02+00:00",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-15T11:00:28+00:00",
+    "updatedAt": "2026-10-15T12:00:27+00:00",
     "stories": [
       {
         "title": "Researchers make ‘first contact’ with a rogue AI fleet",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "SpaceX wants to launch Starship more than 450 times per year from South Texas",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-starship-more-than-450-times-per-year-from-south-texas",
-        "publishedAt": "2026-10-15T10:00:00+00:00",
+        "title": "Scientists discover 'chemical starter kit' for life in planetary birthplaces",
+        "url": "https://www.space.com/space-exploration/search-for-life/scientists-discover-chemical-starter-kit-for-life-in-planetary-birthplaces",
+        "publishedAt": "2026-10-15T12:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -549,22 +549,31 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "US Army to address parents’ blocked access to teen medical records",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-to-address-parents-blocked-access-to-teen-medical-records",
-        "publishedAt": "2026-10-15T10:00:00+00:00",
+        "title": "‘Who doesn’t want to be first?’ Best Squad, NCO and Soldier named at AUSA",
+        "url": "https://www.defensenews.com/news/your-army/2026/10/14/who-doesnt-want-to-be-first-best-squad-nco-and-soldier-named-at-ausa",
+        "publishedAt": "2026-10-15T11:00:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "RoboBusiness 2026 panel to discuss reshoring with robots",
-        "url": "https://www.therobotreport.com/robobusiness-2026-panel-discusses-reshoring-with-robots",
-        "publishedAt": "2026-10-14T15:08:59+00:00",
+        "title": "Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid",
+        "url": "https://www.therobotreport.com/agility-robotics-chooses-nyobolt-ultra-fast-charging-digit-5-humanoid",
+        "publishedAt": "2026-10-15T10:59:24+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "US Army to address parents’ blocked access to teen medical records",
+        "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-to-address-parents-blocked-access-to-teen-medical-records",
+        "publishedAt": "2026-10-15T10:00:00+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Honeywell Aerospace’s counter-drone software unites data from multiple sensors into one",
@@ -576,21 +585,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Buyers wanted … traders need not apply",
-        "url": "https://spaceq.ca/buyers-wanted-traders-need-not-apply",
-        "publishedAt": "2026-10-14T19:09:29+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "SpaceX wants up to 456 Starship launches a year from Texas",
-        "url": "https://spaceq.ca/starship-launches-456-a-year-starbase-faa-review",
-        "publishedAt": "2026-10-14T18:18:02+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
+        "title": "SpaceX wants to launch Starship more than 450 times per year from South Texas",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-starship-more-than-450-times-per-year-from-south-texas",
+        "publishedAt": "2026-10-15T10:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -706,6 +706,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:661:8803: not well-formed (invalid token)"
+    "Vanguard: <unknown>:661:8803: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-22"
   ]
 }
