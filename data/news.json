@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-16T15:00:30+00:00",
+  "generatedAt": "2026-10-16T15:24:07+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-16T15:00:30+00:00",
+      "updatedAt": "2026-10-16T15:24:07+00:00",
       "stories": [
+        {
+          "title": "7 best places to see the northern lights, according to an aurora chaser",
+          "url": "https://www.space.com/stargazing/auroras/7-best-places-to-see-the-northern-lights-according-to-an-aurora-chaser",
+          "publishedAt": "2026-10-16T15:01:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Beyond pointing your phone at the night sky, this is how to use stargazing apps effectively",
           "url": "https://www.space.com/stargazing/skywatching-kit/from-identifying-stars-and-constellations-to-seeking-out-dark-skies-these-are-the-best-ways-to-use-stargazing-apps",
@@ -16,12 +22,6 @@
           "title": "Supermassive black hole blasts out a neon 'treble clef' | Space photo of the day for Oct. 16, 2026",
           "url": "https://www.space.com/astronomy/black-holes/supermassive-black-hole-blasts-out-a-neon-treble-clef-space-photo-of-the-day-for-oct-16-2026",
           "publishedAt": "2026-10-16T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "'We are getting a lot of pressure from the administrator himself': How NASA is racing to obey Trump's 'Super Intelligence' order",
-          "url": "https://www.space.com/technology/we-are-getting-a-lot-of-pressure-from-the-administrator-himself-how-nasa-is-racing-to-obey-trumps-super-intelligence-order",
-          "publishedAt": "2026-10-16T13:55:13+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-16T15:00:30+00:00",
+      "updatedAt": "2026-10-16T15:24:07+00:00",
       "stories": [
         {
           "title": "NorthStar receives conditional TSX listing approval",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-16T15:00:30+00:00",
+      "updatedAt": "2026-10-16T15:24:07+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -205,13 +205,25 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-16T15:00:30+00:00",
+      "updatedAt": "2026-10-16T15:24:07+00:00",
       "stories": [
+        {
+          "title": "Germany changes course on plans to buy MQ-28 drone wingman: Boeing official",
+          "url": "https://breakingdefense.com/2026/10/germany-changes-course-on-plans-to-buy-mq-28-drone-wingman-boeing-official",
+          "publishedAt": "2026-10-16T15:19:30+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Open system architecture will be ‘hyper important’ in downselect of Army’s XM30: Senior official",
           "url": "https://breakingdefense.com/2026/10/open-system-architecture-will-be-hyper-important-in-downselect-of-armys-xm30-senior-official",
           "publishedAt": "2026-10-16T14:31:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "South Korean lasers down three drones in Army demo, Hanwha says",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/south-korean-lasers-down-three-drones-in-army-demo-hanwha-says",
+          "publishedAt": "2026-10-16T15:14:56+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Bulgaria seeks NATO anti-drone systems, defense minister says",
@@ -238,12 +250,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Recap: Autonomy dominates the US Army’s 2026 conference in Washington",
-          "url": "https://www.defensenews.com/recap/ausa/2026/10/16/recap-autonomy-dominates-the-us-armys-2026-conference-in-washington",
-          "publishedAt": "2026-10-16T12:17:46+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Turkish Aerospace expands Anka 3 production with new line for upgraded drone",
           "url": "https://breakingdefense.com/2026/10/turkish-aerospace-expands-anka-3-production-with-new-line-for-upgraded-drone",
           "publishedAt": "2026-10-16T11:02:00+00:00",
@@ -259,12 +265,6 @@
           "title": "Army looks to add third CAML system, Lozano says",
           "url": "https://breakingdefense.com/2026/10/army-looks-to-add-third-caml-system-lozano-says",
           "publishedAt": "2026-10-15T20:54:22+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Reprogramming robots in the mud: How Army Special Ops trains its new robot technicians",
-          "url": "https://breakingdefense.com/2026/10/reprogramming-robots-in-the-mud-how-army-special-ops-trains-its-new-robot-technicians",
-          "publishedAt": "2026-10-15T19:59:12+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-16T15:00:30+00:00",
+      "updatedAt": "2026-10-16T15:24:07+00:00",
       "stories": [
         {
           "title": "Meta gives the West its best open-weight model",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-16T15:00:30+00:00",
+      "updatedAt": "2026-10-16T15:24:07+00:00",
       "stories": [
         {
           "title": "Stryker invests $400M into CMR Surgical",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-16T15:00:30+00:00",
+    "updatedAt": "2026-10-16T15:24:07+00:00",
     "stories": [
       {
         "title": "Meta gives the West its best open-weight model",
@@ -525,9 +525,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Beyond pointing your phone at the night sky, this is how to use stargazing apps effectively",
-        "url": "https://www.space.com/stargazing/skywatching-kit/from-identifying-stars-and-constellations-to-seeking-out-dark-skies-these-are-the-best-ways-to-use-stargazing-apps",
-        "publishedAt": "2026-10-16T14:30:00+00:00",
+        "title": "7 best places to see the northern lights, according to an aurora chaser",
+        "url": "https://www.space.com/stargazing/auroras/7-best-places-to-see-the-northern-lights-according-to-an-aurora-chaser",
+        "publishedAt": "2026-10-16T15:01:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Open system architecture will be ‘hyper important’ in downselect of Army’s XM30: Senior official",
-        "url": "https://breakingdefense.com/2026/10/open-system-architecture-will-be-hyper-important-in-downselect-of-armys-xm30-senior-official",
-        "publishedAt": "2026-10-16T14:31:00+00:00",
+        "title": "Germany changes course on plans to buy MQ-28 drone wingman: Boeing official",
+        "url": "https://breakingdefense.com/2026/10/germany-changes-course-on-plans-to-buy-mq-28-drone-wingman-boeing-official",
+        "publishedAt": "2026-10-16T15:19:30+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -561,27 +561,27 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Open system architecture will be ‘hyper important’ in downselect of Army’s XM30: Senior official",
+        "url": "https://breakingdefense.com/2026/10/open-system-architecture-will-be-hyper-important-in-downselect-of-armys-xm30-senior-official",
+        "publishedAt": "2026-10-16T14:31:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "South Korean lasers down three drones in Army demo, Hanwha says",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/south-korean-lasers-down-three-drones-in-army-demo-hanwha-says",
+        "publishedAt": "2026-10-16T15:14:56+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Bulgaria seeks NATO anti-drone systems, defense minister says",
         "url": "https://www.defensenews.com/global/europe/2026/10/16/bulgaria-seeks-nato-anti-drone-systems-defense-minister-says",
         "publishedAt": "2026-10-16T14:44:49+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Israel secures procurement of 12 Apache gunships in last-minute maneuver",
-        "url": "https://www.defensenews.com/global/mideast-africa/2026/10/16/israel-secures-procurement-of-12-apache-gunships-in-last-minute-maneuver",
-        "publishedAt": "2026-10-16T14:01:24+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "‘Weaponized light’: KBR’s new base defense technology pits lasers against drones",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/15/weaponized-light-kbrs-new-base-defense-technology-pits-lasers-against-drones",
-        "publishedAt": "2026-10-16T14:00:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
