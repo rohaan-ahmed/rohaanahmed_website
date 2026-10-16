@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-16T00:00:28+00:00",
+  "generatedAt": "2026-10-16T01:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-16T00:00:28+00:00",
+      "updatedAt": "2026-10-16T01:00:27+00:00",
       "stories": [
         {
           "title": "Oct. 29: Applying AI to the GEOINT Mission",
@@ -43,7 +43,7 @@
           "source": "NASA"
         },
         {
-          "title": "Watch SpaceX launch classified mission for the US Space Force today",
+          "title": "SpaceX launches classified mission for the US Space Force (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-space-force-launch-ussf-481-vandenberg",
           "publishedAt": "2026-10-15T18:00:00+00:00",
           "source": "Space.com"
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-16T00:00:28+00:00",
+      "updatedAt": "2026-10-16T01:00:27+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services gets conditional approval to list on the TSX",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-16T00:00:28+00:00",
+      "updatedAt": "2026-10-16T01:00:27+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -205,8 +205,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-16T00:00:28+00:00",
+      "updatedAt": "2026-10-16T01:00:27+00:00",
       "stories": [
+        {
+          "title": "Lockheed invests $300M in Texas plant to feed missile surge",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/lockheed-invests-300m-in-texas-plant-to-feed-missile-surge",
+          "publishedAt": "2026-10-16T00:00:00+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Killer balloons an option as US Army seeks to ‘exploit the stratosphere’",
           "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/killer-balloons-an-option-as-us-army-seeks-to-exploit-the-stratosphere",
@@ -256,12 +262,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "‘Revolutionary’: Bell touts MV-75 Cheyenne II as combat game changer",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/revolutionary-bell-touts-mv-75-cheyenne-ii-as-combat-game-changer",
-          "publishedAt": "2026-10-15T19:00:00+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Military service members to square off against AI in ‘Mindgame’ tournament",
           "url": "https://defensescoop.com/2026/10/15/humans-vs-artificial-intelligence-wargames-drone-swarms",
           "publishedAt": "2026-10-15T20:38:08+00:00",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-16T00:00:28+00:00",
+      "updatedAt": "2026-10-16T01:00:27+00:00",
       "stories": [
         {
           "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-16T00:00:28+00:00",
+      "updatedAt": "2026-10-16T01:00:27+00:00",
       "stories": [
         {
           "title": "Stryker invests $400M into CMR Surgical",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-16T00:00:28+00:00",
+    "updatedAt": "2026-10-16T01:00:27+00:00",
     "stories": [
       {
         "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Killer balloons an option as US Army seeks to ‘exploit the stratosphere’",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/killer-balloons-an-option-as-us-army-seeks-to-exploit-the-stratosphere",
-        "publishedAt": "2026-10-15T23:00:00+00:00",
+        "title": "Lockheed invests $300M in Texas plant to feed missile surge",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/lockheed-invests-300m-in-texas-plant-to-feed-missile-surge",
+        "publishedAt": "2026-10-16T00:00:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
