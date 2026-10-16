@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-16T09:00:27+00:00",
+  "generatedAt": "2026-10-16T10:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-16T09:00:27+00:00",
+      "updatedAt": "2026-10-16T10:00:27+00:00",
       "stories": [
         {
           "title": "Earth from Space: West Antarctica",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-16T09:00:27+00:00",
+      "updatedAt": "2026-10-16T10:00:27+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services gets conditional approval to list on the TSX",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-16T09:00:27+00:00",
+      "updatedAt": "2026-10-16T10:00:27+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -205,8 +205,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-16T09:00:27+00:00",
+      "updatedAt": "2026-10-16T10:00:27+00:00",
       "stories": [
+        {
+          "title": "New human-machine interface will help Boxer punch above its weight",
+          "url": "https://www.defensenews.com/land/2026/10/14/new-human-machine-interface-will-help-boxer-punch-above-its-weight",
+          "publishedAt": "2026-10-16T09:00:00+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Lockheed invests $300M in Texas plant to feed missile surge",
           "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/lockheed-invests-300m-in-texas-plant-to-feed-missile-surge",
@@ -248,12 +254,6 @@
           "url": "https://breakingdefense.com/2026/10/finding-the-adversarys-hidden-signals-is-the-armys-next-electromagnetic-warfare-challenge",
           "publishedAt": "2026-10-15T19:31:56+00:00",
           "source": "Breaking Defense"
-        },
-        {
-          "title": "US Army eyes developing soldier-worn drone detection gear",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-eyes-developing-soldier-worn-drone-detection-gear",
-          "publishedAt": "2026-10-15T20:00:00+00:00",
-          "source": "Defense News"
         },
         {
           "title": "Pentagon averts cyber pay cuts — for now — with one-year C-MIP ‘transition plan’",
@@ -302,8 +302,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-16T09:00:27+00:00",
+      "updatedAt": "2026-10-16T10:00:27+00:00",
       "stories": [
+        {
+          "title": "Meta gives the West its best open-weight model",
+          "url": "https://research.meta.ai/blog/muse-spark-open",
+          "publishedAt": "2026-10-16T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Report: Harvard maps AI’s gender divide",
+          "url": "https://shorensteincenter.org/resource/women-ai",
+          "publishedAt": "2026-10-16T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
           "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off",
@@ -381,25 +393,13 @@
           "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
           "publishedAt": "2026-10-14T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Character AI declares bankruptcy, Disney bids $20M",
-          "url": "https://blog.character.ai/an-update-on-character-ai",
-          "publishedAt": "2026-10-14T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Meta’s Muse Wonder lands at the frontier",
-          "url": "https://research.meta.ai/blog/muse-wonder",
-          "publishedAt": "2026-10-13T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-16T09:00:27+00:00",
+      "updatedAt": "2026-10-16T10:00:27+00:00",
       "stories": [
         {
           "title": "Stryker invests $400M into CMR Surgical",
@@ -495,21 +495,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-16T09:00:27+00:00",
+    "updatedAt": "2026-10-16T10:00:27+00:00",
     "stories": [
       {
-        "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-        "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off",
-        "publishedAt": "2026-10-15T23:44:56+00:00",
-        "source": "TechCrunch AI",
+        "title": "Meta gives the West its best open-weight model",
+        "url": "https://research.meta.ai/blog/muse-spark-open",
+        "publishedAt": "2026-10-16T09:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Researchers make ‘first contact’ with a rogue AI fleet",
-        "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
-        "publishedAt": "2026-10-15T09:00:00+00:00",
+        "title": "Report: Harvard maps AI’s gender divide",
+        "url": "https://shorensteincenter.org/resource/women-ai",
+        "publishedAt": "2026-10-16T09:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Lockheed invests $300M in Texas plant to feed missile surge",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/lockheed-invests-300m-in-texas-plant-to-feed-missile-surge",
-        "publishedAt": "2026-10-16T00:00:00+00:00",
+        "title": "New human-machine interface will help Boxer punch above its weight",
+        "url": "https://www.defensenews.com/land/2026/10/14/new-human-machine-interface-will-help-boxer-punch-above-its-weight",
+        "publishedAt": "2026-10-16T09:00:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
