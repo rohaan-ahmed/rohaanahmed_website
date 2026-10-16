@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-16T10:00:27+00:00",
+  "generatedAt": "2026-10-16T11:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-16T10:00:27+00:00",
+      "updatedAt": "2026-10-16T11:00:26+00:00",
       "stories": [
         {
           "title": "Earth from Space: West Antarctica",
@@ -17,6 +17,12 @@
           "url": "https://spacenews.com/applying-ai-to-the-geoint-mission-event",
           "publishedAt": "2026-10-15T20:41:50+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "It's time to reassess the size of our solar system, scientists say",
+          "url": "https://www.space.com/astronomy/solar-system/its-time-to-reassess-the-size-of-our-solar-system-scientists-say",
+          "publishedAt": "2026-10-16T10:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "How NASA is thinking about a moon base",
@@ -61,12 +67,6 @@
           "source": "NASA"
         },
         {
-          "title": "SpaceX launches classified mission for the US Space Force (video)",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-space-force-launch-ussf-481-vandenberg",
-          "publishedAt": "2026-10-15T18:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
           "url": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit",
           "publishedAt": "2026-10-14T13:09:21+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-16T10:00:27+00:00",
+      "updatedAt": "2026-10-16T11:00:26+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services gets conditional approval to list on the TSX",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-16T10:00:27+00:00",
+      "updatedAt": "2026-10-16T11:00:26+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -205,8 +205,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-16T10:00:27+00:00",
+      "updatedAt": "2026-10-16T11:00:26+00:00",
       "stories": [
+        {
+          "title": "Latvian official warns Russia ‘tempted to test’ European readiness, sounds alarm over border issues",
+          "url": "https://breakingdefense.com/2026/10/latvian-official-warns-russia-tempted-to-test-european-readiness-sounds-alarm-over-border-issues",
+          "publishedAt": "2026-10-16T10:00:00+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "What is the US Army doing in Panama? A bit of everything.",
+          "url": "https://www.defensenews.com/news/your-military/2026/10/14/what-is-the-us-army-doing-in-panama-a-bit-of-everything",
+          "publishedAt": "2026-10-16T10:00:00+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "New human-machine interface will help Boxer punch above its weight",
           "url": "https://www.defensenews.com/land/2026/10/14/new-human-machine-interface-will-help-boxer-punch-above-its-weight",
@@ -236,12 +248,6 @@
           "url": "https://breakingdefense.com/2026/10/army-looks-to-add-third-caml-system-lozano-says",
           "publishedAt": "2026-10-15T20:54:22+00:00",
           "source": "Breaking Defense"
-        },
-        {
-          "title": "Expanded dining options popular among soldiers, US Army officials say",
-          "url": "https://www.defensenews.com/news/your-military/2026/10/15/expanded-dining-options-popular-among-soldiers-us-army-officials-say",
-          "publishedAt": "2026-10-15T21:30:00+00:00",
-          "source": "Defense News"
         },
         {
           "title": "Reprogramming robots in the mud: How Army Special Ops trains its new robot technicians",
@@ -280,12 +286,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Why the midterms could matter for Ukraine aid",
-          "url": "https://breakingdefense.com/2026/10/why-the-midterms-could-matter-for-ukraine-aid",
-          "publishedAt": "2026-10-15T13:41:35+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Army looking to expand its new space operations branch amid increasing demand for capabilities",
           "url": "https://defensescoop.com/2026/10/14/army-space-operations-branch-soldiers-capabilities",
           "publishedAt": "2026-10-14T20:53:18+00:00",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-16T10:00:27+00:00",
+      "updatedAt": "2026-10-16T11:00:26+00:00",
       "stories": [
         {
           "title": "Meta gives the West its best open-weight model",
@@ -347,40 +347,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Grok Voice 3.0 (3 minute read)",
-          "url": "https://x.ai/news/grok-voice-3",
-          "publishedAt": "2026-10-15T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+          "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access",
+          "publishedAt": "2026-10-15T19:14:26+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Jev: For the builders AND dreamers (5 minute read)",
-          "url": "https://typesafe.ai/blog/jev-1-14",
-          "publishedAt": "2026-10-15T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+          "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more",
+          "publishedAt": "2026-10-15T18:56:46+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "A Hybrid, Multi-Model AI Future (6 minute read)",
-          "url": "https://x.com/gavinsbaker/status/2110041532770160668",
-          "publishedAt": "2026-10-15T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "More Agents, Same Mythical Month (18 minute read)",
-          "url": "https://www.brokenrobot.xyz/blog/more-agents-same-mythical-month",
-          "publishedAt": "2026-10-15T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Google Harness² for Recursive Self Improvement (GitHub Repo)",
-          "url": "https://github.com/google-research/harness2",
-          "publishedAt": "2026-10-15T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Analyzing technical documents with Deep Review (12 minute read)",
-          "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
-          "publishedAt": "2026-10-15T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+          "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16",
+          "publishedAt": "2026-10-15T18:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI engineer bugged exec meeting room",
@@ -393,13 +375,31 @@
           "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
           "publishedAt": "2026-10-14T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Character AI declares bankruptcy, Disney bids $20M",
+          "url": "https://blog.character.ai/an-update-on-character-ai",
+          "publishedAt": "2026-10-14T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Meta’s Muse Wonder lands at the frontier",
+          "url": "https://research.meta.ai/blog/muse-wonder",
+          "publishedAt": "2026-10-13T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Microsoft’s Maia 300 takes aim at Nvidia",
+          "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments",
+          "publishedAt": "2026-10-13T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-16T10:00:27+00:00",
+      "updatedAt": "2026-10-16T11:00:26+00:00",
       "stories": [
         {
           "title": "Stryker invests $400M into CMR Surgical",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-16T10:00:27+00:00",
+    "updatedAt": "2026-10-16T11:00:26+00:00",
     "stories": [
       {
         "title": "Meta gives the West its best open-weight model",
@@ -543,10 +543,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "New human-machine interface will help Boxer punch above its weight",
-        "url": "https://www.defensenews.com/land/2026/10/14/new-human-machine-interface-will-help-boxer-punch-above-its-weight",
-        "publishedAt": "2026-10-16T09:00:00+00:00",
-        "source": "Defense News",
+        "title": "Latvian official warns Russia ‘tempted to test’ European readiness, sounds alarm over border issues",
+        "url": "https://breakingdefense.com/2026/10/latvian-official-warns-russia-tempted-to-test-european-readiness-sounds-alarm-over-border-issues",
+        "publishedAt": "2026-10-16T10:00:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -561,27 +561,27 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "What is the US Army doing in Panama? A bit of everything.",
+        "url": "https://www.defensenews.com/news/your-military/2026/10/14/what-is-the-us-army-doing-in-panama-a-bit-of-everything",
+        "publishedAt": "2026-10-16T10:00:00+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "New human-machine interface will help Boxer punch above its weight",
+        "url": "https://www.defensenews.com/land/2026/10/14/new-human-machine-interface-will-help-boxer-punch-above-its-weight",
+        "publishedAt": "2026-10-16T09:00:00+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Oct. 29: Applying AI to the GEOINT Mission",
         "url": "https://spacenews.com/applying-ai-to-the-geoint-mission-event",
         "publishedAt": "2026-10-15T20:41:50+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Mission Control raises $10 million to scale up for larger missions",
-        "url": "https://spaceq.ca/mission-control-10-million-financing-rovers",
-        "publishedAt": "2026-10-15T16:56:55+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "How NASA is thinking about a moon base",
-        "url": "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base",
-        "publishedAt": "2026-10-15T15:14:24+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -700,6 +700,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)"
+    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-09-18"
   ]
 }
