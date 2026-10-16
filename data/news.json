@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-16T08:00:27+00:00",
+  "generatedAt": "2026-10-16T09:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-16T08:00:27+00:00",
+      "updatedAt": "2026-10-16T09:00:27+00:00",
       "stories": [
+        {
+          "title": "Earth from Space: West Antarctica",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica",
+          "publishedAt": "2026-10-16T08:00:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "Oct. 29: Applying AI to the GEOINT Mission",
           "url": "https://spacenews.com/applying-ai-to-the-geoint-mission-event",
@@ -89,19 +95,13 @@
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_October_2026",
           "publishedAt": "2026-10-09T13:15:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Earth from Space: Namibia’s biggest salt pan",
-          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Namibia_s_biggest_salt_pan",
-          "publishedAt": "2026-10-09T08:00:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-16T08:00:27+00:00",
+      "updatedAt": "2026-10-16T09:00:27+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services gets conditional approval to list on the TSX",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-16T08:00:27+00:00",
+      "updatedAt": "2026-10-16T09:00:27+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-16T08:00:27+00:00",
+      "updatedAt": "2026-10-16T09:00:27+00:00",
       "stories": [
         {
           "title": "Lockheed invests $300M in Texas plant to feed missile surge",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-16T08:00:27+00:00",
+      "updatedAt": "2026-10-16T09:00:27+00:00",
       "stories": [
         {
           "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-16T08:00:27+00:00",
+      "updatedAt": "2026-10-16T09:00:27+00:00",
       "stories": [
         {
           "title": "Stryker invests $400M into CMR Surgical",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-16T08:00:27+00:00",
+    "updatedAt": "2026-10-16T09:00:27+00:00",
     "stories": [
       {
         "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -525,10 +525,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Oct. 29: Applying AI to the GEOINT Mission",
-        "url": "https://spacenews.com/applying-ai-to-the-geoint-mission-event",
-        "publishedAt": "2026-10-15T20:41:50+00:00",
-        "source": "SpaceNews",
+        "title": "Earth from Space: West Antarctica",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica",
+        "publishedAt": "2026-10-16T08:00:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -561,6 +561,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Oct. 29: Applying AI to the GEOINT Mission",
+        "url": "https://spacenews.com/applying-ai-to-the-geoint-mission-event",
+        "publishedAt": "2026-10-15T20:41:50+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Mission Control raises $10 million to scale up for larger missions",
         "url": "https://spaceq.ca/mission-control-10-million-financing-rovers",
         "publishedAt": "2026-10-15T16:56:55+00:00",
@@ -576,15 +585,6 @@
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "CSA Space Technology Development Program AO 10 awards $11M to 15 companies",
-        "url": "https://spaceq.ca/space-technology-development-program-ao-10-awards",
-        "publishedAt": "2026-10-15T15:52:49+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
