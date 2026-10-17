@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-17T10:00:24+00:00",
+  "generatedAt": "2026-10-17T11:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-17T10:00:24+00:00",
+      "updatedAt": "2026-10-17T11:00:28+00:00",
       "stories": [
+        {
+          "title": "The Orionid meteor shower peaks next week! Here's what to expect",
+          "url": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect",
+          "publishedAt": "2026-10-17T10:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "APOD: 2026 October 17 – 3D 67P",
           "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p",
@@ -29,12 +35,6 @@
           "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director",
           "publishedAt": "2026-10-16T20:14:39+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "How to see the Orionid meteor shower 2026 peak this week — and when to look",
-          "url": "https://www.space.com/stargazing/meteor-showers/how-to-see-the-orionid-meteor-shower-2026-peak-this-week-and-when-to-look",
-          "publishedAt": "2026-10-16T18:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Artemis II Heat Shield After Splashdown",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-17T10:00:24+00:00",
+      "updatedAt": "2026-10-17T11:00:28+00:00",
       "stories": [
         {
           "title": "Josh Kutryk scheduled to do two spacewalks to finish station’s solar power upgrade",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-17T10:00:24+00:00",
+      "updatedAt": "2026-10-17T11:00:28+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-17T10:00:24+00:00",
+      "updatedAt": "2026-10-17T11:00:28+00:00",
       "stories": [
         {
           "title": "US Special Operations adopts new half-mask and goggles",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-17T10:00:24+00:00",
+      "updatedAt": "2026-10-17T11:00:28+00:00",
       "stories": [
         {
           "title": "Replit is no longer working with Anthropic, CEO says",
@@ -341,22 +341,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-          "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it",
-          "publishedAt": "2026-10-16T16:30:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Inside Microsoft's Frontier Pre-Training Stack (18 minute read)",
+          "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai",
+          "publishedAt": "2026-10-16T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Elorian’s first AI model wants to reason with images, not just about them",
-          "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
-          "publishedAt": "2026-10-16T16:01:37+00:00",
-          "source": "TechCrunch AI"
+          "title": "d1-ultra: Introducing the World's Best Decision Model (3 minute read)",
+          "url": "https://www.liquid.ai/blog/d1-ultra",
+          "publishedAt": "2026-10-16T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Jev is Vercel’s fastest-adopted AI model ever",
-          "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever",
-          "publishedAt": "2026-10-16T15:33:49+00:00",
-          "source": "TechCrunch AI"
+          "title": "Neural Networks Are Already Clean (65 minute read)",
+          "url": "https://already-clean.goodfire.com/",
+          "publishedAt": "2026-10-16T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Gradient Is a Covariance (8 minute read)",
+          "url": "https://richardli.xyz/post/gradient-is-covariance",
+          "publishedAt": "2026-10-16T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Mo' turns, mo' problems (6 minute read)",
+          "url": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems",
+          "publishedAt": "2026-10-16T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Nvidia released Nemotron 3.5 Super VL (5 minute read)",
+          "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+          "publishedAt": "2026-10-16T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Researchers make ‘first contact’ with a rogue AI fleet",
@@ -381,31 +399,13 @@
           "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
           "publishedAt": "2026-10-14T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Character AI declares bankruptcy, Disney bids $20M",
-          "url": "https://blog.character.ai/an-update-on-character-ai",
-          "publishedAt": "2026-10-14T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Meta’s Muse Wonder lands at the frontier",
-          "url": "https://research.meta.ai/blog/muse-wonder",
-          "publishedAt": "2026-10-13T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Microsoft’s Maia 300 takes aim at Nvidia",
-          "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments",
-          "publishedAt": "2026-10-13T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-17T10:00:24+00:00",
+      "updatedAt": "2026-10-17T11:00:28+00:00",
       "stories": [
         {
           "title": "Why opportunity charging is winning as robot fleets scale",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-17T10:00:24+00:00",
+    "updatedAt": "2026-10-17T11:00:28+00:00",
     "stories": [
       {
         "title": "Replit is no longer working with Anthropic, CEO says",
@@ -531,10 +531,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 October 17 – 3D 67P",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p",
-        "publishedAt": "2026-10-17T04:05:00+00:00",
-        "source": "NASA",
+        "title": "The Orionid meteor shower peaks next week! Here's what to expect",
+        "url": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect",
+        "publishedAt": "2026-10-17T10:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -576,21 +576,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "APOD: 2026 October 17 – 3D 67P",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p",
+        "publishedAt": "2026-10-17T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "NorthStar receives conditional TSX listing approval",
         "url": "https://spaceq.ca/northstar-tsx-listing-conditional-approval",
         "publishedAt": "2026-10-16T11:02:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "'It really does change you': SpaceX Crew-12 commander wishes we could all see our fragile Earth from space",
-        "url": "https://www.space.com/space-exploration/international-space-station/it-really-does-change-you-spacex-crew-12-commander-wishes-we-could-all-see-our-fragile-earth-from-space",
-        "publishedAt": "2026-10-16T22:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -706,7 +706,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-05"
+    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)"
   ]
 }
