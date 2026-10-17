@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-17T12:00:30+00:00",
+  "generatedAt": "2026-10-17T12:23:02+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-17T12:00:30+00:00",
+      "updatedAt": "2026-10-17T12:23:02+00:00",
       "stories": [
+        {
+          "title": "'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2",
+          "url": "https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2",
+          "publishedAt": "2026-10-17T12:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "The Orionid meteor shower peaks next week! Here's what to expect",
           "url": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect",
@@ -22,12 +28,6 @@
           "title": "'It really does change you': SpaceX Crew-12 commander wishes we could all see our fragile Earth from space",
           "url": "https://www.space.com/space-exploration/international-space-station/it-really-does-change-you-spacex-crew-12-commander-wishes-we-could-all-see-our-fragile-earth-from-space",
           "publishedAt": "2026-10-16T22:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "When not to watch a meteor shower — why I'm not staying up for the Orionids",
-          "url": "https://www.space.com/stargazing/when-not-to-watch-a-meteor-shower-why-im-not-staying-up-for-the-orionids",
-          "publishedAt": "2026-10-16T20:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-17T12:00:30+00:00",
+      "updatedAt": "2026-10-17T12:23:02+00:00",
       "stories": [
         {
           "title": "Josh Kutryk scheduled to do two spacewalks to finish station’s solar power upgrade",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-17T12:00:30+00:00",
+      "updatedAt": "2026-10-17T12:23:02+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-17T12:00:30+00:00",
+      "updatedAt": "2026-10-17T12:23:02+00:00",
       "stories": [
         {
           "title": "US Special Operations adopts new half-mask and goggles",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-17T12:00:30+00:00",
+      "updatedAt": "2026-10-17T12:23:02+00:00",
       "stories": [
         {
           "title": "Replit is no longer working with Anthropic, CEO says",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-17T12:00:30+00:00",
+      "updatedAt": "2026-10-17T12:23:02+00:00",
       "stories": [
         {
           "title": "Why opportunity charging is winning as robot fleets scale",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-17T12:00:30+00:00",
+    "updatedAt": "2026-10-17T12:23:02+00:00",
     "stories": [
       {
         "title": "Replit is no longer working with Anthropic, CEO says",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The Orionid meteor shower peaks next week! Here's what to expect",
-        "url": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect",
-        "publishedAt": "2026-10-17T10:00:00+00:00",
+        "title": "'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2",
+        "url": "https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2",
+        "publishedAt": "2026-10-17T12:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "The Orionid meteor shower peaks next week! Here's what to expect",
+        "url": "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect",
+        "publishedAt": "2026-10-17T10:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "NordSpace starts Phase 2 at Atlantic Spaceport Complex",
         "url": "https://spaceq.ca/nordspace-atlantic-spaceport-complex-phase-2",
         "publishedAt": "2026-10-16T18:09:30+00:00",
@@ -582,15 +591,6 @@
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "NorthStar receives conditional TSX listing approval",
-        "url": "https://spaceq.ca/northstar-tsx-listing-conditional-approval",
-        "publishedAt": "2026-10-16T11:02:00+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
