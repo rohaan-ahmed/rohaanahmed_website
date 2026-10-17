@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-17T21:00:29+00:00",
+  "generatedAt": "2026-10-17T22:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-17T21:00:29+00:00",
+      "updatedAt": "2026-10-17T22:00:25+00:00",
       "stories": [
         {
           "title": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-17T21:00:29+00:00",
+      "updatedAt": "2026-10-17T22:00:25+00:00",
       "stories": [
         {
           "title": "Two space companies receive conditional TSX approval",
@@ -186,24 +186,12 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-17T21:00:29+00:00",
+      "updatedAt": "2026-10-17T22:00:25+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/his-majestys-canadian-ship-ottawa-returns-to-esquimalt-following-operations-horizon-and-latitude.html",
           "publishedAt": "2026-10-09T19:43:56+00:00",
-          "source": "National Defence"
-        },
-        {
-          "title": "Minister McGuinty visits CFB Edmonton to highlight Canada’s defence investments in Alberta",
-          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/minister-mcguinty-visits-cfb-edmonton-to-highlight-canadas-defence-investments-in-alberta.html",
-          "publishedAt": "2026-10-07T21:40:37+00:00",
-          "source": "National Defence"
-        },
-        {
-          "title": "PrairiesCan investments in defence-related projects will strengthen the Alberta economy and support Canada’s military readiness",
-          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/prairiescan-investments-in-defence-related-projects-will-strengthen-the-alberta-economy-and-support-canadas-military-readiness.html",
-          "publishedAt": "2026-10-07T21:36:44+00:00",
           "source": "National Defence"
         }
       ]
@@ -211,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-17T21:00:29+00:00",
+      "updatedAt": "2026-10-17T22:00:25+00:00",
       "stories": [
         {
           "title": "US Special Operations adopts new half-mask and goggles",
@@ -308,8 +296,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-17T21:00:29+00:00",
+      "updatedAt": "2026-10-17T22:00:25+00:00",
       "stories": [
+        {
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+          "publishedAt": "2026-10-17T21:31:32+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
           "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
@@ -333,12 +327,6 @@
           "url": "https://shorensteincenter.org/resource/women-ai",
           "publishedAt": "2026-10-16T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "India becomes the latest country to report rogue AI agent activity",
-          "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
-          "publishedAt": "2026-10-16T17:52:24+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "Inside Microsoft's Frontier Pre-Training Stack (18 minute read)",
@@ -405,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-17T21:00:29+00:00",
+      "updatedAt": "2026-10-17T22:00:25+00:00",
       "stories": [
         {
           "title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
@@ -501,21 +489,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-17T21:00:29+00:00",
+    "updatedAt": "2026-10-17T22:00:25+00:00",
     "stories": [
       {
-        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-        "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
-        "publishedAt": "2026-10-17T20:21:19+00:00",
+        "title": "Meta removes language that raised scraping and AI training concerns",
+        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+        "publishedAt": "2026-10-17T21:31:32+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-        "publishedAt": "2026-10-17T18:48:08+00:00",
+        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
+        "publishedAt": "2026-10-17T20:21:19+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -567,6 +555,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+        "publishedAt": "2026-10-17T18:48:08+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "6 scientifically accurate star projectors to turn any room into a home planetarium",
         "url": "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium",
         "publishedAt": "2026-10-17T14:00:00+00:00",
@@ -582,15 +579,6 @@
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Josh Kutryk scheduled to do two spacewalks to finish station’s solar power upgrade",
-        "url": "https://spaceq.ca/josh-kutryk-spacewalks-station-solar-arrays",
-        "publishedAt": "2026-10-16T18:37:39+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
