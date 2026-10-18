@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-18T16:00:25+00:00",
+  "generatedAt": "2026-10-18T16:36:12+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-18T16:00:25+00:00",
+      "updatedAt": "2026-10-18T16:36:12+00:00",
       "stories": [
+        {
+          "title": "Computer scientist Margaret Hamilton was a problem-solver for the ages (op-ed)",
+          "url": "https://www.space.com/space-exploration/apollo/computer-scientist-margaret-hamilton-was-a-problem-solver-for-the-ages-op-ed",
+          "publishedAt": "2026-10-18T16:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "On this day in space! Oct. 18, 1963: France's Félicette Becomes the 1st Cat in Space! >^..^<",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-18-2026",
@@ -16,12 +22,6 @@
           "title": "Astronomers want your help finding 'missing' black holes in the Milky Way",
           "url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
           "publishedAt": "2026-10-18T12:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "10 best places to see the 2027 total solar eclipse in Spain",
-          "url": "https://www.space.com/stargazing/solar-eclipses/10-best-places-to-see-the-2027-total-solar-eclipse-in-spain",
-          "publishedAt": "2026-10-18T10:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-18T16:00:25+00:00",
+      "updatedAt": "2026-10-18T16:36:12+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Kutryk to become fifth Canadian spacewalker",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-18T16:00:25+00:00",
+      "updatedAt": "2026-10-18T16:36:12+00:00",
       "stories": [
         {
           "title": "Incident at Canadian Forces Base Wainwright",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-18T16:00:25+00:00",
+      "updatedAt": "2026-10-18T16:36:12+00:00",
       "stories": [
         {
           "title": "US arms firm Anduril could make interceptors in Europe, executive says",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-18T16:00:25+00:00",
+      "updatedAt": "2026-10-18T16:36:12+00:00",
       "stories": [
         {
           "title": "Meta removes language that raised scraping and AI training concerns",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-18T16:00:25+00:00",
+      "updatedAt": "2026-10-18T16:36:12+00:00",
       "stories": [
         {
           "title": "How to choose a BLDC motor for robotic arms and mobile robots",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-18T16:00:25+00:00",
+    "updatedAt": "2026-10-18T16:36:12+00:00",
     "stories": [
       {
         "title": "Meta removes language that raised scraping and AI training concerns",
@@ -519,9 +519,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "On this day in space! Oct. 18, 1963: France's Félicette Becomes the 1st Cat in Space! >^..^<",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-18-2026",
-        "publishedAt": "2026-10-18T13:52:32+00:00",
+        "title": "Computer scientist Margaret Hamilton was a problem-solver for the ages (op-ed)",
+        "url": "https://www.space.com/space-exploration/apollo/computer-scientist-margaret-hamilton-was-a-problem-solver-for-the-ages-op-ed",
+        "publishedAt": "2026-10-18T16:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -555,18 +555,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Astronomers want your help finding 'missing' black holes in the Milky Way",
-        "url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
-        "publishedAt": "2026-10-18T12:00:00+00:00",
+        "title": "On this day in space! Oct. 18, 1963: France's Félicette Becomes the 1st Cat in Space! >^..^<",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-18-2026",
+        "publishedAt": "2026-10-18T13:52:32+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "10 best places to see the 2027 total solar eclipse in Spain",
-        "url": "https://www.space.com/stargazing/solar-eclipses/10-best-places-to-see-the-2027-total-solar-eclipse-in-spain",
-        "publishedAt": "2026-10-18T10:00:00+00:00",
+        "title": "Astronomers want your help finding 'missing' black holes in the Milky Way",
+        "url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
+        "publishedAt": "2026-10-18T12:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -695,6 +695,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:661:8864: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-01"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-06"
   ]
 }

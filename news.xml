@@ -5,21 +5,42 @@
     <link>https://rohaanahmed.com/news.html</link>
     <description>An automatically curated news feed built around my areas of interest</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 18 Oct 2026 16:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 16:36:12 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <guid isPermaLink="false">6a4bb8e53bd81a813920b75005511f3038f37be9a8fb2e88eb57826c0e98ff41</guid>
+      <guid isPermaLink="false">5add0eebf35a796f00617cc0cfe1821455b038dc21e4b2e3b9796e1ecc161d93</guid>
       <title>International Space (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-space</link>
-      <pubDate>Sun, 18 Oct 2026 16:00:25 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 16:36:12 +0000</pubDate>
       <category>International Space</category>
       <description>Topic: International Space
-Updated: 2026-10-18T16:00:25+00:00
+Updated: 2026-10-18T16:36:12+00:00
 Stories: 15</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
       <ra:kind>topic</ra:kind>
+    </item>
+    <item>
+      <title>Computer scientist Margaret Hamilton was a problem-solver for the ages (op-ed)</title>
+      <link>https://www.space.com/space-exploration/apollo/computer-scientist-margaret-hamilton-was-a-problem-solver-for-the-ages-op-ed</link>
+      <guid isPermaLink="false">debb3a93d708f2e3d14cc47eca1ec900ffa933f9867e8096683ecabbc7ef9d8a</guid>
+      <pubDate>Sun, 18 Oct 2026 16:00:00 +0000</pubDate>
+      <category>International Space</category>
+      <category>Bulletin</category>
+      <source url="https://www.space.com/">Space.com</source>
+      <description>Topic: International Space
+Source: Space.com
+Published: 2026-10-18T16:00:00+00:00
+Headline: Computer scientist Margaret Hamilton was a problem-solver for the ages (op-ed)</description>
+      <ra:topicId>international-space</ra:topicId>
+      <ra:topicName>International Space</ra:topicName>
+      <ra:topicPosition>1</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>4</ra:bulletinPosition>
+      <ra:publishedAt>2026-10-18T16:00:00+00:00</ra:publishedAt>
+      <ra:sourceName>Space.com</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>On this day in space! Oct. 18, 1963: France's Félicette Becomes the 1st Cat in Space! &gt;^..^&lt;</title>
@@ -36,8 +57,8 @@ Headline: On this day in space! Oct. 18, 1963: France's Félicette Becomes the 1
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>4</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:bulletinPosition>8</ra:bulletinPosition>
       <ra:publishedAt>2026-10-18T13:52:32+00:00</ra:publishedAt>
       <ra:sourceName>Space.com</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -57,30 +78,9 @@ Headline: Astronomers want your help finding 'missing' black holes in the Milky 
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
-      <ra:bulletinPosition>8</ra:bulletinPosition>
-      <ra:publishedAt>2026-10-18T12:00:00+00:00</ra:publishedAt>
-      <ra:sourceName>Space.com</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>10 best places to see the 2027 total solar eclipse in Spain</title>
-      <link>https://www.space.com/stargazing/solar-eclipses/10-best-places-to-see-the-2027-total-solar-eclipse-in-spain</link>
-      <guid isPermaLink="false">8c84b2acc4333dc9c57c24d5a422e2d3d3ff892d76737460e1da83e8ecb4f617</guid>
-      <pubDate>Sun, 18 Oct 2026 10:00:00 +0000</pubDate>
-      <category>International Space</category>
-      <category>Bulletin</category>
-      <source url="https://www.space.com/">Space.com</source>
-      <description>Topic: International Space
-Source: Space.com
-Published: 2026-10-18T10:00:00+00:00
-Headline: 10 best places to see the 2027 total solar eclipse in Spain</description>
-      <ra:topicId>international-space</ra:topicId>
-      <ra:topicName>International Space</ra:topicName>
-      <ra:topicPosition>1</ra:topicPosition>
       <ra:storyPosition>3</ra:storyPosition>
       <ra:bulletinPosition>9</ra:bulletinPosition>
-      <ra:publishedAt>2026-10-18T10:00:00+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-10-18T12:00:00+00:00</ra:publishedAt>
       <ra:sourceName>Space.com</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -313,13 +313,13 @@ Headline: ESA astronaut Sophie Adenot returns from her first mission to the Inte
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">a46e2dc055127736d3d68e40c63e2331f5b416f792a39a8da5b08cd518c70629</guid>
+      <guid isPermaLink="false">a7be99c691405d084f27ad93be1a5277a94a3f98120e62eb67eee9f015bfc17f</guid>
       <title>Canadian Space (12 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
-      <pubDate>Sun, 18 Oct 2026 16:00:25 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 16:36:12 +0000</pubDate>
       <category>Canadian Space</category>
       <description>Topic: Canadian Space
-Updated: 2026-10-18T16:00:25+00:00
+Updated: 2026-10-18T16:36:12+00:00
 Stories: 12</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
@@ -559,13 +559,13 @@ Headline: Advancing Canada's priorities through space</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">413f939a03026d0e25c2671591e188c53ca2984778b147b4f810803ae2604e79</guid>
+      <guid isPermaLink="false">296d56bdbf72f9b60312664337359007db38318c3244f317fd1d24b6e516dda2</guid>
       <title>Canadian Defence (2 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
-      <pubDate>Sun, 18 Oct 2026 16:00:25 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 16:36:12 +0000</pubDate>
       <category>Canadian Defence</category>
       <description>Topic: Canadian Defence
-Updated: 2026-10-18T16:00:25+00:00
+Updated: 2026-10-18T16:36:12+00:00
 Stories: 2</description>
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
@@ -613,13 +613,13 @@ Headline: His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Op
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">1d39d96cc9c288e139d64173d6d5f8f0fff760a4d0d16a7c87eb9f37f775172d</guid>
+      <guid isPermaLink="false">e139084acca3a94970541613ca7b1fc39b2a04a2dfeaeadfc2d48c169779aacc</guid>
       <title>International Defence Technology (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
-      <pubDate>Sun, 18 Oct 2026 16:00:25 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 16:36:12 +0000</pubDate>
       <category>International Defence Technology</category>
       <description>Topic: International Defence Technology
-Updated: 2026-10-18T16:00:25+00:00
+Updated: 2026-10-18T16:36:12+00:00
 Stories: 15</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
@@ -914,13 +914,13 @@ Headline: Army playing ‘ACEs’ to meet commanders’ capability needs</descri
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">4174e15d2431b8f03fff3e326188b664a4db96f757abf5f49e2eda68d781cdfe</guid>
+      <guid isPermaLink="false">2e56e4fa2cc29ef1aeb4740857e40b20532a3683976c45022f1caefc3d600b0e</guid>
       <title>Artificial Intelligence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
-      <pubDate>Sun, 18 Oct 2026 16:00:25 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 16:36:12 +0000</pubDate>
       <category>Artificial Intelligence</category>
       <description>Topic: Artificial Intelligence
-Updated: 2026-10-18T16:00:25+00:00
+Updated: 2026-10-18T16:36:12+00:00
 Stories: 15</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
@@ -1217,13 +1217,13 @@ Headline: Microsoft’s Maia 300 takes aim at Nvidia</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">d6b10fa44a45a856418f7f9b4ef76006d05c2d1584ca5c9d171313bd0e7fc684</guid>
+      <guid isPermaLink="false">b734b657af1139046209493129288f29faefe2c72e9d736f25adc74c9d11be33</guid>
       <title>Robotics (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-robotics</link>
-      <pubDate>Sun, 18 Oct 2026 16:00:25 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 16:36:12 +0000</pubDate>
       <category>Robotics</category>
       <description>Topic: Robotics
-Updated: 2026-10-18T16:00:25+00:00
+Updated: 2026-10-18T16:36:12+00:00
 Stories: 15</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
