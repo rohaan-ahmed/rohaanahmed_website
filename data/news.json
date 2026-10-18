@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-18T12:00:27+00:00",
+  "generatedAt": "2026-10-18T13:00:24+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-18T12:00:27+00:00",
+      "updatedAt": "2026-10-18T13:00:24+00:00",
       "stories": [
+        {
+          "title": "Astronomers want your help finding 'missing' black holes in the Milky Way",
+          "url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
+          "publishedAt": "2026-10-18T12:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "10 best places to see the 2027 total solar eclipse in Spain",
           "url": "https://www.space.com/stargazing/solar-eclipses/10-best-places-to-see-the-2027-total-solar-eclipse-in-spain",
@@ -23,12 +29,6 @@
           "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars",
           "publishedAt": "2026-10-18T04:05:00+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026",
-          "publishedAt": "2026-10-17T14:49:01+00:00",
-          "source": "Space.com"
         },
         {
           "title": "APOD: 2026 October 17 – 3D 67P",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-18T12:00:27+00:00",
+      "updatedAt": "2026-10-18T13:00:24+00:00",
       "stories": [
         {
           "title": "Two space companies receive conditional TSX approval",
@@ -174,19 +174,13 @@
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/advancing-canadas-priorities-through-space.html",
           "publishedAt": "2026-10-14T13:13:57+00:00",
           "source": "Canadian Space Agency"
-        },
-        {
-          "title": "Crew-13 Mission: Joshua Kutryk’s First Canadian Press Conference from Space",
-          "url": "https://www.canada.ca/en/space-agency/news/2026/10/crew-13-mission-joshua-kutryks-first-canadian-press-conference-from-space.html",
-          "publishedAt": "2026-10-08T12:57:23+00:00",
-          "source": "Canadian Space Agency"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-18T12:00:27+00:00",
+      "updatedAt": "2026-10-18T13:00:24+00:00",
       "stories": [
         {
           "title": "Incident at Canadian Forces Base Wainwright",
@@ -205,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-18T12:00:27+00:00",
+      "updatedAt": "2026-10-18T13:00:24+00:00",
       "stories": [
         {
           "title": "US Special Operations adopts new half-mask and goggles",
@@ -302,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-18T12:00:27+00:00",
+      "updatedAt": "2026-10-18T13:00:24+00:00",
       "stories": [
         {
           "title": "Meta removes language that raised scraping and AI training concerns",
@@ -399,8 +393,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-18T12:00:27+00:00",
+      "updatedAt": "2026-10-18T13:00:24+00:00",
       "stories": [
+        {
+          "title": "How to choose a BLDC motor for robotic arms and mobile robots",
+          "url": "https://www.therobotreport.com/how-to-choose-bldc-motor-robotic-arms-mobile-robots",
+          "publishedAt": "2026-10-18T12:30:50+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "ADI explains the race to make AI physical",
           "url": "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical",
@@ -456,12 +456,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid",
-          "url": "https://www.therobotreport.com/agility-robotics-chooses-nyobolt-ultra-fast-charging-digit-5-humanoid",
-          "publishedAt": "2026-10-15T10:59:24+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "TechCrunch Disrupt 2026: Last day",
           "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day",
           "publishedAt": "2026-10-15T14:00:00+00:00",
@@ -495,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-18T12:00:27+00:00",
+    "updatedAt": "2026-10-18T13:00:24+00:00",
     "stories": [
       {
         "title": "Meta removes language that raised scraping and AI training concerns",
@@ -525,9 +519,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "10 best places to see the 2027 total solar eclipse in Spain",
-        "url": "https://www.space.com/stargazing/solar-eclipses/10-best-places-to-see-the-2027-total-solar-eclipse-in-spain",
-        "publishedAt": "2026-10-18T10:00:00+00:00",
+        "title": "Astronomers want your help finding 'missing' black holes in the Milky Way",
+        "url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
+        "publishedAt": "2026-10-18T12:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -552,13 +546,22 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "ADI explains the race to make AI physical",
-        "url": "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical",
-        "publishedAt": "2026-10-17T21:33:57+00:00",
+        "title": "How to choose a BLDC motor for robotic arms and mobile robots",
+        "url": "https://www.therobotreport.com/how-to-choose-bldc-motor-robotic-arms-mobile-robots",
+        "publishedAt": "2026-10-18T12:30:50+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "10 best places to see the 2027 total solar eclipse in Spain",
+        "url": "https://www.space.com/stargazing/solar-eclipses/10-best-places-to-see-the-2027-total-solar-eclipse-in-spain",
+        "publishedAt": "2026-10-18T10:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "'Let's all choose to make tomorrow better', Artemis II astronauts honored with Stephen Hawking Medal at Starmus",
@@ -576,15 +579,6 @@
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-        "publishedAt": "2026-10-17T18:48:08+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
