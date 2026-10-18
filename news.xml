@@ -5,16 +5,16 @@
     <link>https://rohaanahmed.com/news.html</link>
     <description>An automatically curated news feed built around my areas of interest</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 18 Oct 2026 14:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:00:30 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <guid isPermaLink="false">7da59a0aa78287c01a29b4faa305ffa9464684e9922791a23f5d998f2c722fda</guid>
+      <guid isPermaLink="false">48805a4ddebf98f5d52960c756d74ea69350eb8b64625248c9ba72ed09616923</guid>
       <title>International Space (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-space</link>
-      <pubDate>Sun, 18 Oct 2026 14:00:26 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:00:30 +0000</pubDate>
       <category>International Space</category>
       <description>Topic: International Space
-Updated: 2026-10-18T14:00:26+00:00
+Updated: 2026-10-18T15:00:30+00:00
 Stories: 15</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
@@ -90,7 +90,6 @@ Headline: 10 best places to see the 2027 total solar eclipse in Spain</descripti
       <guid isPermaLink="false">0d4c1a53660dd3cfce08266c2b5b30e02c90eb3eaffb6b67bc15657097d8b7ca</guid>
       <pubDate>Sun, 18 Oct 2026 04:05:00 +0000</pubDate>
       <category>International Space</category>
-      <category>Bulletin</category>
       <source url="https://www.nasa.gov/">NASA</source>
       <description>Topic: International Space
 Source: NASA
@@ -100,7 +99,6 @@ Headline: APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars</description>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
       <ra:storyPosition>4</ra:storyPosition>
-      <ra:bulletinPosition>10</ra:bulletinPosition>
       <ra:publishedAt>2026-10-18T04:05:00+00:00</ra:publishedAt>
       <ra:sourceName>NASA</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -315,18 +313,39 @@ Headline: ESA astronaut Sophie Adenot returns from her first mission to the Inte
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">d53af5a6792fac6cd638f0b4933547bf432b42557667b94d23da0ebd615b27f5</guid>
+      <guid isPermaLink="false">a5eef3cf518ad13ad192515eaea49e86e69100179a6262620e876352f1e36d56</guid>
       <title>Canadian Space (12 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
-      <pubDate>Sun, 18 Oct 2026 14:00:26 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:00:30 +0000</pubDate>
       <category>Canadian Space</category>
       <description>Topic: Canadian Space
-Updated: 2026-10-18T14:00:26+00:00
+Updated: 2026-10-18T15:00:30+00:00
 Stories: 12</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
       <ra:kind>topic</ra:kind>
+    </item>
+    <item>
+      <title>Weekly ISS update: Kutryk to become fifth Canadian spacewalker</title>
+      <link>https://spaceq.ca/weekly-iss-update-kutryk-to-become-fifth-canadian-spacewalker</link>
+      <guid isPermaLink="false">32866cdc39e18f367abe31487ce294ec690679500be41e3036ef2911a354984f</guid>
+      <pubDate>Sun, 18 Oct 2026 14:30:14 +0000</pubDate>
+      <category>Canadian Space</category>
+      <category>Bulletin</category>
+      <source url="https://spaceq.ca/">SpaceQ</source>
+      <description>Topic: Canadian Space
+Source: SpaceQ
+Published: 2026-10-18T14:30:14+00:00
+Headline: Weekly ISS update: Kutryk to become fifth Canadian spacewalker</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>3</ra:bulletinPosition>
+      <ra:publishedAt>2026-10-18T14:30:14+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceQ</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>Two space companies receive conditional TSX approval</title>
@@ -343,8 +362,8 @@ Headline: Two space companies receive conditional TSX approval</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>3</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:bulletinPosition>10</ra:bulletinPosition>
       <ra:publishedAt>2026-10-17T20:13:04+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -363,7 +382,7 @@ Headline: Josh Kutryk scheduled to do two spacewalks to finish station’s solar
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
+      <ra:storyPosition>3</ra:storyPosition>
       <ra:publishedAt>2026-10-16T18:37:39+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -382,7 +401,7 @@ Headline: NordSpace starts Phase 2 at Atlantic Spaceport Complex</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-10-16T18:09:30+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -401,7 +420,7 @@ Headline: NorthStar receives conditional TSX listing approval</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-10-16T11:02:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -420,7 +439,7 @@ Headline: NASA to host a technical briefing on CSA astronaut Joshua Kutryk's upc
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
+      <ra:storyPosition>6</ra:storyPosition>
       <ra:publishedAt>2026-10-16T20:41:18+00:00</ra:publishedAt>
       <ra:sourceName>Canadian Space Agency</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -439,7 +458,7 @@ Headline: Maritime Launch Services gets conditional approval to list on the TSX<
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>6</ra:storyPosition>
+      <ra:storyPosition>7</ra:storyPosition>
       <ra:publishedAt>2026-10-15T18:40:35+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -458,7 +477,7 @@ Headline: Mission Control raises $10 million to scale up for larger missions</de
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>7</ra:storyPosition>
+      <ra:storyPosition>8</ra:storyPosition>
       <ra:publishedAt>2026-10-15T16:56:55+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -477,7 +496,7 @@ Headline: CSA Space Technology Development Program AO 10 awards $11M to 15 compa
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>8</ra:storyPosition>
+      <ra:storyPosition>9</ra:storyPosition>
       <ra:publishedAt>2026-10-15T15:52:49+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -496,7 +515,7 @@ Headline: Czech group CSG becomes MDA Space’s largest shareholder</description
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>9</ra:storyPosition>
+      <ra:storyPosition>10</ra:storyPosition>
       <ra:publishedAt>2026-10-14T22:51:20+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -515,27 +534,8 @@ Headline: Buyers wanted … traders need not apply</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
-      <ra:publishedAt>2026-10-14T19:09:29+00:00</ra:publishedAt>
-      <ra:sourceName>SpaceQ</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>SpaceX wants up to 456 Starship launches a year from Texas</title>
-      <link>https://spaceq.ca/starship-launches-456-a-year-starbase-faa-review</link>
-      <guid isPermaLink="false">40cb803a9c2d4c519a491edf92b29cd45eb45f49ca66f418e523998d6e589a4d</guid>
-      <pubDate>Wed, 14 Oct 2026 18:18:02 +0000</pubDate>
-      <category>Canadian Space</category>
-      <source url="https://spaceq.ca/">SpaceQ</source>
-      <description>Topic: Canadian Space
-Source: SpaceQ
-Published: 2026-10-14T18:18:02+00:00
-Headline: SpaceX wants up to 456 Starship launches a year from Texas</description>
-      <ra:topicId>canadian-space</ra:topicId>
-      <ra:topicName>Canadian Space</ra:topicName>
-      <ra:topicPosition>2</ra:topicPosition>
       <ra:storyPosition>11</ra:storyPosition>
-      <ra:publishedAt>2026-10-14T18:18:02+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-10-14T19:09:29+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -559,13 +559,13 @@ Headline: Advancing Canada's priorities through space</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">52f5ff4d19aa0319222abdd622be45e0a092dda189cd7fc6b061d70338f41155</guid>
+      <guid isPermaLink="false">f58e102af0eeb884b41b0e676e31e7c910508b5f2596619b14943c3840410bba</guid>
       <title>Canadian Defence (2 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
-      <pubDate>Sun, 18 Oct 2026 14:00:26 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:00:30 +0000</pubDate>
       <category>Canadian Defence</category>
       <description>Topic: Canadian Defence
-Updated: 2026-10-18T14:00:26+00:00
+Updated: 2026-10-18T15:00:30+00:00
 Stories: 2</description>
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
@@ -613,13 +613,13 @@ Headline: His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Op
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">4351043731e2c392ee1ebc092291ff33185a924c06a054c119d58b9dd6df269d</guid>
+      <guid isPermaLink="false">e030bdbb648c4cfc705ec2756db82cb25d3280eea5990e754061697d4c32e871</guid>
       <title>International Defence Technology (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
-      <pubDate>Sun, 18 Oct 2026 14:00:26 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:00:30 +0000</pubDate>
       <category>International Defence Technology</category>
       <description>Topic: International Defence Technology
-Updated: 2026-10-18T14:00:26+00:00
+Updated: 2026-10-18T15:00:30+00:00
 Stories: 15</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
@@ -914,13 +914,13 @@ Headline: Army playing ‘ACEs’ to meet commanders’ capability needs</descri
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">7cba3f523485eb07d85e53c360d185a63aa976de0009aa39aa1dff3c03cfe1d9</guid>
+      <guid isPermaLink="false">1aae577a5320928af87ea073db4297c621bf9ca387a37f05c12c362c76ec48a9</guid>
       <title>Artificial Intelligence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
-      <pubDate>Sun, 18 Oct 2026 14:00:26 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:00:30 +0000</pubDate>
       <category>Artificial Intelligence</category>
       <description>Topic: Artificial Intelligence
-Updated: 2026-10-18T14:00:26+00:00
+Updated: 2026-10-18T15:00:30+00:00
 Stories: 15</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
@@ -1217,13 +1217,13 @@ Headline: AI’s taste skills move up self-improvement timeline</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">a59421354bdec979beec14af1fc90bc3a3ea7777e559933c75888658a663ebe0</guid>
+      <guid isPermaLink="false">2bf5ba512087cfddbc53952bf8907763b080c6932734ac9f579885bfee0aee06</guid>
       <title>Robotics (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-robotics</link>
-      <pubDate>Sun, 18 Oct 2026 14:00:26 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 15:00:30 +0000</pubDate>
       <category>Robotics</category>
       <description>Topic: Robotics
-Updated: 2026-10-18T14:00:26+00:00
+Updated: 2026-10-18T15:00:30+00:00
 Stories: 15</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T14:00:26+00:00",
+  "generatedAt": "2026-10-18T15:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-18T14:00:26+00:00",
+      "updatedAt": "2026-10-18T15:00:30+00:00",
       "stories": [
         {
           "title": "On this day in space! Oct. 18, 1963: France's Félicette Becomes the 1st Cat in Space! >^..^<",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-18T14:00:26+00:00",
+      "updatedAt": "2026-10-18T15:00:30+00:00",
       "stories": [
+        {
+          "title": "Weekly ISS update: Kutryk to become fifth Canadian spacewalker",
+          "url": "https://spaceq.ca/weekly-iss-update-kutryk-to-become-fifth-canadian-spacewalker",
+          "publishedAt": "2026-10-18T14:30:14+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Two space companies receive conditional TSX approval",
           "url": "https://spaceq.ca/the-weekly-close-october-16-2026",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "SpaceX wants up to 456 Starship launches a year from Texas",
-          "url": "https://spaceq.ca/starship-launches-456-a-year-starbase-faa-review",
-          "publishedAt": "2026-10-14T18:18:02+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Advancing Canada's priorities through space",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/advancing-canadas-priorities-through-space.html",
           "publishedAt": "2026-10-14T13:13:57+00:00",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-18T14:00:26+00:00",
+      "updatedAt": "2026-10-18T15:00:30+00:00",
       "stories": [
         {
           "title": "Incident at Canadian Forces Base Wainwright",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-18T14:00:26+00:00",
+      "updatedAt": "2026-10-18T15:00:30+00:00",
       "stories": [
         {
           "title": "US Special Operations adopts new half-mask and goggles",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-18T14:00:26+00:00",
+      "updatedAt": "2026-10-18T15:00:30+00:00",
       "stories": [
         {
           "title": "Meta removes language that raised scraping and AI training concerns",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-18T14:00:26+00:00",
+      "updatedAt": "2026-10-18T15:00:30+00:00",
       "stories": [
         {
           "title": "How to choose a BLDC motor for robotic arms and mobile robots",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-18T14:00:26+00:00",
+    "updatedAt": "2026-10-18T15:00:30+00:00",
     "stories": [
       {
         "title": "Meta removes language that raised scraping and AI training concerns",
@@ -510,9 +510,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Two space companies receive conditional TSX approval",
-        "url": "https://spaceq.ca/the-weekly-close-october-16-2026",
-        "publishedAt": "2026-10-17T20:13:04+00:00",
+        "title": "Weekly ISS update: Kutryk to become fifth Canadian spacewalker",
+        "url": "https://spaceq.ca/weekly-iss-update-kutryk-to-become-fifth-canadian-spacewalker",
+        "publishedAt": "2026-10-18T14:30:14+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -573,12 +573,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars",
-        "publishedAt": "2026-10-18T04:05:00+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Two space companies receive conditional TSX approval",
+        "url": "https://spaceq.ca/the-weekly-close-october-16-2026",
+        "publishedAt": "2026-10-17T20:13:04+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
