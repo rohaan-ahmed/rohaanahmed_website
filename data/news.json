@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T15:00:30+00:00",
+  "generatedAt": "2026-10-18T16:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-18T15:00:30+00:00",
+      "updatedAt": "2026-10-18T16:00:25+00:00",
       "stories": [
         {
           "title": "On this day in space! Oct. 18, 1963: France's Félicette Becomes the 1st Cat in Space! >^..^<",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-18T15:00:30+00:00",
+      "updatedAt": "2026-10-18T16:00:25+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Kutryk to become fifth Canadian spacewalker",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-18T15:00:30+00:00",
+      "updatedAt": "2026-10-18T16:00:25+00:00",
       "stories": [
         {
           "title": "Incident at Canadian Forces Base Wainwright",
@@ -199,8 +199,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-18T15:00:30+00:00",
+      "updatedAt": "2026-10-18T16:00:25+00:00",
       "stories": [
+        {
+          "title": "US arms firm Anduril could make interceptors in Europe, executive says",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says",
+          "publishedAt": "2026-10-18T15:40:14+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "US Special Operations adopts new half-mask and goggles",
           "url": "https://www.defensenews.com/land/2026/10/15/us-special-operations-adopts-new-half-mask-and-goggles",
@@ -230,12 +236,6 @@
           "url": "https://breakingdefense.com/2026/10/zone-5-found-a-spot-in-drone-interceptor-market-with-new-eclipse-ceo",
           "publishedAt": "2026-10-16T16:28:00+00:00",
           "source": "Breaking Defense"
-        },
-        {
-          "title": "Order to limit Starshield for Ukraine came from inside White House, sources say",
-          "url": "https://www.defensenews.com/pentagon/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say",
-          "publishedAt": "2026-10-16T16:30:00+00:00",
-          "source": "Defense News"
         },
         {
           "title": "Germany changes course on plans to buy MQ-28 drone wingman: Boeing official",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-18T15:00:30+00:00",
+      "updatedAt": "2026-10-18T16:00:25+00:00",
       "stories": [
         {
           "title": "Meta removes language that raised scraping and AI training concerns",
@@ -329,40 +329,22 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Inside Microsoft's Frontier Pre-Training Stack (18 minute read)",
-          "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai",
-          "publishedAt": "2026-10-16T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "India becomes the latest country to report rogue AI agent activity",
+          "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
+          "publishedAt": "2026-10-16T17:52:24+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "d1-ultra: Introducing the World's Best Decision Model (3 minute read)",
-          "url": "https://www.liquid.ai/blog/d1-ultra",
-          "publishedAt": "2026-10-16T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+          "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet",
+          "publishedAt": "2026-10-16T16:30:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Neural Networks Are Already Clean (65 minute read)",
-          "url": "https://already-clean.goodfire.com/",
-          "publishedAt": "2026-10-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Gradient Is a Covariance (8 minute read)",
-          "url": "https://richardli.xyz/post/gradient-is-covariance",
-          "publishedAt": "2026-10-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Mo' turns, mo' problems (6 minute read)",
-          "url": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems",
-          "publishedAt": "2026-10-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Nvidia released Nemotron 3.5 Super VL (5 minute read)",
-          "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
-          "publishedAt": "2026-10-16T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+          "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it",
+          "publishedAt": "2026-10-16T16:30:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Researchers make ‘first contact’ with a rogue AI fleet",
@@ -387,13 +369,31 @@
           "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
           "publishedAt": "2026-10-14T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Character AI declares bankruptcy, Disney bids $20M",
+          "url": "https://blog.character.ai/an-update-on-character-ai",
+          "publishedAt": "2026-10-14T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Meta’s Muse Wonder lands at the frontier",
+          "url": "https://research.meta.ai/blog/muse-wonder",
+          "publishedAt": "2026-10-13T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Microsoft’s Maia 300 takes aim at Nvidia",
+          "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments",
+          "publishedAt": "2026-10-13T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-18T15:00:30+00:00",
+      "updatedAt": "2026-10-18T16:00:25+00:00",
       "stories": [
         {
           "title": "How to choose a BLDC motor for robotic arms and mobile robots",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-18T15:00:30+00:00",
+    "updatedAt": "2026-10-18T16:00:25+00:00",
     "stories": [
       {
         "title": "Meta removes language that raised scraping and AI training concerns",
@@ -537,9 +537,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "US Special Operations adopts new half-mask and goggles",
-        "url": "https://www.defensenews.com/land/2026/10/15/us-special-operations-adopts-new-half-mask-and-goggles",
-        "publishedAt": "2026-10-16T22:00:00+00:00",
+        "title": "US arms firm Anduril could make interceptors in Europe, executive says",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says",
+        "publishedAt": "2026-10-18T15:40:14+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -694,6 +694,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)"
+    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-01"
   ]
 }
