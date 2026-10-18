@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-18T04:00:26+00:00",
+  "generatedAt": "2026-10-18T04:45:52+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-18T04:00:26+00:00",
+      "updatedAt": "2026-10-18T04:45:52+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars",
+          "publishedAt": "2026-10-18T04:05:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026",
@@ -34,12 +40,6 @@
           "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
           "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director",
           "publishedAt": "2026-10-16T20:14:39+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Artemis II Heat Shield After Splashdown",
-          "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown",
-          "publishedAt": "2026-10-16T16:28:01+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-18T04:00:26+00:00",
+      "updatedAt": "2026-10-18T04:45:52+00:00",
       "stories": [
         {
           "title": "Two space companies receive conditional TSX approval",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-18T04:00:26+00:00",
+      "updatedAt": "2026-10-18T04:45:52+00:00",
       "stories": [
         {
           "title": "His Majesty’s Canadian Ship Ottawa returns to Esquimalt following Operations HORIZON and LATITUDE",
@@ -199,7 +199,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-18T04:00:26+00:00",
+      "updatedAt": "2026-10-18T04:45:52+00:00",
       "stories": [
         {
           "title": "US Special Operations adopts new half-mask and goggles",
@@ -296,7 +296,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-18T04:00:26+00:00",
+      "updatedAt": "2026-10-18T04:45:52+00:00",
       "stories": [
         {
           "title": "Meta removes language that raised scraping and AI training concerns",
@@ -393,7 +393,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-18T04:00:26+00:00",
+      "updatedAt": "2026-10-18T04:45:52+00:00",
       "stories": [
         {
           "title": "ADI explains the race to make AI physical",
@@ -489,7 +489,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-18T04:00:26+00:00",
+    "updatedAt": "2026-10-18T04:45:52+00:00",
     "stories": [
       {
         "title": "Meta removes language that raised scraping and AI training concerns",
@@ -519,10 +519,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026",
-        "publishedAt": "2026-10-17T14:49:01+00:00",
-        "source": "Space.com",
+        "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars",
+        "publishedAt": "2026-10-18T04:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -573,9 +573,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "6 scientifically accurate star projectors to turn any room into a home planetarium",
-        "url": "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium",
-        "publishedAt": "2026-10-17T14:00:00+00:00",
+        "title": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026",
+        "publishedAt": "2026-10-17T14:49:01+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
