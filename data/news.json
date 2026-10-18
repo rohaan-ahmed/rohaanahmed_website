@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-18T09:10:00+00:00",
+  "generatedAt": "2026-10-18T10:00:24+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-18T09:10:00+00:00",
+      "updatedAt": "2026-10-18T10:00:24+00:00",
       "stories": [
+        {
+          "title": "'Let's all choose to make tomorrow better', Artemis II astronauts honored with Stephen Hawking Medal at Starmus",
+          "url": "https://www.space.com/space-exploration/artemis/artemis-ii-astronauts-honored-with-stephen-hawking-medal-at-starmus",
+          "publishedAt": "2026-10-18T09:12:51+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
           "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars",
@@ -22,12 +28,6 @@
           "title": "6 scientifically accurate star projectors to turn any room into a home planetarium",
           "url": "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium",
           "publishedAt": "2026-10-17T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "'Lanterns' shocking finale left us with a lot of unanswered questions for a potential season 2",
-          "url": "https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2",
-          "publishedAt": "2026-10-17T12:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-18T09:10:00+00:00",
+      "updatedAt": "2026-10-18T10:00:24+00:00",
       "stories": [
         {
           "title": "Two space companies receive conditional TSX approval",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-18T09:10:00+00:00",
+      "updatedAt": "2026-10-18T10:00:24+00:00",
       "stories": [
         {
           "title": "Incident at Canadian Forces Base Wainwright",
@@ -205,7 +205,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-18T09:10:00+00:00",
+      "updatedAt": "2026-10-18T10:00:24+00:00",
       "stories": [
         {
           "title": "US Special Operations adopts new half-mask and goggles",
@@ -302,7 +302,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-18T09:10:00+00:00",
+      "updatedAt": "2026-10-18T10:00:24+00:00",
       "stories": [
         {
           "title": "Meta removes language that raised scraping and AI training concerns",
@@ -399,7 +399,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-18T09:10:00+00:00",
+      "updatedAt": "2026-10-18T10:00:24+00:00",
       "stories": [
         {
           "title": "ADI explains the race to make AI physical",
@@ -495,7 +495,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-18T09:10:00+00:00",
+    "updatedAt": "2026-10-18T10:00:24+00:00",
     "stories": [
       {
         "title": "Meta removes language that raised scraping and AI training concerns",
@@ -525,10 +525,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars",
-        "publishedAt": "2026-10-18T04:05:00+00:00",
-        "source": "NASA",
+        "title": "'Let's all choose to make tomorrow better', Artemis II astronauts honored with Stephen Hawking Medal at Starmus",
+        "url": "https://www.space.com/space-exploration/artemis/artemis-ii-astronauts-honored-with-stephen-hawking-medal-at-starmus",
+        "publishedAt": "2026-10-18T09:12:51+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -561,6 +561,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars",
+        "publishedAt": "2026-10-18T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Replit makes OpenAI its default over Anthropic, CEO says",
         "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
         "publishedAt": "2026-10-17T18:48:08+00:00",
@@ -576,15 +585,6 @@
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "On this day in space! Oct. 17, 2016: Private Antares rocket returns to flight after catastrophic launch explosion",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026",
-        "publishedAt": "2026-10-17T14:49:01+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
