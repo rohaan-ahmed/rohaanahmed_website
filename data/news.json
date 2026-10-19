@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T13:00:27+00:00",
+  "generatedAt": "2026-10-19T14:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-19T13:00:27+00:00",
+      "updatedAt": "2026-10-19T14:00:29+00:00",
       "stories": [
         {
           "title": "Euclid discovers new comet",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-19T13:00:27+00:00",
+      "updatedAt": "2026-10-19T14:00:29+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Kutryk to become fifth Canadian spacewalker",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-19T13:00:27+00:00",
+      "updatedAt": "2026-10-19T14:00:29+00:00",
       "stories": [
         {
           "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
@@ -211,13 +211,25 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-19T13:00:27+00:00",
+      "updatedAt": "2026-10-19T14:00:29+00:00",
       "stories": [
+        {
+          "title": "Ukrainian defense firms get creative to try and break through export restrictions",
+          "url": "https://breakingdefense.com/2026/10/ukrainian-defense-firms-get-creative-to-try-and-break-through-export-restrictions",
+          "publishedAt": "2026-10-19T13:11:04+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Why the Army can’t build its Pacific network like the one in Europe",
           "url": "https://breakingdefense.com/2026/10/why-the-army-cant-build-its-pacific-network-like-the-one-in-europe",
           "publishedAt": "2026-10-19T12:46:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "US Army Cyber Command charts course for human-AI equilibrium",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium",
+          "publishedAt": "2026-10-19T13:00:00+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Army feels ‘growing pains’ as it integrates Anduril NGC2 tech with older comms",
@@ -250,12 +262,6 @@
           "source": "Defense News"
         },
         {
-          "title": "US Army fields new system for sweeping munitions planning, management",
-          "url": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management",
-          "publishedAt": "2026-10-19T09:00:00+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Zone 5 ‘found a spot’ in drone interceptor market with new Eclipse: CEO",
           "url": "https://breakingdefense.com/2026/10/zone-5-found-a-spot-in-drone-interceptor-market-with-new-eclipse-ceo",
           "publishedAt": "2026-10-16T16:28:00+00:00",
@@ -280,12 +286,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "Open system architecture will be ‘hyper important’ in downselect of Army’s XM30: Senior official",
-          "url": "https://breakingdefense.com/2026/10/open-system-architecture-will-be-hyper-important-in-downselect-of-armys-xm30-senior-official",
-          "publishedAt": "2026-10-16T14:31:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Pentagon averts cyber pay cuts — for now — with one-year C-MIP ‘transition plan’",
           "url": "https://defensescoop.com/2026/10/15/pentagon-cyber-pay-c-mip-transition-plan",
           "publishedAt": "2026-10-15T22:19:38+00:00",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-19T13:00:27+00:00",
+      "updatedAt": "2026-10-19T14:00:29+00:00",
       "stories": [
         {
           "title": "Anthropic designs a pay package for the public",
@@ -321,6 +321,42 @@
           "url": "https://www-cdn.anthropic.com/72628f1863c53432195db83279252dfd2cb53158/Employment%20at%20Anthropic.pdf",
           "publishedAt": "2026-10-19T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI testing new \"Aurora\" GPT-Image model on Arena (3 minute read)",
+          "url": "https://www.testingcatalog.com/openai-possibly-testing-gpt-image-3",
+          "publishedAt": "2026-10-19T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How AI Is Reshaping Anthropic's Workforce (17 minute read)",
+          "url": "https://www.anthropic.com/research/employment-at-anthropic",
+          "publishedAt": "2026-10-19T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How to Trust Your Coding Agents More (2 minute read)",
+          "url": "https://x.com/poteto/status/2111133080526495985",
+          "publishedAt": "2026-10-19T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Search & Fetch (8 minute read)",
+          "url": "https://api-docs.deepseek.com/guides/search",
+          "publishedAt": "2026-10-19T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "DeepSeek-V4.1-Flash-1017 (Hugging Face Repo)",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "publishedAt": "2026-10-19T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How the Claude Code team does code review (18 minute read)",
+          "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
+          "publishedAt": "2026-10-19T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
@@ -353,42 +389,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Inside Microsoft's Frontier Pre-Training Stack (18 minute read)",
-          "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai",
-          "publishedAt": "2026-10-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "d1-ultra: Introducing the World's Best Decision Model (3 minute read)",
-          "url": "https://www.liquid.ai/blog/d1-ultra",
-          "publishedAt": "2026-10-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Neural Networks Are Already Clean (65 minute read)",
-          "url": "https://already-clean.goodfire.com/",
-          "publishedAt": "2026-10-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Gradient Is a Covariance (8 minute read)",
-          "url": "https://richardli.xyz/post/gradient-is-covariance",
-          "publishedAt": "2026-10-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Mo' turns, mo' problems (6 minute read)",
-          "url": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems",
-          "publishedAt": "2026-10-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Nvidia released Nemotron 3.5 Super VL (5 minute read)",
-          "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
-          "publishedAt": "2026-10-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Researchers make ‘first contact’ with a rogue AI fleet",
           "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
           "publishedAt": "2026-10-15T09:00:00+00:00",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-19T13:00:27+00:00",
+      "updatedAt": "2026-10-19T14:00:29+00:00",
       "stories": [
         {
           "title": "A guide to everything happening at RoboBusiness 2026",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-19T13:00:27+00:00",
+    "updatedAt": "2026-10-19T14:00:29+00:00",
     "stories": [
       {
         "title": "Anthropic designs a pay package for the public",
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Why the Army can’t build its Pacific network like the one in Europe",
-        "url": "https://breakingdefense.com/2026/10/why-the-army-cant-build-its-pacific-network-like-the-one-in-europe",
-        "publishedAt": "2026-10-19T12:46:00+00:00",
+        "title": "Ukrainian defense firms get creative to try and break through export restrictions",
+        "url": "https://breakingdefense.com/2026/10/ukrainian-defense-firms-get-creative-to-try-and-break-through-export-restrictions",
+        "publishedAt": "2026-10-19T13:11:04+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -567,28 +567,28 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Army feels ‘growing pains’ as it integrates Anduril NGC2 tech with older comms",
-        "url": "https://breakingdefense.com/2026/10/army-feels-growing-pains-as-it-integrates-anduril-ngc2-tech-with-older-comms",
-        "publishedAt": "2026-10-19T11:30:00+00:00",
+        "title": "Why the Army can’t build its Pacific network like the one in Europe",
+        "url": "https://breakingdefense.com/2026/10/why-the-army-cant-build-its-pacific-network-like-the-one-in-europe",
+        "publishedAt": "2026-10-19T12:46:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "US Army acquisition command awards contracts worth $6.8B in 2026",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026",
-        "publishedAt": "2026-10-19T12:00:00+00:00",
+        "title": "US Army Cyber Command charts course for human-AI equilibrium",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium",
+        "publishedAt": "2026-10-19T13:00:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Australia gets the ball rolling on medium-range air defense",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/10/19/australia-gets-the-ball-rolling-on-medium-range-air-defense",
-        "publishedAt": "2026-10-19T11:32:17+00:00",
-        "source": "Defense News",
+        "title": "Army feels ‘growing pains’ as it integrates Anduril NGC2 tech with older comms",
+        "url": "https://breakingdefense.com/2026/10/army-feels-growing-pains-as-it-integrates-anduril-ngc2-tech-with-older-comms",
+        "publishedAt": "2026-10-19T11:30:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
