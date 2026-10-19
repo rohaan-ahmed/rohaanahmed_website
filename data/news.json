@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-19T10:00:28+00:00",
+  "generatedAt": "2026-10-19T11:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-19T10:00:28+00:00",
+      "updatedAt": "2026-10-19T11:00:28+00:00",
       "stories": [
+        {
+          "title": "Japan launching bold sample-return mission to Mars moon Phobos today: Watch it live",
+          "url": "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live",
+          "publishedAt": "2026-10-19T10:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
           "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source",
@@ -28,12 +34,6 @@
           "title": "Computer scientist Margaret Hamilton was a problem-solver for the ages (op-ed)",
           "url": "https://www.space.com/space-exploration/apollo/computer-scientist-margaret-hamilton-was-a-problem-solver-for-the-ages-op-ed",
           "publishedAt": "2026-10-18T16:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "On this day in space! Oct. 18, 1963: France's Félicette Becomes the 1st Cat in Space! >^..^<",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-18-2026",
-          "publishedAt": "2026-10-18T13:52:32+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-19T10:00:28+00:00",
+      "updatedAt": "2026-10-19T11:00:28+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Kutryk to become fifth Canadian spacewalker",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-19T10:00:28+00:00",
+      "updatedAt": "2026-10-19T11:00:28+00:00",
       "stories": [
         {
           "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
@@ -211,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-19T10:00:28+00:00",
+      "updatedAt": "2026-10-19T11:00:28+00:00",
       "stories": [
+        {
+          "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
+          "url": "https://www.defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon",
+          "publishedAt": "2026-10-19T10:00:00+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "US Army fields new system for sweeping munitions planning, management",
           "url": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management",
@@ -235,12 +241,6 @@
           "title": "What is Starshield, SpaceX’s military version of Starlink?",
           "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/what-is-starshield-spacexs-military-version-of-starlink",
           "publishedAt": "2026-10-16T20:08:08+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "US Army’s 8th Psychological Operations Group inactivated",
-          "url": "https://www.defensenews.com/news/your-military/2026/10/16/us-armys-8th-psychological-operations-group-inactivated",
-          "publishedAt": "2026-10-16T18:30:00+00:00",
           "source": "Defense News"
         },
         {
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-19T10:00:28+00:00",
+      "updatedAt": "2026-10-19T11:00:28+00:00",
       "stories": [
         {
           "title": "Anthropic designs a pay package for the public",
@@ -341,18 +341,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-          "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
-          "publishedAt": "2026-10-17T20:21:19+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "publishedAt": "2026-10-17T18:48:08+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Meta gives the West its best open-weight model",
           "url": "https://research.meta.ai/blog/muse-spark-open",
           "publishedAt": "2026-10-16T09:00:00+00:00",
@@ -365,10 +353,40 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "India becomes the latest country to report rogue AI agent activity",
-          "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
-          "publishedAt": "2026-10-16T17:52:24+00:00",
-          "source": "TechCrunch AI"
+          "title": "Inside Microsoft's Frontier Pre-Training Stack (18 minute read)",
+          "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai",
+          "publishedAt": "2026-10-16T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "d1-ultra: Introducing the World's Best Decision Model (3 minute read)",
+          "url": "https://www.liquid.ai/blog/d1-ultra",
+          "publishedAt": "2026-10-16T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Neural Networks Are Already Clean (65 minute read)",
+          "url": "https://already-clean.goodfire.com/",
+          "publishedAt": "2026-10-16T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Gradient Is a Covariance (8 minute read)",
+          "url": "https://richardli.xyz/post/gradient-is-covariance",
+          "publishedAt": "2026-10-16T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Mo' turns, mo' problems (6 minute read)",
+          "url": "https://ianbarber.blog/2026/10/15/mo-turns-mo-problems",
+          "publishedAt": "2026-10-16T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Nvidia released Nemotron 3.5 Super VL (5 minute read)",
+          "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning",
+          "publishedAt": "2026-10-16T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Researchers make ‘first contact’ with a rogue AI fleet",
@@ -381,31 +399,13 @@
           "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.176.0_1.pdf",
           "publishedAt": "2026-10-15T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI engineer bugged exec meeting room",
-          "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai",
-          "publishedAt": "2026-10-14T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI’s taste skills move up self-improvement timeline",
-          "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
-          "publishedAt": "2026-10-14T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Character AI declares bankruptcy, Disney bids $20M",
-          "url": "https://blog.character.ai/an-update-on-character-ai",
-          "publishedAt": "2026-10-14T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-19T10:00:28+00:00",
+      "updatedAt": "2026-10-19T11:00:28+00:00",
       "stories": [
         {
           "title": "How to choose a BLDC motor for robotic arms and mobile robots",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-19T10:00:28+00:00",
+    "updatedAt": "2026-10-19T11:00:28+00:00",
     "stories": [
       {
         "title": "Anthropic designs a pay package for the public",
@@ -531,10 +531,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source",
-        "publishedAt": "2026-10-19T04:05:00+00:00",
-        "source": "NASA",
+        "title": "Japan launching bold sample-return mission to Mars moon Phobos today: Watch it live",
+        "url": "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live",
+        "publishedAt": "2026-10-19T10:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "US Army fields new system for sweeping munitions planning, management",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management",
-        "publishedAt": "2026-10-19T09:00:00+00:00",
+        "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
+        "url": "https://www.defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon",
+        "publishedAt": "2026-10-19T10:00:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -567,30 +567,30 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Autumn Paints Poland’s Bieszczady Mountains",
-        "url": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains",
-        "publishedAt": "2026-10-19T04:01:00+00:00",
+        "title": "US Army fields new system for sweeping munitions planning, management",
+        "url": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management",
+        "publishedAt": "2026-10-19T09:00:00+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source",
+        "publishedAt": "2026-10-19T04:05:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Minister McGuinty and officials from the Canadian Armed Forces and the Government of Alberta to hold media briefing",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/minister-mcguinty-and-officials-from-the-canadian-armed-forces-and-the-government-of-alberta-to-hold-media-briefing.html",
-        "publishedAt": "2026-10-18T21:10:09+00:00",
-        "source": "National Defence",
-        "topicId": "canadian-defence",
-        "topicName": "Canadian Defence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-        "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
-        "publishedAt": "2026-10-18T20:37:40+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "Autumn Paints Poland’s Bieszczady Mountains",
+        "url": "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains",
+        "publishedAt": "2026-10-19T04:01:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -706,7 +706,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-05"
+    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)"
   ]
 }
