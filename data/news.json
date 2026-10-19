@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T20:00:29+00:00",
+  "generatedAt": "2026-10-19T21:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-19T20:00:29+00:00",
+      "updatedAt": "2026-10-19T21:00:30+00:00",
       "stories": [
         {
           "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
@@ -13,7 +13,13 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Japan launches historic MMX sample-return mission to Mars' moon Phobos",
+          "title": "The X-Files Lego set is a wonderful bit of 90s sci-fi nostalgia",
+          "url": "https://www.space.com/entertainment/space-toys-lego/the-x-files-lego-set-is-a-wonderful-bit-of-90s-sci-fi-nostalgia",
+          "publishedAt": "2026-10-19T20:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "Japan launches historic MMX sample-return mission to Mars' moon Phobos (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
           "publishedAt": "2026-10-19T19:53:21+00:00",
           "source": "Space.com"
@@ -22,12 +28,6 @@
           "title": "On this day in space! Oct. 19, 2016: Europe's ExoMars orbiter and Schiaparelli lander arrive at Mars",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-19-2026",
           "publishedAt": "2026-10-19T19:40:28+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "The moon is shrinking. 10,000 cracks on the lunar surface reveal by how much",
-          "url": "https://www.space.com/astronomy/moon/the-moon-is-shrinking-10-000-cracks-on-the-lunar-surface-reveal-by-how-much",
-          "publishedAt": "2026-10-19T19:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,13 +101,25 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-19T20:00:29+00:00",
+      "updatedAt": "2026-10-19T21:00:30+00:00",
       "stories": [
+        {
+          "title": "C-COM Q-band antenna tracks stratospheric cell platforms",
+          "url": "https://spaceq.ca/c-com-q-band-antenna-haps",
+          "publishedAt": "2026-10-19T20:04:07+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Canada–India space deals stay small ahead of Modi visit",
           "url": "https://spaceq.ca/canada-india-space-trade-mission-csa-isro",
           "publishedAt": "2026-10-19T15:37:28+00:00",
           "source": "SpaceQ"
+        },
+        {
+          "title": "Minister Joly to speak at SpaceBound 2026",
+          "url": "https://www.canada.ca/en/space-agency/news/2026/10/minister-joly-to-speak-at-spacebound-2026.html",
+          "publishedAt": "2026-10-19T17:49:59+00:00",
+          "source": "Canadian Space Agency"
         },
         {
           "title": "Weekly ISS update: Kutryk to become fifth Canadian spacewalker",
@@ -140,6 +152,12 @@
           "source": "SpaceQ"
         },
         {
+          "title": "NASA to host a technical briefing on CSA astronaut Joshua Kutryk's upcoming spacewalks",
+          "url": "https://www.canada.ca/en/space-agency/news/2026/10/nasa-to-host-a-technical-briefing-on-csa-astronaut-joshua-kutryks-upcoming-spacewalks.html",
+          "publishedAt": "2026-10-16T20:41:18+00:00",
+          "source": "Canadian Space Agency"
+        },
+        {
           "title": "Maritime Launch Services gets conditional approval to list on the TSX",
           "url": "https://spaceq.ca/maritime-launch-services-tsx-conditional-approval",
           "publishedAt": "2026-10-15T18:40:35+00:00",
@@ -158,24 +176,49 @@
           "source": "SpaceQ"
         },
         {
-          "title": "Czech group CSG becomes MDA Space’s largest shareholder",
-          "url": "https://spaceq.ca/csg-mda-space-largest-shareholder",
-          "publishedAt": "2026-10-14T22:51:20+00:00",
-          "source": "SpaceQ"
+          "title": "Advancing Canada's priorities through space",
+          "url": "https://www.canada.ca/en/space-agency/news/2026/10/advancing-canadas-priorities-through-space.html",
+          "publishedAt": "2026-10-14T13:13:57+00:00",
+          "source": "Canadian Space Agency"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-19T20:00:29+00:00",
-      "stories": []
+      "updatedAt": "2026-10-19T21:00:30+00:00",
+      "stories": [
+        {
+          "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/four-canadian-armed-forces-members-killed-during-training-in-cfb-wainwright.html",
+          "publishedAt": "2026-10-18T23:51:05+00:00",
+          "source": "National Defence"
+        },
+        {
+          "title": "Minister McGuinty and officials from the Canadian Armed Forces and the Government of Alberta to hold media briefing",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/minister-mcguinty-and-officials-from-the-canadian-armed-forces-and-the-government-of-alberta-to-hold-media-briefing.html",
+          "publishedAt": "2026-10-18T21:10:09+00:00",
+          "source": "National Defence"
+        },
+        {
+          "title": "Incident at Canadian Forces Base Wainwright",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/incident-at-canadian-forces-base-wainwright.html",
+          "publishedAt": "2026-10-18T06:55:06+00:00",
+          "source": "National Defence"
+        }
+      ]
     },
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-19T20:00:29+00:00",
+      "updatedAt": "2026-10-19T21:00:30+00:00",
       "stories": [
+        {
+          "title": "Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers",
+          "url": "https://breakingdefense.com/2026/10/russian-satellite-stalked-iceye-spacecraft-in-potentially-dangerous-on-orbit-maneuvers",
+          "publishedAt": "2026-10-19T20:57:20+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "DIU unveils next phase in unmanned vessel competition",
           "url": "https://breakingdefense.com/2026/10/diu-unveils-next-phase-in-unmanned-vessel-competition",
@@ -193,6 +236,12 @@
           "url": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year",
           "publishedAt": "2026-10-19T18:50:11+00:00",
           "source": "Defense News"
+        },
+        {
+          "title": "Pentagon threatens universities that have ties to ‘foreign entities of concern,’ hints at additional audits",
+          "url": "https://defensescoop.com/2026/10/19/pentagon-research-security-audits-universities",
+          "publishedAt": "2026-10-19T20:31:35+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "US Army competition explores military uses for humanoid robots",
@@ -237,12 +286,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Army feels ‘growing pains’ as it integrates Anduril NGC2 tech with older comms",
-          "url": "https://breakingdefense.com/2026/10/army-feels-growing-pains-as-it-integrates-anduril-ngc2-tech-with-older-comms",
-          "publishedAt": "2026-10-19T11:30:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Accelerate defense missions with secure, pre-hardened containers",
           "url": "https://defensescoop.com/secure-containers-ping",
           "publishedAt": "2026-10-16T18:30:00+00:00",
@@ -259,19 +302,13 @@
           "url": "https://defensescoop.com/2026/10/15/pentagon-cyber-pay-c-mip-transition-plan",
           "publishedAt": "2026-10-15T22:19:38+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Military service members to square off against AI in ‘Mindgame’ tournament",
-          "url": "https://defensescoop.com/2026/10/15/humans-vs-artificial-intelligence-wargames-drone-swarms",
-          "publishedAt": "2026-10-15T20:38:08+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-19T20:00:29+00:00",
+      "updatedAt": "2026-10-19T21:00:30+00:00",
       "stories": [
         {
           "title": "Anthropic designs a pay package for the public",
@@ -286,6 +323,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+          "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
+          "publishedAt": "2026-10-19T20:09:24+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
           "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
           "publishedAt": "2026-10-19T19:28:34+00:00",
@@ -295,12 +338,6 @@
           "title": "Tolan snags $30M for its AI companion that helps users navigate life",
           "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life",
           "publishedAt": "2026-10-19T19:00:12+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-          "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago",
-          "publishedAt": "2026-10-19T18:49:04+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -368,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-19T20:00:29+00:00",
+      "updatedAt": "2026-10-19T21:00:30+00:00",
       "stories": [
         {
           "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
@@ -464,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-19T20:00:29+00:00",
+    "updatedAt": "2026-10-19T21:00:30+00:00",
     "stories": [
       {
         "title": "Anthropic designs a pay package for the public",
@@ -485,9 +522,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Canada–India space deals stay small ahead of Modi visit",
-        "url": "https://spaceq.ca/canada-india-space-trade-mission-csa-isro",
-        "publishedAt": "2026-10-19T15:37:28+00:00",
+        "title": "C-COM Q-band antenna tracks stratospheric cell platforms",
+        "url": "https://spaceq.ca/c-com-q-band-antenna-haps",
+        "publishedAt": "2026-10-19T20:04:07+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -503,9 +540,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "DIU unveils next phase in unmanned vessel competition",
-        "url": "https://breakingdefense.com/2026/10/diu-unveils-next-phase-in-unmanned-vessel-competition",
-        "publishedAt": "2026-10-19T19:03:22+00:00",
+        "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/four-canadian-armed-forces-members-killed-during-training-in-cfb-wainwright.html",
+        "publishedAt": "2026-10-18T23:51:05+00:00",
+        "source": "National Defence",
+        "topicId": "canadian-defence",
+        "topicName": "Canadian Defence",
+        "bulletinRole": "lead"
+      },
+      {
+        "title": "Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers",
+        "url": "https://breakingdefense.com/2026/10/russian-satellite-stalked-iceye-spacecraft-in-potentially-dangerous-on-orbit-maneuvers",
+        "publishedAt": "2026-10-19T20:57:20+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -521,39 +567,30 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "You can’t have a fence high enough to protect your facility against drones",
-        "url": "https://breakingdefense.com/2026/10/you-cant-have-a-fence-high-enough-to-protect-your-facility-against-drones",
-        "publishedAt": "2026-10-19T18:24:00+00:00",
+        "title": "Canada–India space deals stay small ahead of Modi visit",
+        "url": "https://spaceq.ca/canada-india-space-trade-mission-csa-isro",
+        "publishedAt": "2026-10-19T15:37:28+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "DIU unveils next phase in unmanned vessel competition",
+        "url": "https://breakingdefense.com/2026/10/diu-unveils-next-phase-in-unmanned-vessel-competition",
+        "publishedAt": "2026-10-19T19:03:22+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
-        "url": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year",
-        "publishedAt": "2026-10-19T18:50:11+00:00",
-        "source": "Defense News",
+        "title": "You can’t have a fence high enough to protect your facility against drones",
+        "url": "https://breakingdefense.com/2026/10/you-cant-have-a-fence-high-enough-to-protect-your-facility-against-drones",
+        "publishedAt": "2026-10-19T18:24:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Japan launches historic MMX sample-return mission to Mars' moon Phobos",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
-        "publishedAt": "2026-10-19T19:53:21+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Daimon Robotics building the infrastructure layer for tactile intelligence",
-        "url": "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence",
-        "publishedAt": "2026-10-19T17:07:52+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -669,8 +706,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)",
-    "Canadian Space Agency: HTTPSConnectionPool(host='api.io.canada.ca', port=443): Read timed out. (read timeout=25)",
-    "National Defence: HTTPSConnectionPool(host='api.io.canada.ca', port=443): Read timed out. (read timeout=25)"
+    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)"
   ]
 }
