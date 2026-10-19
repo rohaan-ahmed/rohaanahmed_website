@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T17:00:29+00:00",
+  "generatedAt": "2026-10-19T18:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-19T17:00:29+00:00",
+      "updatedAt": "2026-10-19T18:00:33+00:00",
       "stories": [
         {
           "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
@@ -101,13 +101,19 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-19T17:00:29+00:00",
+      "updatedAt": "2026-10-19T18:00:33+00:00",
       "stories": [
         {
           "title": "Canada–India space deals stay small ahead of Modi visit",
           "url": "https://spaceq.ca/canada-india-space-trade-mission-csa-isro",
           "publishedAt": "2026-10-19T15:37:28+00:00",
           "source": "SpaceQ"
+        },
+        {
+          "title": "Minister Joly to speak at SpaceBound 2026",
+          "url": "https://www.canada.ca/en/space-agency/news/2026/10/minister-joly-to-speak-at-spacebound-2026.html",
+          "publishedAt": "2026-10-19T17:49:59+00:00",
+          "source": "Canadian Space Agency"
         },
         {
           "title": "Weekly ISS update: Kutryk to become fifth Canadian spacewalker",
@@ -180,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-19T17:00:29+00:00",
+      "updatedAt": "2026-10-19T18:00:33+00:00",
       "stories": [
         {
           "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
@@ -211,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-19T17:00:29+00:00",
+      "updatedAt": "2026-10-19T18:00:33+00:00",
       "stories": [
         {
           "title": "US Army competition explores military uses for humanoid robots",
@@ -308,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-19T17:00:29+00:00",
+      "updatedAt": "2026-10-19T18:00:33+00:00",
       "stories": [
         {
           "title": "Anthropic designs a pay package for the public",
@@ -371,9 +377,9 @@
           "source": "TLDR AI"
         },
         {
-          "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-          "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
-          "publishedAt": "2026-10-18T20:37:40+00:00",
+          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+          "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+          "publishedAt": "2026-10-19T12:30:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -405,8 +411,20 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-19T17:00:29+00:00",
+      "updatedAt": "2026-10-19T18:00:33+00:00",
       "stories": [
+        {
+          "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
+          "url": "https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus",
+          "publishedAt": "2026-10-19T17:38:13+00:00",
+          "source": "The Robot Report"
+        },
+        {
+          "title": "Daimon Robotics building the infrastructure layer for tactile intelligence",
+          "url": "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence",
+          "publishedAt": "2026-10-19T17:07:52+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Kodama raises $7M to bring robotics to forestry",
           "url": "https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry",
@@ -426,6 +444,12 @@
           "source": "IEEE Spectrum Robotics"
         },
         {
+          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+          "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+          "publishedAt": "2026-10-19T12:30:00+00:00",
+          "source": "TechCrunch Robotics"
+        },
+        {
           "title": "How to choose a BLDC motor for robotic arms and mobile robots",
           "url": "https://www.therobotreport.com/how-to-choose-bldc-motor-robotic-arms-mobile-robots",
           "publishedAt": "2026-10-18T12:30:50+00:00",
@@ -441,18 +465,6 @@
           "title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
           "url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies",
           "publishedAt": "2026-10-17T12:30:55+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Why opportunity charging is winning as robot fleets scale",
-          "url": "https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale",
-          "publishedAt": "2026-10-16T23:39:33+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program",
-          "url": "https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program",
-          "publishedAt": "2026-10-16T17:57:12+00:00",
           "source": "The Robot Report"
         },
         {
@@ -486,12 +498,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "TechCrunch Disrupt 2026: Day 2",
-          "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2",
-          "publishedAt": "2026-10-14T14:30:00+00:00",
-          "source": "TechCrunch Robotics"
-        },
-        {
           "title": "Q&A: Mars Perseverance Rover Sets a Distance Record",
           "url": "https://spectrum.ieee.org/mars-rover-distance-record",
           "publishedAt": "2026-10-13T15:02:04+00:00",
@@ -501,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-19T17:00:29+00:00",
+    "updatedAt": "2026-10-19T18:00:33+00:00",
     "stories": [
       {
         "title": "Anthropic designs a pay package for the public",
@@ -558,39 +564,39 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Kodama raises $7M to bring robotics to forestry",
-        "url": "https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry",
-        "publishedAt": "2026-10-19T15:55:12+00:00",
+        "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
+        "url": "https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus",
+        "publishedAt": "2026-10-19T17:38:13+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
       },
       {
-        "title": "Shield AI software cuts autonomous flight development to six weeks",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/shield-ai-software-cuts-autonomous-flight-development-to-six-weeks",
-        "publishedAt": "2026-10-19T15:00:00+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Daimon Robotics building the infrastructure layer for tactile intelligence",
+        "url": "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence",
+        "publishedAt": "2026-10-19T17:07:52+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Ukrainian defense firms get creative to try and break through export restrictions",
-        "url": "https://breakingdefense.com/2026/10/ukrainian-defense-firms-get-creative-to-try-and-break-through-export-restrictions",
-        "publishedAt": "2026-10-19T13:11:04+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Kodama raises $7M to bring robotics to forestry",
+        "url": "https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry",
+        "publishedAt": "2026-10-19T15:55:12+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Groups seek clarity on motive behind Pentagon’s study of women in combat",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/19/groups-seek-clarity-on-motive-behind-pentagons-study-of-women-in-combat",
-        "publishedAt": "2026-10-19T14:00:00+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Minister Joly to speak at SpaceBound 2026",
+        "url": "https://www.canada.ca/en/space-agency/news/2026/10/minister-joly-to-speak-at-spacebound-2026.html",
+        "publishedAt": "2026-10-19T17:49:59+00:00",
+        "source": "Canadian Space Agency",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
