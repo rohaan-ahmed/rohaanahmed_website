@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T09:00:26+00:00",
+  "generatedAt": "2026-10-20T10:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-20T09:00:26+00:00",
+      "updatedAt": "2026-10-20T10:00:29+00:00",
       "stories": [
         {
           "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-20T09:00:26+00:00",
+      "updatedAt": "2026-10-20T10:00:29+00:00",
       "stories": [
         {
           "title": "C-COM Q-band antenna tracks stratospheric cell platforms",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-20T09:00:26+00:00",
+      "updatedAt": "2026-10-20T10:00:29+00:00",
       "stories": [
         {
           "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
@@ -211,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-20T09:00:26+00:00",
+      "updatedAt": "2026-10-20T10:00:29+00:00",
       "stories": [
+        {
+          "title": "Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
+          "url": "https://www.defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture",
+          "publishedAt": "2026-10-20T09:09:33+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers",
           "url": "https://breakingdefense.com/2026/10/russian-satellite-stalked-iceye-spacecraft-in-potentially-dangerous-on-orbit-maneuvers",
@@ -286,12 +292,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "US Army Cyber Command charts course for human-AI equilibrium",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium",
-          "publishedAt": "2026-10-19T13:00:00+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Accelerate defense missions with secure, pre-hardened containers",
           "url": "https://defensescoop.com/secure-containers-ping",
           "publishedAt": "2026-10-16T18:30:00+00:00",
@@ -308,8 +308,26 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-20T09:00:26+00:00",
+      "updatedAt": "2026-10-20T10:00:29+00:00",
       "stories": [
+        {
+          "title": "Anthropic co-founder says the singularity is underway",
+          "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+          "publishedAt": "2026-10-20T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "One hacker’s AI agents break into 100+ companies",
+          "url": "https://norforge.com/blog/inside_cairn",
+          "publishedAt": "2026-10-20T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Inception’s Mercury 3 speeds past rivals",
+          "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+          "publishedAt": "2026-10-20T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
           "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
@@ -381,31 +399,13 @@
           "url": "https://research.meta.ai/blog/muse-spark-open",
           "publishedAt": "2026-10-16T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Report: Harvard maps AI’s gender divide",
-          "url": "https://shorensteincenter.org/resource/women-ai",
-          "publishedAt": "2026-10-16T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Researchers make ‘first contact’ with a rogue AI fleet",
-          "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
-          "publishedAt": "2026-10-15T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI and Apple trade theft accusations",
-          "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.176.0_1.pdf",
-          "publishedAt": "2026-10-15T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-20T09:00:26+00:00",
+      "updatedAt": "2026-10-20T10:00:29+00:00",
       "stories": [
         {
           "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
@@ -501,22 +501,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-20T09:00:26+00:00",
+    "updatedAt": "2026-10-20T10:00:29+00:00",
     "stories": [
       {
-        "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-        "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
-        "publishedAt": "2026-10-20T01:27:03+00:00",
-        "source": "TechCrunch AI",
+        "title": "Anthropic co-founder says the singularity is underway",
+        "url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+        "publishedAt": "2026-10-20T09:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-        "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
-        "publishedAt": "2026-10-19T23:39:38+00:00",
-        "source": "TechCrunch AI",
+        "title": "One hacker’s AI agents break into 100+ companies",
+        "url": "https://norforge.com/blog/inside_cairn",
+        "publishedAt": "2026-10-20T09:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -549,10 +549,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers",
-        "url": "https://breakingdefense.com/2026/10/russian-satellite-stalked-iceye-spacecraft-in-potentially-dangerous-on-orbit-maneuvers",
-        "publishedAt": "2026-10-19T20:57:20+00:00",
-        "source": "Breaking Defense",
+        "title": "Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
+        "url": "https://www.defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture",
+        "publishedAt": "2026-10-20T09:09:33+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Inception’s Mercury 3 speeds past rivals",
+        "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+        "publishedAt": "2026-10-20T09:00:00+00:00",
+        "source": "The Rundown AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Canada–India space deals stay small ahead of Modi visit",
         "url": "https://spaceq.ca/canada-india-space-trade-mission-csa-isro",
         "publishedAt": "2026-10-19T15:37:28+00:00",
@@ -579,15 +588,6 @@
         "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
         "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan",
         "publishedAt": "2026-10-20T04:05:00+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "The Human Fingerprint on Earth’s Water Cycle",
-        "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle",
-        "publishedAt": "2026-10-20T04:01:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
