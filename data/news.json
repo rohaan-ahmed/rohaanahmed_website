@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-20T12:00:28+00:00",
+  "generatedAt": "2026-10-20T13:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-20T12:00:28+00:00",
+      "updatedAt": "2026-10-20T13:00:26+00:00",
       "stories": [
+        {
+          "title": "Could a $200K bond for satellites paid before launch prevent a space junk disaster in orbit? Here's why some scientists think so",
+          "url": "https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster",
+          "publishedAt": "2026-10-20T12:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
@@ -47,12 +53,6 @@
           "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by",
           "publishedAt": "2026-10-20T01:21:38+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "New 'Blade Runner 2099' trailer is a space fan's dream with sinister starships and strange exoplanets (video)",
-          "url": "https://www.space.com/entertainment/space-movies-shows/new-blade-runner-2099-trailer-is-a-space-fans-dream-with-sinister-starships-and-strange-exoplanets-video",
-          "publishedAt": "2026-10-19T22:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Euclid discovers new comet",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-20T12:00:28+00:00",
+      "updatedAt": "2026-10-20T13:00:26+00:00",
       "stories": [
         {
           "title": "Jeremy Hansen asks space sector to work like his Moon crew",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-20T12:00:28+00:00",
+      "updatedAt": "2026-10-20T13:00:26+00:00",
       "stories": [
         {
           "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-20T12:00:28+00:00",
+      "updatedAt": "2026-10-20T13:00:26+00:00",
       "stories": [
         {
           "title": "Ukraine’s Zelenskyy says US decisions on Ukraine hard to explain",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-20T12:00:28+00:00",
+      "updatedAt": "2026-10-20T13:00:26+00:00",
       "stories": [
         {
           "title": "Anthropic co-founder says the singularity is underway",
@@ -329,9 +329,9 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-          "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
-          "publishedAt": "2026-10-20T11:00:00+00:00",
+          "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
+          "publishedAt": "2026-10-20T13:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -341,9 +341,27 @@
           "source": "TechCrunch AI"
         },
         {
+          "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+          "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
+          "publishedAt": "2026-10-20T11:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
           "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
           "publishedAt": "2026-10-20T01:27:03+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+          "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
+          "publishedAt": "2026-10-19T23:39:38+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+          "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says",
+          "publishedAt": "2026-10-19T22:49:27+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -359,45 +377,27 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "OpenAI testing new \"Aurora\" GPT-Image model on Arena (3 minute read)",
-          "url": "https://www.testingcatalog.com/openai-possibly-testing-gpt-image-3",
-          "publishedAt": "2026-10-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How AI Is Reshaping Anthropic's Workforce (17 minute read)",
-          "url": "https://www.anthropic.com/research/employment-at-anthropic",
-          "publishedAt": "2026-10-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How to Trust Your Coding Agents More (2 minute read)",
-          "url": "https://x.com/poteto/status/2111133080526495985",
-          "publishedAt": "2026-10-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Search & Fetch (8 minute read)",
-          "url": "https://api-docs.deepseek.com/guides/search",
-          "publishedAt": "2026-10-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "DeepSeek-V4.1-Flash-1017 (Hugging Face Repo)",
-          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-          "publishedAt": "2026-10-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How the Claude Code team does code review (18 minute read)",
-          "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
-          "publishedAt": "2026-10-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Meta gives the West its best open-weight model",
           "url": "https://research.meta.ai/blog/muse-spark-open",
           "publishedAt": "2026-10-16T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Report: Harvard maps AI’s gender divide",
+          "url": "https://shorensteincenter.org/resource/women-ai",
+          "publishedAt": "2026-10-16T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Researchers make ‘first contact’ with a rogue AI fleet",
+          "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+          "publishedAt": "2026-10-15T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI and Apple trade theft accusations",
+          "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.176.0_1.pdf",
+          "publishedAt": "2026-10-15T09:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -405,13 +405,25 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-20T12:00:28+00:00",
+      "updatedAt": "2026-10-20T13:00:26+00:00",
       "stories": [
+        {
+          "title": "A guide to Day 1 of RoboBusiness 2026",
+          "url": "https://www.therobotreport.com/a-guide-to-day-1-of-robobusiness-2026",
+          "publishedAt": "2026-10-20T12:00:10+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Gecko Robotics secures $300M contract with the U.S. Navy",
           "url": "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy",
           "publishedAt": "2026-10-20T10:25:47+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
+          "publishedAt": "2026-10-20T13:00:00+00:00",
+          "source": "TechCrunch Robotics"
         },
         {
           "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
@@ -456,12 +468,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "ADI explains the race to make AI physical",
-          "url": "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical",
-          "publishedAt": "2026-10-17T21:33:57+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: When Two Robots Become One",
           "url": "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
           "publishedAt": "2026-10-16T16:30:02+00:00",
@@ -486,12 +492,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-          "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco",
-          "publishedAt": "2026-10-14T15:13:24+00:00",
-          "source": "TechCrunch Robotics"
-        },
-        {
           "title": "Q&A: Mars Perseverance Rover Sets a Distance Record",
           "url": "https://spectrum.ieee.org/mars-rover-distance-record",
           "publishedAt": "2026-10-13T15:02:04+00:00",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-20T12:00:28+00:00",
+    "updatedAt": "2026-10-20T13:00:26+00:00",
     "stories": [
       {
         "title": "Anthropic co-founder says the singularity is underway",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever (video)",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
-        "publishedAt": "2026-10-20T11:16:37+00:00",
+        "title": "Could a $200K bond for satellites paid before launch prevent a space junk disaster in orbit? Here's why some scientists think so",
+        "url": "https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster",
+        "publishedAt": "2026-10-20T12:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -558,9 +558,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Gecko Robotics secures $300M contract with the U.S. Navy",
-        "url": "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy",
-        "publishedAt": "2026-10-20T10:25:47+00:00",
+        "title": "A guide to Day 1 of RoboBusiness 2026",
+        "url": "https://www.therobotreport.com/a-guide-to-day-1-of-robobusiness-2026",
+        "publishedAt": "2026-10-20T12:00:10+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -576,21 +576,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Tip of the spear, or stranded on beaches? Chinese planners dissect USMC Pacific posture",
-        "url": "https://www.defensenews.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture",
-        "publishedAt": "2026-10-20T09:09:33+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Gecko Robotics secures $300M contract with the U.S. Navy",
+        "url": "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy",
+        "publishedAt": "2026-10-20T10:25:47+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "New brain for Galileo",
-        "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/New_brain_for_Galileo",
-        "publishedAt": "2026-10-20T08:11:00+00:00",
-        "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+        "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
+        "publishedAt": "2026-10-20T13:00:00+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -706,6 +706,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)"
+    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-06"
   ]
 }
