@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-20T11:00:26+00:00",
+  "generatedAt": "2026-10-20T11:26:59+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-20T11:00:26+00:00",
+      "updatedAt": "2026-10-20T11:26:59+00:00",
       "stories": [
+        {
+          "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
+          "publishedAt": "2026-10-20T11:16:37+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "New brain for Galileo",
           "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/New_brain_for_Galileo",
@@ -46,12 +52,6 @@
           "title": "New 'Blade Runner 2099' trailer is a space fan's dream with sinister starships and strange exoplanets (video)",
           "url": "https://www.space.com/entertainment/space-movies-shows/new-blade-runner-2099-trailer-is-a-space-fans-dream-with-sinister-starships-and-strange-exoplanets-video",
           "publishedAt": "2026-10-19T22:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "The X-Files Lego set is a wonderful bit of 90s sci-fi nostalgia",
-          "url": "https://www.space.com/entertainment/space-toys-lego/the-x-files-lego-set-is-a-wonderful-bit-of-90s-sci-fi-nostalgia",
-          "publishedAt": "2026-10-19T20:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-20T11:00:26+00:00",
+      "updatedAt": "2026-10-20T11:26:59+00:00",
       "stories": [
+        {
+          "title": "Jeremy Hansen asks space sector to work like his Moon crew",
+          "url": "https://spaceq.ca/jeremy-hansen-space-sector-artemis-ii-crew",
+          "publishedAt": "2026-10-20T11:02:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "C-COM Q-band antenna tracks stratospheric cell platforms",
           "url": "https://spaceq.ca/c-com-q-band-antenna-haps",
@@ -170,12 +176,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "CSA Space Technology Development Program AO 10 awards $11M to 15 companies",
-          "url": "https://spaceq.ca/space-technology-development-program-ao-10-awards",
-          "publishedAt": "2026-10-15T15:52:49+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Advancing Canada's priorities through space",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/advancing-canadas-priorities-through-space.html",
           "publishedAt": "2026-10-14T13:13:57+00:00",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-20T11:00:26+00:00",
+      "updatedAt": "2026-10-20T11:26:59+00:00",
       "stories": [
         {
           "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-20T11:00:26+00:00",
+      "updatedAt": "2026-10-20T11:26:59+00:00",
       "stories": [
         {
           "title": "Ukraine’s Zelenskyy says US decisions on Ukraine hard to explain",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-20T11:00:26+00:00",
+      "updatedAt": "2026-10-20T11:26:59+00:00",
       "stories": [
         {
           "title": "Anthropic co-founder says the singularity is underway",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-20T11:00:26+00:00",
+      "updatedAt": "2026-10-20T11:26:59+00:00",
       "stories": [
         {
           "title": "Gecko Robotics secures $300M contract with the U.S. Navy",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-20T11:00:26+00:00",
+    "updatedAt": "2026-10-20T11:26:59+00:00",
     "stories": [
       {
         "title": "Anthropic co-founder says the singularity is underway",
@@ -522,19 +522,19 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "C-COM Q-band antenna tracks stratospheric cell platforms",
-        "url": "https://spaceq.ca/c-com-q-band-antenna-haps",
-        "publishedAt": "2026-10-19T20:04:07+00:00",
+        "title": "Jeremy Hansen asks space sector to work like his Moon crew",
+        "url": "https://spaceq.ca/jeremy-hansen-space-sector-artemis-ii-crew",
+        "publishedAt": "2026-10-20T11:02:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "New brain for Galileo",
-        "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/New_brain_for_Galileo",
-        "publishedAt": "2026-10-20T08:11:00+00:00",
-        "source": "European Space Agency",
+        "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
+        "publishedAt": "2026-10-20T11:16:37+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -585,12 +585,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-        "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
-        "publishedAt": "2026-10-20T11:00:00+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "New brain for Galileo",
+        "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/New_brain_for_Galileo",
+        "publishedAt": "2026-10-20T08:11:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -707,6 +707,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:661:8864: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-05"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-06"
   ]
 }
