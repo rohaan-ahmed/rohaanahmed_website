@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-10-20T04:00:35+00:00",
+  "generatedAt": "2026-10-20T05:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-20T04:00:35+00:00",
+      "updatedAt": "2026-10-20T05:00:27+00:00",
       "stories": [
         {
           "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
           "url": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight",
           "publishedAt": "2026-10-19T16:31:12+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan",
+          "publishedAt": "2026-10-20T04:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "The Human Fingerprint on Earth’s Water Cycle",
+          "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle",
+          "publishedAt": "2026-10-20T04:01:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
@@ -35,18 +47,6 @@
           "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
           "publishedAt": "2026-10-19T19:53:21+00:00",
           "source": "Space.com"
-        },
-        {
-          "title": "NASA Improves Shock, Vibration Analysis",
-          "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis",
-          "publishedAt": "2026-10-19T19:28:32+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Software",
-          "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software",
-          "publishedAt": "2026-10-19T18:11:40+00:00",
-          "source": "NASA"
         },
         {
           "title": "Euclid discovers new comet",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-20T04:00:35+00:00",
+      "updatedAt": "2026-10-20T05:00:27+00:00",
       "stories": [
         {
           "title": "C-COM Q-band antenna tracks stratospheric cell platforms",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-20T04:00:35+00:00",
+      "updatedAt": "2026-10-20T05:00:27+00:00",
       "stories": [
         {
           "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-20T04:00:35+00:00",
+      "updatedAt": "2026-10-20T05:00:27+00:00",
       "stories": [
         {
           "title": "Russian satellite stalked ICEYE spacecraft in potentially dangerous on-orbit maneuvers",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-20T04:00:35+00:00",
+      "updatedAt": "2026-10-20T05:00:27+00:00",
       "stories": [
         {
           "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-20T04:00:35+00:00",
+      "updatedAt": "2026-10-20T05:00:27+00:00",
       "stories": [
         {
           "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-20T04:00:35+00:00",
+    "updatedAt": "2026-10-20T05:00:27+00:00",
     "stories": [
       {
         "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
@@ -576,19 +576,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
-        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by",
-        "publishedAt": "2026-10-20T01:21:38+00:00",
+        "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan",
+        "publishedAt": "2026-10-20T04:05:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "New 'Blade Runner 2099' trailer is a space fan's dream with sinister starships and strange exoplanets (video)",
-        "url": "https://www.space.com/entertainment/space-movies-shows/new-blade-runner-2099-trailer-is-a-space-fans-dream-with-sinister-starships-and-strange-exoplanets-video",
-        "publishedAt": "2026-10-19T22:00:00+00:00",
-        "source": "Space.com",
+        "title": "The Human Fingerprint on Earth’s Water Cycle",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle",
+        "publishedAt": "2026-10-20T04:01:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
