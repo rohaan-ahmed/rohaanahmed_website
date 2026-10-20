@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T15:00:35+00:00",
+  "generatedAt": "2026-10-20T15:48:46+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-20T15:00:35+00:00",
+      "updatedAt": "2026-10-20T15:48:46+00:00",
       "stories": [
         {
           "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-20T15:00:35+00:00",
+      "updatedAt": "2026-10-20T15:48:46+00:00",
       "stories": [
         {
           "title": "Jeremy Hansen asks space sector to work like his Moon crew",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-20T15:00:35+00:00",
+      "updatedAt": "2026-10-20T15:48:46+00:00",
       "stories": [
         {
           "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
@@ -211,13 +211,25 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-20T15:00:35+00:00",
+      "updatedAt": "2026-10-20T15:48:46+00:00",
       "stories": [
+        {
+          "title": "Russia’s naval posture in the Mediterranean has ‘significantly decreased’: NATO official",
+          "url": "https://breakingdefense.com/2026/10/russias-naval-posture-in-the-mediterranean-has-significantly-decreased-nato-official",
+          "publishedAt": "2026-10-20T15:45:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Turkish defense procurement spending proposed to rise 229% in 2027",
           "url": "https://breakingdefense.com/2026/10/turkish-defense-procurement-spending-proposed-to-rise-229-in-2027",
           "publishedAt": "2026-10-20T14:46:17+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
+          "url": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m",
+          "publishedAt": "2026-10-20T15:15:32+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Ghost Shark with teeth: Australia unveils underwater drone payloads",
@@ -256,12 +268,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "DIU unveils next phase in unmanned vessel competition",
-          "url": "https://breakingdefense.com/2026/10/diu-unveils-next-phase-in-unmanned-vessel-competition",
-          "publishedAt": "2026-10-19T19:03:22+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
           "url": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year",
           "publishedAt": "2026-10-19T18:50:11+00:00",
@@ -286,12 +292,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Shield AI software cuts autonomous flight development to six weeks",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/shield-ai-software-cuts-autonomous-flight-development-to-six-weeks",
-          "publishedAt": "2026-10-19T15:00:00+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Pentagon CIO gets new strategic technical advisor",
           "url": "https://defensescoop.com/2026/10/19/pentagon-cio-gets-new-strategic-technical-advisor",
           "publishedAt": "2026-10-19T15:58:53+00:00",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-20T15:00:35+00:00",
+      "updatedAt": "2026-10-20T15:48:46+00:00",
       "stories": [
         {
           "title": "Anthropic co-founder says the singularity is underway",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-20T15:00:35+00:00",
+      "updatedAt": "2026-10-20T15:48:46+00:00",
       "stories": [
         {
           "title": "Avenda Health expands Unfold AI platform to support intraoperative prostate cancer care",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-20T15:00:35+00:00",
+    "updatedAt": "2026-10-20T15:48:46+00:00",
     "stories": [
       {
         "title": "Anthropic co-founder says the singularity is underway",
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Turkish defense procurement spending proposed to rise 229% in 2027",
-        "url": "https://breakingdefense.com/2026/10/turkish-defense-procurement-spending-proposed-to-rise-229-in-2027",
-        "publishedAt": "2026-10-20T14:46:17+00:00",
+        "title": "Russia’s naval posture in the Mediterranean has ‘significantly decreased’: NATO official",
+        "url": "https://breakingdefense.com/2026/10/russias-naval-posture-in-the-mediterranean-has-significantly-decreased-nato-official",
+        "publishedAt": "2026-10-20T15:45:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -576,19 +576,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Ghost Shark with teeth: Australia unveils underwater drone payloads",
-        "url": "https://breakingdefense.com/2026/10/ghost-shark-with-teeth-australia-unveils-underwater-drone-payloads",
-        "publishedAt": "2026-10-20T14:01:23+00:00",
+        "title": "Turkish defense procurement spending proposed to rise 229% in 2027",
+        "url": "https://breakingdefense.com/2026/10/turkish-defense-procurement-spending-proposed-to-rise-229-in-2027",
+        "publishedAt": "2026-10-20T14:46:17+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Drones take over AUSA, plus the Army’s plan to bring in new vendors",
-        "url": "https://breakingdefense.com/2026/10/drones-take-over-ausa-plus-the-armys-plan-to-bring-in-new-vendors",
-        "publishedAt": "2026-10-20T13:57:13+00:00",
-        "source": "Breaking Defense",
+        "title": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
+        "url": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m",
+        "publishedAt": "2026-10-20T15:15:32+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
