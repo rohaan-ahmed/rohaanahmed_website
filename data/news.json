@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-20T13:00:26+00:00",
+  "generatedAt": "2026-10-20T14:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-20T13:00:26+00:00",
+      "updatedAt": "2026-10-20T14:00:27+00:00",
       "stories": [
+        {
+          "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
+          "url": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions",
+          "publishedAt": "2026-10-20T13:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Could a $200K bond for satellites paid before launch prevent a space junk disaster in orbit? Here's why some scientists think so",
           "url": "https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster",
@@ -89,19 +95,13 @@
           "url": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit",
           "publishedAt": "2026-10-14T13:09:21+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Week in images: 12-16 October 2026",
-          "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_12-16_October_2026",
-          "publishedAt": "2026-10-13T13:10:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-20T13:00:26+00:00",
+      "updatedAt": "2026-10-20T14:00:27+00:00",
       "stories": [
         {
           "title": "Jeremy Hansen asks space sector to work like his Moon crew",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-20T13:00:26+00:00",
+      "updatedAt": "2026-10-20T14:00:27+00:00",
       "stories": [
         {
           "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
@@ -211,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-20T13:00:26+00:00",
+      "updatedAt": "2026-10-20T14:00:27+00:00",
       "stories": [
+        {
+          "title": "Drones take over AUSA, plus the Army’s plan to bring in new vendors",
+          "url": "https://breakingdefense.com/2026/10/drones-take-over-ausa-plus-the-armys-plan-to-bring-in-new-vendors",
+          "publishedAt": "2026-10-20T13:57:13+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Ukraine’s Zelenskyy says US decisions on Ukraine hard to explain",
           "url": "https://www.defensenews.com/global/europe/2026/10/20/ukraines-zelenskyy-says-us-decisions-on-ukraine-hard-to-explain",
@@ -286,12 +292,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Why the Army can’t build its Pacific network like the one in Europe",
-          "url": "https://breakingdefense.com/2026/10/why-the-army-cant-build-its-pacific-network-like-the-one-in-europe",
-          "publishedAt": "2026-10-19T12:46:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Pentagon CIO gets new strategic technical advisor",
           "url": "https://defensescoop.com/2026/10/19/pentagon-cio-gets-new-strategic-technical-advisor",
           "publishedAt": "2026-10-19T15:58:53+00:00",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-20T13:00:26+00:00",
+      "updatedAt": "2026-10-20T14:00:27+00:00",
       "stories": [
         {
           "title": "Anthropic co-founder says the singularity is underway",
@@ -329,39 +329,57 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost (4 minute read)",
+          "url": "https://www.minimax.io/blog/minimax-m31f",
+          "publishedAt": "2026-10-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Clairic, a new System One class of extraction models (16 minute read)",
+          "url": "https://blog.cloudflare.com/clairic-extraction-model",
+          "publishedAt": "2026-10-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "AI Benchmarks: Climbing the Wrong Hills (24 minute read)",
+          "url": "https://research.contrary.com/report/ai-benchmarks-climbing-the-wrong-hills",
+          "publishedAt": "2026-10-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Inside Meta's Gigawatt-Scale AI Supercluster (14 minute read)",
+          "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
+          "publishedAt": "2026-10-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium (27 minute read)",
+          "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+          "publishedAt": "2026-10-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Exa 3.0 (3 minute read)",
+          "url": "https://exa.ai/blog/exa-3",
+          "publishedAt": "2026-10-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+          "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
+          "publishedAt": "2026-10-20T13:07:24+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
           "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
           "publishedAt": "2026-10-20T13:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-          "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
-          "publishedAt": "2026-10-20T11:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
           "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
           "publishedAt": "2026-10-20T11:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-          "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
-          "publishedAt": "2026-10-20T01:27:03+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-          "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
-          "publishedAt": "2026-10-19T23:39:38+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-          "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says",
-          "publishedAt": "2026-10-19T22:49:27+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -381,32 +399,20 @@
           "url": "https://research.meta.ai/blog/muse-spark-open",
           "publishedAt": "2026-10-16T09:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Report: Harvard maps AI’s gender divide",
-          "url": "https://shorensteincenter.org/resource/women-ai",
-          "publishedAt": "2026-10-16T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Researchers make ‘first contact’ with a rogue AI fleet",
-          "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
-          "publishedAt": "2026-10-15T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI and Apple trade theft accusations",
-          "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.176.0_1.pdf",
-          "publishedAt": "2026-10-15T09:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-20T13:00:26+00:00",
+      "updatedAt": "2026-10-20T14:00:27+00:00",
       "stories": [
+        {
+          "title": "Avenda Health expands Unfold AI platform to support intraoperative prostate cancer care",
+          "url": "https://www.therobotreport.com/avenda-health-expands-unfold-ai-platform-support-intraoperative-prostate-cancer-care",
+          "publishedAt": "2026-10-20T12:59:43+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "A guide to Day 1 of RoboBusiness 2026",
           "url": "https://www.therobotreport.com/a-guide-to-day-1-of-robobusiness-2026",
@@ -462,12 +468,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "How to choose a BLDC motor for robotic arms and mobile robots",
-          "url": "https://www.therobotreport.com/how-to-choose-bldc-motor-robotic-arms-mobile-robots",
-          "publishedAt": "2026-10-18T12:30:50+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: When Two Robots Become One",
           "url": "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
           "publishedAt": "2026-10-16T16:30:02+00:00",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-20T13:00:26+00:00",
+    "updatedAt": "2026-10-20T14:00:27+00:00",
     "stories": [
       {
         "title": "Anthropic co-founder says the singularity is underway",
@@ -531,10 +531,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Could a $200K bond for satellites paid before launch prevent a space junk disaster in orbit? Here's why some scientists think so",
-        "url": "https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster",
-        "publishedAt": "2026-10-20T12:00:00+00:00",
-        "source": "Space.com",
+        "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
+        "url": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions",
+        "publishedAt": "2026-10-20T13:00:00+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -549,18 +549,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Ukraine’s Zelenskyy says US decisions on Ukraine hard to explain",
-        "url": "https://www.defensenews.com/global/europe/2026/10/20/ukraines-zelenskyy-says-us-decisions-on-ukraine-hard-to-explain",
-        "publishedAt": "2026-10-20T10:45:16+00:00",
-        "source": "Defense News",
+        "title": "Drones take over AUSA, plus the Army’s plan to bring in new vendors",
+        "url": "https://breakingdefense.com/2026/10/drones-take-over-ausa-plus-the-armys-plan-to-bring-in-new-vendors",
+        "publishedAt": "2026-10-20T13:57:13+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "A guide to Day 1 of RoboBusiness 2026",
-        "url": "https://www.therobotreport.com/a-guide-to-day-1-of-robobusiness-2026",
-        "publishedAt": "2026-10-20T12:00:10+00:00",
+        "title": "Avenda Health expands Unfold AI platform to support intraoperative prostate cancer care",
+        "url": "https://www.therobotreport.com/avenda-health-expands-unfold-ai-platform-support-intraoperative-prostate-cancer-care",
+        "publishedAt": "2026-10-20T12:59:43+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -576,21 +576,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Gecko Robotics secures $300M contract with the U.S. Navy",
-        "url": "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy",
-        "publishedAt": "2026-10-20T10:25:47+00:00",
+        "title": "A guide to Day 1 of RoboBusiness 2026",
+        "url": "https://www.therobotreport.com/a-guide-to-day-1-of-robobusiness-2026",
+        "publishedAt": "2026-10-20T12:00:10+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-        "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
-        "publishedAt": "2026-10-20T13:00:00+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "Gecko Robotics secures $300M contract with the U.S. Navy",
+        "url": "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy",
+        "publishedAt": "2026-10-20T10:25:47+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -706,7 +706,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-06"
+    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)"
   ]
 }
