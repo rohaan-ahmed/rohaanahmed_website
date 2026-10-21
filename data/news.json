@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-21T15:00:28+00:00",
+  "generatedAt": "2026-10-21T15:22:15+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-21T15:00:28+00:00",
+      "updatedAt": "2026-10-21T15:22:15+00:00",
       "stories": [
         {
           "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
@@ -35,6 +35,12 @@
           "url": "https://www.space.com/stargazing/astrophotography/a-great-budget-lens-for-astrophotography-the-sharpness-produced-at-f-1-8-and-f-2-8-is-exactly-what-you-want-viltrox-af-16mm-f-1-8-fe-lens-review",
           "publishedAt": "2026-10-21T14:30:00+00:00",
           "source": "Space.com"
+        },
+        {
+          "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
+          "url": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins",
+          "publishedAt": "2026-10-21T15:05:08+00:00",
+          "source": "NASA"
         },
         {
           "title": "Space botanist conducts plant experiments in orbit | Space photo of the day for Oct. 21, 2026",
@@ -79,12 +85,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-          "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland",
-          "publishedAt": "2026-10-20T20:21:36+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
           "url": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight",
           "publishedAt": "2026-10-19T16:31:12+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-21T15:00:28+00:00",
+      "updatedAt": "2026-10-21T15:22:15+00:00",
       "stories": [
         {
           "title": "Hoekstra: Canada is not in a trade war and should align with U.S.",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-21T15:00:28+00:00",
+      "updatedAt": "2026-10-21T15:22:15+00:00",
       "stories": [
         {
           "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-21T15:00:28+00:00",
+      "updatedAt": "2026-10-21T15:22:15+00:00",
       "stories": [
         {
           "title": "Turkey, Qatar, Indonesia, Pakistan ink defense cooperation MoU",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-21T15:00:28+00:00",
+      "updatedAt": "2026-10-21T15:22:15+00:00",
       "stories": [
         {
           "title": "Sam Altman details the AI industry’s endgame",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-21T15:00:28+00:00",
+      "updatedAt": "2026-10-21T15:22:15+00:00",
       "stories": [
         {
           "title": "AGCO to deploy Agility Digit humanoid in Kansas factory",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-21T15:00:28+00:00",
+    "updatedAt": "2026-10-21T15:22:15+00:00",
     "stories": [
       {
         "title": "Sam Altman details the AI industry’s endgame",
@@ -706,7 +706,7 @@
     }
   ],
   "warnings": [
-    "European Space Agency: <unknown>:9:32: mismatched tag",
+    "European Space Agency: <unknown>:147:2: mismatched tag",
     "Vanguard: <unknown>:661:8864: not well-formed (invalid token)"
   ]
 }
