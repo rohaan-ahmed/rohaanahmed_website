@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-21T19:22:17+00:00",
+  "generatedAt": "2026-10-21T20:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-21T19:22:17+00:00",
+      "updatedAt": "2026-10-21T20:00:27+00:00",
       "stories": [
         {
           "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-21T19:22:17+00:00",
+      "updatedAt": "2026-10-21T20:00:27+00:00",
       "stories": [
         {
           "title": "Industry leaders urge Ottawa to accelerate funding for Canadian space sovereignty",
@@ -186,18 +186,18 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-21T19:22:17+00:00",
+      "updatedAt": "2026-10-21T20:00:27+00:00",
       "stories": [
+        {
+          "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/four-canadian-armed-forces-members-killed-during-training-in-cfb-wainwright.html",
+          "publishedAt": "2026-10-21T19:37:19+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Minister McGuinty announces strategic advancements for Canada’s sovereign space capabilities",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/minister-mcguinty-announces-strategic-advancements-for-canadas-sovereign-space-capabilities.html",
           "publishedAt": "2026-10-21T18:09:32+00:00",
-          "source": "National Defence"
-        },
-        {
-          "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
-          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/four-canadian-armed-forces-members-killed-during-training-in-cfb-wainwright.html",
-          "publishedAt": "2026-10-18T23:51:05+00:00",
           "source": "National Defence"
         },
         {
@@ -217,7 +217,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-21T19:22:17+00:00",
+      "updatedAt": "2026-10-21T20:00:27+00:00",
       "stories": [
         {
           "title": "Saudi Arabia’s nuclear program could outlive its government, so plan accordingly",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-21T19:22:17+00:00",
+      "updatedAt": "2026-10-21T20:00:27+00:00",
       "stories": [
         {
           "title": "Sam Altman details the AI industry’s endgame",
@@ -329,46 +329,16 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+          "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
+          "publishedAt": "2026-10-21T19:30:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
           "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey",
           "publishedAt": "2026-10-21T14:00:00+00:00",
           "source": "TechCrunch AI"
-        },
-        {
-          "title": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages (7 minute read)",
-          "url": "https://mistral.ai/news/voxtral-3",
-          "publishedAt": "2026-10-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Google and Meta Bring Native PyTorch Support to TPUs (17 minute read)",
-          "url": "https://pytorch.org/blog/introducing-torchtpu",
-          "publishedAt": "2026-10-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "DeepSeek V4.1 Flash: Large-Scale Inference Deployment (15 minute read)",
-          "url": "https://zhuanlan.zhihu.com/p/2095560295930508953",
-          "publishedAt": "2026-10-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Making every harness durable (7 minute read)",
-          "url": "https://vercel.com/blog/making-every-harness-durable",
-          "publishedAt": "2026-10-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Building Laminar: Ramp's Managed Agents Platform (14 minute read)",
-          "url": "https://builders.ramp.com/post/building-laminar",
-          "publishedAt": "2026-10-21T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "llm-d (Website)",
-          "url": "https://llm-d.ai/",
-          "publishedAt": "2026-10-21T00:00:00+00:00",
-          "source": "TLDR AI"
         },
         {
           "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
@@ -380,6 +350,12 @@
           "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
           "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate",
           "publishedAt": "2026-10-20T22:24:02+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Anthropic’s cloud partnerships are getting messy",
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+          "publishedAt": "2026-10-20T21:25:22+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -401,9 +377,33 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "SpaceX’s AI business is beating expectations",
+          "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
+          "publishedAt": "2026-10-20T20:40:41+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Anthropic designs a pay package for the public",
           "url": "https://www.anthropic.com/news/public-benefit-fund",
           "publishedAt": "2026-10-19T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic data shows junior employees losing ground",
+          "url": "https://www-cdn.anthropic.com/72628f1863c53432195db83279252dfd2cb53158/Employment%20at%20Anthropic.pdf",
+          "publishedAt": "2026-10-19T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Meta gives the West its best open-weight model",
+          "url": "https://research.meta.ai/blog/muse-spark-open",
+          "publishedAt": "2026-10-16T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Report: Harvard maps AI’s gender divide",
+          "url": "https://shorensteincenter.org/resource/women-ai",
+          "publishedAt": "2026-10-16T09:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-21T19:22:17+00:00",
+      "updatedAt": "2026-10-21T20:00:27+00:00",
       "stories": [
         {
           "title": "AGCO to deploy Agility Digit humanoid in Kansas factory",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-21T19:22:17+00:00",
+    "updatedAt": "2026-10-21T20:00:27+00:00",
     "stories": [
       {
         "title": "Sam Altman details the AI industry’s endgame",
@@ -546,9 +546,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Minister McGuinty announces strategic advancements for Canada’s sovereign space capabilities",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/minister-mcguinty-announces-strategic-advancements-for-canadas-sovereign-space-capabilities.html",
-        "publishedAt": "2026-10-21T18:09:32+00:00",
+        "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/four-canadian-armed-forces-members-killed-during-training-in-cfb-wainwright.html",
+        "publishedAt": "2026-10-21T19:37:19+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
@@ -712,6 +712,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)"
+    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-08"
   ]
 }
