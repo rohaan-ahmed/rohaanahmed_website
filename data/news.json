@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-21T11:00:29+00:00",
+  "generatedAt": "2026-10-21T12:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-21T11:00:29+00:00",
+      "updatedAt": "2026-10-21T12:00:28+00:00",
       "stories": [
+        {
+          "title": "Summer of Quantum: Building momentum for space-based QKD",
+          "url": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd",
+          "publishedAt": "2026-10-21T11:54:30+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Russian satellite plays 'cat-and-mouse' with a commercial US spacecraft likely used by Ukraine. But why the risky close encounter?",
           "url": "https://www.space.com/space-exploration/satellites/russian-satellite-plays-cat-and-mouse-with-a-commercial-us-satellite-likely-used-by-ukraine-but-why-the-risky-close-encounter",
@@ -89,19 +95,13 @@
           "url": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office",
           "publishedAt": "2026-10-15T12:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
-          "url": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit",
-          "publishedAt": "2026-10-14T13:09:21+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-21T11:00:29+00:00",
+      "updatedAt": "2026-10-21T12:00:28+00:00",
       "stories": [
         {
           "title": "Reaction Dynamics sets 2031 target for six-tonne Borealis rocket",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-21T11:00:29+00:00",
+      "updatedAt": "2026-10-21T12:00:28+00:00",
       "stories": [
         {
           "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
@@ -211,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-21T11:00:29+00:00",
+      "updatedAt": "2026-10-21T12:00:28+00:00",
       "stories": [
+        {
+          "title": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones",
+          "url": "https://www.defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones",
+          "publishedAt": "2026-10-21T11:07:00+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Medal of Honor recipient Dakota Meyer tapped as Barracks Task Force senior advisor",
           "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor",
@@ -280,12 +286,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Hegseth discusses Iran with Netanyahu in unannounced visit to Israel, officials say",
-          "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/20/hegseth-discusses-iran-with-netanyahu-in-unannounced-visit-to-israel-officials-say",
-          "publishedAt": "2026-10-20T15:56:57+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Turkish defense procurement spending proposed to rise 229% in 2027",
           "url": "https://breakingdefense.com/2026/10/turkish-defense-procurement-spending-proposed-to-rise-229-in-2027",
           "publishedAt": "2026-10-20T14:46:17+00:00",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-21T11:00:29+00:00",
+      "updatedAt": "2026-10-21T12:00:28+00:00",
       "stories": [
         {
           "title": "Sam Altman details the AI industry’s endgame",
@@ -359,45 +359,45 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "SpaceX’s AI business is beating expectations",
-          "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
-          "publishedAt": "2026-10-20T20:40:41+00:00",
-          "source": "TechCrunch AI"
+          "title": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost (4 minute read)",
+          "url": "https://www.minimax.io/blog/minimax-m31f",
+          "publishedAt": "2026-10-20T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-          "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
-          "publishedAt": "2026-10-20T20:35:10+00:00",
-          "source": "TechCrunch AI"
+          "title": "Introducing Clairic, a new System One class of extraction models (16 minute read)",
+          "url": "https://blog.cloudflare.com/clairic-extraction-model",
+          "publishedAt": "2026-10-20T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers",
-          "publishedAt": "2026-10-20T18:38:24+00:00",
-          "source": "TechCrunch AI"
+          "title": "AI Benchmarks: Climbing the Wrong Hills (24 minute read)",
+          "url": "https://research.contrary.com/report/ai-benchmarks-climbing-the-wrong-hills",
+          "publishedAt": "2026-10-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Inside Meta's Gigawatt-Scale AI Supercluster (14 minute read)",
+          "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
+          "publishedAt": "2026-10-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium (27 minute read)",
+          "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+          "publishedAt": "2026-10-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Exa 3.0 (3 minute read)",
+          "url": "https://exa.ai/blog/exa-3",
+          "publishedAt": "2026-10-20T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Anthropic designs a pay package for the public",
           "url": "https://www.anthropic.com/news/public-benefit-fund",
           "publishedAt": "2026-10-19T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic data shows junior employees losing ground",
-          "url": "https://www-cdn.anthropic.com/72628f1863c53432195db83279252dfd2cb53158/Employment%20at%20Anthropic.pdf",
-          "publishedAt": "2026-10-19T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Meta gives the West its best open-weight model",
-          "url": "https://research.meta.ai/blog/muse-spark-open",
-          "publishedAt": "2026-10-16T09:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Report: Harvard maps AI’s gender divide",
-          "url": "https://shorensteincenter.org/resource/women-ai",
-          "publishedAt": "2026-10-16T09:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-21T11:00:29+00:00",
+      "updatedAt": "2026-10-21T12:00:28+00:00",
       "stories": [
         {
           "title": "Reservoir launches new agricultural robotics incubator for Washington growers",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-21T11:00:29+00:00",
+    "updatedAt": "2026-10-21T12:00:28+00:00",
     "stories": [
       {
         "title": "Sam Altman details the AI industry’s endgame",
@@ -531,10 +531,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Russian satellite plays 'cat-and-mouse' with a commercial US spacecraft likely used by Ukraine. But why the risky close encounter?",
-        "url": "https://www.space.com/space-exploration/satellites/russian-satellite-plays-cat-and-mouse-with-a-commercial-us-satellite-likely-used-by-ukraine-but-why-the-risky-close-encounter",
-        "publishedAt": "2026-10-21T10:00:00+00:00",
-        "source": "Space.com",
+        "title": "Summer of Quantum: Building momentum for space-based QKD",
+        "url": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd",
+        "publishedAt": "2026-10-21T11:54:30+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Medal of Honor recipient Dakota Meyer tapped as Barracks Task Force senior advisor",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor",
-        "publishedAt": "2026-10-20T19:32:18+00:00",
+        "title": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones",
+        "url": "https://www.defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones",
+        "publishedAt": "2026-10-21T11:07:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -585,12 +585,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "16 deals show space SPACs have a poor record for investors",
-        "url": "https://spaceq.ca/space-spacs-poor-record-investors",
-        "publishedAt": "2026-10-20T17:30:04+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
+        "title": "Russian satellite plays 'cat-and-mouse' with a commercial US spacecraft likely used by Ukraine. But why the risky close encounter?",
+        "url": "https://www.space.com/space-exploration/satellites/russian-satellite-plays-cat-and-mouse-with-a-commercial-us-satellite-likely-used-by-ukraine-but-why-the-risky-close-encounter",
+        "publishedAt": "2026-10-21T10:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -706,7 +706,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-07"
+    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)"
   ]
 }
