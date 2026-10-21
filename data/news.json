@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-21T01:00:27+00:00",
+  "generatedAt": "2026-10-21T02:00:25+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-21T01:00:27+00:00",
+      "updatedAt": "2026-10-21T02:00:25+00:00",
       "stories": [
         {
           "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-21T01:00:27+00:00",
+      "updatedAt": "2026-10-21T02:00:25+00:00",
       "stories": [
+        {
+          "title": "Reaction Dynamics sets 2031 target for six-tonne Borealis rocket",
+          "url": "https://spaceq.ca/reaction-dynamics-borealis-six-tonne-2031",
+          "publishedAt": "2026-10-21T01:53:14+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Telesat lenders offer $3.2B rescue ahead of December default",
           "url": "https://spaceq.ca/telesat-lenders-3-2-billion-rescue-december-default",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "NordSpace starts Phase 2 at Atlantic Spaceport Complex",
-          "url": "https://spaceq.ca/nordspace-atlantic-spaceport-complex-phase-2",
-          "publishedAt": "2026-10-16T18:09:30+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "NASA to host a technical briefing on CSA astronaut Joshua Kutryk's upcoming spacewalks",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/nasa-to-host-a-technical-briefing-on-csa-astronaut-joshua-kutryks-upcoming-spacewalks.html",
           "publishedAt": "2026-10-16T20:41:18+00:00",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-21T01:00:27+00:00",
+      "updatedAt": "2026-10-21T02:00:25+00:00",
       "stories": [
         {
           "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-21T01:00:27+00:00",
+      "updatedAt": "2026-10-21T02:00:25+00:00",
       "stories": [
         {
           "title": "Medal of Honor recipient Dakota Meyer tapped as Barracks Task Force senior advisor",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-21T01:00:27+00:00",
+      "updatedAt": "2026-10-21T02:00:25+00:00",
       "stories": [
         {
           "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-21T01:00:27+00:00",
+      "updatedAt": "2026-10-21T02:00:25+00:00",
       "stories": [
         {
           "title": "Reservoir launches new agricultural robotics incubator for Washington growers",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-21T01:00:27+00:00",
+    "updatedAt": "2026-10-21T02:00:25+00:00",
     "stories": [
       {
         "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
@@ -522,9 +522,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Telesat lenders offer $3.2B rescue ahead of December default",
-        "url": "https://spaceq.ca/telesat-lenders-3-2-billion-rescue-december-default",
-        "publishedAt": "2026-10-21T00:01:48+00:00",
+        "title": "Reaction Dynamics sets 2031 target for six-tonne Borealis rocket",
+        "url": "https://spaceq.ca/reaction-dynamics-borealis-six-tonne-2031",
+        "publishedAt": "2026-10-21T01:53:14+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Telesat lenders offer $3.2B rescue ahead of December default",
+        "url": "https://spaceq.ca/telesat-lenders-3-2-billion-rescue-december-default",
+        "publishedAt": "2026-10-21T00:01:48+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Government puts $15 million into Xona’s Montreal satellite navigation centre",
         "url": "https://spaceq.ca/xona-space-systems-15-million-montreal-centre",
         "publishedAt": "2026-10-20T23:02:03+00:00",
@@ -579,15 +588,6 @@
         "title": "16 deals show space SPACs have a poor record for investors",
         "url": "https://spaceq.ca/space-spacs-poor-record-investors",
         "publishedAt": "2026-10-20T17:30:04+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Jeremy Hansen asks space sector to work like his Moon crew",
-        "url": "https://spaceq.ca/jeremy-hansen-space-sector-artemis-ii-crew",
-        "publishedAt": "2026-10-20T11:02:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
