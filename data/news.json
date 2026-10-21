@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-21T19:00:27+00:00",
+  "generatedAt": "2026-10-21T19:22:17+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-21T19:00:27+00:00",
+      "updatedAt": "2026-10-21T19:22:17+00:00",
       "stories": [
         {
           "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-21T19:00:27+00:00",
+      "updatedAt": "2026-10-21T19:22:17+00:00",
       "stories": [
+        {
+          "title": "Industry leaders urge Ottawa to accelerate funding for Canadian space sovereignty",
+          "url": "https://spaceq.ca/canadian-space-sovereignty-industry-funding",
+          "publishedAt": "2026-10-21T19:22:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "NordSpace gets $20 million DND deal for standby launch pad at Atlantic Spaceport Complex",
           "url": "https://spaceq.ca/nordspace-dnd-deal-atlantic-spaceport-complex",
@@ -158,12 +164,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "Canada–India space deals stay small ahead of Modi visit",
-          "url": "https://spaceq.ca/canada-india-space-trade-mission-csa-isro",
-          "publishedAt": "2026-10-19T15:37:28+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Minister Joly to speak at SpaceBound 2026",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/minister-joly-to-speak-at-spacebound-2026.html",
           "publishedAt": "2026-10-19T17:49:59+00:00",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-21T19:00:27+00:00",
+      "updatedAt": "2026-10-21T19:22:17+00:00",
       "stories": [
         {
           "title": "Minister McGuinty announces strategic advancements for Canada’s sovereign space capabilities",
@@ -217,13 +217,19 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-21T19:00:27+00:00",
+      "updatedAt": "2026-10-21T19:22:17+00:00",
       "stories": [
         {
           "title": "Saudi Arabia’s nuclear program could outlive its government, so plan accordingly",
           "url": "https://breakingdefense.com/2026/10/saudi-arabias-nuclear-program-could-outlive-its-government-so-plan-accordingly",
           "publishedAt": "2026-10-21T18:35:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "US Air Force outlines the fighter fleet it needs by 2035",
+          "url": "https://www.defensenews.com/news/your-military/2026/10/21/us-air-force-outlines-the-fighter-fleet-it-needs-by-2035",
+          "publishedAt": "2026-10-21T19:01:44+00:00",
+          "source": "Defense News"
         },
         {
           "title": "Israel’s Elbit acquires Canadian company focused on autonomous underwater systems",
@@ -274,12 +280,6 @@
           "source": "Defense News"
         },
         {
-          "title": "US Marine Corps makes Maven available service-wide",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/10/21/marine-corps-makes-maven-available-service-wide",
-          "publishedAt": "2026-10-21T12:54:31+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Army pilots AI-backed maintenance program to digitize manuals, streamline repairs",
           "url": "https://defensescoop.com/2026/10/20/army-pilots-ai-backed-maintenance-program",
           "publishedAt": "2026-10-20T22:02:44+00:00",
@@ -314,7 +314,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-21T19:00:27+00:00",
+      "updatedAt": "2026-10-21T19:22:17+00:00",
       "stories": [
         {
           "title": "Sam Altman details the AI industry’s endgame",
@@ -411,7 +411,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-21T19:00:27+00:00",
+      "updatedAt": "2026-10-21T19:22:17+00:00",
       "stories": [
         {
           "title": "AGCO to deploy Agility Digit humanoid in Kansas factory",
@@ -507,7 +507,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-21T19:00:27+00:00",
+    "updatedAt": "2026-10-21T19:22:17+00:00",
     "stories": [
       {
         "title": "Sam Altman details the AI industry’s endgame",
@@ -528,9 +528,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NordSpace gets $20 million DND deal for standby launch pad at Atlantic Spaceport Complex",
-        "url": "https://spaceq.ca/nordspace-dnd-deal-atlantic-spaceport-complex",
-        "publishedAt": "2026-10-21T18:44:56+00:00",
+        "title": "Industry leaders urge Ottawa to accelerate funding for Canadian space sovereignty",
+        "url": "https://spaceq.ca/canadian-space-sovereignty-industry-funding",
+        "publishedAt": "2026-10-21T19:22:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -573,6 +573,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "NordSpace gets $20 million DND deal for standby launch pad at Atlantic Spaceport Complex",
+        "url": "https://spaceq.ca/nordspace-dnd-deal-atlantic-spaceport-complex",
+        "publishedAt": "2026-10-21T18:44:56+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Liberal and Conservative MPs launch Parliamentary Space Caucus",
         "url": "https://spaceq.ca/parliamentary-space-caucus-naqvi-majumdar",
         "publishedAt": "2026-10-21T18:06:37+00:00",
@@ -585,15 +594,6 @@
         "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
         "url": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035",
         "publishedAt": "2026-10-21T15:00:22+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
-        "url": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller",
-        "publishedAt": "2026-10-21T14:29:57+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
