@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-21T15:22:15+00:00",
+  "generatedAt": "2026-10-21T16:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-21T15:22:15+00:00",
+      "updatedAt": "2026-10-21T16:00:29+00:00",
       "stories": [
+        {
+          "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
+          "url": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner",
+          "publishedAt": "2026-10-21T15:26:29+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
           "url": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035",
@@ -89,19 +95,13 @@
           "url": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight",
           "publishedAt": "2026-10-19T16:31:12+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Oct. 29: Applying AI/SI to the GEOINT Mission",
-          "url": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event",
-          "publishedAt": "2026-10-15T20:41:50+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-21T15:22:15+00:00",
+      "updatedAt": "2026-10-21T16:00:29+00:00",
       "stories": [
         {
           "title": "Hoekstra: Canada is not in a trade war and should align with U.S.",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-21T15:22:15+00:00",
+      "updatedAt": "2026-10-21T16:00:29+00:00",
       "stories": [
         {
           "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
@@ -211,13 +211,19 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-21T15:22:15+00:00",
+      "updatedAt": "2026-10-21T16:00:29+00:00",
       "stories": [
         {
           "title": "Turkey, Qatar, Indonesia, Pakistan ink defense cooperation MoU",
           "url": "https://breakingdefense.com/2026/10/turkey-qatar-indonesia-pakistan-ink-defense-cooperation-mou",
           "publishedAt": "2026-10-21T14:46:36+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Got milk? US Army refines its pasteurization power",
+          "url": "https://www.defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power",
+          "publishedAt": "2026-10-21T15:18:41+00:00",
+          "source": "Defense News"
         },
         {
           "title": "German military raises sabotage threat level amid warning of Russian attacks: report",
@@ -253,12 +259,6 @@
           "title": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones",
           "url": "https://www.defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones",
           "publishedAt": "2026-10-21T11:07:00+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "Medal of Honor recipient Dakota Meyer tapped as Barracks Task Force senior advisor",
-          "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor",
-          "publishedAt": "2026-10-20T19:32:18+00:00",
           "source": "Defense News"
         },
         {
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-21T15:22:15+00:00",
+      "updatedAt": "2026-10-21T16:00:29+00:00",
       "stories": [
         {
           "title": "Sam Altman details the AI industry’s endgame",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-21T15:22:15+00:00",
+      "updatedAt": "2026-10-21T16:00:29+00:00",
       "stories": [
         {
           "title": "AGCO to deploy Agility Digit humanoid in Kansas factory",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-21T15:22:15+00:00",
+    "updatedAt": "2026-10-21T16:00:29+00:00",
     "stories": [
       {
         "title": "Sam Altman details the AI industry’s endgame",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
-        "url": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035",
-        "publishedAt": "2026-10-21T15:00:22+00:00",
+        "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
+        "url": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner",
+        "publishedAt": "2026-10-21T15:26:29+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
+        "url": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035",
+        "publishedAt": "2026-10-21T15:00:22+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
         "url": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller",
         "publishedAt": "2026-10-21T14:29:57+00:00",
@@ -579,15 +588,6 @@
         "title": "Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration",
         "url": "https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration",
         "publishedAt": "2026-10-21T12:00:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Summer of Quantum: Building momentum for space-based QKD",
-        "url": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd",
-        "publishedAt": "2026-10-21T11:54:30+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
