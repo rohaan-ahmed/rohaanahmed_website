@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T19:25:41+00:00",
+  "generatedAt": "2026-10-22T20:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-22T19:25:41+00:00",
+      "updatedAt": "2026-10-22T20:00:29+00:00",
       "stories": [
         {
           "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-22T19:25:41+00:00",
+      "updatedAt": "2026-10-22T20:00:29+00:00",
       "stories": [
         {
           "title": "Alex MacDonald: Space firms see an Arctic opening in defence",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-22T19:25:41+00:00",
+      "updatedAt": "2026-10-22T20:00:29+00:00",
       "stories": [
         {
           "title": "Officials from the Canadian Armed Forces to hold media briefing to provide update on CFB Wainwright incident",
@@ -223,8 +223,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-22T19:25:41+00:00",
+      "updatedAt": "2026-10-22T20:00:29+00:00",
       "stories": [
+        {
+          "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
+          "url": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand",
+          "publishedAt": "2026-10-22T19:27:22+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Winning the information war through ideas and perception",
           "url": "https://breakingdefense.com/2026/10/winning-the-information-war-through-ideas-and-perception",
@@ -286,12 +292,6 @@
           "source": "Defense News"
         },
         {
-          "title": "The Pentagon wants ketamine wafers as a battlefield medicine option",
-          "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option",
-          "publishedAt": "2026-10-22T13:45:04+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Army Special Forces leaders see promise, high demand for new robotics technician integrator job",
           "url": "https://defensescoop.com/2026/10/21/army-special-forces-new-robotics-technician-integrator-job",
           "publishedAt": "2026-10-21T22:25:06+00:00",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-22T19:25:41+00:00",
+      "updatedAt": "2026-10-22T20:00:29+00:00",
       "stories": [
         {
           "title": "OpenAI’s model helps catch critical PHP flaws",
@@ -347,9 +347,9 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-          "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
-          "publishedAt": "2026-10-22T18:43:53+00:00",
+          "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+          "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
+          "publishedAt": "2026-10-22T19:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-22T19:25:41+00:00",
+      "updatedAt": "2026-10-22T20:00:29+00:00",
       "stories": [
         {
           "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-22T19:25:41+00:00",
+    "updatedAt": "2026-10-22T20:00:29+00:00",
     "stories": [
       {
         "title": "OpenAI’s model helps catch critical PHP flaws",
@@ -561,10 +561,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Winning the information war through ideas and perception",
-        "url": "https://breakingdefense.com/2026/10/winning-the-information-war-through-ideas-and-perception",
-        "publishedAt": "2026-10-22T18:22:00+00:00",
-        "source": "Breaking Defense",
+        "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
+        "url": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand",
+        "publishedAt": "2026-10-22T19:27:22+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -588,19 +588,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Denmark to buy Kongsberg, Covenant missiles for new long-range strike option",
-        "url": "https://www.defensenews.com/global/europe/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option",
-        "publishedAt": "2026-10-22T19:03:40+00:00",
-        "source": "Defense News",
+        "title": "Winning the information war through ideas and perception",
+        "url": "https://breakingdefense.com/2026/10/winning-the-information-war-through-ideas-and-perception",
+        "publishedAt": "2026-10-22T18:22:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "‘Ability to strike back’: Denmark commits to long-range missile orders",
-        "url": "https://breakingdefense.com/2026/10/ability-to-strike-back-denmark-commits-to-long-range-missile-orders",
-        "publishedAt": "2026-10-22T17:18:00+00:00",
-        "source": "Breaking Defense",
+        "title": "Denmark to buy Kongsberg, Covenant missiles for new long-range strike option",
+        "url": "https://www.defensenews.com/global/europe/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option",
+        "publishedAt": "2026-10-22T19:03:40+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
