@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-22T17:00:29+00:00",
+  "generatedAt": "2026-10-22T18:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-22T17:00:29+00:00",
+      "updatedAt": "2026-10-22T18:00:29+00:00",
       "stories": [
+        {
+          "title": "350th ESA Council: Media information session",
+          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session",
+          "publishedAt": "2026-10-22T14:00:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "'Cabin leak suspected': Artemis II astronaut reveals how a warning nearly derailed NASA's epic moon mission",
           "url": "https://www.space.com/space-exploration/artemis/cabin-leak-suspected-artemis-ii-astronaut-reveals-how-a-warning-nearly-derailed-moon-mission",
@@ -89,19 +95,13 @@
           "url": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd",
           "publishedAt": "2026-10-21T11:54:30+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
-          "url": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions",
-          "publishedAt": "2026-10-20T13:00:00+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-22T17:00:29+00:00",
+      "updatedAt": "2026-10-22T18:00:29+00:00",
       "stories": [
         {
           "title": "Alex MacDonald: Space firms see an Arctic opening in defence",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-22T17:00:29+00:00",
+      "updatedAt": "2026-10-22T18:00:29+00:00",
       "stories": [
         {
           "title": "Officials from the Canadian Armed Forces to hold media briefing to provide update on CFB Wainwright incident",
@@ -223,13 +223,31 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-22T17:00:29+00:00",
+      "updatedAt": "2026-10-22T18:00:29+00:00",
       "stories": [
+        {
+          "title": "‘Ability to strike back’: Denmark commits to long-range missile orders",
+          "url": "https://breakingdefense.com/2026/10/ability-to-strike-back-denmark-commits-to-long-range-missile-orders",
+          "publishedAt": "2026-10-22T17:18:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "The Pentagon has gone too far in using the Other Transaction Authority. Congress should act.",
           "url": "https://breakingdefense.com/2026/10/the-pentagon-has-gone-too-far-in-using-the-other-transaction-authority-congress-should-act",
           "publishedAt": "2026-10-22T16:58:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Trump, Putin negotiate release of US Air Force veteran from Russian prison",
+          "url": "https://www.defensenews.com/news/your-military/2026/10/22/trump-putin-negotiate-release-of-us-air-force-veteran-from-russian-prison",
+          "publishedAt": "2026-10-22T17:17:19+00:00",
+          "source": "Defense News"
+        },
+        {
+          "title": "Pentagon, Lockheed agree to 10-year deal for 850 F-35 jets",
+          "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-lockheed-agree-to-10-year-deal-for-850-f-35-jets",
+          "publishedAt": "2026-10-22T17:15:33+00:00",
+          "source": "Defense News"
         },
         {
           "title": "MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing",
@@ -256,12 +274,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Pentagon, Lockheed agree to decade-long F-35 framework deal for hundreds of jets",
-          "url": "https://breakingdefense.com/2026/10/pentagon-lockheed-agree-to-decade-long-f-35-framework-deal-for-hundreds-of-jets",
-          "publishedAt": "2026-10-22T12:57:21+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "The Pentagon wants ketamine wafers as a battlefield medicine option",
           "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option",
           "publishedAt": "2026-10-22T13:45:04+00:00",
@@ -271,18 +283,6 @@
           "title": "Pentagon ignored cybersecurity flaws before data breach, Marines’ lawsuit says",
           "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says",
           "publishedAt": "2026-10-22T13:03:46+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "UK’s Royal Navy has ‘serious’ anti-submarine warfare gap, committee finds",
-          "url": "https://www.defensenews.com/global/europe/2026/10/22/uks-royal-navy-has-serious-anti-submarine-warfare-gap-committee-finds",
-          "publishedAt": "2026-10-22T11:07:12+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "Ukraine to be able to buy military supplies via NATO agency: report",
-          "url": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report",
-          "publishedAt": "2026-10-22T08:58:25+00:00",
           "source": "Defense News"
         },
         {
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-22T17:00:29+00:00",
+      "updatedAt": "2026-10-22T18:00:29+00:00",
       "stories": [
         {
           "title": "OpenAI’s model helps catch critical PHP flaws",
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-22T17:00:29+00:00",
+      "updatedAt": "2026-10-22T18:00:29+00:00",
       "stories": [
         {
           "title": "Dream Labs raises $90M and launches Dream API",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-22T17:00:29+00:00",
+    "updatedAt": "2026-10-22T18:00:29+00:00",
     "stories": [
       {
         "title": "OpenAI’s model helps catch critical PHP flaws",
@@ -543,10 +543,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "'Cabin leak suspected': Artemis II astronaut reveals how a warning nearly derailed NASA's epic moon mission",
-        "url": "https://www.space.com/space-exploration/artemis/cabin-leak-suspected-artemis-ii-astronaut-reveals-how-a-warning-nearly-derailed-moon-mission",
-        "publishedAt": "2026-10-22T16:14:56+00:00",
-        "source": "Space.com",
+        "title": "350th ESA Council: Media information session",
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session",
+        "publishedAt": "2026-10-22T14:00:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The Pentagon has gone too far in using the Other Transaction Authority. Congress should act.",
-        "url": "https://breakingdefense.com/2026/10/the-pentagon-has-gone-too-far-in-using-the-other-transaction-authority-congress-should-act",
-        "publishedAt": "2026-10-22T16:58:00+00:00",
+        "title": "‘Ability to strike back’: Denmark commits to long-range missile orders",
+        "url": "https://breakingdefense.com/2026/10/ability-to-strike-back-denmark-commits-to-long-range-missile-orders",
+        "publishedAt": "2026-10-22T17:18:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -588,19 +588,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing",
-        "url": "https://breakingdefense.com/2026/10/mda-awards-75m-to-long-wall-for-low-cost-midcourse-interceptor-testing",
-        "publishedAt": "2026-10-22T16:08:18+00:00",
+        "title": "The Pentagon has gone too far in using the Other Transaction Authority. Congress should act.",
+        "url": "https://breakingdefense.com/2026/10/the-pentagon-has-gone-too-far-in-using-the-other-transaction-authority-congress-should-act",
+        "publishedAt": "2026-10-22T16:58:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Navy awards Applied Intuition $25M to deploy AI sensor fusion at sea",
-        "url": "https://breakingdefense.com/2026/10/navy-awards-applied-intuition-25m-to-deploy-ai-sensor-fusion-at-sea",
-        "publishedAt": "2026-10-22T15:43:21+00:00",
-        "source": "Breaking Defense",
+        "title": "Trump, Putin negotiate release of US Air Force veteran from Russian prison",
+        "url": "https://www.defensenews.com/news/your-military/2026/10/22/trump-putin-negotiate-release-of-us-air-force-veteran-from-russian-prison",
+        "publishedAt": "2026-10-22T17:17:19+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
