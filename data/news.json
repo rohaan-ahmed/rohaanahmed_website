@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-22T08:00:28+00:00",
+  "generatedAt": "2026-10-22T09:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-22T08:00:28+00:00",
+      "updatedAt": "2026-10-22T09:00:26+00:00",
       "stories": [
+        {
+          "title": "Stars brewing in a nebulous cauldron",
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
+          "publishedAt": "2026-10-22T08:00:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
           "url": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner",
@@ -89,19 +95,13 @@
           "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica",
           "publishedAt": "2026-10-16T08:00:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Week in images: 12-16 October 2026",
-          "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_12-16_October_2026",
-          "publishedAt": "2026-10-13T13:10:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-22T08:00:28+00:00",
+      "updatedAt": "2026-10-22T09:00:26+00:00",
       "stories": [
         {
           "title": "Industry leaders urge Ottawa to accelerate funding for Canadian space sovereignty",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-22T08:00:28+00:00",
+      "updatedAt": "2026-10-22T09:00:26+00:00",
       "stories": [
         {
           "title": "Officials from the Canadian Armed Forces to hold media briefing to provide update on CFB Wainwright incident",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-22T08:00:28+00:00",
+      "updatedAt": "2026-10-22T09:00:26+00:00",
       "stories": [
         {
           "title": "Air Force needs 1,509 combat-ready jets by 2035, service tells Congress",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-22T08:00:28+00:00",
+      "updatedAt": "2026-10-22T09:00:26+00:00",
       "stories": [
         {
           "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-22T08:00:28+00:00",
+      "updatedAt": "2026-10-22T09:00:26+00:00",
       "stories": [
         {
           "title": "Tesla starts Optimus robot production in California as profit falls 43%",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-22T08:00:28+00:00",
+    "updatedAt": "2026-10-22T09:00:26+00:00",
     "stories": [
       {
         "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
@@ -543,10 +543,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
-        "url": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner",
-        "publishedAt": "2026-10-21T15:26:29+00:00",
-        "source": "SpaceNews",
+        "title": "Stars brewing in a nebulous cauldron",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
+        "publishedAt": "2026-10-22T08:00:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -597,9 +597,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
-        "url": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035",
-        "publishedAt": "2026-10-21T15:00:22+00:00",
+        "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
+        "url": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner",
+        "publishedAt": "2026-10-21T15:26:29+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
