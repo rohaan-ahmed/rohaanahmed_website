@@ -1,15 +1,27 @@
 {
-  "generatedAt": "2026-10-22T12:00:29+00:00",
+  "generatedAt": "2026-10-22T13:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-22T12:00:29+00:00",
+      "updatedAt": "2026-10-22T13:00:31+00:00",
       "stories": [
+        {
+          "title": "Next Mass Effect game cancelled as EA shuts down legendary sci-fi RPG studio BioWare",
+          "url": "https://www.space.com/entertainment/space-games/next-mass-effect-game-cancelled-as-ea-shuts-down-developer-bioware",
+          "publishedAt": "2026-10-22T12:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "ESA Open Days 2026",
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026",
           "publishedAt": "2026-10-22T09:00:00+00:00",
+          "source": "European Space Agency"
+        },
+        {
+          "title": "ESA Council approves appointment of two new directors",
+          "url": "https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors",
+          "publishedAt": "2026-10-22T08:26:00+00:00",
           "source": "European Space Agency"
         },
         {
@@ -79,29 +91,17 @@
           "source": "Space.com"
         },
         {
-          "title": "Sci-fi legend Alan Dean Foster on his new futuristic adventure 'Lost On Paradise': 'It's paradise until you get there, and then maybe you mess it up' (interview)",
-          "url": "https://www.space.com/entertainment/space-books/sci-fi-legend-alan-dean-foster-on-his-new-futuristic-adventure-lost-on-paradise-its-paradise-until-you-get-there-and-then-maybe-you-mess-it-up-interview",
-          "publishedAt": "2026-10-21T18:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
           "url": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions",
           "publishedAt": "2026-10-20T13:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Euclid discovers new comet",
-          "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
-          "publishedAt": "2026-10-19T12:00:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-22T12:00:29+00:00",
+      "updatedAt": "2026-10-22T13:00:31+00:00",
       "stories": [
         {
           "title": "SpaceBound 2026 defence: NordSpace deal and a call for capital",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-22T12:00:29+00:00",
+      "updatedAt": "2026-10-22T13:00:31+00:00",
       "stories": [
         {
           "title": "Officials from the Canadian Armed Forces to hold media briefing to provide update on CFB Wainwright incident",
@@ -223,8 +223,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-22T12:00:29+00:00",
+      "updatedAt": "2026-10-22T13:00:31+00:00",
       "stories": [
+        {
+          "title": "How uncrewed surface vessels performing ISR help build persistent maritime awareness",
+          "url": "https://breakingdefense.com/2026/10/how-uncrewed-surface-vessels-performing-isr-help-build-persistent-maritime-awareness",
+          "publishedAt": "2026-10-22T12:23:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "UK’s Royal Navy has ‘serious’ anti-submarine warfare gap, committee finds",
           "url": "https://www.defensenews.com/global/europe/2026/10/22/uks-royal-navy-has-serious-anti-submarine-warfare-gap-committee-finds",
@@ -298,12 +304,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Australia marks missile, cyber ‘firsts’ in exercise with Indonesia",
-          "url": "https://breakingdefense.com/2026/10/australia-marks-missile-cyber-firsts-in-exercise-with-indonesia",
-          "publishedAt": "2026-10-21T13:22:09+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Army pilots AI-backed maintenance program to digitize manuals, streamline repairs",
           "url": "https://defensescoop.com/2026/10/20/army-pilots-ai-backed-maintenance-program",
           "publishedAt": "2026-10-20T22:02:44+00:00",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-22T12:00:29+00:00",
+      "updatedAt": "2026-10-22T13:00:31+00:00",
       "stories": [
         {
           "title": "OpenAI’s model helps catch critical PHP flaws",
@@ -417,8 +417,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-22T12:00:29+00:00",
+      "updatedAt": "2026-10-22T13:00:31+00:00",
       "stories": [
+        {
+          "title": "Dream Labs raises $90M and launches Dream API",
+          "url": "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api",
+          "publishedAt": "2026-10-22T12:36:37+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Tesla starts Optimus robot production in California as profit falls 43%",
           "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43",
@@ -468,12 +474,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "Gecko Robotics secures $300M contract with the U.S. Navy",
-          "url": "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy",
-          "publishedAt": "2026-10-20T10:25:47+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
           "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
           "publishedAt": "2026-10-20T13:00:00+00:00",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-22T12:00:29+00:00",
+    "updatedAt": "2026-10-22T13:00:31+00:00",
     "stories": [
       {
         "title": "OpenAI’s model helps catch critical PHP flaws",
@@ -543,10 +543,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "ESA Open Days 2026",
-        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026",
-        "publishedAt": "2026-10-22T09:00:00+00:00",
-        "source": "European Space Agency",
+        "title": "Next Mass Effect game cancelled as EA shuts down legendary sci-fi RPG studio BioWare",
+        "url": "https://www.space.com/entertainment/space-games/next-mass-effect-game-cancelled-as-ea-shuts-down-developer-bioware",
+        "publishedAt": "2026-10-22T12:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -561,46 +561,46 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "How uncrewed surface vessels performing ISR help build persistent maritime awareness",
+        "url": "https://breakingdefense.com/2026/10/how-uncrewed-surface-vessels-performing-isr-help-build-persistent-maritime-awareness",
+        "publishedAt": "2026-10-22T12:23:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "lead"
+      },
+      {
+        "title": "Dream Labs raises $90M and launches Dream API",
+        "url": "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api",
+        "publishedAt": "2026-10-22T12:36:37+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
+        "bulletinRole": "lead"
+      },
+      {
         "title": "UK’s Royal Navy has ‘serious’ anti-submarine warfare gap, committee finds",
         "url": "https://www.defensenews.com/global/europe/2026/10/22/uks-royal-navy-has-serious-anti-submarine-warfare-gap-committee-finds",
         "publishedAt": "2026-10-22T11:07:12+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
-        "bulletinRole": "lead"
-      },
-      {
-        "title": "Tesla starts Optimus robot production in California as profit falls 43%",
-        "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43",
-        "publishedAt": "2026-10-21T20:33:09+00:00",
-        "source": "TechCrunch Robotics",
-        "topicId": "robotics",
-        "topicName": "Robotics",
-        "bulletinRole": "lead"
-      },
-      {
-        "title": "Ukraine to be able to buy military supplies via NATO agency: report",
-        "url": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report",
-        "publishedAt": "2026-10-22T08:58:25+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Stars brewing in a nebulous cauldron",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
-        "publishedAt": "2026-10-22T08:00:00+00:00",
+        "title": "ESA Open Days 2026",
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026",
+        "publishedAt": "2026-10-22T09:00:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "NASA giving update about Artemis moon plans on Oct. 23: Watch it live",
-        "url": "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live",
-        "publishedAt": "2026-10-22T10:00:00+00:00",
-        "source": "Space.com",
+        "title": "ESA Council approves appointment of two new directors",
+        "url": "https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors",
+        "publishedAt": "2026-10-22T08:26:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
