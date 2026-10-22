@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-10-22T09:00:26+00:00",
+  "generatedAt": "2026-10-22T10:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-22T09:00:26+00:00",
+      "updatedAt": "2026-10-22T10:00:27+00:00",
       "stories": [
+        {
+          "title": "ESA Open Days 2026",
+          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026",
+          "publishedAt": "2026-10-22T09:00:00+00:00",
+          "source": "European Space Agency"
+        },
         {
           "title": "Stars brewing in a nebulous cauldron",
           "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
           "publishedAt": "2026-10-22T08:00:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "NASA giving update about Artemis moon plans on Oct. 23: Watch it live",
+          "url": "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live",
+          "publishedAt": "2026-10-22T10:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
@@ -73,12 +85,6 @@
           "source": "Space.com"
         },
         {
-          "title": "\"A great budget lens for astrophotography, the sharpness produced at f/1.8 and f/2.8 is exactly what you want.\" Viltrox AF 16mm f/1.8 FE lens review",
-          "url": "https://www.space.com/stargazing/astrophotography/a-great-budget-lens-for-astrophotography-the-sharpness-produced-at-f-1-8-and-f-2-8-is-exactly-what-you-want-viltrox-af-16mm-f-1-8-fe-lens-review",
-          "publishedAt": "2026-10-21T14:30:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
           "url": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions",
           "publishedAt": "2026-10-20T13:00:00+00:00",
@@ -89,19 +95,13 @@
           "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
           "publishedAt": "2026-10-19T12:00:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Earth from Space: West Antarctica",
-          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_West_Antarctica",
-          "publishedAt": "2026-10-16T08:00:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-22T09:00:26+00:00",
+      "updatedAt": "2026-10-22T10:00:27+00:00",
       "stories": [
         {
           "title": "Industry leaders urge Ottawa to accelerate funding for Canadian space sovereignty",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-22T09:00:26+00:00",
+      "updatedAt": "2026-10-22T10:00:27+00:00",
       "stories": [
         {
           "title": "Officials from the Canadian Armed Forces to hold media briefing to provide update on CFB Wainwright incident",
@@ -223,8 +223,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-22T09:00:26+00:00",
+      "updatedAt": "2026-10-22T10:00:27+00:00",
       "stories": [
+        {
+          "title": "Ukraine to be able to buy military supplies via NATO agency: report",
+          "url": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report",
+          "publishedAt": "2026-10-22T08:58:25+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Air Force needs 1,509 combat-ready jets by 2035, service tells Congress",
           "url": "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress",
@@ -298,12 +304,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Timing to roll out US Army’s NGC2 depends on funds, commander says",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says",
-          "publishedAt": "2026-10-21T13:59:36+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Army pilots AI-backed maintenance program to digitize manuals, streamline repairs",
           "url": "https://defensescoop.com/2026/10/20/army-pilots-ai-backed-maintenance-program",
           "publishedAt": "2026-10-20T22:02:44+00:00",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-22T09:00:26+00:00",
+      "updatedAt": "2026-10-22T10:00:27+00:00",
       "stories": [
         {
           "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-22T09:00:26+00:00",
+      "updatedAt": "2026-10-22T10:00:27+00:00",
       "stories": [
         {
           "title": "Tesla starts Optimus robot production in California as profit falls 43%",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-22T09:00:26+00:00",
+    "updatedAt": "2026-10-22T10:00:27+00:00",
     "stories": [
       {
         "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Stars brewing in a nebulous cauldron",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
-        "publishedAt": "2026-10-22T08:00:00+00:00",
+        "title": "ESA Open Days 2026",
+        "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026",
+        "publishedAt": "2026-10-22T09:00:00+00:00",
         "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -561,10 +561,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Air Force needs 1,509 combat-ready jets by 2035, service tells Congress",
-        "url": "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress",
-        "publishedAt": "2026-10-21T20:46:13+00:00",
-        "source": "Breaking Defense",
+        "title": "Ukraine to be able to buy military supplies via NATO agency: report",
+        "url": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report",
+        "publishedAt": "2026-10-22T08:58:25+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -579,30 +579,30 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Stars brewing in a nebulous cauldron",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
+        "publishedAt": "2026-10-22T08:00:00+00:00",
+        "source": "European Space Agency",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "NASA giving update about Artemis moon plans on Oct. 23: Watch it live",
+        "url": "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live",
+        "publishedAt": "2026-10-22T10:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "NordSpace gets $20 million DND deal for standby launch pad at Atlantic Spaceport Complex",
         "url": "https://spaceq.ca/nordspace-dnd-deal-atlantic-spaceport-complex",
         "publishedAt": "2026-10-21T18:44:56+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Liberal and Conservative MPs launch Parliamentary Space Caucus",
-        "url": "https://spaceq.ca/parliamentary-space-caucus-naqvi-majumdar",
-        "publishedAt": "2026-10-21T18:06:37+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
-        "url": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner",
-        "publishedAt": "2026-10-21T15:26:29+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
