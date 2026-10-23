@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-10-23T04:00:28+00:00",
+  "generatedAt": "2026-10-23T05:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-23T04:00:28+00:00",
+      "updatedAt": "2026-10-23T05:00:28+00:00",
       "stories": [
         {
           "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
           "url": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt",
           "publishedAt": "2026-10-22T18:13:38+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring",
+          "publishedAt": "2026-10-23T04:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "El Niño Then and Now",
+          "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now",
+          "publishedAt": "2026-10-23T04:00:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "Europe's Space Rider vehicle comes crashing down during drop test",
@@ -31,12 +43,6 @@
           "source": "NASA"
         },
         {
-          "title": "Spiral’s Edge",
-          "url": "https://www.nasa.gov/image-article/spirals-edge",
-          "publishedAt": "2026-10-22T21:35:38+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "After Starshield interruption, Ukraine wants to build its own satellite communication network with ICEYE and Nokia",
           "url": "https://www.space.com/space-exploration/satellites/after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communication-network-with-iceye-and-nokia",
           "publishedAt": "2026-10-22T20:28:04+00:00",
@@ -47,12 +53,6 @@
           "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session",
           "publishedAt": "2026-10-22T14:00:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
-          "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses",
-          "publishedAt": "2026-10-22T16:20:37+00:00",
-          "source": "NASA"
         },
         {
           "title": "ESA Open Days 2026",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-23T04:00:28+00:00",
+      "updatedAt": "2026-10-23T05:00:28+00:00",
       "stories": [
         {
           "title": "Alex MacDonald: Space firms see an Arctic opening in defence",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-23T04:00:28+00:00",
+      "updatedAt": "2026-10-23T05:00:28+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-23T04:00:28+00:00",
+      "updatedAt": "2026-10-23T05:00:28+00:00",
       "stories": [
         {
           "title": "Space Force shifts into high gear on cislunar warfare, with RFIs coming soon",
@@ -332,8 +332,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-23T04:00:28+00:00",
+      "updatedAt": "2026-10-23T05:00:28+00:00",
       "stories": [
+        {
+          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+          "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia",
+          "publishedAt": "2026-10-23T04:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Left alone with nothing to do, AI agents started playing",
           "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
@@ -365,40 +371,16 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Introducing Flint (7 minute read)",
-          "url": "https://recursive.com/updates/introducing-recursive-flint",
-          "publishedAt": "2026-10-22T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+          "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
+          "publishedAt": "2026-10-22T19:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "OpenAI models are coming to Google Cloud (2 minute read)",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "publishedAt": "2026-10-22T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "If Intelligence Is Getting Cheap, What Remains Expensive? (7 minute read)",
-          "url": "https://x.com/prathiknaidu/status/2112928049935118493",
-          "publishedAt": "2026-10-22T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How does Fable 5.1 hide messages in images? (15 minute read)",
-          "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
-          "publishedAt": "2026-10-22T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Claude Mods: Flipping the Harness Inside Out (11 minute read)",
-          "url": "https://www.latent.space/p/claude-mods",
-          "publishedAt": "2026-10-22T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Mammoth-1 and Elephant-1: frontier decision models (20 minute read)",
-          "url": "https://labs.baseten.co/articles/mammoth-1-and-elephant-1-frontier-decision-models",
-          "publishedAt": "2026-10-22T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Canva releases its first image generation model",
+          "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
+          "publishedAt": "2026-10-22T19:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Sam Altman details the AI industry’s endgame",
@@ -423,13 +405,31 @@
           "url": "https://norforge.com/blog/inside_cairn",
           "publishedAt": "2026-10-20T09:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Inception’s Mercury 3 speeds past rivals",
+          "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+          "publishedAt": "2026-10-20T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic designs a pay package for the public",
+          "url": "https://www.anthropic.com/news/public-benefit-fund",
+          "publishedAt": "2026-10-19T09:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic data shows junior employees losing ground",
+          "url": "https://www-cdn.anthropic.com/72628f1863c53432195db83279252dfd2cb53158/Employment%20at%20Anthropic.pdf",
+          "publishedAt": "2026-10-19T09:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-23T04:00:28+00:00",
+      "updatedAt": "2026-10-23T05:00:28+00:00",
       "stories": [
         {
           "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
@@ -525,21 +525,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-23T04:00:28+00:00",
+    "updatedAt": "2026-10-23T05:00:28+00:00",
     "stories": [
       {
-        "title": "Left alone with nothing to do, AI agents started playing",
-        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
-        "publishedAt": "2026-10-23T00:45:37+00:00",
+        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+        "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia",
+        "publishedAt": "2026-10-23T04:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-        "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
-        "publishedAt": "2026-10-22T22:08:24+00:00",
+        "title": "Left alone with nothing to do, AI agents started playing",
+        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
+        "publishedAt": "2026-10-23T00:45:37+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -591,30 +591,30 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring",
+        "publishedAt": "2026-10-23T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "El Niño Then and Now",
+        "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now",
+        "publishedAt": "2026-10-23T04:00:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "SpaceBound 2026 defence: NordSpace deal and a call for capital",
         "url": "https://spaceq.ca/spacebound-2026-defence-nordspace-capital",
         "publishedAt": "2026-10-22T11:03:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Canadian Armed Forces Provides Update on Incident at Canadian Forces Base Wainwright",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/canadian-armed-forces-provides-update-on-incident-at-canadian-forces-base-wainwright.html",
-        "publishedAt": "2026-10-22T23:06:50+00:00",
-        "source": "National Defence",
-        "topicId": "canadian-defence",
-        "topicName": "Canadian Defence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Europe's Space Rider vehicle comes crashing down during drop test",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test",
-        "publishedAt": "2026-10-22T22:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -730,6 +730,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)"
+    "Vanguard: <unknown>:661:8864: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-02"
   ]
 }
