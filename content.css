@@ -609,6 +609,15 @@
     color: var(--primary-text);
 }
 
+.article-source-link .medium-wordmark {
+    margin-left: 0.35em;
+    font-family: "Noe Display", Georgia, "Times New Roman", serif;
+    font-size: 1.3em;
+    font-weight: 700;
+    letter-spacing: -0.05em;
+    text-transform: none;
+}
+
 .article-header time {
     display: block;
     margin-bottom: 22px;

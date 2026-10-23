@@ -113,7 +113,10 @@ def article_page(metadata: dict, article_html: str) -> str:
     )
     if metadata.get("sourceUrl"):
         source_url = html.escape(metadata["sourceUrl"], quote=True)
-        source_label = html.escape(metadata.get("sourceLabel", "Read on Medium"))
+        source_label = html.escape(metadata.get("sourceLabel", "Read and Subscribe on Medium"))
+        source_label = source_label.replace(
+            "Medium", '<span class="medium-wordmark">Medium</span>'
+        )
         source_link = (
             f'<a class="article-source-link" href="{source_url}" '
             f'rel="noopener noreferrer">{source_label}</a>'
@@ -226,7 +229,7 @@ def load_medium_posts() -> list[tuple[dict, str]]:
             "sample": False,
             "source": str(item.get("source", "Medium")),
             "sourceUrl": str(item.get("sourceUrl", "")),
-            "sourceLabel": "Read on Medium",
+            "sourceLabel": "Read and Subscribe on Medium",
             "topDisclaimer": bool(item.get("topDisclaimer", False)),
         }
         posts.append((metadata, str(item["articleHtml"]).strip()))
