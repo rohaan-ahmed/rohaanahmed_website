@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-23T16:00:29+00:00",
+  "generatedAt": "2026-10-23T17:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-23T16:00:29+00:00",
+      "updatedAt": "2026-10-23T17:00:31+00:00",
       "stories": [
+        {
+          "title": "Never finishing the fight: Where did Xbox go wrong with Halo?",
+          "url": "https://www.space.com/entertainment/space-games/never-finishing-the-fight-where-did-xbox-go-wrong-with-halo",
+          "publishedAt": "2026-10-23T16:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Week in images: 19-23 October 2026",
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_October_2026",
@@ -22,12 +28,6 @@
           "title": "'Stupendously large black holes' aren't a major component of dark matter, study finds",
           "url": "https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds",
           "publishedAt": "2026-10-23T12:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence",
-          "publishedAt": "2026-10-23T10:57:51+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-23T16:00:29+00:00",
+      "updatedAt": "2026-10-23T17:00:31+00:00",
       "stories": [
         {
           "title": "Photon-IV wins STDP award for AI that times satellite passes",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-23T16:00:29+00:00",
+      "updatedAt": "2026-10-23T17:00:31+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-23T16:00:29+00:00",
+      "updatedAt": "2026-10-23T17:00:31+00:00",
       "stories": [
         {
           "title": "Qatari Barzan unveils aerial drones, unmanned surface vessels at Milipol 2026",
@@ -272,6 +272,12 @@
           "url": "https://www.defensenews.com/global/europe/2026/10/23/leonardo-rheinmetall-secure-4-billion-contracts-with-italian-army-report-says",
           "publishedAt": "2026-10-23T14:10:15+00:00",
           "source": "Defense News"
+        },
+        {
+          "title": "Pentagon issues guidance on AI procurements to support White House’s ‘truth-seeking’ and ‘ideological neutrality’ directives",
+          "url": "https://defensescoop.com/2026/10/23/pentagon-guidance-ai-procurement-trump-directive",
+          "publishedAt": "2026-10-23T16:40:41+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Saudi missile plant expansion may produce more powerful missiles, study says",
@@ -320,19 +326,13 @@
           "url": "https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight",
           "publishedAt": "2026-10-21T22:17:26+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Air Force starting to game out sustainment framework for CCA drones",
-          "url": "https://defensescoop.com/2026/10/21/air-force-cca-drones-sustainment-plan",
-          "publishedAt": "2026-10-21T20:21:11+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-23T16:00:29+00:00",
+      "updatedAt": "2026-10-23T17:00:31+00:00",
       "stories": [
         {
           "title": "Banks crack down on AI agents’ account access",
@@ -383,7 +383,7 @@
           "source": "TLDR AI"
         },
         {
-          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
           "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia",
           "publishedAt": "2026-10-23T04:00:00+00:00",
           "source": "TechCrunch AI"
@@ -429,10 +429,10 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-23T16:00:29+00:00",
+      "updatedAt": "2026-10-23T17:00:31+00:00",
       "stories": [
         {
-          "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube By Itself",
+          "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
           "url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
           "publishedAt": "2026-10-23T15:30:02+00:00",
           "source": "IEEE Spectrum Robotics"
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-23T16:00:29+00:00",
+    "updatedAt": "2026-10-23T17:00:31+00:00",
     "stories": [
       {
         "title": "Banks crack down on AI agents’ account access",
@@ -555,10 +555,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Week in images: 19-23 October 2026",
-        "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_October_2026",
-        "publishedAt": "2026-10-23T13:15:00+00:00",
-        "source": "European Space Agency",
+        "title": "Never finishing the fight: Where did Xbox go wrong with Halo?",
+        "url": "https://www.space.com/entertainment/space-games/never-finishing-the-fight-where-did-xbox-go-wrong-with-halo",
+        "publishedAt": "2026-10-23T16:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -582,7 +582,7 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube By Itself",
+        "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
         "url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
         "publishedAt": "2026-10-23T15:30:02+00:00",
         "source": "IEEE Spectrum Robotics",
