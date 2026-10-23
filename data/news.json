@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T23:00:29+00:00",
+  "generatedAt": "2026-10-23T00:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-22T23:00:29+00:00",
+      "updatedAt": "2026-10-23T00:00:28+00:00",
       "stories": [
         {
           "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-22T23:00:29+00:00",
+      "updatedAt": "2026-10-23T00:00:28+00:00",
       "stories": [
         {
           "title": "Alex MacDonald: Space firms see an Arctic opening in defence",
@@ -186,8 +186,20 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-22T23:00:29+00:00",
+      "updatedAt": "2026-10-23T00:00:28+00:00",
       "stories": [
+        {
+          "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/statement-from-the-canadian-forces-provost-marshal-on-the-ongoing-investigation-into-the-incident-at-cfb-wainwright.html",
+          "publishedAt": "2026-10-22T23:29:58+00:00",
+          "source": "National Defence"
+        },
+        {
+          "title": "Canadian Armed Forces Provides Update on Incident at Canadian Forces Base Wainwright",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/canadian-armed-forces-provides-update-on-incident-at-canadian-forces-base-wainwright.html",
+          "publishedAt": "2026-10-22T23:06:50+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Officials from the Canadian Armed Forces to hold media briefing to provide update on CFB Wainwright incident",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/officials-from-the-canadian-armed-forces-to-hold-media-briefing-to-provide-update-on-cfb-wainwright-incident.html",
@@ -223,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-22T23:00:29+00:00",
+      "updatedAt": "2026-10-23T00:00:28+00:00",
       "stories": [
         {
           "title": "Space Force shifts into high gear on cislunar warfare, with RFIs coming soon",
@@ -320,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-22T23:00:29+00:00",
+      "updatedAt": "2026-10-23T00:00:28+00:00",
       "stories": [
         {
           "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
@@ -417,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-22T23:00:29+00:00",
+      "updatedAt": "2026-10-23T00:00:28+00:00",
       "stories": [
         {
           "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
@@ -513,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-22T23:00:29+00:00",
+    "updatedAt": "2026-10-23T00:00:28+00:00",
     "stories": [
       {
         "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
@@ -552,9 +564,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Officials from the Canadian Armed Forces to hold media briefing to provide update on CFB Wainwright incident",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/officials-from-the-canadian-armed-forces-to-hold-media-briefing-to-provide-update-on-cfb-wainwright-incident.html",
-        "publishedAt": "2026-10-21T20:24:39+00:00",
+        "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/statement-from-the-canadian-forces-provost-marshal-on-the-ongoing-investigation-into-the-incident-at-cfb-wainwright.html",
+        "publishedAt": "2026-10-22T23:29:58+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
@@ -588,21 +600,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "Canadian Armed Forces Provides Update on Incident at Canadian Forces Base Wainwright",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/canadian-armed-forces-provides-update-on-incident-at-canadian-forces-base-wainwright.html",
+        "publishedAt": "2026-10-22T23:06:50+00:00",
+        "source": "National Defence",
+        "topicId": "canadian-defence",
+        "topicName": "Canadian Defence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Europe's Space Rider vehicle comes crashing down during drop test",
         "url": "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test",
         "publishedAt": "2026-10-22T22:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand",
-        "publishedAt": "2026-10-22T19:27:22+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
