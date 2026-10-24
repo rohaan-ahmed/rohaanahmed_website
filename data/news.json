@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T13:00:28+00:00",
+  "generatedAt": "2026-10-24T13:33:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-24T13:00:28+00:00",
+      "updatedAt": "2026-10-24T13:33:30+00:00",
       "stories": [
         {
           "title": "'Star Trek: Strange New Worlds' was afraid to say anything in season of gimmicks",
@@ -31,7 +31,7 @@
           "source": "NASA"
         },
         {
-          "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (photos)",
+          "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly",
           "publishedAt": "2026-10-23T23:26:41+00:00",
           "source": "Space.com"
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-24T13:00:28+00:00",
+      "updatedAt": "2026-10-24T13:33:30+00:00",
       "stories": [
         {
           "title": "Photon-IV wins STDP award for AI that times satellite passes",
@@ -174,19 +174,13 @@
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/nasa-to-host-a-technical-briefing-on-csa-astronaut-joshua-kutryks-upcoming-spacewalks.html",
           "publishedAt": "2026-10-16T20:41:18+00:00",
           "source": "Canadian Space Agency"
-        },
-        {
-          "title": "Advancing Canada's priorities through space",
-          "url": "https://www.canada.ca/en/space-agency/news/2026/10/advancing-canadas-priorities-through-space.html",
-          "publishedAt": "2026-10-14T13:13:57+00:00",
-          "source": "Canadian Space Agency"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-24T13:00:28+00:00",
+      "updatedAt": "2026-10-24T13:33:30+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
@@ -235,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-24T13:00:28+00:00",
+      "updatedAt": "2026-10-24T13:33:30+00:00",
       "stories": [
         {
           "title": "GDIT announces Amy Johnson as new president",
@@ -332,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-24T13:00:28+00:00",
+      "updatedAt": "2026-10-24T13:33:30+00:00",
       "stories": [
         {
           "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
@@ -429,8 +423,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-24T13:00:28+00:00",
+      "updatedAt": "2026-10-24T13:33:30+00:00",
       "stories": [
+        {
+          "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
+          "url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots",
+          "publishedAt": "2026-10-24T12:34:27+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Webinar to discuss how the FCC robotics ruling affects automation buyers",
           "url": "https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers",
@@ -486,12 +486,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "RoboBusiness rebrands as Robotics Summit & Expo West",
-          "url": "https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west",
-          "publishedAt": "2026-10-20T16:23:21+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
           "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era",
           "publishedAt": "2026-10-20T16:20:06+00:00",
@@ -525,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-24T13:00:28+00:00",
+    "updatedAt": "2026-10-24T13:33:30+00:00",
     "stories": [
       {
         "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
@@ -582,9 +576,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Webinar to discuss how the FCC robotics ruling affects automation buyers",
-        "url": "https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers",
-        "publishedAt": "2026-10-23T20:06:28+00:00",
+        "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
+        "url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots",
+        "publishedAt": "2026-10-24T12:34:27+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
