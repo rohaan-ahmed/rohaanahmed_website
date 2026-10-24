@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T19:06:42+00:00",
+  "generatedAt": "2026-10-24T20:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-24T19:06:42+00:00",
+      "updatedAt": "2026-10-24T20:00:27+00:00",
       "stories": [
         {
           "title": "On this day in space! Oct. 24, 1946: V-2 rocket takes 1st photos of Earth from space",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-24T19:06:42+00:00",
+      "updatedAt": "2026-10-24T20:00:27+00:00",
       "stories": [
         {
           "title": "Photon-IV wins STDP award for AI that times satellite passes",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-24T19:06:42+00:00",
+      "updatedAt": "2026-10-24T20:00:27+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-24T19:06:42+00:00",
+      "updatedAt": "2026-10-24T20:00:27+00:00",
       "stories": [
         {
           "title": "GDIT announces Amy Johnson as new president",
@@ -326,8 +326,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-24T19:06:42+00:00",
+      "updatedAt": "2026-10-24T20:00:27+00:00",
       "stories": [
+        {
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+          "publishedAt": "2026-10-24T19:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Block’s new voice model sounds eerily human",
           "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
@@ -338,12 +344,6 @@
           "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
           "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
           "publishedAt": "2026-10-24T15:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Here are the top AI agents that can live in your text messages",
-          "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
-          "publishedAt": "2026-10-24T14:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-24T19:06:42+00:00",
+      "updatedAt": "2026-10-24T20:00:27+00:00",
       "stories": [
         {
           "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
@@ -519,21 +519,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-24T19:06:42+00:00",
+    "updatedAt": "2026-10-24T20:00:27+00:00",
     "stories": [
       {
-        "title": "Block’s new voice model sounds eerily human",
-        "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
-        "publishedAt": "2026-10-24T16:00:00+00:00",
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+        "publishedAt": "2026-10-24T19:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-        "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
-        "publishedAt": "2026-10-24T15:00:00+00:00",
+        "title": "Block’s new voice model sounds eerily human",
+        "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
+        "publishedAt": "2026-10-24T16:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -585,9 +585,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Here are the top AI agents that can live in your text messages",
-        "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
-        "publishedAt": "2026-10-24T14:00:00+00:00",
+        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+        "publishedAt": "2026-10-24T15:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
