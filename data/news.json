@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T16:03:44+00:00",
+  "generatedAt": "2026-10-25T17:00:27+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-25T16:03:44+00:00",
+      "updatedAt": "2026-10-25T17:00:27+00:00",
       "stories": [
         {
           "title": "On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-25T16:03:44+00:00",
+      "updatedAt": "2026-10-25T17:00:27+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: a bigger Canadian role in Kutryk’s spacewalk",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-25T16:03:44+00:00",
+      "updatedAt": "2026-10-25T17:00:27+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-25T16:03:44+00:00",
+      "updatedAt": "2026-10-25T17:00:27+00:00",
       "stories": [
         {
           "title": "GDIT announces Amy Johnson as new president",
@@ -326,13 +326,19 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-25T16:03:44+00:00",
+      "updatedAt": "2026-10-25T17:00:27+00:00",
       "stories": [
         {
           "title": "What the “SaaS is dead” narrative misses",
           "url": "https://www.sap.com/events/teched.html",
           "publishedAt": "2026-10-25T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "AI delivers ‘zero financial payoff’ to most companies, according to Apollo economist",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+          "publishedAt": "2026-10-25T16:57:32+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "The hottest AI wearables and gadgets you should know about",
@@ -362,12 +368,6 @@
           "title": "Here are the top AI agents that can live in your text messages",
           "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
           "publishedAt": "2026-10-24T14:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
-          "publishedAt": "2026-10-23T23:05:49+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-25T16:03:44+00:00",
+      "updatedAt": "2026-10-25T17:00:27+00:00",
       "stories": [
         {
           "title": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-25T16:03:44+00:00",
+    "updatedAt": "2026-10-25T17:00:27+00:00",
     "stories": [
       {
         "title": "What the “SaaS is dead” narrative misses",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The hottest AI wearables and gadgets you should know about",
-        "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about",
-        "publishedAt": "2026-10-25T14:10:00+00:00",
+        "title": "AI delivers ‘zero financial payoff’ to most companies, according to Apollo economist",
+        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+        "publishedAt": "2026-10-25T16:57:32+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -585,6 +585,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "The hottest AI wearables and gadgets you should know about",
+        "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about",
+        "publishedAt": "2026-10-25T14:10:00+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know",
         "url": "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know",
         "publishedAt": "2026-10-25T10:00:00+00:00",
@@ -600,15 +609,6 @@
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "The Weekly Close: Telesat lenders offer rescue as index falls 3.6 per cent",
-        "url": "https://spaceq.ca/the-weekly-close-october-23-2026",
-        "publishedAt": "2026-10-24T14:28:00+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -725,6 +725,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-06"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-09"
   ]
 }
