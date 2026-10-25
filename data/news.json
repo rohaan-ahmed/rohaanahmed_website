@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T21:00:33+00:00",
+  "generatedAt": "2026-10-25T21:41:04+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-25T21:00:33+00:00",
+      "updatedAt": "2026-10-25T21:41:04+00:00",
       "stories": [
         {
           "title": "On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-25T21:00:33+00:00",
+      "updatedAt": "2026-10-25T21:41:04+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: a bigger Canadian role in Kutryk’s spacewalk",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-25T21:00:33+00:00",
+      "updatedAt": "2026-10-25T21:41:04+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-25T21:00:33+00:00",
+      "updatedAt": "2026-10-25T21:41:04+00:00",
       "stories": [
         {
           "title": "GDIT announces Amy Johnson as new president",
@@ -326,13 +326,19 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-25T21:00:33+00:00",
+      "updatedAt": "2026-10-25T21:41:04+00:00",
       "stories": [
         {
           "title": "What the “SaaS is dead” narrative misses",
           "url": "https://www.sap.com/events/teched.html",
           "publishedAt": "2026-10-25T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+          "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
+          "publishedAt": "2026-10-25T21:31:16+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
@@ -344,12 +350,6 @@
           "title": "The hottest AI wearables and gadgets you should know about",
           "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about",
           "publishedAt": "2026-10-25T14:10:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-          "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
-          "publishedAt": "2026-10-24T19:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-25T21:00:33+00:00",
+      "updatedAt": "2026-10-25T21:41:04+00:00",
       "stories": [
         {
           "title": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-25T21:00:33+00:00",
+    "updatedAt": "2026-10-25T21:41:04+00:00",
     "stories": [
       {
         "title": "What the “SaaS is dead” narrative misses",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-        "publishedAt": "2026-10-25T16:57:32+00:00",
+        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
+        "publishedAt": "2026-10-25T21:31:16+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -585,6 +585,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+        "publishedAt": "2026-10-25T16:57:32+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "The hottest AI wearables and gadgets you should know about",
         "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about",
         "publishedAt": "2026-10-25T14:10:00+00:00",
@@ -598,15 +607,6 @@
         "url": "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know",
         "publishedAt": "2026-10-25T10:00:00+00:00",
         "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe",
-        "publishedAt": "2026-10-25T08:19:48+00:00",
-        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
