@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-26T21:00:32+00:00",
+  "generatedAt": "2026-10-26T22:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-26T21:00:32+00:00",
+      "updatedAt": "2026-10-26T22:00:31+00:00",
       "stories": [
         {
           "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
@@ -19,6 +19,30 @@
           "source": "SpaceNews"
         },
         {
+          "title": "Analog astronauts: How living underwater can prepare humans for space missions",
+          "url": "https://www.space.com/space-exploration/missions/analog-astronauts-how-living-underwater-can-prepare-humans-for-space-missions",
+          "publishedAt": "2026-10-26T21:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "Tinga’s Tale",
+          "url": "https://science.nasa.gov/blog/tingas-tale",
+          "publishedAt": "2026-10-26T21:17:02+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+          "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust",
+          "publishedAt": "2026-10-26T21:07:28+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "NEO Surveyor’s Sunshade Gets Inspected",
+          "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected",
+          "publishedAt": "2026-10-26T20:53:13+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "On this day in space! Oct. 26, 2004: Cassini spacecraft takes 1st-ever closeup photos of Saturn moon Titan",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-26-2026",
           "publishedAt": "2026-10-26T19:47:12+00:00",
@@ -29,30 +53,6 @@
           "url": "https://www.space.com/entertainment/space-books/darth-vader-wields-the-infinity-gauntlet-in-the-first-ever-official-star-wars-and-marvel-crossover",
           "publishedAt": "2026-10-26T19:00:00+00:00",
           "source": "Space.com"
-        },
-        {
-          "title": "NASA ends Swift space telescope mission after failed rescue attempt",
-          "url": "https://www.space.com/space-exploration/missions/nasa-ends-swift-space-telescope-mission-after-failed-rescue-attempt",
-          "publishedAt": "2026-10-26T18:43:21+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
-          "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration",
-          "publishedAt": "2026-10-26T19:28:08+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
-          "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california",
-          "publishedAt": "2026-10-26T17:13:44+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA’s X-59 Aircraft and Test Pilot",
-          "url": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot",
-          "publishedAt": "2026-10-26T15:25:47+00:00",
-          "source": "NASA"
         },
         {
           "title": "Ice mission CRISTAL opens its wings",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-26T21:00:32+00:00",
+      "updatedAt": "2026-10-26T22:00:31+00:00",
       "stories": [
         {
           "title": "Ottawa opens Canadian space act consultation, unveils PNT plan",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-26T21:00:32+00:00",
+      "updatedAt": "2026-10-26T22:00:31+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-26T21:00:32+00:00",
+      "updatedAt": "2026-10-26T22:00:31+00:00",
       "stories": [
         {
           "title": "Helsing rolls out Contra air defense design, plus two new inteceptors",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-26T21:00:32+00:00",
+      "updatedAt": "2026-10-26T22:00:31+00:00",
       "stories": [
         {
           "title": "Kimi continues to challenge the frontier with K3.1 Pro",
@@ -423,8 +423,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-26T21:00:32+00:00",
+      "updatedAt": "2026-10-26T22:00:31+00:00",
       "stories": [
+        {
+          "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
+          "url": "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges",
+          "publishedAt": "2026-10-26T21:15:00+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "OMRON to acquire OnLogic to address edge AI applications",
           "url": "https://www.therobotreport.com/omron-acquires-onlogic-address-edge-ai-applications",
@@ -486,12 +492,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "AGCO to deploy Agility Digit humanoid in Kansas factory",
-          "url": "https://www.therobotreport.com/agco-to-deploy-agility-digit-humanoid-in-kansas-factory",
-          "publishedAt": "2026-10-21T13:19:00+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
           "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era",
           "publishedAt": "2026-10-20T16:20:06+00:00",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-26T21:00:32+00:00",
+    "updatedAt": "2026-10-26T22:00:31+00:00",
     "stories": [
       {
         "title": "Kimi continues to challenge the frontier with K3.1 Pro",
@@ -576,9 +576,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "OMRON to acquire OnLogic to address edge AI applications",
-        "url": "https://www.therobotreport.com/omron-acquires-onlogic-address-edge-ai-applications",
-        "publishedAt": "2026-10-26T20:13:13+00:00",
+        "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
+        "url": "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges",
+        "publishedAt": "2026-10-26T21:15:00+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -603,12 +603,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Cyprus to acquire new offshore patrol vessel with ‘advanced’ naval systems from Israel",
-        "url": "https://breakingdefense.com/2026/10/cyprus-to-acquire-new-offshore-patrol-vessel-with-advanced-naval-systems-from-israel",
-        "publishedAt": "2026-10-26T18:11:59+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "OMRON to acquire OnLogic to address edge AI applications",
+        "url": "https://www.therobotreport.com/omron-acquires-onlogic-address-edge-ai-applications",
+        "publishedAt": "2026-10-26T20:13:13+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
