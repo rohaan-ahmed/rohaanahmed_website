@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T18:56:35+00:00",
+  "generatedAt": "2026-10-27T19:00:42+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-27T18:56:35+00:00",
+      "updatedAt": "2026-10-27T19:00:42+00:00",
       "stories": [
         {
           "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-27T18:56:35+00:00",
+      "updatedAt": "2026-10-27T19:00:42+00:00",
       "stories": [
         {
           "title": "U.S. Ambassador Hoekstra makes the case for Canada’s sovereign push",
@@ -180,8 +180,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-27T18:56:35+00:00",
+      "updatedAt": "2026-10-27T19:00:42+00:00",
       "stories": [
+        {
+          "title": "Operation NANOOK‑TATIGIIT Strengthens Whole‑of‑Government Crisis Response in the Arctic",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/operation-nanooktatigiit-strengthens-wholeofgovernment-crisis-response-in-the-arctic.html",
+          "publishedAt": "2026-10-27T18:43:11+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/statement-from-the-canadian-forces-provost-marshal-on-the-ongoing-investigation-into-the-incident-at-cfb-wainwright.html",
@@ -229,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-27T18:56:35+00:00",
+      "updatedAt": "2026-10-27T19:00:42+00:00",
       "stories": [
         {
           "title": "Defense Department selects Poland for new PAC-3 maintenance facility",
@@ -326,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-27T18:56:35+00:00",
+      "updatedAt": "2026-10-27T19:00:42+00:00",
       "stories": [
         {
           "title": "Anthropic officially files to go public",
@@ -365,22 +371,34 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Japan internet giant GMO says hackers posted stolen customer data",
-          "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data",
-          "publishedAt": "2026-10-27T13:32:57+00:00",
-          "source": "TechCrunch AI"
+          "title": "Gemini 4 Argon: The Model and Safety Cards (35 minute read)",
+          "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards",
+          "publishedAt": "2026-10-27T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-          "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
-          "publishedAt": "2026-10-27T13:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Frontier models' ability to control robot arms is doubling every 54 days (11 minute read)",
+          "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly",
+          "publishedAt": "2026-10-27T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-          "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
-          "publishedAt": "2026-10-27T13:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Concerning behavior from a popular open-weight AI model (12 minute read)",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "publishedAt": "2026-10-27T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Google's Self-Improvements in LLMs (18 minute read)",
+          "url": "https://arxiv.org/abs/2610.32770",
+          "publishedAt": "2026-10-27T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Git Forge for Agent-Human Collaboration (11 minute read)",
+          "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+          "publishedAt": "2026-10-27T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Kimi continues to challenge the frontier with K3.1 Pro",
@@ -395,27 +413,15 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Dessa - the Conversation Model trained only on speech (15 minute read)",
+          "url": "https://block.xyz/dessa",
+          "publishedAt": "2026-10-26T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "What the “SaaS is dead” narrative misses",
           "url": "https://www.sap.com/events/teched.html",
           "publishedAt": "2026-10-25T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Banks crack down on AI agents’ account access",
-          "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
-          "publishedAt": "2026-10-23T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Microsoft’s AI out-diagnoses doctors on hard cases",
-          "url": "https://microsoft.ai/news/building-medical-superintelligence",
-          "publishedAt": "2026-10-23T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s model helps catch critical PHP flaws",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "publishedAt": "2026-10-22T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -423,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-27T18:56:35+00:00",
+      "updatedAt": "2026-10-27T19:00:42+00:00",
       "stories": [
         {
           "title": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
@@ -519,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-27T18:56:35+00:00",
+    "updatedAt": "2026-10-27T19:00:42+00:00",
     "stories": [
       {
         "title": "Anthropic officially files to go public",
@@ -558,9 +564,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/statement-from-the-canadian-forces-provost-marshal-on-the-ongoing-investigation-into-the-incident-at-cfb-wainwright.html",
-        "publishedAt": "2026-10-22T23:29:58+00:00",
+        "title": "Operation NANOOK‑TATIGIIT Strengthens Whole‑of‑Government Crisis Response in the Arctic",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/operation-nanooktatigiit-strengthens-wholeofgovernment-crisis-response-in-the-arctic.html",
+        "publishedAt": "2026-10-27T18:43:11+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
@@ -724,8 +730,6 @@
     }
   ],
   "warnings": [
-    "Ottawa Citizen Defence Watch: 500 Server Error: Internal Server Error for url: https://ottawacitizen.com/tag/defence-watch/feed.xml",
-    "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-12"
+    "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
