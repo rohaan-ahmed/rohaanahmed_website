@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T07:44:53+00:00",
+  "generatedAt": "2026-10-27T08:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-27T07:44:53+00:00",
+      "updatedAt": "2026-10-27T08:00:29+00:00",
       "stories": [
         {
           "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-27T07:44:53+00:00",
+      "updatedAt": "2026-10-27T08:00:29+00:00",
       "stories": [
         {
           "title": "Ottawa opens Canadian space act consultation, unveils PNT plan",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-27T07:44:53+00:00",
+      "updatedAt": "2026-10-27T08:00:29+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-27T07:44:53+00:00",
+      "updatedAt": "2026-10-27T08:00:29+00:00",
       "stories": [
         {
           "title": "Helsing rolls out Contra air defense design, plus two new inteceptors",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-27T07:44:53+00:00",
+      "updatedAt": "2026-10-27T08:00:29+00:00",
       "stories": [
         {
           "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -359,28 +359,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-          "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo",
-          "publishedAt": "2026-10-26T16:46:36+00:00",
-          "source": "TechCrunch AI"
+          "title": "Dessa - the Conversation Model trained only on speech (15 minute read)",
+          "url": "https://block.xyz/dessa",
+          "publishedAt": "2026-10-26T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Anthropic officially files for its public debut",
-          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut",
-          "publishedAt": "2026-10-26T14:35:22+00:00",
-          "source": "TechCrunch AI"
+          "title": "Apple's 20B On-Device Model Uses Just 2GB of Memory (18 minute read)",
+          "url": "https://www.airealist.ai/p/exploring-apple-on-device-model",
+          "publishedAt": "2026-10-26T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Personal Agent Protocol Map (7 minute read)",
+          "url": "https://x.com/sytaylor/status/2113710822731989172",
+          "publishedAt": "2026-10-26T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Securing our frontier model training environment (17 minute read)",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "publishedAt": "2026-10-26T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Knowing How Is Not Knowing What (14 minute read)",
+          "url": "https://algoroxyolo.github.io/blog/2026/knowing-how-is-not-knowing-what",
+          "publishedAt": "2026-10-26T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "What the “SaaS is dead” narrative misses",
           "url": "https://www.sap.com/events/teched.html",
           "publishedAt": "2026-10-25T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-          "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
-          "publishedAt": "2026-10-25T21:31:16+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "Banks crack down on AI agents’ account access",
@@ -395,27 +407,15 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors (3 minute read)",
+          "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+          "publishedAt": "2026-10-23T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "OpenAI’s model helps catch critical PHP flaws",
           "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
           "publishedAt": "2026-10-22T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic joins the personal agent game with Duet",
-          "url": "https://claude.com/resources/articles/claude-duet",
-          "publishedAt": "2026-10-22T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Sam Altman details the AI industry’s endgame",
-          "url": "https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus?rc=a8sc5q",
-          "publishedAt": "2026-10-21T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic’s Claude takes on scorpion antivenom",
-          "url": "https://www.citriniresearch.com/p/citrini-therapeutics",
-          "publishedAt": "2026-10-21T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-27T07:44:53+00:00",
+      "updatedAt": "2026-10-27T08:00:29+00:00",
       "stories": [
         {
           "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-27T07:44:53+00:00",
+    "updatedAt": "2026-10-27T08:00:29+00:00",
     "stories": [
       {
         "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -724,7 +724,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-14"
+    "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
