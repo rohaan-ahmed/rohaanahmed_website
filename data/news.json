@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-10-27T17:00:30+00:00",
+  "generatedAt": "2026-10-27T18:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-27T17:00:30+00:00",
+      "updatedAt": "2026-10-27T18:00:34+00:00",
       "stories": [
         {
           "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
           "url": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space",
           "publishedAt": "2026-10-27T12:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "NASA’s Neo Surveyor Sunshade",
+          "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade",
+          "publishedAt": "2026-10-27T17:58:57+00:00",
+          "source": "NASA"
         },
         {
           "title": "First light: Hera resolves two asteroids instead of one",
@@ -61,12 +67,6 @@
           "source": "NASA"
         },
         {
-          "title": "A-81 Reaches South Georgia",
-          "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia",
-          "publishedAt": "2026-10-27T04:00:00+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
           "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites",
           "publishedAt": "2026-10-26T13:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-27T17:00:30+00:00",
+      "updatedAt": "2026-10-27T18:00:34+00:00",
       "stories": [
         {
           "title": "U.S. Ambassador Hoekstra makes the case for Canada’s sovereign push",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-27T17:00:30+00:00",
+      "updatedAt": "2026-10-27T18:00:34+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
@@ -229,13 +229,25 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-27T17:00:30+00:00",
+      "updatedAt": "2026-10-27T18:00:34+00:00",
       "stories": [
+        {
+          "title": "What’s haunting the Pentagon this Halloween?",
+          "url": "https://breakingdefense.com/2026/10/whats-haunting-the-pentagon-this-halloween",
+          "publishedAt": "2026-10-27T17:45:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Another Michigan auto firm enters defense industry as state tries to revive ‘Arsenal of Democracy’",
           "url": "https://breakingdefense.com/2026/10/another-michigan-auto-firm-enters-defense-industry-as-state-tries-to-revive-arsenal-of-democracy",
           "publishedAt": "2026-10-27T17:00:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "US Army looks to high-flying balloons to help see, strike along front lines with China",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china",
+          "publishedAt": "2026-10-27T17:22:47+00:00",
+          "source": "Defense News"
         },
         {
           "title": "How the F-15 and F-22 should inform the F-47’s procurement",
@@ -274,12 +286,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "The new must-have capabilities for drones",
-          "url": "https://breakingdefense.com/2026/10/the-new-must-have-capabilities-for-drones",
-          "publishedAt": "2026-10-27T12:24:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Gen. Caine urges defense logistics leaders to be ‘creative and entrepreneurial’ ahead of future fights",
           "url": "https://defensescoop.com/2026/10/27/gen-caine-joint-chiefs-chairman-military-logistics",
           "publishedAt": "2026-10-27T14:57:03+00:00",
@@ -295,12 +301,6 @@
           "title": "Britain will not join Canada-led defense bank initiative",
           "url": "https://www.defensenews.com/global/europe/2026/10/27/britain-will-not-join-canada-led-defense-bank-initiative",
           "publishedAt": "2026-10-27T09:46:52+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "US Army practices digging temporary battlefield graves",
-          "url": "https://www.defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves",
-          "publishedAt": "2026-10-26T18:57:25+00:00",
           "source": "Defense News"
         },
         {
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-27T17:00:30+00:00",
+      "updatedAt": "2026-10-27T18:00:34+00:00",
       "stories": [
         {
           "title": "Anthropic officially files to go public",
@@ -347,6 +347,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+          "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
+          "publishedAt": "2026-10-27T17:08:08+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
           "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering",
           "publishedAt": "2026-10-27T16:30:57+00:00",
@@ -356,12 +362,6 @@
           "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
           "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace",
           "publishedAt": "2026-10-27T14:59:09+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Japan internet giant GMO says hackers posted stolen customer data",
-          "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data",
-          "publishedAt": "2026-10-27T13:32:57+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-27T17:00:30+00:00",
+      "updatedAt": "2026-10-27T18:00:34+00:00",
       "stories": [
         {
           "title": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-27T17:00:30+00:00",
+    "updatedAt": "2026-10-27T18:00:34+00:00",
     "stories": [
       {
         "title": "Anthropic officially files to go public",
@@ -567,9 +567,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Another Michigan auto firm enters defense industry as state tries to revive ‘Arsenal of Democracy’",
-        "url": "https://breakingdefense.com/2026/10/another-michigan-auto-firm-enters-defense-industry-as-state-tries-to-revive-arsenal-of-democracy",
-        "publishedAt": "2026-10-27T17:00:00+00:00",
+        "title": "What’s haunting the Pentagon this Halloween?",
+        "url": "https://breakingdefense.com/2026/10/whats-haunting-the-pentagon-this-halloween",
+        "publishedAt": "2026-10-27T17:45:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -603,9 +603,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "How the F-15 and F-22 should inform the F-47’s procurement",
-        "url": "https://breakingdefense.com/2026/10/how-the-f-15-and-f-22-should-inform-the-f-47s-procurement",
-        "publishedAt": "2026-10-27T16:13:00+00:00",
+        "title": "Another Michigan auto firm enters defense industry as state tries to revive ‘Arsenal of Democracy’",
+        "url": "https://breakingdefense.com/2026/10/another-michigan-auto-firm-enters-defense-industry-as-state-tries-to-revive-arsenal-of-democracy",
+        "publishedAt": "2026-10-27T17:00:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -724,6 +724,7 @@
     }
   ],
   "warnings": [
+    "Ottawa Citizen Defence Watch: 500 Server Error: Internal Server Error for url: https://ottawacitizen.com/tag/defence-watch/feed.xml",
     "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
