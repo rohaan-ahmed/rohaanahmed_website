@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-27T20:00:33+00:00",
+  "generatedAt": "2026-10-27T21:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-27T20:00:33+00:00",
+      "updatedAt": "2026-10-27T21:00:31+00:00",
       "stories": [
+        {
+          "title": "Ukrainian startup, GomSpace test satellite for future communications network",
+          "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network",
+          "publishedAt": "2026-10-27T20:21:30+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
           "url": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space",
@@ -89,19 +95,13 @@
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_October_2026",
           "publishedAt": "2026-10-23T13:15:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
-          "url": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt",
-          "publishedAt": "2026-10-22T18:13:38+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-27T20:00:33+00:00",
+      "updatedAt": "2026-10-27T21:00:31+00:00",
       "stories": [
         {
           "title": "U.S. Ambassador Hoekstra makes the case for Canada’s sovereign push",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-27T20:00:33+00:00",
+      "updatedAt": "2026-10-27T21:00:31+00:00",
       "stories": [
         {
           "title": "Operation NANOOK‑TATIGIIT Strengthens Whole‑of‑Government Crisis Response in the Arctic",
@@ -235,8 +235,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-27T20:00:33+00:00",
+      "updatedAt": "2026-10-27T21:00:31+00:00",
       "stories": [
+        {
+          "title": "DIA: China has tripled its satellite fleet since 2018 as expansion continues",
+          "url": "https://breakingdefense.com/2026/10/dia-china-has-tripled-its-satellite-fleet-since-2018-as-expansion-continues",
+          "publishedAt": "2026-10-27T20:56:45+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract",
+          "publishedAt": "2026-10-27T19:53:42+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Defense Department selects Poland for new PAC-3 maintenance facility",
           "url": "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility",
@@ -280,21 +292,9 @@
           "source": "Defense News"
         },
         {
-          "title": "How the F-15 and F-22 should inform the F-47’s procurement",
-          "url": "https://breakingdefense.com/2026/10/how-the-f-15-and-f-22-should-inform-the-f-47s-procurement",
-          "publishedAt": "2026-10-27T16:13:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "US taps Poland to host European PAC-3 missile maintenance facility",
           "url": "https://www.defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility",
           "publishedAt": "2026-10-27T16:42:28+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "Building a power layer for the robotic battlefield — Chariot Defense",
-          "url": "https://www.defensenews.com/news/2026/10/27/building-a-power-layer-for-the-robotic-battlefield-chariot-defense",
-          "publishedAt": "2026-10-27T15:10:49+00:00",
           "source": "Defense News"
         },
         {
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-27T20:00:33+00:00",
+      "updatedAt": "2026-10-27T21:00:31+00:00",
       "stories": [
         {
           "title": "Anthropic officially files to go public",
@@ -371,14 +371,14 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Gemini 4 Argon: The Model and Safety Cards (35 minute read)",
-          "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards",
+          "title": "Frontier models' ability to control robot arms is doubling every 54 days (11 minute read)",
+          "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly",
           "publishedAt": "2026-10-27T00:00:00+00:00",
           "source": "TLDR AI"
         },
         {
-          "title": "Frontier models' ability to control robot arms is doubling every 54 days (11 minute read)",
-          "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly",
+          "title": "Gemini 4 Argon: The Model and Safety Cards (35 minute read)",
+          "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards",
           "publishedAt": "2026-10-27T00:00:00+00:00",
           "source": "TLDR AI"
         },
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-27T20:00:33+00:00",
+      "updatedAt": "2026-10-27T21:00:31+00:00",
       "stories": [
         {
           "title": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-27T20:00:33+00:00",
+    "updatedAt": "2026-10-27T21:00:31+00:00",
     "stories": [
       {
         "title": "Anthropic officially files to go public",
@@ -555,9 +555,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
-        "url": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space",
-        "publishedAt": "2026-10-27T12:00:00+00:00",
+        "title": "Ukrainian startup, GomSpace test satellite for future communications network",
+        "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network",
+        "publishedAt": "2026-10-27T20:21:30+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Defense Department selects Poland for new PAC-3 maintenance facility",
-        "url": "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility",
-        "publishedAt": "2026-10-27T18:50:27+00:00",
+        "title": "DIA: China has tripled its satellite fleet since 2018 as expansion continues",
+        "url": "https://breakingdefense.com/2026/10/dia-china-has-tripled-its-satellite-fleet-since-2018-as-expansion-continues",
+        "publishedAt": "2026-10-27T20:56:45+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -591,6 +591,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+        "url": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space",
+        "publishedAt": "2026-10-27T12:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "North Vector Dynamics closes $29 million Series A",
         "url": "https://spaceq.ca/north-vector-dynamics-series-a",
         "publishedAt": "2026-10-27T11:04:00+00:00",
@@ -600,18 +609,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "A more flexible way to defend maneuver forces from drones that doesn’t tie them down",
-        "url": "https://breakingdefense.com/2026/10/a-more-flexible-way-to-defend-maneuver-forces-from-drones-that-doesnt-tie-them-down",
-        "publishedAt": "2026-10-27T18:48:04+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Pentagon creates advisory council on human performance, health",
-        "url": "https://www.defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health",
-        "publishedAt": "2026-10-27T19:24:01+00:00",
+        "title": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract",
+        "publishedAt": "2026-10-27T19:53:42+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
