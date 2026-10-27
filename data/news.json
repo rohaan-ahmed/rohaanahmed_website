@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T13:00:31+00:00",
+  "generatedAt": "2026-10-27T13:38:39+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-27T13:00:31+00:00",
+      "updatedAt": "2026-10-27T13:38:39+00:00",
       "stories": [
         {
           "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-27T13:00:31+00:00",
+      "updatedAt": "2026-10-27T13:38:39+00:00",
       "stories": [
         {
           "title": "North Vector Dynamics closes $29 million Series A",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-27T13:00:31+00:00",
+      "updatedAt": "2026-10-27T13:38:39+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
@@ -229,8 +229,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-27T13:00:31+00:00",
+      "updatedAt": "2026-10-27T13:38:39+00:00",
       "stories": [
+        {
+          "title": "2026 midterm cheat sheet: Which races to watch on defense",
+          "url": "https://breakingdefense.com/2026/10/2026-midterm-cheat-sheet-which-races-to-watch-on-defense",
+          "publishedAt": "2026-10-27T13:00:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "The new must-have capabilities for drones",
           "url": "https://breakingdefense.com/2026/10/the-new-must-have-capabilities-for-drones",
@@ -242,6 +248,12 @@
           "url": "https://breakingdefense.com/2026/10/usaf-should-buy-newly-designed-air-refuelers-to-meet-china-threat-report",
           "publishedAt": "2026-10-27T12:00:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Anduril expanding into laptop manufacturing in partnership with Qualcomm",
+          "url": "https://defensescoop.com/2026/10/27/anduril-palmer-luckey-bluechip-computers-qualcomm",
+          "publishedAt": "2026-10-27T13:00:00+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Britain will not join Canada-led defense bank initiative",
@@ -272,12 +284,6 @@
           "url": "https://www.defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west",
           "publishedAt": "2026-10-26T18:50:06+00:00",
           "source": "Defense News"
-        },
-        {
-          "title": "EXCLUSIVE: SOUTHCOM chief seeks unmanned river solution as he embraces autonomy",
-          "url": "https://breakingdefense.com/2026/10/exclusive-southcom-chief-seeks-unmanned-river-solution-as-he-embraces-autonomy",
-          "publishedAt": "2026-10-26T16:30:00+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
@@ -314,19 +320,13 @@
           "url": "https://defensescoop.com/2026/10/22/hegseth-memo-gambling-prediction-markets",
           "publishedAt": "2026-10-22T21:09:11+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "SOCOM seeks common PaaS environment to support testing and fielding of new tech",
-          "url": "https://defensescoop.com/2026/10/22/socom-paas-integrated-contracting-vehicle",
-          "publishedAt": "2026-10-22T18:28:50+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-27T13:00:31+00:00",
+      "updatedAt": "2026-10-27T13:38:39+00:00",
       "stories": [
         {
           "title": "Anthropic officially files to go public",
@@ -347,21 +347,51 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-          "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
-          "publishedAt": "2026-10-27T11:00:00+00:00",
+          "title": "Japan internet giant GMO says hackers posted stolen customer data",
+          "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data",
+          "publishedAt": "2026-10-27T13:32:57+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant",
-          "publishedAt": "2026-10-27T02:00:00+00:00",
+          "title": "Concerning behavior from a popular open-weight AI model (12 minute read)",
+          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+          "publishedAt": "2026-10-27T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Frontier models' ability to control robot arms is doubling every 54 days (11 minute read)",
+          "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly",
+          "publishedAt": "2026-10-27T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Gemini 4 Argon: The Model and Safety Cards (35 minute read)",
+          "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards",
+          "publishedAt": "2026-10-27T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Git Forge for Agent-Human Collaboration (11 minute read)",
+          "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+          "publishedAt": "2026-10-27T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Google's Self-Improvements in LLMs (18 minute read)",
+          "url": "https://arxiv.org/abs/2610.32770",
+          "publishedAt": "2026-10-27T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+          "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
+          "publishedAt": "2026-10-27T13:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-          "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing",
-          "publishedAt": "2026-10-27T01:12:21+00:00",
+          "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+          "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
+          "publishedAt": "2026-10-27T13:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -383,48 +413,24 @@
           "source": "TLDR AI"
         },
         {
-          "title": "Apple's 20B On-Device Model Uses Just 2GB of Memory (18 minute read)",
-          "url": "https://www.airealist.ai/p/exploring-apple-on-device-model",
-          "publishedAt": "2026-10-26T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Personal Agent Protocol Map (7 minute read)",
-          "url": "https://x.com/sytaylor/status/2113710822731989172",
-          "publishedAt": "2026-10-26T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Securing our frontier model training environment (17 minute read)",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "publishedAt": "2026-10-26T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Knowing How Is Not Knowing What (14 minute read)",
-          "url": "https://algoroxyolo.github.io/blog/2026/knowing-how-is-not-knowing-what",
-          "publishedAt": "2026-10-26T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "What the “SaaS is dead” narrative misses",
           "url": "https://www.sap.com/events/teched.html",
           "publishedAt": "2026-10-25T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors (3 minute read)",
-          "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
-          "publishedAt": "2026-10-23T00:00:00+00:00",
-          "source": "TLDR AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-27T13:00:31+00:00",
+      "updatedAt": "2026-10-27T13:38:39+00:00",
       "stories": [
+        {
+          "title": "Embotech and BMW move 1M vehicles with automated driving technology",
+          "url": "https://www.therobotreport.com/embotech-bmw-move-1m-vehicles-automated-driving-technology",
+          "publishedAt": "2026-10-27T12:45:27+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Xpanner launches autonomous pile driver for solar farm contruction",
           "url": "https://www.therobotreport.com/xpanner-launches-new-autonomous-pile-driver-solar-farm-contruction",
@@ -465,12 +471,6 @@
           "title": "Webinar to discuss how the FCC robotics ruling affects automation buyers",
           "url": "https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers",
           "publishedAt": "2026-10-23T20:06:28+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Generative Bionics to launch Physical AI Data Factory in Italy",
-          "url": "https://www.therobotreport.com/generative-bionics-to-launch-physical-ai-data-factory-in-italy",
-          "publishedAt": "2026-10-23T18:56:44+00:00",
           "source": "The Robot Report"
         },
         {
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-27T13:00:31+00:00",
+    "updatedAt": "2026-10-27T13:38:39+00:00",
     "stories": [
       {
         "title": "Anthropic officially files to go public",
@@ -567,18 +567,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The new must-have capabilities for drones",
-        "url": "https://breakingdefense.com/2026/10/the-new-must-have-capabilities-for-drones",
-        "publishedAt": "2026-10-27T12:24:00+00:00",
+        "title": "2026 midterm cheat sheet: Which races to watch on defense",
+        "url": "https://breakingdefense.com/2026/10/2026-midterm-cheat-sheet-which-races-to-watch-on-defense",
+        "publishedAt": "2026-10-27T13:00:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Xpanner launches autonomous pile driver for solar farm contruction",
-        "url": "https://www.therobotreport.com/xpanner-launches-new-autonomous-pile-driver-solar-farm-contruction",
-        "publishedAt": "2026-10-27T11:44:30+00:00",
+        "title": "Embotech and BMW move 1M vehicles with automated driving technology",
+        "url": "https://www.therobotreport.com/embotech-bmw-move-1m-vehicles-automated-driving-technology",
+        "publishedAt": "2026-10-27T12:45:27+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -594,21 +594,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "USAF should buy newly designed air refuelers to meet China threat: Report",
-        "url": "https://breakingdefense.com/2026/10/usaf-should-buy-newly-designed-air-refuelers-to-meet-china-threat-report",
-        "publishedAt": "2026-10-27T12:00:00+00:00",
+        "title": "The new must-have capabilities for drones",
+        "url": "https://breakingdefense.com/2026/10/the-new-must-have-capabilities-for-drones",
+        "publishedAt": "2026-10-27T12:24:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "ESA procures four new Galileo Second Generation satellites",
-        "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites",
-        "publishedAt": "2026-10-27T10:00:00+00:00",
-        "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "USAF should buy newly designed air refuelers to meet China threat: Report",
+        "url": "https://breakingdefense.com/2026/10/usaf-should-buy-newly-designed-air-refuelers-to-meet-china-threat-report",
+        "publishedAt": "2026-10-27T12:00:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
