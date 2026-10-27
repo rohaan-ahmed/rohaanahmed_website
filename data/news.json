@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T01:00:29+00:00",
+  "generatedAt": "2026-10-27T02:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-27T01:00:29+00:00",
+      "updatedAt": "2026-10-27T02:00:29+00:00",
       "stories": [
         {
           "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-27T01:00:29+00:00",
+      "updatedAt": "2026-10-27T02:00:29+00:00",
       "stories": [
         {
           "title": "Ottawa opens Canadian space act consultation, unveils PNT plan",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-27T01:00:29+00:00",
+      "updatedAt": "2026-10-27T02:00:29+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-27T01:00:29+00:00",
+      "updatedAt": "2026-10-27T02:00:29+00:00",
       "stories": [
         {
           "title": "Helsing rolls out Contra air defense design, plus two new inteceptors",
@@ -326,8 +326,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-27T01:00:29+00:00",
+      "updatedAt": "2026-10-27T02:00:29+00:00",
       "stories": [
+        {
+          "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+          "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing",
+          "publishedAt": "2026-10-27T01:12:21+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Kimi continues to challenge the frontier with K3.1 Pro",
           "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
@@ -350,12 +356,6 @@
           "title": "SpaceX locks in $40B GPU financing deal with Apollo",
           "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo",
           "publishedAt": "2026-10-26T16:46:36+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Anthropic officially files for its public debut",
-          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut",
-          "publishedAt": "2026-10-26T14:35:22+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-27T01:00:29+00:00",
+      "updatedAt": "2026-10-27T02:00:29+00:00",
       "stories": [
         {
           "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
@@ -519,20 +519,20 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-27T01:00:29+00:00",
+    "updatedAt": "2026-10-27T02:00:29+00:00",
     "stories": [
       {
-        "title": "Kimi continues to challenge the frontier with K3.1 Pro",
-        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-        "publishedAt": "2026-10-26T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+        "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing",
+        "publishedAt": "2026-10-27T01:12:21+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Canva’s first in-house image model climbs the ranks",
-        "url": "https://www.canva.com/newsroom/news/canva-craft",
+        "title": "Kimi continues to challenge the frontier with K3.1 Pro",
+        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
         "publishedAt": "2026-10-26T10:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
