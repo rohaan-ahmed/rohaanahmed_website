@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T21:00:31+00:00",
+  "generatedAt": "2026-10-27T22:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-27T21:00:31+00:00",
+      "updatedAt": "2026-10-27T22:00:31+00:00",
       "stories": [
         {
           "title": "Ukrainian startup, GomSpace test satellite for future communications network",
@@ -19,6 +19,12 @@
           "source": "SpaceNews"
         },
         {
+          "title": "How 'spacewalking' underwater made me feel like I was really in space",
+          "url": "https://www.space.com/space-exploration/human-spaceflight/how-spacewalking-underwater-made-me-feel-like-i-was-really-in-space",
+          "publishedAt": "2026-10-27T21:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
           "title": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart",
           "url": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart",
           "publishedAt": "2026-10-27T19:00:00+00:00",
@@ -29,12 +35,6 @@
           "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation",
           "publishedAt": "2026-10-27T19:27:22+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "November full moon 2026: When, where and how to see the Beaver Moon",
-          "url": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon",
-          "publishedAt": "2026-10-27T18:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-27T21:00:31+00:00",
+      "updatedAt": "2026-10-27T22:00:31+00:00",
       "stories": [
         {
           "title": "U.S. Ambassador Hoekstra makes the case for Canada’s sovereign push",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-27T21:00:31+00:00",
+      "updatedAt": "2026-10-27T22:00:31+00:00",
       "stories": [
         {
           "title": "Operation NANOOK‑TATIGIIT Strengthens Whole‑of‑Government Crisis Response in the Arctic",
@@ -235,10 +235,10 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-27T21:00:31+00:00",
+      "updatedAt": "2026-10-27T22:00:31+00:00",
       "stories": [
         {
-          "title": "DIA: China has tripled its satellite fleet since 2018 as expansion continues",
+          "title": "China has tripled its satellite fleet since 2018 as expansion continues: DIA",
           "url": "https://breakingdefense.com/2026/10/dia-china-has-tripled-its-satellite-fleet-since-2018-as-expansion-continues",
           "publishedAt": "2026-10-27T20:56:45+00:00",
           "source": "Breaking Defense"
@@ -278,6 +278,12 @@
           "url": "https://breakingdefense.com/2026/10/whats-haunting-the-pentagon-this-halloween",
           "publishedAt": "2026-10-27T17:45:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Air Force launches next phase of hypersonic missile program with $694M contract award for ARRW",
+          "url": "https://defensescoop.com/2026/10/27/air-force-hypersonic-missile-production-contract-lockheed-martin",
+          "publishedAt": "2026-10-27T20:58:58+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Another Michigan auto firm enters defense industry as state tries to revive ‘Arsenal of Democracy’",
@@ -320,20 +326,20 @@
           "url": "https://defensescoop.com/2026/10/26/army-project-gatekeeper-goes-live-integration-frontier-ai-models",
           "publishedAt": "2026-10-26T15:28:18+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Pentagon issues guidance on AI procurements to support Trump’s ‘truth-seeking’ and ‘ideological neutrality’ directives",
-          "url": "https://defensescoop.com/2026/10/23/pentagon-guidance-ai-procurement-trump-directive",
-          "publishedAt": "2026-10-23T16:40:41+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-27T21:00:31+00:00",
+      "updatedAt": "2026-10-27T22:00:31+00:00",
       "stories": [
+        {
+          "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+          "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant",
+          "publishedAt": "2026-10-27T21:44:34+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Anthropic officially files to go public",
           "url": "https://www.anthropic.com/news/s1-sec",
@@ -353,32 +359,26 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Who’s really in charge at Anthropic after the IPO?",
+          "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo",
+          "publishedAt": "2026-10-27T21:38:28+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
           "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
           "publishedAt": "2026-10-27T18:55:35+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-          "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
-          "publishedAt": "2026-10-27T17:08:08+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-          "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering",
-          "publishedAt": "2026-10-27T16:30:57+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Frontier models' ability to control robot arms is doubling every 54 days (11 minute read)",
-          "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly",
+          "title": "Gemini 4 Argon: The Model and Safety Cards (35 minute read)",
+          "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards",
           "publishedAt": "2026-10-27T00:00:00+00:00",
           "source": "TLDR AI"
         },
         {
-          "title": "Gemini 4 Argon: The Model and Safety Cards (35 minute read)",
-          "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards",
+          "title": "Frontier models' ability to control robot arms is doubling every 54 days (11 minute read)",
+          "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly",
           "publishedAt": "2026-10-27T00:00:00+00:00",
           "source": "TLDR AI"
         },
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-27T21:00:31+00:00",
+      "updatedAt": "2026-10-27T22:00:31+00:00",
       "stories": [
         {
           "title": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
@@ -525,20 +525,20 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-27T21:00:31+00:00",
+    "updatedAt": "2026-10-27T22:00:31+00:00",
     "stories": [
       {
-        "title": "Anthropic officially files to go public",
-        "url": "https://www.anthropic.com/news/s1-sec",
-        "publishedAt": "2026-10-27T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+        "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant",
+        "publishedAt": "2026-10-27T21:44:34+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI’s next batch of AI science discoveries arrives",
-        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+        "title": "Anthropic officially files to go public",
+        "url": "https://www.anthropic.com/news/s1-sec",
         "publishedAt": "2026-10-27T10:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
@@ -573,7 +573,7 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "DIA: China has tripled its satellite fleet since 2018 as expansion continues",
+        "title": "China has tripled its satellite fleet since 2018 as expansion continues: DIA",
         "url": "https://breakingdefense.com/2026/10/dia-china-has-tripled-its-satellite-fleet-since-2018-as-expansion-continues",
         "publishedAt": "2026-10-27T20:56:45+00:00",
         "source": "Breaking Defense",
@@ -730,7 +730,6 @@
     }
   ],
   "warnings": [
-    "Ottawa Citizen Defence Watch: 500 Server Error: Internal Server Error for url: https://ottawacitizen.com/tag/defence-watch/feed.xml",
     "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
