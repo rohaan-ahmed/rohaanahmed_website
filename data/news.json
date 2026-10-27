@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-27T10:00:30+00:00",
+  "generatedAt": "2026-10-27T11:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-27T10:00:30+00:00",
+      "updatedAt": "2026-10-27T11:00:32+00:00",
       "stories": [
+        {
+          "title": "ESA procures four new Galileo Second Generation satellites",
+          "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites",
+          "publishedAt": "2026-10-27T10:00:00+00:00",
+          "source": "European Space Agency"
+        },
+        {
+          "title": "Astroscale proposes fleet of 'bodyguard' spacecraft to protect satellites from orbital attacks",
+          "url": "https://www.space.com/space-exploration/satellites/astroscale-proposes-fleet-of-bodyguard-spacecraft-to-protect-satellites-from-orbital-attacks",
+          "publishedAt": "2026-10-27T10:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
           "url": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence",
@@ -49,12 +61,6 @@
           "source": "Space.com"
         },
         {
-          "title": "Darth Vader wields the Infinity Gauntlet in the first-ever official 'Star Wars' & 'Marvel' crossover",
-          "url": "https://www.space.com/entertainment/space-books/darth-vader-wields-the-infinity-gauntlet-in-the-first-ever-official-star-wars-and-marvel-crossover",
-          "publishedAt": "2026-10-26T19:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Ice mission CRISTAL opens its wings",
           "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings",
           "publishedAt": "2026-10-26T10:00:00+00:00",
@@ -85,12 +91,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "350th ESA Council: Media information session",
-          "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session",
-          "publishedAt": "2026-10-22T14:00:00+00:00",
-          "source": "European Space Agency"
-        },
-        {
           "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
           "url": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner",
           "publishedAt": "2026-10-21T15:26:29+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-27T10:00:30+00:00",
+      "updatedAt": "2026-10-27T11:00:32+00:00",
       "stories": [
         {
           "title": "Ottawa opens Canadian space act consultation, unveils PNT plan",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-27T10:00:30+00:00",
+      "updatedAt": "2026-10-27T11:00:32+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
@@ -229,8 +229,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-27T10:00:30+00:00",
+      "updatedAt": "2026-10-27T11:00:32+00:00",
       "stories": [
+        {
+          "title": "Britain will not join Canada-led defense bank initiative",
+          "url": "https://www.defensenews.com/global/europe/2026/10/27/britain-will-not-join-canada-led-defense-bank-initiative",
+          "publishedAt": "2026-10-27T09:46:52+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Helsing rolls out Contra air defense design, plus two new inteceptors",
           "url": "https://breakingdefense.com/2026/10/helsing-rolls-out-contra-air-defense-design-plus-two-new-inteceptors",
@@ -280,12 +286,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Defense leaders weigh in on expanding production | Defense News Weekly Full Episode 10.27.26",
-          "url": "https://www.defensenews.com/video/2026/10/26/defense-leaders-weigh-in-on-expanding-production-defense-news-weekly-full-episode-102726",
-          "publishedAt": "2026-10-26T13:29:39+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Smack Technologies lands new deal for AI prototype to enhance joint military campaigning",
           "url": "https://defensescoop.com/2026/10/26/smack-technologies-ai-prototype-special-operations-command",
           "publishedAt": "2026-10-26T16:00:00+00:00",
@@ -326,8 +326,26 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-27T10:00:30+00:00",
+      "updatedAt": "2026-10-27T11:00:32+00:00",
       "stories": [
+        {
+          "title": "Anthropic officially files to go public",
+          "url": "https://www.anthropic.com/news/s1-sec",
+          "publishedAt": "2026-10-27T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI’s next batch of AI science discoveries arrives",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "publishedAt": "2026-10-27T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI’s new Terra cuts the cost of AI computer use",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "publishedAt": "2026-10-27T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
           "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant",
@@ -395,35 +413,17 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Banks crack down on AI agents’ account access",
-          "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
-          "publishedAt": "2026-10-23T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Microsoft’s AI out-diagnoses doctors on hard cases",
-          "url": "https://microsoft.ai/news/building-medical-superintelligence",
-          "publishedAt": "2026-10-23T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
           "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors (3 minute read)",
           "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
           "publishedAt": "2026-10-23T00:00:00+00:00",
           "source": "TLDR AI"
-        },
-        {
-          "title": "OpenAI’s model helps catch critical PHP flaws",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "publishedAt": "2026-10-22T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-27T10:00:30+00:00",
+      "updatedAt": "2026-10-27T11:00:32+00:00",
       "stories": [
         {
           "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
@@ -519,22 +519,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-27T10:00:30+00:00",
+    "updatedAt": "2026-10-27T11:00:32+00:00",
     "stories": [
       {
-        "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-        "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant",
-        "publishedAt": "2026-10-27T02:00:00+00:00",
-        "source": "TechCrunch AI",
+        "title": "Anthropic officially files to go public",
+        "url": "https://www.anthropic.com/news/s1-sec",
+        "publishedAt": "2026-10-27T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-        "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing",
-        "publishedAt": "2026-10-27T01:12:21+00:00",
-        "source": "TechCrunch AI",
+        "title": "OpenAI’s next batch of AI science discoveries arrives",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+        "publishedAt": "2026-10-27T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -549,10 +549,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
-        "url": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence",
-        "publishedAt": "2026-10-26T20:00:00+00:00",
-        "source": "SpaceNews",
+        "title": "ESA procures four new Galileo Second Generation satellites",
+        "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites",
+        "publishedAt": "2026-10-27T10:00:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -567,10 +567,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Helsing rolls out Contra air defense design, plus two new inteceptors",
-        "url": "https://breakingdefense.com/2026/10/helsing-rolls-out-contra-air-defense-design-plus-two-new-inteceptors",
-        "publishedAt": "2026-10-26T18:39:07+00:00",
-        "source": "Breaking Defense",
+        "title": "Britain will not join Canada-led defense bank initiative",
+        "url": "https://www.defensenews.com/global/europe/2026/10/27/britain-will-not-join-canada-led-defense-bank-initiative",
+        "publishedAt": "2026-10-27T09:46:52+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -585,28 +585,28 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
-        "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent",
-        "publishedAt": "2026-10-27T07:07:51+00:00",
-        "source": "NASA",
+        "title": "OpenAI’s new Terra cuts the cost of AI computer use",
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+        "publishedAt": "2026-10-27T10:00:00+00:00",
+        "source": "The Rundown AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Astroscale proposes fleet of 'bodyguard' spacecraft to protect satellites from orbital attacks",
+        "url": "https://www.space.com/space-exploration/satellites/astroscale-proposes-fleet-of-bodyguard-spacecraft-to-protect-satellites-from-orbital-attacks",
+        "publishedAt": "2026-10-27T10:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
-        "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden",
-        "publishedAt": "2026-10-27T04:05:00+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "A-81 Reaches South Georgia",
-        "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia",
-        "publishedAt": "2026-10-27T04:00:00+00:00",
-        "source": "NASA",
+        "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
+        "url": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence",
+        "publishedAt": "2026-10-26T20:00:00+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
