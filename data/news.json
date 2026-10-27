@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-10-27T11:00:32+00:00",
+  "generatedAt": "2026-10-27T12:00:38+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-27T11:00:32+00:00",
+      "updatedAt": "2026-10-27T12:00:38+00:00",
       "stories": [
+        {
+          "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+          "url": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space",
+          "publishedAt": "2026-10-27T12:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "ESA procures four new Galileo Second Generation satellites",
           "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites",
           "publishedAt": "2026-10-27T10:00:00+00:00",
           "source": "European Space Agency"
+        },
+        {
+          "title": "SpaceX Falcon 9 launches early morning Starlink mission from California (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly",
+          "publishedAt": "2026-10-27T11:04:19+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Astroscale proposes fleet of 'bodyguard' spacecraft to protect satellites from orbital attacks",
@@ -23,24 +35,6 @@
           "url": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence",
           "publishedAt": "2026-10-26T20:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
-          "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent",
-          "publishedAt": "2026-10-27T07:07:51+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
-          "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden",
-          "publishedAt": "2026-10-27T04:05:00+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "A-81 Reaches South Georgia",
-          "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia",
-          "publishedAt": "2026-10-27T04:00:00+00:00",
-          "source": "NASA"
         },
         {
           "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
@@ -95,14 +89,26 @@
           "url": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner",
           "publishedAt": "2026-10-21T15:26:29+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
+          "url": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035",
+          "publishedAt": "2026-10-21T15:00:22+00:00",
+          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-27T11:00:32+00:00",
+      "updatedAt": "2026-10-27T12:00:38+00:00",
       "stories": [
+        {
+          "title": "North Vector Dynamics closes $29 million Series A",
+          "url": "https://spaceq.ca/north-vector-dynamics-series-a",
+          "publishedAt": "2026-10-27T11:04:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Ottawa opens Canadian space act consultation, unveils PNT plan",
           "url": "https://spaceq.ca/canadian-space-act-consultation-pnt-framework",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "NordSpace gets $20 million DND deal for standby launch pad at Atlantic Spaceport Complex",
-          "url": "https://spaceq.ca/nordspace-dnd-deal-atlantic-spaceport-complex",
-          "publishedAt": "2026-10-21T18:44:56+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Minister Joly to speak at SpaceBound 2026",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/minister-joly-to-speak-at-spacebound-2026.html",
           "publishedAt": "2026-10-19T17:49:59+00:00",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-27T11:00:32+00:00",
+      "updatedAt": "2026-10-27T12:00:38+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-27T11:00:32+00:00",
+      "updatedAt": "2026-10-27T12:00:38+00:00",
       "stories": [
         {
           "title": "Britain will not join Canada-led defense bank initiative",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-27T11:00:32+00:00",
+      "updatedAt": "2026-10-27T12:00:38+00:00",
       "stories": [
         {
           "title": "Anthropic officially files to go public",
@@ -345,6 +345,12 @@
           "url": "https://openai.com/index/introducing-gpt-6-1-terra",
           "publishedAt": "2026-10-27T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+          "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
+          "publishedAt": "2026-10-27T11:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -369,12 +375,6 @@
           "url": "https://www.canva.com/newsroom/news/canva-craft",
           "publishedAt": "2026-10-26T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-          "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked",
-          "publishedAt": "2026-10-26T16:49:42+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "Dessa - the Conversation Model trained only on speech (15 minute read)",
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-27T11:00:32+00:00",
+      "updatedAt": "2026-10-27T12:00:38+00:00",
       "stories": [
         {
           "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-27T11:00:32+00:00",
+    "updatedAt": "2026-10-27T12:00:38+00:00",
     "stories": [
       {
         "title": "Anthropic officially files to go public",
@@ -540,19 +540,19 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Ottawa opens Canadian space act consultation, unveils PNT plan",
-        "url": "https://spaceq.ca/canadian-space-act-consultation-pnt-framework",
-        "publishedAt": "2026-10-26T14:37:00+00:00",
+        "title": "North Vector Dynamics closes $29 million Series A",
+        "url": "https://spaceq.ca/north-vector-dynamics-series-a",
+        "publishedAt": "2026-10-27T11:04:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "ESA procures four new Galileo Second Generation satellites",
-        "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites",
-        "publishedAt": "2026-10-27T10:00:00+00:00",
-        "source": "European Space Agency",
+        "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+        "url": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space",
+        "publishedAt": "2026-10-27T12:00:00+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -594,19 +594,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Astroscale proposes fleet of 'bodyguard' spacecraft to protect satellites from orbital attacks",
-        "url": "https://www.space.com/space-exploration/satellites/astroscale-proposes-fleet-of-bodyguard-spacecraft-to-protect-satellites-from-orbital-attacks",
+        "title": "ESA procures four new Galileo Second Generation satellites",
+        "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites",
         "publishedAt": "2026-10-27T10:00:00+00:00",
-        "source": "Space.com",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
-        "url": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence",
-        "publishedAt": "2026-10-26T20:00:00+00:00",
-        "source": "SpaceNews",
+        "title": "SpaceX Falcon 9 launches early morning Starlink mission from California (video)",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly",
+        "publishedAt": "2026-10-27T11:04:19+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -724,6 +724,7 @@
     }
   ],
   "warnings": [
+    "NASA: 429 Client Error: Too Many Requests for url: https://www.nasa.gov/feed/",
     "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
