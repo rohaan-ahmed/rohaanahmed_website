@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-10-27T07:00:29+00:00",
+  "generatedAt": "2026-10-27T07:44:53+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-27T07:00:29+00:00",
+      "updatedAt": "2026-10-27T07:44:53+00:00",
       "stories": [
         {
           "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
           "url": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence",
           "publishedAt": "2026-10-26T20:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
+          "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent",
+          "publishedAt": "2026-10-27T07:07:51+00:00",
+          "source": "NASA"
         },
         {
           "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
@@ -29,12 +35,6 @@
           "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites",
           "publishedAt": "2026-10-26T13:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
-          "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis",
-          "publishedAt": "2026-10-26T22:48:12+00:00",
-          "source": "NASA"
         },
         {
           "title": "Analog astronauts: How living underwater can prepare humans for space missions",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-27T07:00:29+00:00",
+      "updatedAt": "2026-10-27T07:44:53+00:00",
       "stories": [
         {
           "title": "Ottawa opens Canadian space act consultation, unveils PNT plan",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-27T07:00:29+00:00",
+      "updatedAt": "2026-10-27T07:44:53+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal on the Ongoing Investigation into the Incident at CFB Wainwright",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-27T07:00:29+00:00",
+      "updatedAt": "2026-10-27T07:44:53+00:00",
       "stories": [
         {
           "title": "Helsing rolls out Contra air defense design, plus two new inteceptors",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-27T07:00:29+00:00",
+      "updatedAt": "2026-10-27T07:44:53+00:00",
       "stories": [
         {
           "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-27T07:00:29+00:00",
+      "updatedAt": "2026-10-27T07:44:53+00:00",
       "stories": [
         {
           "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-27T07:00:29+00:00",
+    "updatedAt": "2026-10-27T07:44:53+00:00",
     "stories": [
       {
         "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -585,6 +585,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
+        "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent",
+        "publishedAt": "2026-10-27T07:07:51+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
         "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden",
         "publishedAt": "2026-10-27T04:05:00+00:00",
@@ -598,15 +607,6 @@
         "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia",
         "publishedAt": "2026-10-27T04:00:00+00:00",
         "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
-        "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites",
-        "publishedAt": "2026-10-26T13:00:00+00:00",
-        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -724,7 +724,7 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-02",
-    "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-14"
   ]
 }
