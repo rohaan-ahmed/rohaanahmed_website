@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-28T14:00:31+00:00",
+  "generatedAt": "2026-10-28T14:26:45+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-28T14:00:31+00:00",
+      "updatedAt": "2026-10-28T14:26:45+00:00",
       "stories": [
+        {
+          "title": "Satellites watch an escaping Antarctic iceberg | Space photo of the day for Oct. 28, 2026",
+          "url": "https://www.space.com/astronomy/earth/satellites-watch-an-escaping-antarctic-iceberg-space-photo-of-the-day-for-oct-28-2026",
+          "publishedAt": "2026-10-28T14:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet",
           "url": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
@@ -16,12 +22,6 @@
           "title": "Virgin Galactic is finally revealing its new Delta-class spaceship this week",
           "url": "https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-is-finally-revealing-its-new-delta-class-spaceship-this-week",
           "publishedAt": "2026-10-28T12:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Black holes can split in two — but only if they spin at extreme speeds",
-          "url": "https://www.space.com/astronomy/black-holes/black-holes-can-split-in-two-but-only-if-they-spin-at-extreme-speeds",
-          "publishedAt": "2026-10-28T10:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-28T14:00:31+00:00",
+      "updatedAt": "2026-10-28T14:26:45+00:00",
       "stories": [
+        {
+          "title": "CSA issues RFP for three priority technologies",
+          "url": "https://spaceq.ca/csa-three-priority-technologies-rfp",
+          "publishedAt": "2026-10-28T14:12:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Space-to-Earth connection: Minister Olszewski joins CSA astronauts to discuss Kutryk’s first spacewalk",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/space-to-earth-connection-minister-olszewski-joins-csa-astronauts-to-discuss-kutryks-first-spacewalk.html",
@@ -170,12 +176,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "Alex MacDonald: Space firms see an Arctic opening in defence",
-          "url": "https://spaceq.ca/alex-macdonald-spacebound-arctic-defence",
-          "publishedAt": "2026-10-22T14:22:00+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Minister Joly to speak at SpaceBound 2026",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/minister-joly-to-speak-at-spacebound-2026.html",
           "publishedAt": "2026-10-19T17:49:59+00:00",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-28T14:00:31+00:00",
+      "updatedAt": "2026-10-28T14:26:45+00:00",
       "stories": [
         {
           "title": "Operation NANOOK‑TATIGIIT Strengthens Whole‑of‑Government Crisis Response in the Arctic",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-28T14:00:31+00:00",
+      "updatedAt": "2026-10-28T14:26:45+00:00",
       "stories": [
         {
           "title": "Startup Biosphere wins Pentagon contract to scale up production of key chemicals",
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-28T14:00:31+00:00",
+      "updatedAt": "2026-10-28T14:26:45+00:00",
       "stories": [
         {
           "title": "Genie 4 brings sound and interactivity to AI worlds",
@@ -353,42 +353,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Liquid AI Launches LFM3 Models for On Device AI (27 minute read)",
-          "url": "https://www.liquid.ai/blog/lfm3",
-          "publishedAt": "2026-10-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Anthropic Versus Anthropic (17 minute read)",
-          "url": "https://thezvi.wordpress.com/2026/10/27/anthropic-versus-anthropic",
-          "publishedAt": "2026-10-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Where are the world's AI chips? (1 minute read)",
-          "url": "https://epoch.ai/latest/introducing-the-ai-chip-imports-explorer",
-          "publishedAt": "2026-10-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Anthropic's Claude Refutes the Exponential Time Hypothesis, With a Lean Proof (GitHub Repo)",
-          "url": "https://github.com/anthropics/formal-math/tree/main/eth",
-          "publishedAt": "2026-10-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Proactive Video Agents (22 minute read)",
-          "url": "https://arxiv.org/abs/2610.34662",
-          "publishedAt": "2026-10-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning (11 minute read)",
-          "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
-          "publishedAt": "2026-10-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
           "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open",
           "publishedAt": "2026-10-28T13:00:00+00:00",
@@ -404,6 +368,18 @@
           "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
           "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
           "publishedAt": "2026-10-27T23:34:27+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "The data center boom has an upside: innovation for the US grid",
+          "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
+          "publishedAt": "2026-10-27T22:55:41+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+          "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant",
+          "publishedAt": "2026-10-27T21:44:34+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -423,13 +399,37 @@
           "url": "https://openai.com/index/introducing-gpt-6-1-terra",
           "publishedAt": "2026-10-27T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Who’s really in charge at Anthropic after the IPO?",
+          "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo",
+          "publishedAt": "2026-10-27T21:38:28+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Kimi continues to challenge the frontier with K3.1 Pro",
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "publishedAt": "2026-10-26T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Canva’s first in-house image model climbs the ranks",
+          "url": "https://www.canva.com/newsroom/news/canva-craft",
+          "publishedAt": "2026-10-26T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "What the “SaaS is dead” narrative misses",
+          "url": "https://www.sap.com/events/teched.html",
+          "publishedAt": "2026-10-25T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-28T14:00:31+00:00",
+      "updatedAt": "2026-10-28T14:26:45+00:00",
       "stories": [
         {
           "title": "WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-28T14:00:31+00:00",
+    "updatedAt": "2026-10-28T14:26:45+00:00",
     "stories": [
       {
         "title": "Genie 4 brings sound and interactivity to AI worlds",
@@ -546,18 +546,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Space-to-Earth connection: Minister Olszewski joins CSA astronauts to discuss Kutryk’s first spacewalk",
-        "url": "https://www.canada.ca/en/space-agency/news/2026/10/space-to-earth-connection-minister-olszewski-joins-csa-astronauts-to-discuss-kutryks-first-spacewalk.html",
-        "publishedAt": "2026-10-28T13:15:34+00:00",
-        "source": "Canadian Space Agency",
+        "title": "CSA issues RFP for three priority technologies",
+        "url": "https://spaceq.ca/csa-three-priority-technologies-rfp",
+        "publishedAt": "2026-10-28T14:12:00+00:00",
+        "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet",
-        "url": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
-        "publishedAt": "2026-10-28T12:58:18+00:00",
+        "title": "Satellites watch an escaping Antarctic iceberg | Space photo of the day for Oct. 28, 2026",
+        "url": "https://www.space.com/astronomy/earth/satellites-watch-an-escaping-antarctic-iceberg-space-photo-of-the-day-for-oct-28-2026",
+        "publishedAt": "2026-10-28T14:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -730,6 +730,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-15"
   ]
 }
