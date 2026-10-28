@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-28T13:00:32+00:00",
+  "generatedAt": "2026-10-28T14:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-28T13:00:32+00:00",
+      "updatedAt": "2026-10-28T14:00:31+00:00",
       "stories": [
+        {
+          "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet",
+          "url": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
+          "publishedAt": "2026-10-28T12:58:18+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Virgin Galactic is finally revealing its new Delta-class spaceship this week",
           "url": "https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-is-finally-revealing-its-new-delta-class-spaceship-this-week",
@@ -47,12 +53,6 @@
           "url": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space",
           "publishedAt": "2026-10-27T12:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "How 'spacewalking' underwater made me feel like I was really in space",
-          "url": "https://www.space.com/space-exploration/human-spaceflight/how-spacewalking-underwater-made-me-feel-like-i-was-really-in-space",
-          "publishedAt": "2026-10-27T21:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "First light: Hera resolves two asteroids instead of one",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-28T13:00:32+00:00",
+      "updatedAt": "2026-10-28T14:00:31+00:00",
       "stories": [
+        {
+          "title": "Space-to-Earth connection: Minister Olszewski joins CSA astronauts to discuss Kutryk’s first spacewalk",
+          "url": "https://www.canada.ca/en/space-agency/news/2026/10/space-to-earth-connection-minister-olszewski-joins-csa-astronauts-to-discuss-kutryks-first-spacewalk.html",
+          "publishedAt": "2026-10-28T13:15:34+00:00",
+          "source": "Canadian Space Agency"
+        },
         {
           "title": "SpaceX will offer Starlink Mobile to any Canadian carrier",
           "url": "https://spaceq.ca/starlink-mobile-canada-carriers",
@@ -180,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-28T13:00:32+00:00",
+      "updatedAt": "2026-10-28T14:00:31+00:00",
       "stories": [
         {
           "title": "Operation NANOOK‑TATIGIIT Strengthens Whole‑of‑Government Crisis Response in the Arctic",
@@ -229,8 +235,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-28T13:00:32+00:00",
+      "updatedAt": "2026-10-28T14:00:31+00:00",
       "stories": [
+        {
+          "title": "Startup Biosphere wins Pentagon contract to scale up production of key chemicals",
+          "url": "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals",
+          "publishedAt": "2026-10-28T13:36:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Is the Finnish-Norwegian call with Putin a crack in Nordic resolve, or the start of a new path?",
           "url": "https://breakingdefense.com/2026/10/is-the-finnish-norwegian-call-with-putin-a-crack-in-nordic-resolve-or-the-start-of-a-new-path",
@@ -271,12 +283,6 @@
           "title": "Defense Department selects Poland for new PAC-3 maintenance facility",
           "url": "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility",
           "publishedAt": "2026-10-27T18:50:27+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "A more flexible way to defend maneuver forces from drones that doesn’t tie them down",
-          "url": "https://breakingdefense.com/2026/10/a-more-flexible-way-to-defend-maneuver-forces-from-drones-that-doesnt-tie-them-down",
-          "publishedAt": "2026-10-27T18:48:04+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -326,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-28T13:00:32+00:00",
+      "updatedAt": "2026-10-28T14:00:31+00:00",
       "stories": [
         {
           "title": "Genie 4 brings sound and interactivity to AI worlds",
@@ -347,6 +353,48 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Liquid AI Launches LFM3 Models for On Device AI (27 minute read)",
+          "url": "https://www.liquid.ai/blog/lfm3",
+          "publishedAt": "2026-10-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Anthropic Versus Anthropic (17 minute read)",
+          "url": "https://thezvi.wordpress.com/2026/10/27/anthropic-versus-anthropic",
+          "publishedAt": "2026-10-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Where are the world's AI chips? (1 minute read)",
+          "url": "https://epoch.ai/latest/introducing-the-ai-chip-imports-explorer",
+          "publishedAt": "2026-10-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Anthropic's Claude Refutes the Exponential Time Hypothesis, With a Lean Proof (GitHub Repo)",
+          "url": "https://github.com/anthropics/formal-math/tree/main/eth",
+          "publishedAt": "2026-10-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Proactive Video Agents (22 minute read)",
+          "url": "https://arxiv.org/abs/2610.34662",
+          "publishedAt": "2026-10-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning (11 minute read)",
+          "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+          "publishedAt": "2026-10-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+          "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open",
+          "publishedAt": "2026-10-28T13:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
           "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
           "publishedAt": "2026-10-28T01:15:28+00:00",
@@ -356,12 +404,6 @@
           "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
           "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
           "publishedAt": "2026-10-27T23:34:27+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "The data center boom has an upside: innovation for the US grid",
-          "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
-          "publishedAt": "2026-10-27T22:55:41+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -381,50 +423,20 @@
           "url": "https://openai.com/index/introducing-gpt-6-1-terra",
           "publishedAt": "2026-10-27T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Concerning behavior from a popular open-weight AI model (12 minute read)",
-          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-          "publishedAt": "2026-10-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Gemini 4 Argon: The Model and Safety Cards (35 minute read)",
-          "url": "https://thezvi.wordpress.com/2026/10/26/gemini-4-argon-the-model-and-safety-cards",
-          "publishedAt": "2026-10-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Frontier models' ability to control robot arms is doubling every 54 days (11 minute read)",
-          "url": "https://www.lesswrong.com/posts/ndS9Xn8Qx5PppHJ3Q/the-ability-of-frontier-models-to-control-robots-is-rapidly",
-          "publishedAt": "2026-10-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Google's Self-Improvements in LLMs (18 minute read)",
-          "url": "https://arxiv.org/abs/2610.32770",
-          "publishedAt": "2026-10-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Git Forge for Agent-Human Collaboration (11 minute read)",
-          "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
-          "publishedAt": "2026-10-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Dessa - the Conversation Model trained only on speech (15 minute read)",
-          "url": "https://block.xyz/dessa",
-          "publishedAt": "2026-10-26T00:00:00+00:00",
-          "source": "TLDR AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-28T13:00:32+00:00",
+      "updatedAt": "2026-10-28T14:00:31+00:00",
       "stories": [
+        {
+          "title": "WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions",
+          "url": "https://www.therobotreport.com/worldoracle-tests-whether-world-models-can-reliably-predict-real-world-executions",
+          "publishedAt": "2026-10-28T13:44:31+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
           "url": "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres",
@@ -465,12 +477,6 @@
           "title": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
           "url": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics",
           "publishedAt": "2026-10-25T12:35:33+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
-          "url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots",
-          "publishedAt": "2026-10-24T12:34:27+00:00",
           "source": "The Robot Report"
         },
         {
@@ -519,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-28T13:00:32+00:00",
+    "updatedAt": "2026-10-28T14:00:31+00:00",
     "stories": [
       {
         "title": "Genie 4 brings sound and interactivity to AI worlds",
@@ -540,18 +546,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "SpaceX will offer Starlink Mobile to any Canadian carrier",
-        "url": "https://spaceq.ca/starlink-mobile-canada-carriers",
-        "publishedAt": "2026-10-27T23:36:16+00:00",
-        "source": "SpaceQ",
+        "title": "Space-to-Earth connection: Minister Olszewski joins CSA astronauts to discuss Kutryk’s first spacewalk",
+        "url": "https://www.canada.ca/en/space-agency/news/2026/10/space-to-earth-connection-minister-olszewski-joins-csa-astronauts-to-discuss-kutryks-first-spacewalk.html",
+        "publishedAt": "2026-10-28T13:15:34+00:00",
+        "source": "Canadian Space Agency",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "Virgin Galactic is finally revealing its new Delta-class spaceship this week",
-        "url": "https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-is-finally-revealing-its-new-delta-class-spaceship-this-week",
-        "publishedAt": "2026-10-28T12:00:00+00:00",
+        "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet",
+        "url": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
+        "publishedAt": "2026-10-28T12:58:18+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -567,18 +573,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Is the Finnish-Norwegian call with Putin a crack in Nordic resolve, or the start of a new path?",
-        "url": "https://breakingdefense.com/2026/10/is-the-finnish-norwegian-call-with-putin-a-crack-in-nordic-resolve-or-the-start-of-a-new-path",
-        "publishedAt": "2026-10-28T12:49:53+00:00",
+        "title": "Startup Biosphere wins Pentagon contract to scale up production of key chemicals",
+        "url": "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals",
+        "publishedAt": "2026-10-28T13:36:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
-        "url": "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres",
-        "publishedAt": "2026-10-27T14:29:58+00:00",
+        "title": "WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions",
+        "url": "https://www.therobotreport.com/worldoracle-tests-whether-world-models-can-reliably-predict-real-world-executions",
+        "publishedAt": "2026-10-28T13:44:31+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -594,19 +600,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Finlands defense minister talks NATO, Ukraine and fishing",
-        "url": "https://www.defensenews.com/global/europe/2026/10/28/finlands-defense-minister-talks-nato-ukraine-and-fishing",
-        "publishedAt": "2026-10-28T12:28:34+00:00",
-        "source": "Defense News",
+        "title": "Is the Finnish-Norwegian call with Putin a crack in Nordic resolve, or the start of a new path?",
+        "url": "https://breakingdefense.com/2026/10/is-the-finnish-norwegian-call-with-putin-a-crack-in-nordic-resolve-or-the-start-of-a-new-path",
+        "publishedAt": "2026-10-28T12:49:53+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Australia pushes to beef up air defenses",
-        "url": "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses",
-        "publishedAt": "2026-10-28T08:34:00+00:00",
-        "source": "Breaking Defense",
+        "title": "Finlands defense minister talks NATO, Ukraine and fishing",
+        "url": "https://www.defensenews.com/global/europe/2026/10/28/finlands-defense-minister-talks-nato-ukraine-and-fishing",
+        "publishedAt": "2026-10-28T12:28:34+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
