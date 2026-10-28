@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-28T12:00:31+00:00",
+  "generatedAt": "2026-10-28T13:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-28T12:00:31+00:00",
+      "updatedAt": "2026-10-28T13:00:32+00:00",
       "stories": [
+        {
+          "title": "Virgin Galactic is finally revealing its new Delta-class spaceship this week",
+          "url": "https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-is-finally-revealing-its-new-delta-class-spaceship-this-week",
+          "publishedAt": "2026-10-28T12:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Black holes can split in two — but only if they spin at extreme speeds",
           "url": "https://www.space.com/astronomy/black-holes/black-holes-can-split-in-two-but-only-if-they-spin-at-extreme-speeds",
@@ -46,12 +52,6 @@
           "title": "How 'spacewalking' underwater made me feel like I was really in space",
           "url": "https://www.space.com/space-exploration/human-spaceflight/how-spacewalking-underwater-made-me-feel-like-i-was-really-in-space",
           "publishedAt": "2026-10-27T21:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart",
-          "url": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart",
-          "publishedAt": "2026-10-27T19:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-28T12:00:31+00:00",
+      "updatedAt": "2026-10-28T13:00:32+00:00",
       "stories": [
         {
           "title": "SpaceX will offer Starlink Mobile to any Canadian carrier",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-28T12:00:31+00:00",
+      "updatedAt": "2026-10-28T13:00:32+00:00",
       "stories": [
         {
           "title": "Operation NANOOK‑TATIGIIT Strengthens Whole‑of‑Government Crisis Response in the Arctic",
@@ -229,8 +229,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-28T12:00:31+00:00",
+      "updatedAt": "2026-10-28T13:00:32+00:00",
       "stories": [
+        {
+          "title": "Is the Finnish-Norwegian call with Putin a crack in Nordic resolve, or the start of a new path?",
+          "url": "https://breakingdefense.com/2026/10/is-the-finnish-norwegian-call-with-putin-a-crack-in-nordic-resolve-or-the-start-of-a-new-path",
+          "publishedAt": "2026-10-28T12:49:53+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Finlands defense minister talks NATO, Ukraine and fishing",
+          "url": "https://www.defensenews.com/global/europe/2026/10/28/finlands-defense-minister-talks-nato-ukraine-and-fishing",
+          "publishedAt": "2026-10-28T12:28:34+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Australia pushes to beef up air defenses",
           "url": "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses",
@@ -280,22 +292,10 @@
           "source": "Defense News"
         },
         {
-          "title": "What’s haunting the Pentagon this Halloween?",
-          "url": "https://breakingdefense.com/2026/10/whats-haunting-the-pentagon-this-halloween",
-          "publishedAt": "2026-10-27T17:45:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Air Force launches next phase of hypersonic missile program with $694M contract award for ARRW",
           "url": "https://defensescoop.com/2026/10/27/air-force-hypersonic-missile-production-contract-lockheed-martin",
           "publishedAt": "2026-10-27T20:58:58+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "US Army looks to high-flying balloons to help see, strike along front lines with China",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china",
-          "publishedAt": "2026-10-27T17:22:47+00:00",
-          "source": "Defense News"
         },
         {
           "title": "Gen. Caine urges defense logistics leaders to be ‘creative and entrepreneurial’ ahead of future fights",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-28T12:00:31+00:00",
+      "updatedAt": "2026-10-28T13:00:32+00:00",
       "stories": [
         {
           "title": "Genie 4 brings sound and interactivity to AI worlds",
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-28T12:00:31+00:00",
+      "updatedAt": "2026-10-28T13:00:32+00:00",
       "stories": [
         {
           "title": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-28T12:00:31+00:00",
+    "updatedAt": "2026-10-28T13:00:32+00:00",
     "stories": [
       {
         "title": "Genie 4 brings sound and interactivity to AI worlds",
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Black holes can split in two — but only if they spin at extreme speeds",
-        "url": "https://www.space.com/astronomy/black-holes/black-holes-can-split-in-two-but-only-if-they-spin-at-extreme-speeds",
-        "publishedAt": "2026-10-28T10:00:00+00:00",
+        "title": "Virgin Galactic is finally revealing its new Delta-class spaceship this week",
+        "url": "https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-is-finally-revealing-its-new-delta-class-spaceship-this-week",
+        "publishedAt": "2026-10-28T12:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -567,9 +567,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Australia pushes to beef up air defenses",
-        "url": "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses",
-        "publishedAt": "2026-10-28T08:34:00+00:00",
+        "title": "Is the Finnish-Norwegian call with Putin a crack in Nordic resolve, or the start of a new path?",
+        "url": "https://breakingdefense.com/2026/10/is-the-finnish-norwegian-call-with-putin-a-crack-in-nordic-resolve-or-the-start-of-a-new-path",
+        "publishedAt": "2026-10-28T12:49:53+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -594,21 +594,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "If Canada picks the Gripen fighter, these local firms would help Saab deliver the jets",
-        "url": "https://www.defensenews.com/global/europe/2026/10/28/if-canada-picks-the-gripen-fighter-these-local-firms-would-help-saab-deliver-the-jets",
-        "publishedAt": "2026-10-28T08:43:30+00:00",
+        "title": "Finlands defense minister talks NATO, Ukraine and fishing",
+        "url": "https://www.defensenews.com/global/europe/2026/10/28/finlands-defense-minister-talks-nato-ukraine-and-fishing",
+        "publishedAt": "2026-10-28T12:28:34+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Ukrainian startup, GomSpace test satellite for future communications network",
-        "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network",
-        "publishedAt": "2026-10-27T20:21:30+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Australia pushes to beef up air defenses",
+        "url": "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses",
+        "publishedAt": "2026-10-28T08:34:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
