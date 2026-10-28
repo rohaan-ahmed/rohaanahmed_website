@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-28T14:26:45+00:00",
+  "generatedAt": "2026-10-28T15:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-28T14:26:45+00:00",
+      "updatedAt": "2026-10-28T15:00:32+00:00",
       "stories": [
+        {
+          "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
+          "url": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells",
+          "publishedAt": "2026-10-28T14:43:08+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Satellites watch an escaping Antarctic iceberg | Space photo of the day for Oct. 28, 2026",
           "url": "https://www.space.com/astronomy/earth/satellites-watch-an-escaping-antarctic-iceberg-space-photo-of-the-day-for-oct-28-2026",
@@ -89,19 +95,13 @@
           "url": "https://spacenews.com/satellite-mission-management-at-the-edge-event",
           "publishedAt": "2026-10-23T19:53:25+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Week in images: 19-23 October 2026",
-          "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_October_2026",
-          "publishedAt": "2026-10-23T13:15:00+00:00",
-          "source": "European Space Agency"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-28T14:26:45+00:00",
+      "updatedAt": "2026-10-28T15:00:32+00:00",
       "stories": [
         {
           "title": "CSA issues RFP for three priority technologies",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-28T14:26:45+00:00",
+      "updatedAt": "2026-10-28T15:00:32+00:00",
       "stories": [
         {
           "title": "Operation NANOOK‑TATIGIIT Strengthens Whole‑of‑Government Crisis Response in the Arctic",
@@ -235,8 +235,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-28T14:26:45+00:00",
+      "updatedAt": "2026-10-28T15:00:32+00:00",
       "stories": [
+        {
+          "title": "Navy faces ‘years-long’ maintenance crunch amid record-breaking, extended deployments",
+          "url": "https://breakingdefense.com/2026/10/navy-faces-years-long-maintenance-crunch-amid-record-breaking-extended-deployments",
+          "publishedAt": "2026-10-28T14:44:00+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "UK’s Healey says government will fill defense plan gap by ‘reprioritizing’",
+          "url": "https://www.defensenews.com/global/europe/2026/10/28/uks-healey-says-government-will-fill-defense-plan-gap-by-reprioritizing",
+          "publishedAt": "2026-10-28T14:30:30+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Startup Biosphere wins Pentagon contract to scale up production of key chemicals",
           "url": "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals",
@@ -280,21 +292,9 @@
           "source": "Defense News"
         },
         {
-          "title": "Defense Department selects Poland for new PAC-3 maintenance facility",
-          "url": "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility",
-          "publishedAt": "2026-10-27T18:50:27+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Pentagon creates advisory council on human performance, health",
           "url": "https://www.defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health",
           "publishedAt": "2026-10-27T19:24:01+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "US Army queries industry’s ability to build 21,000 Infantry Squad Vehicles",
-          "url": "https://www.defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles",
-          "publishedAt": "2026-10-27T19:22:31+00:00",
           "source": "Defense News"
         },
         {
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-28T14:26:45+00:00",
+      "updatedAt": "2026-10-28T15:00:32+00:00",
       "stories": [
         {
           "title": "Genie 4 brings sound and interactivity to AI worlds",
@@ -353,6 +353,42 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Liquid AI Launches LFM3 Models for On Device AI (27 minute read)",
+          "url": "https://www.liquid.ai/blog/lfm3",
+          "publishedAt": "2026-10-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Anthropic Versus Anthropic (17 minute read)",
+          "url": "https://thezvi.wordpress.com/2026/10/27/anthropic-versus-anthropic",
+          "publishedAt": "2026-10-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Where are the world's AI chips? (1 minute read)",
+          "url": "https://epoch.ai/latest/introducing-the-ai-chip-imports-explorer",
+          "publishedAt": "2026-10-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Proactive Video Agents (22 minute read)",
+          "url": "https://arxiv.org/abs/2610.34662",
+          "publishedAt": "2026-10-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning (11 minute read)",
+          "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+          "publishedAt": "2026-10-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "FrontierCode 2.0 (13 minute read)",
+          "url": "https://cognition.com/blog/frontier-code-2.0",
+          "publishedAt": "2026-10-28T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
           "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open",
           "publishedAt": "2026-10-28T13:00:00+00:00",
@@ -368,18 +404,6 @@
           "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
           "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
           "publishedAt": "2026-10-27T23:34:27+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "The data center boom has an upside: innovation for the US grid",
-          "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
-          "publishedAt": "2026-10-27T22:55:41+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-          "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant",
-          "publishedAt": "2026-10-27T21:44:34+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -399,37 +423,13 @@
           "url": "https://openai.com/index/introducing-gpt-6-1-terra",
           "publishedAt": "2026-10-27T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Who’s really in charge at Anthropic after the IPO?",
-          "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo",
-          "publishedAt": "2026-10-27T21:38:28+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Kimi continues to challenge the frontier with K3.1 Pro",
-          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-          "publishedAt": "2026-10-26T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Canva’s first in-house image model climbs the ranks",
-          "url": "https://www.canva.com/newsroom/news/canva-craft",
-          "publishedAt": "2026-10-26T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "What the “SaaS is dead” narrative misses",
-          "url": "https://www.sap.com/events/teched.html",
-          "publishedAt": "2026-10-25T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-28T14:26:45+00:00",
+      "updatedAt": "2026-10-28T15:00:32+00:00",
       "stories": [
         {
           "title": "WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-28T14:26:45+00:00",
+    "updatedAt": "2026-10-28T15:00:32+00:00",
     "stories": [
       {
         "title": "Genie 4 brings sound and interactivity to AI worlds",
@@ -555,10 +555,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Satellites watch an escaping Antarctic iceberg | Space photo of the day for Oct. 28, 2026",
-        "url": "https://www.space.com/astronomy/earth/satellites-watch-an-escaping-antarctic-iceberg-space-photo-of-the-day-for-oct-28-2026",
-        "publishedAt": "2026-10-28T14:00:00+00:00",
-        "source": "Space.com",
+        "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
+        "url": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells",
+        "publishedAt": "2026-10-28T14:43:08+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Startup Biosphere wins Pentagon contract to scale up production of key chemicals",
-        "url": "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals",
-        "publishedAt": "2026-10-28T13:36:00+00:00",
+        "title": "Navy faces ‘years-long’ maintenance crunch amid record-breaking, extended deployments",
+        "url": "https://breakingdefense.com/2026/10/navy-faces-years-long-maintenance-crunch-amid-record-breaking-extended-deployments",
+        "publishedAt": "2026-10-28T14:44:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -600,19 +600,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Is the Finnish-Norwegian call with Putin a crack in Nordic resolve, or the start of a new path?",
-        "url": "https://breakingdefense.com/2026/10/is-the-finnish-norwegian-call-with-putin-a-crack-in-nordic-resolve-or-the-start-of-a-new-path",
-        "publishedAt": "2026-10-28T12:49:53+00:00",
-        "source": "Breaking Defense",
+        "title": "UK’s Healey says government will fill defense plan gap by ‘reprioritizing’",
+        "url": "https://www.defensenews.com/global/europe/2026/10/28/uks-healey-says-government-will-fill-defense-plan-gap-by-reprioritizing",
+        "publishedAt": "2026-10-28T14:30:30+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Finlands defense minister talks NATO, Ukraine and fishing",
-        "url": "https://www.defensenews.com/global/europe/2026/10/28/finlands-defense-minister-talks-nato-ukraine-and-fishing",
-        "publishedAt": "2026-10-28T12:28:34+00:00",
-        "source": "Defense News",
+        "title": "Startup Biosphere wins Pentagon contract to scale up production of key chemicals",
+        "url": "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals",
+        "publishedAt": "2026-10-28T13:36:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
@@ -730,7 +730,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-15"
+    "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
