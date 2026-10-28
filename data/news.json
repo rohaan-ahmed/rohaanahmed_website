@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-28T10:00:32+00:00",
+  "generatedAt": "2026-10-28T11:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-28T10:00:32+00:00",
+      "updatedAt": "2026-10-28T11:00:31+00:00",
       "stories": [
+        {
+          "title": "Black holes can split in two — but only if they spin at extreme speeds",
+          "url": "https://www.space.com/astronomy/black-holes/black-holes-can-split-in-two-but-only-if-they-spin-at-extreme-speeds",
+          "publishedAt": "2026-10-28T10:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Ukrainian startup, GomSpace test satellite for future communications network",
           "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network",
@@ -46,12 +52,6 @@
           "title": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart",
           "url": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart",
           "publishedAt": "2026-10-27T19:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
-          "publishedAt": "2026-10-27T18:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-28T10:00:32+00:00",
+      "updatedAt": "2026-10-28T11:00:31+00:00",
       "stories": [
         {
           "title": "SpaceX will offer Starlink Mobile to any Canadian carrier",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-28T10:00:32+00:00",
+      "updatedAt": "2026-10-28T11:00:31+00:00",
       "stories": [
         {
           "title": "Operation NANOOK‑TATIGIIT Strengthens Whole‑of‑Government Crisis Response in the Arctic",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-28T10:00:32+00:00",
+      "updatedAt": "2026-10-28T11:00:31+00:00",
       "stories": [
         {
           "title": "Australia pushes to beef up air defenses",
@@ -326,8 +326,26 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-28T10:00:32+00:00",
+      "updatedAt": "2026-10-28T11:00:31+00:00",
       "stories": [
+        {
+          "title": "Genie 4 brings sound and interactivity to AI worlds",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+          "publishedAt": "2026-10-28T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic starts developing its own drugs",
+          "url": "https://www.anthropic.com/research/early-progress-drug-development",
+          "publishedAt": "2026-10-28T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Axiom’s AI swarm checks math’s longest proof",
+          "url": "https://axiommath.ai/research/the-enormous-theorem-formalized",
+          "publishedAt": "2026-10-28T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
           "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
@@ -395,35 +413,17 @@
           "source": "TLDR AI"
         },
         {
-          "title": "Kimi continues to challenge the frontier with K3.1 Pro",
-          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-          "publishedAt": "2026-10-26T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Canva’s first in-house image model climbs the ranks",
-          "url": "https://www.canva.com/newsroom/news/canva-craft",
-          "publishedAt": "2026-10-26T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
           "title": "Dessa - the Conversation Model trained only on speech (15 minute read)",
           "url": "https://block.xyz/dessa",
           "publishedAt": "2026-10-26T00:00:00+00:00",
           "source": "TLDR AI"
-        },
-        {
-          "title": "What the “SaaS is dead” narrative misses",
-          "url": "https://www.sap.com/events/teched.html",
-          "publishedAt": "2026-10-25T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-28T10:00:32+00:00",
+      "updatedAt": "2026-10-28T11:00:31+00:00",
       "stories": [
         {
           "title": "ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
@@ -519,22 +519,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-28T10:00:32+00:00",
+    "updatedAt": "2026-10-28T11:00:31+00:00",
     "stories": [
       {
-        "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-        "publishedAt": "2026-10-28T01:15:28+00:00",
-        "source": "TechCrunch AI",
+        "title": "Genie 4 brings sound and interactivity to AI worlds",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+        "publishedAt": "2026-10-28T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
-        "publishedAt": "2026-10-27T23:34:27+00:00",
-        "source": "TechCrunch AI",
+        "title": "Anthropic starts developing its own drugs",
+        "url": "https://www.anthropic.com/research/early-progress-drug-development",
+        "publishedAt": "2026-10-28T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -549,10 +549,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Ukrainian startup, GomSpace test satellite for future communications network",
-        "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network",
-        "publishedAt": "2026-10-27T20:21:30+00:00",
-        "source": "SpaceNews",
+        "title": "Black holes can split in two — but only if they spin at extreme speeds",
+        "url": "https://www.space.com/astronomy/black-holes/black-holes-can-split-in-two-but-only-if-they-spin-at-extreme-speeds",
+        "publishedAt": "2026-10-28T10:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -585,6 +585,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Axiom’s AI swarm checks math’s longest proof",
+        "url": "https://axiommath.ai/research/the-enormous-theorem-formalized",
+        "publishedAt": "2026-10-28T10:00:00+00:00",
+        "source": "The Rundown AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "If Canada picks the Gripen fighter, these local firms would help Saab deliver the jets",
         "url": "https://www.defensenews.com/global/europe/2026/10/28/if-canada-picks-the-gripen-fighter-these-local-firms-would-help-saab-deliver-the-jets",
         "publishedAt": "2026-10-28T08:43:30+00:00",
@@ -594,21 +603,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
-        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca",
-        "publishedAt": "2026-10-28T05:39:46+00:00",
-        "source": "NASA",
+        "title": "Ukrainian startup, GomSpace test satellite for future communications network",
+        "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network",
+        "publishedAt": "2026-10-27T20:21:30+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "U.S. Ambassador Hoekstra makes the case for Canada’s sovereign push",
-        "url": "https://spaceq.ca/hoekstra-canada-sovereign-space-push",
-        "publishedAt": "2026-10-27T15:35:18+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
