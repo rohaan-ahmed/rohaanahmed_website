@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-10-29T17:00:30+00:00",
+  "generatedAt": "2026-10-29T18:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-29T17:00:30+00:00",
+      "updatedAt": "2026-10-29T18:00:31+00:00",
       "stories": [
         {
           "title": "Advice for optimizing the space industry with Laura Crabtree",
           "url": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree",
           "publishedAt": "2026-10-29T15:01:09+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "NIH–NASA QuSAFE Challenge",
+          "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge",
+          "publishedAt": "2026-10-29T17:44:37+00:00",
+          "source": "NASA"
         },
         {
           "title": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
@@ -34,12 +40,6 @@
           "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
           "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission",
           "publishedAt": "2026-10-29T15:10:18+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
-          "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing",
-          "publishedAt": "2026-10-29T15:06:40+00:00",
           "source": "NASA"
         },
         {
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-29T17:00:30+00:00",
+      "updatedAt": "2026-10-29T18:00:31+00:00",
       "stories": [
+        {
+          "title": "CSA opens bids on two RADARSAT+ pathfinder radar missions",
+          "url": "https://spaceq.ca/radarsat-plus-pathfinder-ku-band-x-band-bids",
+          "publishedAt": "2026-10-29T17:42:39+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Hire for the gap, not the title",
           "url": "https://spaceq.ca/startup-job-description-hire-for-the-gap",
@@ -168,25 +174,13 @@
           "url": "https://spaceq.ca/the-weekly-close-october-23-2026",
           "publishedAt": "2026-10-24T14:28:00+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "Photon-IV wins STDP award for AI that times satellite passes",
-          "url": "https://spaceq.ca/photon-iv-stdp-award-ai-satellite-passes",
-          "publishedAt": "2026-10-23T15:42:22+00:00",
-          "source": "SpaceQ"
-        },
-        {
-          "title": "Minister Joly to speak at SpaceBound 2026",
-          "url": "https://www.canada.ca/en/space-agency/news/2026/10/minister-joly-to-speak-at-spacebound-2026.html",
-          "publishedAt": "2026-10-19T17:49:59+00:00",
-          "source": "Canadian Space Agency"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-29T17:00:30+00:00",
+      "updatedAt": "2026-10-29T18:00:31+00:00",
       "stories": [
         {
           "title": "Canada hosts 28th ASEAN Regional Forum Heads of Defence Universities, Colleges, Institutions Meeting",
@@ -235,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-29T17:00:30+00:00",
+      "updatedAt": "2026-10-29T18:00:31+00:00",
       "stories": [
         {
           "title": "US, Japan reach agreements for AMRAAM assembly, SM-3 production boost: Japanese MoD",
@@ -332,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-29T17:00:30+00:00",
+      "updatedAt": "2026-10-29T18:00:31+00:00",
       "stories": [
         {
           "title": "Google’s Carbon takes the benchmark crown (for now)",
@@ -347,7 +341,13 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "U.S. investigated Chinese spy plot aimed at Nvidia CEO",
+          "title": "Granola crunches up a dictation feature to compete with Wispr",
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
+          "publishedAt": "2026-10-29T17:54:38+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
           "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
           "publishedAt": "2026-10-29T16:42:32+00:00",
           "source": "TechCrunch AI"
@@ -356,12 +356,6 @@
           "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
           "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
           "publishedAt": "2026-10-29T16:21:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-          "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round",
-          "publishedAt": "2026-10-29T14:35:26+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -429,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-29T17:00:30+00:00",
+      "updatedAt": "2026-10-29T18:00:31+00:00",
       "stories": [
         {
           "title": "AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026",
@@ -468,6 +462,12 @@
           "source": "The Robot Report"
         },
         {
+          "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+          "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+          "publishedAt": "2026-10-27T16:14:39+00:00",
+          "source": "IEEE Spectrum Robotics"
+        },
+        {
           "title": "Embotech and BMW move 1M vehicles with automated driving technology",
           "url": "https://www.therobotreport.com/embotech-bmw-move-1m-vehicles-automated-driving-technology",
           "publishedAt": "2026-10-27T12:45:27+00:00",
@@ -483,12 +483,6 @@
           "title": "Bedrock Robotics nears $1B in total funding as demand for autonomous heavy equipment surges",
           "url": "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges",
           "publishedAt": "2026-10-26T21:15:00+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "OMRON to acquire OnLogic to address edge AI applications",
-          "url": "https://www.therobotreport.com/omron-acquires-onlogic-address-edge-ai-applications",
-          "publishedAt": "2026-10-26T20:13:13+00:00",
           "source": "The Robot Report"
         },
         {
@@ -525,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-29T17:00:30+00:00",
+    "updatedAt": "2026-10-29T18:00:31+00:00",
     "stories": [
       {
         "title": "Google’s Carbon takes the benchmark crown (for now)",
@@ -546,9 +540,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Hire for the gap, not the title",
-        "url": "https://spaceq.ca/startup-job-description-hire-for-the-gap",
-        "publishedAt": "2026-10-29T16:11:27+00:00",
+        "title": "CSA opens bids on two RADARSAT+ pathfinder radar missions",
+        "url": "https://spaceq.ca/radarsat-plus-pathfinder-ku-band-x-band-bids",
+        "publishedAt": "2026-10-29T17:42:39+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -591,6 +585,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Hire for the gap, not the title",
+        "url": "https://spaceq.ca/startup-job-description-hire-for-the-gap",
+        "publishedAt": "2026-10-29T16:11:27+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "In Arctic, US Army researchers test camo that could adapt to changing landscapes",
         "url": "https://www.defensenews.com/industry/techwatch/2026/10/29/in-arctic-us-army-researchers-test-camo-that-could-adapt-to-changing-landscapes",
         "publishedAt": "2026-10-29T16:30:28+00:00",
@@ -604,15 +607,6 @@
         "url": "https://www.defensenews.com/pentagon/2026/10/29/pentagon-treating-military-base-freezer-malfunctions-as-suspected-cyberattack-officials-say",
         "publishedAt": "2026-10-29T16:26:56+00:00",
         "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Giving counter-UAS operators 75 km of advance warning throws the advantage to them",
-        "url": "https://breakingdefense.com/2026/10/giving-counter-uas-operators-75-km-of-advance-warning-throws-the-advantage-to-them",
-        "publishedAt": "2026-10-29T15:00:14+00:00",
-        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
