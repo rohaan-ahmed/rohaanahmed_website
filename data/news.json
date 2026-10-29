@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-29T13:00:31+00:00",
+  "generatedAt": "2026-10-29T14:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-29T13:00:31+00:00",
+      "updatedAt": "2026-10-29T14:00:31+00:00",
       "stories": [
+        {
+          "title": "SpaceX fires up Starship upper stage ahead of landmark Flight 15 test launch (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video",
+          "publishedAt": "2026-10-29T13:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
+          "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers",
+          "publishedAt": "2026-10-29T13:27:34+00:00",
+          "source": "NASA"
+        },
         {
           "title": "Stunning solar eclipse photos reveal giant hole and mysterious 'smoke rings' in the sun's atmosphere",
           "url": "https://www.space.com/stargazing/solar-eclipses/stunning-solar-eclipse-photos-reveal-giant-hole-and-mysterious-smoke-rings-in-the-suns-atmosphere",
@@ -35,18 +47,6 @@
           "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india",
           "publishedAt": "2026-10-29T04:01:00+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
-          "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy",
-          "publishedAt": "2026-10-29T02:49:59+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "On this day in space! Oct. 28, 1971: Britain launches its 1st satellite Prospero into space on a Black Arrow rocket",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-28-2026",
-          "publishedAt": "2026-10-28T23:02:12+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Ukrainian startup, GomSpace test satellite for future communications network",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-29T13:00:31+00:00",
+      "updatedAt": "2026-10-29T14:00:31+00:00",
       "stories": [
         {
           "title": "CSA issues RFP for three priority technologies",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-29T13:00:31+00:00",
+      "updatedAt": "2026-10-29T14:00:31+00:00",
       "stories": [
         {
           "title": "Canada hosts 28th ASEAN Regional Forum Heads of Defence Universities, Colleges, Institutions Meeting",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-29T13:00:31+00:00",
+      "updatedAt": "2026-10-29T14:00:31+00:00",
       "stories": [
         {
           "title": "Pentagon will pick new US base location by June 2027, prioritizing 4 requirements",
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-29T13:00:31+00:00",
+      "updatedAt": "2026-10-29T14:00:31+00:00",
       "stories": [
         {
           "title": "Google’s Carbon takes the benchmark crown (for now)",
@@ -347,15 +347,57 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-          "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion",
-          "publishedAt": "2026-10-28T21:58:32+00:00",
+          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt (14 minute read)",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "publishedAt": "2026-10-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Building an Inference Stack That Improves Itself (20 minute read)",
+          "url": "https://x.com/DecagonAI/status/2115511110120120437",
+          "publishedAt": "2026-10-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Artificial Analysis v5 and the benchmarker's dilemma (11 minute read)",
+          "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+          "publishedAt": "2026-10-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5 (9 minute read)",
+          "url": "https://divagr.com/blog/qwenputer",
+          "publishedAt": "2026-10-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Vercel CI (2 minute read)",
+          "url": "https://vercel.com/blog/introducing-vercel-ci",
+          "publishedAt": "2026-10-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Route and orchestrate models with GitHub Copilot Fusion (2 minute read)",
+          "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+          "publishedAt": "2026-10-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+          "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure",
+          "publishedAt": "2026-10-29T13:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "Google expands AI Search ads globally as core ad growth slows",
-          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
-          "publishedAt": "2026-10-28T21:48:37+00:00",
+          "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+          "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions",
+          "publishedAt": "2026-10-29T13:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion",
+          "publishedAt": "2026-10-28T21:58:32+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -377,48 +419,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-          "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai",
-          "publishedAt": "2026-10-28T21:34:30+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Liquid AI Launches LFM3 Models for On Device AI (27 minute read)",
-          "url": "https://www.liquid.ai/blog/lfm3",
-          "publishedAt": "2026-10-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Anthropic Versus Anthropic (17 minute read)",
-          "url": "https://thezvi.wordpress.com/2026/10/27/anthropic-versus-anthropic",
-          "publishedAt": "2026-10-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Where are the world's AI chips? (1 minute read)",
-          "url": "https://epoch.ai/latest/introducing-the-ai-chip-imports-explorer",
-          "publishedAt": "2026-10-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Proactive Video Agents (22 minute read)",
-          "url": "https://arxiv.org/abs/2610.34662",
-          "publishedAt": "2026-10-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning (11 minute read)",
-          "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
-          "publishedAt": "2026-10-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "FrontierCode 2.0 (13 minute read)",
-          "url": "https://cognition.com/blog/frontier-code-2.0",
-          "publishedAt": "2026-10-28T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Anthropic officially files to go public",
           "url": "https://www.anthropic.com/news/s1-sec",
           "publishedAt": "2026-10-27T10:00:00+00:00",
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-29T13:00:31+00:00",
+      "updatedAt": "2026-10-29T14:00:31+00:00",
       "stories": [
         {
           "title": "North American robot orders climb 24.8% in Q3 of 2026, says A3",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-29T13:00:31+00:00",
+    "updatedAt": "2026-10-29T14:00:31+00:00",
     "stories": [
       {
         "title": "Google’s Carbon takes the benchmark crown (for now)",
@@ -555,9 +555,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Stunning solar eclipse photos reveal giant hole and mysterious 'smoke rings' in the sun's atmosphere",
-        "url": "https://www.space.com/stargazing/solar-eclipses/stunning-solar-eclipse-photos-reveal-giant-hole-and-mysterious-smoke-rings-in-the-suns-atmosphere",
-        "publishedAt": "2026-10-29T12:00:00+00:00",
+        "title": "SpaceX fires up Starship upper stage ahead of landmark Flight 15 test launch (video)",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video",
+        "publishedAt": "2026-10-29T13:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -609,12 +609,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "After Vucic ouster, Serbia’s weapons-buying habits are under the microscope",
-        "url": "https://www.defensenews.com/global/europe/2026/10/29/after-vucic-ouster-serbias-weapons-buying-habits-are-under-the-microscope",
-        "publishedAt": "2026-10-29T08:53:25+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt (14 minute read)",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+        "publishedAt": "2026-10-29T00:00:00+00:00",
+        "source": "TLDR AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
