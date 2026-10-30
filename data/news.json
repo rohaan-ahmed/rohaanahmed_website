@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T01:00:31+00:00",
+  "generatedAt": "2026-10-30T02:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-30T01:00:31+00:00",
+      "updatedAt": "2026-10-30T02:00:28+00:00",
       "stories": [
         {
           "title": "Advice for optimizing the space industry with Laura Crabtree",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-30T01:00:31+00:00",
+      "updatedAt": "2026-10-30T02:00:28+00:00",
       "stories": [
         {
           "title": "EarthDaily wins $4.3M NASA task order to test its data against Landsat",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-30T01:00:31+00:00",
+      "updatedAt": "2026-10-30T02:00:28+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to highlight Canada’s defence industry during Canada-EU Summit",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-30T01:00:31+00:00",
+      "updatedAt": "2026-10-30T02:00:28+00:00",
       "stories": [
         {
           "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
@@ -332,8 +332,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-30T01:00:31+00:00",
+      "updatedAt": "2026-10-30T02:00:28+00:00",
       "stories": [
+        {
+          "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+          "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
+          "publishedAt": "2026-10-30T01:20:48+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
           "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
@@ -365,40 +371,16 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt (14 minute read)",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "publishedAt": "2026-10-29T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "OpenAI-backed Thrive Holdings acquires ADT",
+          "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
+          "publishedAt": "2026-10-29T19:56:19+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Building an Inference Stack That Improves Itself (20 minute read)",
-          "url": "https://x.com/DecagonAI/status/2115511110120120437",
-          "publishedAt": "2026-10-29T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Artificial Analysis v5 and the benchmarker's dilemma (11 minute read)",
-          "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
-          "publishedAt": "2026-10-29T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5 (9 minute read)",
-          "url": "https://divagr.com/blog/qwenputer",
-          "publishedAt": "2026-10-29T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Introducing Vercel CI (2 minute read)",
-          "url": "https://vercel.com/blog/introducing-vercel-ci",
-          "publishedAt": "2026-10-29T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Route and orchestrate models with GitHub Copilot Fusion (2 minute read)",
-          "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-          "publishedAt": "2026-10-29T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Meta quietly launches an AI fashion app called Style Sketch",
+          "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch",
+          "publishedAt": "2026-10-29T19:14:36+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Genie 4 brings sound and interactivity to AI worlds",
@@ -423,13 +405,31 @@
           "url": "https://www.anthropic.com/news/s1-sec",
           "publishedAt": "2026-10-27T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI’s next batch of AI science discoveries arrives",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "publishedAt": "2026-10-27T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI’s new Terra cuts the cost of AI computer use",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "publishedAt": "2026-10-27T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Kimi continues to challenge the frontier with K3.1 Pro",
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "publishedAt": "2026-10-26T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-30T01:00:31+00:00",
+      "updatedAt": "2026-10-30T02:00:28+00:00",
       "stories": [
         {
           "title": "White House makes Section 232 determination regarding foreign-made robots",
@@ -525,22 +525,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-30T01:00:31+00:00",
+    "updatedAt": "2026-10-30T02:00:28+00:00",
     "stories": [
       {
-        "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
-        "publishedAt": "2026-10-29T23:42:22+00:00",
+        "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+        "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
+        "publishedAt": "2026-10-30T01:20:48+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Google’s Carbon takes the benchmark crown (for now)",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon",
-        "publishedAt": "2026-10-29T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+        "publishedAt": "2026-10-29T23:42:22+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -730,6 +730,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-02"
   ]
 }
