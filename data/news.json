@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T03:00:32+00:00",
+  "generatedAt": "2026-10-30T04:00:26+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-30T03:00:32+00:00",
+      "updatedAt": "2026-10-30T04:00:26+00:00",
       "stories": [
         {
           "title": "Advice for optimizing the space industry with Laura Crabtree",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-30T03:00:32+00:00",
+      "updatedAt": "2026-10-30T04:00:26+00:00",
       "stories": [
         {
           "title": "EarthDaily wins $4.3M NASA task order to test its data against Landsat",
@@ -168,13 +168,13 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-30T03:00:32+00:00",
+      "updatedAt": "2026-10-30T04:00:26+00:00",
       "stories": []
     },
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-30T03:00:32+00:00",
+      "updatedAt": "2026-10-30T04:00:26+00:00",
       "stories": [
         {
           "title": "Hasty US exit from Europe could drive allies away from American arms, RAND says",
@@ -271,7 +271,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-30T03:00:32+00:00",
+      "updatedAt": "2026-10-30T04:00:26+00:00",
       "stories": [
         {
           "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
@@ -368,7 +368,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-30T03:00:32+00:00",
+      "updatedAt": "2026-10-30T04:00:26+00:00",
       "stories": [
         {
           "title": "White House makes Section 232 determination regarding foreign-made robots",
@@ -464,7 +464,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-30T03:00:32+00:00",
+    "updatedAt": "2026-10-30T04:00:26+00:00",
     "stories": [
       {
         "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
@@ -669,8 +669,8 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
-    "National Defence: 502 Server Error: Bad Gateway for url: https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentnationaldefense&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=National%20Defence",
-    "Canadian Space Agency: 502 Server Error: Bad Gateway for url: https://api.io.canada.ca/io-server/gc/news/en/v2?dept=spaceagency&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Canadian%20Space%20Agency"
+    "National Defence: 404 Client Error: Not Found for url: https://api.io.canada.ca/404",
+    "Canadian Space Agency: 404 Client Error: Not Found for url: https://api.io.canada.ca/404",
+    "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
