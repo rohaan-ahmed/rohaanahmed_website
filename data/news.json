@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-10-30T19:00:33+00:00",
+  "generatedAt": "2026-10-30T20:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-30T19:00:33+00:00",
+      "updatedAt": "2026-10-30T20:00:31+00:00",
       "stories": [
         {
           "title": "ESI supplying solar array components to missile defense programs",
           "url": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs",
           "publishedAt": "2026-10-30T18:54:34+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "5 horror franchises that went to space... and one that absolutely should have but didn't",
+          "url": "https://www.space.com/entertainment/space-movies-shows/5-horror-franchises-that-went-to-space-and-one-that-absolutely-should-have-but-didnt",
+          "publishedAt": "2026-10-30T19:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+          "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants",
+          "publishedAt": "2026-10-30T19:31:02+00:00",
+          "source": "NASA"
         },
         {
           "title": "The rocket scientist who summoned demons: The true horror story of Jack Parsons",
@@ -43,12 +55,6 @@
           "source": "NASA"
         },
         {
-          "title": "'Star Trek's' William Shatner and George Takei honor the death of Walter Koenig",
-          "url": "https://www.space.com/entertainment/star-treks-william-shatner-and-george-takei-honor-the-death-of-walter-koenig",
-          "publishedAt": "2026-10-30T15:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
           "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope",
           "publishedAt": "2026-10-30T14:51:21+00:00",
@@ -59,12 +65,6 @@
           "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye",
           "publishedAt": "2026-10-30T09:00:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "November’s Night Sky Notes: Light-Day Away",
-          "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away",
-          "publishedAt": "2026-10-30T10:00:00+00:00",
-          "source": "NASA"
         },
         {
           "title": "Advice for optimizing the space industry with Laura Crabtree",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-30T19:00:33+00:00",
+      "updatedAt": "2026-10-30T20:00:31+00:00",
       "stories": [
+        {
+          "title": "Canada-EU summit opens talks on Galileo and IRIS² access",
+          "url": "https://spaceq.ca/canada-eu-summit-galileo-iris2",
+          "publishedAt": "2026-10-30T19:23:28+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Joshua Kutryk’s first spacewalk adds a new solar array to the ISS",
           "url": "https://spaceq.ca/joshua-kutryk-first-spacewalk-solar-array",
@@ -170,12 +176,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "SpaceX Q3 2026: AI passes Starlink as SpaceX turns a profit",
-          "url": "https://spaceq.ca/spacex-q3-2026-ai-passes-starlink-profit",
-          "publishedAt": "2026-10-26T11:18:05+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Media invited to witness CSA astronaut Joshua Kutryk’s first spacewalk",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/media-invited-to-witness-csa-astronaut-joshua-kutryks-first-spacewalk.html",
           "publishedAt": "2026-10-26T16:01:08+00:00",
@@ -186,8 +186,20 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-30T19:00:33+00:00",
+      "updatedAt": "2026-10-30T20:00:31+00:00",
       "stories": [
+        {
+          "title": "Minister McGuinty strengthens Canada-EU defence and industrial cooperation at Summit",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/minister-mcguinty-strengthens-canada-eu-defence-and-industrial-cooperation-at-summit.html",
+          "publishedAt": "2026-10-30T19:07:12+00:00",
+          "source": "National Defence"
+        },
+        {
+          "title": "Operation BOXTOP Marks Successful Resupply Mission to Canadian Forces Station Alert",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/operation-boxtop-marks-successful-resupply-mission-to-canadian-forces-station-alert.html",
+          "publishedAt": "2026-10-30T18:46:10+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "National Defence to hold public engagement session in Iqaluit, Nunavut",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/national-defence-to-hold-public-engagement-session-in-iqaluit-nunavut.html",
@@ -247,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-30T19:00:33+00:00",
+      "updatedAt": "2026-10-30T20:00:31+00:00",
       "stories": [
         {
           "title": "Bilateral no more: PACOM officials highlight multi-national data sharing network",
@@ -344,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-30T19:00:33+00:00",
+      "updatedAt": "2026-10-30T20:00:31+00:00",
       "stories": [
         {
           "title": "Report: Nvidia CEO targeted by alleged Chinese spy",
@@ -441,8 +453,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-30T19:00:33+00:00",
+      "updatedAt": "2026-10-30T20:00:31+00:00",
       "stories": [
+        {
+          "title": "Percepto launches Axion AI platform to unify inspection data analysis",
+          "url": "https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis",
+          "publishedAt": "2026-10-30T19:05:34+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Humanoid developer Agility now expects to raise $465M in SPAC deal",
           "url": "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal",
@@ -450,7 +468,7 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Video Friday: Spot Plays to Show Its Whole Body Manipulation",
+          "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
           "url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
           "publishedAt": "2026-10-30T16:30:03+00:00",
           "source": "IEEE Spectrum Robotics"
@@ -504,12 +522,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions",
-          "url": "https://www.therobotreport.com/worldoracle-tests-whether-world-models-can-reliably-predict-real-world-executions",
-          "publishedAt": "2026-10-28T13:44:31+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
           "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
           "publishedAt": "2026-10-27T16:14:39+00:00",
@@ -537,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-30T19:00:33+00:00",
+    "updatedAt": "2026-10-30T20:00:31+00:00",
     "stories": [
       {
         "title": "Report: Nvidia CEO targeted by alleged Chinese spy",
@@ -558,9 +570,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Joshua Kutryk’s first spacewalk adds a new solar array to the ISS",
-        "url": "https://spaceq.ca/joshua-kutryk-first-spacewalk-solar-array",
-        "publishedAt": "2026-10-30T16:08:47+00:00",
+        "title": "Canada-EU summit opens talks on Galileo and IRIS² access",
+        "url": "https://spaceq.ca/canada-eu-summit-galileo-iris2",
+        "publishedAt": "2026-10-30T19:23:28+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -576,9 +588,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "National Defence to hold public engagement session in Iqaluit, Nunavut",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/national-defence-to-hold-public-engagement-session-in-iqaluit-nunavut.html",
-        "publishedAt": "2026-10-30T18:36:46+00:00",
+        "title": "Minister McGuinty strengthens Canada-EU defence and industrial cooperation at Summit",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/minister-mcguinty-strengthens-canada-eu-defence-and-industrial-cooperation-at-summit.html",
+        "publishedAt": "2026-10-30T19:07:12+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
@@ -594,13 +606,22 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Humanoid developer Agility now expects to raise $465M in SPAC deal",
-        "url": "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal",
-        "publishedAt": "2026-10-30T16:19:16+00:00",
+        "title": "Percepto launches Axion AI platform to unify inspection data analysis",
+        "url": "https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis",
+        "publishedAt": "2026-10-30T19:05:34+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Joshua Kutryk’s first spacewalk adds a new solar array to the ISS",
+        "url": "https://spaceq.ca/joshua-kutryk-first-spacewalk-solar-array",
+        "publishedAt": "2026-10-30T16:08:47+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Pentagon reveals FY26 intelligence budget at $30.9 billion",
@@ -616,15 +637,6 @@
         "url": "https://www.defensenews.com/global/europe/2026/10/30/open-the-hives-why-france-is-turning-tank-gunners-into-fpv-pilots",
         "publishedAt": "2026-10-30T17:57:48+00:00",
         "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "New UK policy requires foreign defense contractors to invest locally for all £50M+ deals",
-        "url": "https://breakingdefense.com/2026/10/new-uk-policy-requires-foreign-defense-contractors-to-invest-locally-for-all-50m-deals",
-        "publishedAt": "2026-10-30T16:45:00+00:00",
-        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
