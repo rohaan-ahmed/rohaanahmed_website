@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-30T12:00:32+00:00",
+  "generatedAt": "2026-10-30T13:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-30T12:00:32+00:00",
+      "updatedAt": "2026-10-30T13:00:29+00:00",
       "stories": [
+        {
+          "title": "Watch Virgin Galactic's new 'Delta-class' space plane take to the skies for the 1st time (video)",
+          "url": "https://www.space.com/space-exploration/private-spaceflight/watch-virgin-galactics-new-delta-class-space-plane-take-to-the-skies-for-the-1st-time-video",
+          "publishedAt": "2026-10-30T12:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "China's secretive space plane is flying over the US this week — here's how to see it for yourself",
           "url": "https://www.space.com/stargazing/chinas-secretive-space-plane-is-flying-over-the-us-this-week-heres-how-to-spot-it",
@@ -47,12 +53,6 @@
           "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright",
           "publishedAt": "2026-10-30T04:01:00+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
-          "url": "https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86",
-          "publishedAt": "2026-10-29T23:49:50+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-30T12:00:32+00:00",
+      "updatedAt": "2026-10-30T13:00:29+00:00",
       "stories": [
         {
           "title": "EarthDaily wins $4.3M NASA task order to test its data against Landsat",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-30T12:00:32+00:00",
+      "updatedAt": "2026-10-30T13:00:29+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to highlight Canada’s defence industry during Canada-EU Summit",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-30T12:00:32+00:00",
+      "updatedAt": "2026-10-30T13:00:29+00:00",
       "stories": [
         {
           "title": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-30T12:00:32+00:00",
+      "updatedAt": "2026-10-30T13:00:29+00:00",
       "stories": [
         {
           "title": "Report: Nvidia CEO targeted by alleged Chinese spy",
@@ -345,6 +345,12 @@
           "url": "https://safeguards.anthropic.com/2026/self-assessment",
           "publishedAt": "2026-10-30T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+          "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
+          "publishedAt": "2026-10-30T13:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
@@ -371,28 +377,40 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
-          "publishedAt": "2026-10-29T20:08:31+00:00",
-          "source": "TechCrunch AI"
+          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt (14 minute read)",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "publishedAt": "2026-10-29T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Rivian expands joint venture with VW to include AI assistant",
-          "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant",
-          "publishedAt": "2026-10-29T20:05:47+00:00",
-          "source": "TechCrunch AI"
+          "title": "Building an Inference Stack That Improves Itself (20 minute read)",
+          "url": "https://x.com/DecagonAI/status/2115511110120120437",
+          "publishedAt": "2026-10-29T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "OpenAI-backed Thrive Holdings acquires ADT",
-          "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
-          "publishedAt": "2026-10-29T19:56:19+00:00",
-          "source": "TechCrunch AI"
+          "title": "Artificial Analysis v5 and the benchmarker's dilemma (11 minute read)",
+          "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+          "publishedAt": "2026-10-29T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Meta quietly launches an AI fashion app called Style Sketch",
-          "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch",
-          "publishedAt": "2026-10-29T19:14:36+00:00",
-          "source": "TechCrunch AI"
+          "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5 (9 minute read)",
+          "url": "https://divagr.com/blog/qwenputer",
+          "publishedAt": "2026-10-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Vercel CI (2 minute read)",
+          "url": "https://vercel.com/blog/introducing-vercel-ci",
+          "publishedAt": "2026-10-29T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Route and orchestrate models with GitHub Copilot Fusion (2 minute read)",
+          "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+          "publishedAt": "2026-10-29T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Genie 4 brings sound and interactivity to AI worlds",
@@ -405,32 +423,20 @@
           "url": "https://www.anthropic.com/research/early-progress-drug-development",
           "publishedAt": "2026-10-28T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Axiom’s AI swarm checks math’s longest proof",
-          "url": "https://axiommath.ai/research/the-enormous-theorem-formalized",
-          "publishedAt": "2026-10-28T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic officially files to go public",
-          "url": "https://www.anthropic.com/news/s1-sec",
-          "publishedAt": "2026-10-27T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s next batch of AI science discoveries arrives",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-          "publishedAt": "2026-10-27T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-30T12:00:32+00:00",
+      "updatedAt": "2026-10-30T13:00:29+00:00",
       "stories": [
+        {
+          "title": "RoboBusiness 2026 recap",
+          "url": "https://www.therobotreport.com/robobusiness-2026-recap",
+          "publishedAt": "2026-10-30T12:30:02+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "White House makes Section 232 determination regarding foreign-made robots",
           "url": "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots",
@@ -480,15 +486,15 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
-          "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
-          "publishedAt": "2026-10-27T16:14:39+00:00",
-          "source": "IEEE Spectrum Robotics"
-        },
-        {
           "title": "Embotech and BMW move 1M vehicles with automated driving technology",
           "url": "https://www.therobotreport.com/embotech-bmw-move-1m-vehicles-automated-driving-technology",
           "publishedAt": "2026-10-27T12:45:27+00:00",
+          "source": "The Robot Report"
+        },
+        {
+          "title": "Xpanner launches autonomous pile driver for solar farm contruction",
+          "url": "https://www.therobotreport.com/xpanner-launches-new-autonomous-pile-driver-solar-farm-contruction",
+          "publishedAt": "2026-10-27T11:44:30+00:00",
           "source": "The Robot Report"
         },
         {
@@ -514,18 +520,12 @@
           "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era",
           "publishedAt": "2026-10-20T16:20:06+00:00",
           "source": "TechCrunch Robotics"
-        },
-        {
-          "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
-          "publishedAt": "2026-10-20T13:00:00+00:00",
-          "source": "TechCrunch Robotics"
         }
       ]
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-30T12:00:32+00:00",
+    "updatedAt": "2026-10-30T13:00:29+00:00",
     "stories": [
       {
         "title": "Report: Nvidia CEO targeted by alleged Chinese spy",
@@ -555,9 +555,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "China's secretive space plane is flying over the US this week — here's how to see it for yourself",
-        "url": "https://www.space.com/stargazing/chinas-secretive-space-plane-is-flying-over-the-us-this-week-heres-how-to-spot-it",
-        "publishedAt": "2026-10-30T11:45:42+00:00",
+        "title": "Watch Virgin Galactic's new 'Delta-class' space plane take to the skies for the 1st time (video)",
+        "url": "https://www.space.com/space-exploration/private-spaceflight/watch-virgin-galactics-new-delta-class-space-plane-take-to-the-skies-for-the-1st-time-video",
+        "publishedAt": "2026-10-30T12:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -582,37 +582,37 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "White House makes Section 232 determination regarding foreign-made robots",
-        "url": "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots",
-        "publishedAt": "2026-10-29T20:46:53+00:00",
+        "title": "RoboBusiness 2026 recap",
+        "url": "https://www.therobotreport.com/robobusiness-2026-recap",
+        "publishedAt": "2026-10-30T12:30:02+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
       },
       {
-        "title": "Earth from Space: Champi’s eerie eye",
-        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye",
-        "publishedAt": "2026-10-30T09:00:00+00:00",
-        "source": "European Space Agency",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+        "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
+        "publishedAt": "2026-10-30T13:00:00+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Think Halloween is scary? This scorched alien world is a real-life cosmic horror story",
-        "url": "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story",
-        "publishedAt": "2026-10-30T10:00:00+00:00",
+        "title": "China's secretive space plane is flying over the US this week — here's how to see it for yourself",
+        "url": "https://www.space.com/stargazing/chinas-secretive-space-plane-is-flying-over-the-us-this-week-heres-how-to-spot-it",
+        "publishedAt": "2026-10-30T11:45:42+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "November’s Night Sky Notes: Light-Day Away",
-        "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away",
-        "publishedAt": "2026-10-30T10:00:00+00:00",
-        "source": "NASA",
+        "title": "Earth from Space: Champi’s eerie eye",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye",
+        "publishedAt": "2026-10-30T09:00:00+00:00",
+        "source": "European Space Agency",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -730,7 +730,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-16",
     "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
