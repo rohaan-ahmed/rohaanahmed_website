@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-10-30T20:00:31+00:00",
+  "generatedAt": "2026-10-30T21:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-30T20:00:31+00:00",
+      "updatedAt": "2026-10-30T21:00:30+00:00",
       "stories": [
         {
           "title": "ESI supplying solar array components to missile defense programs",
           "url": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs",
           "publishedAt": "2026-10-30T18:54:34+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "India launches next-gen navigation satellite to orbit (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
+          "publishedAt": "2026-10-30T20:29:58+00:00",
+          "source": "Space.com"
         },
         {
           "title": "5 horror franchises that went to space... and one that absolutely should have but didn't",
@@ -41,12 +47,6 @@
           "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026",
           "publishedAt": "2026-10-30T14:15:00+00:00",
           "source": "European Space Agency"
-        },
-        {
-          "title": "The Taurid meteor shower isn't much to look at. That's why I love it",
-          "url": "https://www.space.com/stargazing/meteor-showers/the-taurid-meteor-shower-isnt-much-to-look-at-thats-why-i-love-it",
-          "publishedAt": "2026-10-30T16:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-30T20:00:31+00:00",
+      "updatedAt": "2026-10-30T21:00:30+00:00",
       "stories": [
         {
           "title": "Canada-EU summit opens talks on Galileo and IRIS² access",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-30T20:00:31+00:00",
+      "updatedAt": "2026-10-30T21:00:30+00:00",
       "stories": [
         {
           "title": "Minister McGuinty strengthens Canada-EU defence and industrial cooperation at Summit",
@@ -259,8 +259,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-30T20:00:31+00:00",
+      "updatedAt": "2026-10-30T21:00:30+00:00",
       "stories": [
+        {
+          "title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies",
+          "url": "https://breakingdefense.com/2026/10/us-greenlights-500-patriot-missiles-for-ukraine-with-2-1-billion-to-be-paid-by-allies",
+          "publishedAt": "2026-10-30T20:17:22+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Bilateral no more: PACOM officials highlight multi-national data sharing network",
           "url": "https://breakingdefense.com/2026/10/bilateral-no-more-pacom-officials-highlight-multi-national-data-sharing-network",
@@ -289,12 +295,6 @@
           "title": "Navy flexes new acquisition muscles with TOTE’s $269M LSM award to Hanwha",
           "url": "https://breakingdefense.com/2026/10/navy-flexes-new-acquisition-muscles-with-totes-269m-lsm-award-to-hanwha",
           "publishedAt": "2026-10-30T16:16:18+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Pentagon eyes ‘public-private partnerships’ to help fund FORTRESS America homeland base plan",
-          "url": "https://breakingdefense.com/2026/10/pentagon-eyes-public-private-partnerships-to-help-fund-fortress-america-homeland-base-plan",
-          "publishedAt": "2026-10-30T15:35:59+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-30T20:00:31+00:00",
+      "updatedAt": "2026-10-30T21:00:30+00:00",
       "stories": [
         {
           "title": "Report: Nvidia CEO targeted by alleged Chinese spy",
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-30T20:00:31+00:00",
+      "updatedAt": "2026-10-30T21:00:30+00:00",
       "stories": [
         {
           "title": "Percepto launches Axion AI platform to unify inspection data analysis",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-30T20:00:31+00:00",
+    "updatedAt": "2026-10-30T21:00:30+00:00",
     "stories": [
       {
         "title": "Report: Nvidia CEO targeted by alleged Chinese spy",
@@ -597,9 +597,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Bilateral no more: PACOM officials highlight multi-national data sharing network",
-        "url": "https://breakingdefense.com/2026/10/bilateral-no-more-pacom-officials-highlight-multi-national-data-sharing-network",
-        "publishedAt": "2026-10-30T17:33:00+00:00",
+        "title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies",
+        "url": "https://breakingdefense.com/2026/10/us-greenlights-500-patriot-missiles-for-ukraine-with-2-1-billion-to-be-paid-by-allies",
+        "publishedAt": "2026-10-30T20:17:22+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -624,19 +624,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Pentagon reveals FY26 intelligence budget at $30.9 billion",
-        "url": "https://breakingdefense.com/2026/10/pentagon-reveals-fy26-intelligence-budget-at-30-9-billion",
-        "publishedAt": "2026-10-30T17:28:09+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "India launches next-gen navigation satellite to orbit (video)",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
+        "publishedAt": "2026-10-30T20:29:58+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "‘Open the hives’ — Why France is turning tank gunners into FPV pilots",
-        "url": "https://www.defensenews.com/global/europe/2026/10/30/open-the-hives-why-france-is-turning-tank-gunners-into-fpv-pilots",
-        "publishedAt": "2026-10-30T17:57:48+00:00",
-        "source": "Defense News",
+        "title": "Bilateral no more: PACOM officials highlight multi-national data sharing network",
+        "url": "https://breakingdefense.com/2026/10/bilateral-no-more-pacom-officials-highlight-multi-national-data-sharing-network",
+        "publishedAt": "2026-10-30T17:33:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
