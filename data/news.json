@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T19:00:30+00:00",
+  "generatedAt": "2026-10-31T20:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-31T19:00:30+00:00",
+      "updatedAt": "2026-10-31T20:00:29+00:00",
       "stories": [
         {
           "title": "9 nightmarish sci-fi spaceships to crawl aboard for Halloween if you dare",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-31T19:00:30+00:00",
+      "updatedAt": "2026-10-31T20:00:29+00:00",
       "stories": [
+        {
+          "title": "MDA lands IRIS² antenna work as space index falls 2.2 per cent",
+          "url": "https://spaceq.ca/the-weekly-close-october-30-2026",
+          "publishedAt": "2026-10-31T19:37:29+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "MDA Space to build IRIS² antennas for Thales Alenia Space",
           "url": "https://spaceq.ca/mda-space-iris2-antennas-thales-alenia-space",
@@ -170,12 +176,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "U.S. Ambassador Hoekstra makes the case for Canada’s sovereign push",
-          "url": "https://spaceq.ca/hoekstra-canada-sovereign-space-push",
-          "publishedAt": "2026-10-27T15:35:18+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Media invited to witness CSA astronaut Joshua Kutryk’s first spacewalk",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/media-invited-to-witness-csa-astronaut-joshua-kutryks-first-spacewalk.html",
           "publishedAt": "2026-10-26T16:01:08+00:00",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-31T19:00:30+00:00",
+      "updatedAt": "2026-10-31T20:00:29+00:00",
       "stories": [
         {
           "title": "Minister McGuinty strengthens Canada-EU defence and industrial cooperation at Summit",
@@ -241,19 +241,13 @@
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/officials-from-the-canadian-armed-forces-to-hold-media-briefing-to-provide-update-on-cfb-wainwright-incident.html",
           "publishedAt": "2026-10-21T20:24:39+00:00",
           "source": "National Defence"
-        },
-        {
-          "title": "Four Canadian Armed Forces members killed during training in CFB Wainwright",
-          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/four-canadian-armed-forces-members-killed-during-training-in-cfb-wainwright.html",
-          "publishedAt": "2026-10-21T19:37:19+00:00",
-          "source": "National Defence"
         }
       ]
     },
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-31T19:00:30+00:00",
+      "updatedAt": "2026-10-31T20:00:29+00:00",
       "stories": [
         {
           "title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies",
@@ -350,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-31T19:00:30+00:00",
+      "updatedAt": "2026-10-31T20:00:29+00:00",
       "stories": [
         {
           "title": "OpenAI reportedly lowers funding target for new round",
@@ -447,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-31T19:00:30+00:00",
+      "updatedAt": "2026-10-31T20:00:29+00:00",
       "stories": [
         {
           "title": "Unusual robotic animals can prove their utility",
@@ -543,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-31T19:00:30+00:00",
+    "updatedAt": "2026-10-31T20:00:29+00:00",
     "stories": [
       {
         "title": "OpenAI reportedly lowers funding target for new round",
@@ -564,9 +558,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "MDA Space to build IRIS² antennas for Thales Alenia Space",
-        "url": "https://spaceq.ca/mda-space-iris2-antennas-thales-alenia-space",
-        "publishedAt": "2026-10-30T21:34:53+00:00",
+        "title": "MDA lands IRIS² antenna work as space index falls 2.2 per cent",
+        "url": "https://spaceq.ca/the-weekly-close-october-30-2026",
+        "publishedAt": "2026-10-31T19:37:29+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -627,9 +621,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Telesat Q3 2026: Lightspeed global service slips to mid-2028",
-        "url": "https://spaceq.ca/telesat-q3-2026-lightspeed-global-service-slips",
-        "publishedAt": "2026-10-30T21:16:07+00:00",
+        "title": "MDA Space to build IRIS² antennas for Thales Alenia Space",
+        "url": "https://spaceq.ca/mda-space-iris2-antennas-thales-alenia-space",
+        "publishedAt": "2026-10-30T21:34:53+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
