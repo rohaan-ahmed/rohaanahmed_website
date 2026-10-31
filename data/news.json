@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-10-30T23:00:29+00:00",
+  "generatedAt": "2026-10-31T00:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-30T23:00:29+00:00",
+      "updatedAt": "2026-10-31T00:00:30+00:00",
       "stories": [
         {
           "title": "ESI supplying solar array components to missile defense programs",
           "url": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs",
           "publishedAt": "2026-10-30T18:54:34+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "The world mourns the passing of 'Star Trek's' Patrick Stewart with a galaxy of tearful tributes",
+          "url": "https://www.space.com/entertainment/the-world-mourns-the-passing-of-star-treks-patrick-stewart-with-a-galaxy-of-tearful-tributes",
+          "publishedAt": "2026-10-30T23:26:14+00:00",
+          "source": "Space.com"
         },
         {
           "title": "An aquanaut comes home: Returning to Earth from an undersea 'space station'",
@@ -22,12 +28,6 @@
           "title": "India launches next-gen navigation satellite to orbit (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
           "publishedAt": "2026-10-30T20:29:58+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "5 horror franchises that went to space... and one that absolutely should have but didn't",
-          "url": "https://www.space.com/entertainment/space-movies-shows/5-horror-franchises-that-went-to-space-and-one-that-absolutely-should-have-but-didnt",
-          "publishedAt": "2026-10-30T19:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-30T23:00:29+00:00",
+      "updatedAt": "2026-10-31T00:00:30+00:00",
       "stories": [
         {
           "title": "MDA Space to build IRIS² antennas for Thales Alenia Space",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-30T23:00:29+00:00",
+      "updatedAt": "2026-10-31T00:00:30+00:00",
       "stories": [
         {
           "title": "Minister McGuinty strengthens Canada-EU defence and industrial cooperation at Summit",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-30T23:00:29+00:00",
+      "updatedAt": "2026-10-31T00:00:30+00:00",
       "stories": [
         {
           "title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-30T23:00:29+00:00",
+      "updatedAt": "2026-10-31T00:00:30+00:00",
       "stories": [
         {
           "title": "Ollie, a privacy-focused AI assistant, is shutting down",
@@ -389,22 +389,40 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Last-minute Halloween costumes for tech nerds",
-          "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds",
-          "publishedAt": "2026-10-30T21:26:59+00:00",
-          "source": "TechCrunch AI"
+          "title": "OpenAI Updates Its Model Spec Around Five Core Values (7 minute read)",
+          "url": "https://openai.com/index/updated-model-spec",
+          "publishedAt": "2026-10-30T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Cracks are emerging in the AI spending boom",
-          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
-          "publishedAt": "2026-10-30T21:17:40+00:00",
-          "source": "TechCrunch AI"
+          "title": "Mistral Releases Weights for Its Trillion-Parameter Model (4 minute read)",
+          "url": "https://mistral.ai/news/mistral-large-4-oss",
+          "publishedAt": "2026-10-30T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
-          "publishedAt": "2026-10-30T17:47:12+00:00",
-          "source": "TechCrunch AI"
+          "title": "AI can turn security fixes into working exploits before users receive an update (16 minute read)",
+          "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+          "publishedAt": "2026-10-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The surprising leadership dynamics in agent swarms (17 minute read)",
+          "url": "https://www.raindrop.ai/blog/agent-swarm-leadership",
+          "publishedAt": "2026-10-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Leaking Muse's Charter, Meta's model spec (13 minute read)",
+          "url": "https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec",
+          "publishedAt": "2026-10-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How Meta Catches Bugs Before Code Ships (9 minute read)",
+          "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale",
+          "publishedAt": "2026-10-30T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Google’s Carbon takes the benchmark crown (for now)",
@@ -429,31 +447,13 @@
           "url": "https://www.anthropic.com/research/early-progress-drug-development",
           "publishedAt": "2026-10-28T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Axiom’s AI swarm checks math’s longest proof",
-          "url": "https://axiommath.ai/research/the-enormous-theorem-formalized",
-          "publishedAt": "2026-10-28T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic officially files to go public",
-          "url": "https://www.anthropic.com/news/s1-sec",
-          "publishedAt": "2026-10-27T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s next batch of AI science discoveries arrives",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-          "publishedAt": "2026-10-27T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-30T23:00:29+00:00",
+      "updatedAt": "2026-10-31T00:00:30+00:00",
       "stories": [
         {
           "title": "Percepto launches Axion AI platform to unify inspection data analysis",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-30T23:00:29+00:00",
+    "updatedAt": "2026-10-31T00:00:30+00:00",
     "stories": [
       {
         "title": "Ollie, a privacy-focused AI assistant, is shutting down",
@@ -754,7 +754,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-19"
+    "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
