@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-10-31T12:00:34+00:00",
+  "generatedAt": "2026-10-31T13:00:36+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-31T12:00:34+00:00",
+      "updatedAt": "2026-10-31T13:00:36+00:00",
       "stories": [
+        {
+          "title": "Betelgeuse is haunted by a cosmic poltergeist tormenting the doomed star's atmosphere",
+          "url": "https://www.space.com/astronomy/stars/betelgeuse-is-haunted-by-a-cosmic-poltergeist-tormenting-the-doomed-stars-atmosphere",
+          "publishedAt": "2026-10-31T12:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Halloween night sky 2026 — Saturn, shooting stars and a space station await US stargazers",
           "url": "https://www.space.com/stargazing/halloween-night-sky-2026-saturn-shooting-stars-and-a-space-station-await-us-stargazers",
@@ -19,7 +25,7 @@
           "source": "SpaceNews"
         },
         {
-          "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California",
+          "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
           "publishedAt": "2026-10-31T05:24:11+00:00",
           "source": "Space.com"
@@ -29,12 +35,6 @@
           "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet",
           "publishedAt": "2026-10-31T04:05:00+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "The world mourns the passing of 'Star Trek's' Patrick Stewart with a galaxy of tearful tributes",
-          "url": "https://www.space.com/entertainment/the-world-mourns-the-passing-of-star-treks-patrick-stewart-with-a-galaxy-of-tearful-tributes",
-          "publishedAt": "2026-10-30T23:26:14+00:00",
-          "source": "Space.com"
         },
         {
           "title": "NASA Releases MAX POWER Key Events for Media, Participants",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-31T12:00:34+00:00",
+      "updatedAt": "2026-10-31T13:00:36+00:00",
       "stories": [
         {
           "title": "MDA Space to build IRIS² antennas for Thales Alenia Space",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-31T12:00:34+00:00",
+      "updatedAt": "2026-10-31T13:00:36+00:00",
       "stories": [
         {
           "title": "Minister McGuinty strengthens Canada-EU defence and industrial cooperation at Summit",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-31T12:00:34+00:00",
+      "updatedAt": "2026-10-31T13:00:36+00:00",
       "stories": [
         {
           "title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-31T12:00:34+00:00",
+      "updatedAt": "2026-10-31T13:00:36+00:00",
       "stories": [
         {
           "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-31T12:00:34+00:00",
+      "updatedAt": "2026-10-31T13:00:36+00:00",
       "stories": [
         {
           "title": "Percepto launches Axion AI platform to unify inspection data analysis",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-31T12:00:34+00:00",
+    "updatedAt": "2026-10-31T13:00:36+00:00",
     "stories": [
       {
         "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Halloween night sky 2026 — Saturn, shooting stars and a space station await US stargazers",
-        "url": "https://www.space.com/stargazing/halloween-night-sky-2026-saturn-shooting-stars-and-a-space-station-await-us-stargazers",
-        "publishedAt": "2026-10-31T10:00:00+00:00",
+        "title": "Betelgeuse is haunted by a cosmic poltergeist tormenting the doomed star's atmosphere",
+        "url": "https://www.space.com/astronomy/stars/betelgeuse-is-haunted-by-a-cosmic-poltergeist-tormenting-the-doomed-stars-atmosphere",
+        "publishedAt": "2026-10-31T12:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -615,6 +615,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Halloween night sky 2026 — Saturn, shooting stars and a space station await US stargazers",
+        "url": "https://www.space.com/stargazing/halloween-night-sky-2026-saturn-shooting-stars-and-a-space-station-await-us-stargazers",
+        "publishedAt": "2026-10-31T10:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Telesat Q3 2026: Lightspeed global service slips to mid-2028",
         "url": "https://spaceq.ca/telesat-q3-2026-lightspeed-global-service-slips",
         "publishedAt": "2026-10-30T21:16:07+00:00",
@@ -630,15 +639,6 @@
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Canada-EU summit opens talks on Galileo and IRIS² access",
-        "url": "https://spaceq.ca/canada-eu-summit-galileo-iris2",
-        "publishedAt": "2026-10-30T19:23:28+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
