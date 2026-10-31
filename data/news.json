@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T21:25:51+00:00",
+  "generatedAt": "2026-10-31T22:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-10-31T21:25:51+00:00",
+      "updatedAt": "2026-10-31T22:00:28+00:00",
       "stories": [
         {
           "title": "9 nightmarish sci-fi spaceships to crawl aboard for Halloween if you dare",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-10-31T21:25:51+00:00",
+      "updatedAt": "2026-10-31T22:00:28+00:00",
       "stories": [
         {
           "title": "MDA lands IRIS² antenna work as space index falls 2.2 per cent",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-10-31T21:25:51+00:00",
+      "updatedAt": "2026-10-31T22:00:28+00:00",
       "stories": [
         {
           "title": "Minister McGuinty strengthens Canada-EU defence and industrial cooperation at Summit",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-10-31T21:25:51+00:00",
+      "updatedAt": "2026-10-31T22:00:28+00:00",
       "stories": [
         {
           "title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies",
@@ -338,24 +338,24 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-10-31T21:25:51+00:00",
+      "updatedAt": "2026-10-31T22:00:28+00:00",
       "stories": [
+        {
+          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+          "publishedAt": "2026-10-31T21:41:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+          "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
+          "publishedAt": "2026-10-31T21:36:07+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
           "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
           "publishedAt": "2026-10-31T21:17:03+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "OpenAI reportedly lowers funding target for new round",
-          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
-          "publishedAt": "2026-10-31T16:12:55+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
-          "publishedAt": "2026-10-31T01:20:05+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-10-31T21:25:51+00:00",
+      "updatedAt": "2026-10-31T22:00:28+00:00",
       "stories": [
         {
           "title": "Unusual robotic animals can prove their utility",
@@ -531,21 +531,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-10-31T21:25:51+00:00",
+    "updatedAt": "2026-10-31T22:00:28+00:00",
     "stories": [
       {
-        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-        "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
-        "publishedAt": "2026-10-31T21:17:03+00:00",
+        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+        "publishedAt": "2026-10-31T21:41:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI reportedly lowers funding target for new round",
-        "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
-        "publishedAt": "2026-10-31T16:12:55+00:00",
+        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+        "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
+        "publishedAt": "2026-10-31T21:36:07+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -597,6 +597,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+        "publishedAt": "2026-10-31T21:17:03+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "On this day in space! Oct. 31, 2015: Creepy skull-shaped Halloween asteroid flies by Earth, NASA names it the 'Great Pumpkin'",
         "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026",
         "publishedAt": "2026-10-31T13:26:33+00:00",
@@ -612,15 +621,6 @@
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "MDA Space to build IRIS² antennas for Thales Alenia Space",
-        "url": "https://spaceq.ca/mda-space-iris2-antennas-thales-alenia-space",
-        "publishedAt": "2026-10-30T21:34:53+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
