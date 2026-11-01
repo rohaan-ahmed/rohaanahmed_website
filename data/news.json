@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-01T15:00:31+00:00",
+  "generatedAt": "2026-11-01T16:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-01T15:00:31+00:00",
+      "updatedAt": "2026-11-01T16:00:30+00:00",
       "stories": [
+        {
+          "title": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
+          "url": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks",
+          "publishedAt": "2026-11-01T15:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
@@ -16,12 +22,6 @@
           "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
           "url": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
           "publishedAt": "2026-11-01T13:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "5 bright planets to spot in November — when and where to see them",
-          "url": "https://www.space.com/stargazing/5-bright-planets-to-spot-in-november-when-and-where-to-see-them",
-          "publishedAt": "2026-11-01T11:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-01T15:00:31+00:00",
+      "updatedAt": "2026-11-01T16:00:30+00:00",
       "stories": [
         {
           "title": "MDA lands IRIS² antenna work as space index falls 2.2 per cent",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-01T15:00:31+00:00",
+      "updatedAt": "2026-11-01T16:00:30+00:00",
       "stories": [
         {
           "title": "Minister McGuinty strengthens Canada-EU defence and industrial cooperation at Summit",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-01T15:00:31+00:00",
+      "updatedAt": "2026-11-01T16:00:30+00:00",
       "stories": [
         {
           "title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-01T15:00:31+00:00",
+      "updatedAt": "2026-11-01T16:00:30+00:00",
       "stories": [
         {
           "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-01T15:00:31+00:00",
+      "updatedAt": "2026-11-01T16:00:30+00:00",
       "stories": [
         {
           "title": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-01T15:00:31+00:00",
+    "updatedAt": "2026-11-01T16:00:30+00:00",
     "stories": [
       {
         "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
-        "publishedAt": "2026-11-01T14:50:15+00:00",
+        "title": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
+        "url": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks",
+        "publishedAt": "2026-11-01T15:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -615,9 +615,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
-        "url": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
-        "publishedAt": "2026-11-01T13:00:00+00:00",
+        "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
+        "publishedAt": "2026-11-01T14:50:15+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
