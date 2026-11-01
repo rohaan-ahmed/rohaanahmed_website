@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T20:00:30+00:00",
+  "generatedAt": "2026-11-01T21:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-01T20:00:30+00:00",
+      "updatedAt": "2026-11-01T21:00:30+00:00",
       "stories": [
         {
           "title": "'Metroid Prime' needs some 'Resident Evil'-style remakes to rediscover its sci-fi shooter mojo",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-01T20:00:30+00:00",
+      "updatedAt": "2026-11-01T21:00:30+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: one solar array to go after Kutryk’s spacewalk",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-01T20:00:30+00:00",
+      "updatedAt": "2026-11-01T21:00:30+00:00",
       "stories": [
         {
           "title": "Minister McGuinty strengthens Canada-EU defence and industrial cooperation at Summit",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-01T20:00:30+00:00",
+      "updatedAt": "2026-11-01T21:00:30+00:00",
       "stories": [
         {
           "title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies",
@@ -338,8 +338,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-01T20:00:30+00:00",
+      "updatedAt": "2026-11-01T21:00:30+00:00",
       "stories": [
+        {
+          "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+          "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
+          "publishedAt": "2026-11-01T20:57:58+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
           "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
@@ -350,12 +356,6 @@
           "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
           "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
           "publishedAt": "2026-10-31T21:36:07+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
-          "publishedAt": "2026-10-31T21:17:03+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-01T20:00:30+00:00",
+      "updatedAt": "2026-11-01T21:00:30+00:00",
       "stories": [
         {
           "title": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
@@ -531,21 +531,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-01T20:00:30+00:00",
+    "updatedAt": "2026-11-01T21:00:30+00:00",
     "stories": [
       {
-        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
-        "publishedAt": "2026-10-31T21:41:00+00:00",
+        "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+        "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
+        "publishedAt": "2026-11-01T20:57:58+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-        "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
-        "publishedAt": "2026-10-31T21:36:07+00:00",
+        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+        "publishedAt": "2026-10-31T21:41:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
