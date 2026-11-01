@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-01T11:00:29+00:00",
+  "generatedAt": "2026-11-01T12:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-01T11:00:29+00:00",
+      "updatedAt": "2026-11-01T12:00:28+00:00",
       "stories": [
+        {
+          "title": "5 bright planets to spot in November — when and where to see them",
+          "url": "https://www.space.com/stargazing/5-bright-planets-to-spot-in-november-when-and-where-to-see-them",
+          "publishedAt": "2026-11-01T11:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "APOD: 2026 November 1 – Colors of the Moon",
           "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon",
@@ -22,12 +28,6 @@
           "title": "On this day in space! Oct. 31, 2015: Creepy skull-shaped Halloween asteroid flies by Earth, NASA names it the 'Great Pumpkin'",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026",
           "publishedAt": "2026-10-31T13:26:33+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "The moon, Mars, and Jupiter shine in the heart of the Lion overnight on Nov. 1-2",
-          "url": "https://www.space.com/stargazing/the-moon-mars-and-jupiter-shine-in-the-heart-of-the-lion-overnight-on-nov-1-2",
-          "publishedAt": "2026-10-31T13:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-01T11:00:29+00:00",
+      "updatedAt": "2026-11-01T12:00:28+00:00",
       "stories": [
         {
           "title": "MDA lands IRIS² antenna work as space index falls 2.2 per cent",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-01T11:00:29+00:00",
+      "updatedAt": "2026-11-01T12:00:28+00:00",
       "stories": [
         {
           "title": "Minister McGuinty strengthens Canada-EU defence and industrial cooperation at Summit",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-01T11:00:29+00:00",
+      "updatedAt": "2026-11-01T12:00:28+00:00",
       "stories": [
         {
           "title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-01T11:00:29+00:00",
+      "updatedAt": "2026-11-01T12:00:28+00:00",
       "stories": [
         {
           "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-01T11:00:29+00:00",
+      "updatedAt": "2026-11-01T12:00:28+00:00",
       "stories": [
         {
           "title": "Unusual robotic animals can prove their utility",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-01T11:00:29+00:00",
+    "updatedAt": "2026-11-01T12:00:28+00:00",
     "stories": [
       {
         "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -561,10 +561,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 November 1 – Colors of the Moon",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon",
-        "publishedAt": "2026-11-01T04:05:00+00:00",
-        "source": "NASA",
+        "title": "5 bright planets to spot in November — when and where to see them",
+        "url": "https://www.space.com/stargazing/5-bright-planets-to-spot-in-november-when-and-where-to-see-them",
+        "publishedAt": "2026-11-01T11:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -597,6 +597,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "APOD: 2026 November 1 – Colors of the Moon",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon",
+        "publishedAt": "2026-11-01T04:05:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
         "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
         "publishedAt": "2026-10-31T21:17:03+00:00",
@@ -609,15 +618,6 @@
         "title": "9 nightmarish sci-fi spaceships to crawl aboard for Halloween if you dare",
         "url": "https://www.space.com/entertainment/9-nightmarish-sci-fi-spaceships-to-crawl-aboard-for-halloween-if-you-dare",
         "publishedAt": "2026-10-31T15:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "On this day in space! Oct. 31, 2015: Creepy skull-shaped Halloween asteroid flies by Earth, NASA names it the 'Great Pumpkin'",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026",
-        "publishedAt": "2026-10-31T13:26:33+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
