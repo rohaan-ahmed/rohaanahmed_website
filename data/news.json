@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-01T17:00:32+00:00",
+  "generatedAt": "2026-11-01T18:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-01T17:00:32+00:00",
+      "updatedAt": "2026-11-01T18:00:31+00:00",
       "stories": [
+        {
+          "title": "'Metroid Prime' needs some 'Resident Evil'-style remakes to rediscover its sci-fi shooter mojo",
+          "url": "https://www.space.com/entertainment/space-games/metroid-prime-needs-some-resident-evil-style-remakes-to-rediscover-its-sci-fi-shooter-mojo",
+          "publishedAt": "2026-11-01T17:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
           "url": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks",
@@ -16,12 +22,6 @@
           "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
           "publishedAt": "2026-11-01T14:50:15+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
-          "url": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
-          "publishedAt": "2026-11-01T13:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-01T17:00:32+00:00",
+      "updatedAt": "2026-11-01T18:00:31+00:00",
       "stories": [
+        {
+          "title": "Weekly ISS update: one solar array to go after Kutryk’s spacewalk",
+          "url": "https://spaceq.ca/weekly-iss-update-one-solar-array-to-go-after-kutryks-spacewalk",
+          "publishedAt": "2026-11-01T17:40:41+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "MDA lands IRIS² antenna work as space index falls 2.2 per cent",
           "url": "https://spaceq.ca/the-weekly-close-october-30-2026",
@@ -170,12 +176,6 @@
           "source": "Canadian Space Agency"
         },
         {
-          "title": "SpaceX will offer Starlink Mobile to any Canadian carrier",
-          "url": "https://spaceq.ca/starlink-mobile-canada-carriers",
-          "publishedAt": "2026-10-27T23:36:16+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Media invited to witness CSA astronaut Joshua Kutryk’s first spacewalk",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/media-invited-to-witness-csa-astronaut-joshua-kutryks-first-spacewalk.html",
           "publishedAt": "2026-10-26T16:01:08+00:00",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-01T17:00:32+00:00",
+      "updatedAt": "2026-11-01T18:00:31+00:00",
       "stories": [
         {
           "title": "Minister McGuinty strengthens Canada-EU defence and industrial cooperation at Summit",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-01T17:00:32+00:00",
+      "updatedAt": "2026-11-01T18:00:31+00:00",
       "stories": [
         {
           "title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-01T17:00:32+00:00",
+      "updatedAt": "2026-11-01T18:00:31+00:00",
       "stories": [
         {
           "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -359,24 +359,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "OpenAI reportedly lowers funding target for new round",
-          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
-          "publishedAt": "2026-10-31T16:12:55+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
-          "publishedAt": "2026-10-31T01:20:05+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-          "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down",
-          "publishedAt": "2026-10-30T22:56:13+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Report: Nvidia CEO targeted by alleged Chinese spy",
           "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
           "publishedAt": "2026-10-30T10:00:00+00:00",
@@ -387,6 +369,42 @@
           "url": "https://safeguards.anthropic.com/2026/self-assessment",
           "publishedAt": "2026-10-30T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI Updates Its Model Spec Around Five Core Values (7 minute read)",
+          "url": "https://openai.com/index/updated-model-spec",
+          "publishedAt": "2026-10-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Mistral Releases Weights for Its Trillion-Parameter Model (4 minute read)",
+          "url": "https://mistral.ai/news/mistral-large-4-oss",
+          "publishedAt": "2026-10-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "AI can turn security fixes into working exploits before users receive an update (16 minute read)",
+          "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+          "publishedAt": "2026-10-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The surprising leadership dynamics in agent swarms (17 minute read)",
+          "url": "https://www.raindrop.ai/blog/agent-swarm-leadership",
+          "publishedAt": "2026-10-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Leaking Muse's Charter, Meta's model spec (13 minute read)",
+          "url": "https://www.lesswrong.com/posts/TJGPL5FAk9sCioPbE/leaking-muse-s-charter-meta-s-model-spec",
+          "publishedAt": "2026-10-30T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How Meta Catches Bugs Before Code Ships (9 minute read)",
+          "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale",
+          "publishedAt": "2026-10-30T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Google’s Carbon takes the benchmark crown (for now)",
@@ -411,31 +429,13 @@
           "url": "https://www.anthropic.com/research/early-progress-drug-development",
           "publishedAt": "2026-10-28T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Axiom’s AI swarm checks math’s longest proof",
-          "url": "https://axiommath.ai/research/the-enormous-theorem-formalized",
-          "publishedAt": "2026-10-28T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic officially files to go public",
-          "url": "https://www.anthropic.com/news/s1-sec",
-          "publishedAt": "2026-10-27T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s next batch of AI science discoveries arrives",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-          "publishedAt": "2026-10-27T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-01T17:00:32+00:00",
+      "updatedAt": "2026-11-01T18:00:31+00:00",
       "stories": [
         {
           "title": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
@@ -448,6 +448,12 @@
           "url": "https://www.therobotreport.com/why-physical-ai-next-lucrative-frontier",
           "publishedAt": "2026-11-01T13:30:41+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+          "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here",
+          "publishedAt": "2026-11-01T17:04:00+00:00",
+          "source": "TechCrunch Robotics"
         },
         {
           "title": "Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime",
@@ -504,12 +510,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026",
-          "url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026",
-          "publishedAt": "2026-10-29T04:01:46+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
           "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
           "publishedAt": "2026-10-27T16:14:39+00:00",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-01T17:00:32+00:00",
+    "updatedAt": "2026-11-01T18:00:31+00:00",
     "stories": [
       {
         "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -552,18 +552,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "MDA lands IRIS² antenna work as space index falls 2.2 per cent",
-        "url": "https://spaceq.ca/the-weekly-close-october-30-2026",
-        "publishedAt": "2026-10-31T19:37:29+00:00",
+        "title": "Weekly ISS update: one solar array to go after Kutryk’s spacewalk",
+        "url": "https://spaceq.ca/weekly-iss-update-one-solar-array-to-go-after-kutryks-spacewalk",
+        "publishedAt": "2026-11-01T17:40:41+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
-        "url": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks",
-        "publishedAt": "2026-11-01T15:00:00+00:00",
+        "title": "'Metroid Prime' needs some 'Resident Evil'-style remakes to rediscover its sci-fi shooter mojo",
+        "url": "https://www.space.com/entertainment/space-games/metroid-prime-needs-some-resident-evil-style-remakes-to-rediscover-its-sci-fi-shooter-mojo",
+        "publishedAt": "2026-11-01T17:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -606,21 +606,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+        "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here",
+        "publishedAt": "2026-11-01T17:04:00+00:00",
+        "source": "TechCrunch Robotics",
+        "topicId": "robotics",
+        "topicName": "Robotics",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Solving the Interconnect Challenge in Modern Robotics: How 3M Is Engineering for Motion, Density, and Uptime",
         "url": "https://www.therobotreport.com/solving-the-interconnect-challenge-in-modern-robotics-how-3m-is-engineering-for-motion-density-and-uptime",
         "publishedAt": "2026-11-01T13:00:31+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
-        "publishedAt": "2026-11-01T14:50:15+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -736,7 +736,6 @@
     }
   ],
   "warnings": [
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-21",
     "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
