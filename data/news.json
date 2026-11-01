@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-01T04:00:28+00:00",
+  "generatedAt": "2026-11-01T05:00:39+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-01T04:00:28+00:00",
+      "updatedAt": "2026-11-01T05:00:39+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 November 1 – Colors of the Moon",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon",
+          "publishedAt": "2026-11-01T04:05:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "9 nightmarish sci-fi spaceships to crawl aboard for Halloween if you dare",
           "url": "https://www.space.com/entertainment/9-nightmarish-sci-fi-spaceships-to-crawl-aboard-for-halloween-if-you-dare",
@@ -55,12 +61,6 @@
           "source": "European Space Agency"
         },
         {
-          "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-          "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head",
-          "publishedAt": "2026-10-30T15:56:26+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Earth from Space: Champi’s eerie eye",
           "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye",
           "publishedAt": "2026-10-30T09:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-01T04:00:28+00:00",
+      "updatedAt": "2026-11-01T05:00:39+00:00",
       "stories": [
         {
           "title": "MDA lands IRIS² antenna work as space index falls 2.2 per cent",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-01T04:00:28+00:00",
+      "updatedAt": "2026-11-01T05:00:39+00:00",
       "stories": [
         {
           "title": "Minister McGuinty strengthens Canada-EU defence and industrial cooperation at Summit",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-01T04:00:28+00:00",
+      "updatedAt": "2026-11-01T05:00:39+00:00",
       "stories": [
         {
           "title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-01T04:00:28+00:00",
+      "updatedAt": "2026-11-01T05:00:39+00:00",
       "stories": [
         {
           "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-01T04:00:28+00:00",
+      "updatedAt": "2026-11-01T05:00:39+00:00",
       "stories": [
         {
           "title": "Unusual robotic animals can prove their utility",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-01T04:00:28+00:00",
+    "updatedAt": "2026-11-01T05:00:39+00:00",
     "stories": [
       {
         "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
@@ -561,10 +561,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "9 nightmarish sci-fi spaceships to crawl aboard for Halloween if you dare",
-        "url": "https://www.space.com/entertainment/9-nightmarish-sci-fi-spaceships-to-crawl-aboard-for-halloween-if-you-dare",
-        "publishedAt": "2026-10-31T15:00:00+00:00",
-        "source": "Space.com",
+        "title": "APOD: 2026 November 1 – Colors of the Moon",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon",
+        "publishedAt": "2026-11-01T04:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -615,9 +615,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "On this day in space! Oct. 31, 2015: Creepy skull-shaped Halloween asteroid flies by Earth, NASA names it the 'Great Pumpkin'",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026",
-        "publishedAt": "2026-10-31T13:26:33+00:00",
+        "title": "9 nightmarish sci-fi spaceships to crawl aboard for Halloween if you dare",
+        "url": "https://www.space.com/entertainment/9-nightmarish-sci-fi-spaceships-to-crawl-aboard-for-halloween-if-you-dare",
+        "publishedAt": "2026-10-31T15:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -737,6 +737,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-13"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-19"
   ]
 }
