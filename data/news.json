@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T22:00:33+00:00",
+  "generatedAt": "2026-11-02T23:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-02T22:00:33+00:00",
+      "updatedAt": "2026-11-02T23:00:29+00:00",
       "stories": [
         {
           "title": "How to Expand Reliable, Flexible Access to Space",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-02T22:00:33+00:00",
+      "updatedAt": "2026-11-02T23:00:29+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services gets final approval to list on the TSX",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-02T22:00:33+00:00",
+      "updatedAt": "2026-11-02T23:00:29+00:00",
       "stories": [
         {
           "title": "Joint Statement: Minister McGuinty and Minster McKnight, Wartime Service Recognition",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-02T22:00:33+00:00",
+      "updatedAt": "2026-11-02T23:00:29+00:00",
       "stories": [
         {
           "title": "Industry needs more consistent demand signal to scale UGV production: Autonomy consortium exec",
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-02T22:00:33+00:00",
+      "updatedAt": "2026-11-02T23:00:29+00:00",
       "stories": [
         {
           "title": "Data centers hit the ballot as OpenAI plots a rebrand",
@@ -347,6 +347,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+          "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+          "publishedAt": "2026-11-02T22:14:50+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Web host Squarespace lays off 19% of its employees",
           "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees",
           "publishedAt": "2026-11-02T19:25:59+00:00",
@@ -356,12 +362,6 @@
           "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
           "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
           "publishedAt": "2026-11-02T19:19:17+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-          "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior",
-          "publishedAt": "2026-11-02T16:30:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-02T22:00:33+00:00",
+      "updatedAt": "2026-11-02T23:00:29+00:00",
       "stories": [
         {
           "title": "Tutor Intelligence raises Series B to scale model training, robot deployments",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-02T22:00:33+00:00",
+    "updatedAt": "2026-11-02T23:00:29+00:00",
     "stories": [
       {
         "title": "Data centers hit the ballot as OpenAI plots a rebrand",
@@ -600,21 +600,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+        "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+        "publishedAt": "2026-11-02T22:14:50+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "The fiscal risks of bringing US troops out of Europe",
         "url": "https://breakingdefense.com/2026/11/the-fiscal-risks-of-bringing-us-troops-out-of-europe",
         "publishedAt": "2026-11-02T18:15:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Gentherm designs ThermAffyx to protect, move patients during robotic surgeries",
-        "url": "https://www.therobotreport.com/gentherm-designs-thermaffyx-protect-move-patients-during-robotic-surgeries",
-        "publishedAt": "2026-11-02T18:06:36+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
