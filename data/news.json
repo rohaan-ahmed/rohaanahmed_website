@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T12:00:35+00:00",
+  "generatedAt": "2026-11-03T13:00:35+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-03T12:00:35+00:00",
+      "updatedAt": "2026-11-03T13:00:35+00:00",
       "stories": [
         {
           "title": "Why does Betelgeuse keep fading? The mystery of Orion's giant star",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-03T12:00:35+00:00",
+      "updatedAt": "2026-11-03T13:00:35+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services gets final approval to list on the TSX",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-03T12:00:35+00:00",
+      "updatedAt": "2026-11-03T13:00:35+00:00",
       "stories": [
         {
           "title": "Joint Statement: Minister McGuinty and Minster McKnight, Wartime Service Recognition",
@@ -235,8 +235,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-03T12:00:35+00:00",
+      "updatedAt": "2026-11-03T13:00:35+00:00",
       "stories": [
+        {
+          "title": "India orders next-gen corvettes for $5.7b under broad naval modernization push",
+          "url": "https://www.defensenews.com/global/asia-pacific/2026/11/03/india-orders-next-gen-corvettes-for-5-7b-under-broad-naval-modernization-push",
+          "publishedAt": "2026-11-03T12:56:27+00:00",
+          "source": "Defense News"
+        },
+        {
+          "title": "Australia preps Bluebottle USV for submarine-hunting role",
+          "url": "https://www.defensenews.com/global/asia-pacific/2026/11/03/australia-preps-bluebottle-usv-for-submarine-hunting-role",
+          "publishedAt": "2026-11-03T12:19:38+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Sweden’s Saab launches family of AI agents for future aircraft projects",
           "url": "https://breakingdefense.com/2026/11/swedens-saab-launches-family-of-ai-agents-for-future-aircraft-projects",
@@ -292,18 +304,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "What could the Humvee of the future look like?",
-          "url": "https://www.defensenews.com/video/2026/11/02/what-could-the-humvee-of-the-future-look-like",
-          "publishedAt": "2026-11-02T14:50:00+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "High-energy lasers, drones and power: Innovations in defense tech | Business of Defense – Part 1",
-          "url": "https://www.defensenews.com/video/2026/11/02/high-energy-lasers-drones-and-power-innovations-in-defense-tech-business-of-defense-part-1",
-          "publishedAt": "2026-11-02T14:44:00+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "How can we trust AI in national defense missions?",
           "url": "https://defensescoop.com/2026/10/30/how-can-we-trust-ai-in-national-defense-missions",
           "publishedAt": "2026-10-30T16:00:00+00:00",
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-03T12:00:35+00:00",
+      "updatedAt": "2026-11-03T13:00:35+00:00",
       "stories": [
         {
           "title": "OpenAI’s Astra rewrites other AI from the inside",
@@ -371,18 +371,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
-          "publishedAt": "2026-11-03T00:35:52+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-          "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
-          "publishedAt": "2026-11-02T23:13:53+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Data centers hit the ballot as OpenAI plots a rebrand",
           "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
           "publishedAt": "2026-11-02T11:00:00+00:00",
@@ -395,33 +383,45 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-          "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
-          "publishedAt": "2026-11-02T22:14:50+00:00",
-          "source": "TechCrunch AI"
+          "title": "GPT-Rosalind-6 System Card Addendum (6 minute read)",
+          "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+          "publishedAt": "2026-11-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Anthropic prepares to release Claude Mythos 5.5 model (3 minute read)",
+          "url": "https://www.testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model",
+          "publishedAt": "2026-11-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Find Hidden Misalignment in Training Data (39 minute read)",
+          "url": "https://alignment.anthropic.com/2026/automated-em-search",
+          "publishedAt": "2026-11-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Red-teamers found 11 ways for a misaligned agent to slip past Codex's Auto-review (22 minute read)",
+          "url": "https://www.lesswrong.com/posts/dbStc8ZFESqfihwAd/lessons-from-red-teaming-auto-review-openai-s-blocking-1",
+          "publishedAt": "2026-11-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Poisoning 0.1% of pretraining data planted a remote-code backdoor in a coding agent (78 minute read)",
+          "url": "https://arxiv.org/abs/2610.37741",
+          "publishedAt": "2026-11-02T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Unlocking hidden skills inside Google's model (8 minute read)",
+          "url": "https://dejan.ai/blog/latent-skills",
+          "publishedAt": "2026-11-02T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Report: Nvidia CEO targeted by alleged Chinese spy",
           "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
           "publishedAt": "2026-10-30T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic’s AI now monitors its own conversations",
-          "url": "https://safeguards.anthropic.com/2026/self-assessment",
-          "publishedAt": "2026-10-30T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Google’s Carbon takes the benchmark crown (for now)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon",
-          "publishedAt": "2026-10-29T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "An Anthropic manager bets on junior engineers",
-          "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers",
-          "publishedAt": "2026-10-29T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-03T12:00:35+00:00",
+      "updatedAt": "2026-11-03T13:00:35+00:00",
       "stories": [
         {
           "title": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-03T12:00:35+00:00",
+    "updatedAt": "2026-11-03T13:00:35+00:00",
     "stories": [
       {
         "title": "OpenAI’s Astra rewrites other AI from the inside",
@@ -573,10 +573,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Sweden’s Saab launches family of AI agents for future aircraft projects",
-        "url": "https://breakingdefense.com/2026/11/swedens-saab-launches-family-of-ai-agents-for-future-aircraft-projects",
-        "publishedAt": "2026-11-03T06:56:00+00:00",
-        "source": "Breaking Defense",
+        "title": "India orders next-gen corvettes for $5.7b under broad naval modernization push",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/03/india-orders-next-gen-corvettes-for-5-7b-under-broad-naval-modernization-push",
+        "publishedAt": "2026-11-03T12:56:27+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -600,21 +600,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-        "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing",
-        "publishedAt": "2026-11-03T07:20:00+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "Australia preps Bluebottle USV for submarine-hunting role",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/03/australia-preps-bluebottle-usv-for-submarine-hunting-role",
+        "publishedAt": "2026-11-03T12:19:38+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "National security strategy gives space tech a supporting role",
-        "url": "https://spaceq.ca/national-security-strategy-space",
-        "publishedAt": "2026-11-02T16:20:33+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
+        "title": "Sweden’s Saab launches family of AI agents for future aircraft projects",
+        "url": "https://breakingdefense.com/2026/11/swedens-saab-launches-family-of-ai-agents-for-future-aircraft-projects",
+        "publishedAt": "2026-11-03T06:56:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -730,7 +730,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-22"
+    "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
