@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-11-03T16:00:33+00:00",
+  "generatedAt": "2026-11-03T16:06:48+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-03T16:00:33+00:00",
+      "updatedAt": "2026-11-03T16:06:48+00:00",
       "stories": [
         {
           "title": "DETUMBLER: Airbus’ Passive Spin Stabilization Solution",
           "url": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution",
           "publishedAt": "2026-11-03T13:30:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "The Star Wars Eclipse — Want to see the 2027 total solar eclipse on Tatooine? Head to Tunisia",
+          "url": "https://www.space.com/stargazing/solar-eclipses/the-star-wars-eclipse-want-to-see-the-2027-total-solar-eclipse-on-tatooine-head-to-tunisia",
+          "publishedAt": "2026-11-03T16:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "On this day in space! Nov. 3, 1957: Laika the dog launches with Sputnik 2",
@@ -35,12 +41,6 @@
           "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day",
           "publishedAt": "2026-11-03T15:15:50+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Do we know how many Starship launches SpaceX will need to get NASA astronauts to the moon? No. Will its refuelling plan be simple? Also no.",
-          "url": "https://www.space.com/space-exploration/artemis/do-we-know-how-many-starship-launches-spacex-will-need-to-get-nasa-astronauts-to-the-moon-no-will-its-refuelling-plan-be-simple-also-no",
-          "publishedAt": "2026-11-03T13:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "10 asteroid mysteries that Hera will explore",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-03T16:00:33+00:00",
+      "updatedAt": "2026-11-03T16:06:48+00:00",
       "stories": [
         {
           "title": "CSA opens bidding on HAWCsat spacecraft bus",
@@ -192,7 +192,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-03T16:00:33+00:00",
+      "updatedAt": "2026-11-03T16:06:48+00:00",
       "stories": [
         {
           "title": "2026 Remembrance Day Sentry Program honourees to perform ceremonial duty",
@@ -201,7 +201,7 @@
           "source": "National Defence"
         },
         {
-          "title": "Joint Statement: Minister McGuinty and Minster McKnight, Wartime Service Recognition",
+          "title": "Joint Statement: Minister McGuinty and Minister McKnight, Wartime Service Recognition",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/joint-statement-minister-mcguinty-and-minster-mcknight-wartime-service-recognition.html",
           "publishedAt": "2026-11-02T21:40:46+00:00",
           "source": "National Defence"
@@ -247,8 +247,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-03T16:00:33+00:00",
+      "updatedAt": "2026-11-03T16:06:48+00:00",
       "stories": [
+        {
+          "title": "The defense show circuit keeps rolling, plus Jimmy Stewart goes to war",
+          "url": "https://breakingdefense.com/2026/11/the-defense-show-circuit-keeps-rolling-plus-jimmy-stewart-goes-to-war",
+          "publishedAt": "2026-11-03T16:00:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Gambit Series offers a scalable path for collaborative combat aircraft",
           "url": "https://breakingdefense.com/2026/11/gambit-series-offers-a-scalable-path-for-collaborative-combat-aircraft",
@@ -298,12 +304,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Industry needs more consistent demand signal to scale UGV production: Autonomy consortium exec",
-          "url": "https://breakingdefense.com/2026/11/industry-needs-more-consistent-demand-signal-to-scale-ugv-production-autonomy-consortium-exec",
-          "publishedAt": "2026-11-02T19:47:29+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Russia is giving its drones bigger antennas to beat Ukrainian jamming",
           "url": "https://www.defensenews.com/global/europe/2026/11/02/russia-is-giving-its-drones-bigger-antennas-to-beat-ukrainian-jamming",
           "publishedAt": "2026-11-02T18:00:00+00:00",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-03T16:00:33+00:00",
+      "updatedAt": "2026-11-03T16:06:48+00:00",
       "stories": [
         {
           "title": "OpenAI’s Astra rewrites other AI from the inside",
@@ -383,22 +383,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-          "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing",
-          "publishedAt": "2026-11-03T07:20:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "GPT-6.2 Astra appears in Codex usage ahead of possible launch (3 minute read)",
+          "url": "https://www.testingcatalog.com/gpt-6-2-astra-appears-codex-usage",
+          "publishedAt": "2026-11-03T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-          "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses",
-          "publishedAt": "2026-11-03T03:30:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Anthropic Warns It May Be Close to Self-Improving AI (3 minute read)",
+          "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+          "publishedAt": "2026-11-03T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-          "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps",
-          "publishedAt": "2026-11-03T01:49:52+00:00",
-          "source": "TechCrunch AI"
+          "title": "Claude Introduces Message Threads (2 minute read)",
+          "url": "https://claude.com/resources/articles/message-threads",
+          "publishedAt": "2026-11-03T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How to Train a Swarm (19 minute read)",
+          "url": "https://www.gr.inc/blog/how-to-train-a-swarm",
+          "publishedAt": "2026-11-03T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Lessons from building Copilot Cowork (21 minute read)",
+          "url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration",
+          "publishedAt": "2026-11-03T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Hitchhiker's Guide to Training on Compute Islands (18 minute read)",
+          "url": "https://www.coreauto.com/hitchhikers-guide-to-training-on-compute-islands",
+          "publishedAt": "2026-11-03T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Data centers hit the ballot as OpenAI plots a rebrand",
@@ -417,31 +435,13 @@
           "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
           "publishedAt": "2026-10-30T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic’s AI now monitors its own conversations",
-          "url": "https://safeguards.anthropic.com/2026/self-assessment",
-          "publishedAt": "2026-10-30T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Google’s Carbon takes the benchmark crown (for now)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon",
-          "publishedAt": "2026-10-29T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "An Anthropic manager bets on junior engineers",
-          "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers",
-          "publishedAt": "2026-10-29T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-03T16:00:33+00:00",
+      "updatedAt": "2026-11-03T16:06:48+00:00",
       "stories": [
         {
           "title": "New ISO interoperability standard covers collaboration among mobile robots from multiple vendors",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-03T16:00:33+00:00",
+    "updatedAt": "2026-11-03T16:06:48+00:00",
     "stories": [
       {
         "title": "OpenAI’s Astra rewrites other AI from the inside",
@@ -585,9 +585,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Gambit Series offers a scalable path for collaborative combat aircraft",
-        "url": "https://breakingdefense.com/2026/11/gambit-series-offers-a-scalable-path-for-collaborative-combat-aircraft",
-        "publishedAt": "2026-11-03T15:34:52+00:00",
+        "title": "The defense show circuit keeps rolling, plus Jimmy Stewart goes to war",
+        "url": "https://breakingdefense.com/2026/11/the-defense-show-circuit-keeps-rolling-plus-jimmy-stewart-goes-to-war",
+        "publishedAt": "2026-11-03T16:00:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -612,18 +612,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Former Army secretary heads to OpenAI",
-        "url": "https://breakingdefense.com/2026/11/former-army-secretary-heads-to-openai",
-        "publishedAt": "2026-11-03T15:25:12+00:00",
+        "title": "Gambit Series offers a scalable path for collaborative combat aircraft",
+        "url": "https://breakingdefense.com/2026/11/gambit-series-offers-a-scalable-path-for-collaborative-combat-aircraft",
+        "publishedAt": "2026-11-03T15:34:52+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "The Congressional ‘right to repair’ solution needs some repairs itself",
-        "url": "https://breakingdefense.com/2026/11/the-congressional-right-to-repair-solution-needs-some-repairs-itself",
-        "publishedAt": "2026-11-03T14:30:00+00:00",
+        "title": "Former Army secretary heads to OpenAI",
+        "url": "https://breakingdefense.com/2026/11/former-army-secretary-heads-to-openai",
+        "publishedAt": "2026-11-03T15:25:12+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -742,7 +742,6 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-08"
+    "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
