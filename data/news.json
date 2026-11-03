@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-03T10:00:30+00:00",
+  "generatedAt": "2026-11-03T11:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-03T10:00:30+00:00",
+      "updatedAt": "2026-11-03T11:00:33+00:00",
       "stories": [
+        {
+          "title": "Why does Betelgeuse keep fading? The mystery of Orion's giant star",
+          "url": "https://www.space.com/stargazing/why-does-betelgeuse-keep-fading-the-mystery-of-orions-giant-star",
+          "publishedAt": "2026-11-03T11:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
           "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor",
@@ -40,12 +46,6 @@
           "title": "Viltrox AF 35mm f/1.8 II EVO FE (APO) lens review — how good is this budget lens for astrophotography?",
           "url": "https://www.space.com/stargazing/skywatching-kit/viltrox-af-35mm-f-1-8-ii-evo-fe-apo-lens-review-how-good-is-this-budget-lens-for-astrophotography",
           "publishedAt": "2026-11-02T19:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
-          "url": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
-          "publishedAt": "2026-11-02T17:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-03T10:00:30+00:00",
+      "updatedAt": "2026-11-03T11:00:33+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services gets final approval to list on the TSX",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-03T10:00:30+00:00",
+      "updatedAt": "2026-11-03T11:00:33+00:00",
       "stories": [
         {
           "title": "Joint Statement: Minister McGuinty and Minster McKnight, Wartime Service Recognition",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-03T10:00:30+00:00",
+      "updatedAt": "2026-11-03T11:00:33+00:00",
       "stories": [
         {
           "title": "Sweden’s Saab launches family of AI agents for future aircraft projects",
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-03T10:00:30+00:00",
+      "updatedAt": "2026-11-03T11:00:33+00:00",
       "stories": [
         {
           "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-03T10:00:30+00:00",
+      "updatedAt": "2026-11-03T11:00:33+00:00",
       "stories": [
         {
           "title": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-03T10:00:30+00:00",
+    "updatedAt": "2026-11-03T11:00:33+00:00",
     "stories": [
       {
         "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
@@ -555,10 +555,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor",
-        "publishedAt": "2026-11-03T05:05:00+00:00",
-        "source": "NASA",
+        "title": "Why does Betelgeuse keep fading? The mystery of Orion's giant star",
+        "url": "https://www.space.com/stargazing/why-does-betelgeuse-keep-fading-the-mystery-of-orions-giant-star",
+        "publishedAt": "2026-11-03T11:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -600,19 +600,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "The Pacific’s Busy Storm Season",
-        "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season",
-        "publishedAt": "2026-11-03T05:01:00+00:00",
+        "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor",
+        "publishedAt": "2026-11-03T05:05:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "How to Expand Reliable, Flexible Access to Space",
-        "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space",
-        "publishedAt": "2026-11-02T14:00:00+00:00",
-        "source": "SpaceNews",
+        "title": "The Pacific’s Busy Storm Season",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season",
+        "publishedAt": "2026-11-03T05:01:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
