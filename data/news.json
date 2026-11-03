@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-03T05:00:32+00:00",
+  "generatedAt": "2026-11-03T06:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-03T05:00:32+00:00",
+      "updatedAt": "2026-11-03T06:00:31+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor",
+          "publishedAt": "2026-11-03T05:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "The Pacific’s Busy Storm Season",
+          "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season",
+          "publishedAt": "2026-11-03T05:01:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "How to Expand Reliable, Flexible Access to Space",
           "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space",
@@ -25,22 +37,10 @@
           "source": "Space.com"
         },
         {
-          "title": "TB 26-09 Measured Hammer-Tap Inputs",
-          "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs",
-          "publishedAt": "2026-11-02T20:47:41+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Viltrox AF 35mm f/1.8 II EVO FE (APO) lens review — how good is this budget lens for astrophotography?",
           "url": "https://www.space.com/stargazing/skywatching-kit/viltrox-af-35mm-f-1-8-ii-evo-fe-apo-lens-review-how-good-is-this-budget-lens-for-astrophotography",
           "publishedAt": "2026-11-02T19:00:00+00:00",
           "source": "Space.com"
-        },
-        {
-          "title": "NASA’s CHAPEA Crew “Returns” to Earth",
-          "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth",
-          "publishedAt": "2026-11-02T18:50:42+00:00",
-          "source": "NASA"
         },
         {
           "title": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-03T05:00:32+00:00",
+      "updatedAt": "2026-11-03T06:00:31+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services gets final approval to list on the TSX",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-03T05:00:32+00:00",
+      "updatedAt": "2026-11-03T06:00:31+00:00",
       "stories": [
         {
           "title": "Joint Statement: Minister McGuinty and Minster McKnight, Wartime Service Recognition",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-03T05:00:32+00:00",
+      "updatedAt": "2026-11-03T06:00:31+00:00",
       "stories": [
         {
           "title": "Industry needs more consistent demand signal to scale UGV production: Autonomy consortium exec",
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-03T05:00:32+00:00",
+      "updatedAt": "2026-11-03T06:00:31+00:00",
       "stories": [
         {
           "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-03T05:00:32+00:00",
+      "updatedAt": "2026-11-03T06:00:31+00:00",
       "stories": [
         {
           "title": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-03T05:00:32+00:00",
+    "updatedAt": "2026-11-03T06:00:31+00:00",
     "stories": [
       {
         "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
@@ -555,10 +555,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "How to Expand Reliable, Flexible Access to Space",
-        "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space",
-        "publishedAt": "2026-11-02T14:00:00+00:00",
-        "source": "SpaceNews",
+        "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor",
+        "publishedAt": "2026-11-03T05:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -600,21 +600,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-        "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
-        "publishedAt": "2026-11-03T00:35:52+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "The Pacific’s Busy Storm Season",
+        "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season",
+        "publishedAt": "2026-11-03T05:01:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Tutor Intelligence raises Series B to scale model training, robot deployments",
-        "url": "https://www.therobotreport.com/tutor-intelligence-raises-series-b-to-scale-model-training-robot-deployments",
-        "publishedAt": "2026-11-02T19:25:59+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
+        "title": "How to Expand Reliable, Flexible Access to Space",
+        "url": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space",
+        "publishedAt": "2026-11-02T14:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
