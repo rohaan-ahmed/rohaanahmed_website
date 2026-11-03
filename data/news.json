@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T21:41:38+00:00",
+  "generatedAt": "2026-11-03T22:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-03T21:41:38+00:00",
+      "updatedAt": "2026-11-03T22:00:34+00:00",
       "stories": [
         {
           "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-03T21:41:38+00:00",
+      "updatedAt": "2026-11-03T22:00:34+00:00",
       "stories": [
         {
           "title": "Conservatives take Carney’s Telesat friendship to ethics watchdog",
@@ -198,7 +198,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-03T21:41:38+00:00",
+      "updatedAt": "2026-11-03T22:00:34+00:00",
       "stories": [
         {
           "title": "2026 Remembrance Day Sentry Program honourees to perform ceremonial duty",
@@ -253,7 +253,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-03T21:41:38+00:00",
+      "updatedAt": "2026-11-03T22:00:34+00:00",
       "stories": [
         {
           "title": "Air Force divests its few A-29s, explores ‘future options’",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-03T21:41:38+00:00",
+      "updatedAt": "2026-11-03T22:00:34+00:00",
       "stories": [
         {
           "title": "OpenAI’s Astra rewrites other AI from the inside",
@@ -369,6 +369,12 @@
           "url": "https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-meets-sam-altman-and-witnesses-signing-of-agreements-with-openai",
           "publishedAt": "2026-11-03T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+          "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+          "publishedAt": "2026-11-03T21:43:08+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
@@ -398,12 +404,6 @@
           "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
           "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search",
           "publishedAt": "2026-11-03T16:30:34+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Apple restricts dating apps and AI companions to users 18 and up",
-          "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up",
-          "publishedAt": "2026-11-03T15:38:27+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -447,8 +447,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-03T21:41:38+00:00",
+      "updatedAt": "2026-11-03T22:00:34+00:00",
       "stories": [
+        {
+          "title": "Ben Waters on the latest wireless charging strategies",
+          "url": "https://www.therobotreport.com/ben-waters-on-the-latest-wireless-charging-strategies",
+          "publishedAt": "2026-11-03T21:29:37+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "New ISO interoperability standard covers collaboration among mobile robots from multiple vendors",
           "url": "https://www.therobotreport.com/new-iso-interoperability-standard-covers-collaboration-among-mobile-robots-from-multiple-vendors",
@@ -516,12 +522,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Unusual robotic animals can prove their utility",
-          "url": "https://www.therobotreport.com/unusual-robotic-animals-can-prove-their-utility",
-          "publishedAt": "2026-10-31T12:30:46+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
           "url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
           "publishedAt": "2026-10-30T16:30:03+00:00",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-03T21:41:38+00:00",
+    "updatedAt": "2026-11-03T22:00:34+00:00",
     "stories": [
       {
         "title": "OpenAI’s Astra rewrites other AI from the inside",
@@ -600,9 +600,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "New ISO interoperability standard covers collaboration among mobile robots from multiple vendors",
-        "url": "https://www.therobotreport.com/new-iso-interoperability-standard-covers-collaboration-among-mobile-robots-from-multiple-vendors",
-        "publishedAt": "2026-11-03T14:40:33+00:00",
+        "title": "Ben Waters on the latest wireless charging strategies",
+        "url": "https://www.therobotreport.com/ben-waters-on-the-latest-wireless-charging-strategies",
+        "publishedAt": "2026-11-03T21:29:37+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -749,6 +749,6 @@
   ],
   "warnings": [
     "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-19"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-16"
   ]
 }
