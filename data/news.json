@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T01:00:29+00:00",
+  "generatedAt": "2026-11-03T01:11:42+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-03T01:00:29+00:00",
+      "updatedAt": "2026-11-03T01:11:42+00:00",
       "stories": [
         {
           "title": "How to Expand Reliable, Flexible Access to Space",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-03T01:00:29+00:00",
+      "updatedAt": "2026-11-03T01:11:42+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services gets final approval to list on the TSX",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-03T01:00:29+00:00",
+      "updatedAt": "2026-11-03T01:11:42+00:00",
       "stories": [
         {
           "title": "Joint Statement: Minister McGuinty and Minster McKnight, Wartime Service Recognition",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-03T01:00:29+00:00",
+      "updatedAt": "2026-11-03T01:11:42+00:00",
       "stories": [
         {
           "title": "Industry needs more consistent demand signal to scale UGV production: Autonomy consortium exec",
@@ -332,8 +332,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-03T01:00:29+00:00",
+      "updatedAt": "2026-11-03T01:11:42+00:00",
       "stories": [
+        {
+          "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
+          "publishedAt": "2026-11-03T00:35:52+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
           "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
@@ -356,12 +362,6 @@
           "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
           "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
           "publishedAt": "2026-11-02T22:14:50+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Web host Squarespace lays off 19% of its employees",
-          "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees",
-          "publishedAt": "2026-11-02T19:25:59+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-03T01:00:29+00:00",
+      "updatedAt": "2026-11-03T01:11:42+00:00",
       "stories": [
         {
           "title": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
@@ -525,22 +525,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-03T01:00:29+00:00",
+    "updatedAt": "2026-11-03T01:11:42+00:00",
     "stories": [
       {
-        "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-        "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
-        "publishedAt": "2026-11-02T23:13:53+00:00",
+        "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+        "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
+        "publishedAt": "2026-11-03T00:35:52+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Data centers hit the ballot as OpenAI plots a rebrand",
-        "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
-        "publishedAt": "2026-11-02T11:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+        "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
+        "publishedAt": "2026-11-02T23:13:53+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -609,8 +609,8 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Google’s space data center sends home a haiku",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response",
+        "title": "Data centers hit the ballot as OpenAI plots a rebrand",
+        "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
         "publishedAt": "2026-11-02T11:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
