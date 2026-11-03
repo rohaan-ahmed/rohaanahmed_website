@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T07:00:31+00:00",
+  "generatedAt": "2026-11-03T07:59:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-03T07:00:31+00:00",
+      "updatedAt": "2026-11-03T07:59:28+00:00",
       "stories": [
         {
           "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-03T07:00:31+00:00",
+      "updatedAt": "2026-11-03T07:59:28+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services gets final approval to list on the TSX",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-03T07:00:31+00:00",
+      "updatedAt": "2026-11-03T07:59:28+00:00",
       "stories": [
         {
           "title": "Joint Statement: Minister McGuinty and Minster McKnight, Wartime Service Recognition",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-03T07:00:31+00:00",
+      "updatedAt": "2026-11-03T07:59:28+00:00",
       "stories": [
         {
           "title": "Sweden’s Saab launches family of AI agents for future aircraft projects",
@@ -332,8 +332,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-03T07:00:31+00:00",
+      "updatedAt": "2026-11-03T07:59:28+00:00",
       "stories": [
+        {
+          "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+          "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing",
+          "publishedAt": "2026-11-03T07:20:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
           "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses",
@@ -344,12 +350,6 @@
           "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
           "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps",
           "publishedAt": "2026-11-03T01:49:52+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
-          "publishedAt": "2026-11-03T00:35:52+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-03T07:00:31+00:00",
+      "updatedAt": "2026-11-03T07:59:28+00:00",
       "stories": [
         {
           "title": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
@@ -525,21 +525,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-03T07:00:31+00:00",
+    "updatedAt": "2026-11-03T07:59:28+00:00",
     "stories": [
       {
-        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-        "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses",
-        "publishedAt": "2026-11-03T03:30:00+00:00",
+        "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+        "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing",
+        "publishedAt": "2026-11-03T07:20:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-        "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps",
-        "publishedAt": "2026-11-03T01:49:52+00:00",
+        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+        "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses",
+        "publishedAt": "2026-11-03T03:30:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
