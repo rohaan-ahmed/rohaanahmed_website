@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T06:00:31+00:00",
+  "generatedAt": "2026-11-03T07:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-03T06:00:31+00:00",
+      "updatedAt": "2026-11-03T07:00:31+00:00",
       "stories": [
         {
           "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-03T06:00:31+00:00",
+      "updatedAt": "2026-11-03T07:00:31+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services gets final approval to list on the TSX",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-03T06:00:31+00:00",
+      "updatedAt": "2026-11-03T07:00:31+00:00",
       "stories": [
         {
           "title": "Joint Statement: Minister McGuinty and Minster McKnight, Wartime Service Recognition",
@@ -235,8 +235,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-03T06:00:31+00:00",
+      "updatedAt": "2026-11-03T07:00:31+00:00",
       "stories": [
+        {
+          "title": "Sweden’s Saab launches family of AI agents for future aircraft projects",
+          "url": "https://breakingdefense.com/2026/11/swedens-saab-launches-family-of-ai-agents-for-future-aircraft-projects",
+          "publishedAt": "2026-11-03T06:56:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Industry needs more consistent demand signal to scale UGV production: Autonomy consortium exec",
           "url": "https://breakingdefense.com/2026/11/industry-needs-more-consistent-demand-signal-to-scale-ugv-production-autonomy-consortium-exec",
@@ -265,12 +271,6 @@
           "title": "Greece inks deal for KC-390 fleet",
           "url": "https://breakingdefense.com/2026/11/greece-inks-deal-for-kc-390-fleet",
           "publishedAt": "2026-11-02T16:14:01+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Pacific Command bolsters network defense with Cyber Defense Forces Pacific",
-          "url": "https://breakingdefense.com/2026/11/pacific-command-bolsters-network-defense-with-cyber-defense-forces-pacific",
-          "publishedAt": "2026-11-02T16:05:00+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-03T06:00:31+00:00",
+      "updatedAt": "2026-11-03T07:00:31+00:00",
       "stories": [
         {
           "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-03T06:00:31+00:00",
+      "updatedAt": "2026-11-03T07:00:31+00:00",
       "stories": [
         {
           "title": "Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-03T06:00:31+00:00",
+    "updatedAt": "2026-11-03T07:00:31+00:00",
     "stories": [
       {
         "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Industry needs more consistent demand signal to scale UGV production: Autonomy consortium exec",
-        "url": "https://breakingdefense.com/2026/11/industry-needs-more-consistent-demand-signal-to-scale-ugv-production-autonomy-consortium-exec",
-        "publishedAt": "2026-11-02T19:47:29+00:00",
+        "title": "Sweden’s Saab launches family of AI agents for future aircraft projects",
+        "url": "https://breakingdefense.com/2026/11/swedens-saab-launches-family-of-ai-agents-for-future-aircraft-projects",
+        "publishedAt": "2026-11-03T06:56:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
