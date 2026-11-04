@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T18:01:05+00:00",
+  "generatedAt": "2026-11-04T19:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-04T18:01:05+00:00",
+      "updatedAt": "2026-11-04T19:00:33+00:00",
       "stories": [
         {
           "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-04T18:01:05+00:00",
+      "updatedAt": "2026-11-04T19:00:33+00:00",
       "stories": [
+        {
+          "title": "Galaxia OSPREY satellite to test moving defence data in orbit",
+          "url": "https://spaceq.ca/galaxia-osprey-satellite-defence-data",
+          "publishedAt": "2026-11-04T18:08:30+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Conservatives take Carney’s Telesat friendship to ethics watchdog",
           "url": "https://spaceq.ca/carney-telesat-friendship-ethics-watchdog",
@@ -170,12 +176,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "Telesat Q3 2026: Lightspeed global service slips to mid-2028",
-          "url": "https://spaceq.ca/telesat-q3-2026-lightspeed-global-service-slips",
-          "publishedAt": "2026-10-30T21:16:07+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "A first spacewalk in the books for Canadian Space Agency astronaut Joshua Kutryk",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/a-first-spacewalk-in-the-books-for-canadian-space-agency-astronaut-joshua-kutryk.html",
           "publishedAt": "2026-10-30T13:51:59+00:00",
@@ -198,7 +198,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-04T18:01:05+00:00",
+      "updatedAt": "2026-11-04T19:00:33+00:00",
       "stories": [
         {
           "title": "2026 Remembrance Day Sentry Program honourees to perform ceremonial duty",
@@ -253,13 +253,25 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-04T18:01:05+00:00",
+      "updatedAt": "2026-11-04T19:00:33+00:00",
       "stories": [
+        {
+          "title": "Naval Group unveils new drone carrier concept",
+          "url": "https://breakingdefense.com/2026/11/naval-group-unveils-new-drone-carrier-concept",
+          "publishedAt": "2026-11-04T18:25:58+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "India taps two domestic shipbuilders for $5.7B corvette program",
           "url": "https://breakingdefense.com/2026/11/india-taps-two-domestic-shipbuilders-for-5-7b-corvette-program",
           "publishedAt": "2026-11-04T17:37:32+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
+          "url": "https://www.defensenews.com/video/2026/11/04/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26",
+          "publishedAt": "2026-11-04T18:27:06+00:00",
+          "source": "Defense News"
         },
         {
           "title": "The Pentagon needs more ammo for the Iran war. Small communities are paying the price.",
@@ -286,12 +298,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "UK airshow RIAT permanently relocates from Fairford",
-          "url": "https://breakingdefense.com/2026/11/uk-airshow-riat-permanently-relocates-from-fairford",
-          "publishedAt": "2026-11-04T15:15:47+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Saildrone expands its European market reach with manufacturing partner in Norway",
           "url": "https://www.defensenews.com/global/europe/2026/11/04/saildrone-expands-its-european-market-reach-with-manufacturing-partner-in-norway",
           "publishedAt": "2026-11-04T12:37:22+00:00",
@@ -307,12 +313,6 @@
           "title": "France tasks Naval Group to develop large oceangoing underwater drone",
           "url": "https://www.defensenews.com/global/europe/2026/11/04/france-tasks-naval-group-to-develop-large-oceangoing-underwater-drone",
           "publishedAt": "2026-11-04T09:51:15+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "MBDA’s high-speed strike missile to have range ‘far’ exceeding Exocet",
-          "url": "https://www.defensenews.com/global/europe/2026/11/04/mbda-high-speed-strike-missile-to-have-range-far-exceeding-exocet",
-          "publishedAt": "2026-11-04T06:30:53+00:00",
           "source": "Defense News"
         },
         {
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-04T18:01:05+00:00",
+      "updatedAt": "2026-11-04T19:00:33+00:00",
       "stories": [
         {
           "title": "Apple lets any app plug into Siri AI",
@@ -369,6 +369,12 @@
           "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch",
           "publishedAt": "2026-11-04T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+          "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs",
+          "publishedAt": "2026-11-04T18:44:57+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
@@ -419,12 +425,6 @@
           "source": "TLDR AI"
         },
         {
-          "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-          "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day",
-          "publishedAt": "2026-11-04T13:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "OpenAI’s Astra rewrites other AI from the inside",
           "url": "https://rikiyat.github.io/blog/weight-space-programming",
           "publishedAt": "2026-11-03T11:00:00+00:00",
@@ -447,13 +447,19 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-04T18:01:05+00:00",
+      "updatedAt": "2026-11-04T19:00:33+00:00",
       "stories": [
         {
           "title": "Robotics Startup Radar 2026",
           "url": "https://www.therobotreport.com/robotics-startup-radar-2026",
           "publishedAt": "2026-11-04T16:08:46+00:00",
           "source": "The Robot Report"
+        },
+        {
+          "title": "Are Drone Ports the Next Annoying Tech Neighbor?",
+          "url": "https://spectrum.ieee.org/drone-delivery-noise",
+          "publishedAt": "2026-11-04T18:47:21+00:00",
+          "source": "IEEE Spectrum Robotics"
         },
         {
           "title": "How GlobalLogic helped Haystack Robotics build a UV disinfection robot",
@@ -504,12 +510,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Top 10 robotics developments of October 2026",
-          "url": "https://www.therobotreport.com/top-10-robotics-developments-october-2026",
-          "publishedAt": "2026-11-02T17:56:42+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
           "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big",
           "publishedAt": "2026-11-02T14:00:00+00:00",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-04T18:01:05+00:00",
+    "updatedAt": "2026-11-04T19:00:33+00:00",
     "stories": [
       {
         "title": "Apple lets any app plug into Siri AI",
@@ -564,9 +564,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Conservatives take Carney’s Telesat friendship to ethics watchdog",
-        "url": "https://spaceq.ca/carney-telesat-friendship-ethics-watchdog",
-        "publishedAt": "2026-11-03T21:21:22+00:00",
+        "title": "Galaxia OSPREY satellite to test moving defence data in orbit",
+        "url": "https://spaceq.ca/galaxia-osprey-satellite-defence-data",
+        "publishedAt": "2026-11-04T18:08:30+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -591,9 +591,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "India taps two domestic shipbuilders for $5.7B corvette program",
-        "url": "https://breakingdefense.com/2026/11/india-taps-two-domestic-shipbuilders-for-5-7b-corvette-program",
-        "publishedAt": "2026-11-04T17:37:32+00:00",
+        "title": "Naval Group unveils new drone carrier concept",
+        "url": "https://breakingdefense.com/2026/11/naval-group-unveils-new-drone-carrier-concept",
+        "publishedAt": "2026-11-04T18:25:58+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -618,19 +618,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "The Pentagon needs more ammo for the Iran war. Small communities are paying the price.",
-        "url": "https://www.defensenews.com/pentagon/2026/11/04/the-pentagon-needs-more-ammo-for-the-iran-war-small-communities-are-paying-the-price",
-        "publishedAt": "2026-11-04T17:38:06+00:00",
-        "source": "Defense News",
+        "title": "India taps two domestic shipbuilders for $5.7B corvette program",
+        "url": "https://breakingdefense.com/2026/11/india-taps-two-domestic-shipbuilders-for-5-7b-corvette-program",
+        "publishedAt": "2026-11-04T17:37:32+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "EXCLUSIVE: House China committee pushes Air Force on think tank cuts",
-        "url": "https://breakingdefense.com/2026/11/house-china-committee-pushes-air-force-on-think-tank-cuts",
-        "publishedAt": "2026-11-04T16:28:45+00:00",
-        "source": "Breaking Defense",
+        "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
+        "url": "https://www.defensenews.com/video/2026/11/04/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26",
+        "publishedAt": "2026-11-04T18:27:06+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
