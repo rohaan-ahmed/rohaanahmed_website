@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-04T15:00:34+00:00",
+  "generatedAt": "2026-11-04T16:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-04T15:00:34+00:00",
+      "updatedAt": "2026-11-04T16:00:30+00:00",
       "stories": [
+        {
+          "title": "Hubble Reveals Cosmic Mystery",
+          "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery",
+          "publishedAt": "2026-11-04T15:59:36+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Students gather to explore Hawaii's glorious night sky | Space photo of the day for Nov. 4, 2026",
+          "url": "https://www.space.com/stargazing/students-gather-to-explore-hawaiis-glorious-night-sky-space-photo-of-the-day-for-nov-4-2026",
+          "publishedAt": "2026-11-04T15:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Drone warfare in space: Swarms of autonomous, laser-shooting cubesats could defend Western satellites in orbit",
           "url": "https://www.space.com/space-exploration/satellites/drone-warfare-in-space-swarms-of-autonomous-laser-shooting-cubesats-could-defend-western-satellites-in-orbit",
@@ -22,12 +34,6 @@
           "title": "Don't miss out on 'Dark Matter' — this early Black Friday NordVPN deal has up to $386 off, meaning you can stream the latest sci-fi series from anywhere",
           "url": "https://www.space.com/technology/dark-matter-early-black-friday-nordvpn-deal-386-dollars-off",
           "publishedAt": "2026-11-04T11:27:47+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "The Taurid meteor shower peaks tonight — and fireballs could steal the show",
-          "url": "https://www.space.com/stargazing/meteor-showers/the-taurid-meteor-shower-2026-peaks-tonight-and-fireballs-could-steal-the-show",
-          "publishedAt": "2026-11-04T11:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -53,12 +59,6 @@
           "url": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution",
           "publishedAt": "2026-11-03T13:30:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Astronaut and Earth",
-          "url": "https://www.nasa.gov/image-article/astronaut-and-earth",
-          "publishedAt": "2026-11-03T16:37:42+00:00",
-          "source": "NASA"
         },
         {
           "title": "10 asteroid mysteries that Hera will explore",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-04T15:00:34+00:00",
+      "updatedAt": "2026-11-04T16:00:30+00:00",
       "stories": [
         {
           "title": "Conservatives take Carney’s Telesat friendship to ethics watchdog",
@@ -198,7 +198,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-04T15:00:34+00:00",
+      "updatedAt": "2026-11-04T16:00:30+00:00",
       "stories": [
         {
           "title": "2026 Remembrance Day Sentry Program honourees to perform ceremonial duty",
@@ -253,8 +253,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-04T15:00:34+00:00",
+      "updatedAt": "2026-11-04T16:00:30+00:00",
       "stories": [
+        {
+          "title": "Congress’s defense advocates take big hit in 2026 midterm elections",
+          "url": "https://breakingdefense.com/2026/11/congresss-defense-advocates-take-big-hit-in-2026-midterm-elections",
+          "publishedAt": "2026-11-04T15:25:49+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "UK airshow RIAT permanently relocates from Fairford",
+          "url": "https://breakingdefense.com/2026/11/uk-airshow-riat-permanently-relocates-from-fairford",
+          "publishedAt": "2026-11-04T15:15:47+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Leonardo, Fincanteri revamp joint venture, aiming to trim frigate build time by 18 months",
           "url": "https://breakingdefense.com/2026/11/leonardo-fincanteri-revamp-joint-venture-aiming-to-trim-frigate-build-time-by-18-months",
@@ -298,18 +310,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Thales subsidiary lands US Navy contract for remote mine hunting modules",
-          "url": "https://breakingdefense.com/2026/11/thales-subsidiary-lands-us-navy-contract-for-remote-mine-hunting-modules",
-          "publishedAt": "2026-11-03T22:40:45+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Air Force divests its few A-29s, explores ‘future options’",
-          "url": "https://breakingdefense.com/2026/11/air-force-divests-its-few-a-29s-explores-future-options",
-          "publishedAt": "2026-11-03T20:34:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "US Air Force asks industry for new cruise missile for Ukraine",
           "url": "https://www.defensenews.com/industry/2026/11/03/us-air-force-asks-industry-for-new-cruise-missile-for-ukraine",
           "publishedAt": "2026-11-03T20:14:25+00:00",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-04T15:00:34+00:00",
+      "updatedAt": "2026-11-04T16:00:30+00:00",
       "stories": [
         {
           "title": "Apple lets any app plug into Siri AI",
@@ -447,8 +447,20 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-04T15:00:34+00:00",
+      "updatedAt": "2026-11-04T16:00:30+00:00",
       "stories": [
+        {
+          "title": "How GlobalLogic helped Haystack Robotics build a UV disinfection robot",
+          "url": "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot",
+          "publishedAt": "2026-11-04T15:22:55+00:00",
+          "source": "The Robot Report"
+        },
+        {
+          "title": "LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action",
+          "url": "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action",
+          "publishedAt": "2026-11-04T15:02:57+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
           "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day",
@@ -504,18 +516,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "28 Zero-Day Findings in Less Than Two Days: What AI-Speed Discovery Means for Robotics",
-          "url": "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics",
-          "publishedAt": "2026-11-01T14:00:58+00:00",
-          "source": "The Robot Report"
-        },
-        {
-          "title": "Why physical AI is the next lucrative frontier",
-          "url": "https://www.therobotreport.com/why-physical-ai-next-lucrative-frontier",
-          "publishedAt": "2026-11-01T13:30:41+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "TechCrunch Mobility: A new, bigger AV boom is here",
           "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here",
           "publishedAt": "2026-11-01T17:04:00+00:00",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-04T15:00:34+00:00",
+    "updatedAt": "2026-11-04T16:00:30+00:00",
     "stories": [
       {
         "title": "Apple lets any app plug into Siri AI",
@@ -573,10 +573,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Drone warfare in space: Swarms of autonomous, laser-shooting cubesats could defend Western satellites in orbit",
-        "url": "https://www.space.com/space-exploration/satellites/drone-warfare-in-space-swarms-of-autonomous-laser-shooting-cubesats-could-defend-western-satellites-in-orbit",
-        "publishedAt": "2026-11-04T13:00:00+00:00",
-        "source": "Space.com",
+        "title": "Hubble Reveals Cosmic Mystery",
+        "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery",
+        "publishedAt": "2026-11-04T15:59:36+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -591,19 +591,19 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Leonardo, Fincanteri revamp joint venture, aiming to trim frigate build time by 18 months",
-        "url": "https://breakingdefense.com/2026/11/leonardo-fincanteri-revamp-joint-venture-aiming-to-trim-frigate-build-time-by-18-months",
-        "publishedAt": "2026-11-04T14:35:07+00:00",
+        "title": "Congress’s defense advocates take big hit in 2026 midterm elections",
+        "url": "https://breakingdefense.com/2026/11/congresss-defense-advocates-take-big-hit-in-2026-midterm-elections",
+        "publishedAt": "2026-11-04T15:25:49+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-        "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day",
-        "publishedAt": "2026-11-04T13:00:00+00:00",
-        "source": "TechCrunch Robotics",
+        "title": "How GlobalLogic helped Haystack Robotics build a UV disinfection robot",
+        "url": "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot",
+        "publishedAt": "2026-11-04T15:22:55+00:00",
+        "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
@@ -618,21 +618,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Saildrone expands its European market reach with manufacturing partner in Norway",
-        "url": "https://www.defensenews.com/global/europe/2026/11/04/saildrone-expands-its-european-market-reach-with-manufacturing-partner-in-norway",
-        "publishedAt": "2026-11-04T12:37:22+00:00",
-        "source": "Defense News",
+        "title": "UK airshow RIAT permanently relocates from Fairford",
+        "url": "https://breakingdefense.com/2026/11/uk-airshow-riat-permanently-relocates-from-fairford",
+        "publishedAt": "2026-11-04T15:15:47+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Israel Weapons Industry expands into Southeast Asia with Thailand’s deployment of counter-drone system",
-        "url": "https://breakingdefense.com/2026/11/israel-weapons-industry-expands-into-southeast-asia-with-thailands-deployment-of-counter-drone-system",
-        "publishedAt": "2026-11-04T11:09:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action",
+        "url": "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action",
+        "publishedAt": "2026-11-04T15:02:57+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
