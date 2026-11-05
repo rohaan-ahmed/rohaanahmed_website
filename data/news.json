@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-05T05:00:32+00:00",
+  "generatedAt": "2026-11-05T06:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-05T05:00:32+00:00",
+      "updatedAt": "2026-11-05T06:00:30+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette",
+          "publishedAt": "2026-11-05T05:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+          "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites",
+          "publishedAt": "2026-11-05T05:01:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
           "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research",
@@ -41,18 +53,6 @@
           "url": "https://www.space.com/entertainment/space-movies-shows/trials-and-tribble-ations-at-30-the-classic-star-trek-deep-space-nine-episode-that-brought-captains-kirk-and-sisko-face-to-face",
           "publishedAt": "2026-11-04T20:00:00+00:00",
           "source": "Space.com"
-        },
-        {
-          "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-          "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications",
-          "publishedAt": "2026-11-04T18:00:02+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-          "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings",
-          "publishedAt": "2026-11-04T16:52:43+00:00",
-          "source": "NASA"
         },
         {
           "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-05T05:00:32+00:00",
+      "updatedAt": "2026-11-05T06:00:30+00:00",
       "stories": [
         {
           "title": "Alex MacDonald appointed Canadian Space Agency president",
@@ -198,7 +198,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-05T05:00:32+00:00",
+      "updatedAt": "2026-11-05T06:00:30+00:00",
       "stories": [
         {
           "title": "Update on personnel injured in Canadian Forces Base Wainwright incident",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-05T05:00:32+00:00",
+      "updatedAt": "2026-11-05T06:00:30+00:00",
       "stories": [
         {
           "title": "Navy unfairly evaluated Saildrone MUSV proposal, court finds",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-05T05:00:32+00:00",
+      "updatedAt": "2026-11-05T06:00:30+00:00",
       "stories": [
         {
           "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -395,22 +395,40 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-          "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month",
-          "publishedAt": "2026-11-04T22:13:16+00:00",
-          "source": "TechCrunch AI"
+          "title": "Siri AI is now open to all developers (4 minute read)",
+          "url": "https://developer.apple.com/news?id=gdk2umrf&amp%3Butm_source=tldrai",
+          "publishedAt": "2026-11-04T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Almost no one uses AI agents to book their Uber, company says",
-          "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
-          "publishedAt": "2026-11-04T21:56:01+00:00",
-          "source": "TechCrunch AI"
+          "title": "Baseten Introduces Grid, Sandboxes, and Serverless Loops (5 minute read)",
+          "url": "https://www.baseten.co/blog/the-building-blocks-of-the-open-frontier",
+          "publishedAt": "2026-11-04T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "OpenAI is already trying to shape the 2028 election",
-          "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election",
-          "publishedAt": "2026-11-04T21:25:44+00:00",
-          "source": "TechCrunch AI"
+          "title": "Fireworks Launches Faster AI Inference and Enterprise Tools (5 minute read)",
+          "url": "https://fireworks.ai/blog/fireworks-unveils-new-products-at-forge-to-help-companies-build-specialized-intelligence",
+          "publishedAt": "2026-11-04T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How Much Does Reasoning Effort Affect Score and Cost? (8 minute read)",
+          "url": "https://www.vals.ai/blogs/reasoning-effort",
+          "publishedAt": "2026-11-04T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Learnings from Auditing Public Evaluations (8 minute read)",
+          "url": "https://www.primeintellect.ai/blog/auditing-public-evaluations",
+          "publishedAt": "2026-11-04T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Training a Text-to-Image Model for $21K (13 minute read)",
+          "url": "https://www.linum.ai/field-notes/pjit-21k",
+          "publishedAt": "2026-11-04T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI’s Astra rewrites other AI from the inside",
@@ -429,31 +447,13 @@
           "url": "https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-meets-sam-altman-and-witnesses-signing-of-agreements-with-openai",
           "publishedAt": "2026-11-03T11:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Data centers hit the ballot as OpenAI plots a rebrand",
-          "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
-          "publishedAt": "2026-11-02T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Google’s space data center sends home a haiku",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response",
-          "publishedAt": "2026-11-02T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Report: Nvidia CEO targeted by alleged Chinese spy",
-          "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
-          "publishedAt": "2026-10-30T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-05T05:00:32+00:00",
+      "updatedAt": "2026-11-05T06:00:30+00:00",
       "stories": [
         {
           "title": "Robotics Startup Radar 2026",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-05T05:00:32+00:00",
+    "updatedAt": "2026-11-05T06:00:30+00:00",
     "stories": [
       {
         "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-        "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research",
-        "publishedAt": "2026-11-05T01:43:21+00:00",
+        "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette",
+        "publishedAt": "2026-11-05T05:05:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -633,12 +633,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "What now? Budget fight, Hegseth impeachment on deck for defense-focused lawmakers after midterms",
-        "url": "https://breakingdefense.com/2026/11/what-now-budget-fight-hegseth-impeachment-on-deck-for-defense-focused-lawmakers-after-midterms",
-        "publishedAt": "2026-11-04T22:47:45+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+        "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites",
+        "publishedAt": "2026-11-05T05:01:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -755,7 +755,6 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-19"
+    "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
