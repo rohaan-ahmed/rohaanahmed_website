@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T17:37:16+00:00",
+  "generatedAt": "2026-11-05T18:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-05T17:37:16+00:00",
+      "updatedAt": "2026-11-05T18:00:34+00:00",
       "stories": [
         {
           "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-05T17:37:16+00:00",
+      "updatedAt": "2026-11-05T18:00:34+00:00",
       "stories": [
+        {
+          "title": "Voyager Technologies Q3 2026 results: core business lifts forecast",
+          "url": "https://spaceq.ca/voyager-technologies-q3-2026-results",
+          "publishedAt": "2026-11-05T17:53:26+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "GHGSat, TACTIQL among Deloitte Technology Fast 50 winners",
           "url": "https://spaceq.ca/ghgsat-tactiql-deloitte-technology-fast-50",
@@ -170,12 +176,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "National security strategy gives space tech a supporting role",
-          "url": "https://spaceq.ca/national-security-strategy-space",
-          "publishedAt": "2026-11-02T16:20:33+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "A first spacewalk in the books for Canadian Space Agency astronaut Joshua Kutryk",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/a-first-spacewalk-in-the-books-for-canadian-space-agency-astronaut-joshua-kutryk.html",
           "publishedAt": "2026-10-30T13:51:59+00:00",
@@ -192,7 +192,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-05T17:37:16+00:00",
+      "updatedAt": "2026-11-05T18:00:34+00:00",
       "stories": [
         {
           "title": "Royal Canadian Navy ships return to Canada following NATO Mine Countermeasures Mission in Europe",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-05T17:37:16+00:00",
+      "updatedAt": "2026-11-05T18:00:34+00:00",
       "stories": [
         {
           "title": "Saildrone inks agreement with Norwegian shipbuilder Umoe Mandal to produce USVs",
@@ -356,13 +356,19 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-05T17:37:16+00:00",
+      "updatedAt": "2026-11-05T18:00:34+00:00",
       "stories": [
         {
           "title": "Midterm voters turn on data centers, AI",
           "url": "https://datacentersontheballot.com/",
           "publishedAt": "2026-11-05T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Claude can now analyze your spending with its new Personal Finance tool",
+          "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool",
+          "publishedAt": "2026-11-05T18:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Axiom Math wants to keep AI slop out of mathematics",
@@ -374,12 +380,6 @@
           "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
           "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure",
           "publishedAt": "2026-11-05T15:19:05+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-          "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents",
-          "publishedAt": "2026-11-05T14:42:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-05T17:37:16+00:00",
+      "updatedAt": "2026-11-05T18:00:34+00:00",
       "stories": [
         {
           "title": "How Ambi Robotics helps its customers prepare for peak season",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-05T17:37:16+00:00",
+    "updatedAt": "2026-11-05T18:00:34+00:00",
     "stories": [
       {
         "title": "Midterm voters turn on data centers, AI",
@@ -561,18 +561,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Axiom Math wants to keep AI slop out of mathematics",
-        "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics",
-        "publishedAt": "2026-11-05T16:16:45+00:00",
+        "title": "Claude can now analyze your spending with its new Personal Finance tool",
+        "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool",
+        "publishedAt": "2026-11-05T18:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "GHGSat, TACTIQL among Deloitte Technology Fast 50 winners",
-        "url": "https://spaceq.ca/ghgsat-tactiql-deloitte-technology-fast-50",
-        "publishedAt": "2026-11-05T15:20:13+00:00",
+        "title": "Voyager Technologies Q3 2026 results: core business lifts forecast",
+        "url": "https://spaceq.ca/voyager-technologies-q3-2026-results",
+        "publishedAt": "2026-11-05T17:53:26+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -615,6 +615,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "GHGSat, TACTIQL among Deloitte Technology Fast 50 winners",
+        "url": "https://spaceq.ca/ghgsat-tactiql-deloitte-technology-fast-50",
+        "publishedAt": "2026-11-05T15:20:13+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
         "url": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai",
         "publishedAt": "2026-11-05T14:15:38+00:00",
@@ -627,15 +636,6 @@
         "title": "Fairbanks Morse Defense in talks with Navy about Seawolf-class submarine repairs",
         "url": "https://breakingdefense.com/2026/11/fairbanks-morse-defense-in-talks-with-navy-about-seawolf-class-submarine-repairs",
         "publishedAt": "2026-11-05T17:00:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Shield AI acquires radar firm Echodyne in $5.3B deal",
-        "url": "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal",
-        "publishedAt": "2026-11-05T16:30:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
