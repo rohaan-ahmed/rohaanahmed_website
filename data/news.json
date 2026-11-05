@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T02:17:31+00:00",
+  "generatedAt": "2026-11-05T03:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-05T02:17:31+00:00",
+      "updatedAt": "2026-11-05T03:00:33+00:00",
       "stories": [
         {
           "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-05T02:17:31+00:00",
+      "updatedAt": "2026-11-05T03:00:33+00:00",
       "stories": [
+        {
+          "title": "Alex MacDonald appointed Canadian Space Agency president",
+          "url": "https://spaceq.ca/canadian-space-agency-president-alex-macdonald",
+          "publishedAt": "2026-11-05T02:32:55+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Midterm elections shift space power to Democrats, with stakes for Canada",
           "url": "https://spaceq.ca/midterm-elections-space-committees-democrats",
@@ -170,12 +176,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "MDA lands IRIS² antenna work as space index falls 2.2 per cent",
-          "url": "https://spaceq.ca/the-weekly-close-october-30-2026",
-          "publishedAt": "2026-10-31T19:37:29+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "A first spacewalk in the books for Canadian Space Agency astronaut Joshua Kutryk",
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/a-first-spacewalk-in-the-books-for-canadian-space-agency-astronaut-joshua-kutryk.html",
           "publishedAt": "2026-10-30T13:51:59+00:00",
@@ -198,7 +198,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-05T02:17:31+00:00",
+      "updatedAt": "2026-11-05T03:00:33+00:00",
       "stories": [
         {
           "title": "Update on personnel injured in Canadian Forces Base Wainwright incident",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-05T02:17:31+00:00",
+      "updatedAt": "2026-11-05T03:00:33+00:00",
       "stories": [
         {
           "title": "Navy unfairly evaluated Saildrone MUSV proposal, court finds",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-05T02:17:31+00:00",
+      "updatedAt": "2026-11-05T03:00:33+00:00",
       "stories": [
         {
           "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-05T02:17:31+00:00",
+      "updatedAt": "2026-11-05T03:00:33+00:00",
       "stories": [
         {
           "title": "Robotics Startup Radar 2026",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-05T02:17:31+00:00",
+    "updatedAt": "2026-11-05T03:00:33+00:00",
     "stories": [
       {
         "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -570,9 +570,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Midterm elections shift space power to Democrats, with stakes for Canada",
-        "url": "https://spaceq.ca/midterm-elections-space-committees-democrats",
-        "publishedAt": "2026-11-04T21:28:00+00:00",
+        "title": "Alex MacDonald appointed Canadian Space Agency president",
+        "url": "https://spaceq.ca/canadian-space-agency-president-alex-macdonald",
+        "publishedAt": "2026-11-05T02:32:55+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -615,6 +615,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Midterm elections shift space power to Democrats, with stakes for Canada",
+        "url": "https://spaceq.ca/midterm-elections-space-committees-democrats",
+        "publishedAt": "2026-11-04T21:28:00+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Galaxia OSPREY satellite to test moving defence data in orbit",
         "url": "https://spaceq.ca/galaxia-osprey-satellite-defence-data",
         "publishedAt": "2026-11-04T18:08:30+00:00",
@@ -628,15 +637,6 @@
         "url": "https://breakingdefense.com/2026/11/what-now-budget-fight-hegseth-impeachment-on-deck-for-defense-focused-lawmakers-after-midterms",
         "publishedAt": "2026-11-04T22:47:45+00:00",
         "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/11/04/amid-iran-conflict-non-hostile-deaths-of-2-us-airmen-raise-overseas-toll-to-23",
-        "publishedAt": "2026-11-04T23:08:17+00:00",
-        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
