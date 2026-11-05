@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-05T01:00:38+00:00",
+  "generatedAt": "2026-11-05T02:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-05T01:00:38+00:00",
+      "updatedAt": "2026-11-05T02:00:30+00:00",
       "stories": [
+        {
+          "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+          "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research",
+          "publishedAt": "2026-11-05T01:43:21+00:00",
+          "source": "NASA"
+        },
         {
           "title": "On this day in space! Nov. 4, 2015: A rail-launched Super Strypi rocket carrying 13 baby satellites failed during its debut launch for the US Air Force",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-4-2026",
@@ -46,12 +52,6 @@
           "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
           "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings",
           "publishedAt": "2026-11-04T16:52:43+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-          "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour",
-          "publishedAt": "2026-11-04T16:16:41+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-05T01:00:38+00:00",
+      "updatedAt": "2026-11-05T02:00:30+00:00",
       "stories": [
         {
           "title": "Midterm elections shift space power to Democrats, with stakes for Canada",
@@ -198,7 +198,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-05T01:00:38+00:00",
+      "updatedAt": "2026-11-05T02:00:30+00:00",
       "stories": [
         {
           "title": "Update on personnel injured in Canadian Forces Base Wainwright incident",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-05T01:00:38+00:00",
+      "updatedAt": "2026-11-05T02:00:30+00:00",
       "stories": [
         {
           "title": "Navy unfairly evaluated Saildrone MUSV proposal, court finds",
@@ -356,8 +356,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-05T01:00:38+00:00",
+      "updatedAt": "2026-11-05T02:00:30+00:00",
       "stories": [
+        {
+          "title": "Apple is reportedly cutting budgets for its internal AI usage",
+          "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
+          "publishedAt": "2026-11-05T01:26:22+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "After the midterms, a bigger clash over data centers could be coming",
+          "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming",
+          "publishedAt": "2026-11-05T01:02:14+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
           "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared",
@@ -381,18 +393,6 @@
           "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch",
           "publishedAt": "2026-11-04T11:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-          "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month",
-          "publishedAt": "2026-11-04T22:13:16+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Almost no one uses AI agents to book their Uber, company says",
-          "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
-          "publishedAt": "2026-11-04T21:56:01+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "Siri AI is now open to all developers (4 minute read)",
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-05T01:00:38+00:00",
+      "updatedAt": "2026-11-05T02:00:30+00:00",
       "stories": [
         {
           "title": "Robotics Startup Radar 2026",
@@ -549,22 +549,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-05T01:00:38+00:00",
+    "updatedAt": "2026-11-05T02:00:30+00:00",
     "stories": [
       {
-        "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-        "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared",
-        "publishedAt": "2026-11-04T22:45:09+00:00",
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
+        "publishedAt": "2026-11-05T01:26:22+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Apple lets any app plug into Siri AI",
-        "url": "https://developer.apple.com/news?id=gdk2umrf",
-        "publishedAt": "2026-11-04T11:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "After the midterms, a bigger clash over data centers could be coming",
+        "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming",
+        "publishedAt": "2026-11-05T01:02:14+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -579,10 +579,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "On this day in space! Nov. 4, 2015: A rail-launched Super Strypi rocket carrying 13 baby satellites failed during its debut launch for the US Air Force",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-4-2026",
-        "publishedAt": "2026-11-04T23:00:36+00:00",
-        "source": "Space.com",
+        "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+        "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research",
+        "publishedAt": "2026-11-05T01:43:21+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
