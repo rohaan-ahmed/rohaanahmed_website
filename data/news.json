@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-05T06:00:30+00:00",
+  "generatedAt": "2026-11-05T09:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-05T06:00:30+00:00",
+      "updatedAt": "2026-11-05T09:00:34+00:00",
       "stories": [
+        {
+          "title": "2 astronauts will finish upgrading ISS solar arrays during spacewalk today: Watch it live",
+          "url": "https://www.space.com/space-exploration/international-space-station/2-astronauts-will-finish-upgrading-iss-solar-arrays-during-spacewalk-today-watch-it-live",
+          "publishedAt": "2026-11-05T08:08:36+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
           "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette",
@@ -47,12 +53,6 @@
           "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon",
           "publishedAt": "2026-11-04T21:04:10+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "'Trials and Tribble-ations' at 30: The classic 'Star Trek: Deep Space Nine' episode that brought Captains Kirk and Sisko face-to-face",
-          "url": "https://www.space.com/entertainment/space-movies-shows/trials-and-tribble-ations-at-30-the-classic-star-trek-deep-space-nine-episode-that-brought-captains-kirk-and-sisko-face-to-face",
-          "publishedAt": "2026-11-04T20:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-05T06:00:30+00:00",
+      "updatedAt": "2026-11-05T09:00:34+00:00",
       "stories": [
         {
           "title": "Alex MacDonald appointed Canadian Space Agency president",
@@ -198,7 +198,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-05T06:00:30+00:00",
+      "updatedAt": "2026-11-05T09:00:34+00:00",
       "stories": [
         {
           "title": "Update on personnel injured in Canadian Forces Base Wainwright incident",
@@ -259,8 +259,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-05T06:00:30+00:00",
+      "updatedAt": "2026-11-05T09:00:34+00:00",
       "stories": [
+        {
+          "title": "MBDA plans to fly ‘fat’ hypersonic interceptor demonstrator before end-2029",
+          "url": "https://www.defensenews.com/global/europe/2026/11/05/mbda-plans-to-fly-fat-hypersonic-interceptor-demonstrator-before-end-2029",
+          "publishedAt": "2026-11-05T08:26:11+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Navy unfairly evaluated Saildrone MUSV proposal, court finds",
           "url": "https://breakingdefense.com/2026/11/navy-unfairly-evaluated-saildrone-musv-proposal-court-finds",
@@ -328,12 +334,6 @@
           "source": "DefenseScoop"
         },
         {
-          "title": "Saildrone expands its European market reach with manufacturing partner in Norway",
-          "url": "https://www.defensenews.com/global/europe/2026/11/04/saildrone-expands-its-european-market-reach-with-manufacturing-partner-in-norway",
-          "publishedAt": "2026-11-04T12:37:22+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Former Army boss Dan Driscoll joins OpenAI as senior counselor",
           "url": "https://defensescoop.com/2026/11/03/dan-driscoll-openai-strategic-counselor",
           "publishedAt": "2026-11-03T16:47:37+00:00",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-05T06:00:30+00:00",
+      "updatedAt": "2026-11-05T09:00:34+00:00",
       "stories": [
         {
           "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-05T06:00:30+00:00",
+      "updatedAt": "2026-11-05T09:00:34+00:00",
       "stories": [
         {
           "title": "Robotics Startup Radar 2026",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-05T06:00:30+00:00",
+    "updatedAt": "2026-11-05T09:00:34+00:00",
     "stories": [
       {
         "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -579,10 +579,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette",
-        "publishedAt": "2026-11-05T05:05:00+00:00",
-        "source": "NASA",
+        "title": "2 astronauts will finish upgrading ISS solar arrays during spacewalk today: Watch it live",
+        "url": "https://www.space.com/space-exploration/international-space-station/2-astronauts-will-finish-upgrading-iss-solar-arrays-during-spacewalk-today-watch-it-live",
+        "publishedAt": "2026-11-05T08:08:36+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -597,10 +597,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Navy unfairly evaluated Saildrone MUSV proposal, court finds",
-        "url": "https://breakingdefense.com/2026/11/navy-unfairly-evaluated-saildrone-musv-proposal-court-finds",
-        "publishedAt": "2026-11-04T23:23:22+00:00",
-        "source": "Breaking Defense",
+        "title": "MBDA plans to fly ‘fat’ hypersonic interceptor demonstrator before end-2029",
+        "url": "https://www.defensenews.com/global/europe/2026/11/05/mbda-plans-to-fly-fat-hypersonic-interceptor-demonstrator-before-end-2029",
+        "publishedAt": "2026-11-05T08:26:11+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -633,9 +633,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
-        "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites",
-        "publishedAt": "2026-11-05T05:01:00+00:00",
+        "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette",
+        "publishedAt": "2026-11-05T05:05:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
