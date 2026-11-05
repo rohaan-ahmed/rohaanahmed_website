@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-05T12:00:33+00:00",
+  "generatedAt": "2026-11-05T13:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-05T12:00:33+00:00",
+      "updatedAt": "2026-11-05T13:00:32+00:00",
       "stories": [
+        {
+          "title": "Early Black Friday beginner telescope deal — this portable Celestron is now 25% off at Amazon",
+          "url": "https://www.space.com/stargazing/skywatching-kit/early-black-friday-beginner-telescope-deal-this-portable-celestron-is-now-25-percent-off-at-amazon",
+          "publishedAt": "2026-11-05T12:05:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "2 astronauts will finish upgrading ISS solar arrays during spacewalk today: Watch it live",
           "url": "https://www.space.com/space-exploration/international-space-station/2-astronauts-will-finish-upgrading-iss-solar-arrays-during-spacewalk-today-watch-it-live",
@@ -40,12 +46,6 @@
           "title": "Trump declares 'American space superiority for all eternity' in election night proclamation",
           "url": "https://www.space.com/space-exploration/trump-declares-american-space-superiority-for-all-eternity-in-new-white-house-proclamation",
           "publishedAt": "2026-11-04T22:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Upcoming Marvel movies and TV shows: Avengers: Doomsday, Secret Wars, X-Men & more",
-          "url": "https://www.space.com/entertainment/space-movies-shows/upcoming-marvel-movies-and-tv-shows",
-          "publishedAt": "2026-11-04T21:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-05T12:00:33+00:00",
+      "updatedAt": "2026-11-05T13:00:32+00:00",
       "stories": [
         {
           "title": "Alex MacDonald appointed Canadian Space Agency president",
@@ -198,7 +198,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-05T12:00:33+00:00",
+      "updatedAt": "2026-11-05T13:00:32+00:00",
       "stories": [
         {
           "title": "Update on personnel injured in Canadian Forces Base Wainwright incident",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-05T12:00:33+00:00",
+      "updatedAt": "2026-11-05T13:00:32+00:00",
       "stories": [
         {
           "title": "MBDA plans to fly ‘fat’ hypersonic interceptor demonstrator before end-2029",
@@ -356,13 +356,19 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-05T12:00:33+00:00",
+      "updatedAt": "2026-11-05T13:00:32+00:00",
       "stories": [
         {
           "title": "Midterm voters turn on data centers, AI",
           "url": "https://datacentersontheballot.com/",
           "publishedAt": "2026-11-05T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+          "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
+          "publishedAt": "2026-11-05T13:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
@@ -374,12 +380,6 @@
           "title": "Apple is reportedly cutting budgets for its internal AI usage",
           "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
           "publishedAt": "2026-11-05T01:26:22+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "After the midterms, a bigger clash over data centers could be coming",
-          "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming",
-          "publishedAt": "2026-11-05T01:02:14+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-05T12:00:33+00:00",
+      "updatedAt": "2026-11-05T13:00:32+00:00",
       "stories": [
         {
           "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-05T12:00:33+00:00",
+    "updatedAt": "2026-11-05T13:00:32+00:00",
     "stories": [
       {
         "title": "Midterm voters turn on data centers, AI",
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-        "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
-        "publishedAt": "2026-11-05T12:00:00+00:00",
+        "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+        "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
+        "publishedAt": "2026-11-05T13:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "2 astronauts will finish upgrading ISS solar arrays during spacewalk today: Watch it live",
-        "url": "https://www.space.com/space-exploration/international-space-station/2-astronauts-will-finish-upgrading-iss-solar-arrays-during-spacewalk-today-watch-it-live",
-        "publishedAt": "2026-11-05T08:08:36+00:00",
+        "title": "Early Black Friday beginner telescope deal — this portable Celestron is now 25% off at Amazon",
+        "url": "https://www.space.com/stargazing/skywatching-kit/early-black-friday-beginner-telescope-deal-this-portable-celestron-is-now-25-percent-off-at-amazon",
+        "publishedAt": "2026-11-05T12:05:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -615,6 +615,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+        "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
+        "publishedAt": "2026-11-05T12:00:00+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Midterm elections shift space power to Democrats, with stakes for Canada",
         "url": "https://spaceq.ca/midterm-elections-space-committees-democrats",
         "publishedAt": "2026-11-04T21:28:00+00:00",
@@ -624,19 +633,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Galaxia OSPREY satellite to test moving defence data in orbit",
-        "url": "https://spaceq.ca/galaxia-osprey-satellite-defence-data",
-        "publishedAt": "2026-11-04T18:08:30+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette",
-        "publishedAt": "2026-11-05T05:05:00+00:00",
-        "source": "NASA",
+        "title": "2 astronauts will finish upgrading ISS solar arrays during spacewalk today: Watch it live",
+        "url": "https://www.space.com/space-exploration/international-space-station/2-astronauts-will-finish-upgrading-iss-solar-arrays-during-spacewalk-today-watch-it-live",
+        "publishedAt": "2026-11-05T08:08:36+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
