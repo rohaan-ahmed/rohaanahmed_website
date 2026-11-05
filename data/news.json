@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-05T14:00:39+00:00",
+  "generatedAt": "2026-11-05T15:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-05T14:00:39+00:00",
+      "updatedAt": "2026-11-05T15:00:34+00:00",
       "stories": [
+        {
+          "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
+          "url": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai",
+          "publishedAt": "2026-11-05T14:15:38+00:00",
+          "source": "SpaceNews"
+        },
+        {
+          "title": "NASA astronaut Jessica Watkins is the 1st Black woman to command a space mission. Will we see more diversity in the future on the final frontier?",
+          "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-jessica-watkins-is-the-1st-black-woman-to-command-a-space-mission-will-we-see-more-diversity-in-the-future-on-the-final-frontier",
+          "publishedAt": "2026-11-05T14:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "NASA announces experimental X-70 Fractal aircraft: A 'new beginning for aeronautics'",
           "url": "https://www.space.com/technology/aerospace/nasa-announces-experimental-x-70-fractal-aircraft-a-new-beginning-for-aeronautics",
@@ -29,12 +41,6 @@
           "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars",
           "publishedAt": "2026-11-05T12:56:21+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "2 astronauts will finish upgrading ISS solar arrays during spacewalk today: Watch it live",
-          "url": "https://www.space.com/space-exploration/international-space-station/2-astronauts-will-finish-upgrading-iss-solar-arrays-during-spacewalk-today-watch-it-live",
-          "publishedAt": "2026-11-05T08:08:36+00:00",
-          "source": "Space.com"
         },
         {
           "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
@@ -89,19 +95,13 @@
           "url": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells",
           "publishedAt": "2026-10-28T14:43:08+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Ukrainian startup, GomSpace test satellite for future communications network",
-          "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network",
-          "publishedAt": "2026-10-27T20:21:30+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-05T14:00:39+00:00",
+      "updatedAt": "2026-11-05T15:00:34+00:00",
       "stories": [
         {
           "title": "Alex MacDonald appointed Canadian Space Agency president",
@@ -198,7 +198,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-05T14:00:39+00:00",
+      "updatedAt": "2026-11-05T15:00:34+00:00",
       "stories": [
         {
           "title": "Update on personnel injured in Canadian Forces Base Wainwright incident",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-05T14:00:39+00:00",
+      "updatedAt": "2026-11-05T15:00:34+00:00",
       "stories": [
         {
           "title": "Israeli defense company says this trigger is programmed to shoot drones",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-05T14:00:39+00:00",
+      "updatedAt": "2026-11-05T15:00:34+00:00",
       "stories": [
         {
           "title": "Midterm voters turn on data centers, AI",
@@ -365,21 +365,57 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+          "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents",
+          "publishedAt": "2026-11-05T14:42:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+          "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system",
+          "publishedAt": "2026-11-05T14:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "OpenAI launches Images 2.6 with GIFs and image reference (1 minute read)",
+          "url": "https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference",
+          "publishedAt": "2026-11-05T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Ripple-65B Preview (4 minute read)",
+          "url": "https://www.ricursive.com/ripple",
+          "publishedAt": "2026-11-05T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Pangram Image 1.0 (5 minute read)",
+          "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+          "publishedAt": "2026-11-05T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How OpenAI Patched 948 Linux Vulnerabilities (12 minute read)",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "publishedAt": "2026-11-05T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Stacks Project, formalized in Lean (13 minute read)",
+          "url": "https://axiommath.ai/research/the-stacks-project-formalized",
+          "publishedAt": "2026-11-05T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Cognition Introduces SWE-2 Flash (2 minute read)",
+          "url": "https://cognition.com/blog/swe-2-flash",
+          "publishedAt": "2026-11-05T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
           "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
           "publishedAt": "2026-11-05T13:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-          "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
-          "publishedAt": "2026-11-05T12:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Apple is reportedly cutting budgets for its internal AI usage",
-          "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
-          "publishedAt": "2026-11-05T01:26:22+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -401,42 +437,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Siri AI is now open to all developers (4 minute read)",
-          "url": "https://developer.apple.com/news?id=gdk2umrf&amp%3Butm_source=tldrai",
-          "publishedAt": "2026-11-04T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Baseten Introduces Grid, Sandboxes, and Serverless Loops (5 minute read)",
-          "url": "https://www.baseten.co/blog/the-building-blocks-of-the-open-frontier",
-          "publishedAt": "2026-11-04T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Fireworks Launches Faster AI Inference and Enterprise Tools (5 minute read)",
-          "url": "https://fireworks.ai/blog/fireworks-unveils-new-products-at-forge-to-help-companies-build-specialized-intelligence",
-          "publishedAt": "2026-11-04T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How Much Does Reasoning Effort Affect Score and Cost? (8 minute read)",
-          "url": "https://www.vals.ai/blogs/reasoning-effort",
-          "publishedAt": "2026-11-04T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Learnings from Auditing Public Evaluations (8 minute read)",
-          "url": "https://www.primeintellect.ai/blog/auditing-public-evaluations",
-          "publishedAt": "2026-11-04T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Training a Text-to-Image Model for $21K (13 minute read)",
-          "url": "https://www.linum.ai/field-notes/pjit-21k",
-          "publishedAt": "2026-11-04T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "OpenAI’s Astra rewrites other AI from the inside",
           "url": "https://rikiyat.github.io/blog/weight-space-programming",
           "publishedAt": "2026-11-03T11:00:00+00:00",
@@ -453,8 +453,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-05T14:00:39+00:00",
+      "updatedAt": "2026-11-05T15:00:34+00:00",
       "stories": [
+        {
+          "title": "Agility Robotics begins trading on Nasdaq",
+          "url": "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq",
+          "publishedAt": "2026-11-05T14:46:29+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
           "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
@@ -510,12 +516,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Tutor Intelligence raises Series B to scale model training, robot deployments",
-          "url": "https://www.therobotreport.com/tutor-intelligence-raises-series-b-to-scale-model-training-robot-deployments",
-          "publishedAt": "2026-11-02T19:25:59+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
           "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big",
           "publishedAt": "2026-11-02T14:00:00+00:00",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-05T14:00:39+00:00",
+    "updatedAt": "2026-11-05T15:00:34+00:00",
     "stories": [
       {
         "title": "Midterm voters turn on data centers, AI",
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-        "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
-        "publishedAt": "2026-11-05T13:00:00+00:00",
+        "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+        "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents",
+        "publishedAt": "2026-11-05T14:42:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -579,10 +579,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NASA announces experimental X-70 Fractal aircraft: A 'new beginning for aeronautics'",
-        "url": "https://www.space.com/technology/aerospace/nasa-announces-experimental-x-70-fractal-aircraft-a-new-beginning-for-aeronautics",
-        "publishedAt": "2026-11-05T13:33:52+00:00",
-        "source": "Space.com",
+        "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
+        "url": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai",
+        "publishedAt": "2026-11-05T14:15:38+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -606,39 +606,39 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-        "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
-        "publishedAt": "2026-11-05T12:00:00+00:00",
-        "source": "TechCrunch Robotics",
+        "title": "Agility Robotics begins trading on Nasdaq",
+        "url": "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq",
+        "publishedAt": "2026-11-05T14:46:29+00:00",
+        "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
       },
       {
-        "title": "China lays out plans to land astronauts on the moon 'before 2030.' Can NASA still win this race?",
-        "url": "https://www.space.com/astronomy/moon/china-lays-out-plans-to-land-astronauts-on-the-moon-before-2030-can-nasa-still-win-this-race",
-        "publishedAt": "2026-11-05T13:00:00+00:00",
+        "title": "NASA astronaut Jessica Watkins is the 1st Black woman to command a space mission. Will we see more diversity in the future on the final frontier?",
+        "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-jessica-watkins-is-the-1st-black-woman-to-command-a-space-mission-will-we-see-more-diversity-in-the-future-on-the-final-frontier",
+        "publishedAt": "2026-11-05T14:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Early Black Friday beginner telescope deal — this portable Celestron is now 25% off at Amazon",
-        "url": "https://www.space.com/stargazing/skywatching-kit/early-black-friday-beginner-telescope-deal-this-portable-celestron-is-now-25-percent-off-at-amazon",
-        "publishedAt": "2026-11-05T12:05:00+00:00",
+        "title": "NASA announces experimental X-70 Fractal aircraft: A 'new beginning for aeronautics'",
+        "url": "https://www.space.com/technology/aerospace/nasa-announces-experimental-x-70-fractal-aircraft-a-new-beginning-for-aeronautics",
+        "publishedAt": "2026-11-05T13:33:52+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Hubble Learns Galactic History From Stars",
-        "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars",
-        "publishedAt": "2026-11-05T12:56:21+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+        "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system",
+        "publishedAt": "2026-11-05T14:00:00+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
