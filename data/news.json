@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T10:00:37+00:00",
+  "generatedAt": "2026-11-06T11:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-06T10:00:37+00:00",
+      "updatedAt": "2026-11-06T11:00:34+00:00",
       "stories": [
         {
           "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-06T10:00:37+00:00",
+      "updatedAt": "2026-11-06T11:00:34+00:00",
       "stories": [
         {
           "title": "Budget 2026 moves forward with medium-lift rockets",
@@ -192,7 +192,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-06T10:00:37+00:00",
+      "updatedAt": "2026-11-06T11:00:34+00:00",
       "stories": [
         {
           "title": "Royal Canadian Navy ships return to Canada following NATO Mine Countermeasures Mission in Europe",
@@ -259,8 +259,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-06T10:00:37+00:00",
+      "updatedAt": "2026-11-06T11:00:34+00:00",
       "stories": [
+        {
+          "title": "How a French frigate’s radical bow design makes for smooth sailing",
+          "url": "https://www.defensenews.com/global/europe/2026/11/06/how-a-french-frigates-radical-bow-design-makes-for-smooth-sailing",
+          "publishedAt": "2026-11-06T10:33:39+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Shield AI to acquire radar maker Echodyne to bust drones",
           "url": "https://www.defensenews.com/industry/techwatch/2026/11/05/shield-ai-to-acquire-radar-maker-echodyne-to-bust-drones",
@@ -310,12 +316,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Germany names Army Chief Freuding as next chief of defense",
-          "url": "https://www.defensenews.com/global/europe/2026/11/05/germany-names-army-chief-freuding-as-next-chief-of-defense",
-          "publishedAt": "2026-11-05T18:30:53+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Saildrone inks agreement with Norwegian shipbuilder Umoe Mandal to produce USVs",
           "url": "https://breakingdefense.com/2026/11/saildrone-inks-agreement-with-norwegian-shipbuilder-umoe-mandal-to-produce-usvs",
           "publishedAt": "2026-11-05T17:23:00+00:00",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-06T10:00:37+00:00",
+      "updatedAt": "2026-11-06T11:00:34+00:00",
       "stories": [
         {
           "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-06T10:00:37+00:00",
+      "updatedAt": "2026-11-06T11:00:34+00:00",
       "stories": [
         {
           "title": "How did Agility Robotics perform on its first day on the stock market?",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-06T10:00:37+00:00",
+    "updatedAt": "2026-11-06T11:00:34+00:00",
     "stories": [
       {
         "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
@@ -597,9 +597,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Shield AI to acquire radar maker Echodyne to bust drones",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/11/05/shield-ai-to-acquire-radar-maker-echodyne-to-bust-drones",
-        "publishedAt": "2026-11-05T22:55:48+00:00",
+        "title": "How a French frigate’s radical bow design makes for smooth sailing",
+        "url": "https://www.defensenews.com/global/europe/2026/11/06/how-a-french-frigates-radical-bow-design-makes-for-smooth-sailing",
+        "publishedAt": "2026-11-06T10:33:39+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
