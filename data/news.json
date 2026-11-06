@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-11-06T11:00:34+00:00",
+  "generatedAt": "2026-11-06T12:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-06T11:00:34+00:00",
+      "updatedAt": "2026-11-06T12:00:32+00:00",
       "stories": [
         {
           "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
           "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission",
           "publishedAt": "2026-11-05T21:45:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "4-billion-year-old 'Rosetta Stone' found in Sahara Desert could unlock the secret history of water on Mars",
+          "url": "https://www.space.com/astronomy/mars/4-billion-year-old-rosetta-stone-found-in-sahara-desert-could-unlock-the-secret-history-of-water-on-mars",
+          "publishedAt": "2026-11-06T11:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
@@ -55,12 +61,6 @@
           "source": "Space.com"
         },
         {
-          "title": "Earth has captured a new mini moon — but it won't stick around for long",
-          "url": "https://www.space.com/astronomy/earth/earth-has-captured-a-new-mini-moon-but-it-wont-stick-around-for-long",
-          "publishedAt": "2026-11-05T19:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Midwestern City Lights",
           "url": "https://www.nasa.gov/image-article/midwestern-city-lights",
           "publishedAt": "2026-11-05T15:17:19+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-06T11:00:34+00:00",
+      "updatedAt": "2026-11-06T12:00:32+00:00",
       "stories": [
         {
           "title": "Budget 2026 moves forward with medium-lift rockets",
@@ -192,7 +192,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-06T11:00:34+00:00",
+      "updatedAt": "2026-11-06T12:00:32+00:00",
       "stories": [
         {
           "title": "Royal Canadian Navy ships return to Canada following NATO Mine Countermeasures Mission in Europe",
@@ -259,8 +259,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-06T11:00:34+00:00",
+      "updatedAt": "2026-11-06T12:00:32+00:00",
       "stories": [
+        {
+          "title": "Europe nears decision on competing hypersonic interceptor programs",
+          "url": "https://breakingdefense.com/2026/11/europe-nears-decision-on-competing-hypersonic-interceptor-programs",
+          "publishedAt": "2026-11-06T11:10:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "How a French frigate’s radical bow design makes for smooth sailing",
           "url": "https://www.defensenews.com/global/europe/2026/11/06/how-a-french-frigates-radical-bow-design-makes-for-smooth-sailing",
@@ -316,12 +322,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Saildrone inks agreement with Norwegian shipbuilder Umoe Mandal to produce USVs",
-          "url": "https://breakingdefense.com/2026/11/saildrone-inks-agreement-with-norwegian-shipbuilder-umoe-mandal-to-produce-usvs",
-          "publishedAt": "2026-11-05T17:23:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Navy’s new innovation unit seen as key pipeline for bringing private sector talent into the Reserve",
           "url": "https://defensescoop.com/2026/11/05/navy-innovation-unit-private-sector-technology-talent",
           "publishedAt": "2026-11-05T19:44:08+00:00",
@@ -356,8 +356,26 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-06T11:00:34+00:00",
+      "updatedAt": "2026-11-06T12:00:32+00:00",
       "stories": [
+        {
+          "title": "METR’s inside look at Anthropic’s AI speedup",
+          "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment",
+          "publishedAt": "2026-11-06T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "The ‘Three Times’ rule",
+          "url": "https://www.instagram.com/rowancheung",
+          "publishedAt": "2026-11-06T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI’s Images 2.6 adds GIFs to ChatGPT",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "publishedAt": "2026-11-06T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
           "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
@@ -383,40 +401,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "OpenAI launches Images 2.6 with GIFs and image reference (1 minute read)",
-          "url": "https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference",
-          "publishedAt": "2026-11-05T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+          "publishedAt": "2026-11-05T19:12:39+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Ripple-65B Preview (4 minute read)",
-          "url": "https://www.ricursive.com/ripple",
-          "publishedAt": "2026-11-05T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "OpenAI released a new cybersecurity model. Is that enough?",
+          "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough",
+          "publishedAt": "2026-11-05T19:06:12+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Introducing Pangram Image 1.0 (5 minute read)",
-          "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
-          "publishedAt": "2026-11-05T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How OpenAI Patched 948 Linux Vulnerabilities (12 minute read)",
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-          "publishedAt": "2026-11-05T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Stacks Project, formalized in Lean (13 minute read)",
-          "url": "https://axiommath.ai/research/the-stacks-project-formalized",
-          "publishedAt": "2026-11-05T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Cognition Introduces SWE-2 Flash (2 minute read)",
-          "url": "https://cognition.com/blog/swe-2-flash",
-          "publishedAt": "2026-11-05T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+          "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
+          "publishedAt": "2026-11-05T18:02:27+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Apple lets any app plug into Siri AI",
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-06T11:00:34+00:00",
+      "updatedAt": "2026-11-06T12:00:32+00:00",
       "stories": [
         {
           "title": "How did Agility Robotics perform on its first day on the stock market?",
@@ -549,21 +549,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-06T11:00:34+00:00",
+    "updatedAt": "2026-11-06T12:00:32+00:00",
     "stories": [
       {
-        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-        "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
-        "publishedAt": "2026-11-06T06:28:32+00:00",
-        "source": "TechCrunch AI",
+        "title": "METR’s inside look at Anthropic’s AI speedup",
+        "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment",
+        "publishedAt": "2026-11-06T11:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Midterm voters turn on data centers, AI",
-        "url": "https://datacentersontheballot.com/",
-        "publishedAt": "2026-11-05T11:00:00+00:00",
+        "title": "The ‘Three Times’ rule",
+        "url": "https://www.instagram.com/rowancheung",
+        "publishedAt": "2026-11-06T11:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -597,10 +597,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "How a French frigate’s radical bow design makes for smooth sailing",
-        "url": "https://www.defensenews.com/global/europe/2026/11/06/how-a-french-frigates-radical-bow-design-makes-for-smooth-sailing",
-        "publishedAt": "2026-11-06T10:33:39+00:00",
-        "source": "Defense News",
+        "title": "Europe nears decision on competing hypersonic interceptor programs",
+        "url": "https://breakingdefense.com/2026/11/europe-nears-decision-on-competing-hypersonic-interceptor-programs",
+        "publishedAt": "2026-11-06T11:10:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -615,30 +615,30 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "OpenAI’s Images 2.6 adds GIFs to ChatGPT",
+        "url": "https://openai.com/index/introducing-images-2-6",
+        "publishedAt": "2026-11-06T11:00:00+00:00",
+        "source": "The Rundown AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "How a French frigate’s radical bow design makes for smooth sailing",
+        "url": "https://www.defensenews.com/global/europe/2026/11/06/how-a-french-frigates-radical-bow-design-makes-for-smooth-sailing",
+        "publishedAt": "2026-11-06T10:33:39+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Canadian astronaut Josh Kutryk helps finish complex solar array spacewalks at ISS",
         "url": "https://spaceq.ca/kutryk-spacewalk-final-solar-array",
         "publishedAt": "2026-11-05T22:57:56+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "MDA Space Q3 2026: no slowdown yet, forecast rises",
-        "url": "https://spaceq.ca/mda-space-q3-2026-forecast-rises",
-        "publishedAt": "2026-11-05T18:44:46+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
-        "url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive",
-        "publishedAt": "2026-11-05T17:05:59+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -754,7 +754,8 @@
     }
   ],
   "warnings": [
+    "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-12"
   ]
 }
