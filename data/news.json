@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-06T21:00:35+00:00",
+  "generatedAt": "2026-11-06T22:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-06T21:00:35+00:00",
+      "updatedAt": "2026-11-06T22:00:32+00:00",
       "stories": [
+        {
+          "title": "What's that bright 'star' in the early morning sky? It's not a star at all!",
+          "url": "https://www.space.com/stargazing/whats-that-bright-star-in-the-early-morning-sky-its-not-a-star-at-all",
+          "publishedAt": "2026-11-06T21:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "I finally got my hands on the Unistellar Envision smart binoculars with augmented reality and I can’t wait to stargaze with them",
           "url": "https://www.space.com/stargazing/skywatching-kit/i-finally-got-my-hands-on-the-unistellar-envision-smart-binoculars-with-augmented-reality-for-the-night-sky-heres-what-theyre-like",
@@ -22,12 +28,6 @@
           "title": "You can see another galaxy with the naked eye — here's how to find it",
           "url": "https://www.space.com/stargazing/you-can-see-another-galaxy-with-the-naked-eye-heres-how-to-find-it",
           "publishedAt": "2026-11-06T18:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
-          "url": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
-          "publishedAt": "2026-11-06T17:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-06T21:00:35+00:00",
+      "updatedAt": "2026-11-06T22:00:32+00:00",
       "stories": [
         {
           "title": "Mitsubishi Electric, MUFG Bank invest in GHGSat",
@@ -198,7 +198,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-06T21:00:35+00:00",
+      "updatedAt": "2026-11-06T22:00:32+00:00",
       "stories": [
         {
           "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
@@ -265,7 +265,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-06T21:00:35+00:00",
+      "updatedAt": "2026-11-06T22:00:32+00:00",
       "stories": [
         {
           "title": "US Army feeds culinary soldiers new job title",
@@ -362,7 +362,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-06T21:00:35+00:00",
+      "updatedAt": "2026-11-06T22:00:32+00:00",
       "stories": [
         {
           "title": "METR’s inside look at Anthropic’s AI speedup",
@@ -401,40 +401,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "GPT-6 Cyber (13 minute read)",
-          "url": "https://openai.com/index/introducing-gpt-6-cyber",
-          "publishedAt": "2026-11-06T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "After the midterms, is the AI industry in for a rough two years?",
+          "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years",
+          "publishedAt": "2026-11-06T17:23:52+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Introducing Inkling 2 Small (37 minute read)",
-          "url": "https://thinkingmachines.ai/news/inkling-2-small",
-          "publishedAt": "2026-11-06T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+          "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
+          "publishedAt": "2026-11-06T15:54:47+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Gemini Omni 1.2 Flash (1 minute read)",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
-          "publishedAt": "2026-11-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Cloudflare's Trust Framework for AI Agents (4 minute read)",
-          "url": "https://blog.cloudflare.com/trusted-agent-delegation",
-          "publishedAt": "2026-11-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The benchmark where AIs have to lie to win (23 minute read)",
-          "url": "https://www.dwarkesh.com/p/clocktower",
-          "publishedAt": "2026-11-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "NVIDIA Introduced VFlash (5 minute read)",
-          "url": "https://research.nvidia.com/labs/lpr/vflash",
-          "publishedAt": "2026-11-06T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+          "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop",
+          "publishedAt": "2026-11-06T14:10:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Midterm voters turn on data centers, AI",
@@ -453,14 +435,44 @@
           "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
           "publishedAt": "2026-11-04T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "CrowdStrike’s ‘kill switch’ to stop rogue AI agents",
+          "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch",
+          "publishedAt": "2026-11-04T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI’s Astra rewrites other AI from the inside",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming",
+          "publishedAt": "2026-11-03T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI grades its AI on everyday tasks",
+          "url": "https://openai.com/index/lifeval",
+          "publishedAt": "2026-11-03T11:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-06T21:00:35+00:00",
+      "updatedAt": "2026-11-06T22:00:32+00:00",
       "stories": [
+        {
+          "title": "How Point One turned GPS accuracy Into a robotics platform",
+          "url": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform",
+          "publishedAt": "2026-11-06T21:47:35+00:00",
+          "source": "The Robot Report"
+        },
+        {
+          "title": "Boston Dynamics built Stretch Gen 2 for reliable, consistent performance",
+          "url": "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance",
+          "publishedAt": "2026-11-06T21:34:44+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics",
           "url": "https://www.therobotreport.com/industry-experts-discuss-china-blocking-softbank-acquisition-abb-robotics",
@@ -516,22 +528,10 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "Robotics Startup Radar 2026",
-          "url": "https://www.therobotreport.com/robotics-startup-radar-2026",
-          "publishedAt": "2026-11-04T16:08:46+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Are Drone Ports the Next Annoying Tech Neighbor?",
           "url": "https://spectrum.ieee.org/drone-delivery-noise",
           "publishedAt": "2026-11-04T18:47:21+00:00",
           "source": "IEEE Spectrum Robotics"
-        },
-        {
-          "title": "How GlobalLogic helped Haystack Robotics build a UV disinfection robot",
-          "url": "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot",
-          "publishedAt": "2026-11-04T15:22:55+00:00",
-          "source": "The Robot Report"
         },
         {
           "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
@@ -555,7 +555,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-06T21:00:35+00:00",
+    "updatedAt": "2026-11-06T22:00:32+00:00",
     "stories": [
       {
         "title": "METR’s inside look at Anthropic’s AI speedup",
@@ -585,9 +585,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "I finally got my hands on the Unistellar Envision smart binoculars with augmented reality and I can’t wait to stargaze with them",
-        "url": "https://www.space.com/stargazing/skywatching-kit/i-finally-got-my-hands-on-the-unistellar-envision-smart-binoculars-with-augmented-reality-for-the-night-sky-heres-what-theyre-like",
-        "publishedAt": "2026-11-06T20:00:00+00:00",
+        "title": "What's that bright 'star' in the early morning sky? It's not a star at all!",
+        "url": "https://www.space.com/stargazing/whats-that-bright-star-in-the-early-morning-sky-its-not-a-star-at-all",
+        "publishedAt": "2026-11-06T21:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -612,9 +612,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics",
-        "url": "https://www.therobotreport.com/industry-experts-discuss-china-blocking-softbank-acquisition-abb-robotics",
-        "publishedAt": "2026-11-06T20:41:17+00:00",
+        "title": "How Point One turned GPS accuracy Into a robotics platform",
+        "url": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform",
+        "publishedAt": "2026-11-06T21:47:35+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -630,21 +630,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "OpenAI’s Images 2.6 adds GIFs to ChatGPT",
-        "url": "https://openai.com/index/introducing-images-2-6",
-        "publishedAt": "2026-11-06T11:00:00+00:00",
-        "source": "The Rundown AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "Boston Dynamics built Stretch Gen 2 for reliable, consistent performance",
+        "url": "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance",
+        "publishedAt": "2026-11-06T21:34:44+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Missed AUSA 2026? Get the Ground Truth from Breaking Defense’s free eBook",
-        "url": "https://breakingdefense.com/2026/11/missed-ausa-2026-get-the-ground-truth-from-breaking-defenses-free-ebook",
-        "publishedAt": "2026-11-06T18:59:47+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics",
+        "url": "https://www.therobotreport.com/industry-experts-discuss-china-blocking-softbank-acquisition-abb-robotics",
+        "publishedAt": "2026-11-06T20:41:17+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -761,6 +761,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-23"
   ]
 }
