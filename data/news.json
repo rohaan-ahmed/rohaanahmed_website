@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-06T17:00:35+00:00",
+  "generatedAt": "2026-11-06T17:25:10+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-06T17:00:35+00:00",
+      "updatedAt": "2026-11-06T17:25:10+00:00",
       "stories": [
+        {
+          "title": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
+          "url": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
+          "publishedAt": "2026-11-06T17:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "M30’s Sparkling Stars",
           "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars",
@@ -34,12 +40,6 @@
           "title": "Northern lights could reach New York and Idaho this weekend as speedy solar wind races toward Earth",
           "url": "https://www.space.com/stargazing/auroras/northern-lights-could-reach-new-york-and-idaho-this-weekend-as-speedy-solar-wind-races-toward-earth",
           "publishedAt": "2026-11-06T13:26:32+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Max Power: NASA hosting its 1st air show this weekend on Florida's Space Coast",
-          "url": "https://www.space.com/space-exploration/max-power-nasa-hosting-its-1st-air-show-this-weekend-on-floridas-space-coast",
-          "publishedAt": "2026-11-06T13:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-06T17:00:35+00:00",
+      "updatedAt": "2026-11-06T17:25:10+00:00",
       "stories": [
+        {
+          "title": "20 Canadian space companies head to Space Tech Expo Europe",
+          "url": "https://spaceq.ca/canadian-space-companies-space-tech-expo-europe-2026",
+          "publishedAt": "2026-11-06T17:15:17+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Budget 2026 moves forward with medium-lift rockets",
           "url": "https://spaceq.ca/budget-2026-medium-lift-rockets",
@@ -158,12 +164,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "Polaris Aerospace re-emerges with Canadian launch vehicle plans",
-          "url": "https://spaceq.ca/polaris-aerospace-re-emerges-canadian-launch-vehicle-plans",
-          "publishedAt": "2026-11-03T18:37:05+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Media invited to witness Joshua Kutryk's second spacewalk",
           "url": "https://www.canada.ca/en/space-agency/news/2026/11/media-invited-to-witness-joshua-kutryks-second-spacewalk.html",
           "publishedAt": "2026-11-03T20:33:25+00:00",
@@ -192,7 +192,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-06T17:00:35+00:00",
+      "updatedAt": "2026-11-06T17:25:10+00:00",
       "stories": [
         {
           "title": "Royal Canadian Navy ships return to Canada following NATO Mine Countermeasures Mission in Europe",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-06T17:00:35+00:00",
+      "updatedAt": "2026-11-06T17:25:10+00:00",
       "stories": [
         {
           "title": "Cut to US aid would impact Israeli acquisition timelines, spending: Analysts",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-06T17:00:35+00:00",
+      "updatedAt": "2026-11-06T17:25:10+00:00",
       "stories": [
         {
           "title": "METR’s inside look at Anthropic’s AI speedup",
@@ -375,6 +375,12 @@
           "url": "https://openai.com/index/introducing-images-2-6",
           "publishedAt": "2026-11-06T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "After the midterms, is the AI industry in for a rough two years?",
+          "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years",
+          "publishedAt": "2026-11-06T17:23:52+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
@@ -425,12 +431,6 @@
           "source": "TLDR AI"
         },
         {
-          "title": "Underdog shows off a 32MB speech model in new demo",
-          "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo",
-          "publishedAt": "2026-11-06T13:02:16+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Midterm voters turn on data centers, AI",
           "url": "https://datacentersontheballot.com/",
           "publishedAt": "2026-11-05T11:00:00+00:00",
@@ -453,8 +453,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-06T17:00:35+00:00",
+      "updatedAt": "2026-11-06T17:25:10+00:00",
       "stories": [
+        {
+          "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
+          "url": "https://spectrum.ieee.org/video-friday-home-cable-robot",
+          "publishedAt": "2026-11-06T17:00:03+00:00",
+          "source": "IEEE Spectrum Robotics"
+        },
         {
           "title": "Physicl raises $10M to make the digital world real enough for robots",
           "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots",
@@ -534,12 +540,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-          "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here",
-          "publishedAt": "2026-11-01T17:04:00+00:00",
-          "source": "TechCrunch Robotics"
-        },
-        {
           "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
           "url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
           "publishedAt": "2026-10-30T16:30:03+00:00",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-06T17:00:35+00:00",
+    "updatedAt": "2026-11-06T17:25:10+00:00",
     "stories": [
       {
         "title": "METR’s inside look at Anthropic’s AI speedup",
@@ -570,19 +570,19 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Budget 2026 moves forward with medium-lift rockets",
-        "url": "https://spaceq.ca/budget-2026-medium-lift-rockets",
-        "publishedAt": "2026-11-06T01:46:50+00:00",
+        "title": "20 Canadian space companies head to Space Tech Expo Europe",
+        "url": "https://spaceq.ca/canadian-space-companies-space-tech-expo-europe-2026",
+        "publishedAt": "2026-11-06T17:15:17+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "M30’s Sparkling Stars",
-        "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars",
-        "publishedAt": "2026-11-06T16:23:41+00:00",
-        "source": "NASA",
+        "title": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
+        "url": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
+        "publishedAt": "2026-11-06T17:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -606,10 +606,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Physicl raises $10M to make the digital world real enough for robots",
-        "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots",
-        "publishedAt": "2026-11-06T13:00:00+00:00",
-        "source": "TechCrunch Robotics",
+        "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
+        "url": "https://spectrum.ieee.org/video-friday-home-cable-robot",
+        "publishedAt": "2026-11-06T17:00:03+00:00",
+        "source": "IEEE Spectrum Robotics",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
