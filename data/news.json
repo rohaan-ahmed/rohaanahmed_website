@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-06T18:00:38+00:00",
+  "generatedAt": "2026-11-06T19:00:37+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-06T18:00:38+00:00",
+      "updatedAt": "2026-11-06T19:00:37+00:00",
       "stories": [
+        {
+          "title": "You can see another galaxy with the naked eye — here's how to find it",
+          "url": "https://www.space.com/stargazing/you-can-see-another-galaxy-with-the-naked-eye-heres-how-to-find-it",
+          "publishedAt": "2026-11-06T18:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
           "url": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
@@ -34,12 +40,6 @@
           "title": "How to watch 'Musk' online — stream the SpaceX billionaire biography from anywhere",
           "url": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-musk-online-stream-the-spacex-billionaire-biography-from-anywhere",
           "publishedAt": "2026-11-06T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Northern lights could reach New York and Idaho this weekend as speedy solar wind races toward Earth",
-          "url": "https://www.space.com/stargazing/auroras/northern-lights-could-reach-new-york-and-idaho-this-weekend-as-speedy-solar-wind-races-toward-earth",
-          "publishedAt": "2026-11-06T13:26:32+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-06T18:00:38+00:00",
+      "updatedAt": "2026-11-06T19:00:37+00:00",
       "stories": [
         {
           "title": "20 Canadian space companies head to Space Tech Expo Europe",
@@ -192,8 +192,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-06T18:00:38+00:00",
+      "updatedAt": "2026-11-06T19:00:37+00:00",
       "stories": [
+        {
+          "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
+          "publishedAt": "2026-11-06T18:59:20+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Royal Canadian Navy ships return to Canada following NATO Mine Countermeasures Mission in Europe",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/royal-canadian-navy-ships-return-to-canada-following-nato-mine-countermeasures-mission-in-europe.html",
@@ -247,20 +253,20 @@
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/canada-hosts-28th-asean-regional-forum-heads-of-defence-universities-colleges-institutions-meeting.html",
           "publishedAt": "2026-10-28T20:29:02+00:00",
           "source": "National Defence"
-        },
-        {
-          "title": "Operation NANOOK‑TATIGIIT Strengthens Whole‑of‑Government Crisis Response in the Arctic",
-          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/operation-nanooktatigiit-strengthens-wholeofgovernment-crisis-response-in-the-arctic.html",
-          "publishedAt": "2026-10-27T18:43:11+00:00",
-          "source": "National Defence"
         }
       ]
     },
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-06T18:00:38+00:00",
+      "updatedAt": "2026-11-06T19:00:37+00:00",
       "stories": [
+        {
+          "title": "DoD taps Viasat to field operations ‘center’ for Golden Dome satellite data relay network",
+          "url": "https://breakingdefense.com/2026/11/dod-taps-viasat-to-field-operations-center-for-golden-dome-satellite-data-relay-network",
+          "publishedAt": "2026-11-06T18:41:12+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Europe’s airpower future is taking shape, but not as originally planned",
           "url": "https://breakingdefense.com/2026/11/europes-airpower-future-is-taking-shape-but-not-as-originally-planned",
@@ -310,10 +316,10 @@
           "source": "Defense News"
         },
         {
-          "title": "Key Space Force satellites can’t talk to each other, likely requiring $1B solution: Sources",
-          "url": "https://breakingdefense.com/2026/11/key-space-force-satellites-cant-talk-to-each-other-likely-requiring-1b-solution-sources",
-          "publishedAt": "2026-11-06T14:15:00+00:00",
-          "source": "Breaking Defense"
+          "title": "Pentagon launching mission operations center for Space Data Network to support Golden Dome and other modernization efforts",
+          "url": "https://defensescoop.com/2026/11/06/pentagon-mission-operations-center-space-data-network",
+          "publishedAt": "2026-11-06T17:56:40+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Director of GPS Innovation Alliance warns of risks to civilians from military testing of jamming and spoofing technologies",
@@ -344,19 +350,13 @@
           "url": "https://defensescoop.com/2026/11/04/prototype-apps-transportation-command-operation-epic-fury",
           "publishedAt": "2026-11-04T22:29:49+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Space Force chief: Intelligence officials ‘making sure we get lessons learned’ from recent Russian satellite maneuvers near commercial sat",
-          "url": "https://defensescoop.com/2026/11/04/space-force-gen-schiess-russian-satellite-maneuvers",
-          "publishedAt": "2026-11-04T19:43:57+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-06T18:00:38+00:00",
+      "updatedAt": "2026-11-06T19:00:37+00:00",
       "stories": [
         {
           "title": "METR’s inside look at Anthropic’s AI speedup",
@@ -377,21 +377,21 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "After the midterms, is the AI industry in for a rough two years?",
-          "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years",
-          "publishedAt": "2026-11-06T17:23:52+00:00",
+          "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+          "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
+          "publishedAt": "2026-11-06T18:44:38+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-          "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
-          "publishedAt": "2026-11-06T15:54:47+00:00",
+          "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
+          "publishedAt": "2026-11-06T18:44:20+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-          "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop",
-          "publishedAt": "2026-11-06T14:10:00+00:00",
+          "title": "How a Blue Wave midterm might reshape the AI industry",
+          "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry",
+          "publishedAt": "2026-11-06T18:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-06T18:00:38+00:00",
+      "updatedAt": "2026-11-06T19:00:37+00:00",
       "stories": [
         {
           "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-06T18:00:38+00:00",
+    "updatedAt": "2026-11-06T19:00:37+00:00",
     "stories": [
       {
         "title": "METR’s inside look at Anthropic’s AI speedup",
@@ -579,27 +579,27 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
-        "url": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
-        "publishedAt": "2026-11-06T17:00:00+00:00",
+        "title": "You can see another galaxy with the naked eye — here's how to find it",
+        "url": "https://www.space.com/stargazing/you-can-see-another-galaxy-with-the-naked-eye-heres-how-to-find-it",
+        "publishedAt": "2026-11-06T18:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "Royal Canadian Navy ships return to Canada following NATO Mine Countermeasures Mission in Europe",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/royal-canadian-navy-ships-return-to-canada-following-nato-mine-countermeasures-mission-in-europe.html",
-        "publishedAt": "2026-11-05T16:14:03+00:00",
+        "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-robert-hampton-gray-participates-in-multiple-arctic-operations-during-historic-coastal-transfer.html",
+        "publishedAt": "2026-11-06T18:59:20+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Europe’s airpower future is taking shape, but not as originally planned",
-        "url": "https://breakingdefense.com/2026/11/europes-airpower-future-is-taking-shape-but-not-as-originally-planned",
-        "publishedAt": "2026-11-06T17:51:07+00:00",
+        "title": "DoD taps Viasat to field operations ‘center’ for Golden Dome satellite data relay network",
+        "url": "https://breakingdefense.com/2026/11/dod-taps-viasat-to-field-operations-center-for-golden-dome-satellite-data-relay-network",
+        "publishedAt": "2026-11-06T18:41:12+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -624,19 +624,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Cut to US aid would impact Israeli acquisition timelines, spending: Analysts",
-        "url": "https://breakingdefense.com/2026/11/cut-to-us-aid-would-impact-israeli-acquisition-timelines-spending-analysts",
-        "publishedAt": "2026-11-06T16:55:00+00:00",
+        "title": "Europe’s airpower future is taking shape, but not as originally planned",
+        "url": "https://breakingdefense.com/2026/11/europes-airpower-future-is-taking-shape-but-not-as-originally-planned",
+        "publishedAt": "2026-11-06T17:51:07+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
-        "url": "https://www.defensenews.com/video/2026/11/06/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture",
-        "publishedAt": "2026-11-06T17:28:08+00:00",
-        "source": "Defense News",
+        "title": "Cut to US aid would impact Israeli acquisition timelines, spending: Analysts",
+        "url": "https://breakingdefense.com/2026/11/cut-to-us-aid-would-impact-israeli-acquisition-timelines-spending-analysts",
+        "publishedAt": "2026-11-06T16:55:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
