@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T06:00:30+00:00",
+  "generatedAt": "2026-11-06T07:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-06T06:00:30+00:00",
+      "updatedAt": "2026-11-06T07:00:30+00:00",
       "stories": [
         {
           "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-06T06:00:30+00:00",
+      "updatedAt": "2026-11-06T07:00:30+00:00",
       "stories": [
         {
           "title": "Budget 2026 moves forward with medium-lift rockets",
@@ -192,7 +192,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-06T06:00:30+00:00",
+      "updatedAt": "2026-11-06T07:00:30+00:00",
       "stories": [
         {
           "title": "Royal Canadian Navy ships return to Canada following NATO Mine Countermeasures Mission in Europe",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-06T06:00:30+00:00",
+      "updatedAt": "2026-11-06T07:00:30+00:00",
       "stories": [
         {
           "title": "Shield AI to acquire radar maker Echodyne to bust drones",
@@ -356,8 +356,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-06T06:00:30+00:00",
+      "updatedAt": "2026-11-06T07:00:30+00:00",
       "stories": [
+        {
+          "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+          "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
+          "publishedAt": "2026-11-06T06:28:32+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Midterm voters turn on data centers, AI",
           "url": "https://datacentersontheballot.com/",
@@ -377,28 +383,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-          "publishedAt": "2026-11-05T19:12:39+00:00",
-          "source": "TechCrunch AI"
+          "title": "OpenAI launches Images 2.6 with GIFs and image reference (1 minute read)",
+          "url": "https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference",
+          "publishedAt": "2026-11-05T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "OpenAI released a new cybersecurity model. Is that enough?",
-          "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough",
-          "publishedAt": "2026-11-05T19:06:12+00:00",
-          "source": "TechCrunch AI"
+          "title": "Ripple-65B Preview (4 minute read)",
+          "url": "https://www.ricursive.com/ripple",
+          "publishedAt": "2026-11-05T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-          "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
-          "publishedAt": "2026-11-05T18:02:27+00:00",
-          "source": "TechCrunch AI"
+          "title": "Introducing Pangram Image 1.0 (5 minute read)",
+          "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+          "publishedAt": "2026-11-05T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Claude can now analyze your spending with its new Personal Finance tool",
-          "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool",
-          "publishedAt": "2026-11-05T18:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "How OpenAI Patched 948 Linux Vulnerabilities (12 minute read)",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "publishedAt": "2026-11-05T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The Stacks Project, formalized in Lean (13 minute read)",
+          "url": "https://axiommath.ai/research/the-stacks-project-formalized",
+          "publishedAt": "2026-11-05T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Cognition Introduces SWE-2 Flash (2 minute read)",
+          "url": "https://cognition.com/blog/swe-2-flash",
+          "publishedAt": "2026-11-05T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Apple lets any app plug into Siri AI",
@@ -429,31 +447,13 @@
           "url": "https://openai.com/index/lifeval",
           "publishedAt": "2026-11-03T11:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI joins Abu Dhabi’s AI-native government push",
-          "url": "https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-meets-sam-altman-and-witnesses-signing-of-agreements-with-openai",
-          "publishedAt": "2026-11-03T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Data centers hit the ballot as OpenAI plots a rebrand",
-          "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
-          "publishedAt": "2026-11-02T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Google’s space data center sends home a haiku",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response",
-          "publishedAt": "2026-11-02T11:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-06T06:00:30+00:00",
+      "updatedAt": "2026-11-06T07:00:30+00:00",
       "stories": [
         {
           "title": "How did Agility Robotics perform on its first day on the stock market?",
@@ -549,22 +549,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-06T06:00:30+00:00",
+    "updatedAt": "2026-11-06T07:00:30+00:00",
     "stories": [
       {
-        "title": "Midterm voters turn on data centers, AI",
-        "url": "https://datacentersontheballot.com/",
-        "publishedAt": "2026-11-05T11:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
+        "publishedAt": "2026-11-06T06:28:32+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-        "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027",
-        "publishedAt": "2026-11-05T22:40:55+00:00",
-        "source": "TechCrunch AI",
+        "title": "Midterm voters turn on data centers, AI",
+        "url": "https://datacentersontheballot.com/",
+        "publishedAt": "2026-11-05T11:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -755,7 +755,6 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-26",
     "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
