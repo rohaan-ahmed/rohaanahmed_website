@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-07T05:00:31+00:00",
+  "generatedAt": "2026-11-07T06:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-07T05:00:31+00:00",
+      "updatedAt": "2026-11-07T06:00:30+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif",
+          "publishedAt": "2026-11-07T05:05:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
@@ -61,12 +67,6 @@
           "source": "NASA"
         },
         {
-          "title": "Taking a Gander at Utah’s Goosenecks",
-          "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks",
-          "publishedAt": "2026-11-06T05:01:00+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
           "url": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai",
           "publishedAt": "2026-11-05T14:15:38+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-07T05:00:31+00:00",
+      "updatedAt": "2026-11-07T06:00:30+00:00",
       "stories": [
         {
           "title": "Mitsubishi Electric, MUFG Bank invest in GHGSat",
@@ -198,7 +198,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-07T05:00:31+00:00",
+      "updatedAt": "2026-11-07T06:00:30+00:00",
       "stories": [
         {
           "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
@@ -265,7 +265,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-07T05:00:31+00:00",
+      "updatedAt": "2026-11-07T06:00:30+00:00",
       "stories": [
         {
           "title": "US Army feeds culinary soldiers new job title",
@@ -362,7 +362,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-07T05:00:31+00:00",
+      "updatedAt": "2026-11-07T06:00:30+00:00",
       "stories": [
         {
           "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -401,40 +401,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "GPT-6 Cyber (13 minute read)",
-          "url": "https://openai.com/index/introducing-gpt-6-cyber",
-          "publishedAt": "2026-11-06T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
+          "publishedAt": "2026-11-06T18:44:20+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Introducing Inkling 2 Small (37 minute read)",
-          "url": "https://thinkingmachines.ai/news/inkling-2-small",
-          "publishedAt": "2026-11-06T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "How a Blue Wave midterm might reshape the AI industry",
+          "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry",
+          "publishedAt": "2026-11-06T18:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Gemini Omni 1.2 Flash (1 minute read)",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
-          "publishedAt": "2026-11-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Cloudflare's Trust Framework for AI Agents (4 minute read)",
-          "url": "https://blog.cloudflare.com/trusted-agent-delegation",
-          "publishedAt": "2026-11-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The benchmark where AIs have to lie to win (23 minute read)",
-          "url": "https://www.dwarkesh.com/p/clocktower",
-          "publishedAt": "2026-11-06T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "NVIDIA Introduced VFlash (5 minute read)",
-          "url": "https://research.nvidia.com/labs/lpr/vflash",
-          "publishedAt": "2026-11-06T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "After the midterms, is the AI industry in for a rough two years?",
+          "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years",
+          "publishedAt": "2026-11-06T17:23:52+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Midterm voters turn on data centers, AI",
@@ -453,13 +435,31 @@
           "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
           "publishedAt": "2026-11-04T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "CrowdStrike’s ‘kill switch’ to stop rogue AI agents",
+          "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch",
+          "publishedAt": "2026-11-04T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI’s Astra rewrites other AI from the inside",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming",
+          "publishedAt": "2026-11-03T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI grades its AI on everyday tasks",
+          "url": "https://openai.com/index/lifeval",
+          "publishedAt": "2026-11-03T11:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-07T05:00:31+00:00",
+      "updatedAt": "2026-11-07T06:00:30+00:00",
       "stories": [
         {
           "title": "How Point One turned GPS accuracy into a robotics platform",
@@ -555,7 +555,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-07T05:00:31+00:00",
+    "updatedAt": "2026-11-07T06:00:30+00:00",
     "stories": [
       {
         "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -585,10 +585,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
-        "publishedAt": "2026-11-07T01:41:58+00:00",
-        "source": "Space.com",
+        "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif",
+        "publishedAt": "2026-11-07T05:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -630,18 +630,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Boston Dynamics built Stretch Gen 2 for reliable, consistent performance",
-        "url": "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance",
-        "publishedAt": "2026-11-06T21:34:44+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
+        "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
+        "publishedAt": "2026-11-07T01:41:58+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics",
-        "url": "https://www.therobotreport.com/industry-experts-discuss-china-blocking-softbank-acquisition-abb-robotics",
-        "publishedAt": "2026-11-06T20:41:17+00:00",
+        "title": "Boston Dynamics built Stretch Gen 2 for reliable, consistent performance",
+        "url": "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance",
+        "publishedAt": "2026-11-06T21:34:44+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -761,6 +761,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-15"
   ]
 }
