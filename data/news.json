@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-07T13:00:31+00:00",
+  "generatedAt": "2026-11-07T14:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-07T13:00:31+00:00",
+      "updatedAt": "2026-11-07T14:00:32+00:00",
       "stories": [
+        {
+          "title": "Star Wars is experiencing a golden age of video games",
+          "url": "https://www.space.com/entertainment/space-games/star-wars-is-experiencing-a-golden-age-of-video-games",
+          "publishedAt": "2026-11-07T13:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "'I think we will prevail': NASA chief Jared Isaacman on Artemis, China and the new moon race (exclusive)",
           "url": "https://www.space.com/space-exploration/i-think-we-will-prevail-nasa-chief-jared-isaacman-on-artemis-china-and-the-new-moon-race-exclusive",
@@ -28,12 +34,6 @@
           "title": "On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star'",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-6-2026",
           "publishedAt": "2026-11-06T22:05:58+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "AST SpaceMobile announces new 'Blacklift' rocket, targets 2028 launch debut",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/ast-spacemobile-announces-new-blacklift-rocket-targets-2028-launch-debut",
-          "publishedAt": "2026-11-06T22:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-07T13:00:31+00:00",
+      "updatedAt": "2026-11-07T14:00:32+00:00",
       "stories": [
         {
           "title": "Mitsubishi Electric, MUFG Bank invest in GHGSat",
@@ -186,19 +186,13 @@
           "url": "https://www.canada.ca/en/space-agency/news/2026/10/a-first-spacewalk-in-the-books-for-canadian-space-agency-astronaut-joshua-kutryk.html",
           "publishedAt": "2026-10-30T13:51:59+00:00",
           "source": "Canadian Space Agency"
-        },
-        {
-          "title": "Space-to-Earth connection: Minister Olszewski joins CSA astronauts to discuss Kutryk’s first spacewalk",
-          "url": "https://www.canada.ca/en/space-agency/news/2026/10/space-to-earth-connection-minister-olszewski-joins-csa-astronauts-to-discuss-kutryks-first-spacewalk.html",
-          "publishedAt": "2026-10-28T13:15:34+00:00",
-          "source": "Canadian Space Agency"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-07T13:00:31+00:00",
+      "updatedAt": "2026-11-07T14:00:32+00:00",
       "stories": [
         {
           "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
@@ -265,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-07T13:00:31+00:00",
+      "updatedAt": "2026-11-07T14:00:32+00:00",
       "stories": [
         {
           "title": "US Army feeds culinary soldiers new job title",
@@ -362,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-07T13:00:31+00:00",
+      "updatedAt": "2026-11-07T14:00:32+00:00",
       "stories": [
         {
           "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -459,8 +453,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-07T13:00:31+00:00",
+      "updatedAt": "2026-11-07T14:00:32+00:00",
       "stories": [
+        {
+          "title": "Robot integration brings high-precision production to midmarket manufacturers",
+          "url": "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers",
+          "publishedAt": "2026-11-07T13:32:59+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "How Point One turned GPS accuracy into a robotics platform",
           "url": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform",
@@ -516,12 +516,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Agility Robotics begins trading on Nasdaq",
-          "url": "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq",
-          "publishedAt": "2026-11-05T14:46:29+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
           "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
           "publishedAt": "2026-11-05T12:00:00+00:00",
@@ -555,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-07T13:00:31+00:00",
+    "updatedAt": "2026-11-07T14:00:32+00:00",
     "stories": [
       {
         "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -585,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "'I think we will prevail': NASA chief Jared Isaacman on Artemis, China and the new moon race (exclusive)",
-        "url": "https://www.space.com/space-exploration/i-think-we-will-prevail-nasa-chief-jared-isaacman-on-artemis-china-and-the-new-moon-race-exclusive",
-        "publishedAt": "2026-11-07T11:00:00+00:00",
+        "title": "Star Wars is experiencing a golden age of video games",
+        "url": "https://www.space.com/entertainment/space-games/star-wars-is-experiencing-a-golden-age-of-video-games",
+        "publishedAt": "2026-11-07T13:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -612,13 +606,22 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "How Point One turned GPS accuracy into a robotics platform",
-        "url": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform",
-        "publishedAt": "2026-11-06T21:47:35+00:00",
+        "title": "Robot integration brings high-precision production to midmarket manufacturers",
+        "url": "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers",
+        "publishedAt": "2026-11-07T13:32:59+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "'I think we will prevail': NASA chief Jared Isaacman on Artemis, China and the new moon race (exclusive)",
+        "url": "https://www.space.com/space-exploration/i-think-we-will-prevail-nasa-chief-jared-isaacman-on-artemis-china-and-the-new-moon-race-exclusive",
+        "publishedAt": "2026-11-07T11:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "20 Canadian space companies head to Space Tech Expo Europe",
@@ -634,15 +637,6 @@
         "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif",
         "publishedAt": "2026-11-07T05:05:00+00:00",
         "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (video, photos)",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
-        "publishedAt": "2026-11-07T01:41:58+00:00",
-        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
