@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-07T15:00:31+00:00",
+  "generatedAt": "2026-11-07T15:07:20+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-07T15:00:31+00:00",
+      "updatedAt": "2026-11-07T15:07:20+00:00",
       "stories": [
+        {
+          "title": "Send your name to Saturn's moon Titan with NASA's upcoming Dragonfly mission",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission",
+          "publishedAt": "2026-11-07T15:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Star Wars is experiencing a golden age of video games",
           "url": "https://www.space.com/entertainment/space-games/star-wars-is-experiencing-a-golden-age-of-video-games",
@@ -28,12 +34,6 @@
           "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (video, photos)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
           "publishedAt": "2026-11-07T01:41:58+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star'",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-6-2026",
-          "publishedAt": "2026-11-06T22:05:58+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-07T15:00:31+00:00",
+      "updatedAt": "2026-11-07T15:07:20+00:00",
       "stories": [
         {
           "title": "Mitsubishi Electric, MUFG Bank invest in GHGSat",
@@ -192,7 +192,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-07T15:00:31+00:00",
+      "updatedAt": "2026-11-07T15:07:20+00:00",
       "stories": [
         {
           "title": "HMCS Robert Hampton Gray participates in multiple Arctic operations during historic coastal transfer",
@@ -259,8 +259,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-07T15:00:31+00:00",
+      "updatedAt": "2026-11-07T15:07:20+00:00",
       "stories": [
+        {
+          "title": "European troops set to train in Poland for postwar Ukraine deployment",
+          "url": "https://www.defensenews.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment",
+          "publishedAt": "2026-11-07T15:05:44+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "US Army feeds culinary soldiers new job title",
           "url": "https://www.defensenews.com/land/2026/11/06/us-army-feeds-culinary-soldiers-new-job-title",
@@ -316,12 +322,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "US European Command launches vigilance campaign as hybrid threats mount",
-          "url": "https://www.defensenews.com/news/2026/11/06/us-european-command-launches-vigilance-campaign-as-hybrid-threats-mount",
-          "publishedAt": "2026-11-06T15:39:51+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Pentagon launching mission operations center for Space Data Network to support Golden Dome and other modernization efforts",
           "url": "https://defensescoop.com/2026/11/06/pentagon-mission-operations-center-space-data-network",
           "publishedAt": "2026-11-06T17:56:40+00:00",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-07T15:00:31+00:00",
+      "updatedAt": "2026-11-07T15:07:20+00:00",
       "stories": [
         {
           "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -395,22 +395,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
-          "publishedAt": "2026-11-06T18:44:20+00:00",
-          "source": "TechCrunch AI"
+          "title": "GPT-6 Cyber (13 minute read)",
+          "url": "https://openai.com/index/introducing-gpt-6-cyber",
+          "publishedAt": "2026-11-06T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "How a Blue Wave midterm might reshape the AI industry",
-          "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry",
-          "publishedAt": "2026-11-06T18:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Introducing Inkling 2 Small (37 minute read)",
+          "url": "https://thinkingmachines.ai/news/inkling-2-small",
+          "publishedAt": "2026-11-06T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "After the midterms, is the AI industry in for a rough two years?",
-          "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years",
-          "publishedAt": "2026-11-06T17:23:52+00:00",
-          "source": "TechCrunch AI"
+          "title": "Gemini Omni 1.2 Flash (1 minute read)",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+          "publishedAt": "2026-11-06T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Cloudflare's Trust Framework for AI Agents (4 minute read)",
+          "url": "https://blog.cloudflare.com/trusted-agent-delegation",
+          "publishedAt": "2026-11-06T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "The benchmark where AIs have to lie to win (23 minute read)",
+          "url": "https://www.dwarkesh.com/p/clocktower",
+          "publishedAt": "2026-11-06T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "NVIDIA Introduced VFlash (5 minute read)",
+          "url": "https://research.nvidia.com/labs/lpr/vflash",
+          "publishedAt": "2026-11-06T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Midterm voters turn on data centers, AI",
@@ -429,31 +447,13 @@
           "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
           "publishedAt": "2026-11-04T11:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "CrowdStrike’s ‘kill switch’ to stop rogue AI agents",
-          "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch",
-          "publishedAt": "2026-11-04T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s Astra rewrites other AI from the inside",
-          "url": "https://rikiyat.github.io/blog/weight-space-programming",
-          "publishedAt": "2026-11-03T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI grades its AI on everyday tasks",
-          "url": "https://openai.com/index/lifeval",
-          "publishedAt": "2026-11-03T11:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-07T15:00:31+00:00",
+      "updatedAt": "2026-11-07T15:07:20+00:00",
       "stories": [
         {
           "title": "Robot integration brings high-precision production to midmarket manufacturers",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-07T15:00:31+00:00",
+    "updatedAt": "2026-11-07T15:07:20+00:00",
     "stories": [
       {
         "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Star Wars is experiencing a golden age of video games",
-        "url": "https://www.space.com/entertainment/space-games/star-wars-is-experiencing-a-golden-age-of-video-games",
-        "publishedAt": "2026-11-07T13:00:00+00:00",
+        "title": "Send your name to Saturn's moon Titan with NASA's upcoming Dragonfly mission",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission",
+        "publishedAt": "2026-11-07T15:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -597,9 +597,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "US Army feeds culinary soldiers new job title",
-        "url": "https://www.defensenews.com/land/2026/11/06/us-army-feeds-culinary-soldiers-new-job-title",
-        "publishedAt": "2026-11-06T20:43:37+00:00",
+        "title": "European troops set to train in Poland for postwar Ukraine deployment",
+        "url": "https://www.defensenews.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment",
+        "publishedAt": "2026-11-07T15:05:44+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -613,6 +613,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Star Wars is experiencing a golden age of video games",
+        "url": "https://www.space.com/entertainment/space-games/star-wars-is-experiencing-a-golden-age-of-video-games",
+        "publishedAt": "2026-11-07T13:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "'I think we will prevail': NASA chief Jared Isaacman on Artemis, China and the new moon race (exclusive)",
@@ -630,15 +639,6 @@
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif",
-        "publishedAt": "2026-11-07T05:05:00+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -755,7 +755,6 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-28",
     "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
