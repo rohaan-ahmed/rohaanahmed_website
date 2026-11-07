@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-07T22:00:30+00:00",
+  "generatedAt": "2026-11-07T22:49:15+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-07T22:00:30+00:00",
+      "updatedAt": "2026-11-07T22:49:15+00:00",
       "stories": [
+        {
+          "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+          "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects",
+          "publishedAt": "2026-11-07T22:47:03+00:00",
+          "source": "NASA"
+        },
         {
           "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
           "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps",
@@ -46,12 +52,6 @@
           "title": "M30’s Sparkling Stars",
           "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars",
           "publishedAt": "2026-11-06T16:23:41+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Supercomputing Tech Demo Schedule",
-          "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule",
-          "publishedAt": "2026-11-06T16:03:52+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-07T22:00:30+00:00",
+      "updatedAt": "2026-11-07T22:49:15+00:00",
       "stories": [
         {
           "title": "5N Plus carries the space index through a Thursday sell-off",
@@ -192,7 +192,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-07T22:00:30+00:00",
+      "updatedAt": "2026-11-07T22:49:15+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to highlight Budget 2026 investments in supportive and transitional housing",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-07T22:00:30+00:00",
+      "updatedAt": "2026-11-07T22:49:15+00:00",
       "stories": [
         {
           "title": "European troops set to train in Poland for postwar Ukraine deployment",
@@ -356,8 +356,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-07T22:00:30+00:00",
+      "updatedAt": "2026-11-07T22:49:15+00:00",
       "stories": [
+        {
+          "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+          "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
+          "publishedAt": "2026-11-07T22:07:22+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
           "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
@@ -368,12 +374,6 @@
           "title": "Crusoe sells troubled Wyoming data center project to Google",
           "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google",
           "publishedAt": "2026-11-07T01:40:28+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
-          "publishedAt": "2026-11-06T22:53:46+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-07T22:00:30+00:00",
+      "updatedAt": "2026-11-07T22:49:15+00:00",
       "stories": [
         {
           "title": "Robot integration brings high-precision production to midmarket manufacturers",
@@ -549,21 +549,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-07T22:00:30+00:00",
+    "updatedAt": "2026-11-07T22:49:15+00:00",
     "stories": [
       {
-        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-        "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
-        "publishedAt": "2026-11-07T21:17:08+00:00",
+        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+        "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
+        "publishedAt": "2026-11-07T22:07:22+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Crusoe sells troubled Wyoming data center project to Google",
-        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google",
-        "publishedAt": "2026-11-07T01:40:28+00:00",
+        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+        "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
+        "publishedAt": "2026-11-07T21:17:08+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
-        "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps",
-        "publishedAt": "2026-11-07T18:11:57+00:00",
+        "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+        "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects",
+        "publishedAt": "2026-11-07T22:47:03+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -615,6 +615,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+        "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps",
+        "publishedAt": "2026-11-07T18:11:57+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before",
         "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026",
         "publishedAt": "2026-11-07T16:31:11+00:00",
@@ -627,15 +636,6 @@
         "title": "Send your name to Saturn's moon Titan with NASA's upcoming Dragonfly mission",
         "url": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission",
         "publishedAt": "2026-11-07T15:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Star Wars is experiencing a golden age of video games",
-        "url": "https://www.space.com/entertainment/space-games/star-wars-is-experiencing-a-golden-age-of-video-games",
-        "publishedAt": "2026-11-07T13:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
