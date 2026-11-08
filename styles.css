@@ -1836,3 +1836,15 @@ body.tactical-theme .nav-menu {
         transform: none;
     }
 }
+
+/* Shared RA mark matches the resume prototype. */
+.nav-logo.site-brand,.content-brand.site-brand,.cv-brand.site-brand {
+    display:inline-flex;align-items:baseline;gap:0;min-height:44px;
+    font-family:var(--font-head);font-size:1.45rem;font-weight:800;
+    letter-spacing:-.08em;line-height:1.6;color:var(--text-primary);
+}
+.site-brand::after { content:'.';color:var(--primary); }
+.site-brand::before,.site-brand .logo-text::before { display:none; }
+.navbar .site-brand .logo-text { display:inline;font:inherit;letter-spacing:inherit;color:inherit;text-shadow:none; }
+.hero-resume-link { display:inline-flex;align-items:center;gap:16px;min-height:44px;margin-top:18px;border-bottom:1px solid var(--hairline);font-size:.8rem;color:var(--primary-text); }
+.hero-resume-link:hover { color:var(--text-primary);border-color:var(--primary); }

@@ -904,3 +904,13 @@ body.tactical-theme .content-brand::before {
         font-size: 2.25rem;
     }
 }
+
+/* Keep the shared navigation readable at narrow widths. */
+.content-nav-inner { gap:20px; }
+.content-nav-links { gap:22px; }
+@media (max-width:620px) {
+    .content-nav-inner { gap:12px; }
+    .content-nav-links { gap:12px;flex-wrap:wrap;justify-content:flex-end; }
+    .content-nav-links a { font-size:.62rem;text-transform:none; }
+    .content-nav-links a:first-child,.content-nav-links a:last-child { display:none; }
+}

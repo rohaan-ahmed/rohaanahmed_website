@@ -129,8 +129,8 @@ def article_page(metadata: dict, article_html: str) -> str:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{summary}">
     <title>{title} | My Field Notes | Rohaan Ahmed</title>
-    <link rel="stylesheet" href="../styles.css?v=content-v5">
-    <link rel="stylesheet" href="../content.css?v=content-v7">
+    <link rel="stylesheet" href="../styles.css?v=site-nav-v1">
+    <link rel="stylesheet" href="../content.css?v=site-nav-v1">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Share+Tech+Mono&family=Sora:wght@400;600;700;800&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
@@ -138,10 +138,13 @@ def article_page(metadata: dict, article_html: str) -> str:
 <body class="content-page article-page">
     <header class="content-navbar">
         <div class="content-nav-inner">
-            <a class="content-brand" href="../index.html" aria-label="Rohaan Ahmed home">RA</a>
-            <nav class="content-nav-links" aria-label="Content">
+            <a class="content-brand site-brand" href="../index.html" aria-label="Rohaan Ahmed home">RA</a>
+            <nav class="content-nav-links" aria-label="Main navigation">
+                <a href="../index.html">Home</a>
                 <a href="../news.html">My News</a>
-                <a class="active" href="../field-notes.html">My Field Notes</a>
+                <a class="active" aria-current="page" href="../field-notes.html">My Field Notes</a>
+                <a href="../resume.html">Resume</a>
+                <a href="../index.html#contact">Contact</a>
             </nav>
         </div>
     </header>
