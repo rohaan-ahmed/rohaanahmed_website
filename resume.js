@@ -25,6 +25,7 @@
     let step = 320;
     let scrollFrame = 0;
     let measureFrame = 0;
+    let serviceWheel = null;
     const clamp = (value, min, max) => Math.max(min, Math.min(max, value));
 
     function paint() {
@@ -127,6 +128,7 @@
         if (!measureFrame) measureFrame = requestAnimationFrame(measure);
     }
     function goTo(index, behavior = 'smooth') {
+        serviceWheel = null;
         const position = clamp(index, 0, steps.length - 1) * step;
         const motion = reducedMotion.matches ? 'instant' : behavior;
         scroller.scrollTo({ left: horizontal ? position : 0, top: horizontal ? 0 : position, behavior: motion });
@@ -166,6 +168,27 @@
             window.scrollBy({ top: bounds.top - offset, behavior: 'instant' });
             return;
         }
+        const direction = Math.sign(delta);
+        const time = event.timeStamp;
+        const sameGesture = serviceWheel?.direction === direction && time - serviceWheel.time < 150;
+        if (sameGesture && serviceWheel.advanced) {
+            event.preventDefault();
+            serviceWheel.time = time;
+            return;
+        }
+        const position = scroller.scrollTop / step;
+        const from = direction > 0 ? Math.floor(position + .01) : Math.ceil(position - .01);
+        const target = from + direction;
+        if (event.cancelable && (steps[from]?.service || steps[target]?.service)) {
+            // Advance one stop through the military stages, even if the wheel would overshoot.
+            event.preventDefault();
+            const distance = (sameGesture ? serviceWheel.distance : 0) + Math.abs(delta);
+            const advanced = distance >= 32;
+            if (advanced) goTo(target);
+            serviceWheel = { direction, time, distance, advanced };
+            return;
+        }
+        serviceWheel = null;
         if (scroller.contains(event.target)) return;
         event.preventDefault();
         scroller.scrollTop = destination;
