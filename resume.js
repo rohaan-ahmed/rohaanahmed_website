@@ -17,6 +17,8 @@
         ? serviceChoices.map(button => ({ sceneIndex, service: button.dataset.service }))
         : [{ sceneIndex }]);
     const sceneSteps = scenes.map((_, sceneIndex) => steps.flatMap((item, index) => item.sceneIndex === sceneIndex ? [index] : []));
+    const serviceSteps = sceneSteps[scenes.indexOf(serviceScene)];
+    const panelSteps = servicePanels.map(panel => steps.findIndex(item => item.service === panel.dataset.servicePanel));
     let horizontal = mobile.matches;
     let activeStep = -1;
     let selectedService = 'rcaf';
@@ -39,11 +41,23 @@
             renderService(selectedService);
         }
         const position = Math.abs(rawPosition - nearest) < .01 ? nearest : rawPosition;
+        const servicePosition = clamp(position, serviceSteps[0], serviceSteps.at(-1));
+        servicePanels.forEach((panel, index) => {
+            const distance = servicePosition - panelSteps[index];
+            panel.style.opacity = reducedMotion.matches
+                ? Number(panel.dataset.servicePanel === selectedService)
+                : Math.max(0, 1 - Math.abs(distance));
+        });
         story.style.setProperty('--cv-progress', position / (steps.length - 1));
         scenes.forEach((scene, index) => {
-            const closest = sceneSteps[index].reduce((best, candidate) => Math.abs(position - candidate) < Math.abs(position - best) ? candidate : best);
+            // Keep a shared scene visible between its consecutive scroll stops.
+            const closest = clamp(position, sceneSteps[index][0], sceneSteps[index].at(-1));
             const distance = position - closest;
-            const opacity = reducedMotion.matches ? Number(index === current.sceneIndex) : Math.max(0, 1 - Math.abs(distance) * 2);
+            const fade = clamp(Math.abs(distance) * 2, 0, 1);
+            // Soften the brief dimming if native scrolling overshoots a service stop.
+            const opacity = reducedMotion.matches
+                ? Number(index === current.sceneIndex)
+                : 1 - (scene === serviceScene ? fade ** 3 : fade);
             scene.style.opacity = opacity;
             scene.style.visibility = opacity > .001 ? 'visible' : 'hidden';
             scene.style.transform = reducedMotion.matches ? 'none' : `translate${horizontal ? 'X' : 'Y'}(${-distance * 18}px)`;
@@ -79,6 +93,7 @@
     }
     function measure() {
         measureFrame = 0;
+        const previousStep = step;
         // Changing overflow axes resets the browser's old offset before resize runs.
         const axisChanged = horizontal !== mobile.matches;
         const position = axisChanged ? Math.max(activeStep, 0) : (horizontal ? scroller.scrollLeft : scroller.scrollTop) / step;
@@ -87,22 +102,12 @@
         const stacked = horizontal;
         const width = scroller.clientWidth;
         story.style.setProperty('--cv-panel-width', `${width}px`);
-        const requiredHeight = scene => {
+        const required = Math.max(...scenes.map(scene => {
             const style = getComputedStyle(scene);
             const roleHeight = scene.querySelector('.cv-role').getBoundingClientRect().height;
             const contextHeight = scene.querySelector('.cv-context').getBoundingClientRect().height;
             const contentHeight = stacked ? roleHeight + contextHeight + parseFloat(style.rowGap) : Math.max(roleHeight, contextHeight);
             return contentHeight + parseFloat(style.paddingTop) + parseFloat(style.paddingBottom);
-        };
-        // Reserve space for both service stages so scrolling between them never resizes the page.
-        const required = Math.max(...scenes.flatMap(scene => {
-            if (scene !== serviceScene) return [requiredHeight(scene)];
-            const heights = serviceChoices.map(button => {
-                renderService(button.dataset.service);
-                return requiredHeight(scene);
-            });
-            renderService(selectedService);
-            return heights;
         }));
         const height = Math.ceil(Math.max(stacked ? 440 : 490, required));
         step = horizontal ? width : Math.round(clamp(innerHeight * .4, 260, 380));
@@ -113,7 +118,9 @@
         scroller.setAttribute('aria-label', `Experience timeline: ${horizontal ? 'swipe left or right' : 'scroll up or down'} to change roles`);
         hint.firstChild.textContent = horizontal ? 'Swipe to explore ' : 'Scroll to explore ';
         hint.querySelector('span').textContent = horizontal ? '↔' : '↕';
-        scroller.scrollTo({ left: horizontal ? position * step : 0, top: horizontal ? 0 : position * step, behavior: 'instant' });
+        if (axisChanged || step !== previousStep) {
+            scroller.scrollTo({ left: horizontal ? position * step : 0, top: horizontal ? 0 : position * step, behavior: 'instant' });
+        }
         paint();
     }
     function requestMeasure() {
@@ -127,7 +134,11 @@
     }
     function renderService(service) {
         serviceChoices.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.service === service)));
-        servicePanels.forEach(panel => { panel.hidden = panel.dataset.servicePanel !== service; });
+        servicePanels.forEach(panel => {
+            const inactive = panel.dataset.servicePanel !== service;
+            panel.inert = inactive;
+            panel.setAttribute('aria-hidden', String(inactive));
+        });
     }
     renderService(selectedService);
     serviceChoices.forEach(button => button.addEventListener('click', () => {

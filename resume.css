@@ -464,7 +464,12 @@
 }
 
 /* One Armed Forces entry, with two connected service stages. */
-.cv-service-scene [hidden] { display:none; }
+.is-enhanced .cv-service-details,.is-enhanced .cv-service-scene .cv-context { display:grid;align-items:start; }
+.is-enhanced .cv-service-scene [data-service-panel] { grid-area:1 / 1;min-width:0; }
+.is-enhanced .cv-service-scene [data-service-panel][aria-hidden="true"] { opacity:0; }
+@media (prefers-reduced-motion:no-preference) {
+    .is-enhanced .cv-service-scene [data-service-panel] { transition:opacity .12s linear; }
+}
 .cv-service-stages { display:none; }
 .is-enhanced .cv-service-stages { display:grid;position:relative;gap:10px;padding-left:16px;margin:16px 0 20px; }
 .cv-service-stages::before { content:'';position:absolute;left:3px;top:24px;bottom:24px;width:1px;background:var(--primary); }
