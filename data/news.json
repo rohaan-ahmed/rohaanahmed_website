@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-08T16:00:37+00:00",
+  "generatedAt": "2026-11-08T17:00:35+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-08T16:00:37+00:00",
+      "updatedAt": "2026-11-08T17:00:35+00:00",
       "stories": [
+        {
+          "title": "Legendary sci-fi magazine 'Starlog' returns as a yearly release, just in time for its 50th anniversary",
+          "url": "https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary",
+          "publishedAt": "2026-11-08T16:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "On this day in space! Nov. 8, 2005: Europe launches Venus Express, its first mission to Venus",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026",
@@ -47,12 +53,6 @@
           "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps",
           "publishedAt": "2026-11-07T18:11:57+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026",
-          "publishedAt": "2026-11-07T16:31:11+00:00",
-          "source": "Space.com"
         },
         {
           "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-08T16:00:37+00:00",
+      "updatedAt": "2026-11-08T17:00:35+00:00",
       "stories": [
         {
           "title": "5N Plus carries the space index through a Thursday sell-off",
@@ -192,7 +192,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-08T16:00:37+00:00",
+      "updatedAt": "2026-11-08T17:00:35+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to highlight Budget 2026 investments in supportive and transitional housing",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-08T16:00:37+00:00",
+      "updatedAt": "2026-11-08T17:00:35+00:00",
       "stories": [
         {
           "title": "European troops set to train in Poland for postwar Ukraine deployment",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-08T16:00:37+00:00",
+      "updatedAt": "2026-11-08T17:00:35+00:00",
       "stories": [
         {
           "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-08T16:00:37+00:00",
+      "updatedAt": "2026-11-08T17:00:35+00:00",
       "stories": [
         {
           "title": "ARM Institute consortium grows to more than 500 organizations",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-08T16:00:37+00:00",
+    "updatedAt": "2026-11-08T17:00:35+00:00",
     "stories": [
       {
         "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "On this day in space! Nov. 8, 2005: Europe launches Venus Express, its first mission to Venus",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026",
-        "publishedAt": "2026-11-08T15:25:42+00:00",
+        "title": "Legendary sci-fi magazine 'Starlog' returns as a yearly release, just in time for its 50th anniversary",
+        "url": "https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary",
+        "publishedAt": "2026-11-08T16:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -615,6 +615,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "On this day in space! Nov. 8, 2005: Europe launches Venus Express, its first mission to Venus",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026",
+        "publishedAt": "2026-11-08T15:25:42+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
         "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge",
         "publishedAt": "2026-11-08T15:26:38+00:00",
@@ -627,15 +636,6 @@
         "title": "Who is King Ghidorah? The cosmic connections of Godzilla Minus Zero's foe",
         "url": "https://www.space.com/entertainment/space-movies-shows/who-is-king-ghidorah-the-cosmic-connections-of-godzilla-minus-zeros-foe",
         "publishedAt": "2026-11-08T13:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Scientists simulate an Earth without life to help hunt for aliens and inhabited worlds",
-        "url": "https://www.space.com/space-exploration/search-for-life/scientists-simulate-an-earth-without-life-to-help-hunt-for-aliens-and-inhabited-worlds",
-        "publishedAt": "2026-11-08T11:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
