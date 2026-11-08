@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-08T05:00:34+00:00",
+  "generatedAt": "2026-11-08T06:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-08T05:00:34+00:00",
+      "updatedAt": "2026-11-08T06:00:34+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor",
+          "publishedAt": "2026-11-08T05:05:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
           "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects",
@@ -46,12 +52,6 @@
           "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
           "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif",
           "publishedAt": "2026-11-07T05:05:00+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "M30’s Sparkling Stars",
-          "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars",
-          "publishedAt": "2026-11-06T16:23:41+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-08T05:00:34+00:00",
+      "updatedAt": "2026-11-08T06:00:34+00:00",
       "stories": [
         {
           "title": "5N Plus carries the space index through a Thursday sell-off",
@@ -192,7 +192,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-08T05:00:34+00:00",
+      "updatedAt": "2026-11-08T06:00:34+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to highlight Budget 2026 investments in supportive and transitional housing",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-08T05:00:34+00:00",
+      "updatedAt": "2026-11-08T06:00:34+00:00",
       "stories": [
         {
           "title": "European troops set to train in Poland for postwar Ukraine deployment",
@@ -356,7 +356,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-08T05:00:34+00:00",
+      "updatedAt": "2026-11-08T06:00:34+00:00",
       "stories": [
         {
           "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-08T05:00:34+00:00",
+      "updatedAt": "2026-11-08T06:00:34+00:00",
       "stories": [
         {
           "title": "Robot integration brings high-precision production to midmarket manufacturers",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-08T05:00:34+00:00",
+    "updatedAt": "2026-11-08T06:00:34+00:00",
     "stories": [
       {
         "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-        "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects",
-        "publishedAt": "2026-11-07T22:47:03+00:00",
+        "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor",
+        "publishedAt": "2026-11-08T05:05:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -615,6 +615,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+        "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects",
+        "publishedAt": "2026-11-07T22:47:03+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
         "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps",
         "publishedAt": "2026-11-07T18:11:57+00:00",
@@ -627,15 +636,6 @@
         "title": "On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before",
         "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026",
         "publishedAt": "2026-11-07T16:31:11+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Send your name to Saturn's moon Titan with NASA's upcoming Dragonfly mission",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission",
-        "publishedAt": "2026-11-07T15:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -754,7 +754,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
-    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News"
+    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
+    "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
