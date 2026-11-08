@@ -10,6 +10,9 @@
     const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
     const mobile = matchMedia('(max-width: 620px)');
     const hint = story.querySelector('.cv-scroll-hint');
+    const serviceScene = story.querySelector('#role-caf');
+    const serviceChoices = [...serviceScene.querySelectorAll('[data-service]')];
+    const servicePanels = [...serviceScene.querySelectorAll('[data-service-panel]')];
     let horizontal = mobile.matches;
     let active = -1;
     let step = 320;
@@ -94,6 +97,14 @@
         const position = clamp(index, 0, scenes.length - 1) * step;
         scroller.scrollTo({ left: horizontal ? position : 0, top: horizontal ? 0 : position, behavior: reducedMotion.matches ? 'instant' : behavior });
     }
+    function selectService(service, updateHash = false) {
+        serviceChoices.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.service === service)));
+        servicePanels.forEach(panel => { panel.hidden = panel.dataset.servicePanel !== service; });
+        requestMeasure();
+        if (updateHash) history.replaceState(null, '', `#role-${service}`);
+    }
+    selectService('rcaf');
+    serviceChoices.forEach(button => button.addEventListener('click', () => selectService(button.dataset.service, true)));
     story.classList.add('is-enhanced');
     measure();
     scroller.addEventListener('scroll', requestPaint, { passive: true });
@@ -137,7 +148,10 @@
     document.fonts?.ready.then(requestMeasure);
     reducedMotion.addEventListener('change', requestPaint);
     function openHash() {
-        const index = scenes.findIndex(scene => `#${scene.id}` === location.hash);
+        const service = location.hash === '#role-army' ? 'army' : location.hash === '#role-rcaf' ? 'rcaf' : null;
+        if (service) selectService(service);
+        const target = service ? '#role-caf' : location.hash;
+        const index = scenes.findIndex(scene => `#${scene.id}` === target);
         if (index < 0) return;
         goTo(index, 'instant');
         story.scrollIntoView({ block: 'start', behavior: 'instant' });

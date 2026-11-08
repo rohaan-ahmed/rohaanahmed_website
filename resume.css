@@ -53,6 +53,7 @@
 .cv-organization { color:var(--primary-text);font-size:.72rem;font-weight:600;letter-spacing:.03em;margin:23px 0 12px; }
 .cv-role h3 { font-family:var(--font-head);font-size:clamp(1.75rem,2.6vw,2.65rem);letter-spacing:-.05em;line-height:1.17;font-weight:600; }
 .cv-role h3 span { display:block;color:var(--text-secondary); }
+.cv-role { min-width:0; }
 .cv-role-summary { max-width:390px;font-size:.9rem;line-height:1.7;color:var(--text-secondary);margin:22px 0 26px; }
 .cv-role-lenses { display:grid;gap:18px;max-width:390px; }
 .cv-role-lenses div { padding-left:14px;border-left:1px solid var(--cv-stroke); }
@@ -370,13 +371,13 @@
 .cv-story { --cv-body-size:.9rem; }
 .cv-years ol a { font-size:calc(var(--cv-body-size) * .85); }
 .cv-years ol a small { font-size:var(--cv-body-size); }
-.cv-nav-role { display:none; }
+.cv-nav-role { display:block;margin-top:5px;font-family:var(--font-body);font-size:.72rem;line-height:1.4;color:var(--text-muted); }
 .cv-projects { display:block;line-height:1.35; }
 .cv-projects li { display:inline;line-height:inherit; }
 .cv-projects li+li::before { content:'  •  ';white-space:pre;color:var(--primary-text);font-weight:600; }
 .cv-lens-list { list-style:none;padding:0;margin:0; }
 .cv-lens-list li { display:inline; }
-.cv-lens-list li+li::before { content:'  •  ';white-space:pre;color:var(--primary-text);font-weight:600; }
+.cv-lens-list li+li::before { content:' • ';white-space:normal;color:var(--primary-text);font-weight:600; }
 .cv-photo figcaption .cv-image-credit { margin-top:9px;font-size:.55rem;color:var(--text-faint); }
 .cv-image-credit a { color:inherit;text-decoration:underline;text-underline-offset:3px; }
 .cv-projects li>a,.cv-projects li>span { display:inline;padding:0;line-height:inherit; }
@@ -460,4 +461,29 @@
     .is-enhanced .cv-scroll-content { width:var(--cv-track-width);height:var(--cv-panel-height); }
     .is-enhanced .cv-scenes { top:auto;left:0;width:var(--cv-panel-width); }
     .cv-scroll-stops>span { top:0;left:calc(var(--cv-stop) * var(--cv-step)); }
+}
+
+/* One Armed Forces entry, with two connected service stages. */
+.cv-service-scene [hidden] { display:none; }
+.cv-service-stages { display:none; }
+.is-enhanced .cv-service-stages { display:grid;position:relative;gap:10px;padding-left:16px;margin:16px 0 20px; }
+.cv-service-stages::before { content:'';position:absolute;left:3px;top:24px;bottom:24px;width:1px;background:var(--primary); }
+.cv-service-choice { position:relative;display:block;width:100%;padding:10px 13px;text-align:left;font:inherit;color:var(--text-secondary);background:var(--cv-glass);border:1px solid var(--cv-stroke);border-radius:13px;cursor:pointer; }
+.cv-service-choice::before { content:'';position:absolute;left:-18px;top:23px;width:7px;height:7px;border-radius:50%;background:var(--primary); }
+.cv-service-choice>span { display:block;font-family:var(--font-mono);font-size:.58rem;line-height:1.5;color:var(--text-muted); }
+.cv-service-choice>strong { display:block;margin-top:3px;font-family:var(--font-body);font-size:.8rem;line-height:1.4;font-weight:500; }
+.cv-service-choice[aria-pressed="true"] { border-color:var(--primary);background:var(--primary-tint);color:var(--primary-text); }
+.cv-service-choice:hover { border-color:var(--primary); }
+.cv-service-scene .cv-role .cv-service-heading { margin:15px 0 0;font-size:clamp(1.3rem,1.8vw,1.8rem);line-height:1.25;letter-spacing:-.035em; }
+.cv-service-detail h4 { font-family:var(--font-head);font-size:clamp(1.3rem,1.7vw,1.65rem);line-height:1.2;letter-spacing:-.04em;font-weight:600; }
+.cv-service-detail h4 span { color:var(--text-secondary); }
+.cv-service-detail .cv-role-summary { margin:14px 0 18px; }
+@media (max-width:620px) {
+    .is-enhanced .cv-service-stages { gap:8px;margin:12px 0 16px; }
+    .is-enhanced .cv-scene { grid-template-columns:minmax(0,1fr); }
+    .cv-role-lenses { grid-template-columns:repeat(2,minmax(0,1fr)); }
+    .cv-service-choice { padding:9px 11px; }
+    .cv-service-choice>strong { font-size:.76rem; }
+    .cv-service-detail h4 { font-size:1.25rem; }
+    .cv-service-detail .cv-role-summary { margin:10px 0; }
 }
