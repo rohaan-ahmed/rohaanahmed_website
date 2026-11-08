@@ -479,10 +479,11 @@
 .cv-service-detail h4 span { color:var(--text-secondary); }
 .cv-service-detail .cv-role-summary { margin:14px 0 18px; }
 @media (max-width:620px) {
-    .is-enhanced .cv-service-stages { gap:8px;margin:12px 0 16px; }
+    .is-enhanced .cv-service-stages { grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;padding-left:0;margin:12px 0 16px; }
+    .cv-service-stages::before,.cv-service-choice::before { display:none; }
     .is-enhanced .cv-scene { grid-template-columns:minmax(0,1fr); }
     .cv-role-lenses { grid-template-columns:repeat(2,minmax(0,1fr)); }
-    .cv-service-choice { padding:9px 11px; }
+    .cv-service-choice { display:flex;flex-direction:column;align-items:flex-start;min-width:0;padding:9px 11px; }
     .cv-service-choice>strong { font-size:.76rem; }
     .cv-service-detail h4 { font-size:1.25rem; }
     .cv-service-detail .cv-role-summary { margin:10px 0; }
