@@ -8,6 +8,9 @@
     const next = story.querySelector('.cv-next');
     const status = story.querySelector('.cv-scene-status');
     const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
+    const mobile = matchMedia('(max-width: 620px)');
+    const hint = story.querySelector('.cv-scroll-hint');
+    let horizontal = mobile.matches;
     let active = -1;
     let step = 320;
     let scrollFrame = 0;
@@ -16,7 +19,11 @@
 
     function paint() {
         scrollFrame = 0;
-        const rawPosition = clamp(scroller.scrollTop / step, 0, scenes.length - 1);
+        if (horizontal !== mobile.matches) {
+            requestMeasure();
+            return;
+        }
+        const rawPosition = clamp((horizontal ? scroller.scrollLeft : scroller.scrollTop) / step, 0, scenes.length - 1);
         const nearest = Math.round(rawPosition);
         const position = Math.abs(rawPosition - nearest) < .01 ? nearest : rawPosition;
         story.style.setProperty('--cv-progress', position / (scenes.length - 1));
@@ -25,7 +32,7 @@
             const opacity = reducedMotion.matches ? Number(index === nearest) : Math.max(0, 1 - Math.abs(distance) * 2);
             scene.style.opacity = opacity;
             scene.style.visibility = opacity > .001 ? 'visible' : 'hidden';
-            scene.style.transform = reducedMotion.matches ? 'none' : `translateY(${-distance * 18}px)`;
+            scene.style.transform = reducedMotion.matches ? 'none' : `translate${horizontal ? 'X' : 'Y'}(${-distance * 18}px)`;
             scene.style.filter = reducedMotion.matches ? 'none' : `blur(${(1 - opacity) * 2}px)`;
         });
         if (nearest === active) return;
@@ -42,7 +49,7 @@
         previous.disabled = active === 0;
         next.disabled = active === scenes.length - 1;
         status.textContent = `${String(active + 1).padStart(2, '0')} / ${String(scenes.length).padStart(2, '0')} · ${scenes[active].querySelector('.cv-organization').textContent}`;
-        if (matchMedia('(max-width: 620px)').matches) {
+        if (horizontal) {
             const rail = story.querySelector('.cv-years ol');
             const selected = links[active];
             rail.scrollTo({ left: selected.offsetLeft - rail.clientWidth / 2 + selected.offsetWidth / 2, behavior: reducedMotion.matches ? 'instant' : 'smooth' });
@@ -53,8 +60,14 @@
     }
     function measure() {
         measureFrame = 0;
-        const position = scroller.scrollTop / step;
-        const stacked = matchMedia('(max-width: 620px)').matches;
+        // Changing overflow axes resets the browser's old offset before resize runs.
+        const axisChanged = horizontal !== mobile.matches;
+        const position = axisChanged ? Math.max(active, 0) : (horizontal ? scroller.scrollLeft : scroller.scrollTop) / step;
+        horizontal = mobile.matches;
+        if (axisChanged) active = -1;
+        const stacked = horizontal;
+        const width = scroller.clientWidth;
+        story.style.setProperty('--cv-panel-width', `${width}px`);
         const required = Math.max(...scenes.map(scene => {
             const style = getComputedStyle(scene);
             const roleHeight = scene.querySelector('.cv-role').getBoundingClientRect().height;
@@ -63,30 +76,35 @@
             return contentHeight + parseFloat(style.paddingTop) + parseFloat(style.paddingBottom);
         }));
         const height = Math.ceil(Math.max(stacked ? 440 : 490, required));
-        step = Math.round(clamp(innerHeight * .4, 260, 380));
+        step = horizontal ? width : Math.round(clamp(innerHeight * .4, 260, 380));
         story.style.setProperty('--cv-panel-height', `${height}px`);
         story.style.setProperty('--cv-step', `${step}px`);
         story.style.setProperty('--cv-track-height', `${height + step * (scenes.length - 1)}px`);
-        scroller.scrollTop = position * step;
+        story.style.setProperty('--cv-track-width', `${width + step * (scenes.length - 1)}px`);
+        scroller.setAttribute('aria-label', `Experience timeline: ${horizontal ? 'swipe left or right' : 'scroll up or down'} to change roles`);
+        hint.firstChild.textContent = horizontal ? 'Swipe to explore ' : 'Scroll to explore ';
+        hint.querySelector('span').textContent = horizontal ? '↔' : '↕';
+        scroller.scrollTo({ left: horizontal ? position * step : 0, top: horizontal ? 0 : position * step, behavior: 'instant' });
         paint();
     }
     function requestMeasure() {
         if (!measureFrame) measureFrame = requestAnimationFrame(measure);
     }
     function goTo(index, behavior = 'smooth') {
-        scroller.scrollTo({ top: clamp(index, 0, scenes.length - 1) * step, behavior: reducedMotion.matches ? 'instant' : behavior });
+        const position = clamp(index, 0, scenes.length - 1) * step;
+        scroller.scrollTo({ left: horizontal ? position : 0, top: horizontal ? 0 : position, behavior: reducedMotion.matches ? 'instant' : behavior });
     }
     story.classList.add('is-enhanced');
     measure();
     scroller.addEventListener('scroll', requestPaint, { passive: true });
     // Keep input local to experience, and let native scrolling chain to the page at either end.
     story.addEventListener('wheel', event => {
-        if (event.ctrlKey || Math.abs(event.deltaX) > Math.abs(event.deltaY)) return;
+        if (horizontal || event.ctrlKey || Math.abs(event.deltaX) > Math.abs(event.deltaY)) return;
         const delta = event.deltaY * (event.deltaMode === 1 ? 16 : event.deltaMode === 2 ? scroller.clientHeight : 1);
         const destination = clamp(scroller.scrollTop + delta, 0, scroller.scrollHeight - scroller.clientHeight);
         if (Math.abs(destination - scroller.scrollTop) < .5) return;
         const bounds = scroller.getBoundingClientRect();
-        const offset = document.querySelector('.cv-nav').getBoundingClientRect().bottom + 12;
+        const offset = document.querySelector('.content-navbar').getBoundingClientRect().bottom + 12;
         if (delta > 0 && bounds.top > offset + 2 && bounds.bottom > innerHeight - 10) {
             event.preventDefault();
             window.scrollBy({ top: Math.min(delta, bounds.top - offset), behavior: 'instant' });
