@@ -13,8 +13,13 @@
     const serviceScene = story.querySelector('#role-caf');
     const serviceChoices = [...serviceScene.querySelectorAll('[data-service]')];
     const servicePanels = [...serviceScene.querySelectorAll('[data-service-panel]')];
+    const steps = scenes.flatMap((scene, sceneIndex) => scene === serviceScene
+        ? serviceChoices.map(button => ({ sceneIndex, service: button.dataset.service }))
+        : [{ sceneIndex }]);
+    const sceneSteps = scenes.map((_, sceneIndex) => steps.flatMap((item, index) => item.sceneIndex === sceneIndex ? [index] : []));
     let horizontal = mobile.matches;
-    let active = -1;
+    let activeStep = -1;
+    let selectedService = 'rcaf';
     let step = 320;
     let scrollFrame = 0;
     let measureFrame = 0;
@@ -26,35 +31,46 @@
             requestMeasure();
             return;
         }
-        const rawPosition = clamp((horizontal ? scroller.scrollLeft : scroller.scrollTop) / step, 0, scenes.length - 1);
+        const rawPosition = clamp((horizontal ? scroller.scrollLeft : scroller.scrollTop) / step, 0, steps.length - 1);
         const nearest = Math.round(rawPosition);
+        const current = steps[nearest];
+        if (current.service && current.service !== selectedService) {
+            selectedService = current.service;
+            renderService(selectedService);
+        }
         const position = Math.abs(rawPosition - nearest) < .01 ? nearest : rawPosition;
-        story.style.setProperty('--cv-progress', position / (scenes.length - 1));
+        story.style.setProperty('--cv-progress', position / (steps.length - 1));
         scenes.forEach((scene, index) => {
-            const distance = position - index;
-            const opacity = reducedMotion.matches ? Number(index === nearest) : Math.max(0, 1 - Math.abs(distance) * 2);
+            const closest = sceneSteps[index].reduce((best, candidate) => Math.abs(position - candidate) < Math.abs(position - best) ? candidate : best);
+            const distance = position - closest;
+            const opacity = reducedMotion.matches ? Number(index === current.sceneIndex) : Math.max(0, 1 - Math.abs(distance) * 2);
             scene.style.opacity = opacity;
             scene.style.visibility = opacity > .001 ? 'visible' : 'hidden';
             scene.style.transform = reducedMotion.matches ? 'none' : `translate${horizontal ? 'X' : 'Y'}(${-distance * 18}px)`;
             scene.style.filter = reducedMotion.matches ? 'none' : `blur(${(1 - opacity) * 2}px)`;
         });
-        if (nearest === active) return;
-        active = nearest;
+        if (nearest === activeStep) return;
+        activeStep = nearest;
         scenes.forEach((scene, index) => {
-            scene.classList.toggle('is-current', index === active);
-            scene.inert = index !== active;
-            scene.setAttribute('aria-hidden', String(index !== active));
+            scene.classList.toggle('is-current', index === current.sceneIndex);
+            scene.inert = index !== current.sceneIndex;
+            scene.setAttribute('aria-hidden', String(index !== current.sceneIndex));
         });
         links.forEach((link, index) => {
-            if (index === active) link.setAttribute('aria-current', 'step');
+            if (index === current.sceneIndex) link.setAttribute('aria-current', 'step');
             else link.removeAttribute('aria-current');
         });
-        previous.disabled = active === 0;
-        next.disabled = active === scenes.length - 1;
-        status.textContent = `${String(active + 1).padStart(2, '0')} / ${String(scenes.length).padStart(2, '0')} · ${scenes[active].querySelector('.cv-organization').textContent}`;
+        previous.disabled = activeStep === 0;
+        next.disabled = activeStep === steps.length - 1;
+        const counter = `${String(activeStep + 1).padStart(2, '0')} / ${String(steps.length).padStart(2, '0')}`;
+        const label = current.service
+            ? serviceChoices.find(button => button.dataset.service === current.service).querySelector('strong').textContent
+            : scenes[current.sceneIndex].querySelector('.cv-organization').textContent;
+        status.textContent = `${counter} · ${label}`;
+        scenes[current.sceneIndex].querySelector('.cv-role-index').textContent = counter;
         if (horizontal) {
             const rail = story.querySelector('.cv-years ol');
-            const selected = links[active];
+            const selected = links[current.sceneIndex];
             rail.scrollTo({ left: selected.offsetLeft - rail.clientWidth / 2 + selected.offsetWidth / 2, behavior: reducedMotion.matches ? 'instant' : 'smooth' });
         }
     }
@@ -65,25 +81,35 @@
         measureFrame = 0;
         // Changing overflow axes resets the browser's old offset before resize runs.
         const axisChanged = horizontal !== mobile.matches;
-        const position = axisChanged ? Math.max(active, 0) : (horizontal ? scroller.scrollLeft : scroller.scrollTop) / step;
+        const position = axisChanged ? Math.max(activeStep, 0) : (horizontal ? scroller.scrollLeft : scroller.scrollTop) / step;
         horizontal = mobile.matches;
-        if (axisChanged) active = -1;
+        if (axisChanged) activeStep = -1;
         const stacked = horizontal;
         const width = scroller.clientWidth;
         story.style.setProperty('--cv-panel-width', `${width}px`);
-        const required = Math.max(...scenes.map(scene => {
+        const requiredHeight = scene => {
             const style = getComputedStyle(scene);
             const roleHeight = scene.querySelector('.cv-role').getBoundingClientRect().height;
             const contextHeight = scene.querySelector('.cv-context').getBoundingClientRect().height;
             const contentHeight = stacked ? roleHeight + contextHeight + parseFloat(style.rowGap) : Math.max(roleHeight, contextHeight);
             return contentHeight + parseFloat(style.paddingTop) + parseFloat(style.paddingBottom);
+        };
+        // Reserve space for both service stages so scrolling between them never resizes the page.
+        const required = Math.max(...scenes.flatMap(scene => {
+            if (scene !== serviceScene) return [requiredHeight(scene)];
+            const heights = serviceChoices.map(button => {
+                renderService(button.dataset.service);
+                return requiredHeight(scene);
+            });
+            renderService(selectedService);
+            return heights;
         }));
         const height = Math.ceil(Math.max(stacked ? 440 : 490, required));
         step = horizontal ? width : Math.round(clamp(innerHeight * .4, 260, 380));
         story.style.setProperty('--cv-panel-height', `${height}px`);
         story.style.setProperty('--cv-step', `${step}px`);
-        story.style.setProperty('--cv-track-height', `${height + step * (scenes.length - 1)}px`);
-        story.style.setProperty('--cv-track-width', `${width + step * (scenes.length - 1)}px`);
+        story.style.setProperty('--cv-track-height', `${height + step * (steps.length - 1)}px`);
+        story.style.setProperty('--cv-track-width', `${width + step * (steps.length - 1)}px`);
         scroller.setAttribute('aria-label', `Experience timeline: ${horizontal ? 'swipe left or right' : 'scroll up or down'} to change roles`);
         hint.firstChild.textContent = horizontal ? 'Swipe to explore ' : 'Scroll to explore ';
         hint.querySelector('span').textContent = horizontal ? '↔' : '↕';
@@ -94,17 +120,20 @@
         if (!measureFrame) measureFrame = requestAnimationFrame(measure);
     }
     function goTo(index, behavior = 'smooth') {
-        const position = clamp(index, 0, scenes.length - 1) * step;
-        scroller.scrollTo({ left: horizontal ? position : 0, top: horizontal ? 0 : position, behavior: reducedMotion.matches ? 'instant' : behavior });
+        const position = clamp(index, 0, steps.length - 1) * step;
+        const motion = reducedMotion.matches ? 'instant' : behavior;
+        scroller.scrollTo({ left: horizontal ? position : 0, top: horizontal ? 0 : position, behavior: motion });
+        if (motion === 'instant') paint();
     }
-    function selectService(service, updateHash = false) {
+    function renderService(service) {
         serviceChoices.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.service === service)));
         servicePanels.forEach(panel => { panel.hidden = panel.dataset.servicePanel !== service; });
-        requestMeasure();
-        if (updateHash) history.replaceState(null, '', `#role-${service}`);
     }
-    selectService('rcaf');
-    serviceChoices.forEach(button => button.addEventListener('click', () => selectService(button.dataset.service, true)));
+    renderService(selectedService);
+    serviceChoices.forEach(button => button.addEventListener('click', () => {
+        goTo(steps.findIndex(item => item.service === button.dataset.service));
+        history.replaceState(null, '', `#role-${button.dataset.service}`);
+    }));
     story.classList.add('is-enhanced');
     measure();
     scroller.addEventListener('scroll', requestPaint, { passive: true });
@@ -133,11 +162,11 @@
     links.forEach((link, index) => link.addEventListener('click', event => {
         event.preventDefault();
         story.scrollIntoView({ block: 'start', behavior: 'instant' });
-        goTo(index);
+        goTo(sceneSteps[index][0]);
         history.replaceState(null, '', link.getAttribute('href'));
     }));
-    previous.addEventListener('click', () => goTo(active - 1));
-    next.addEventListener('click', () => goTo(active + 1));
+    previous.addEventListener('click', () => goTo(activeStep - 1));
+    next.addEventListener('click', () => goTo(activeStep + 1));
     const resizeObserver = new ResizeObserver(requestMeasure);
     scenes.forEach(scene => {
         resizeObserver.observe(scene.querySelector('.cv-role'));
@@ -149,9 +178,10 @@
     reducedMotion.addEventListener('change', requestPaint);
     function openHash() {
         const service = location.hash === '#role-army' ? 'army' : location.hash === '#role-rcaf' ? 'rcaf' : null;
-        if (service) selectService(service);
         const target = service ? '#role-caf' : location.hash;
-        const index = scenes.findIndex(scene => `#${scene.id}` === target);
+        const index = service
+            ? steps.findIndex(item => item.service === service)
+            : steps.findIndex(item => `#${scenes[item.sceneIndex].id}` === target);
         if (index < 0) return;
         goTo(index, 'instant');
         story.scrollIntoView({ block: 'start', behavior: 'instant' });
