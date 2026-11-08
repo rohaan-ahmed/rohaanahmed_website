@@ -143,7 +143,7 @@ def article_page(metadata: dict, article_html: str) -> str:
                 <a href="../index.html">Home</a>
                 <a href="../news.html">My News</a>
                 <a class="active" aria-current="page" href="../field-notes.html">My Field Notes</a>
-                <a href="../resume.html">Resume</a>
+                <a href="../resume.html">My Resume</a>
                 <a href="../index.html#contact">Contact</a>
             </nav>
         </div>
