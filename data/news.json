@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-11-09T15:00:33+00:00",
+  "generatedAt": "2026-11-09T16:00:36+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-09T15:00:33+00:00",
+      "updatedAt": "2026-11-09T16:00:36+00:00",
       "stories": [
         {
           "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
           "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth",
           "publishedAt": "2026-11-09T14:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Futuristic aircraft takes flight at NASA | Space photo of the day for Nov. 9, 2026",
+          "url": "https://www.space.com/technology/aerospace/futuristic-aircraft-takes-flight-at-nasa-space-photo-of-the-day-for-nov-9-2026",
+          "publishedAt": "2026-11-09T15:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "SpaceX will launch epic double-catch Starship Flight 15 test mission on Nov. 13",
@@ -27,12 +33,6 @@
         {
           "title": "NASA unveils $10 billion in moon base contracts, new lunar missions and the 'PROMISE' of a nuclear-powered rover",
           "url": "https://www.space.com/space-exploration/artemis/nasa-unveils-usd10-billion-in-moon-base-contracts-new-lunar-missions-and-the-promise-of-a-nuclear-powered-rover",
-          "publishedAt": "2026-11-09T13:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "NASA chief Jared Isaacman skydives into space agency's MAX POWER air show — 'Going into this job, I knew we had to do something like this.'",
-          "url": "https://www.space.com/space-exploration/nasa-chief-jared-isaacman-skydives-into-space-agencys-max-power-air-show-going-into-this-job-i-i-knew-we-had-to-do-something-like-this",
           "publishedAt": "2026-11-09T13:00:00+00:00",
           "source": "Space.com"
         },
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-09T15:00:33+00:00",
+      "updatedAt": "2026-11-09T16:00:36+00:00",
       "stories": [
         {
           "title": "LUNR Aerospace goes public before its first engine test",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-09T15:00:33+00:00",
+      "updatedAt": "2026-11-09T16:00:36+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to highlight Budget 2026 investments in supportive and transitional housing",
@@ -247,8 +247,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-09T15:00:33+00:00",
+      "updatedAt": "2026-11-09T16:00:36+00:00",
       "stories": [
+        {
+          "title": "Defense industry takes aim at ‘right to repair’ as NDAA decision looms",
+          "url": "https://breakingdefense.com/2026/11/defense-industry-takes-aim-at-right-to-repair-as-ndaa-decision-looms",
+          "publishedAt": "2026-11-09T15:36:52+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Neros to expand domestic drone production with $450M Pentagon loan",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan",
+          "publishedAt": "2026-11-09T15:45:23+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Drones incoming! New innovations on offer in UAS tech | Defense News Weekly Full Episode 11.10.26",
           "url": "https://www.defensenews.com/video/2026/11/09/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26",
@@ -274,12 +286,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Swiss neutrality proponents challenge arms firms in vote on easing of exports",
-          "url": "https://www.defensenews.com/global/europe/2026/11/09/swiss-neutrality-proponents-challenge-arms-firms-in-vote-on-easing-of-exports",
-          "publishedAt": "2026-11-09T12:19:22+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Missed AUSA 2026? Get the Ground Truth from Breaking Defense’s free eBook",
           "url": "https://breakingdefense.com/2026/11/missed-ausa-2026-get-the-ground-truth-from-breaking-defenses-free-ebook",
           "publishedAt": "2026-11-06T18:59:47+00:00",
@@ -301,12 +307,6 @@
           "title": "Cut to US aid would impact Israeli acquisition timelines, spending: Analysts",
           "url": "https://breakingdefense.com/2026/11/cut-to-us-aid-would-impact-israeli-acquisition-timelines-spending-analysts",
           "publishedAt": "2026-11-06T16:55:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Saudi Arabia inks first defense ‘cooperation’ agreement with Syria’s new leadership",
-          "url": "https://breakingdefense.com/2026/11/saudi-arabia-inks-first-defense-cooperation-agreement-with-syrias-new-leadership",
-          "publishedAt": "2026-11-06T15:18:39+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-09T15:00:33+00:00",
+      "updatedAt": "2026-11-09T16:00:36+00:00",
       "stories": [
         {
           "title": "Jensen Huang admits affair as Nvidia probes spy claims",
@@ -441,8 +441,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-09T15:00:33+00:00",
+      "updatedAt": "2026-11-09T16:00:36+00:00",
       "stories": [
+        {
+          "title": "How to minimize Wi-Fi roaming interruptions for autonomous mobile robots",
+          "url": "https://www.therobotreport.com/how-minimize-wi-fi-roaming-interruptions-autonomous-mobile-robots",
+          "publishedAt": "2026-11-09T15:40:41+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Can Agentic Robotics Solve Robotics’ Data Scaling Problem?",
           "url": "https://spectrum.ieee.org/agentic-robotics",
@@ -492,12 +498,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "How did Agility Robotics perform on its first day on the stock market?",
-          "url": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market",
-          "publishedAt": "2026-11-05T22:48:14+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Serve Robotics launches new business to become the AWS for robots",
           "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots",
           "publishedAt": "2026-11-05T21:15:00+00:00",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-09T15:00:33+00:00",
+    "updatedAt": "2026-11-09T16:00:36+00:00",
     "stories": [
       {
         "title": "Jensen Huang admits affair as Nvidia probes spy claims",
@@ -585,45 +585,45 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Defense industry takes aim at ‘right to repair’ as NDAA decision looms",
+        "url": "https://breakingdefense.com/2026/11/defense-industry-takes-aim-at-right-to-repair-as-ndaa-decision-looms",
+        "publishedAt": "2026-11-09T15:36:52+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "lead"
+      },
+      {
+        "title": "How to minimize Wi-Fi roaming interruptions for autonomous mobile robots",
+        "url": "https://www.therobotreport.com/how-minimize-wi-fi-roaming-interruptions-autonomous-mobile-robots",
+        "publishedAt": "2026-11-09T15:40:41+00:00",
+        "source": "The Robot Report",
+        "topicId": "robotics",
+        "topicName": "Robotics",
+        "bulletinRole": "lead"
+      },
+      {
+        "title": "Neros to expand domestic drone production with $450M Pentagon loan",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan",
+        "publishedAt": "2026-11-09T15:45:23+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Drones incoming! New innovations on offer in UAS tech | Defense News Weekly Full Episode 11.10.26",
         "url": "https://www.defensenews.com/video/2026/11/09/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26",
         "publishedAt": "2026-11-09T14:05:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
-        "bulletinRole": "lead"
-      },
-      {
-        "title": "Can Agentic Robotics Solve Robotics’ Data Scaling Problem?",
-        "url": "https://spectrum.ieee.org/agentic-robotics",
-        "publishedAt": "2026-11-09T14:00:02+00:00",
-        "source": "IEEE Spectrum Robotics",
-        "topicId": "robotics",
-        "topicName": "Robotics",
-        "bulletinRole": "lead"
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Drones that see, sense and hunt | Business of Defense – Part 2",
         "url": "https://www.defensenews.com/video/2026/11/09/drones-that-see-sense-and-hunt-business-of-defense-part-2",
         "publishedAt": "2026-11-09T14:04:00+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Business Vehicle Basics Every Owner Should Know | Money Minute",
-        "url": "https://www.defensenews.com/video/2026/11/09/business-vehicle-basics-every-owner-should-know-money-minute",
-        "publishedAt": "2026-11-09T14:03:00+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Shutdown woes, Tricare open season and tips for avoiding scams | MOAA Headlines",
-        "url": "https://www.defensenews.com/video/2026/11/09/shutdown-woes-tricare-open-season-and-tips-for-avoiding-scams-moaa-headlines",
-        "publishedAt": "2026-11-09T14:02:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
