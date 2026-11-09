@@ -1,16 +1,34 @@
 {
-  "generatedAt": "2026-11-09T19:00:36+00:00",
+  "generatedAt": "2026-11-09T20:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-09T19:00:36+00:00",
+      "updatedAt": "2026-11-09T20:00:34+00:00",
       "stories": [
         {
           "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
           "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth",
           "publishedAt": "2026-11-09T14:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "NYT bestseller ‘Robopocalypse’ is getting a TV series with Oscar winners Ron Howard and Akiva Goldsman at the helm",
+          "url": "https://www.space.com/entertainment/space-movies-shows/nyt-bestseller-robopocalypse-is-getting-a-tv-series-with-oscar-winners-ron-howard-and-akiva-goldsman-at-the-helm",
+          "publishedAt": "2026-11-09T19:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "La NASA busca a la próxima generación de astronautas",
+          "url": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas",
+          "publishedAt": "2026-11-09T19:27:20+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+          "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts",
+          "publishedAt": "2026-11-09T18:55:50+00:00",
+          "source": "NASA"
         },
         {
           "title": "Starfish Space loses contact with 1st 'Otter' servicing spacecraft, ending NASA tech-demo mission",
@@ -40,24 +58,6 @@
           "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
           "url": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar",
           "publishedAt": "2026-11-09T17:36:33+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Astronauts Across Generations Share the Stage",
-          "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage",
-          "publishedAt": "2026-11-09T16:56:29+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA needs more astronauts for moon missions and beyond. You can apply now, but only until Dec. 3",
-          "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-needs-more-astronauts-for-moon-missions-and-beyond-you-can-apply-now-but-only-until-dec-3",
-          "publishedAt": "2026-11-09T16:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
-          "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future",
-          "publishedAt": "2026-11-09T16:07:10+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-09T19:00:36+00:00",
+      "updatedAt": "2026-11-09T20:00:34+00:00",
       "stories": [
         {
           "title": "CSA awards ABB $1.5 million to develop a Mars methane detector",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-09T19:00:36+00:00",
+      "updatedAt": "2026-11-09T20:00:34+00:00",
       "stories": [
         {
           "title": "RMC Contingent at National War Memorial – Remembrance Day 2026",
@@ -229,20 +229,26 @@
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/joint-statement-minister-mcguinty-and-minster-mcknight-wartime-service-recognition.html",
           "publishedAt": "2026-11-02T21:40:46+00:00",
           "source": "National Defence"
-        },
-        {
-          "title": "Minister McGuinty strengthens Canada-EU defence and industrial cooperation at Summit",
-          "url": "https://www.canada.ca/en/department-national-defence/news/2026/10/minister-mcguinty-strengthens-canada-eu-defence-and-industrial-cooperation-at-summit.html",
-          "publishedAt": "2026-10-30T19:07:12+00:00",
-          "source": "National Defence"
         }
       ]
     },
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-09T19:00:36+00:00",
+      "updatedAt": "2026-11-09T20:00:34+00:00",
       "stories": [
+        {
+          "title": "Pentagon can’t track thousands of F-35 parts: GAO",
+          "url": "https://breakingdefense.com/2026/11/pentagon-cant-track-thousands-of-f-35-parts-gao",
+          "publishedAt": "2026-11-09T19:41:23+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Korean Air Aerospace pushes forward with Collaborative Combat Aircraft plans",
+          "url": "https://breakingdefense.com/2026/11/korean-air-aerospace-pushes-forward-with-collaborative-combat-aircraft-plans",
+          "publishedAt": "2026-11-09T19:19:25+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Army fields launched effects to 11 of 12 divisions, with Griffon Aerospace delivering the majority",
           "url": "https://breakingdefense.com/2026/11/army-fields-launched-effects-to-11-of-12-divisions-with-griffon-aerospace-delivering-the-majority",
@@ -292,18 +298,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "DoD taps Viasat to field operations ‘center’ for Golden Dome satellite data relay network",
-          "url": "https://breakingdefense.com/2026/11/dod-taps-viasat-to-field-operations-center-for-golden-dome-satellite-data-relay-network",
-          "publishedAt": "2026-11-06T18:41:12+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Europe’s airpower future is taking shape, but not as originally planned",
-          "url": "https://breakingdefense.com/2026/11/europes-airpower-future-is-taking-shape-but-not-as-originally-planned",
-          "publishedAt": "2026-11-06T17:51:07+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Pentagon launching mission operations center for Space Data Network to support Golden Dome and other modernization efforts",
           "url": "https://defensescoop.com/2026/11/06/pentagon-mission-operations-center-space-data-network",
           "publishedAt": "2026-11-06T17:56:40+00:00",
@@ -338,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-09T19:00:36+00:00",
+      "updatedAt": "2026-11-09T20:00:34+00:00",
       "stories": [
         {
           "title": "Jensen Huang admits affair as Nvidia probes spy claims",
@@ -353,6 +347,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
+          "publishedAt": "2026-11-09T19:24:51+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
           "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny",
           "publishedAt": "2026-11-09T18:09:52+00:00",
@@ -362,12 +362,6 @@
           "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
           "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
           "publishedAt": "2026-11-09T18:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-          "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
-          "publishedAt": "2026-11-09T16:56:54+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -383,14 +377,14 @@
           "source": "TLDR AI"
         },
         {
-          "title": "What the heck is going on with OpenAI internal AI R&D time horizons (7 minute read)",
-          "url": "https://threadreaderapp.com/thread/2119541238856663473.html",
+          "title": "A year as a Research Engineer working on RSI at Meta (8 minute read)",
+          "url": "https://x.com/tomasmann1878/status/2119346730458038678?s=12",
           "publishedAt": "2026-11-09T00:00:00+00:00",
           "source": "TLDR AI"
         },
         {
-          "title": "A year as a Research Engineer working on RSI at Meta (8 minute read)",
-          "url": "https://x.com/tomasmann1878/status/2119346730458038678?s=12",
+          "title": "What the heck is going on with OpenAI internal AI R&D time horizons (7 minute read)",
+          "url": "https://threadreaderapp.com/thread/2119541238856663473.html",
           "publishedAt": "2026-11-09T00:00:00+00:00",
           "source": "TLDR AI"
         },
@@ -435,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-09T19:00:36+00:00",
+      "updatedAt": "2026-11-09T20:00:34+00:00",
       "stories": [
         {
           "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
@@ -531,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-09T19:00:36+00:00",
+    "updatedAt": "2026-11-09T20:00:34+00:00",
     "stories": [
       {
         "title": "Jensen Huang admits affair as Nvidia probes spy claims",
@@ -579,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Army fields launched effects to 11 of 12 divisions, with Griffon Aerospace delivering the majority",
-        "url": "https://breakingdefense.com/2026/11/army-fields-launched-effects-to-11-of-12-divisions-with-griffon-aerospace-delivering-the-majority",
-        "publishedAt": "2026-11-09T17:21:48+00:00",
+        "title": "Pentagon can’t track thousands of F-35 parts: GAO",
+        "url": "https://breakingdefense.com/2026/11/pentagon-cant-track-thousands-of-f-35-parts-gao",
+        "publishedAt": "2026-11-09T19:41:23+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -606,19 +600,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Dutch firm Optics11 in talks with navies on secretive underwater listening tech",
-        "url": "https://www.defensenews.com/global/europe/2026/11/09/dutch-firm-optics11-in-talks-with-navies-on-secretive-underwater-listening-tech",
-        "publishedAt": "2026-11-09T17:52:01+00:00",
-        "source": "Defense News",
+        "title": "Korean Air Aerospace pushes forward with Collaborative Combat Aircraft plans",
+        "url": "https://breakingdefense.com/2026/11/korean-air-aerospace-pushes-forward-with-collaborative-combat-aircraft-plans",
+        "publishedAt": "2026-11-09T19:19:25+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Firm bets on converted fishing trawlers to tackle Russian submarines in the Arctic",
-        "url": "https://www.defensenews.com/global/europe/2026/11/09/firm-bets-on-converted-fishing-trawlers-to-tackle-russian-submarines-in-the-arctic",
-        "publishedAt": "2026-11-09T17:01:04+00:00",
-        "source": "Defense News",
+        "title": "Army fields launched effects to 11 of 12 divisions, with Griffon Aerospace delivering the majority",
+        "url": "https://breakingdefense.com/2026/11/army-fields-launched-effects-to-11-of-12-divisions-with-griffon-aerospace-delivering-the-majority",
+        "publishedAt": "2026-11-09T17:21:48+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
