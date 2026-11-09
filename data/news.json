@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T20:00:34+00:00",
+  "generatedAt": "2026-11-09T20:51:04+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-09T20:00:34+00:00",
+      "updatedAt": "2026-11-09T20:51:04+00:00",
       "stories": [
         {
           "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-09T20:00:34+00:00",
+      "updatedAt": "2026-11-09T20:51:04+00:00",
       "stories": [
         {
           "title": "CSA awards ABB $1.5 million to develop a Mars methane detector",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-09T20:00:34+00:00",
+      "updatedAt": "2026-11-09T20:51:04+00:00",
       "stories": [
         {
           "title": "RMC Contingent at National War Memorial – Remembrance Day 2026",
@@ -235,8 +235,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-09T20:00:34+00:00",
+      "updatedAt": "2026-11-09T20:51:04+00:00",
       "stories": [
+        {
+          "title": "The next breakthrough is software built on the battlefield by agentic bots",
+          "url": "https://breakingdefense.com/2026/11/the-next-breakthrough-is-software-built-on-the-battlefield-by-agentic-bots",
+          "publishedAt": "2026-11-09T20:15:47+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Pentagon can’t track thousands of F-35 parts: GAO",
           "url": "https://breakingdefense.com/2026/11/pentagon-cant-track-thousands-of-f-35-parts-gao",
@@ -254,6 +260,12 @@
           "url": "https://breakingdefense.com/2026/11/army-fields-launched-effects-to-11-of-12-divisions-with-griffon-aerospace-delivering-the-majority",
           "publishedAt": "2026-11-09T17:21:48+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "DISA shops for modernized identity prototype to support shift to zero-trust security",
+          "url": "https://defensescoop.com/2026/11/09/disa-enterprise-icam-prototype-zero-trust",
+          "publishedAt": "2026-11-09T20:34:06+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Dutch firm Optics11 in talks with navies on secretive underwater listening tech",
@@ -292,12 +304,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Missed AUSA 2026? Get the Ground Truth from Breaking Defense’s free eBook",
-          "url": "https://breakingdefense.com/2026/11/missed-ausa-2026-get-the-ground-truth-from-breaking-defenses-free-ebook",
-          "publishedAt": "2026-11-06T18:59:47+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Pentagon launching mission operations center for Space Data Network to support Golden Dome and other modernization efforts",
           "url": "https://defensescoop.com/2026/11/06/pentagon-mission-operations-center-space-data-network",
           "publishedAt": "2026-11-06T17:56:40+00:00",
@@ -320,19 +326,13 @@
           "url": "https://defensescoop.com/2026/11/05/where-ai-is-and-isnt-accelerating-military-missions-today",
           "publishedAt": "2026-11-05T19:28:02+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Tech expert ‘embeds’ prototyped dozens of apps alongside Transcom operators during Iran war",
-          "url": "https://defensescoop.com/2026/11/04/prototype-apps-transportation-command-operation-epic-fury",
-          "publishedAt": "2026-11-04T22:29:49+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-09T20:00:34+00:00",
+      "updatedAt": "2026-11-09T20:51:04+00:00",
       "stories": [
         {
           "title": "Jensen Huang admits affair as Nvidia probes spy claims",
@@ -347,6 +347,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
+          "publishedAt": "2026-11-09T20:09:06+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
           "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
           "publishedAt": "2026-11-09T19:24:51+00:00",
@@ -356,12 +362,6 @@
           "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
           "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny",
           "publishedAt": "2026-11-09T18:09:52+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-          "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
-          "publishedAt": "2026-11-09T18:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-09T20:00:34+00:00",
+      "updatedAt": "2026-11-09T20:51:04+00:00",
       "stories": [
         {
           "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-09T20:00:34+00:00",
+    "updatedAt": "2026-11-09T20:51:04+00:00",
     "stories": [
       {
         "title": "Jensen Huang admits affair as Nvidia probes spy claims",
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Pentagon can’t track thousands of F-35 parts: GAO",
-        "url": "https://breakingdefense.com/2026/11/pentagon-cant-track-thousands-of-f-35-parts-gao",
-        "publishedAt": "2026-11-09T19:41:23+00:00",
+        "title": "The next breakthrough is software built on the battlefield by agentic bots",
+        "url": "https://breakingdefense.com/2026/11/the-next-breakthrough-is-software-built-on-the-battlefield-by-agentic-bots",
+        "publishedAt": "2026-11-09T20:15:47+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -600,18 +600,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Korean Air Aerospace pushes forward with Collaborative Combat Aircraft plans",
-        "url": "https://breakingdefense.com/2026/11/korean-air-aerospace-pushes-forward-with-collaborative-combat-aircraft-plans",
-        "publishedAt": "2026-11-09T19:19:25+00:00",
+        "title": "Pentagon can’t track thousands of F-35 parts: GAO",
+        "url": "https://breakingdefense.com/2026/11/pentagon-cant-track-thousands-of-f-35-parts-gao",
+        "publishedAt": "2026-11-09T19:41:23+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Army fields launched effects to 11 of 12 divisions, with Griffon Aerospace delivering the majority",
-        "url": "https://breakingdefense.com/2026/11/army-fields-launched-effects-to-11-of-12-divisions-with-griffon-aerospace-delivering-the-majority",
-        "publishedAt": "2026-11-09T17:21:48+00:00",
+        "title": "Korean Air Aerospace pushes forward with Collaborative Combat Aircraft plans",
+        "url": "https://breakingdefense.com/2026/11/korean-air-aerospace-pushes-forward-with-collaborative-combat-aircraft-plans",
+        "publishedAt": "2026-11-09T19:19:25+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
