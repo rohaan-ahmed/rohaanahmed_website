@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-11-09T21:00:35+00:00",
+  "generatedAt": "2026-11-09T22:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-09T21:00:35+00:00",
+      "updatedAt": "2026-11-09T22:00:32+00:00",
       "stories": [
         {
           "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
           "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth",
           "publishedAt": "2026-11-09T14:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Are the James Webb Space Telescope's mysterious Little Red Dots actually tiny black holes left over from the Big Bang era?",
+          "url": "https://www.space.com/astronomy/black-holes/are-the-james-webb-space-telescopes-mysterious-little-red-dots-actually-tiny-black-holes-left-over-from-the-big-bang-era",
+          "publishedAt": "2026-11-09T21:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "NYT bestseller ‘Robopocalypse’ is getting a TV series with Oscar winners Ron Howard and Akiva Goldsman at the helm",
@@ -40,12 +46,6 @@
           "title": "NASA just launched a $1 million Moon Base Student Challenge to award cash prizes to students that solve lunar base problems",
           "url": "https://www.space.com/space-exploration/nasa-just-launched-a-usd1-million-moon-base-student-challenge-to-award-cash-prizes-to-students-that-solve-lunar-base-problems",
           "publishedAt": "2026-11-09T17:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Netflix announces 'Stranger Things' spin-off 'Other Worlds', and it's already teasing a trip to Area 51 (video)",
-          "url": "https://www.space.com/entertainment/space-movies-shows/netflix-announces-stranger-things-spin-off-other-worlds-and-its-already-teasing-a-trip-to-area-51-video",
-          "publishedAt": "2026-11-09T16:53:47+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-09T21:00:35+00:00",
+      "updatedAt": "2026-11-09T22:00:32+00:00",
       "stories": [
         {
           "title": "CSA awards ABB $1.5 million to develop a Mars methane detector",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-09T21:00:35+00:00",
+      "updatedAt": "2026-11-09T22:00:32+00:00",
       "stories": [
         {
           "title": "RMC Contingent at National War Memorial – Remembrance Day 2026",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-09T21:00:35+00:00",
+      "updatedAt": "2026-11-09T22:00:32+00:00",
       "stories": [
         {
           "title": "The next breakthrough is software built on the battlefield by agentic bots",
@@ -254,6 +254,12 @@
           "url": "https://breakingdefense.com/2026/11/korean-air-aerospace-pushes-forward-with-collaborative-combat-aircraft-plans",
           "publishedAt": "2026-11-09T19:19:25+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Agencies agree to counter unauthorized drones without compromising civilian safety, under new MOU",
+          "url": "https://defensescoop.com/2026/11/09/agencies-agree-to-counter-unauthorized-drones-without-compromising-civilian-safety-under-new-mou",
+          "publishedAt": "2026-11-09T21:17:42+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Army fields launched effects to 11 of 12 divisions, with Griffon Aerospace delivering the majority",
@@ -320,19 +326,13 @@
           "url": "https://defensescoop.com/2026/11/05/navy-innovation-unit-private-sector-technology-talent",
           "publishedAt": "2026-11-05T19:44:08+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Where AI is — and isn’t — accelerating military missions today",
-          "url": "https://defensescoop.com/2026/11/05/where-ai-is-and-isnt-accelerating-military-missions-today",
-          "publishedAt": "2026-11-05T19:28:02+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-09T21:00:35+00:00",
+      "updatedAt": "2026-11-09T22:00:32+00:00",
       "stories": [
         {
           "title": "Jensen Huang admits affair as Nvidia probes spy claims",
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-09T21:00:35+00:00",
+      "updatedAt": "2026-11-09T22:00:32+00:00",
       "stories": [
         {
           "title": "Boston Dynamics adds wheels to Atlas humanoid to test whole-body control",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-09T21:00:35+00:00",
+    "updatedAt": "2026-11-09T22:00:32+00:00",
     "stories": [
       {
         "title": "Jensen Huang admits affair as Nvidia probes spy claims",
