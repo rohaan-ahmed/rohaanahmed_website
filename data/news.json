@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-09T05:00:36+00:00",
+  "generatedAt": "2026-11-09T06:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-09T05:00:36+00:00",
+      "updatedAt": "2026-11-09T06:00:33+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula",
+          "publishedAt": "2026-11-09T05:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Ozone Hole Reaches Its 2026 Maximum",
+          "url": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum",
+          "publishedAt": "2026-11-09T05:00:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "Legendary sci-fi magazine 'Starlog' returns as a yearly release, just in time for its 50th anniversary",
           "url": "https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary",
@@ -40,18 +52,6 @@
           "title": "APOD: 2026 November 8 – Major Fireball Meteor",
           "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor",
           "publishedAt": "2026-11-08T05:05:00+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-          "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects",
-          "publishedAt": "2026-11-07T22:47:03+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
-          "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps",
-          "publishedAt": "2026-11-07T18:11:57+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-09T05:00:36+00:00",
+      "updatedAt": "2026-11-09T06:00:33+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Kutryk’s second spacewalk adds final array",
@@ -192,7 +192,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-09T05:00:36+00:00",
+      "updatedAt": "2026-11-09T06:00:33+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to highlight Budget 2026 investments in supportive and transitional housing",
@@ -253,7 +253,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-09T05:00:36+00:00",
+      "updatedAt": "2026-11-09T06:00:33+00:00",
       "stories": [
         {
           "title": "European troops set to train in Poland for postwar Ukraine deployment",
@@ -350,8 +350,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-09T05:00:36+00:00",
+      "updatedAt": "2026-11-09T06:00:33+00:00",
       "stories": [
+        {
+          "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+          "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50",
+          "publishedAt": "2026-11-09T05:26:29+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
           "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
@@ -362,12 +368,6 @@
           "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
           "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
           "publishedAt": "2026-11-07T22:07:22+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
-          "publishedAt": "2026-11-07T21:17:08+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -447,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-09T05:00:36+00:00",
+      "updatedAt": "2026-11-09T06:00:33+00:00",
       "stories": [
         {
           "title": "ARM Institute consortium grows to more than 500 organizations",
@@ -543,21 +543,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-09T05:00:36+00:00",
+    "updatedAt": "2026-11-09T06:00:33+00:00",
     "stories": [
       {
-        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-        "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
-        "publishedAt": "2026-11-08T21:00:11+00:00",
+        "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+        "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50",
+        "publishedAt": "2026-11-09T05:26:29+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-        "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
-        "publishedAt": "2026-11-07T22:07:22+00:00",
+        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+        "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
+        "publishedAt": "2026-11-08T21:00:11+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -573,10 +573,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Legendary sci-fi magazine 'Starlog' returns as a yearly release, just in time for its 50th anniversary",
-        "url": "https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary",
-        "publishedAt": "2026-11-08T16:00:00+00:00",
-        "source": "Space.com",
+        "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula",
+        "publishedAt": "2026-11-09T05:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -609,27 +609,27 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "On this day in space! Nov. 8, 2005: Europe launches Venus Express, its first mission to Venus",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026",
-        "publishedAt": "2026-11-08T15:25:42+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
-        "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge",
-        "publishedAt": "2026-11-08T15:26:38+00:00",
+        "title": "Ozone Hole Reaches Its 2026 Maximum",
+        "url": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum",
+        "publishedAt": "2026-11-09T05:00:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Who is King Ghidorah? The cosmic connections of Godzilla Minus Zero's foe",
-        "url": "https://www.space.com/entertainment/space-movies-shows/who-is-king-ghidorah-the-cosmic-connections-of-godzilla-minus-zeros-foe",
-        "publishedAt": "2026-11-08T13:00:00+00:00",
+        "title": "Legendary sci-fi magazine 'Starlog' returns as a yearly release, just in time for its 50th anniversary",
+        "url": "https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary",
+        "publishedAt": "2026-11-08T16:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "On this day in space! Nov. 8, 2005: Europe launches Venus Express, its first mission to Venus",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026",
+        "publishedAt": "2026-11-08T15:25:42+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -748,7 +748,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:663:33: not well-formed (invalid token)",
-    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News"
+    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
+    "Vanguard: <unknown>:663:33: not well-formed (invalid token)"
   ]
 }
