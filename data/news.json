@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T12:00:33+00:00",
+  "generatedAt": "2026-11-10T13:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-10T12:00:33+00:00",
+      "updatedAt": "2026-11-10T13:00:33+00:00",
       "stories": [
         {
           "title": "ESCAPADE on its way to Mars after Earth flybys",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-10T12:00:33+00:00",
+      "updatedAt": "2026-11-10T13:00:33+00:00",
       "stories": [
         {
           "title": "CSA awards ABB $1.5 million to develop a Mars methane detector",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-10T12:00:33+00:00",
+      "updatedAt": "2026-11-10T13:00:33+00:00",
       "stories": [
         {
           "title": "RMC Contingent at National War Memorial – Remembrance Day 2026",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-10T12:00:33+00:00",
+      "updatedAt": "2026-11-10T13:00:33+00:00",
       "stories": [
         {
           "title": "France orders military Earth-observation satellites for more than €1.5 billion",
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-10T12:00:33+00:00",
+      "updatedAt": "2026-11-10T13:00:33+00:00",
       "stories": [
         {
           "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
@@ -353,6 +353,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+          "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns",
+          "publishedAt": "2026-11-10T13:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Otter AI can now follow conversations across 30+ languages",
           "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages",
           "publishedAt": "2026-11-10T07:00:00+00:00",
@@ -362,24 +368,6 @@
           "title": "Anthropic reportedly plans to move forward with IPO plans",
           "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
           "publishedAt": "2026-11-10T01:27:12+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-          "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago",
-          "publishedAt": "2026-11-09T23:28:37+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-          "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal",
-          "publishedAt": "2026-11-09T22:46:09+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "The race is on to sue Nvidia",
-          "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia",
-          "publishedAt": "2026-11-09T22:23:42+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -395,33 +383,45 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
-          "publishedAt": "2026-11-09T20:09:06+00:00",
-          "source": "TechCrunch AI"
+          "title": "OpenAI Reportedly Raises $11 Billion at $1.25 Trillion Valuation (3 minute read)",
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+          "publishedAt": "2026-11-09T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "AI is dramatically accelerating AI research right now (17 minute read)",
+          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+          "publishedAt": "2026-11-09T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "A year as a Research Engineer working on RSI at Meta (8 minute read)",
+          "url": "https://x.com/tomasmann1878/status/2119346730458038678?s=12",
+          "publishedAt": "2026-11-09T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "What the heck is going on with OpenAI internal AI R&D time horizons (7 minute read)",
+          "url": "https://threadreaderapp.com/thread/2119541238856663473.html",
+          "publishedAt": "2026-11-09T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing the New Auto and Auto Code Routers (11 minute read)",
+          "url": "https://openrouter.ai/blog/announcements/auto-and-auto-code-routers",
+          "publishedAt": "2026-11-09T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "A proof of the Aaronson-Ambainis conjecture (9 minute read)",
+          "url": "https://psi.inc/research/aaronson-ambainis",
+          "publishedAt": "2026-11-09T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "METR’s inside look at Anthropic’s AI speedup",
           "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment",
           "publishedAt": "2026-11-06T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "The ‘Three Times’ rule",
-          "url": "https://www.instagram.com/rowancheung",
-          "publishedAt": "2026-11-06T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s Images 2.6 adds GIFs to ChatGPT",
-          "url": "https://openai.com/index/introducing-images-2-6",
-          "publishedAt": "2026-11-06T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Midterm voters turn on data centers, AI",
-          "url": "https://datacentersontheballot.com/",
-          "publishedAt": "2026-11-05T11:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-10T12:00:33+00:00",
+      "updatedAt": "2026-11-10T13:00:33+00:00",
       "stories": [
         {
           "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-10T12:00:33+00:00",
+    "updatedAt": "2026-11-10T13:00:33+00:00",
     "stories": [
       {
         "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
@@ -600,21 +600,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+        "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns",
+        "publishedAt": "2026-11-10T13:00:00+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist'",
         "url": "https://www.space.com/astronomy/mars/nasas-escapade-twin-mars-probes-execute-a-1st-of-its-kind-gravity-slingshot-around-earth",
         "publishedAt": "2026-11-10T11:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Otter AI can now follow conversations across 30+ languages",
-        "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages",
-        "publishedAt": "2026-11-10T07:00:00+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -731,7 +731,6 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-28"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
   ]
 }
