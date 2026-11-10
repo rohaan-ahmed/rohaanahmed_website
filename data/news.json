@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-10T05:00:35+00:00",
+  "generatedAt": "2026-11-10T06:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-10T05:00:35+00:00",
+      "updatedAt": "2026-11-10T06:00:33+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon",
+          "publishedAt": "2026-11-10T05:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Autumn Mornings Bring Valley Fog",
+          "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog",
+          "publishedAt": "2026-11-10T05:00:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
           "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth",
@@ -35,18 +47,6 @@
           "url": "https://www.space.com/stargazing/jupiter-and-mars-are-set-for-a-breathtaking-close-approach-later-this-week-heres-how-to-see-it",
           "publishedAt": "2026-11-09T22:00:00+00:00",
           "source": "Space.com"
-        },
-        {
-          "title": "Rubies on Mars?",
-          "url": "https://science.nasa.gov/blog/rubies-on-mars",
-          "publishedAt": "2026-11-09T22:27:12+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Newest Sample, Oldest Rock?",
-          "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock",
-          "publishedAt": "2026-11-09T22:25:52+00:00",
-          "source": "NASA"
         },
         {
           "title": "Are the James Webb Space Telescope's mysterious Little Red Dots actually tiny black holes left over from the Big Bang era?",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-10T05:00:35+00:00",
+      "updatedAt": "2026-11-10T06:00:33+00:00",
       "stories": [
         {
           "title": "CSA awards ABB $1.5 million to develop a Mars methane detector",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-10T05:00:35+00:00",
+      "updatedAt": "2026-11-10T06:00:33+00:00",
       "stories": [
         {
           "title": "RMC Contingent at National War Memorial – Remembrance Day 2026",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-10T05:00:35+00:00",
+      "updatedAt": "2026-11-10T06:00:33+00:00",
       "stories": [
         {
           "title": "The next breakthrough is software built on the battlefield by agentic bots",
@@ -332,7 +332,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-10T05:00:35+00:00",
+      "updatedAt": "2026-11-10T06:00:33+00:00",
       "stories": [
         {
           "title": "Anthropic reportedly plans to move forward with IPO plans",
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-10T05:00:35+00:00",
+      "updatedAt": "2026-11-10T06:00:33+00:00",
       "stories": [
         {
           "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL",
@@ -525,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-10T05:00:35+00:00",
+    "updatedAt": "2026-11-10T06:00:33+00:00",
     "stories": [
       {
         "title": "Anthropic reportedly plans to move forward with IPO plans",
@@ -555,10 +555,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
-        "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth",
-        "publishedAt": "2026-11-09T14:00:00+00:00",
-        "source": "SpaceNews",
+        "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon",
+        "publishedAt": "2026-11-10T05:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -591,30 +591,30 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Autumn Mornings Bring Valley Fog",
+        "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog",
+        "publishedAt": "2026-11-10T05:00:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
+        "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth",
+        "publishedAt": "2026-11-09T14:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "LUNR Aerospace goes public before its first engine test",
         "url": "https://spaceq.ca/lunr-aerospace-cse-listing",
         "publishedAt": "2026-11-09T12:04:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
-        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up",
-        "publishedAt": "2026-11-10T01:07:45+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
-        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole",
-        "publishedAt": "2026-11-10T01:05:48+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
