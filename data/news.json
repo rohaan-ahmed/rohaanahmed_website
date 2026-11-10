@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T23:00:34+00:00",
+  "generatedAt": "2026-11-10T00:00:36+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-09T23:00:34+00:00",
+      "updatedAt": "2026-11-10T00:00:36+00:00",
       "stories": [
         {
           "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-09T23:00:34+00:00",
+      "updatedAt": "2026-11-10T00:00:36+00:00",
       "stories": [
         {
           "title": "CSA awards ABB $1.5 million to develop a Mars methane detector",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-09T23:00:34+00:00",
+      "updatedAt": "2026-11-10T00:00:36+00:00",
       "stories": [
         {
           "title": "RMC Contingent at National War Memorial – Remembrance Day 2026",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-09T23:00:34+00:00",
+      "updatedAt": "2026-11-10T00:00:36+00:00",
       "stories": [
         {
           "title": "The next breakthrough is software built on the battlefield by agentic bots",
@@ -332,8 +332,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-09T23:00:34+00:00",
+      "updatedAt": "2026-11-10T00:00:36+00:00",
       "stories": [
+        {
+          "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago",
+          "publishedAt": "2026-11-09T23:28:37+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
           "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal",
@@ -357,12 +363,6 @@
           "url": "https://www.anthropic.com/research/components-of-agent-memory",
           "publishedAt": "2026-11-09T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
-          "publishedAt": "2026-11-09T20:09:06+00:00",
-          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI Reportedly Raises $11 Billion at $1.25 Trillion Valuation (3 minute read)",
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-09T23:00:34+00:00",
+      "updatedAt": "2026-11-10T00:00:36+00:00",
       "stories": [
         {
           "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL",
@@ -525,21 +525,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-09T23:00:34+00:00",
+    "updatedAt": "2026-11-10T00:00:36+00:00",
     "stories": [
       {
-        "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-        "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal",
-        "publishedAt": "2026-11-09T22:46:09+00:00",
+        "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+        "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago",
+        "publishedAt": "2026-11-09T23:28:37+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "The race is on to sue Nvidia",
-        "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia",
-        "publishedAt": "2026-11-09T22:23:42+00:00",
+        "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+        "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal",
+        "publishedAt": "2026-11-09T22:46:09+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
