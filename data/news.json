@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T07:00:30+00:00",
+  "generatedAt": "2026-11-10T08:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-10T07:00:30+00:00",
+      "updatedAt": "2026-11-10T08:00:32+00:00",
       "stories": [
         {
           "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-10T07:00:30+00:00",
+      "updatedAt": "2026-11-10T08:00:32+00:00",
       "stories": [
         {
           "title": "CSA awards ABB $1.5 million to develop a Mars methane detector",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-10T07:00:30+00:00",
+      "updatedAt": "2026-11-10T08:00:32+00:00",
       "stories": [
         {
           "title": "RMC Contingent at National War Memorial – Remembrance Day 2026",
@@ -235,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-10T07:00:30+00:00",
+      "updatedAt": "2026-11-10T08:00:32+00:00",
       "stories": [
         {
           "title": "The next breakthrough is software built on the battlefield by agentic bots",
@@ -332,8 +332,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-10T07:00:30+00:00",
+      "updatedAt": "2026-11-10T08:00:32+00:00",
       "stories": [
+        {
+          "title": "Otter AI can now follow conversations across 30+ languages",
+          "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages",
+          "publishedAt": "2026-11-10T07:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Anthropic reportedly plans to move forward with IPO plans",
           "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
@@ -374,12 +380,6 @@
           "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
           "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
           "publishedAt": "2026-11-09T20:09:06+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-          "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
-          "publishedAt": "2026-11-09T19:24:51+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -429,7 +429,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-10T07:00:30+00:00",
+      "updatedAt": "2026-11-10T08:00:32+00:00",
       "stories": [
         {
           "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL",
@@ -525,21 +525,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-10T07:00:30+00:00",
+    "updatedAt": "2026-11-10T08:00:32+00:00",
     "stories": [
       {
-        "title": "Anthropic reportedly plans to move forward with IPO plans",
-        "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
-        "publishedAt": "2026-11-10T01:27:12+00:00",
+        "title": "Otter AI can now follow conversations across 30+ languages",
+        "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages",
+        "publishedAt": "2026-11-10T07:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-        "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago",
-        "publishedAt": "2026-11-09T23:28:37+00:00",
+        "title": "Anthropic reportedly plans to move forward with IPO plans",
+        "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
+        "publishedAt": "2026-11-10T01:27:12+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -732,6 +732,6 @@
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
     "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-28"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-27"
   ]
 }
