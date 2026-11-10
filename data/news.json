@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T17:00:36+00:00",
+  "generatedAt": "2026-11-10T18:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-10T17:00:36+00:00",
+      "updatedAt": "2026-11-10T18:00:34+00:00",
       "stories": [
         {
           "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
@@ -17,6 +17,12 @@
           "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys",
           "publishedAt": "2026-11-10T08:01:39+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Were there 'lost cosmonauts' in the early Soviet space program?",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/were-there-lost-cosmonauts-in-the-early-soviet-space-program",
+          "publishedAt": "2026-11-10T17:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "A robot just built a structure autonomously in space for the 1st time ever",
@@ -46,12 +52,6 @@
           "title": "See the first images from the new ZWO Seestar S30 Plus — a smart telescope aimed at beginners",
           "url": "https://www.space.com/stargazing/skywatching-kit/see-the-first-images-from-the-new-zwo-seestar-s30-plus-a-smart-telescope-aimed-at-beginners",
           "publishedAt": "2026-11-10T14:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Total solar eclipse 2027 vs 2028 — Which one should you choose, Egypt or Australia?",
-          "url": "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2027-vs-2028-which-one-should-you-choose-egypt-or-australia",
-          "publishedAt": "2026-11-10T13:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-10T17:00:36+00:00",
+      "updatedAt": "2026-11-10T18:00:34+00:00",
       "stories": [
         {
           "title": "CSA awards ABB $1.5 million to develop a Mars methane detector",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-10T17:00:36+00:00",
+      "updatedAt": "2026-11-10T18:00:34+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-10T17:00:36+00:00",
+      "updatedAt": "2026-11-10T18:00:34+00:00",
       "stories": [
         {
           "title": "Why Britain needs a maritime-first defense strategy",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-10T17:00:36+00:00",
+      "updatedAt": "2026-11-10T18:00:34+00:00",
       "stories": [
         {
           "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
@@ -359,22 +359,28 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
+          "publishedAt": "2026-11-10T17:30:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+          "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+          "publishedAt": "2026-11-10T17:04:19+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Google broadens its AI hardware portfolio with two new specialized chips",
           "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
           "publishedAt": "2026-11-10T15:54:08+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-          "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os",
-          "publishedAt": "2026-11-10T15:29:30+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-          "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp",
-          "publishedAt": "2026-11-10T14:05:10+00:00",
-          "source": "TechCrunch AI"
+          "title": "When Does the US Become a Net Importer of Tokens? (3 minute read)",
+          "url": "https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens",
+          "publishedAt": "2026-11-10T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "AI R&D Is Accelerating Towards Potential RSI in 2027 (62 minute read)",
@@ -385,12 +391,6 @@
         {
           "title": "Will Anthropic Grow Into Its Compute Bill? (13 minute read)",
           "url": "https://x.com/OrnnExchange/status/2119839768355778637",
-          "publishedAt": "2026-11-10T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "When Does the US Become a Net Importer of Tokens? (3 minute read)",
-          "url": "https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens",
           "publishedAt": "2026-11-10T00:00:00+00:00",
           "source": "TLDR AI"
         },
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-10T17:00:36+00:00",
+      "updatedAt": "2026-11-10T18:00:34+00:00",
       "stories": [
         {
           "title": "Why predictive maintenance matters more as factories add robots",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-10T17:00:36+00:00",
+    "updatedAt": "2026-11-10T18:00:34+00:00",
     "stories": [
       {
         "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
