@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T18:00:34+00:00",
+  "generatedAt": "2026-11-10T18:37:51+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-10T18:00:34+00:00",
+      "updatedAt": "2026-11-10T18:37:51+00:00",
       "stories": [
         {
           "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
@@ -17,6 +17,12 @@
           "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys",
           "publishedAt": "2026-11-10T08:01:39+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+          "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston",
+          "publishedAt": "2026-11-10T18:06:33+00:00",
+          "source": "NASA"
         },
         {
           "title": "Were there 'lost cosmonauts' in the early Soviet space program?",
@@ -61,12 +67,6 @@
           "source": "NASA"
         },
         {
-          "title": "Autumn Mornings Bring Valley Fog",
-          "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog",
-          "publishedAt": "2026-11-10T05:00:00+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
           "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth",
           "publishedAt": "2026-11-09T14:00:00+00:00",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-10T18:00:34+00:00",
+      "updatedAt": "2026-11-10T18:37:51+00:00",
       "stories": [
+        {
+          "title": "NASA updates Moon Base CLPS program as Canada weighs Canadarm3’s future",
+          "url": "https://spaceq.ca/nasa-clps-2-canada-canadarm3",
+          "publishedAt": "2026-11-10T18:32:57+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "CSA awards ABB $1.5 million to develop a Mars methane detector",
           "url": "https://spaceq.ca/csa-abb-mars-methane-detector",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "Voyager Technologies Q3 2026 results: core business lifts forecast",
-          "url": "https://spaceq.ca/voyager-technologies-q3-2026-results",
-          "publishedAt": "2026-11-05T17:53:26+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Media invited to witness Joshua Kutryk's second spacewalk",
           "url": "https://www.canada.ca/en/space-agency/news/2026/11/media-invited-to-witness-joshua-kutryks-second-spacewalk.html",
           "publishedAt": "2026-11-03T20:33:25+00:00",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-10T18:00:34+00:00",
+      "updatedAt": "2026-11-10T18:37:51+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -241,8 +241,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-10T18:00:34+00:00",
+      "updatedAt": "2026-11-10T18:37:51+00:00",
       "stories": [
+        {
+          "title": "First-ever Collaborative Combat Aircraft fly in formation, demonstrate air combat maneuvers",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers",
+          "publishedAt": "2026-11-10T18:17:13+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Why Britain needs a maritime-first defense strategy",
           "url": "https://breakingdefense.com/2026/11/why-britain-needs-a-maritime-first-defense-strategy",
@@ -284,12 +290,6 @@
           "url": "https://breakingdefense.com/2026/11/the-interoperability-gap-why-joint-operations-still-depend-on-disconnected-communications-systems",
           "publishedAt": "2026-11-10T13:24:00+00:00",
           "source": "Breaking Defense"
-        },
-        {
-          "title": "Britain says its bases are safe after US refueling planes evacuated",
-          "url": "https://www.defensenews.com/global/europe/2026/11/10/britain-says-its-bases-are-safe-after-us-refueling-planes-evacuated",
-          "publishedAt": "2026-11-10T14:11:56+00:00",
-          "source": "Defense News"
         },
         {
           "title": "Hegseth vows to fight impeachment ‘spectacle’",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-10T18:00:34+00:00",
+      "updatedAt": "2026-11-10T18:37:51+00:00",
       "stories": [
         {
           "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-10T18:00:34+00:00",
+      "updatedAt": "2026-11-10T18:37:51+00:00",
       "stories": [
         {
           "title": "Why predictive maintenance matters more as factories add robots",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-10T18:00:34+00:00",
+    "updatedAt": "2026-11-10T18:37:51+00:00",
     "stories": [
       {
         "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
@@ -552,9 +552,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "CSA awards ABB $1.5 million to develop a Mars methane detector",
-        "url": "https://spaceq.ca/csa-abb-mars-methane-detector",
-        "publishedAt": "2026-11-09T17:12:14+00:00",
+        "title": "NASA updates Moon Base CLPS program as Canada weighs Canadarm3’s future",
+        "url": "https://spaceq.ca/nasa-clps-2-canada-canadarm3",
+        "publishedAt": "2026-11-10T18:32:57+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -579,10 +579,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Why Britain needs a maritime-first defense strategy",
-        "url": "https://breakingdefense.com/2026/11/why-britain-needs-a-maritime-first-defense-strategy",
-        "publishedAt": "2026-11-10T16:14:31+00:00",
-        "source": "Breaking Defense",
+        "title": "First-ever Collaborative Combat Aircraft fly in formation, demonstrate air combat maneuvers",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers",
+        "publishedAt": "2026-11-10T18:17:13+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -615,10 +615,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Hegseth says impeachment filing against him is ‘sabotage’ and political ‘farce’",
-        "url": "https://www.defensenews.com/video/2026/11/10/hegseth-says-impeachment-filing-against-him-is-sabotage-and-political-farce",
-        "publishedAt": "2026-11-10T16:35:30+00:00",
-        "source": "Defense News",
+        "title": "Why Britain needs a maritime-first defense strategy",
+        "url": "https://breakingdefense.com/2026/11/why-britain-needs-a-maritime-first-defense-strategy",
+        "publishedAt": "2026-11-10T16:14:31+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
