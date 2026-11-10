@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T18:37:51+00:00",
+  "generatedAt": "2026-11-10T19:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-10T18:37:51+00:00",
+      "updatedAt": "2026-11-10T19:00:34+00:00",
       "stories": [
         {
           "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-10T18:37:51+00:00",
+      "updatedAt": "2026-11-10T19:00:34+00:00",
       "stories": [
         {
           "title": "NASA updates Moon Base CLPS program as Canada weighs Canadarm3’s future",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-10T18:37:51+00:00",
+      "updatedAt": "2026-11-10T19:00:34+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -241,8 +241,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-10T18:37:51+00:00",
+      "updatedAt": "2026-11-10T19:00:34+00:00",
       "stories": [
+        {
+          "title": "Ukraine urges US to speed up interceptor deliveries as Russia targets power grid",
+          "url": "https://www.defensenews.com/global/europe/2026/11/10/ukraine-urges-us-to-speed-up-interceptor-deliveries-as-russia-targets-power-grid",
+          "publishedAt": "2026-11-10T18:57:04+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "First-ever Collaborative Combat Aircraft fly in formation, demonstrate air combat maneuvers",
           "url": "https://www.defensenews.com/industry/techwatch/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers",
@@ -278,12 +284,6 @@
           "url": "https://breakingdefense.com/2026/11/a-pentagon-impeachment-showdown-plus-defense-funding-in-limbo",
           "publishedAt": "2026-11-10T14:22:50+00:00",
           "source": "Breaking Defense"
-        },
-        {
-          "title": "Hegseth denounces ‘farce’ impeachment in first briefing since May",
-          "url": "https://www.defensenews.com/pentagon/2026/11/10/hegseth-denounces-farce-impeachment-in-first-briefing-since-may",
-          "publishedAt": "2026-11-10T14:43:42+00:00",
-          "source": "Defense News"
         },
         {
           "title": "The Interoperability Gap: Why Joint Operations Still Depend on Disconnected Communications Systems",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-10T18:37:51+00:00",
+      "updatedAt": "2026-11-10T19:00:34+00:00",
       "stories": [
         {
           "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
@@ -359,6 +359,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+          "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google",
+          "publishedAt": "2026-11-10T18:49:52+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
           "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
           "publishedAt": "2026-11-10T17:30:00+00:00",
@@ -368,12 +374,6 @@
           "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
           "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
           "publishedAt": "2026-11-10T17:04:19+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-          "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
-          "publishedAt": "2026-11-10T15:54:08+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -435,8 +435,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-10T18:37:51+00:00",
+      "updatedAt": "2026-11-10T19:00:34+00:00",
       "stories": [
+        {
+          "title": "Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots",
+          "url": "https://www.therobotreport.com/dynamic-creatures-partners-sixth-wall-studio-bring-hasbro-characters-life-with-robots",
+          "publishedAt": "2026-11-10T18:31:17+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Why predictive maintenance matters more as factories add robots",
           "url": "https://www.therobotreport.com/why-predictive-maintenance-matters-more-as-factories-add-robots",
@@ -486,12 +492,6 @@
           "source": "IEEE Spectrum Robotics"
         },
         {
-          "title": "ARM Institute consortium grows to more than 500 organizations",
-          "url": "https://www.therobotreport.com/arm-institute-members-grows-more-than-500-organizations",
-          "publishedAt": "2026-11-08T13:00:23+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
           "url": "https://spectrum.ieee.org/video-friday-home-cable-robot",
           "publishedAt": "2026-11-06T17:00:03+00:00",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-10T18:37:51+00:00",
+    "updatedAt": "2026-11-10T19:00:34+00:00",
     "stories": [
       {
         "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
@@ -579,18 +579,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "First-ever Collaborative Combat Aircraft fly in formation, demonstrate air combat maneuvers",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers",
-        "publishedAt": "2026-11-10T18:17:13+00:00",
+        "title": "Ukraine urges US to speed up interceptor deliveries as Russia targets power grid",
+        "url": "https://www.defensenews.com/global/europe/2026/11/10/ukraine-urges-us-to-speed-up-interceptor-deliveries-as-russia-targets-power-grid",
+        "publishedAt": "2026-11-10T18:57:04+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
       },
       {
-        "title": "Why predictive maintenance matters more as factories add robots",
-        "url": "https://www.therobotreport.com/why-predictive-maintenance-matters-more-as-factories-add-robots",
-        "publishedAt": "2026-11-10T16:13:40+00:00",
+        "title": "Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots",
+        "url": "https://www.therobotreport.com/dynamic-creatures-partners-sixth-wall-studio-bring-hasbro-characters-life-with-robots",
+        "publishedAt": "2026-11-10T18:31:17+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -615,10 +615,10 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Why Britain needs a maritime-first defense strategy",
-        "url": "https://breakingdefense.com/2026/11/why-britain-needs-a-maritime-first-defense-strategy",
-        "publishedAt": "2026-11-10T16:14:31+00:00",
-        "source": "Breaking Defense",
+        "title": "First-ever Collaborative Combat Aircraft fly in formation, demonstrate air combat maneuvers",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers",
+        "publishedAt": "2026-11-10T18:17:13+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
