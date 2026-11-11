@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-11T11:00:32+00:00",
+  "generatedAt": "2026-11-11T12:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-11T11:00:32+00:00",
+      "updatedAt": "2026-11-11T12:00:32+00:00",
       "stories": [
+        {
+          "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time",
+          "publishedAt": "2026-11-11T11:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
           "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact",
@@ -47,12 +53,6 @@
           "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys",
           "publishedAt": "2026-11-10T08:01:39+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "A distant exoplanet mysteriously vanished from sight. Astronomers just discovered why",
-          "url": "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why",
-          "publishedAt": "2026-11-10T21:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-11T11:00:32+00:00",
+      "updatedAt": "2026-11-11T12:00:32+00:00",
       "stories": [
         {
           "title": "First Globalstar 2-R satellites pass initial in-orbit tests",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-11T11:00:32+00:00",
+      "updatedAt": "2026-11-11T12:00:32+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-11T11:00:32+00:00",
+      "updatedAt": "2026-11-11T12:00:32+00:00",
       "stories": [
         {
           "title": "Israel’s Rafael unveils new, larger cruise missile dubbed Super Ice",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-11T11:00:32+00:00",
+      "updatedAt": "2026-11-11T12:00:32+00:00",
       "stories": [
         {
           "title": "OpenAI invites brands to set up shop in ChatGPT",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-11T11:00:32+00:00",
+      "updatedAt": "2026-11-11T12:00:32+00:00",
       "stories": [
         {
           "title": "Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-11T11:00:32+00:00",
+    "updatedAt": "2026-11-11T12:00:32+00:00",
     "stories": [
       {
         "title": "OpenAI invites brands to set up shop in ChatGPT",
@@ -561,10 +561,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact",
-        "publishedAt": "2026-11-11T05:05:00+00:00",
-        "source": "NASA",
+        "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time",
+        "publishedAt": "2026-11-11T11:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
