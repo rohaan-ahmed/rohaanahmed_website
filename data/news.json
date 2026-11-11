@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T08:00:31+00:00",
+  "generatedAt": "2026-11-11T09:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-11T08:00:31+00:00",
+      "updatedAt": "2026-11-11T09:00:30+00:00",
       "stories": [
         {
           "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-11T08:00:31+00:00",
+      "updatedAt": "2026-11-11T09:00:30+00:00",
       "stories": [
         {
           "title": "First Globalstar 2-R satellites pass initial in-orbit tests",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-11T08:00:31+00:00",
+      "updatedAt": "2026-11-11T09:00:30+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -241,8 +241,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-11T08:00:31+00:00",
+      "updatedAt": "2026-11-11T09:00:30+00:00",
       "stories": [
+        {
+          "title": "Israel’s Rafael unveils new, larger cruise missile dubbed Super Ice",
+          "url": "https://breakingdefense.com/2026/11/israels-rafael-unveils-new-larger-cruise-missile-dubbed-super-ice",
+          "publishedAt": "2026-11-11T08:00:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "House opts to stall Hegseth impeachment vote, sending resolution to Judiciary Committee",
           "url": "https://breakingdefense.com/2026/11/house-opts-to-stall-hegseth-impeachment-vote-sending-resolution-to-judiciary-committee",
@@ -283,12 +289,6 @@
           "title": "France awards $1.7 billion contract to Airbus-Thales team for new military satellites",
           "url": "https://breakingdefense.com/2026/11/france-awards-1-7-billion-contract-to-airbus-thales-team-for-new-military-satellites",
           "publishedAt": "2026-11-10T19:45:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Beyond the CMMC pause: Protecting the engineering data defense programs depend on",
-          "url": "https://breakingdefense.com/2026/11/beyond-the-cmmc-pause-protecting-the-engineering-data-defense-programs-depend-on",
-          "publishedAt": "2026-11-10T19:39:29+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-11T08:00:31+00:00",
+      "updatedAt": "2026-11-11T09:00:30+00:00",
       "stories": [
         {
           "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-11T08:00:31+00:00",
+      "updatedAt": "2026-11-11T09:00:30+00:00",
       "stories": [
         {
           "title": "Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-11T08:00:31+00:00",
+    "updatedAt": "2026-11-11T09:00:30+00:00",
     "stories": [
       {
         "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "House opts to stall Hegseth impeachment vote, sending resolution to Judiciary Committee",
-        "url": "https://breakingdefense.com/2026/11/house-opts-to-stall-hegseth-impeachment-vote-sending-resolution-to-judiciary-committee",
-        "publishedAt": "2026-11-10T23:18:14+00:00",
+        "title": "Israel’s Rafael unveils new, larger cruise missile dubbed Super Ice",
+        "url": "https://breakingdefense.com/2026/11/israels-rafael-unveils-new-larger-cruise-missile-dubbed-super-ice",
+        "publishedAt": "2026-11-11T08:00:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -736,7 +736,7 @@
     }
   ],
   "warnings": [
-    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News"
   ]
 }
