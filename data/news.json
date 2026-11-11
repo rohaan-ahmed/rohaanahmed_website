@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T19:00:33+00:00",
+  "generatedAt": "2026-11-11T20:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-11T19:00:33+00:00",
+      "updatedAt": "2026-11-11T20:00:32+00:00",
       "stories": [
         {
           "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
@@ -17,6 +17,12 @@
           "url": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push",
           "publishedAt": "2026-11-11T13:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Andy Weir's 'Exoplanet' just landed on Audible, but what actually makes an exoplanet habitable?",
+          "url": "https://www.space.com/astronomy/exoplanets/andy-weirs-exoplanet-just-hit-audible-but-what-actually-makes-an-exoplanet-habitable",
+          "publishedAt": "2026-11-11T19:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Did comets bring building blocks of life to Earth? Scientists aren't so sure anymore",
@@ -34,12 +40,6 @@
           "title": "Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026",
           "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026",
           "publishedAt": "2026-11-11T15:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "NASA's new UVEX space telescope will peer deep into the universe's most violent events",
-          "url": "https://www.space.com/science/astrophysics/nasas-new-uvex-space-telescope-will-peer-deep-into-the-universes-most-violent-events",
-          "publishedAt": "2026-11-11T13:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-11T19:00:33+00:00",
+      "updatedAt": "2026-11-11T20:00:32+00:00",
       "stories": [
         {
           "title": "Rocket Lab Q3 2026: Neutron orders pile up before first flight",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-11T19:00:33+00:00",
+      "updatedAt": "2026-11-11T20:00:32+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -241,8 +241,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-11T19:00:33+00:00",
+      "updatedAt": "2026-11-11T20:00:32+00:00",
       "stories": [
+        {
+          "title": "Poland says Pentagon supports permanent US base, with decision expected in December",
+          "url": "https://breakingdefense.com/2026/11/poland-says-pentagon-supports-permanent-us-base-with-decision-expected-in-december",
+          "publishedAt": "2026-11-11T19:09:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "EU sets out $3.4B defense budget for 2027, boosts Ukraine spending",
           "url": "https://breakingdefense.com/2026/11/eu-sets-out-3-4b-defense-budget-for-2027-boosts-ukraine-spending",
@@ -265,12 +271,6 @@
           "title": "NATO taps Ukraine as red-team in drills to ‘trigger an adaptation cycle’",
           "url": "https://breakingdefense.com/2026/11/nato-taps-ukraine-as-red-team-in-drills-to-trigger-an-adaptation-cycle",
           "publishedAt": "2026-11-11T17:17:05+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Turkey prepares to withdraw from base in Iraq in shift for Ankara-Baghdad relations: Analysts",
-          "url": "https://breakingdefense.com/2026/11/turkey-prepares-to-withdraw-from-base-in-iraq-in-shift-for-ankara-baghdad-relations-analysts",
-          "publishedAt": "2026-11-11T15:39:45+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-11T19:00:33+00:00",
+      "updatedAt": "2026-11-11T20:00:32+00:00",
       "stories": [
         {
           "title": "OpenAI invites brands to set up shop in ChatGPT",
@@ -359,6 +359,24 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+          "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth",
+          "publishedAt": "2026-11-11T19:54:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+          "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips",
+          "publishedAt": "2026-11-11T19:34:55+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+          "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair",
+          "publishedAt": "2026-11-11T19:22:22+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
           "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems",
           "publishedAt": "2026-11-11T16:16:07+00:00",
@@ -377,42 +395,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Gemini 4 Carbon is now available (12 minute read)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Suppressing Reward Hacking Through Model Weight Arithmetic (3 minute read)",
-          "url": "https://x.com/KunhaoZ/status/2120172863734849903",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Why Instinct Feels Like a Personal Assistant (20 minute read)",
-          "url": "https://x.com/nizzyabi/status/2120194267066863738",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Neurons as an Interpretable Basis (15 minute read)",
-          "url": "https://www.goodfire.com/research/neurons-as-an-interpretable-basis",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Swarm (/swarm) (10 minute read)",
-          "url": "https://antigravity.google/docs/swarm",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Meta Releases Faster K-Means Alternative (GitHub Repo)",
-          "url": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
           "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
           "publishedAt": "2026-11-10T10:00:00+00:00",
@@ -429,13 +411,31 @@
           "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx",
           "publishedAt": "2026-11-10T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Jensen Huang admits affair as Nvidia probes spy claims",
+          "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+          "publishedAt": "2026-11-09T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic’s Claude ‘dreams’ to fix its own memory",
+          "url": "https://www.anthropic.com/research/components-of-agent-memory",
+          "publishedAt": "2026-11-09T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "METR’s inside look at Anthropic’s AI speedup",
+          "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment",
+          "publishedAt": "2026-11-06T11:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-11T19:00:33+00:00",
+      "updatedAt": "2026-11-11T20:00:32+00:00",
       "stories": [
         {
           "title": "Serve Robotics opens robot delivery network for others to build on",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-11T19:00:33+00:00",
+    "updatedAt": "2026-11-11T20:00:32+00:00",
     "stories": [
       {
         "title": "OpenAI invites brands to set up shop in ChatGPT",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "EU sets out $3.4B defense budget for 2027, boosts Ukraine spending",
-        "url": "https://breakingdefense.com/2026/11/eu-sets-out-3-4b-defense-budget-for-2027-boosts-ukraine-spending",
-        "publishedAt": "2026-11-11T18:22:56+00:00",
+        "title": "Poland says Pentagon supports permanent US base, with decision expected in December",
+        "url": "https://breakingdefense.com/2026/11/poland-says-pentagon-supports-permanent-us-base-with-decision-expected-in-december",
+        "publishedAt": "2026-11-11T19:09:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -615,12 +615,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "‘AI 2027’ authors move up their timelines",
-        "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
-        "publishedAt": "2026-11-11T10:00:00+00:00",
-        "source": "The Rundown AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "EU sets out $3.4B defense budget for 2027, boosts Ukraine spending",
+        "url": "https://breakingdefense.com/2026/11/eu-sets-out-3-4b-defense-budget-for-2027-boosts-ukraine-spending",
+        "publishedAt": "2026-11-11T18:22:56+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -737,6 +737,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-19"
   ]
 }
