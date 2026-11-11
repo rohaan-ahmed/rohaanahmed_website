@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T18:08:16+00:00",
+  "generatedAt": "2026-11-11T19:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-11T18:08:16+00:00",
+      "updatedAt": "2026-11-11T19:00:33+00:00",
       "stories": [
         {
           "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
@@ -37,8 +37,8 @@
           "source": "Space.com"
         },
         {
-          "title": "Why I recommend the Seestar S30 Plus smart telescope for beginners — full review",
-          "url": "https://www.space.com/stargazing/skywatching-kit/why-i-recommend-the-seestar-s30-plus-smart-telescope-for-beginners-full-review",
+          "title": "NASA's new UVEX space telescope will peer deep into the universe's most violent events",
+          "url": "https://www.space.com/science/astrophysics/nasas-new-uvex-space-telescope-will-peer-deep-into-the-universes-most-violent-events",
           "publishedAt": "2026-11-11T13:00:00+00:00",
           "source": "Space.com"
         },
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-11T18:08:16+00:00",
+      "updatedAt": "2026-11-11T19:00:33+00:00",
       "stories": [
         {
           "title": "Rocket Lab Q3 2026: Neutron orders pile up before first flight",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-11T18:08:16+00:00",
+      "updatedAt": "2026-11-11T19:00:33+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -241,8 +241,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-11T18:08:16+00:00",
+      "updatedAt": "2026-11-11T19:00:33+00:00",
       "stories": [
+        {
+          "title": "EU sets out $3.4B defense budget for 2027, boosts Ukraine spending",
+          "url": "https://breakingdefense.com/2026/11/eu-sets-out-3-4b-defense-budget-for-2027-boosts-ukraine-spending",
+          "publishedAt": "2026-11-11T18:22:56+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "The Army’s coming C2 challenge is fighting across thousands of miles",
           "url": "https://breakingdefense.com/2026/11/the-armys-coming-c2-challenge-is-fighting-across-thousands-of-miles",
@@ -265,12 +271,6 @@
           "title": "Turkey prepares to withdraw from base in Iraq in shift for Ankara-Baghdad relations: Analysts",
           "url": "https://breakingdefense.com/2026/11/turkey-prepares-to-withdraw-from-base-in-iraq-in-shift-for-ankara-baghdad-relations-analysts",
           "publishedAt": "2026-11-11T15:39:45+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Trust the “Super Intelligence” for mission-critical operations",
-          "url": "https://breakingdefense.com/2026/11/trust-the-super-intelligence-for-mission-critical-operations",
-          "publishedAt": "2026-11-11T15:30:51+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-11T18:08:16+00:00",
+      "updatedAt": "2026-11-11T19:00:33+00:00",
       "stories": [
         {
           "title": "OpenAI invites brands to set up shop in ChatGPT",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-11T18:08:16+00:00",
+      "updatedAt": "2026-11-11T19:00:33+00:00",
       "stories": [
         {
           "title": "Serve Robotics opens robot delivery network for others to build on",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-11T18:08:16+00:00",
+    "updatedAt": "2026-11-11T19:00:33+00:00",
     "stories": [
       {
         "title": "OpenAI invites brands to set up shop in ChatGPT",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The Army’s coming C2 challenge is fighting across thousands of miles",
-        "url": "https://breakingdefense.com/2026/11/the-armys-coming-c2-challenge-is-fighting-across-thousands-of-miles",
-        "publishedAt": "2026-11-11T18:05:00+00:00",
+        "title": "EU sets out $3.4B defense budget for 2027, boosts Ukraine spending",
+        "url": "https://breakingdefense.com/2026/11/eu-sets-out-3-4b-defense-budget-for-2027-boosts-ukraine-spending",
+        "publishedAt": "2026-11-11T18:22:56+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
