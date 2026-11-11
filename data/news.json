@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T07:00:34+00:00",
+  "generatedAt": "2026-11-11T08:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-11T07:00:34+00:00",
+      "updatedAt": "2026-11-11T08:00:31+00:00",
       "stories": [
         {
           "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-11T07:00:34+00:00",
+      "updatedAt": "2026-11-11T08:00:31+00:00",
       "stories": [
         {
           "title": "First Globalstar 2-R satellites pass initial in-orbit tests",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-11T07:00:34+00:00",
+      "updatedAt": "2026-11-11T08:00:31+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-11T07:00:34+00:00",
+      "updatedAt": "2026-11-11T08:00:31+00:00",
       "stories": [
         {
           "title": "House opts to stall Hegseth impeachment vote, sending resolution to Judiciary Committee",
@@ -338,8 +338,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-11T07:00:34+00:00",
+      "updatedAt": "2026-11-11T08:00:31+00:00",
       "stories": [
+        {
+          "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+          "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn",
+          "publishedAt": "2026-11-11T07:30:51+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
           "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
@@ -368,12 +374,6 @@
           "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
           "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
           "publishedAt": "2026-11-10T20:52:13+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-          "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo",
-          "publishedAt": "2026-11-10T19:57:52+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-11T07:00:34+00:00",
+      "updatedAt": "2026-11-11T08:00:31+00:00",
       "stories": [
         {
           "title": "Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots",
@@ -531,20 +531,20 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-11T07:00:34+00:00",
+    "updatedAt": "2026-11-11T08:00:31+00:00",
     "stories": [
       {
-        "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-        "publishedAt": "2026-11-10T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+        "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn",
+        "publishedAt": "2026-11-11T07:30:51+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Meta undercuts Anthropic, OpenAI on the cost of agents",
-        "url": "https://research.meta.ai/blog/muse-ember",
+        "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
         "publishedAt": "2026-11-10T10:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
