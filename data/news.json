@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-11T05:00:33+00:00",
+  "generatedAt": "2026-11-11T06:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-11T05:00:33+00:00",
+      "updatedAt": "2026-11-11T06:00:32+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact",
+          "publishedAt": "2026-11-11T05:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Water Surges Into Navajo Reservoir",
+          "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir",
+          "publishedAt": "2026-11-11T05:01:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
           "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions",
@@ -55,18 +67,6 @@
           "source": "NASA"
         },
         {
-          "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-          "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds",
-          "publishedAt": "2026-11-10T16:00:26+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "CHAPEA Crew Leaves a Mark",
-          "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark",
-          "publishedAt": "2026-11-10T14:57:55+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
           "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth",
           "publishedAt": "2026-11-09T14:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-11T05:00:33+00:00",
+      "updatedAt": "2026-11-11T06:00:32+00:00",
       "stories": [
         {
           "title": "First Globalstar 2-R satellites pass initial in-orbit tests",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-11T05:00:33+00:00",
+      "updatedAt": "2026-11-11T06:00:32+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-11T05:00:33+00:00",
+      "updatedAt": "2026-11-11T06:00:32+00:00",
       "stories": [
         {
           "title": "House opts to stall Hegseth impeachment vote, sending resolution to Judiciary Committee",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-11T05:00:33+00:00",
+      "updatedAt": "2026-11-11T06:00:32+00:00",
       "stories": [
         {
           "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-11T05:00:33+00:00",
+      "updatedAt": "2026-11-11T06:00:32+00:00",
       "stories": [
         {
           "title": "Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-11T05:00:33+00:00",
+    "updatedAt": "2026-11-11T06:00:32+00:00",
     "stories": [
       {
         "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
@@ -561,10 +561,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
-        "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions",
-        "publishedAt": "2026-11-10T14:00:00+00:00",
-        "source": "SpaceNews",
+        "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact",
+        "publishedAt": "2026-11-11T05:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -606,21 +606,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "House Republicans sidestep effort to impeach Hegseth",
-        "url": "https://www.defensenews.com/congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth",
-        "publishedAt": "2026-11-10T23:31:53+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Water Surges Into Navajo Reservoir",
+        "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir",
+        "publishedAt": "2026-11-11T05:01:00+00:00",
+        "source": "NASA",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Allen Control Systems launches new division to develop counter-drone lasers",
-        "url": "https://breakingdefense.com/2026/11/allen-control-systems-launches-new-division-to-develop-counter-drone-lasers",
-        "publishedAt": "2026-11-10T20:56:37+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
+        "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions",
+        "publishedAt": "2026-11-10T14:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
