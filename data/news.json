@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T12:00:32+00:00",
+  "generatedAt": "2026-11-11T12:54:03+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-11T12:00:32+00:00",
+      "updatedAt": "2026-11-11T12:54:03+00:00",
       "stories": [
         {
           "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-11T12:00:32+00:00",
+      "updatedAt": "2026-11-11T12:54:03+00:00",
       "stories": [
+        {
+          "title": "Starship Flight 15 to attempt first catch of both stages",
+          "url": "https://spaceq.ca/starship-flight-15-catch-both-stages-preview",
+          "publishedAt": "2026-11-11T12:08:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "First Globalstar 2-R satellites pass initial in-orbit tests",
           "url": "https://spaceq.ca/globalstar-2-r-satellites-pass-in-orbit-tests",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "Canadian astronaut Josh Kutryk helps finish complex solar array spacewalks at ISS",
-          "url": "https://spaceq.ca/kutryk-spacewalk-final-solar-array",
-          "publishedAt": "2026-11-05T22:57:56+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Media invited to witness Joshua Kutryk's second spacewalk",
           "url": "https://www.canada.ca/en/space-agency/news/2026/11/media-invited-to-witness-joshua-kutryks-second-spacewalk.html",
           "publishedAt": "2026-11-03T20:33:25+00:00",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-11T12:00:32+00:00",
+      "updatedAt": "2026-11-11T12:54:03+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -241,8 +241,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-11T12:00:32+00:00",
+      "updatedAt": "2026-11-11T12:54:03+00:00",
       "stories": [
+        {
+          "title": "Romanian servers targeted by Russian hackers to scoop up emails about NATO, EU",
+          "url": "https://www.defensenews.com/global/europe/2026/11/11/romanian-servers-targeted-by-russian-hackers-to-scoop-up-emails-about-nato-eu",
+          "publishedAt": "2026-11-11T12:08:33+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Israel’s Rafael unveils new, larger cruise missile dubbed Super Ice",
           "url": "https://breakingdefense.com/2026/11/israels-rafael-unveils-new-larger-cruise-missile-dubbed-super-ice",
@@ -304,12 +310,6 @@
           "source": "Defense News"
         },
         {
-          "title": "First-ever Collaborative Combat Aircraft fly in formation, demonstrate air combat maneuvers",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers",
-          "publishedAt": "2026-11-10T18:17:13+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Why the harness matters far more than the model for super intelligence success",
           "url": "https://defensescoop.com/2026/11/10/defense-ai-orchestration-harness",
           "publishedAt": "2026-11-10T20:30:00+00:00",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-11T12:00:32+00:00",
+      "updatedAt": "2026-11-11T12:54:03+00:00",
       "stories": [
         {
           "title": "OpenAI invites brands to set up shop in ChatGPT",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-11T12:00:32+00:00",
+      "updatedAt": "2026-11-11T12:54:03+00:00",
       "stories": [
         {
           "title": "Dynamic Creatures partners with Sixth Wall Studio to bring Hasbro characters to life with robots",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-11T12:00:32+00:00",
+    "updatedAt": "2026-11-11T12:54:03+00:00",
     "stories": [
       {
         "title": "OpenAI invites brands to set up shop in ChatGPT",
@@ -552,9 +552,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "First Globalstar 2-R satellites pass initial in-orbit tests",
-        "url": "https://spaceq.ca/globalstar-2-r-satellites-pass-in-orbit-tests",
-        "publishedAt": "2026-11-10T19:30:59+00:00",
+        "title": "Starship Flight 15 to attempt first catch of both stages",
+        "url": "https://spaceq.ca/starship-flight-15-catch-both-stages-preview",
+        "publishedAt": "2026-11-11T12:08:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -579,10 +579,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Israel’s Rafael unveils new, larger cruise missile dubbed Super Ice",
-        "url": "https://breakingdefense.com/2026/11/israels-rafael-unveils-new-larger-cruise-missile-dubbed-super-ice",
-        "publishedAt": "2026-11-11T08:00:00+00:00",
-        "source": "Breaking Defense",
+        "title": "Romanian servers targeted by Russian hackers to scoop up emails about NATO, EU",
+        "url": "https://www.defensenews.com/global/europe/2026/11/11/romanian-servers-targeted-by-russian-hackers-to-scoop-up-emails-about-nato-eu",
+        "publishedAt": "2026-11-11T12:08:33+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -606,21 +606,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "NASA updates Moon Base CLPS program as Canada weighs Canadarm3’s future",
-        "url": "https://spaceq.ca/nasa-clps-2-canada-canadarm3",
-        "publishedAt": "2026-11-10T18:32:57+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
+        "title": "Israel’s Rafael unveils new, larger cruise missile dubbed Super Ice",
+        "url": "https://breakingdefense.com/2026/11/israels-rafael-unveils-new-larger-cruise-missile-dubbed-super-ice",
+        "publishedAt": "2026-11-11T08:00:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-        "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn",
-        "publishedAt": "2026-11-11T07:30:51+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "First Globalstar 2-R satellites pass initial in-orbit tests",
+        "url": "https://spaceq.ca/globalstar-2-r-satellites-pass-in-orbit-tests",
+        "publishedAt": "2026-11-10T19:30:59+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
