@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T03:00:32+00:00",
+  "generatedAt": "2026-11-12T04:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-12T03:00:32+00:00",
+      "updatedAt": "2026-11-12T04:00:32+00:00",
       "stories": [
         {
           "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-12T03:00:32+00:00",
+      "updatedAt": "2026-11-12T04:00:32+00:00",
       "stories": [
         {
           "title": "Rocket Lab Q3 2026: Neutron orders pile up before first flight",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-12T03:00:32+00:00",
+      "updatedAt": "2026-11-12T04:00:32+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-12T03:00:32+00:00",
+      "updatedAt": "2026-11-12T04:00:32+00:00",
       "stories": [
         {
           "title": "DoD pushes out 3 loans totaling $450M to bolster US space companies",
@@ -338,8 +338,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-12T03:00:32+00:00",
+      "updatedAt": "2026-11-12T04:00:32+00:00",
       "stories": [
+        {
+          "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+          "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
+          "publishedAt": "2026-11-12T03:13:10+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "The unfolding Jensen Huang scandal: a timeline",
           "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
@@ -350,12 +356,6 @@
           "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
           "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang",
           "publishedAt": "2026-11-11T23:28:45+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-          "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec",
-          "publishedAt": "2026-11-11T23:17:05+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-12T03:00:32+00:00",
+      "updatedAt": "2026-11-12T04:00:32+00:00",
       "stories": [
         {
           "title": "Serve Robotics opens robot delivery network for others to build on",
@@ -531,21 +531,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-12T03:00:32+00:00",
+    "updatedAt": "2026-11-12T04:00:32+00:00",
     "stories": [
       {
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
-        "publishedAt": "2026-11-11T23:50:00+00:00",
+        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+        "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
+        "publishedAt": "2026-11-12T03:13:10+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-        "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang",
-        "publishedAt": "2026-11-11T23:28:45+00:00",
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+        "publishedAt": "2026-11-11T23:50:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
