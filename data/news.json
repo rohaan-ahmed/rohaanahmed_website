@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-12T16:00:31+00:00",
+  "generatedAt": "2026-11-12T16:12:43+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-12T16:00:31+00:00",
+      "updatedAt": "2026-11-12T16:12:43+00:00",
       "stories": [
+        {
+          "title": "The replicants are running the city in thrilling final trailer for ‘Blade Runner 2099’ (video)",
+          "url": "https://www.space.com/entertainment/space-movies-shows/the-replicants-are-running-the-city-in-thrilling-final-trailer-for-blade-runner-2099-video",
+          "publishedAt": "2026-11-12T16:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "I used the Vaonis Vespera 3 for weeks and here’s who I would recommend it to — full review",
           "url": "https://www.space.com/stargazing/skywatching-kit/i-used-the-vaonis-vespera-3-for-weeks-and-heres-who-i-would-recommend-it-to-full-review",
@@ -29,12 +35,6 @@
           "url": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general",
           "publishedAt": "2026-11-12T00:00:18+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Astronomers stunned after James Webb Space Telescope discovers the earliest pair of black hole-powered quasars",
-          "url": "https://www.space.com/astronomy/black-holes/astronomers-stunned-after-james-webb-space-telescope-discovers-the-earliest-pair-of-black-hole-powered-quasars",
-          "publishedAt": "2026-11-12T13:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-12T16:00:31+00:00",
+      "updatedAt": "2026-11-12T16:12:43+00:00",
       "stories": [
         {
           "title": "Amateur radio contact between CSA astronaut Joshua Kutryk and students in Halifax",
@@ -192,7 +192,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-12T16:00:31+00:00",
+      "updatedAt": "2026-11-12T16:12:43+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-12T16:00:31+00:00",
+      "updatedAt": "2026-11-12T16:12:43+00:00",
       "stories": [
         {
           "title": "Finland says it detects strike on Russian warship in Baltic Sea",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-12T16:00:31+00:00",
+      "updatedAt": "2026-11-12T16:12:43+00:00",
       "stories": [
         {
           "title": "Jensen Huang’s job in doubt after second affair report",
@@ -377,40 +377,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Gemini Decisions API: Fast, calibrated multimodal decisions (1 minute read)",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-          "publishedAt": "2026-11-12T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "The unfolding Jensen Huang scandal: a timeline",
+          "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+          "publishedAt": "2026-11-12T14:30:01+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "What's new in Grok Bot 1.0 (11 minute read)",
-          "url": "https://flaviocopes.com/grok-bot-1-0",
-          "publishedAt": "2026-11-12T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+          "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition",
+          "publishedAt": "2026-11-12T13:26:25+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Runway Praxis-1 Is Now Available: Open-Weight Robotics Model (3 minute read)",
-          "url": "https://runway.com/news/company-news/praxis-1-is-now-available",
-          "publishedAt": "2026-11-12T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Escaping SPACE: Part II (28 minute read)",
-          "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
-          "publishedAt": "2026-11-12T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "MCP vs CLI vs Skills: What Each Costs in Context (11 minute read)",
-          "url": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills",
-          "publishedAt": "2026-11-12T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "LLMs can learn some multi-step reasoning on filler tokens instead of visible CoT (9 minute read)",
-          "url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2",
-          "publishedAt": "2026-11-12T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+          "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
+          "publishedAt": "2026-11-12T03:13:10+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI invites brands to set up shop in ChatGPT",
@@ -435,13 +417,31 @@
           "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
           "publishedAt": "2026-11-10T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Meta undercuts Anthropic, OpenAI on the cost of agents",
+          "url": "https://research.meta.ai/blog/muse-ember",
+          "publishedAt": "2026-11-10T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Google adds two more AI chips to its Nvidia fight",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx",
+          "publishedAt": "2026-11-10T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Jensen Huang admits affair as Nvidia probes spy claims",
+          "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+          "publishedAt": "2026-11-09T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-12T16:00:31+00:00",
+      "updatedAt": "2026-11-12T16:12:43+00:00",
       "stories": [
         {
           "title": "Viam Launchpad aims to accelerate robotics deployments",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-12T16:00:31+00:00",
+    "updatedAt": "2026-11-12T16:12:43+00:00",
     "stories": [
       {
         "title": "Jensen Huang’s job in doubt after second affair report",
@@ -567,9 +567,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "I used the Vaonis Vespera 3 for weeks and here’s who I would recommend it to — full review",
-        "url": "https://www.space.com/stargazing/skywatching-kit/i-used-the-vaonis-vespera-3-for-weeks-and-heres-who-i-would-recommend-it-to-full-review",
-        "publishedAt": "2026-11-12T15:00:00+00:00",
+        "title": "The replicants are running the city in thrilling final trailer for ‘Blade Runner 2099’ (video)",
+        "url": "https://www.space.com/entertainment/space-movies-shows/the-replicants-are-running-the-city-in-thrilling-final-trailer-for-blade-runner-2099-video",
+        "publishedAt": "2026-11-12T16:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -743,6 +743,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-04"
   ]
 }
