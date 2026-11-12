@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-12T14:00:34+00:00",
+  "generatedAt": "2026-11-12T15:00:35+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-12T14:00:34+00:00",
+      "updatedAt": "2026-11-12T15:00:35+00:00",
       "stories": [
+        {
+          "title": "The 'eclipse of the century' will plunge these 8 wonders of the Roman Empire into darkness on Aug. 2, 2027",
+          "url": "https://www.space.com/stargazing/solar-eclipses/the-eclipse-of-the-century-will-plunge-these-8-wonders-of-the-roman-empire-into-darkness-on-aug-2-2027",
+          "publishedAt": "2026-11-12T14:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
           "url": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general",
@@ -67,12 +73,6 @@
           "source": "Space.com"
         },
         {
-          "title": "We can't see Fast Radio Bursts but we can now hear them thanks to a Finnish Cathedral",
-          "url": "https://www.space.com/astronomy/we-cant-see-fast-radio-bursts-but-we-can-now-hear-them-thanks-to-a-finnish-cathedral",
-          "publishedAt": "2026-11-11T21:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
           "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions",
           "publishedAt": "2026-11-10T14:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-12T14:00:34+00:00",
+      "updatedAt": "2026-11-12T15:00:35+00:00",
       "stories": [
         {
           "title": "Rocket Lab Q3 2026: Neutron orders pile up before first flight",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-12T14:00:34+00:00",
+      "updatedAt": "2026-11-12T15:00:35+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -241,8 +241,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-12T14:00:34+00:00",
+      "updatedAt": "2026-11-12T15:00:35+00:00",
       "stories": [
+        {
+          "title": "NATO nations have a missile crisis. How did it happen, and can it be fixed?",
+          "url": "https://breakingdefense.com/2026/11/nato-nations-have-a-missile-crisis-how-did-it-happen-and-can-it-be-fixed",
+          "publishedAt": "2026-11-12T14:04:58+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Rethinking the pipeline for critical defense electronics",
           "url": "https://breakingdefense.com/2026/11/rethinking-the-pipeline-for-critical-defense-electronics",
@@ -271,12 +277,6 @@
           "title": "EU sets out $3.4B defense budget for 2027, boosts Ukraine spending",
           "url": "https://breakingdefense.com/2026/11/eu-sets-out-3-4b-defense-budget-for-2027-boosts-ukraine-spending",
           "publishedAt": "2026-11-11T18:22:56+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "The Army’s coming C2 challenge is fighting across thousands of miles",
-          "url": "https://breakingdefense.com/2026/11/the-armys-coming-c2-challenge-is-fighting-across-thousands-of-miles",
-          "publishedAt": "2026-11-11T18:05:00+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-12T14:00:34+00:00",
+      "updatedAt": "2026-11-12T15:00:35+00:00",
       "stories": [
         {
           "title": "Jensen Huang’s job in doubt after second affair report",
@@ -353,6 +353,48 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "The unfolding Jensen Huang scandal: a timeline",
+          "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+          "publishedAt": "2026-11-12T14:30:01+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Gemini Decisions API: Fast, calibrated multimodal decisions (1 minute read)",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+          "publishedAt": "2026-11-12T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "What's new in Grok Bot 1.0 (11 minute read)",
+          "url": "https://flaviocopes.com/grok-bot-1-0",
+          "publishedAt": "2026-11-12T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Runway Praxis-1 Is Now Available: Open-Weight Robotics Model (3 minute read)",
+          "url": "https://runway.com/news/company-news/praxis-1-is-now-available",
+          "publishedAt": "2026-11-12T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Escaping SPACE: Part II (28 minute read)",
+          "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
+          "publishedAt": "2026-11-12T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "MCP vs CLI vs Skills: What Each Costs in Context (11 minute read)",
+          "url": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills",
+          "publishedAt": "2026-11-12T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "LLMs can learn some multi-step reasoning on filler tokens instead of visible CoT (9 minute read)",
+          "url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2",
+          "publishedAt": "2026-11-12T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
           "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition",
           "publishedAt": "2026-11-12T13:26:25+00:00",
@@ -362,12 +404,6 @@
           "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
           "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
           "publishedAt": "2026-11-12T03:13:10+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "The unfolding Jensen Huang scandal: a timeline",
-          "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
-          "publishedAt": "2026-11-11T23:50:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -389,42 +425,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Gemini 4 Carbon is now available (12 minute read)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Suppressing Reward Hacking Through Model Weight Arithmetic (3 minute read)",
-          "url": "https://x.com/KunhaoZ/status/2120172863734849903",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Why Instinct Feels Like a Personal Assistant (20 minute read)",
-          "url": "https://x.com/nizzyabi/status/2120194267066863738",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Neurons as an Interpretable Basis (15 minute read)",
-          "url": "https://www.goodfire.com/research/neurons-as-an-interpretable-basis",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Swarm (/swarm) (10 minute read)",
-          "url": "https://antigravity.google/docs/swarm",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Meta Releases Faster K-Means Alternative (GitHub Repo)",
-          "url": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
           "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
           "publishedAt": "2026-11-10T10:00:00+00:00",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-12T14:00:34+00:00",
+      "updatedAt": "2026-11-12T15:00:35+00:00",
       "stories": [
         {
           "title": "Viam Launchpad aims to accelerate robotics deployments",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-12T14:00:34+00:00",
+    "updatedAt": "2026-11-12T15:00:35+00:00",
     "stories": [
       {
         "title": "Jensen Huang’s job in doubt after second affair report",
@@ -561,10 +561,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
-        "url": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general",
-        "publishedAt": "2026-11-12T00:00:18+00:00",
-        "source": "SpaceNews",
+        "title": "The 'eclipse of the century' will plunge these 8 wonders of the Roman Empire into darkness on Aug. 2, 2027",
+        "url": "https://www.space.com/stargazing/solar-eclipses/the-eclipse-of-the-century-will-plunge-these-8-wonders-of-the-roman-empire-into-darkness-on-aug-2-2027",
+        "publishedAt": "2026-11-12T14:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Rethinking the pipeline for critical defense electronics",
-        "url": "https://breakingdefense.com/2026/11/rethinking-the-pipeline-for-critical-defense-electronics",
-        "publishedAt": "2026-11-12T13:39:00+00:00",
+        "title": "NATO nations have a missile crisis. How did it happen, and can it be fixed?",
+        "url": "https://breakingdefense.com/2026/11/nato-nations-have-a-missile-crisis-how-did-it-happen-and-can-it-be-fixed",
+        "publishedAt": "2026-11-12T14:04:58+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -597,6 +597,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Rethinking the pipeline for critical defense electronics",
+        "url": "https://breakingdefense.com/2026/11/rethinking-the-pipeline-for-critical-defense-electronics",
+        "publishedAt": "2026-11-12T13:39:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Runway’s Praxis-1 world action model for robotics is now available",
         "url": "https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available",
         "publishedAt": "2026-11-12T13:18:47+00:00",
@@ -606,18 +615,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Astronomers stunned after James Webb Space Telescope discovers the earliest pair of black hole-powered quasars",
-        "url": "https://www.space.com/astronomy/black-holes/astronomers-stunned-after-james-webb-space-telescope-discovers-the-earliest-pair-of-black-hole-powered-quasars",
-        "publishedAt": "2026-11-12T13:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-        "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition",
-        "publishedAt": "2026-11-12T13:26:25+00:00",
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+        "publishedAt": "2026-11-12T14:30:01+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
