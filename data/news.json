@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T01:00:35+00:00",
+  "generatedAt": "2026-11-12T02:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-12T01:00:35+00:00",
+      "updatedAt": "2026-11-12T02:00:30+00:00",
       "stories": [
         {
           "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
@@ -23,6 +23,12 @@
           "url": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push",
           "publishedAt": "2026-11-11T13:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
+          "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips",
+          "publishedAt": "2026-11-12T00:41:35+00:00",
+          "source": "NASA"
         },
         {
           "title": "NASA kick-starts a fresh push to bring Mars samples home",
@@ -79,12 +85,6 @@
           "source": "NASA"
         },
         {
-          "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-          "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston",
-          "publishedAt": "2026-11-10T18:06:33+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
           "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth",
           "publishedAt": "2026-11-09T14:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-12T01:00:35+00:00",
+      "updatedAt": "2026-11-12T02:00:30+00:00",
       "stories": [
         {
           "title": "Rocket Lab Q3 2026: Neutron orders pile up before first flight",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-12T01:00:35+00:00",
+      "updatedAt": "2026-11-12T02:00:30+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-12T01:00:35+00:00",
+      "updatedAt": "2026-11-12T02:00:30+00:00",
       "stories": [
         {
           "title": "DoD pushes out 3 loans totaling $450M to bolster US space companies",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-12T01:00:35+00:00",
+      "updatedAt": "2026-11-12T02:00:30+00:00",
       "stories": [
         {
           "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -377,40 +377,22 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Gemini 4 Carbon is now available (12 minute read)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Why the data center you dread might never even be built",
+          "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built",
+          "publishedAt": "2026-11-11T20:15:15+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Suppressing Reward Hacking Through Model Weight Arithmetic (3 minute read)",
-          "url": "https://x.com/KunhaoZ/status/2120172863734849903",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Meta is losing its longtime head of infrastructure",
+          "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure",
+          "publishedAt": "2026-11-11T20:12:01+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Why Instinct Feels Like a Personal Assistant (20 minute read)",
-          "url": "https://x.com/nizzyabi/status/2120194267066863738",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Neurons as an Interpretable Basis (15 minute read)",
-          "url": "https://www.goodfire.com/research/neurons-as-an-interpretable-basis",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Swarm (/swarm) (10 minute read)",
-          "url": "https://antigravity.google/docs/swarm",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Meta Releases Faster K-Means Alternative (GitHub Repo)",
-          "url": "https://github.com/facebookresearch/faiss/tree/main/contrib/e_means",
-          "publishedAt": "2026-11-11T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+          "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave",
+          "publishedAt": "2026-11-11T20:02:14+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
@@ -429,13 +411,31 @@
           "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx",
           "publishedAt": "2026-11-10T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Jensen Huang admits affair as Nvidia probes spy claims",
+          "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+          "publishedAt": "2026-11-09T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic’s Claude ‘dreams’ to fix its own memory",
+          "url": "https://www.anthropic.com/research/components-of-agent-memory",
+          "publishedAt": "2026-11-09T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "METR’s inside look at Anthropic’s AI speedup",
+          "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment",
+          "publishedAt": "2026-11-06T11:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-12T01:00:35+00:00",
+      "updatedAt": "2026-11-12T02:00:30+00:00",
       "stories": [
         {
           "title": "Serve Robotics opens robot delivery network for others to build on",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-12T01:00:35+00:00",
+    "updatedAt": "2026-11-12T02:00:30+00:00",
     "stories": [
       {
         "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -737,6 +737,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-22"
   ]
 }
