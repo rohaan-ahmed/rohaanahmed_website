@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T16:12:43+00:00",
+  "generatedAt": "2026-11-12T17:00:36+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-12T16:12:43+00:00",
+      "updatedAt": "2026-11-12T17:00:36+00:00",
       "stories": [
         {
           "title": "The replicants are running the city in thrilling final trailer for ‘Blade Runner 2099’ (video)",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-12T16:12:43+00:00",
+      "updatedAt": "2026-11-12T17:00:36+00:00",
       "stories": [
+        {
+          "title": "Senior is not a skill level: Rethinking startup hiring",
+          "url": "https://spaceq.ca/senior-is-not-a-skill-level-rethinking-startup-hiring",
+          "publishedAt": "2026-11-12T16:55:04+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Amateur radio contact between CSA astronaut Joshua Kutryk and students in Halifax",
           "url": "https://www.canada.ca/en/space-agency/news/2026/11/amateur-radio-contact-between-csa-astronaut-joshua-kutryk-and-students-in-halifax.html",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "20 Canadian space companies head to Space Tech Expo Europe",
-          "url": "https://spaceq.ca/canadian-space-companies-space-tech-expo-europe-2026",
-          "publishedAt": "2026-11-06T17:15:17+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Minister Thompson to participate in Newfoundland space-to-Earth event with CSA astronaut Joshua Kutryk",
           "url": "https://www.canada.ca/en/space-agency/news/2026/11/minister-thompson-to-participate-in-newfoundland-space-to-earth-event-with-csa-astronaut-joshua-kutryk.html",
           "publishedAt": "2026-11-06T19:33:58+00:00",
@@ -192,7 +192,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-12T16:12:43+00:00",
+      "updatedAt": "2026-11-12T17:00:36+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -247,8 +247,26 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-12T16:12:43+00:00",
+      "updatedAt": "2026-11-12T17:00:36+00:00",
       "stories": [
+        {
+          "title": "Cry ‘drone,’ and let slip the fruit flies of war",
+          "url": "https://breakingdefense.com/2026/11/cry-drone-and-let-slip-the-fruit-flies-of-war",
+          "publishedAt": "2026-11-12T16:29:34+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Germany, Poland tap SATIM to analyze military satellite imagery",
+          "url": "https://www.defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery",
+          "publishedAt": "2026-11-12T16:58:38+00:00",
+          "source": "Defense News"
+        },
+        {
+          "title": "3 Iranian-backed men indicted in attempted plot on RAF Fairford",
+          "url": "https://www.defensenews.com/global/europe/2026/11/12/3-iranian-backed-men-indicted-in-attempted-plot-on-raf-fairford",
+          "publishedAt": "2026-11-12T16:46:06+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Finland says it detects strike on Russian warship in Baltic Sea",
           "url": "https://www.defensenews.com/global/europe/2026/11/12/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea",
@@ -286,27 +304,9 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "EU sets out $3.4B defense budget for 2027, boosts Ukraine spending",
-          "url": "https://breakingdefense.com/2026/11/eu-sets-out-3-4b-defense-budget-for-2027-boosts-ukraine-spending",
-          "publishedAt": "2026-11-11T18:22:56+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Inside Warhound’s plan to engineer a better military working dog",
           "url": "https://www.defensenews.com/industry/techwatch/2026/11/11/inside-warhounds-plan-to-engineer-a-better-military-working-dog",
           "publishedAt": "2026-11-11T15:00:00+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "Romanian servers targeted by Russian hackers to scoop up emails about NATO, EU",
-          "url": "https://www.defensenews.com/global/europe/2026/11/11/romanian-servers-targeted-by-russian-hackers-to-scoop-up-emails-about-nato-eu",
-          "publishedAt": "2026-11-11T12:08:33+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "House Republicans sidestep effort to impeach Hegseth",
-          "url": "https://www.defensenews.com/congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth",
-          "publishedAt": "2026-11-10T23:31:53+00:00",
           "source": "Defense News"
         },
         {
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-12T16:12:43+00:00",
+      "updatedAt": "2026-11-12T17:00:36+00:00",
       "stories": [
         {
           "title": "Jensen Huang’s job in doubt after second affair report",
@@ -357,6 +357,24 @@
           "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
           "publishedAt": "2026-11-12T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Jensen Huang agrees to testify before Congress",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress",
+          "publishedAt": "2026-11-12T16:36:37+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+          "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry",
+          "publishedAt": "2026-11-12T16:32:33+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+          "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor",
+          "publishedAt": "2026-11-12T16:12:44+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
@@ -374,24 +392,6 @@
           "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
           "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts",
           "publishedAt": "2026-11-12T15:02:28+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "The unfolding Jensen Huang scandal: a timeline",
-          "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
-          "publishedAt": "2026-11-12T14:30:01+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-          "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition",
-          "publishedAt": "2026-11-12T13:26:25+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-          "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
-          "publishedAt": "2026-11-12T03:13:10+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-12T16:12:43+00:00",
+      "updatedAt": "2026-11-12T17:00:36+00:00",
       "stories": [
         {
           "title": "Viam Launchpad aims to accelerate robotics deployments",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-12T16:12:43+00:00",
+    "updatedAt": "2026-11-12T17:00:36+00:00",
     "stories": [
       {
         "title": "Jensen Huang’s job in doubt after second affair report",
@@ -558,10 +558,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Amateur radio contact between CSA astronaut Joshua Kutryk and students in Halifax",
-        "url": "https://www.canada.ca/en/space-agency/news/2026/11/amateur-radio-contact-between-csa-astronaut-joshua-kutryk-and-students-in-halifax.html",
-        "publishedAt": "2026-11-12T15:09:07+00:00",
-        "source": "Canadian Space Agency",
+        "title": "Senior is not a skill level: Rethinking startup hiring",
+        "url": "https://spaceq.ca/senior-is-not-a-skill-level-rethinking-startup-hiring",
+        "publishedAt": "2026-11-12T16:55:04+00:00",
+        "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
         "bulletinRole": "lead"
@@ -585,10 +585,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Finland says it detects strike on Russian warship in Baltic Sea",
-        "url": "https://www.defensenews.com/global/europe/2026/11/12/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea",
-        "publishedAt": "2026-11-12T15:06:31+00:00",
-        "source": "Defense News",
+        "title": "Cry ‘drone,’ and let slip the fruit flies of war",
+        "url": "https://breakingdefense.com/2026/11/cry-drone-and-let-slip-the-fruit-flies-of-war",
+        "publishedAt": "2026-11-12T16:29:34+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -603,30 +603,30 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NATO nations have a missile crisis. How did it happen, and can it be fixed?",
-        "url": "https://breakingdefense.com/2026/11/nato-nations-have-a-missile-crisis-how-did-it-happen-and-can-it-be-fixed",
-        "publishedAt": "2026-11-12T14:04:58+00:00",
-        "source": "Breaking Defense",
+        "title": "Germany, Poland tap SATIM to analyze military satellite imagery",
+        "url": "https://www.defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery",
+        "publishedAt": "2026-11-12T16:58:38+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Rethinking the pipeline for critical defense electronics",
-        "url": "https://breakingdefense.com/2026/11/rethinking-the-pipeline-for-critical-defense-electronics",
-        "publishedAt": "2026-11-12T13:39:00+00:00",
-        "source": "Breaking Defense",
+        "title": "3 Iranian-backed men indicted in attempted plot on RAF Fairford",
+        "url": "https://www.defensenews.com/global/europe/2026/11/12/3-iranian-backed-men-indicted-in-attempted-plot-on-raf-fairford",
+        "publishedAt": "2026-11-12T16:46:06+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Runway’s Praxis-1 world action model for robotics is now available",
-        "url": "https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available",
-        "publishedAt": "2026-11-12T13:18:47+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
+        "title": "Finland says it detects strike on Russian warship in Baltic Sea",
+        "url": "https://www.defensenews.com/global/europe/2026/11/12/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea",
+        "publishedAt": "2026-11-12T15:06:31+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -744,6 +744,6 @@
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
     "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-04"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-30"
   ]
 }
