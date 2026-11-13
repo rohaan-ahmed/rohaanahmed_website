@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-13T17:39:02+00:00",
+  "generatedAt": "2026-11-13T18:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-13T17:39:02+00:00",
+      "updatedAt": "2026-11-13T18:00:33+00:00",
       "stories": [
+        {
+          "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
+          "url": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member",
+          "publishedAt": "2026-11-13T18:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star",
           "url": "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star",
@@ -89,19 +95,13 @@
           "url": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push",
           "publishedAt": "2026-11-11T13:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
-          "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions",
-          "publishedAt": "2026-11-10T14:00:00+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-13T17:39:02+00:00",
+      "updatedAt": "2026-11-13T18:00:33+00:00",
       "stories": [
         {
           "title": "Obruta Space Solutions signs testing deal with Northern Ireland’s Resonate",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-13T17:39:02+00:00",
+      "updatedAt": "2026-11-13T18:00:33+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -229,8 +229,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-13T17:39:02+00:00",
+      "updatedAt": "2026-11-13T18:00:33+00:00",
       "stories": [
+        {
+          "title": "Inside MSI’s Next Generation of Counter-Drone Defense",
+          "url": "https://www.defensenews.com/video/2026/11/13/inside-msis-next-generation-of-counter-drone-defense",
+          "publishedAt": "2026-11-13T18:00:04+00:00",
+          "source": "Defense News"
+        },
+        {
+          "title": "Judges close part of ICC Afghanistan investigations that could look at US troops",
+          "url": "https://www.defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops",
+          "publishedAt": "2026-11-13T17:55:28+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’",
           "url": "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office",
@@ -280,18 +292,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Democrats push to remove US-Israel tech measure from defense bill",
-          "url": "https://www.defensenews.com/congress/2026/11/12/democrats-push-to-remove-us-israel-tech-measure-from-defense-bill",
-          "publishedAt": "2026-11-12T22:21:53+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "House passes bill to expand benefits for combat-injured veterans",
-          "url": "https://www.defensenews.com/news/2026/11/12/house-passes-bill-to-expand-benefits-for-combat-injured-veterans",
-          "publishedAt": "2026-11-12T22:09:31+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Army CID looking for new commercial software tools to monitor darknet, encrypted messaging platforms",
           "url": "https://defensescoop.com/2026/11/12/army-cid-software-darknet-encrypted-messaging",
           "publishedAt": "2026-11-12T22:46:27+00:00",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-13T17:39:02+00:00",
+      "updatedAt": "2026-11-13T18:00:33+00:00",
       "stories": [
         {
           "title": "Jensen Huang resigns as Nvidia’s CEO",
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-13T17:39:02+00:00",
+      "updatedAt": "2026-11-13T18:00:33+00:00",
       "stories": [
         {
           "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-13T17:39:02+00:00",
+    "updatedAt": "2026-11-13T18:00:33+00:00",
     "stories": [
       {
         "title": "Jensen Huang resigns as Nvidia’s CEO",
@@ -549,10 +549,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star",
-        "url": "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star",
-        "publishedAt": "2026-11-13T17:00:00+00:00",
-        "source": "Space.com",
+        "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
+        "url": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member",
+        "publishedAt": "2026-11-13T18:00:00+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -567,10 +567,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’",
-        "url": "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office",
-        "publishedAt": "2026-11-13T17:00:00+00:00",
-        "source": "Breaking Defense",
+        "title": "Inside MSI’s Next Generation of Counter-Drone Defense",
+        "url": "https://www.defensenews.com/video/2026/11/13/inside-msis-next-generation-of-counter-drone-defense",
+        "publishedAt": "2026-11-13T18:00:04+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -594,18 +594,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Italy boosts GCAP fighter spending as Army vehicles take a hit in budget",
-        "url": "https://www.defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget",
-        "publishedAt": "2026-11-13T17:04:55+00:00",
+        "title": "Judges close part of ICC Afghanistan investigations that could look at US troops",
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops",
+        "publishedAt": "2026-11-13T17:55:28+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Hermeus recruits Northrop Grumman to Quarterhorse drone program",
-        "url": "https://breakingdefense.com/2026/11/hermeus-recruits-northrop-grumman-to-quarterhorse-drone-program",
-        "publishedAt": "2026-11-13T16:05:00+00:00",
+        "title": "Pentagon rebrands principle AI shop as ‘Super Intelligence Office’",
+        "url": "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office",
+        "publishedAt": "2026-11-13T17:00:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
