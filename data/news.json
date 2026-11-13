@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-11-13T19:00:30+00:00",
+  "generatedAt": "2026-11-13T20:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-13T19:00:30+00:00",
+      "updatedAt": "2026-11-13T20:00:33+00:00",
       "stories": [
         {
           "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
           "url": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member",
           "publishedAt": "2026-11-13T18:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "California's brand-new Air & Space Center, home of the space shuttle Endeavour, opens today",
+          "url": "https://www.space.com/space-exploration/californias-brand-new-air-and-space-center-home-of-the-space-shuttle-endeavour-opens-today",
+          "publishedAt": "2026-11-13T19:30:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "Think you have good eyesight? Try counting the stars in the Pleiades tonight",
+          "url": "https://www.space.com/stargazing/think-you-have-good-eyesight-try-counting-the-stars-in-the-pleiades-tonight",
+          "publishedAt": "2026-11-13T19:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "'Martian Isolation' is an upcoming sci-fi survival horror game that looks like 'The Martian' and 'Event Horizon' had a horrific child",
@@ -25,12 +37,6 @@
           "source": "Space.com"
         },
         {
-          "title": "Netflix’s ‘Ray Gunn’ gets 2nd trailer, and we're hyped for this animated sci-fi noir from ‘Incredibles’ director Brad Bird",
-          "url": "https://www.space.com/entertainment/space-movies-shows/netflixs-ray-gunn-gets-2nd-trailer-and-were-hyped-for-this-animated-sci-fi-noir-from-incredibles-director-brad-bird",
-          "publishedAt": "2026-11-13T16:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Outbursts from a Massive Star",
           "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star",
           "publishedAt": "2026-11-13T16:39:33+00:00",
@@ -41,12 +47,6 @@
           "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program",
           "publishedAt": "2026-11-13T16:05:54+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "I saw Saturn’s rings in seconds with the Celestron StarSense Explorer 150mm Tabletop Dobsonian telescope — full review",
-          "url": "https://www.space.com/stargazing/skywatching-kit/i-saw-saturns-rings-in-seconds-with-the-celestron-starsense-explorer-150mm-tabletop-dobsonian-telescope-full-review",
-          "publishedAt": "2026-11-13T15:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "AST SpaceMobile presses case for developing own launch vehicle",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-13T19:00:30+00:00",
+      "updatedAt": "2026-11-13T20:00:33+00:00",
       "stories": [
         {
           "title": "Obruta Space Solutions signs testing deal with Northern Ireland’s Resonate",
@@ -186,8 +186,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-13T19:00:30+00:00",
+      "updatedAt": "2026-11-13T20:00:33+00:00",
       "stories": [
+        {
+          "title": "Minister McGuinty to attend Ukraine Defence Contact Group meeting in Brussels",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-to-attend-ukraine-defence-contact-group-meeting-in-brussels.html",
+          "publishedAt": "2026-11-13T19:16:37+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/royal-canadian-air-force-to-conduct-flypasts-for-remembrance-day-commemorations.html",
@@ -229,8 +235,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-13T19:00:30+00:00",
+      "updatedAt": "2026-11-13T20:00:33+00:00",
       "stories": [
+        {
+          "title": "Inside MSI’s Next Generation of Counter-Drone Defense",
+          "url": "https://www.defensenews.com/video/2026/11/13/inside-msis-next-generation-of-counter-drone-defense",
+          "publishedAt": "2026-11-13T19:16:42+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "US Air Force adopts new Force Design focusing on sensors and autonomy",
           "url": "https://www.defensenews.com/air/2026/11/13/us-air-force-adopts-new-force-design-focusing-on-sensors-and-autonomy",
@@ -241,12 +253,6 @@
           "title": "Drones incoming! New innovations on offer in UAS tech | Defense News Weekly Full Episode 11.10.26",
           "url": "https://www.defensenews.com/video/2026/11/13/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26",
           "publishedAt": "2026-11-13T18:14:51+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "Inside MSI’s Next Generation of Counter-Drone Defense",
-          "url": "https://www.defensenews.com/video/2026/11/13/inside-msis-next-generation-of-counter-drone-defense",
-          "publishedAt": "2026-11-13T18:00:04+00:00",
           "source": "Defense News"
         },
         {
@@ -278,6 +284,12 @@
           "url": "https://breakingdefense.com/2026/11/gadi-eisenkot-could-be-israels-next-leader-his-military-experience-will-drive-his-approach",
           "publishedAt": "2026-11-13T15:30:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Air Force validates B-21 Raider weapons release after test",
+          "url": "https://defensescoop.com/2026/11/13/air-force-b-21-raider-weapons-release-test",
+          "publishedAt": "2026-11-13T18:58:15+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "UK to buy three new mine-hunting drone motherships under Norway agreement",
@@ -314,19 +326,13 @@
           "url": "https://defensescoop.com/2026/11/10/defense-ai-orchestration-harness",
           "publishedAt": "2026-11-10T20:30:00+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Air Force wants AI for cislunar space vehicles",
-          "url": "https://defensescoop.com/2026/11/10/air-force-wants-ai-for-cislunar-space-vehicles",
-          "publishedAt": "2026-11-10T19:45:37+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-13T19:00:30+00:00",
+      "updatedAt": "2026-11-13T20:00:33+00:00",
       "stories": [
         {
           "title": "Jensen Huang resigns as Nvidia’s CEO",
@@ -347,7 +353,7 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
           "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
           "publishedAt": "2026-11-13T18:40:30+00:00",
           "source": "TechCrunch AI"
@@ -365,40 +371,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Gemini 4 Hydrogen (14 minute read)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen",
-          "publishedAt": "2026-11-13T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+          "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+          "publishedAt": "2026-11-13T14:44:48+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Operate Claude Managed Agents inside your security perimeter (4 minute read)",
-          "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
-          "publishedAt": "2026-11-13T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+          "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil",
+          "publishedAt": "2026-11-13T12:52:19+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Replit Agent can now buy for your business and help you reach customers (5 minute read)",
-          "url": "https://replit.com/blog/replit-agent-ads-commerce",
-          "publishedAt": "2026-11-13T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Top Chinese Frontier AI Models Carry the Fingerprint of Export-Controlled NVIDIA Blackwell GPUs (37 minute read)",
-          "url": "https://unemploymentlabs.com/checkpoint-forensics",
-          "publishedAt": "2026-11-13T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Eliminating Nondeterminism in LLM Inference with Integer-Only Arithmetic (15 minute read)",
-          "url": "https://nathan.rs/posts/detllm",
-          "publishedAt": "2026-11-13T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How Agent Anomaly Detection scores on benchmarks we didn't write (8 minute read)",
-          "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write",
-          "publishedAt": "2026-11-13T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Jensen Huang didn’t show confidence in his successor, report says",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says",
+          "publishedAt": "2026-11-13T12:28:23+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Jensen Huang’s job in doubt after second affair report",
@@ -417,13 +405,31 @@
           "url": "https://openai.com/index/introducing-businesses-chatgpt",
           "publishedAt": "2026-11-11T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic stretches Claude across the office",
+          "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+          "publishedAt": "2026-11-11T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "‘AI 2027’ authors move up their timelines",
+          "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
+          "publishedAt": "2026-11-11T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "publishedAt": "2026-11-10T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-13T19:00:30+00:00",
+      "updatedAt": "2026-11-13T20:00:33+00:00",
       "stories": [
         {
           "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
@@ -519,7 +525,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-13T19:00:30+00:00",
+    "updatedAt": "2026-11-13T20:00:33+00:00",
     "stories": [
       {
         "title": "Jensen Huang resigns as Nvidia’s CEO",
@@ -558,18 +564,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/royal-canadian-air-force-to-conduct-flypasts-for-remembrance-day-commemorations.html",
-        "publishedAt": "2026-11-10T15:46:29+00:00",
+        "title": "Minister McGuinty to attend Ukraine Defence Contact Group meeting in Brussels",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-to-attend-ukraine-defence-contact-group-meeting-in-brussels.html",
+        "publishedAt": "2026-11-13T19:16:37+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
         "bulletinRole": "lead"
       },
       {
-        "title": "US Air Force adopts new Force Design focusing on sensors and autonomy",
-        "url": "https://www.defensenews.com/air/2026/11/13/us-air-force-adopts-new-force-design-focusing-on-sensors-and-autonomy",
-        "publishedAt": "2026-11-13T18:43:45+00:00",
+        "title": "Inside MSI’s Next Generation of Counter-Drone Defense",
+        "url": "https://www.defensenews.com/video/2026/11/13/inside-msis-next-generation-of-counter-drone-defense",
+        "publishedAt": "2026-11-13T19:16:42+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -594,18 +600,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Drones incoming! New innovations on offer in UAS tech | Defense News Weekly Full Episode 11.10.26",
-        "url": "https://www.defensenews.com/video/2026/11/13/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26",
-        "publishedAt": "2026-11-13T18:14:51+00:00",
+        "title": "US Air Force adopts new Force Design focusing on sensors and autonomy",
+        "url": "https://www.defensenews.com/air/2026/11/13/us-air-force-adopts-new-force-design-focusing-on-sensors-and-autonomy",
+        "publishedAt": "2026-11-13T18:43:45+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Inside MSI’s Next Generation of Counter-Drone Defense",
-        "url": "https://www.defensenews.com/video/2026/11/13/inside-msis-next-generation-of-counter-drone-defense",
-        "publishedAt": "2026-11-13T18:00:04+00:00",
+        "title": "Drones incoming! New innovations on offer in UAS tech | Defense News Weekly Full Episode 11.10.26",
+        "url": "https://www.defensenews.com/video/2026/11/13/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26",
+        "publishedAt": "2026-11-13T18:14:51+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -725,6 +731,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-27"
   ]
 }
