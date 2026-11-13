@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-13T01:00:32+00:00",
+  "generatedAt": "2026-11-13T02:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-13T01:00:32+00:00",
+      "updatedAt": "2026-11-13T02:00:32+00:00",
       "stories": [
+        {
+          "title": "AST SpaceMobile presses case for developing own launch vehicle",
+          "url": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle",
+          "publishedAt": "2026-11-13T01:15:21+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
           "url": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology",
@@ -89,19 +95,13 @@
           "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions",
           "publishedAt": "2026-11-10T14:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "ESCAPADE on its way to Mars after Earth flybys",
-          "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys",
-          "publishedAt": "2026-11-10T08:01:39+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-13T01:00:32+00:00",
+      "updatedAt": "2026-11-13T02:00:32+00:00",
       "stories": [
         {
           "title": "DND Departmental Results Report shows space gains and a delay",
@@ -192,7 +192,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-13T01:00:32+00:00",
+      "updatedAt": "2026-11-13T02:00:32+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-13T01:00:32+00:00",
+      "updatedAt": "2026-11-13T02:00:32+00:00",
       "stories": [
         {
           "title": "Hegseth seeks to elevate top SOF civilian to service-secretary equivalent",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-13T01:00:32+00:00",
+      "updatedAt": "2026-11-13T02:00:32+00:00",
       "stories": [
         {
           "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-13T01:00:32+00:00",
+      "updatedAt": "2026-11-13T02:00:32+00:00",
       "stories": [
         {
           "title": "NVIDIA replaces CEO amid China AI and robotics concerns",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-13T01:00:32+00:00",
+    "updatedAt": "2026-11-13T02:00:32+00:00",
     "stories": [
       {
         "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
-        "url": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology",
-        "publishedAt": "2026-11-12T20:00:00+00:00",
+        "title": "AST SpaceMobile presses case for developing own launch vehicle",
+        "url": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle",
+        "publishedAt": "2026-11-13T01:15:21+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -597,6 +597,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
+        "url": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology",
+        "publishedAt": "2026-11-12T20:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "What role does industry play in Europe’s space sovereignty push?",
         "url": "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push",
         "publishedAt": "2026-11-12T19:40:35+00:00",
@@ -609,15 +618,6 @@
         "title": "Sarah McLean named Maritime Launch chief operating officer",
         "url": "https://spaceq.ca/sarah-mclean-maritime-launch-chief-operating-officer",
         "publishedAt": "2026-11-12T17:19:52+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Senior is not a skill level: Rethinking startup hiring",
-        "url": "https://spaceq.ca/senior-is-not-a-skill-level-rethinking-startup-hiring",
-        "publishedAt": "2026-11-12T16:55:04+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
