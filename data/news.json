@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T14:00:32+00:00",
+  "generatedAt": "2026-11-13T15:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-13T14:00:32+00:00",
+      "updatedAt": "2026-11-13T15:00:34+00:00",
       "stories": [
         {
           "title": "AST SpaceMobile presses case for developing own launch vehicle",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-13T14:00:32+00:00",
+      "updatedAt": "2026-11-13T15:00:34+00:00",
       "stories": [
         {
           "title": "DND Departmental Results Report shows space gains and a delay",
@@ -192,7 +192,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-13T14:00:32+00:00",
+      "updatedAt": "2026-11-13T15:00:34+00:00",
       "stories": [
         {
           "title": "Royal Canadian Air Force to conduct flypasts for Remembrance Day commemorations",
@@ -241,8 +241,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-13T14:00:32+00:00",
+      "updatedAt": "2026-11-13T15:00:34+00:00",
       "stories": [
+        {
+          "title": "UK to buy three new mine-hunting drone motherships under Norway agreement",
+          "url": "https://breakingdefense.com/2026/11/uk-to-buy-three-new-mine-hunting-drone-motherships-under-norway-agreement",
+          "publishedAt": "2026-11-13T14:16:31+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Turkey and Egypt weigh joint naval shipbuilding projects",
+          "url": "https://www.defensenews.com/global/mideast-africa/2026/11/13/turkey-and-egypt-weigh-joint-naval-shipbuilding-projects",
+          "publishedAt": "2026-11-13T14:22:17+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Hegseth seeks to elevate top SOF civilian to service-secretary equivalent",
           "url": "https://breakingdefense.com/2026/11/hegseth-seeks-to-elevate-top-sof-civilian-to-service-secretary-equivalent",
@@ -286,12 +298,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Air Force unveils T-19A, a new aerobatic plane to train future pilots",
-          "url": "https://breakingdefense.com/2026/11/air-force-debuts-new-t-19a-aerobatic-plane",
-          "publishedAt": "2026-11-12T20:00:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Army CID looking for new commercial software tools to monitor darknet, encrypted messaging platforms",
           "url": "https://defensescoop.com/2026/11/12/army-cid-software-darknet-encrypted-messaging",
           "publishedAt": "2026-11-12T22:46:27+00:00",
@@ -308,12 +314,6 @@
           "url": "https://defensescoop.com/2026/11/12/counter-drone-task-force-intelligence-community-threat-assessments",
           "publishedAt": "2026-11-12T22:15:02+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Germany, Poland tap SATIM to analyze military satellite imagery",
-          "url": "https://www.defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery",
-          "publishedAt": "2026-11-12T16:58:38+00:00",
-          "source": "Defense News"
         },
         {
           "title": "Hegseth issues ‘corrected copy’ of recently unveiled counter-drone guidance",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-13T14:00:32+00:00",
+      "updatedAt": "2026-11-13T15:00:34+00:00",
       "stories": [
         {
           "title": "Jensen Huang resigns as Nvidia’s CEO",
@@ -359,6 +359,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+          "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+          "publishedAt": "2026-11-13T14:44:48+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
           "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil",
           "publishedAt": "2026-11-13T12:52:19+00:00",
@@ -377,6 +383,12 @@
           "source": "TechCrunch AI"
         },
         {
+          "title": "Muse can now place calls to US businesses — if you pay",
+          "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
+          "publishedAt": "2026-11-12T22:22:28+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Jensen Huang’s job in doubt after second affair report",
           "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
           "publishedAt": "2026-11-12T10:00:00+00:00",
@@ -389,45 +401,33 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Gemini Decisions API: Fast, calibrated multimodal decisions (1 minute read)",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-          "publishedAt": "2026-11-12T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "What's new in Grok Bot 1.0 (11 minute read)",
-          "url": "https://flaviocopes.com/grok-bot-1-0",
-          "publishedAt": "2026-11-12T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Runway Praxis-1 Is Now Available: Open-Weight Robotics Model (3 minute read)",
-          "url": "https://runway.com/news/company-news/praxis-1-is-now-available",
-          "publishedAt": "2026-11-12T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Escaping SPACE: Part II (28 minute read)",
-          "url": "https://www.perplexity.ai/hub/blog/escaping-space-part-ii",
-          "publishedAt": "2026-11-12T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "MCP vs CLI vs Skills: What Each Costs in Context (11 minute read)",
-          "url": "https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills",
-          "publishedAt": "2026-11-12T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "LLMs can learn some multi-step reasoning on filler tokens instead of visible CoT (9 minute read)",
-          "url": "https://www.lesswrong.com/posts/EHkwCDAmhWPAWEziM/llms-can-learn-some-multi-step-reasoning-on-filler-tokens-2",
-          "publishedAt": "2026-11-12T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "The unfolding Jensen Huang scandal: a timeline",
+          "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+          "publishedAt": "2026-11-12T21:35:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI invites brands to set up shop in ChatGPT",
           "url": "https://openai.com/index/introducing-businesses-chatgpt",
           "publishedAt": "2026-11-11T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic stretches Claude across the office",
+          "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+          "publishedAt": "2026-11-11T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "‘AI 2027’ authors move up their timelines",
+          "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
+          "publishedAt": "2026-11-11T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "publishedAt": "2026-11-10T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-13T14:00:32+00:00",
+      "updatedAt": "2026-11-13T15:00:34+00:00",
       "stories": [
         {
           "title": "How Rhoda AI is using video data to create generalized AI models for robots",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-13T14:00:32+00:00",
+    "updatedAt": "2026-11-13T15:00:34+00:00",
     "stories": [
       {
         "title": "Jensen Huang resigns as Nvidia’s CEO",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Hegseth seeks to elevate top SOF civilian to service-secretary equivalent",
-        "url": "https://breakingdefense.com/2026/11/hegseth-seeks-to-elevate-top-sof-civilian-to-service-secretary-equivalent",
-        "publishedAt": "2026-11-12T21:39:19+00:00",
+        "title": "UK to buy three new mine-hunting drone motherships under Norway agreement",
+        "url": "https://breakingdefense.com/2026/11/uk-to-buy-three-new-mine-hunting-drone-motherships-under-norway-agreement",
+        "publishedAt": "2026-11-13T14:16:31+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -606,18 +606,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex",
-        "publishedAt": "2026-11-13T13:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Turkey and Egypt weigh joint naval shipbuilding projects",
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/11/13/turkey-and-egypt-weigh-joint-naval-shipbuilding-projects",
+        "publishedAt": "2026-11-13T14:22:17+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-        "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil",
-        "publishedAt": "2026-11-13T12:52:19+00:00",
+        "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+        "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+        "publishedAt": "2026-11-13T14:44:48+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -737,6 +737,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-02"
   ]
 }
