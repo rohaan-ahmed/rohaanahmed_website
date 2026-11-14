@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-14T15:00:32+00:00",
+  "generatedAt": "2026-11-14T16:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-14T15:00:32+00:00",
+      "updatedAt": "2026-11-14T16:00:31+00:00",
       "stories": [
+        {
+          "title": "'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs",
+          "url": "https://www.space.com/entertainment/space-games/alien-fireteam-elite-2-is-a-good-old-fashioned-bug-hunt-ironically-plagued-by-bugs",
+          "publishedAt": "2026-11-14T15:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "SpaceX says Starship Flight 15 booster aborted 'chopsticks' landing catch after launch due to guidance issue (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
@@ -22,12 +28,6 @@
           "title": "Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
           "publishedAt": "2026-11-14T13:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
-          "url": "https://www.space.com/stargazing/see-jupiter-and-mars-make-a-spectacular-close-approach-overnight-nov-15-16",
-          "publishedAt": "2026-11-14T11:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-14T15:00:32+00:00",
+      "updatedAt": "2026-11-14T16:00:31+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services Q3 2026: bigger rockets, fewer shares",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-14T15:00:32+00:00",
+      "updatedAt": "2026-11-14T16:00:31+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to attend Ukraine Defence Contact Group meeting in Brussels",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-14T15:00:32+00:00",
+      "updatedAt": "2026-11-14T16:00:31+00:00",
       "stories": [
         {
           "title": "Securing the Asia-Pacific digital battlespace: TechNet Indo-Pacific 2026",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-14T15:00:32+00:00",
+      "updatedAt": "2026-11-14T16:00:31+00:00",
       "stories": [
         {
           "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-14T15:00:32+00:00",
+      "updatedAt": "2026-11-14T16:00:31+00:00",
       "stories": [
         {
           "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-14T15:00:32+00:00",
+    "updatedAt": "2026-11-14T16:00:31+00:00",
     "stories": [
       {
         "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "SpaceX says Starship Flight 15 booster aborted 'chopsticks' landing catch after launch due to guidance issue (video)",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
-        "publishedAt": "2026-11-14T14:53:00+00:00",
+        "title": "'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs",
+        "url": "https://www.space.com/entertainment/space-games/alien-fireteam-elite-2-is-a-good-old-fashioned-bug-hunt-ironically-plagued-by-bugs",
+        "publishedAt": "2026-11-14T15:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -585,6 +585,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "SpaceX says Starship Flight 15 booster aborted 'chopsticks' landing catch after launch due to guidance issue (video)",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
+        "publishedAt": "2026-11-14T14:53:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "On this day in space! Nov. 14, 1969: NASA's Apollo 12 astronauts launch to the moon on a 'pinpoint landing' lunar mission",
         "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-14-2026",
         "publishedAt": "2026-11-14T14:51:27+00:00",
@@ -597,15 +606,6 @@
         "title": "Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)",
         "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
         "publishedAt": "2026-11-14T13:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
-        "url": "https://www.space.com/stargazing/see-jupiter-and-mars-make-a-spectacular-close-approach-overnight-nov-15-16",
-        "publishedAt": "2026-11-14T11:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
