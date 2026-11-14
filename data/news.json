@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-14T11:00:27+00:00",
+  "generatedAt": "2026-11-14T12:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-14T11:00:27+00:00",
+      "updatedAt": "2026-11-14T12:00:30+00:00",
       "stories": [
+        {
+          "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
+          "url": "https://www.space.com/stargazing/see-jupiter-and-mars-make-a-spectacular-close-approach-overnight-nov-15-16",
+          "publishedAt": "2026-11-14T11:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
           "url": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member",
@@ -28,12 +34,6 @@
           "title": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again?",
           "url": "https://www.space.com/stargazing/meteor-showers/60-years-ago-the-leonid-meteor-shower-produced-144-000-meteors-per-hour-could-it-happen-again",
           "publishedAt": "2026-11-13T21:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk",
-          "url": "https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk",
-          "publishedAt": "2026-11-13T20:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-14T11:00:27+00:00",
+      "updatedAt": "2026-11-14T12:00:30+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services Q3 2026: bigger rockets, fewer shares",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-14T11:00:27+00:00",
+      "updatedAt": "2026-11-14T12:00:30+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to attend Ukraine Defence Contact Group meeting in Brussels",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-14T11:00:27+00:00",
+      "updatedAt": "2026-11-14T12:00:30+00:00",
       "stories": [
         {
           "title": "Securing the Asia-Pacific digital battlespace: TechNet Indo-Pacific 2026",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-14T11:00:27+00:00",
+      "updatedAt": "2026-11-14T12:00:30+00:00",
       "stories": [
         {
           "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-14T11:00:27+00:00",
+      "updatedAt": "2026-11-14T12:00:30+00:00",
       "stories": [
         {
           "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-14T11:00:27+00:00",
+    "updatedAt": "2026-11-14T12:00:30+00:00",
     "stories": [
       {
         "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -549,10 +549,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
-        "url": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member",
-        "publishedAt": "2026-11-13T18:00:00+00:00",
-        "source": "SpaceNews",
+        "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
+        "url": "https://www.space.com/stargazing/see-jupiter-and-mars-make-a-spectacular-close-approach-overnight-nov-15-16",
+        "publishedAt": "2026-11-14T11:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -594,21 +594,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
+        "url": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member",
+        "publishedAt": "2026-11-13T18:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Obruta Space Solutions signs testing deal with Northern Ireland’s Resonate",
         "url": "https://spaceq.ca/obruta-space-solutions-resonate-testing-agreement",
         "publishedAt": "2026-11-13T16:26:02+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Senate appropriators resuscitate Commerce space tracking program",
-        "url": "https://breakingdefense.com/2026/11/senate-appropriators-resuscitate-commerce-space-tracking-program",
-        "publishedAt": "2026-11-13T21:29:36+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -724,8 +724,8 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-03"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-30"
   ]
 }
