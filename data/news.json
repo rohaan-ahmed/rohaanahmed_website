@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-14T14:00:29+00:00",
+  "generatedAt": "2026-11-14T15:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-14T14:00:29+00:00",
+      "updatedAt": "2026-11-14T15:00:32+00:00",
       "stories": [
+        {
+          "title": "SpaceX says Starship Flight 15 booster aborted 'chopsticks' landing catch after launch due to guidance issue (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
+          "publishedAt": "2026-11-14T14:53:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "On this day in space! Nov. 14, 1969: NASA's Apollo 12 astronauts launch to the moon on a 'pinpoint landing' lunar mission",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-14-2026",
+          "publishedAt": "2026-11-14T14:51:27+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
@@ -23,18 +35,6 @@
           "url": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member",
           "publishedAt": "2026-11-13T18:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
-          "publishedAt": "2026-11-13T23:20:03+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-13-2026",
-          "publishedAt": "2026-11-13T21:25:55+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Outbursts from a Massive Star",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-14T14:00:29+00:00",
+      "updatedAt": "2026-11-14T15:00:32+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services Q3 2026: bigger rockets, fewer shares",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-14T14:00:29+00:00",
+      "updatedAt": "2026-11-14T15:00:32+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to attend Ukraine Defence Contact Group meeting in Brussels",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-14T14:00:29+00:00",
+      "updatedAt": "2026-11-14T15:00:32+00:00",
       "stories": [
         {
           "title": "Securing the Asia-Pacific digital battlespace: TechNet Indo-Pacific 2026",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-14T14:00:29+00:00",
+      "updatedAt": "2026-11-14T15:00:32+00:00",
       "stories": [
         {
           "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -365,22 +365,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
-          "publishedAt": "2026-11-13T16:00:12+00:00",
-          "source": "TechCrunch AI"
+          "title": "Gemini 4 Hydrogen (14 minute read)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "The unfolding Jensen Huang scandal: a timeline",
-          "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
-          "publishedAt": "2026-11-13T15:58:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Operate Claude Managed Agents inside your security perimeter (4 minute read)",
+          "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-          "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
-          "publishedAt": "2026-11-13T14:44:48+00:00",
-          "source": "TechCrunch AI"
+          "title": "Replit Agent can now buy for your business and help you reach customers (5 minute read)",
+          "url": "https://replit.com/blog/replit-agent-ads-commerce",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Top Chinese Frontier AI Models Carry the Fingerprint of Export-Controlled NVIDIA Blackwell GPUs (37 minute read)",
+          "url": "https://unemploymentlabs.com/checkpoint-forensics",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Eliminating Nondeterminism in LLM Inference with Integer-Only Arithmetic (15 minute read)",
+          "url": "https://nathan.rs/posts/detllm",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How Agent Anomaly Detection scores on benchmarks we didn't write (8 minute read)",
+          "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Jensen Huang’s job in doubt after second affair report",
@@ -399,31 +417,13 @@
           "url": "https://openai.com/index/introducing-businesses-chatgpt",
           "publishedAt": "2026-11-11T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic stretches Claude across the office",
-          "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
-          "publishedAt": "2026-11-11T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "‘AI 2027’ authors move up their timelines",
-          "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
-          "publishedAt": "2026-11-11T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-          "publishedAt": "2026-11-10T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-14T14:00:29+00:00",
+      "updatedAt": "2026-11-14T15:00:32+00:00",
       "stories": [
         {
           "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-14T14:00:29+00:00",
+    "updatedAt": "2026-11-14T15:00:32+00:00",
     "stories": [
       {
         "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
-        "publishedAt": "2026-11-14T13:00:00+00:00",
+        "title": "SpaceX says Starship Flight 15 booster aborted 'chopsticks' landing catch after launch due to guidance issue (video)",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
+        "publishedAt": "2026-11-14T14:53:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -585,28 +585,28 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
-        "url": "https://www.space.com/stargazing/see-jupiter-and-mars-make-a-spectacular-close-approach-overnight-nov-15-16",
-        "publishedAt": "2026-11-14T11:00:00+00:00",
+        "title": "On this day in space! Nov. 14, 1969: NASA's Apollo 12 astronauts launch to the moon on a 'pinpoint landing' lunar mission",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-14-2026",
+        "publishedAt": "2026-11-14T14:51:27+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Canadian Space Agency reports spending hit record $1.16 billion",
-        "url": "https://spaceq.ca/canadian-space-agency-spending-2025-26",
-        "publishedAt": "2026-11-13T20:05:09+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
+        "title": "Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
+        "publishedAt": "2026-11-14T13:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
-        "url": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member",
-        "publishedAt": "2026-11-13T18:00:00+00:00",
-        "source": "SpaceNews",
+        "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
+        "url": "https://www.space.com/stargazing/see-jupiter-and-mars-make-a-spectacular-close-approach-overnight-nov-15-16",
+        "publishedAt": "2026-11-14T11:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -725,7 +725,6 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-03",
     "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
   ]
 }
