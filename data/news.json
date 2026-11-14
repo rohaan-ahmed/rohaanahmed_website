@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T08:00:33+00:00",
+  "generatedAt": "2026-11-14T09:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-14T08:00:33+00:00",
+      "updatedAt": "2026-11-14T09:00:31+00:00",
       "stories": [
         {
           "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-14T08:00:33+00:00",
+      "updatedAt": "2026-11-14T09:00:31+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services Q3 2026: bigger rockets, fewer shares",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-14T08:00:33+00:00",
+      "updatedAt": "2026-11-14T09:00:31+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to attend Ukraine Defence Contact Group meeting in Brussels",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-14T08:00:33+00:00",
+      "updatedAt": "2026-11-14T09:00:31+00:00",
       "stories": [
         {
           "title": "Securing the Asia-Pacific digital battlespace: TechNet Indo-Pacific 2026",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-14T08:00:33+00:00",
+      "updatedAt": "2026-11-14T09:00:31+00:00",
       "stories": [
         {
           "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -365,22 +365,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
-          "publishedAt": "2026-11-13T16:00:12+00:00",
-          "source": "TechCrunch AI"
+          "title": "Gemini 4 Hydrogen (14 minute read)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "The unfolding Jensen Huang scandal: a timeline",
-          "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
-          "publishedAt": "2026-11-13T15:58:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Operate Claude Managed Agents inside your security perimeter (4 minute read)",
+          "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-          "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
-          "publishedAt": "2026-11-13T14:44:48+00:00",
-          "source": "TechCrunch AI"
+          "title": "Replit Agent can now buy for your business and help you reach customers (5 minute read)",
+          "url": "https://replit.com/blog/replit-agent-ads-commerce",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Top Chinese Frontier AI Models Carry the Fingerprint of Export-Controlled NVIDIA Blackwell GPUs (37 minute read)",
+          "url": "https://unemploymentlabs.com/checkpoint-forensics",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Eliminating Nondeterminism in LLM Inference with Integer-Only Arithmetic (15 minute read)",
+          "url": "https://nathan.rs/posts/detllm",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How Agent Anomaly Detection scores on benchmarks we didn't write (8 minute read)",
+          "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Jensen Huang’s job in doubt after second affair report",
@@ -399,31 +417,13 @@
           "url": "https://openai.com/index/introducing-businesses-chatgpt",
           "publishedAt": "2026-11-11T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic stretches Claude across the office",
-          "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
-          "publishedAt": "2026-11-11T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "‘AI 2027’ authors move up their timelines",
-          "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
-          "publishedAt": "2026-11-11T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-          "publishedAt": "2026-11-10T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-14T08:00:33+00:00",
+      "updatedAt": "2026-11-14T09:00:31+00:00",
       "stories": [
         {
           "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-14T08:00:33+00:00",
+    "updatedAt": "2026-11-14T09:00:31+00:00",
     "stories": [
       {
         "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -724,8 +724,7 @@
     }
   ],
   "warnings": [
-    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
     "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-04"
+    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News"
   ]
 }
