@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T21:00:31+00:00",
+  "generatedAt": "2026-11-14T22:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-14T21:00:31+00:00",
+      "updatedAt": "2026-11-14T22:00:28+00:00",
       "stories": [
         {
           "title": "'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs",
@@ -25,7 +25,7 @@
           "source": "Space.com"
         },
         {
-          "title": "Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)",
+          "title": "'Now everything changes': SpaceX catches Starship upper stage for 1st time ever",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
           "publishedAt": "2026-11-14T13:00:00+00:00",
           "source": "Space.com"
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-14T21:00:31+00:00",
+      "updatedAt": "2026-11-14T22:00:28+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services Q3 2026: bigger rockets, fewer shares",
@@ -180,8 +180,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-14T21:00:31+00:00",
+      "updatedAt": "2026-11-14T22:00:28+00:00",
       "stories": [
+        {
+          "title": "Fifth Canadian Armed Forces member dies following incident at Canadian Forces Base Wainwright",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/fifth-canadian-armed-forces-member-dies-following-incident-at-canadian-forces-base-wainwright.html",
+          "publishedAt": "2026-11-14T21:10:54+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Minister McGuinty to attend Ukraine Defence Contact Group meeting in Brussels",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-to-attend-ukraine-defence-contact-group-meeting-in-brussels.html",
@@ -229,7 +235,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-14T21:00:31+00:00",
+      "updatedAt": "2026-11-14T22:00:28+00:00",
       "stories": [
         {
           "title": "Securing the Asia-Pacific digital battlespace: TechNet Indo-Pacific 2026",
@@ -326,8 +332,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-14T21:00:31+00:00",
+      "updatedAt": "2026-11-14T22:00:28+00:00",
       "stories": [
+        {
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+          "publishedAt": "2026-11-14T21:41:22+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
           "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
@@ -365,40 +377,16 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Gemini 4 Hydrogen (14 minute read)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen",
-          "publishedAt": "2026-11-13T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "AI agent startup LangChain hits $3B valuation",
+          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+          "publishedAt": "2026-11-13T19:37:57+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Operate Claude Managed Agents inside your security perimeter (4 minute read)",
-          "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
-          "publishedAt": "2026-11-13T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Replit Agent can now buy for your business and help you reach customers (5 minute read)",
-          "url": "https://replit.com/blog/replit-agent-ads-commerce",
-          "publishedAt": "2026-11-13T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Top Chinese Frontier AI Models Carry the Fingerprint of Export-Controlled NVIDIA Blackwell GPUs (37 minute read)",
-          "url": "https://unemploymentlabs.com/checkpoint-forensics",
-          "publishedAt": "2026-11-13T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Eliminating Nondeterminism in LLM Inference with Integer-Only Arithmetic (15 minute read)",
-          "url": "https://nathan.rs/posts/detllm",
-          "publishedAt": "2026-11-13T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "How Agent Anomaly Detection scores on benchmarks we didn't write (8 minute read)",
-          "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write",
-          "publishedAt": "2026-11-13T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+          "publishedAt": "2026-11-13T18:40:30+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Jensen Huang’s job in doubt after second affair report",
@@ -417,13 +405,31 @@
           "url": "https://openai.com/index/introducing-businesses-chatgpt",
           "publishedAt": "2026-11-11T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic stretches Claude across the office",
+          "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+          "publishedAt": "2026-11-11T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "‘AI 2027’ authors move up their timelines",
+          "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
+          "publishedAt": "2026-11-11T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "publishedAt": "2026-11-10T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-14T21:00:31+00:00",
+      "updatedAt": "2026-11-14T22:00:28+00:00",
       "stories": [
         {
           "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
@@ -519,21 +525,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-14T21:00:31+00:00",
+    "updatedAt": "2026-11-14T22:00:28+00:00",
     "stories": [
       {
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
-        "publishedAt": "2026-11-14T17:30:00+00:00",
+        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+        "publishedAt": "2026-11-14T21:41:22+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-        "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
-        "publishedAt": "2026-11-14T16:34:15+00:00",
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+        "publishedAt": "2026-11-14T17:30:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -558,9 +564,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Minister McGuinty to attend Ukraine Defence Contact Group meeting in Brussels",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-to-attend-ukraine-defence-contact-group-meeting-in-brussels.html",
-        "publishedAt": "2026-11-13T19:16:37+00:00",
+        "title": "Fifth Canadian Armed Forces member dies following incident at Canadian Forces Base Wainwright",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/fifth-canadian-armed-forces-member-dies-following-incident-at-canadian-forces-base-wainwright.html",
+        "publishedAt": "2026-11-14T21:10:54+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
@@ -585,6 +591,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+        "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+        "publishedAt": "2026-11-14T16:34:15+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video)",
         "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
         "publishedAt": "2026-11-14T14:53:00+00:00",
@@ -597,15 +612,6 @@
         "title": "On this day in space! Nov. 14, 1969: NASA's Apollo 12 astronauts launch to the moon on a 'pinpoint landing' lunar mission",
         "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-14-2026",
         "publishedAt": "2026-11-14T14:51:27+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
-        "publishedAt": "2026-11-14T13:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -725,6 +731,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-30"
   ]
 }
