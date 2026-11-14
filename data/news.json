@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T18:00:29+00:00",
+  "generatedAt": "2026-11-14T19:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-14T18:00:29+00:00",
+      "updatedAt": "2026-11-14T19:00:32+00:00",
       "stories": [
         {
           "title": "'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-14T18:00:29+00:00",
+      "updatedAt": "2026-11-14T19:00:32+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services Q3 2026: bigger rockets, fewer shares",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-14T18:00:29+00:00",
+      "updatedAt": "2026-11-14T19:00:32+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to attend Ukraine Defence Contact Group meeting in Brussels",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-14T18:00:29+00:00",
+      "updatedAt": "2026-11-14T19:00:32+00:00",
       "stories": [
         {
           "title": "Securing the Asia-Pacific digital battlespace: TechNet Indo-Pacific 2026",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-14T18:00:29+00:00",
+      "updatedAt": "2026-11-14T19:00:32+00:00",
       "stories": [
         {
           "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -365,22 +365,40 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "AI agent startup LangChain hits $3B valuation",
-          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
-          "publishedAt": "2026-11-13T19:37:57+00:00",
-          "source": "TechCrunch AI"
+          "title": "Gemini 4 Hydrogen (14 minute read)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
-          "publishedAt": "2026-11-13T18:40:30+00:00",
-          "source": "TechCrunch AI"
+          "title": "Operate Claude Managed Agents inside your security perimeter (4 minute read)",
+          "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
-          "publishedAt": "2026-11-13T16:00:12+00:00",
-          "source": "TechCrunch AI"
+          "title": "Replit Agent can now buy for your business and help you reach customers (5 minute read)",
+          "url": "https://replit.com/blog/replit-agent-ads-commerce",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Top Chinese Frontier AI Models Carry the Fingerprint of Export-Controlled NVIDIA Blackwell GPUs (37 minute read)",
+          "url": "https://unemploymentlabs.com/checkpoint-forensics",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Eliminating Nondeterminism in LLM Inference with Integer-Only Arithmetic (15 minute read)",
+          "url": "https://nathan.rs/posts/detllm",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How Agent Anomaly Detection scores on benchmarks we didn't write (8 minute read)",
+          "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Jensen Huang’s job in doubt after second affair report",
@@ -399,31 +417,13 @@
           "url": "https://openai.com/index/introducing-businesses-chatgpt",
           "publishedAt": "2026-11-11T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic stretches Claude across the office",
-          "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
-          "publishedAt": "2026-11-11T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "‘AI 2027’ authors move up their timelines",
-          "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
-          "publishedAt": "2026-11-11T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-          "publishedAt": "2026-11-10T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-14T18:00:29+00:00",
+      "updatedAt": "2026-11-14T19:00:32+00:00",
       "stories": [
         {
           "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
@@ -474,6 +474,12 @@
           "source": "The Robot Report"
         },
         {
+          "title": "Memories.ai builds standardized egocentric video pipeline",
+          "url": "https://www.therobotreport.com/memories-ai-builds-standardized-egocentric-video-pipeline",
+          "publishedAt": "2026-11-11T13:00:34+00:00",
+          "source": "The Robot Report"
+        },
+        {
           "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
           "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot",
           "publishedAt": "2026-11-10T13:30:00+00:00",
@@ -508,18 +514,12 @@
           "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
           "publishedAt": "2026-11-05T12:00:00+00:00",
           "source": "TechCrunch Robotics"
-        },
-        {
-          "title": "Are Drone Ports the Next Annoying Tech Neighbor?",
-          "url": "https://spectrum.ieee.org/drone-delivery-noise",
-          "publishedAt": "2026-11-04T18:47:21+00:00",
-          "source": "IEEE Spectrum Robotics"
         }
       ]
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-14T18:00:29+00:00",
+    "updatedAt": "2026-11-14T19:00:32+00:00",
     "stories": [
       {
         "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -725,7 +725,6 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-23"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
   ]
 }
