@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T16:03:28+00:00",
+  "generatedAt": "2026-11-14T17:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-14T16:03:28+00:00",
+      "updatedAt": "2026-11-14T17:00:33+00:00",
       "stories": [
         {
           "title": "'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs",
@@ -13,7 +13,7 @@
           "source": "Space.com"
         },
         {
-          "title": "SpaceX says Starship Flight 15 booster aborted 'chopsticks' landing catch after launch due to guidance issue (video)",
+          "title": "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
           "publishedAt": "2026-11-14T14:53:00+00:00",
           "source": "Space.com"
@@ -31,16 +31,22 @@
           "source": "Space.com"
         },
         {
-          "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
-          "url": "https://www.space.com/stargazing/see-jupiter-and-mars-make-a-spectacular-close-approach-overnight-nov-15-16",
-          "publishedAt": "2026-11-14T11:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
           "url": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member",
           "publishedAt": "2026-11-13T18:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Outbursts from a Massive Star",
+          "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star",
+          "publishedAt": "2026-11-13T16:39:33+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+          "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program",
+          "publishedAt": "2026-11-13T16:05:54+00:00",
+          "source": "NASA"
         },
         {
           "title": "AST SpaceMobile presses case for developing own launch vehicle",
@@ -61,6 +67,18 @@
           "source": "SpaceNews"
         },
         {
+          "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda",
+          "publishedAt": "2026-11-13T05:05:00+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "A Global Rebound for Mangroves",
+          "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves",
+          "publishedAt": "2026-11-13T05:01:00+00:00",
+          "source": "NASA"
+        },
+        {
           "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
           "url": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general",
           "publishedAt": "2026-11-12T00:00:18+00:00",
@@ -77,31 +95,13 @@
           "url": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push",
           "publishedAt": "2026-11-11T13:00:00+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
-          "url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions",
-          "publishedAt": "2026-11-10T14:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "ESCAPADE on its way to Mars after Earth flybys",
-          "url": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys",
-          "publishedAt": "2026-11-10T08:01:39+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
-          "url": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth",
-          "publishedAt": "2026-11-09T14:00:00+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-14T16:03:28+00:00",
+      "updatedAt": "2026-11-14T17:00:33+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services Q3 2026: bigger rockets, fewer shares",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-14T16:03:28+00:00",
+      "updatedAt": "2026-11-14T17:00:33+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to attend Ukraine Defence Contact Group meeting in Brussels",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-14T16:03:28+00:00",
+      "updatedAt": "2026-11-14T17:00:33+00:00",
       "stories": [
         {
           "title": "Securing the Asia-Pacific digital battlespace: TechNet Indo-Pacific 2026",
@@ -326,8 +326,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-14T16:03:28+00:00",
+      "updatedAt": "2026-11-14T17:00:33+00:00",
       "stories": [
+        {
+          "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+          "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+          "publishedAt": "2026-11-14T16:34:15+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
           "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
@@ -356,12 +362,6 @@
           "title": "AI agent startup LangChain hits $3B valuation",
           "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
           "publishedAt": "2026-11-13T19:37:57+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
-          "publishedAt": "2026-11-13T18:40:30+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-14T16:03:28+00:00",
+      "updatedAt": "2026-11-14T17:00:33+00:00",
       "stories": [
         {
           "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
@@ -519,22 +519,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-14T16:03:28+00:00",
+    "updatedAt": "2026-11-14T17:00:33+00:00",
     "stories": [
       {
-        "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-        "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
-        "publishedAt": "2026-11-13T22:43:00+00:00",
+        "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+        "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+        "publishedAt": "2026-11-14T16:34:15+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Jensen Huang resigns as Nvidia’s CEO",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-        "publishedAt": "2026-11-13T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+        "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+        "publishedAt": "2026-11-13T22:43:00+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -585,7 +585,7 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "SpaceX says Starship Flight 15 booster aborted 'chopsticks' landing catch after launch due to guidance issue (video)",
+        "title": "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video)",
         "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
         "publishedAt": "2026-11-14T14:53:00+00:00",
         "source": "Space.com",
@@ -724,7 +724,6 @@
     }
   ],
   "warnings": [
-    "NASA: 429 Client Error: Too Many Requests for url: https://www.nasa.gov/feed/",
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
     "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
   ]
