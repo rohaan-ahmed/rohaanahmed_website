@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-15T17:00:31+00:00",
+  "generatedAt": "2026-11-15T18:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-15T17:00:31+00:00",
+      "updatedAt": "2026-11-15T18:00:29+00:00",
       "stories": [
+        {
+          "title": "30 years ago, 'Space Jam' proposed the best way to resolve interplanetary disputes",
+          "url": "https://www.space.com/entertainment/space-movies-shows/30-years-ago-space-jam-proposed-the-best-way-to-resolve-interplanetary-disputes",
+          "publishedAt": "2026-11-15T17:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "On this day in space! Nov. 15, 1988: The 300-foot Green Bank Telescope collapses suddenly, leaving a huge pile of wreckage in West Virginia",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-15-2026",
@@ -22,12 +28,6 @@
           "title": "How escaping gases ripped apart a comet and caused it to become thousands of times brighter",
           "url": "https://www.space.com/astronomy/comets/how-escaping-gases-ripped-apart-a-comet-and-caused-it-to-become-thousands-of-times-brighter",
           "publishedAt": "2026-11-15T13:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
-          "publishedAt": "2026-11-15T11:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-15T17:00:31+00:00",
+      "updatedAt": "2026-11-15T18:00:29+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services Q3 2026: bigger rockets, fewer shares",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-15T17:00:31+00:00",
+      "updatedAt": "2026-11-15T18:00:29+00:00",
       "stories": [
         {
           "title": "Fifth Canadian Armed Forces member dies following incident at Canadian Forces Base Wainwright",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-15T17:00:31+00:00",
+      "updatedAt": "2026-11-15T18:00:29+00:00",
       "stories": [
         {
           "title": "Securing the Asia-Pacific digital battlespace: TechNet Indo-Pacific 2026",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-15T17:00:31+00:00",
+      "updatedAt": "2026-11-15T18:00:29+00:00",
       "stories": [
         {
           "title": "Where was Nvidia’s security team?",
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-15T17:00:31+00:00",
+      "updatedAt": "2026-11-15T18:00:29+00:00",
       "stories": [
         {
           "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-15T17:00:31+00:00",
+    "updatedAt": "2026-11-15T18:00:29+00:00",
     "stories": [
       {
         "title": "Where was Nvidia’s security team?",
@@ -543,9 +543,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "On this day in space! Nov. 15, 1988: The 300-foot Green Bank Telescope collapses suddenly, leaving a huge pile of wreckage in West Virginia",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-15-2026",
-        "publishedAt": "2026-11-15T15:34:00+00:00",
+        "title": "30 years ago, 'Space Jam' proposed the best way to resolve interplanetary disputes",
+        "url": "https://www.space.com/entertainment/space-movies-shows/30-years-ago-space-jam-proposed-the-best-way-to-resolve-interplanetary-disputes",
+        "publishedAt": "2026-11-15T17:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -579,6 +579,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "On this day in space! Nov. 15, 1988: The 300-foot Green Bank Telescope collapses suddenly, leaving a huge pile of wreckage in West Virginia",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-15-2026",
+        "publishedAt": "2026-11-15T15:34:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Why hasn't the 'Blaze Star' exploded yet? Astronomers weigh in on what to expect",
         "url": "https://www.space.com/stargazing/why-hasnt-the-blaze-star-exploded-yet-astronomers-weigh-in-on-what-to-expect",
         "publishedAt": "2026-11-15T15:00:00+00:00",
@@ -591,15 +600,6 @@
         "title": "How escaping gases ripped apart a comet and caused it to become thousands of times brighter",
         "url": "https://www.space.com/astronomy/comets/how-escaping-gases-ripped-apart-a-comet-and-caused-it-to-become-thousands-of-times-brighter",
         "publishedAt": "2026-11-15T13:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
-        "publishedAt": "2026-11-15T11:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
