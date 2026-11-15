@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T20:00:29+00:00",
+  "generatedAt": "2026-11-15T21:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-15T20:00:29+00:00",
+      "updatedAt": "2026-11-15T21:00:32+00:00",
       "stories": [
         {
           "title": "30 years ago, 'Space Jam' proposed the best way to resolve interplanetary disputes",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-15T20:00:29+00:00",
+      "updatedAt": "2026-11-15T21:00:32+00:00",
       "stories": [
         {
           "title": "Maritime Launch Services Q3 2026: bigger rockets, fewer shares",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-15T20:00:29+00:00",
+      "updatedAt": "2026-11-15T21:00:32+00:00",
       "stories": [
         {
           "title": "Fifth Canadian Armed Forces member dies following incident at Canadian Forces Base Wainwright",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-15T20:00:29+00:00",
+      "updatedAt": "2026-11-15T21:00:32+00:00",
       "stories": [
         {
           "title": "Securing the Asia-Pacific digital battlespace: TechNet Indo-Pacific 2026",
@@ -320,8 +320,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-15T20:00:29+00:00",
+      "updatedAt": "2026-11-15T21:00:32+00:00",
       "stories": [
+        {
+          "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+          "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
+          "publishedAt": "2026-11-15T20:20:57+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Where was Nvidia’s security team?",
           "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
@@ -332,12 +338,6 @@
           "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
           "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
           "publishedAt": "2026-11-14T21:41:22+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-          "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
-          "publishedAt": "2026-11-14T17:30:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -417,8 +417,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-15T20:00:29+00:00",
+      "updatedAt": "2026-11-15T21:00:32+00:00",
       "stories": [
+        {
+          "title": "Why Skydio Built a Lopsided Drone",
+          "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+          "publishedAt": "2026-11-15T14:00:02+00:00",
+          "source": "IEEE Spectrum Robotics"
+        },
         {
           "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
           "url": "https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial",
@@ -474,12 +480,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Can AI agents program industrial robots without training data? Berkeley says yes",
-          "url": "https://www.therobotreport.com/can-ai-agents-program-industrial-robots-without-training-data-berkeley-says-yes",
-          "publishedAt": "2026-11-11T12:55:16+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
           "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot",
           "publishedAt": "2026-11-10T13:30:00+00:00",
@@ -513,21 +513,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-15T20:00:29+00:00",
+    "updatedAt": "2026-11-15T21:00:32+00:00",
     "stories": [
       {
-        "title": "Where was Nvidia’s security team?",
-        "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
-        "publishedAt": "2026-11-15T00:08:07+00:00",
+        "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+        "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
+        "publishedAt": "2026-11-15T20:20:57+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
-        "publishedAt": "2026-11-14T21:41:22+00:00",
+        "title": "Where was Nvidia’s security team?",
+        "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
+        "publishedAt": "2026-11-15T00:08:07+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -570,10 +570,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
-        "url": "https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial",
-        "publishedAt": "2026-11-13T16:32:58+00:00",
-        "source": "The Robot Report",
+        "title": "Why Skydio Built a Lopsided Drone",
+        "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+        "publishedAt": "2026-11-15T14:00:02+00:00",
+        "source": "IEEE Spectrum Robotics",
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
