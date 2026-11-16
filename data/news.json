@@ -1,16 +1,34 @@
 {
-  "generatedAt": "2026-11-16T19:00:31+00:00",
+  "generatedAt": "2026-11-16T20:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-16T19:00:31+00:00",
+      "updatedAt": "2026-11-16T20:00:30+00:00",
       "stories": [
+        {
+          "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
+          "url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor",
+          "publishedAt": "2026-11-16T20:00:00+00:00",
+          "source": "SpaceNews"
+        },
+        {
+          "title": "What exactly is a light-day? Here's what Voyager 1's latest milestone means for the interstellar probe",
+          "url": "https://www.space.com/space-exploration/voyager/what-exactly-is-a-light-day-heres-what-voyager-1s-latest-milestone-means-for-the-interstellar-probe",
+          "publishedAt": "2026-11-16T19:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "'Maybe the scariest thing I've heard in my life': Artemis II astronaut Victor Glover reveals his toughest challenge before flying to the moon",
           "url": "https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon",
           "publishedAt": "2026-11-16T18:00:00+00:00",
           "source": "Space.com"
+        },
+        {
+          "title": "Sentinel-6B in Orbit Around Earth",
+          "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth",
+          "publishedAt": "2026-11-16T18:52:32+00:00",
+          "source": "NASA"
         },
         {
           "title": "Thunderbirds in Formation",
@@ -31,12 +49,6 @@
           "source": "Space.com"
         },
         {
-          "title": "Euclid space telescope discovers its 1st comet | Space photo of the day for Nov. 16, 2026",
-          "url": "https://www.space.com/astronomy/comets/euclid-discovers-its-1st-comet-space-photo-of-the-day-for-nov-16-2026",
-          "publishedAt": "2026-11-16T15:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
           "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy",
           "publishedAt": "2026-11-16T15:22:09+00:00",
@@ -46,12 +58,6 @@
           "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
           "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb",
           "publishedAt": "2026-11-16T05:05:00+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "The Last Ice on Puncak Jaya",
-          "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya",
-          "publishedAt": "2026-11-16T05:00:00+00:00",
           "source": "NASA"
         },
         {
@@ -89,19 +95,13 @@
           "url": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare",
           "publishedAt": "2026-11-11T15:53:57+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
-          "url": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push",
-          "publishedAt": "2026-11-11T13:00:00+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-16T19:00:31+00:00",
+      "updatedAt": "2026-11-16T20:00:30+00:00",
       "stories": [
         {
           "title": "SpaceX catches its first Starship but loses the booster, at a cost",
@@ -168,19 +168,13 @@
           "url": "https://spaceq.ca/rocket-lab-q3-2026-neutron",
           "publishedAt": "2026-11-11T15:44:00+00:00",
           "source": "SpaceQ"
-        },
-        {
-          "title": "Minister Thompson to participate in Newfoundland space-to-Earth event with CSA astronaut Joshua Kutryk",
-          "url": "https://www.canada.ca/en/space-agency/news/2026/11/minister-thompson-to-participate-in-newfoundland-space-to-earth-event-with-csa-astronaut-joshua-kutryk.html",
-          "publishedAt": "2026-11-06T19:33:58+00:00",
-          "source": "Canadian Space Agency"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-16T19:00:31+00:00",
+      "updatedAt": "2026-11-16T20:00:30+00:00",
       "stories": [
         {
           "title": "Fifth Canadian Armed Forces member dies following incident at Canadian Forces Base Wainwright",
@@ -217,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-16T19:00:31+00:00",
+      "updatedAt": "2026-11-16T20:00:30+00:00",
       "stories": [
+        {
+          "title": "LeoLabs acquires FishEye to bolster its missile defense chops",
+          "url": "https://breakingdefense.com/2026/11/leolabs-acquires-fisheye-to-bolster-its-missile-defense-chops",
+          "publishedAt": "2026-11-16T19:01:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "As exquisite radars become targets, smaller tactical sensors take on a bigger role",
           "url": "https://breakingdefense.com/2026/11/as-exquisite-radars-become-targets-smaller-tactical-sensors-take-on-a-bigger-role",
@@ -280,12 +280,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Estonian drone company targeted in alleged Russian sabotage attempt",
-          "url": "https://breakingdefense.com/2026/11/estonian-drone-company-targeted-in-sabotage-attempt-as-part-of-russias-hybrid-war-against-europe-prime-minister-michal",
-          "publishedAt": "2026-11-16T10:25:57+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Air Force Special Warfare wants versatile mobile comms system across vehicles",
           "url": "https://defensescoop.com/2026/11/13/air-force-special-warfare-mobile-communication-system",
           "publishedAt": "2026-11-13T23:17:04+00:00",
@@ -314,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-16T19:00:31+00:00",
+      "updatedAt": "2026-11-16T20:00:30+00:00",
       "stories": [
         {
           "title": "Musk, Nvidia staff rally to bring back Jensen Huang",
@@ -327,6 +321,12 @@
           "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
           "publishedAt": "2026-11-16T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+          "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security",
+          "publishedAt": "2026-11-16T19:12:02+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
@@ -347,40 +347,16 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Devin Apps (3 minute read)",
-          "url": "https://devin.ai/blog/devin-apps",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "OpenAI will embed safety researchers to investigate AI subversion",
+          "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
+          "publishedAt": "2026-11-16T17:02:43+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "ChatGPT Wallet (5 minute read)",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Quark: our whole training stack, end to end, for $4,200 (7 minute read)",
-          "url": "https://empero.org/writing/quark",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "On the Brutality of Amdahl's Law (12 minute read)",
-          "url": "https://bosoncutter.substack.com/p/on-the-brutality-of-amdahls-law",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "End-to-End 4-Bit AI Training (9 minute read)",
-          "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "BirdDreams: A Driving World Model (4 minute read)",
-          "url": "https://research.nvidia.com/labs/sil/projects/birddreams",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+          "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam",
+          "publishedAt": "2026-11-16T17:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Jensen Huang resigns as Nvidia’s CEO",
@@ -405,13 +381,31 @@
           "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
           "publishedAt": "2026-11-12T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Google’s new AlphaGenome traces disease to cells",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+          "publishedAt": "2026-11-12T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI invites brands to set up shop in ChatGPT",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "publishedAt": "2026-11-11T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic stretches Claude across the office",
+          "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+          "publishedAt": "2026-11-11T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-16T19:00:31+00:00",
+      "updatedAt": "2026-11-16T20:00:30+00:00",
       "stories": [
         {
           "title": "Agile Robots raises $500M to increase production capacity",
@@ -507,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-16T19:00:31+00:00",
+    "updatedAt": "2026-11-16T20:00:30+00:00",
     "stories": [
       {
         "title": "Musk, Nvidia staff rally to bring back Jensen Huang",
@@ -537,10 +531,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "'Maybe the scariest thing I've heard in my life': Artemis II astronaut Victor Glover reveals his toughest challenge before flying to the moon",
-        "url": "https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon",
-        "publishedAt": "2026-11-16T18:00:00+00:00",
-        "source": "Space.com",
+        "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
+        "url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor",
+        "publishedAt": "2026-11-16T20:00:00+00:00",
+        "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -555,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "As exquisite radars become targets, smaller tactical sensors take on a bigger role",
-        "url": "https://breakingdefense.com/2026/11/as-exquisite-radars-become-targets-smaller-tactical-sensors-take-on-a-bigger-role",
-        "publishedAt": "2026-11-16T18:39:22+00:00",
+        "title": "LeoLabs acquires FishEye to bolster its missile defense chops",
+        "url": "https://breakingdefense.com/2026/11/leolabs-acquires-fisheye-to-bolster-its-missile-defense-chops",
+        "publishedAt": "2026-11-16T19:01:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -573,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "As exquisite radars become targets, smaller tactical sensors take on a bigger role",
+        "url": "https://breakingdefense.com/2026/11/as-exquisite-radars-become-targets-smaller-tactical-sensors-take-on-a-bigger-role",
+        "publishedAt": "2026-11-16T18:39:22+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Italy unveils plans to develop a new naval missile launcher",
         "url": "https://breakingdefense.com/2026/11/italy-unveils-plans-to-develop-a-new-naval-missile-launcher",
         "publishedAt": "2026-11-16T18:07:01+00:00",
@@ -585,15 +588,6 @@
         "title": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
         "url": "https://www.defensenews.com/video/2026/11/16/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26",
         "publishedAt": "2026-11-16T18:03:38+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
-        "url": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence",
-        "publishedAt": "2026-11-16T18:00:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -713,6 +707,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-29"
   ]
 }
