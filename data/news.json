@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T22:00:30+00:00",
+  "generatedAt": "2026-11-16T23:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-16T22:00:30+00:00",
+      "updatedAt": "2026-11-16T23:00:29+00:00",
       "stories": [
         {
           "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
@@ -23,6 +23,12 @@
           "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
           "publishedAt": "2026-11-16T21:26:29+00:00",
           "source": "Space.com"
+        },
+        {
+          "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+          "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover",
+          "publishedAt": "2026-11-16T22:05:23+00:00",
+          "source": "NASA"
         },
         {
           "title": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
@@ -55,21 +61,9 @@
           "source": "NASA"
         },
         {
-          "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
-          "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy",
-          "publishedAt": "2026-11-16T15:22:09+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
           "url": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member",
           "publishedAt": "2026-11-13T18:00:00+00:00",
-          "source": "SpaceNews"
-        },
-        {
-          "title": "AST SpaceMobile presses case for developing own launch vehicle",
-          "url": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle",
-          "publishedAt": "2026-11-13T01:15:21+00:00",
           "source": "SpaceNews"
         },
         {
@@ -95,13 +89,19 @@
           "url": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare",
           "publishedAt": "2026-11-11T15:53:57+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
+          "url": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push",
+          "publishedAt": "2026-11-11T13:00:00+00:00",
+          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-16T22:00:30+00:00",
+      "updatedAt": "2026-11-16T23:00:29+00:00",
       "stories": [
         {
           "title": "SpaceX catches its first Starship but loses the booster, at a cost",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-16T22:00:30+00:00",
+      "updatedAt": "2026-11-16T23:00:29+00:00",
       "stories": [
         {
           "title": "Fifth Canadian Armed Forces member dies following incident at Canadian Forces Base Wainwright",
@@ -211,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-16T22:00:30+00:00",
+      "updatedAt": "2026-11-16T23:00:29+00:00",
       "stories": [
+        {
+          "title": "Pentagon fails 9th audit, asserts path towards clean books in 2028",
+          "url": "https://breakingdefense.com/2026/11/pentagon-fails-9th-audit-asserts-path-towards-clean-books-in-2028",
+          "publishedAt": "2026-11-16T22:11:50+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Vulcan failure deepens concerns over US military launch capacity",
           "url": "https://breakingdefense.com/2026/11/vulcan-failure-deepens-concerns-over-us-military-launch-capacity",
@@ -262,12 +268,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Army’s G-TEAD expands OTA awards to push more vendors to prototyping stage",
-          "url": "https://breakingdefense.com/2026/11/armys-g-tead-expands-ota-awards-to-push-more-vendors-to-prototyping-stage",
-          "publishedAt": "2026-11-16T16:06:18+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "US and Russia to oppose talks on limiting autonomous weapons",
           "url": "https://www.defensenews.com/industry/techwatch/2026/11/16/us-and-russia-to-oppose-talks-on-limiting-autonomous-weapons",
           "publishedAt": "2026-11-16T16:53:41+00:00",
@@ -308,8 +308,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-16T22:00:30+00:00",
+      "updatedAt": "2026-11-16T23:00:29+00:00",
       "stories": [
+        {
+          "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+          "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont",
+          "publishedAt": "2026-11-16T22:03:02+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Musk, Nvidia staff rally to bring back Jensen Huang",
           "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
@@ -335,46 +341,22 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+          "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
           "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine",
           "publishedAt": "2026-11-16T18:11:10+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "Devin Apps (3 minute read)",
-          "url": "https://devin.ai/blog/devin-apps",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+          "publishedAt": "2026-11-16T17:36:43+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "ChatGPT Wallet (5 minute read)",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Quark: our whole training stack, end to end, for $4,200 (7 minute read)",
-          "url": "https://empero.org/writing/quark",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "On the Brutality of Amdahl's Law (12 minute read)",
-          "url": "https://bosoncutter.substack.com/p/on-the-brutality-of-amdahls-law",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "End-to-End 4-Bit AI Training (9 minute read)",
-          "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "BirdDreams: A Driving World Model (4 minute read)",
-          "url": "https://research.nvidia.com/labs/sil/projects/birddreams",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+          "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street",
+          "publishedAt": "2026-11-16T17:10:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Jensen Huang resigns as Nvidia’s CEO",
@@ -399,13 +381,31 @@
           "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
           "publishedAt": "2026-11-12T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Google’s new AlphaGenome traces disease to cells",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+          "publishedAt": "2026-11-12T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI invites brands to set up shop in ChatGPT",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "publishedAt": "2026-11-11T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic stretches Claude across the office",
+          "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+          "publishedAt": "2026-11-11T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-16T22:00:30+00:00",
+      "updatedAt": "2026-11-16T23:00:29+00:00",
       "stories": [
         {
           "title": "Agile Robots raises $500M to increase production capacity",
@@ -501,20 +501,20 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-16T22:00:30+00:00",
+    "updatedAt": "2026-11-16T23:00:29+00:00",
     "stories": [
       {
-        "title": "Musk, Nvidia staff rally to bring back Jensen Huang",
-        "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
-        "publishedAt": "2026-11-16T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+        "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont",
+        "publishedAt": "2026-11-16T22:03:02+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Report: OpenAI folds robotics team into core research",
-        "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+        "title": "Musk, Nvidia staff rally to bring back Jensen Huang",
+        "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
         "publishedAt": "2026-11-16T10:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Vulcan failure deepens concerns over US military launch capacity",
-        "url": "https://breakingdefense.com/2026/11/vulcan-failure-deepens-concerns-over-us-military-launch-capacity",
-        "publishedAt": "2026-11-16T20:07:47+00:00",
+        "title": "Pentagon fails 9th audit, asserts path towards clean books in 2028",
+        "url": "https://breakingdefense.com/2026/11/pentagon-fails-9th-audit-asserts-path-towards-clean-books-in-2028",
+        "publishedAt": "2026-11-16T22:11:50+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -565,6 +565,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Vulcan failure deepens concerns over US military launch capacity",
+        "url": "https://breakingdefense.com/2026/11/vulcan-failure-deepens-concerns-over-us-military-launch-capacity",
+        "publishedAt": "2026-11-16T20:07:47+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "US Army takes ‘urgent’ action to build concrete bunkers across the Middle East",
@@ -582,15 +591,6 @@
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
-        "publishedAt": "2026-11-16T21:34:36+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -707,6 +707,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-28"
   ]
 }
