@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-16T04:00:38+00:00",
+  "generatedAt": "2026-11-16T05:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-16T04:00:38+00:00",
+      "updatedAt": "2026-11-16T05:00:29+00:00",
       "stories": [
         {
           "title": "30 years ago, 'Space Jam' proposed the best way to resolve interplanetary disputes",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-16T04:00:38+00:00",
+      "updatedAt": "2026-11-16T05:00:29+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Kutryk calls Newfoundland students from orbit",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-16T04:00:38+00:00",
+      "updatedAt": "2026-11-16T05:00:29+00:00",
       "stories": [
         {
           "title": "Fifth Canadian Armed Forces member dies following incident at Canadian Forces Base Wainwright",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-16T04:00:38+00:00",
+      "updatedAt": "2026-11-16T05:00:29+00:00",
       "stories": [
         {
           "title": "Securing the Asia-Pacific digital battlespace: TechNet Indo-Pacific 2026",
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-16T04:00:38+00:00",
+      "updatedAt": "2026-11-16T05:00:29+00:00",
       "stories": [
         {
           "title": "Apple launches new app to study how people use AI for health",
@@ -338,24 +338,6 @@
           "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
           "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry",
           "publishedAt": "2026-11-15T21:56:35+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-          "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
-          "publishedAt": "2026-11-15T20:20:57+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Where was Nvidia’s security team?",
-          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
-          "publishedAt": "2026-11-15T00:08:07+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
-          "publishedAt": "2026-11-14T21:41:22+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -377,6 +359,42 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Gemini 4 Hydrogen (14 minute read)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Operate Claude Managed Agents inside your security perimeter (4 minute read)",
+          "url": "https://claude.com/resources/articles/self-hosted-claude-managed-agents",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Replit Agent can now buy for your business and help you reach customers (5 minute read)",
+          "url": "https://replit.com/blog/replit-agent-ads-commerce",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Top Chinese Frontier AI Models Carry the Fingerprint of Export-Controlled NVIDIA Blackwell GPUs (37 minute read)",
+          "url": "https://unemploymentlabs.com/checkpoint-forensics",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Eliminating Nondeterminism in LLM Inference with Integer-Only Arithmetic (15 minute read)",
+          "url": "https://nathan.rs/posts/detllm",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "How Agent Anomaly Detection scores on benchmarks we didn't write (8 minute read)",
+          "url": "https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write",
+          "publishedAt": "2026-11-13T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Jensen Huang’s job in doubt after second affair report",
           "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
           "publishedAt": "2026-11-12T10:00:00+00:00",
@@ -393,31 +411,13 @@
           "url": "https://openai.com/index/introducing-businesses-chatgpt",
           "publishedAt": "2026-11-11T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic stretches Claude across the office",
-          "url": "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
-          "publishedAt": "2026-11-11T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "‘AI 2027’ authors move up their timelines",
-          "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
-          "publishedAt": "2026-11-11T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic’s Fable 5.2 leads the frontier with a price cut",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-          "publishedAt": "2026-11-10T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-16T04:00:38+00:00",
+      "updatedAt": "2026-11-16T05:00:29+00:00",
       "stories": [
         {
           "title": "Why Skydio Built a Lopsided Drone",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-16T04:00:38+00:00",
+    "updatedAt": "2026-11-16T05:00:29+00:00",
     "stories": [
       {
         "title": "Apple launches new app to study how people use AI for health",
@@ -597,12 +597,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-        "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
-        "publishedAt": "2026-11-15T20:20:57+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "On this day in space! Nov. 15, 1988: The 300-foot Green Bank Telescope collapses suddenly, leaving a huge pile of wreckage in West Virginia",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-15-2026",
+        "publishedAt": "2026-11-15T15:34:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -719,7 +719,6 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-03"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
   ]
 }
