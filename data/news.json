@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-11-17T14:00:32+00:00",
+  "generatedAt": "2026-11-17T15:00:35+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-17T14:00:32+00:00",
+      "updatedAt": "2026-11-17T15:00:35+00:00",
       "stories": [
         {
           "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
           "url": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027",
           "publishedAt": "2026-11-17T08:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "'It looked like every star in the sky was falling': Eyewitnesses remember the great Leonid meteor storm of 1966",
+          "url": "https://www.space.com/stargazing/meteor-showers/eyewitnesses-remember-the-great-leonid-meteor-storm-of-1966-it-looked-like-every-star-in-the-sky-was-falling",
+          "publishedAt": "2026-11-17T14:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "Reflect Orbital wants to launch thousands of sunlight-beaming mirrors to space — and the 1st will go up next year",
@@ -55,12 +61,6 @@
           "source": "Space.com"
         },
         {
-          "title": "Relive Starship's historic Flight 15 with our best photos from launch and 'Mechazilla' tower catch",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
-          "publishedAt": "2026-11-16T21:26:29+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
           "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover",
           "publishedAt": "2026-11-16T22:05:23+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-17T14:00:32+00:00",
+      "updatedAt": "2026-11-17T15:00:35+00:00",
       "stories": [
         {
           "title": "Telesat lenders agree to hold off, buying time on December debt",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-17T14:00:32+00:00",
+      "updatedAt": "2026-11-17T15:00:35+00:00",
       "stories": [
         {
           "title": "Fifth Canadian Armed Forces member dies following incident at Canadian Forces Base Wainwright",
@@ -211,8 +211,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-17T14:00:32+00:00",
+      "updatedAt": "2026-11-17T15:00:35+00:00",
       "stories": [
+        {
+          "title": "Senate docs reveal new B94 nuclear bomb. But what is it?",
+          "url": "https://breakingdefense.com/2026/11/senate-docs-reveal-new-b94-nuclear-bomb-but-what-is-it",
+          "publishedAt": "2026-11-17T14:01:17+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+          "url": "https://www.defensenews.com/pentagon/2026/11/17/pentagon-fails-ninth-straight-audit-despite-progress-in-organizing-finances",
+          "publishedAt": "2026-11-17T14:35:23+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Friend or foe becomes the question as skies fill with potential adversaries",
           "url": "https://breakingdefense.com/2026/11/friend-or-foe-becomes-the-question-as-skies-fill-with-potential-adversaries",
@@ -268,18 +280,6 @@
           "source": "Defense News"
         },
         {
-          "title": "LeoLabs acquires FishEye to bolster its missile defense chops",
-          "url": "https://breakingdefense.com/2026/11/leolabs-acquires-fisheye-to-bolster-its-missile-defense-chops",
-          "publishedAt": "2026-11-16T19:01:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
-          "url": "https://www.defensenews.com/video/2026/11/16/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26",
-          "publishedAt": "2026-11-16T18:03:38+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Pentagon IDs companies and systems that will participate in high-energy laser ‘shoot-off’ with eye toward quick purchase orders",
           "url": "https://defensescoop.com/2026/11/16/counter-drone-high-energy-laser-shoot-off",
           "publishedAt": "2026-11-16T17:58:46+00:00",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-17T14:00:32+00:00",
+      "updatedAt": "2026-11-17T15:00:35+00:00",
       "stories": [
         {
           "title": "California takes OpenAI to court over agent escapes",
@@ -327,6 +327,30 @@
           "url": "https://openai.com/index/science-at-the-frontier",
           "publishedAt": "2026-11-17T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials",
+          "publishedAt": "2026-11-17T14:50:58+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+          "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding",
+          "publishedAt": "2026-11-17T14:26:46+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+          "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security",
+          "publishedAt": "2026-11-17T14:05:30+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+          "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists",
+          "publishedAt": "2026-11-17T14:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -353,51 +377,27 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "California state AG sues OpenAI over rogue agent incidents",
-          "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents",
-          "publishedAt": "2026-11-16T20:07:13+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Devin Apps (3 minute read)",
-          "url": "https://devin.ai/blog/devin-apps",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "ChatGPT Wallet (5 minute read)",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Quark: our whole training stack, end to end, for $4,200 (7 minute read)",
-          "url": "https://empero.org/writing/quark",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "End-to-End 4-Bit AI Training (9 minute read)",
-          "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "On the Brutality of Amdahl's Law (12 minute read)",
-          "url": "https://bosoncutter.substack.com/p/on-the-brutality-of-amdahls-law",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "BirdDreams: A Driving World Model (4 minute read)",
-          "url": "https://research.nvidia.com/labs/sil/projects/birddreams",
-          "publishedAt": "2026-11-16T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Jensen Huang resigns as Nvidia’s CEO",
           "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
           "publishedAt": "2026-11-13T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "How I use AI to coach my calls",
+          "url": "https://www.instagram.com/rowancheung",
+          "publishedAt": "2026-11-13T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Google joins the race for your face with AI glasses",
+          "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order",
+          "publishedAt": "2026-11-13T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Jensen Huang’s job in doubt after second affair report",
+          "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+          "publishedAt": "2026-11-12T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-17T14:00:32+00:00",
+      "updatedAt": "2026-11-17T15:00:35+00:00",
       "stories": [
         {
           "title": "Genesis AI raises $500 million to deploy glove-wearing robots",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-17T14:00:32+00:00",
+    "updatedAt": "2026-11-17T15:00:35+00:00",
     "stories": [
       {
         "title": "California takes OpenAI to court over agent escapes",
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Friend or foe becomes the question as skies fill with potential adversaries",
-        "url": "https://breakingdefense.com/2026/11/friend-or-foe-becomes-the-question-as-skies-fill-with-potential-adversaries",
-        "publishedAt": "2026-11-17T13:24:00+00:00",
+        "title": "Senate docs reveal new B94 nuclear bomb. But what is it?",
+        "url": "https://breakingdefense.com/2026/11/senate-docs-reveal-new-b94-nuclear-bomb-but-what-is-it",
+        "publishedAt": "2026-11-17T14:01:17+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -576,21 +576,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "New pact positions the Philippines as a defense hub for Australian troops",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/17/new-pact-positions-the-philippines-as-a-defense-hub-for-australian-troops",
-        "publishedAt": "2026-11-17T11:29:34+00:00",
+        "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+        "url": "https://www.defensenews.com/pentagon/2026/11/17/pentagon-fails-ninth-straight-audit-despite-progress-in-organizing-finances",
+        "publishedAt": "2026-11-17T14:35:23+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Reflect Orbital wants to launch thousands of sunlight-beaming mirrors to space — and the 1st will go up next year",
-        "url": "https://www.space.com/space-exploration/satellites/reflect-orbital-wants-to-launch-thousands-of-sunlight-beaming-mirrors-to-space-and-the-1st-will-go-up-next-year",
-        "publishedAt": "2026-11-17T13:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Friend or foe becomes the question as skies fill with potential adversaries",
+        "url": "https://breakingdefense.com/2026/11/friend-or-foe-becomes-the-question-as-skies-fill-with-potential-adversaries",
+        "publishedAt": "2026-11-17T13:24:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -707,6 +707,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-26"
   ]
 }
