@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T21:00:31+00:00",
+  "generatedAt": "2026-11-17T21:17:12+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-17T21:00:31+00:00",
+      "updatedAt": "2026-11-17T21:17:12+00:00",
       "stories": [
         {
           "title": "How AI is pushing satellites to evolve",
@@ -17,6 +17,12 @@
           "url": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027",
           "publishedAt": "2026-11-17T08:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?",
+          "url": "https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up",
+          "publishedAt": "2026-11-17T21:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "'Neuromancer:' Release date, cast & everything we know about Apple TV's new cyberpunk series",
@@ -53,12 +59,6 @@
           "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure",
           "publishedAt": "2026-11-17T19:16:22+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "On this day in space! Nov. 17, 1967: NASA's Surveyor 6 moon probe makes 1st-ever successful launch and hop from the lunar surface",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-17-2026",
-          "publishedAt": "2026-11-17T18:19:03+00:00",
-          "source": "Space.com"
         },
         {
           "title": "NICER Status Updates",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-17T21:00:31+00:00",
+      "updatedAt": "2026-11-17T21:17:12+00:00",
       "stories": [
         {
           "title": "NorthStar Earth & Space reports first earnings as a public company",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-17T21:00:31+00:00",
+      "updatedAt": "2026-11-17T21:17:12+00:00",
       "stories": [
         {
           "title": "Governor General of Canada Presides Over Commissioning Ceremony of HMCS Robert Hampton Gray.",
@@ -223,8 +223,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-17T21:00:31+00:00",
+      "updatedAt": "2026-11-17T21:17:12+00:00",
       "stories": [
+        {
+          "title": "ICEYE makes $2B bid for Italian rocket firm Avio",
+          "url": "https://breakingdefense.com/2026/11/iceye-makes-2b-bid-for-italian-rocket-firm-avio",
+          "publishedAt": "2026-11-17T21:12:16+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Army kicks off ‘manufacturing rodeo’ with focus on small drones",
           "url": "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones",
@@ -265,12 +271,6 @@
           "title": "White House officially nominates LaNeve for Army Chief",
           "url": "https://breakingdefense.com/2026/11/white-house-officially-nominates-laneve-for-army-chief",
           "publishedAt": "2026-11-17T17:55:54+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Russia reportedly wants Finland to leave NATO as part of Ukraine deal. History, geography explain why.",
-          "url": "https://breakingdefense.com/2026/11/russia-reportedly-wants-finland-to-leave-nato-as-part-of-ukraine-deal-history-geography-explain-why",
-          "publishedAt": "2026-11-17T17:39:17+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -320,7 +320,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-17T21:00:31+00:00",
+      "updatedAt": "2026-11-17T21:17:12+00:00",
       "stories": [
         {
           "title": "California takes OpenAI to court over agent escapes",
@@ -359,22 +359,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "As decision model use skyrockets, is customization the next frontier?",
-          "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier",
-          "publishedAt": "2026-11-17T18:10:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "NVIDIA's Rubin HPC (2 minute read)",
+          "url": "https://blogs.nvidia.com/blog/rubin-hpc",
+          "publishedAt": "2026-11-17T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-          "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain",
-          "publishedAt": "2026-11-17T18:04:16+00:00",
-          "source": "TechCrunch AI"
+          "title": "Tencent Launches Hy4 flash (4 minute read)",
+          "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows",
+          "publishedAt": "2026-11-17T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-          "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop",
-          "publishedAt": "2026-11-17T17:32:25+00:00",
-          "source": "TechCrunch AI"
+          "title": "Claude was trained on protein sequences at scale (26 minute read)",
+          "url": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences",
+          "publishedAt": "2026-11-17T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Measuring alignment eval tells (16 minute read)",
+          "url": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells",
+          "publishedAt": "2026-11-17T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "World 2030 (8 minute read)",
+          "url": "https://world-2030.pages.dev/",
+          "publishedAt": "2026-11-17T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "d1.2: State-of-the-Art Omnimodal Decision Models (5 minute read)",
+          "url": "https://www.liquid.ai/blog/d1-2",
+          "publishedAt": "2026-11-17T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Musk, Nvidia staff rally to bring back Jensen Huang",
@@ -393,31 +411,13 @@
           "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
           "publishedAt": "2026-11-13T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "How I use AI to coach my calls",
-          "url": "https://www.instagram.com/rowancheung",
-          "publishedAt": "2026-11-13T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Google joins the race for your face with AI glasses",
-          "url": "https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order",
-          "publishedAt": "2026-11-13T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Jensen Huang’s job in doubt after second affair report",
-          "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-          "publishedAt": "2026-11-12T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-17T21:00:31+00:00",
+      "updatedAt": "2026-11-17T21:17:12+00:00",
       "stories": [
         {
           "title": "Learn how AI is changing supply chain robotics",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-17T21:00:31+00:00",
+    "updatedAt": "2026-11-17T21:17:12+00:00",
     "stories": [
       {
         "title": "California takes OpenAI to court over agent escapes",
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Army kicks off ‘manufacturing rodeo’ with focus on small drones",
-        "url": "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones",
-        "publishedAt": "2026-11-17T20:44:33+00:00",
+        "title": "ICEYE makes $2B bid for Italian rocket firm Avio",
+        "url": "https://breakingdefense.com/2026/11/iceye-makes-2b-bid-for-italian-rocket-firm-avio",
+        "publishedAt": "2026-11-17T21:12:16+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -597,9 +597,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Army Aviation fleet facing more accidents, lower readiness rates: Obadal",
-        "url": "https://breakingdefense.com/2026/11/army-aviation-fleet-facing-more-accidents-lower-readiness-rates-obadal",
-        "publishedAt": "2026-11-17T19:42:06+00:00",
+        "title": "Army kicks off ‘manufacturing rodeo’ with focus on small drones",
+        "url": "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones",
+        "publishedAt": "2026-11-17T20:44:33+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -719,7 +719,6 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-03"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
   ]
 }
