@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T21:17:12+00:00",
+  "generatedAt": "2026-11-17T22:00:28+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-17T21:17:12+00:00",
+      "updatedAt": "2026-11-17T22:00:28+00:00",
       "stories": [
         {
           "title": "How AI is pushing satellites to evolve",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-17T21:17:12+00:00",
+      "updatedAt": "2026-11-17T22:00:28+00:00",
       "stories": [
+        {
+          "title": "Vyoma to fly space-tracking sensors on 10 Kepler satellites",
+          "url": "https://spaceq.ca/vyoma-kepler-space-tracking-sensors",
+          "publishedAt": "2026-11-17T21:31:08+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "NorthStar Earth & Space reports first earnings as a public company",
           "url": "https://spaceq.ca/northstar-earth-space-q3-2026-results",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "DND Departmental Results Report shows space gains and a delay",
-          "url": "https://spaceq.ca/dnd-departmental-results-report-2025-26",
-          "publishedAt": "2026-11-12T22:57:41+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Amateur radio contact between CSA astronaut Joshua Kutryk and students in Halifax",
           "url": "https://www.canada.ca/en/space-agency/news/2026/11/amateur-radio-contact-between-csa-astronaut-joshua-kutryk-and-students-in-halifax.html",
           "publishedAt": "2026-11-12T15:09:07+00:00",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-17T21:17:12+00:00",
+      "updatedAt": "2026-11-17T22:00:28+00:00",
       "stories": [
         {
           "title": "Governor General of Canada Presides Over Commissioning Ceremony of HMCS Robert Hampton Gray.",
@@ -223,7 +223,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-17T21:17:12+00:00",
+      "updatedAt": "2026-11-17T22:00:28+00:00",
       "stories": [
         {
           "title": "ICEYE makes $2B bid for Italian rocket firm Avio",
@@ -268,6 +268,12 @@
           "source": "Defense News"
         },
         {
+          "title": "Pentagon elevates AI as a ‘fundamental requirement’ for cybersecurity staff training",
+          "url": "https://defensescoop.com/2026/11/17/pentagon-ai-requirement-cybersecurity-training",
+          "publishedAt": "2026-11-17T21:45:18+00:00",
+          "source": "DefenseScoop"
+        },
+        {
           "title": "White House officially nominates LaNeve for Army Chief",
           "url": "https://breakingdefense.com/2026/11/white-house-officially-nominates-laneve-for-army-chief",
           "publishedAt": "2026-11-17T17:55:54+00:00",
@@ -308,19 +314,13 @@
           "url": "https://defensescoop.com/2026/11/13/air-force-special-warfare-mobile-communication-system",
           "publishedAt": "2026-11-13T23:17:04+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Air Force validates B-21 Raider weapons release after test",
-          "url": "https://defensescoop.com/2026/11/13/air-force-b-21-raider-weapons-release-test",
-          "publishedAt": "2026-11-13T18:58:15+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-17T21:17:12+00:00",
+      "updatedAt": "2026-11-17T22:00:28+00:00",
       "stories": [
         {
           "title": "California takes OpenAI to court over agent escapes",
@@ -341,21 +341,21 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "SEC reportedly investigating Nvidia amid Huang exit",
+          "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit",
+          "publishedAt": "2026-11-17T21:48:07+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Google joins the tech outage trend by announcing it’s not having one",
+          "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one",
+          "publishedAt": "2026-11-17T21:34:50+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Model ML raises $250M to automate investment banking grunt work",
           "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work",
           "publishedAt": "2026-11-17T19:32:11+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-          "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases",
-          "publishedAt": "2026-11-17T19:02:20+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-          "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off",
-          "publishedAt": "2026-11-17T18:48:23+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -417,7 +417,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-17T21:17:12+00:00",
+      "updatedAt": "2026-11-17T22:00:28+00:00",
       "stories": [
         {
           "title": "Learn how AI is changing supply chain robotics",
@@ -513,7 +513,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-17T21:17:12+00:00",
+    "updatedAt": "2026-11-17T22:00:28+00:00",
     "stories": [
       {
         "title": "California takes OpenAI to court over agent escapes",
@@ -534,9 +534,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NorthStar Earth & Space reports first earnings as a public company",
-        "url": "https://spaceq.ca/northstar-earth-space-q3-2026-results",
-        "publishedAt": "2026-11-17T18:50:00+00:00",
+        "title": "Vyoma to fly space-tracking sensors on 10 Kepler satellites",
+        "url": "https://spaceq.ca/vyoma-kepler-space-tracking-sensors",
+        "publishedAt": "2026-11-17T21:31:08+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -579,6 +579,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "NorthStar Earth & Space reports first earnings as a public company",
+        "url": "https://spaceq.ca/northstar-earth-space-q3-2026-results",
+        "publishedAt": "2026-11-17T18:50:00+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Astronaut Jenni Gibbons’ Whitehorse visit to include space station call with Kutryk",
         "url": "https://spaceq.ca/jenni-gibbons-whitehorse-visit-kutryk",
         "publishedAt": "2026-11-17T17:22:16+00:00",
@@ -594,15 +603,6 @@
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Army kicks off ‘manufacturing rodeo’ with focus on small drones",
-        "url": "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones",
-        "publishedAt": "2026-11-17T20:44:33+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
