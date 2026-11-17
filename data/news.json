@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-11-16T23:00:29+00:00",
+  "generatedAt": "2026-11-17T00:00:41+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-16T23:00:29+00:00",
+      "updatedAt": "2026-11-17T00:00:41+00:00",
       "stories": [
         {
           "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
           "url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor",
           "publishedAt": "2026-11-16T20:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
+          "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago",
+          "publishedAt": "2026-11-16T23:12:45+00:00",
+          "source": "NASA"
         },
         {
           "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
@@ -55,12 +61,6 @@
           "source": "NASA"
         },
         {
-          "title": "Thunderbirds in Formation",
-          "url": "https://www.nasa.gov/image-article/thunderbirds-in-formation",
-          "publishedAt": "2026-11-16T18:34:47+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
           "url": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member",
           "publishedAt": "2026-11-13T18:00:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-16T23:00:29+00:00",
+      "updatedAt": "2026-11-17T00:00:41+00:00",
       "stories": [
         {
           "title": "SpaceX catches its first Starship but loses the booster, at a cost",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-16T23:00:29+00:00",
+      "updatedAt": "2026-11-17T00:00:41+00:00",
       "stories": [
         {
           "title": "Fifth Canadian Armed Forces member dies following incident at Canadian Forces Base Wainwright",
@@ -211,8 +211,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-16T23:00:29+00:00",
+      "updatedAt": "2026-11-17T00:00:41+00:00",
       "stories": [
+        {
+          "title": "First permanently assigned F-15EXs touch down at Kadena Air Base",
+          "url": "https://www.defensenews.com/air/2026/11/16/first-permanently-assigned-f-15exs-touch-down-at-kadena-air-base",
+          "publishedAt": "2026-11-16T23:23:56+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Pentagon fails 9th audit, asserts path towards clean books in 2028",
           "url": "https://breakingdefense.com/2026/11/pentagon-fails-9th-audit-asserts-path-towards-clean-books-in-2028",
@@ -268,12 +274,6 @@
           "source": "Defense News"
         },
         {
-          "title": "US and Russia to oppose talks on limiting autonomous weapons",
-          "url": "https://www.defensenews.com/industry/techwatch/2026/11/16/us-and-russia-to-oppose-talks-on-limiting-autonomous-weapons",
-          "publishedAt": "2026-11-16T16:53:41+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Pentagon IDs companies and systems that will participate in high-energy laser ‘shoot-off’ with eye toward quick purchase orders",
           "url": "https://defensescoop.com/2026/11/16/counter-drone-high-energy-laser-shoot-off",
           "publishedAt": "2026-11-16T17:58:46+00:00",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-16T23:00:29+00:00",
+      "updatedAt": "2026-11-17T00:00:41+00:00",
       "stories": [
         {
           "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-16T23:00:29+00:00",
+      "updatedAt": "2026-11-17T00:00:41+00:00",
       "stories": [
         {
           "title": "Agile Robots raises $500M to increase production capacity",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-16T23:00:29+00:00",
+    "updatedAt": "2026-11-17T00:00:41+00:00",
     "stories": [
       {
         "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
@@ -549,10 +549,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Pentagon fails 9th audit, asserts path towards clean books in 2028",
-        "url": "https://breakingdefense.com/2026/11/pentagon-fails-9th-audit-asserts-path-towards-clean-books-in-2028",
-        "publishedAt": "2026-11-16T22:11:50+00:00",
-        "source": "Breaking Defense",
+        "title": "First permanently assigned F-15EXs touch down at Kadena Air Base",
+        "url": "https://www.defensenews.com/air/2026/11/16/first-permanently-assigned-f-15exs-touch-down-at-kadena-air-base",
+        "publishedAt": "2026-11-16T23:23:56+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -565,6 +565,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Pentagon fails 9th audit, asserts path towards clean books in 2028",
+        "url": "https://breakingdefense.com/2026/11/pentagon-fails-9th-audit-asserts-path-towards-clean-books-in-2028",
+        "publishedAt": "2026-11-16T22:11:50+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Vulcan failure deepens concerns over US military launch capacity",
@@ -580,15 +589,6 @@
         "url": "https://www.defensenews.com/global/mideast-africa/2026/11/16/us-army-takes-urgent-action-to-build-concrete-bunkers-across-the-middle-east",
         "publishedAt": "2026-11-16T20:43:10+00:00",
         "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "LeoLabs acquires FishEye to bolster its missile defense chops",
-        "url": "https://breakingdefense.com/2026/11/leolabs-acquires-fisheye-to-bolster-its-missile-defense-chops",
-        "publishedAt": "2026-11-16T19:01:00+00:00",
-        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
@@ -708,6 +708,6 @@
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
     "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-28"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-30"
   ]
 }
