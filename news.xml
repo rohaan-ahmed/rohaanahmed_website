@@ -5,16 +5,16 @@
     <link>https://rohaanahmed.com/news.html</link>
     <description>An automatically curated news feed built around my areas of interest</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 17 Nov 2026 12:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:32:12 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <guid isPermaLink="false">add544fde92af02c7840e8ef6bd68b79bc2b0fe72e060cc7ccda50840336dfdb</guid>
+      <guid isPermaLink="false">97bb2bfe3ffb7dbca236dcfd3e9d2528f6250f7728505a95bdd789d313460c3d</guid>
       <title>International Space (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-space</link>
-      <pubDate>Tue, 17 Nov 2026 12:00:31 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 12:32:12 +0000</pubDate>
       <category>International Space</category>
       <description>Topic: International Space
-Updated: 2026-11-17T12:00:31+00:00
+Updated: 2026-11-17T12:32:12+00:00
 Stories: 15</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
@@ -159,7 +159,7 @@ Headline: On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in 
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch</title>
+      <title>Relive Starship's historic Flight 15 with our best photos from launch and 'Mechazilla' tower catch</title>
       <link>https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch</link>
       <guid isPermaLink="false">8b5b61703ee64c100f6af88ba147e7d84d2e0039c0e9055027e7869630edde9b</guid>
       <pubDate>Mon, 16 Nov 2026 21:26:29 +0000</pubDate>
@@ -168,7 +168,7 @@ Headline: On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in 
       <description>Topic: International Space
 Source: Space.com
 Published: 2026-11-16T21:26:29+00:00
-Headline: Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch</description>
+Headline: Relive Starship's historic Flight 15 with our best photos from launch and 'Mechazilla' tower catch</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
@@ -311,13 +311,13 @@ Headline: Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Ride
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">f87f0cb5179cb6f6c8659d4f823961c8f79d7639e4f5e5ccac914fc149698bf3</guid>
+      <guid isPermaLink="false">bddf51329c37db891a32be71f265d61453aa1856c449e1f12e77e5e6485cba67</guid>
       <title>Canadian Space (11 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
-      <pubDate>Tue, 17 Nov 2026 12:00:31 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 12:32:12 +0000</pubDate>
       <category>Canadian Space</category>
       <description>Topic: Canadian Space
-Updated: 2026-11-17T12:00:31+00:00
+Updated: 2026-11-17T12:32:12+00:00
 Stories: 11</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
@@ -325,12 +325,32 @@ Stories: 11</description>
       <ra:kind>topic</ra:kind>
     </item>
     <item>
+      <title>Telesat lenders agree to hold off, buying time on December debt</title>
+      <link>https://spaceq.ca/telesat-standstill-geo-lenders-debt</link>
+      <guid isPermaLink="false">d997faa8f5000250dac34049e2a5f6d49d644506aeb678fac3e98118054a5a84</guid>
+      <pubDate>Tue, 17 Nov 2026 12:04:00 +0000</pubDate>
+      <category>Canadian Space</category>
+      <category>Bulletin</category>
+      <source url="https://spaceq.ca/">SpaceQ</source>
+      <description>Topic: Canadian Space
+Source: SpaceQ
+Published: 2026-11-17T12:04:00+00:00
+Headline: Telesat lenders agree to hold off, buying time on December debt</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>3</ra:bulletinPosition>
+      <ra:publishedAt>2026-11-17T12:04:00+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceQ</ra:sourceName>
+      <ra:kind>story</ra:kind>
+    </item>
+    <item>
       <title>SpaceX catches its first Starship but loses the booster, at a cost</title>
       <link>https://spaceq.ca/starship-flight-15-ship-catch-booster-lost</link>
       <guid isPermaLink="false">d57e587892fe638a3d9163ed43bb0ea13bb3e617fd6061180534faf948707d46</guid>
       <pubDate>Mon, 16 Nov 2026 17:20:55 +0000</pubDate>
       <category>Canadian Space</category>
-      <category>Bulletin</category>
       <source url="https://spaceq.ca/">SpaceQ</source>
       <description>Topic: Canadian Space
 Source: SpaceQ
@@ -339,8 +359,7 @@ Headline: SpaceX catches its first Starship but loses the booster, at a cost</de
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>3</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
       <ra:publishedAt>2026-11-16T17:20:55+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -359,7 +378,7 @@ Headline: Weekly ISS update: Kutryk calls Newfoundland students from orbit</desc
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
+      <ra:storyPosition>3</ra:storyPosition>
       <ra:publishedAt>2026-11-16T01:32:04+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -378,7 +397,7 @@ Headline: Magellan jumps on results as space index rises 4.1 per cent</descripti
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-11-15T23:17:36+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -397,7 +416,7 @@ Headline: Maritime Launch Services Q3 2026: bigger rockets, fewer shares</descri
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-11-13T21:19:24+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -416,7 +435,7 @@ Headline: Canadian Space Agency reports spending hit record $1.16 billion</descr
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
+      <ra:storyPosition>6</ra:storyPosition>
       <ra:publishedAt>2026-11-13T20:05:09+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -435,7 +454,7 @@ Headline: Obruta Space Solutions signs testing deal with Northern Ireland’s Re
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>6</ra:storyPosition>
+      <ra:storyPosition>7</ra:storyPosition>
       <ra:publishedAt>2026-11-13T16:26:02+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -454,7 +473,7 @@ Headline: DND Departmental Results Report shows space gains and a delay</descrip
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>7</ra:storyPosition>
+      <ra:storyPosition>8</ra:storyPosition>
       <ra:publishedAt>2026-11-12T22:57:41+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -473,7 +492,7 @@ Headline: Sarah McLean named Maritime Launch chief operating officer</descriptio
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>8</ra:storyPosition>
+      <ra:storyPosition>9</ra:storyPosition>
       <ra:publishedAt>2026-11-12T17:19:52+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -492,7 +511,7 @@ Headline: Senior is not a skill level: Rethinking startup hiring</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>9</ra:storyPosition>
+      <ra:storyPosition>10</ra:storyPosition>
       <ra:publishedAt>2026-11-12T16:55:04+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -511,38 +530,19 @@ Headline: Amateur radio contact between CSA astronaut Joshua Kutryk and students
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
+      <ra:storyPosition>11</ra:storyPosition>
       <ra:publishedAt>2026-11-12T15:09:07+00:00</ra:publishedAt>
       <ra:sourceName>Canadian Space Agency</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Rocket Lab Q3 2026: Neutron orders pile up before first flight</title>
-      <link>https://spaceq.ca/rocket-lab-q3-2026-neutron</link>
-      <guid isPermaLink="false">e9e2833eb7d43c443a8cb4f48ea42101dbb6bbb6a8c93fba3c05fb7475c845d8</guid>
-      <pubDate>Wed, 11 Nov 2026 15:44:00 +0000</pubDate>
-      <category>Canadian Space</category>
-      <source url="https://spaceq.ca/">SpaceQ</source>
-      <description>Topic: Canadian Space
-Source: SpaceQ
-Published: 2026-11-11T15:44:00+00:00
-Headline: Rocket Lab Q3 2026: Neutron orders pile up before first flight</description>
-      <ra:topicId>canadian-space</ra:topicId>
-      <ra:topicName>Canadian Space</ra:topicName>
-      <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>11</ra:storyPosition>
-      <ra:publishedAt>2026-11-11T15:44:00+00:00</ra:publishedAt>
-      <ra:sourceName>SpaceQ</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <guid isPermaLink="false">9f485ef79f0ca1db4dbdc31d32ba0cbd9fe4e357a505c7f5d75f1770b858ee73</guid>
+      <guid isPermaLink="false">598e2eab93776bd0bc9bd28d4ce86388d26ab7f882030b1782d544dfc708a8e2</guid>
       <title>Canadian Defence (5 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
-      <pubDate>Tue, 17 Nov 2026 12:00:31 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 12:32:12 +0000</pubDate>
       <category>Canadian Defence</category>
       <description>Topic: Canadian Defence
-Updated: 2026-11-17T12:00:31+00:00
+Updated: 2026-11-17T12:32:12+00:00
 Stories: 5</description>
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
@@ -647,13 +647,13 @@ Headline: Minister McGuinty to highlight Budget 2026 investments in supportive a
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">ad1aedecafc5011a427646a32715f3a3531e4c5475dd2cc148150cd5a9460be4</guid>
+      <guid isPermaLink="false">a2214a62deede07767334d7b4573beae9cc16aa791d40674c57b17408f0a0ab7</guid>
       <title>International Defence Technology (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
-      <pubDate>Tue, 17 Nov 2026 12:00:31 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 12:32:12 +0000</pubDate>
       <category>International Defence Technology</category>
       <description>Topic: International Defence Technology
-Updated: 2026-11-17T12:00:31+00:00
+Updated: 2026-11-17T12:32:12+00:00
 Stories: 15</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
@@ -950,13 +950,13 @@ Headline: Army CID looking for new commercial software tools to monitor darknet,
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">c860565d797e88c5f0d85378efdfe2ce13a03f5fb109094530a933c7b04dcde3</guid>
+      <guid isPermaLink="false">5720e2036fc705cde85546985c8f6326ff3979022bb6eb8f92fbcdac18de38c7</guid>
       <title>Artificial Intelligence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
-      <pubDate>Tue, 17 Nov 2026 12:00:31 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 12:32:12 +0000</pubDate>
       <category>Artificial Intelligence</category>
       <description>Topic: Artificial Intelligence
-Updated: 2026-11-17T12:00:31+00:00
+Updated: 2026-11-17T12:32:12+00:00
 Stories: 15</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
@@ -1255,13 +1255,13 @@ Headline: Jensen Huang resigns as Nvidia’s CEO</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">8be685feedaab4321ad3fec0da1332fbe00bfb111345f88a40b70fb16b54e821</guid>
+      <guid isPermaLink="false">778891947028bd8f4edcb9b1c39d8db082f71d0cf307868880be7eada48b42c5</guid>
       <title>Robotics (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-robotics</link>
-      <pubDate>Tue, 17 Nov 2026 12:00:31 +0000</pubDate>
+      <pubDate>Tue, 17 Nov 2026 12:32:12 +0000</pubDate>
       <category>Robotics</category>
       <description>Topic: Robotics
-Updated: 2026-11-17T12:00:31+00:00
+Updated: 2026-11-17T12:32:12+00:00
 Stories: 15</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>

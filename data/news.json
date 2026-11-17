@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T12:00:31+00:00",
+  "generatedAt": "2026-11-17T12:32:12+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-17T12:00:31+00:00",
+      "updatedAt": "2026-11-17T12:32:12+00:00",
       "stories": [
         {
           "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
@@ -49,7 +49,7 @@
           "source": "Space.com"
         },
         {
-          "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch",
+          "title": "Relive Starship's historic Flight 15 with our best photos from launch and 'Mechazilla' tower catch",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
           "publishedAt": "2026-11-16T21:26:29+00:00",
           "source": "Space.com"
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-17T12:00:31+00:00",
+      "updatedAt": "2026-11-17T12:32:12+00:00",
       "stories": [
+        {
+          "title": "Telesat lenders agree to hold off, buying time on December debt",
+          "url": "https://spaceq.ca/telesat-standstill-geo-lenders-debt",
+          "publishedAt": "2026-11-17T12:04:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "SpaceX catches its first Starship but loses the booster, at a cost",
           "url": "https://spaceq.ca/starship-flight-15-ship-catch-booster-lost",
@@ -162,19 +168,13 @@
           "url": "https://www.canada.ca/en/space-agency/news/2026/11/amateur-radio-contact-between-csa-astronaut-joshua-kutryk-and-students-in-halifax.html",
           "publishedAt": "2026-11-12T15:09:07+00:00",
           "source": "Canadian Space Agency"
-        },
-        {
-          "title": "Rocket Lab Q3 2026: Neutron orders pile up before first flight",
-          "url": "https://spaceq.ca/rocket-lab-q3-2026-neutron",
-          "publishedAt": "2026-11-11T15:44:00+00:00",
-          "source": "SpaceQ"
         }
       ]
     },
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-17T12:00:31+00:00",
+      "updatedAt": "2026-11-17T12:32:12+00:00",
       "stories": [
         {
           "title": "Fifth Canadian Armed Forces member dies following incident at Canadian Forces Base Wainwright",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-17T12:00:31+00:00",
+      "updatedAt": "2026-11-17T12:32:12+00:00",
       "stories": [
         {
           "title": "New pact positions the Philippines as a defense hub for Australian troops",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-17T12:00:31+00:00",
+      "updatedAt": "2026-11-17T12:32:12+00:00",
       "stories": [
         {
           "title": "California takes OpenAI to court over agent escapes",
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-17T12:00:31+00:00",
+      "updatedAt": "2026-11-17T12:32:12+00:00",
       "stories": [
         {
           "title": "The hidden reason most robots fail on the factory floor",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-17T12:00:31+00:00",
+    "updatedAt": "2026-11-17T12:32:12+00:00",
     "stories": [
       {
         "title": "California takes OpenAI to court over agent escapes",
@@ -522,9 +522,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "SpaceX catches its first Starship but loses the booster, at a cost",
-        "url": "https://spaceq.ca/starship-flight-15-ship-catch-booster-lost",
-        "publishedAt": "2026-11-16T17:20:55+00:00",
+        "title": "Telesat lenders agree to hold off, buying time on December debt",
+        "url": "https://spaceq.ca/telesat-standstill-geo-lenders-debt",
+        "publishedAt": "2026-11-17T12:04:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
