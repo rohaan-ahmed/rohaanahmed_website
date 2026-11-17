@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-17T07:00:46+00:00",
+  "generatedAt": "2026-11-17T08:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-17T07:00:46+00:00",
+      "updatedAt": "2026-11-17T08:00:33+00:00",
       "stories": [
+        {
+          "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
+          "url": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027",
+          "publishedAt": "2026-11-17T08:00:00+00:00",
+          "source": "SpaceNews"
+        },
         {
           "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
           "url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor",
@@ -89,19 +95,13 @@
           "url": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare",
           "publishedAt": "2026-11-11T15:53:57+00:00",
           "source": "SpaceNews"
-        },
-        {
-          "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
-          "url": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push",
-          "publishedAt": "2026-11-11T13:00:00+00:00",
-          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-17T07:00:46+00:00",
+      "updatedAt": "2026-11-17T08:00:33+00:00",
       "stories": [
         {
           "title": "SpaceX catches its first Starship but loses the booster, at a cost",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-17T07:00:46+00:00",
+      "updatedAt": "2026-11-17T08:00:33+00:00",
       "stories": [
         {
           "title": "Fifth Canadian Armed Forces member dies following incident at Canadian Forces Base Wainwright",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-17T07:00:46+00:00",
+      "updatedAt": "2026-11-17T08:00:33+00:00",
       "stories": [
         {
           "title": "Senate appropriators unveil $1.1T Pentagon spending bill, folding in reconciliation priorities",
@@ -308,7 +308,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-17T07:00:46+00:00",
+      "updatedAt": "2026-11-17T08:00:33+00:00",
       "stories": [
         {
           "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -359,14 +359,14 @@
           "source": "TLDR AI"
         },
         {
-          "title": "On the Brutality of Amdahl's Law (12 minute read)",
-          "url": "https://bosoncutter.substack.com/p/on-the-brutality-of-amdahls-law",
+          "title": "End-to-End 4-Bit AI Training (9 minute read)",
+          "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training",
           "publishedAt": "2026-11-16T00:00:00+00:00",
           "source": "TLDR AI"
         },
         {
-          "title": "End-to-End 4-Bit AI Training (9 minute read)",
-          "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training",
+          "title": "On the Brutality of Amdahl's Law (12 minute read)",
+          "url": "https://bosoncutter.substack.com/p/on-the-brutality-of-amdahls-law",
           "publishedAt": "2026-11-16T00:00:00+00:00",
           "source": "TLDR AI"
         },
@@ -405,7 +405,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-17T07:00:46+00:00",
+      "updatedAt": "2026-11-17T08:00:33+00:00",
       "stories": [
         {
           "title": "The hidden reason most robots fail on the factory floor",
@@ -501,7 +501,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-17T07:00:46+00:00",
+    "updatedAt": "2026-11-17T08:00:33+00:00",
     "stories": [
       {
         "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -531,9 +531,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
-        "url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor",
-        "publishedAt": "2026-11-16T20:00:00+00:00",
+        "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
+        "url": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027",
+        "publishedAt": "2026-11-17T08:00:00+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -567,6 +567,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
+        "url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor",
+        "publishedAt": "2026-11-16T20:00:00+00:00",
+        "source": "SpaceNews",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
         "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora",
         "publishedAt": "2026-11-17T05:05:00+00:00",
@@ -582,15 +591,6 @@
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "First permanently assigned F-15EXs touch down at Kadena Air Base",
-        "url": "https://www.defensenews.com/air/2026/11/16/first-permanently-assigned-f-15exs-touch-down-at-kadena-air-base",
-        "publishedAt": "2026-11-16T23:23:56+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
