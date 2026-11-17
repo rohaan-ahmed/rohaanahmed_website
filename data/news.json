@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T00:00:41+00:00",
+  "generatedAt": "2026-11-17T01:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-17T00:00:41+00:00",
+      "updatedAt": "2026-11-17T01:00:30+00:00",
       "stories": [
         {
           "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-17T00:00:41+00:00",
+      "updatedAt": "2026-11-17T01:00:30+00:00",
       "stories": [
         {
           "title": "SpaceX catches its first Starship but loses the booster, at a cost",
@@ -174,7 +174,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-17T00:00:41+00:00",
+      "updatedAt": "2026-11-17T01:00:30+00:00",
       "stories": [
         {
           "title": "Fifth Canadian Armed Forces member dies following incident at Canadian Forces Base Wainwright",
@@ -211,7 +211,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-17T00:00:41+00:00",
+      "updatedAt": "2026-11-17T01:00:30+00:00",
       "stories": [
         {
           "title": "First permanently assigned F-15EXs touch down at Kadena Air Base",
@@ -308,8 +308,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-17T00:00:41+00:00",
+      "updatedAt": "2026-11-17T01:00:30+00:00",
       "stories": [
+        {
+          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+          "publishedAt": "2026-11-16T23:32:32+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
           "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont",
@@ -350,12 +356,6 @@
           "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
           "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
           "publishedAt": "2026-11-16T17:36:43+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-          "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street",
-          "publishedAt": "2026-11-16T17:10:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -405,8 +405,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-17T00:00:41+00:00",
+      "updatedAt": "2026-11-17T01:00:30+00:00",
       "stories": [
+        {
+          "title": "The hidden reason most robots fail on the factory floor",
+          "url": "https://www.therobotreport.com/the-hidden-reason-most-robots-fail-on-the-factory-floor",
+          "publishedAt": "2026-11-16T23:49:56+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "Agile Robots raises $500M to increase production capacity",
           "url": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity",
@@ -480,12 +486,6 @@
           "source": "The Robot Report"
         },
         {
-          "title": "Serve Robotics opens robot delivery network for others to build on",
-          "url": "https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on",
-          "publishedAt": "2026-11-11T13:43:29+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
           "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot",
           "publishedAt": "2026-11-10T13:30:00+00:00",
@@ -501,22 +501,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-17T00:00:41+00:00",
+    "updatedAt": "2026-11-17T01:00:30+00:00",
     "stories": [
       {
-        "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-        "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont",
-        "publishedAt": "2026-11-16T22:03:02+00:00",
+        "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+        "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+        "publishedAt": "2026-11-16T23:32:32+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Musk, Nvidia staff rally to bring back Jensen Huang",
-        "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
-        "publishedAt": "2026-11-16T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+        "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont",
+        "publishedAt": "2026-11-16T22:03:02+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -558,9 +558,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Agile Robots raises $500M to increase production capacity",
-        "url": "https://www.therobotreport.com/agile-robots-raises-500m-to-increase-production-capacity",
-        "publishedAt": "2026-11-16T17:47:48+00:00",
+        "title": "The hidden reason most robots fail on the factory floor",
+        "url": "https://www.therobotreport.com/the-hidden-reason-most-robots-fail-on-the-factory-floor",
+        "publishedAt": "2026-11-16T23:49:56+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
@@ -706,8 +706,8 @@
     }
   ],
   "warnings": [
-    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
     "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-30"
+    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-04"
   ]
 }
