@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-18T14:00:35+00:00",
+  "generatedAt": "2026-11-18T15:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-18T14:00:35+00:00",
+      "updatedAt": "2026-11-18T15:00:32+00:00",
       "stories": [
+        {
+          "title": "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Original Series",
+          "url": "https://www.space.com/entertainment/space-toys-lego/the-lego-star-trek-bridge-diorama-set-should-be-your-gateway-to-finally-watching-the-original-series",
+          "publishedAt": "2026-11-18T14:04:28+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "India's SatLeo Labs wants to build a 'thermometer for Earth' in space",
           "url": "https://www.space.com/space-exploration/satellites/indias-satleo-labs-wants-to-build-a-thermometer-for-earth-in-space",
@@ -55,12 +61,6 @@
           "source": "NASA"
         },
         {
-          "title": "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?",
-          "url": "https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up",
-          "publishedAt": "2026-11-17T21:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
           "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records",
           "publishedAt": "2026-11-17T21:50:34+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-18T14:00:35+00:00",
+      "updatedAt": "2026-11-18T15:00:32+00:00",
       "stories": [
         {
           "title": "Vyoma to fly space-tracking sensors on 10 Kepler satellites",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-18T14:00:35+00:00",
+      "updatedAt": "2026-11-18T15:00:32+00:00",
       "stories": [
         {
           "title": "Minister McGuinty announces new military aid to Ukraine at Ukraine Defense Contact Group meeting",
@@ -229,8 +229,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-18T14:00:35+00:00",
+      "updatedAt": "2026-11-18T15:00:32+00:00",
       "stories": [
+        {
+          "title": "The Pentagon fails another audit. Can it turn things around by 2028?",
+          "url": "https://breakingdefense.com/2026/11/the-pentagon-fails-another-audit-can-it-turn-things-around-by-2028",
+          "publishedAt": "2026-11-18T14:23:52+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "From mine to magnet: What defense buyers need to verify before 2027",
           "url": "https://breakingdefense.com/2026/11/from-mine-to-magnet-what-defense-buyers-need-to-verify-before-2027",
@@ -271,12 +277,6 @@
           "title": "Army kicks off ‘manufacturing rodeo’ with focus on small drones",
           "url": "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones",
           "publishedAt": "2026-11-17T20:44:33+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Army Aviation fleet facing more accidents, lower readiness rates: Obadal",
-          "url": "https://breakingdefense.com/2026/11/army-aviation-fleet-facing-more-accidents-lower-readiness-rates-obadal",
-          "publishedAt": "2026-11-17T19:42:06+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-18T14:00:35+00:00",
+      "updatedAt": "2026-11-18T15:00:32+00:00",
       "stories": [
         {
           "title": "OpenAI drops GPT-6.2 Astra, Sol to mixed fanfare",
@@ -339,6 +339,42 @@
           "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
           "publishedAt": "2026-11-18T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Microsoft's Seven New Models (4 minute read)",
+          "url": "https://microsoft.ai/news/microsoft-ignite-2026",
+          "publishedAt": "2026-11-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Replit Missions (8 minute read)",
+          "url": "https://replit.com/blog/introducing-replit-missions",
+          "publishedAt": "2026-11-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Horizon Labs (12 minute read)",
+          "url": "https://horizon-labs.ai/",
+          "publishedAt": "2026-11-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Weight-Space Programming builds neural networks like a 1990s researcher (20 minute read)",
+          "url": "https://notesbylex.com/weight-space-programming-1990s.html",
+          "publishedAt": "2026-11-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Vercel's eve 1.0 (10 minute read)",
+          "url": "https://vercel.com/blog/eve-is-now-generally-available",
+          "publishedAt": "2026-11-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Become a founding member of TLDR's AI community (2 minute form)",
+          "url": "https://danni763618.typeform.com/to/H1tYViME",
+          "publishedAt": "2026-11-18T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
@@ -377,42 +413,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "NVIDIA's Rubin HPC (2 minute read)",
-          "url": "https://blogs.nvidia.com/blog/rubin-hpc",
-          "publishedAt": "2026-11-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Tencent Launches Hy4 flash (4 minute read)",
-          "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows",
-          "publishedAt": "2026-11-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Claude was trained on protein sequences at scale (26 minute read)",
-          "url": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences",
-          "publishedAt": "2026-11-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Measuring alignment eval tells (16 minute read)",
-          "url": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells",
-          "publishedAt": "2026-11-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "World 2030 (8 minute read)",
-          "url": "https://world-2030.pages.dev/",
-          "publishedAt": "2026-11-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "d1.2: State-of-the-Art Omnimodal Decision Models (5 minute read)",
-          "url": "https://www.liquid.ai/blog/d1-2",
-          "publishedAt": "2026-11-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Musk, Nvidia staff rally to bring back Jensen Huang",
           "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
           "publishedAt": "2026-11-16T10:00:00+00:00",
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-18T14:00:35+00:00",
+      "updatedAt": "2026-11-18T15:00:32+00:00",
       "stories": [
         {
           "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-18T14:00:35+00:00",
+    "updatedAt": "2026-11-18T15:00:32+00:00",
     "stories": [
       {
         "title": "OpenAI drops GPT-6.2 Astra, Sol to mixed fanfare",
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "India's SatLeo Labs wants to build a 'thermometer for Earth' in space",
-        "url": "https://www.space.com/space-exploration/satellites/indias-satleo-labs-wants-to-build-a-thermometer-for-earth-in-space",
-        "publishedAt": "2026-11-18T13:00:00+00:00",
+        "title": "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Original Series",
+        "url": "https://www.space.com/entertainment/space-toys-lego/the-lego-star-trek-bridge-diorama-set-should-be-your-gateway-to-finally-watching-the-original-series",
+        "publishedAt": "2026-11-18T14:04:28+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -567,9 +567,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "From mine to magnet: What defense buyers need to verify before 2027",
-        "url": "https://breakingdefense.com/2026/11/from-mine-to-magnet-what-defense-buyers-need-to-verify-before-2027",
-        "publishedAt": "2026-11-18T13:25:00+00:00",
+        "title": "The Pentagon fails another audit. Can it turn things around by 2028?",
+        "url": "https://breakingdefense.com/2026/11/the-pentagon-fails-another-audit-can-it-turn-things-around-by-2028",
+        "publishedAt": "2026-11-18T14:23:52+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -585,6 +585,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "From mine to magnet: What defense buyers need to verify before 2027",
+        "url": "https://breakingdefense.com/2026/11/from-mine-to-magnet-what-defense-buyers-need-to-verify-before-2027",
+        "publishedAt": "2026-11-18T13:25:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
         "url": "https://www.defensenews.com/global/europe/2026/11/18/eu-proposes-e45-billion-ukraine-loan-to-be-repaid-after-russia-pays-reparations",
         "publishedAt": "2026-11-18T13:20:41+00:00",
@@ -594,18 +603,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
-        "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds",
+        "title": "India's SatLeo Labs wants to build a 'thermometer for Earth' in space",
+        "url": "https://www.space.com/space-exploration/satellites/indias-satleo-labs-wants-to-build-a-thermometer-for-earth-in-space",
         "publishedAt": "2026-11-18T13:00:00+00:00",
-        "source": "TechCrunch AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "1 light-day from Earth! NASA's Voyager 1 probe hits huge milestone in interstellar space",
-        "url": "https://www.space.com/space-exploration/voyager/1-light-day-from-earth-nasas-voyager-1-probe-hits-huge-milestone-in-interstellar-space",
-        "publishedAt": "2026-11-18T11:35:47+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
