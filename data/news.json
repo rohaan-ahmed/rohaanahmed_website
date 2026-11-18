@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-18T15:00:32+00:00",
+  "generatedAt": "2026-11-18T16:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-18T15:00:32+00:00",
+      "updatedAt": "2026-11-18T16:00:31+00:00",
       "stories": [
+        {
+          "title": "Supernova explodes before astronomers' eyes | Space photo of the day for Nov. 18, 2026",
+          "url": "https://www.space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026",
+          "publishedAt": "2026-11-18T15:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Original Series",
           "url": "https://www.space.com/entertainment/space-toys-lego/the-lego-star-trek-bridge-diorama-set-should-be-your-gateway-to-finally-watching-the-original-series",
@@ -41,12 +47,6 @@
           "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up",
           "publishedAt": "2026-11-18T05:01:00+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "NASA's Voyager 1 launched second, so how did it beat Voyager 2 to a light-day by nearly a decade?",
-          "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade",
-          "publishedAt": "2026-11-17T22:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-18T15:00:32+00:00",
+      "updatedAt": "2026-11-18T16:00:31+00:00",
       "stories": [
         {
           "title": "Vyoma to fly space-tracking sensors on 10 Kepler satellites",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-18T15:00:32+00:00",
+      "updatedAt": "2026-11-18T16:00:31+00:00",
       "stories": [
         {
           "title": "Minister McGuinty announces new military aid to Ukraine at Ukraine Defense Contact Group meeting",
@@ -229,8 +229,20 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-18T15:00:32+00:00",
+      "updatedAt": "2026-11-18T16:00:31+00:00",
       "stories": [
+        {
+          "title": "Britain has the frigate the US needs, and Americans should build it: UK minister",
+          "url": "https://breakingdefense.com/2026/11/britain-has-the-frigate-the-us-needs-and-americans-should-build-it-uk-minister",
+          "publishedAt": "2026-11-18T15:15:00+00:00",
+          "source": "Breaking Defense"
+        },
+        {
+          "title": "As UNIFIL winds down, Israeli presence in Lebanon complicates handover process",
+          "url": "https://www.defensenews.com/global/mideast-africa/2026/11/18/as-unifil-winds-down-israeli-presence-in-lebanon-complicates-handover-process",
+          "publishedAt": "2026-11-18T15:49:03+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "The Pentagon fails another audit. Can it turn things around by 2028?",
           "url": "https://breakingdefense.com/2026/11/the-pentagon-fails-another-audit-can-it-turn-things-around-by-2028",
@@ -274,21 +286,9 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Army kicks off ‘manufacturing rodeo’ with focus on small drones",
-          "url": "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones",
-          "publishedAt": "2026-11-17T20:44:33+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Watch a large aerial drone evacuate a wounded Ukrainian soldier from the front line",
           "url": "https://www.defensenews.com/video/2026/11/17/watch-a-large-aerial-drone-evacuate-a-wounded-ukrainian-soldier-from-the-front-line",
           "publishedAt": "2026-11-17T20:31:20+00:00",
-          "source": "Defense News"
-        },
-        {
-          "title": "LaNeve formally nominated for Army chief of staff role",
-          "url": "https://www.defensenews.com/news/pentagon-congress/2026/11/17/laneve-formally-nominated-for-army-chief-of-staff-role",
-          "publishedAt": "2026-11-17T19:33:32+00:00",
           "source": "Defense News"
         },
         {
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-18T15:00:32+00:00",
+      "updatedAt": "2026-11-18T16:00:31+00:00",
       "stories": [
         {
           "title": "OpenAI drops GPT-6.2 Astra, Sol to mixed fanfare",
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-18T15:00:32+00:00",
+      "updatedAt": "2026-11-18T16:00:31+00:00",
       "stories": [
         {
           "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-18T15:00:32+00:00",
+    "updatedAt": "2026-11-18T16:00:31+00:00",
     "stories": [
       {
         "title": "OpenAI drops GPT-6.2 Astra, Sol to mixed fanfare",
@@ -549,9 +549,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Original Series",
-        "url": "https://www.space.com/entertainment/space-toys-lego/the-lego-star-trek-bridge-diorama-set-should-be-your-gateway-to-finally-watching-the-original-series",
-        "publishedAt": "2026-11-18T14:04:28+00:00",
+        "title": "Supernova explodes before astronomers' eyes | Space photo of the day for Nov. 18, 2026",
+        "url": "https://www.space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026",
+        "publishedAt": "2026-11-18T15:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -567,9 +567,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The Pentagon fails another audit. Can it turn things around by 2028?",
-        "url": "https://breakingdefense.com/2026/11/the-pentagon-fails-another-audit-can-it-turn-things-around-by-2028",
-        "publishedAt": "2026-11-18T14:23:52+00:00",
+        "title": "Britain has the frigate the US needs, and Americans should build it: UK minister",
+        "url": "https://breakingdefense.com/2026/11/britain-has-the-frigate-the-us-needs-and-americans-should-build-it-uk-minister",
+        "publishedAt": "2026-11-18T15:15:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -585,30 +585,30 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "From mine to magnet: What defense buyers need to verify before 2027",
-        "url": "https://breakingdefense.com/2026/11/from-mine-to-magnet-what-defense-buyers-need-to-verify-before-2027",
-        "publishedAt": "2026-11-18T13:25:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
-        "url": "https://www.defensenews.com/global/europe/2026/11/18/eu-proposes-e45-billion-ukraine-loan-to-be-repaid-after-russia-pays-reparations",
-        "publishedAt": "2026-11-18T13:20:41+00:00",
+        "title": "As UNIFIL winds down, Israeli presence in Lebanon complicates handover process",
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/11/18/as-unifil-winds-down-israeli-presence-in-lebanon-complicates-handover-process",
+        "publishedAt": "2026-11-18T15:49:03+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "India's SatLeo Labs wants to build a 'thermometer for Earth' in space",
-        "url": "https://www.space.com/space-exploration/satellites/indias-satleo-labs-wants-to-build-a-thermometer-for-earth-in-space",
-        "publishedAt": "2026-11-18T13:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "The Pentagon fails another audit. Can it turn things around by 2028?",
+        "url": "https://breakingdefense.com/2026/11/the-pentagon-fails-another-audit-can-it-turn-things-around-by-2028",
+        "publishedAt": "2026-11-18T14:23:52+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "From mine to magnet: What defense buyers need to verify before 2027",
+        "url": "https://breakingdefense.com/2026/11/from-mine-to-magnet-what-defense-buyers-need-to-verify-before-2027",
+        "publishedAt": "2026-11-18T13:25:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
