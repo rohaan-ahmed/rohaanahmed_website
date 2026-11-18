@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T12:00:32+00:00",
+  "generatedAt": "2026-11-18T13:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-18T12:00:32+00:00",
+      "updatedAt": "2026-11-18T13:00:31+00:00",
       "stories": [
         {
           "title": "1 light-day from Earth! NASA's Voyager 1 probe hits huge milestone in interstellar space",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-18T12:00:32+00:00",
+      "updatedAt": "2026-11-18T13:00:31+00:00",
       "stories": [
         {
           "title": "Vyoma to fly space-tracking sensors on 10 Kepler satellites",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-18T12:00:32+00:00",
+      "updatedAt": "2026-11-18T13:00:31+00:00",
       "stories": [
         {
           "title": "Minister McGuinty announces new military aid to Ukraine at Ukraine Defense Contact Group meeting",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-18T12:00:32+00:00",
+      "updatedAt": "2026-11-18T13:00:31+00:00",
       "stories": [
         {
           "title": "Acting Navy Secretary Hung Cao faces transparency questions in Senate confirmation hearing",
@@ -326,7 +326,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-18T12:00:32+00:00",
+      "updatedAt": "2026-11-18T13:00:31+00:00",
       "stories": [
         {
           "title": "OpenAI drops GPT-6.2 Astra, Sol to mixed fanfare",
@@ -339,6 +339,18 @@
           "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
           "publishedAt": "2026-11-18T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+          "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds",
+          "publishedAt": "2026-11-18T13:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+          "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents",
+          "publishedAt": "2026-11-18T12:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
@@ -356,6 +368,12 @@
           "title": "Nvidia promises that revenue will keep soaring — for now",
           "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now",
           "publishedAt": "2026-11-18T00:16:50+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster",
+          "publishedAt": "2026-11-17T23:37:48+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -377,45 +395,27 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "NVIDIA's Rubin HPC (2 minute read)",
-          "url": "https://blogs.nvidia.com/blog/rubin-hpc",
-          "publishedAt": "2026-11-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Tencent Launches Hy4 flash (4 minute read)",
-          "url": "https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows",
-          "publishedAt": "2026-11-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Claude was trained on protein sequences at scale (26 minute read)",
-          "url": "https://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences",
-          "publishedAt": "2026-11-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Measuring alignment eval tells (16 minute read)",
-          "url": "https://metr.org/notes/2026-11-16-measuring-alignment-eval-tells",
-          "publishedAt": "2026-11-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "World 2030 (8 minute read)",
-          "url": "https://world-2030.pages.dev/",
-          "publishedAt": "2026-11-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "d1.2: State-of-the-Art Omnimodal Decision Models (5 minute read)",
-          "url": "https://www.liquid.ai/blog/d1-2",
-          "publishedAt": "2026-11-17T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Musk, Nvidia staff rally to bring back Jensen Huang",
           "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
           "publishedAt": "2026-11-16T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Report: OpenAI folds robotics team into core research",
+          "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+          "publishedAt": "2026-11-16T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Jensen Huang resigns as Nvidia’s CEO",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+          "publishedAt": "2026-11-13T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "How I use AI to coach my calls",
+          "url": "https://www.instagram.com/rowancheung",
+          "publishedAt": "2026-11-13T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -423,7 +423,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-18T12:00:32+00:00",
+      "updatedAt": "2026-11-18T13:00:31+00:00",
       "stories": [
         {
           "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
@@ -519,7 +519,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-18T12:00:32+00:00",
+    "updatedAt": "2026-11-18T13:00:31+00:00",
     "stories": [
       {
         "title": "OpenAI drops GPT-6.2 Astra, Sol to mixed fanfare",
@@ -585,30 +585,30 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-        "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers",
-        "publishedAt": "2026-11-18T11:30:00+00:00",
+        "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+        "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds",
+        "publishedAt": "2026-11-18T13:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "NorthStar Earth & Space reports first earnings as a public company",
-        "url": "https://spaceq.ca/northstar-earth-space-q3-2026-results",
-        "publishedAt": "2026-11-17T18:50:00+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
+        "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+        "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents",
+        "publishedAt": "2026-11-18T12:00:00+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "How AI is pushing satellites to evolve",
-        "url": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve",
-        "publishedAt": "2026-11-17T17:02:33+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+        "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers",
+        "publishedAt": "2026-11-18T11:30:00+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -725,6 +725,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-04"
   ]
 }
