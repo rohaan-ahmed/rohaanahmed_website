@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T11:00:31+00:00",
+  "generatedAt": "2026-11-18T11:29:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-18T11:00:31+00:00",
+      "updatedAt": "2026-11-18T11:29:31+00:00",
       "stories": [
         {
           "title": "How AI is pushing satellites to evolve",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-18T11:00:31+00:00",
+      "updatedAt": "2026-11-18T11:29:31+00:00",
       "stories": [
         {
           "title": "Vyoma to fly space-tracking sensors on 10 Kepler satellites",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-18T11:00:31+00:00",
+      "updatedAt": "2026-11-18T11:29:31+00:00",
       "stories": [
         {
           "title": "Minister McGuinty announces new military aid to Ukraine at Ukraine Defense Contact Group meeting",
@@ -229,7 +229,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-18T11:00:31+00:00",
+      "updatedAt": "2026-11-18T11:29:31+00:00",
       "stories": [
         {
           "title": "Acting Navy Secretary Hung Cao faces transparency questions in Senate confirmation hearing",
@@ -326,8 +326,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-18T11:00:31+00:00",
+      "updatedAt": "2026-11-18T11:29:31+00:00",
       "stories": [
+        {
+          "title": "OpenAI drops GPT-6.2 Astra, Sol to mixed fanfare",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "publishedAt": "2026-11-18T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "AI finds a hole in Java as NATO taps OpenAI",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
+          "publishedAt": "2026-11-18T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
           "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt",
@@ -405,25 +417,13 @@
           "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
           "publishedAt": "2026-11-16T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Report: OpenAI folds robotics team into core research",
-          "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
-          "publishedAt": "2026-11-16T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Jensen Huang resigns as Nvidia’s CEO",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-          "publishedAt": "2026-11-13T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-18T11:00:31+00:00",
+      "updatedAt": "2026-11-18T11:29:31+00:00",
       "stories": [
         {
           "title": "California DMV bars Waymo AVs from operating on the state’s freeways",
@@ -519,22 +519,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-18T11:00:31+00:00",
+    "updatedAt": "2026-11-18T11:29:31+00:00",
     "stories": [
       {
-        "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-        "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt",
-        "publishedAt": "2026-11-18T01:44:21+00:00",
-        "source": "TechCrunch AI",
+        "title": "OpenAI drops GPT-6.2 Astra, Sol to mixed fanfare",
+        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+        "publishedAt": "2026-11-18T11:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Nvidia promises that revenue will keep soaring — for now",
-        "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now",
-        "publishedAt": "2026-11-18T00:16:50+00:00",
-        "source": "TechCrunch AI",
+        "title": "AI finds a hole in Java as NATO taps OpenAI",
+        "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
+        "publishedAt": "2026-11-18T11:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
