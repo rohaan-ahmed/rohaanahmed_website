@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T18:36:56+00:00",
+  "generatedAt": "2026-11-19T19:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-19T18:36:56+00:00",
+      "updatedAt": "2026-11-19T19:00:32+00:00",
       "stories": [
         {
           "title": "The sweet spot for constellation size",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-19T18:36:56+00:00",
+      "updatedAt": "2026-11-19T19:00:32+00:00",
       "stories": [
         {
           "title": "Dominion Dynamics, Telesat to build Arctic antennas for Lightspeed",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-19T18:36:56+00:00",
+      "updatedAt": "2026-11-19T19:00:32+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal",
@@ -241,8 +241,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-19T18:36:56+00:00",
+      "updatedAt": "2026-11-19T19:00:32+00:00",
       "stories": [
+        {
+          "title": "Pentagon lacks ‘overarching plan’ for munitions production, watchdog warns",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/11/19/pentagon-lacks-overarching-plan-for-munitions-production-watchdog-warns",
+          "publishedAt": "2026-11-19T18:59:12+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "France and Sweden hold first joint nuclear-deterrence exercise",
           "url": "https://www.defensenews.com/global/europe/2026/11/19/france-and-sweden-hold-first-joint-nuclear-deterrence-exercise",
@@ -304,12 +310,6 @@
           "source": "Defense News"
         },
         {
-          "title": "MBDA and German startup Atmos team up to study space-based strike weapons",
-          "url": "https://www.defensenews.com/global/europe/2026/11/19/mbda-and-german-startup-atmos-team-up-to-study-space-based-strike-weapons",
-          "publishedAt": "2026-11-19T10:36:23+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Navy to test new software platform for Project Roundtable",
           "url": "https://defensescoop.com/2026/11/18/navy-software-platform-project-roundtable",
           "publishedAt": "2026-11-18T21:56:25+00:00",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-19T18:36:56+00:00",
+      "updatedAt": "2026-11-19T19:00:32+00:00",
       "stories": [
         {
           "title": "Google’s shipping spree continues with Neon",
@@ -401,8 +401,8 @@
           "source": "TLDR AI"
         },
         {
-          "title": "Context API extracts full context from any web page (6 minute read)",
-          "url": "https://www.perplexity.ai/hub/blog/context-api-extracts-full-context-from-any-web-page",
+          "title": "Become a founding member of TLDR's AI community (2 minute form)",
+          "url": "https://danni763618.typeform.com/to/H1tYViME",
           "publishedAt": "2026-11-19T00:00:00+00:00",
           "source": "TLDR AI"
         },
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-19T18:36:56+00:00",
+      "updatedAt": "2026-11-19T19:00:32+00:00",
       "stories": [
         {
           "title": "What industrial drone deployments reveal about real-world autonomy challenges",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-19T18:36:56+00:00",
+    "updatedAt": "2026-11-19T19:00:32+00:00",
     "stories": [
       {
         "title": "Google’s shipping spree continues with Neon",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "France and Sweden hold first joint nuclear-deterrence exercise",
-        "url": "https://www.defensenews.com/global/europe/2026/11/19/france-and-sweden-hold-first-joint-nuclear-deterrence-exercise",
-        "publishedAt": "2026-11-19T18:24:10+00:00",
+        "title": "Pentagon lacks ‘overarching plan’ for munitions production, watchdog warns",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/11/19/pentagon-lacks-overarching-plan-for-munitions-production-watchdog-warns",
+        "publishedAt": "2026-11-19T18:59:12+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -606,19 +606,19 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Raytheon taps Ursa Major, Avio USA as second source for Tomahawk solid rocket motors",
-        "url": "https://breakingdefense.com/2026/11/raytheon-taps-ursa-major-avio-usa-as-second-source-for-tomahawk-solid-rocket-motors",
-        "publishedAt": "2026-11-19T17:24:48+00:00",
-        "source": "Breaking Defense",
+        "title": "France and Sweden hold first joint nuclear-deterrence exercise",
+        "url": "https://www.defensenews.com/global/europe/2026/11/19/france-and-sweden-hold-first-joint-nuclear-deterrence-exercise",
+        "publishedAt": "2026-11-19T18:24:10+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "F-35C completes first launch and recovery trials on a Ford-class carrier",
-        "url": "https://www.defensenews.com/air/2026/11/19/f-35c-completes-first-launch-and-recovery-trials-on-a-ford-class-carrier",
-        "publishedAt": "2026-11-19T17:38:00+00:00",
-        "source": "Defense News",
+        "title": "Raytheon taps Ursa Major, Avio USA as second source for Tomahawk solid rocket motors",
+        "url": "https://breakingdefense.com/2026/11/raytheon-taps-ursa-major-avio-usa-as-second-source-for-tomahawk-solid-rocket-motors",
+        "publishedAt": "2026-11-19T17:24:48+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
