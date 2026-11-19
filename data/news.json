@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-11-19T14:00:32+00:00",
+  "generatedAt": "2026-11-19T15:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-19T14:00:32+00:00",
+      "updatedAt": "2026-11-19T15:00:31+00:00",
       "stories": [
+        {
+          "title": "Leonid meteor shower thrills stargazers worldwide with colorful sky show (photos/video)",
+          "url": "https://www.space.com/stargazing/meteor-showers/leonid-meteor-shower-thrills-stargazers-worldwide-with-colorful-sky-show-photos-video",
+          "publishedAt": "2026-11-19T13:58:47+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+          "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions",
+          "publishedAt": "2026-11-19T14:44:39+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+          "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth",
+          "publishedAt": "2026-11-19T14:31:15+00:00",
+          "source": "NASA"
+        },
         {
           "title": "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027",
           "url": "https://www.space.com/space-exploration/satellites/nonprofit-common-space-will-launch-1st-humanitarian-satellite-in-2027",
@@ -55,24 +73,6 @@
           "source": "Space.com"
         },
         {
-          "title": "Astronomers witness a star eating its companion in 1st-of-its-kind observation",
-          "url": "https://www.space.com/astronomy/stars/astronomers-witness-a-star-eating-its-companion-in-1st-of-its-kind-observation",
-          "publishedAt": "2026-11-18T22:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
-          "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch",
-          "publishedAt": "2026-11-18T22:19:17+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
-          "url": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in",
-          "publishedAt": "2026-11-18T18:58:27+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "How AI is pushing satellites to evolve",
           "url": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve",
           "publishedAt": "2026-11-17T17:02:33+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-19T14:00:32+00:00",
+      "updatedAt": "2026-11-19T15:00:31+00:00",
       "stories": [
         {
           "title": "NATO STARLIFT starts with Canada, South Korea among funders",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-19T14:00:32+00:00",
+      "updatedAt": "2026-11-19T15:00:31+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal",
@@ -247,8 +247,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-19T14:00:32+00:00",
+      "updatedAt": "2026-11-19T15:00:31+00:00",
       "stories": [
+        {
+          "title": "CycloKinetics wins $86.3 million Pentagon contract for alternative fuels",
+          "url": "https://breakingdefense.com/2026/11/cyclokinetics-wins-86-3-million-pentagon-contract-for-alternative-fuels",
+          "publishedAt": "2026-11-19T14:00:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Training for any scenario, anywhere in the world, starting with the Pacific in Guam",
           "url": "https://breakingdefense.com/2026/11/training-for-any-scenario-anywhere-in-the-world-starting-with-the-pacific-in-guam",
@@ -304,12 +310,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Making Super Intelligence useful when connectivity disappears at the tactical edge",
-          "url": "https://breakingdefense.com/2026/11/making-super-intelligence-useful-when-connectivity-disappears-at-the-tactical-edge",
-          "publishedAt": "2026-11-18T18:50:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Navy to test new software platform for Project Roundtable",
           "url": "https://defensescoop.com/2026/11/18/navy-software-platform-project-roundtable",
           "publishedAt": "2026-11-18T21:56:25+00:00",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-19T14:00:32+00:00",
+      "updatedAt": "2026-11-19T15:00:31+00:00",
       "stories": [
         {
           "title": "Google’s shipping spree continues with Neon",
@@ -357,6 +357,12 @@
           "url": "https://pika.art/blog/pika-enact",
           "publishedAt": "2026-11-19T10:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test",
+          "publishedAt": "2026-11-19T14:54:39+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Superhuman pushes its Go assistant everywhere",
@@ -377,6 +383,18 @@
           "source": "TechCrunch AI"
         },
         {
+          "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+          "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team",
+          "publishedAt": "2026-11-18T23:25:17+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit",
+          "publishedAt": "2026-11-18T23:17:28+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "OpenAI drops GPT-6.2 Astra, Sol to mixed fanfare",
           "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
           "publishedAt": "2026-11-18T11:00:00+00:00",
@@ -389,42 +407,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Microsoft's Seven New Models (4 minute read)",
-          "url": "https://microsoft.ai/news/microsoft-ignite-2026",
-          "publishedAt": "2026-11-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Introducing Replit Missions (8 minute read)",
-          "url": "https://replit.com/blog/introducing-replit-missions",
-          "publishedAt": "2026-11-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Horizon Labs (12 minute read)",
-          "url": "https://horizon-labs.ai/",
-          "publishedAt": "2026-11-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Weight-Space Programming builds neural networks like a 1990s researcher (20 minute read)",
-          "url": "https://notesbylex.com/weight-space-programming-1990s.html",
-          "publishedAt": "2026-11-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Vercel's eve 1.0 (10 minute read)",
-          "url": "https://vercel.com/blog/eve-is-now-generally-available",
-          "publishedAt": "2026-11-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference (17 minute read)",
-          "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference",
-          "publishedAt": "2026-11-18T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "California takes OpenAI to court over agent escapes",
           "url": "https://oag.ca.gov/system/files/attachments/press-docs/complaint-oai-cyber.pdf",
           "publishedAt": "2026-11-17T11:00:00+00:00",
@@ -435,13 +417,31 @@
           "url": "https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344",
           "publishedAt": "2026-11-17T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI tracks how scientists really use ChatGPT",
+          "url": "https://openai.com/index/science-at-the-frontier",
+          "publishedAt": "2026-11-17T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Musk, Nvidia staff rally to bring back Jensen Huang",
+          "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
+          "publishedAt": "2026-11-16T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Report: OpenAI folds robotics team into core research",
+          "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+          "publishedAt": "2026-11-16T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-19T14:00:32+00:00",
+      "updatedAt": "2026-11-19T15:00:31+00:00",
       "stories": [
         {
           "title": "Humyn Labs raises $47M to collect real-world data for robotics",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-19T14:00:32+00:00",
+    "updatedAt": "2026-11-19T15:00:31+00:00",
     "stories": [
       {
         "title": "Google’s shipping spree continues with Neon",
@@ -567,9 +567,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027",
-        "url": "https://www.space.com/space-exploration/satellites/nonprofit-common-space-will-launch-1st-humanitarian-satellite-in-2027",
-        "publishedAt": "2026-11-19T13:21:27+00:00",
+        "title": "Leonid meteor shower thrills stargazers worldwide with colorful sky show (photos/video)",
+        "url": "https://www.space.com/stargazing/meteor-showers/leonid-meteor-shower-thrills-stargazers-worldwide-with-colorful-sky-show-photos-video",
+        "publishedAt": "2026-11-19T13:58:47+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -585,9 +585,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Training for any scenario, anywhere in the world, starting with the Pacific in Guam",
-        "url": "https://breakingdefense.com/2026/11/training-for-any-scenario-anywhere-in-the-world-starting-with-the-pacific-in-guam",
-        "publishedAt": "2026-11-19T13:43:00+00:00",
+        "title": "CycloKinetics wins $86.3 million Pentagon contract for alternative fuels",
+        "url": "https://breakingdefense.com/2026/11/cyclokinetics-wins-86-3-million-pentagon-contract-for-alternative-fuels",
+        "publishedAt": "2026-11-19T14:00:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -603,6 +603,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Training for any scenario, anywhere in the world, starting with the Pacific in Guam",
+        "url": "https://breakingdefense.com/2026/11/training-for-any-scenario-anywhere-in-the-world-starting-with-the-pacific-in-guam",
+        "publishedAt": "2026-11-19T13:43:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Ukraine plans to double drone supplies, triple deep strikes",
         "url": "https://www.defensenews.com/global/europe/2026/11/19/ukraine-plans-to-double-drone-supplies-triple-deep-strikes",
         "publishedAt": "2026-11-19T13:21:10+00:00",
@@ -612,21 +621,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Superhuman pushes its Go assistant everywhere",
-        "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere",
-        "publishedAt": "2026-11-19T14:00:00+00:00",
+        "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test",
+        "publishedAt": "2026-11-19T14:54:39+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "MBDA and German startup Atmos team up to study space-based strike weapons",
-        "url": "https://www.defensenews.com/global/europe/2026/11/19/mbda-and-german-startup-atmos-team-up-to-study-space-based-strike-weapons",
-        "publishedAt": "2026-11-19T10:36:23+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -743,6 +743,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-06"
   ]
 }
