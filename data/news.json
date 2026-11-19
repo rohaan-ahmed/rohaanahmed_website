@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T09:26:13+00:00",
+  "generatedAt": "2026-11-19T10:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-19T09:26:13+00:00",
+      "updatedAt": "2026-11-19T10:00:31+00:00",
       "stories": [
         {
           "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-19T09:26:13+00:00",
+      "updatedAt": "2026-11-19T10:00:31+00:00",
       "stories": [
         {
           "title": "NATO STARLIFT starts with Canada, South Korea among funders",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-19T09:26:13+00:00",
+      "updatedAt": "2026-11-19T10:00:31+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal",
@@ -247,8 +247,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-19T09:26:13+00:00",
+      "updatedAt": "2026-11-19T10:00:31+00:00",
       "stories": [
+        {
+          "title": "Japanese nuclear submarines are a bad idea for East China Sea security — for now",
+          "url": "https://www.defensenews.com/opinion/2026/11/19/japanese-nuclear-submarines-are-a-bad-idea-for-east-china-sea-security-for-now",
+          "publishedAt": "2026-11-19T09:36:51+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "$350 billion reconciliation bill ‘not going to happen’: HASC chair",
           "url": "https://breakingdefense.com/2026/11/350-billion-reconciliation-bill-not-going-to-happen-hasc-chair",
@@ -310,12 +316,6 @@
           "source": "Defense News"
         },
         {
-          "title": "EU proposes €45 billion Ukraine loan, to be repaid after Russia pays reparations",
-          "url": "https://www.defensenews.com/global/europe/2026/11/18/eu-proposes-e45-billion-ukraine-loan-to-be-repaid-after-russia-pays-reparations",
-          "publishedAt": "2026-11-18T13:20:41+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Pentagon elevates AI as a ‘fundamental requirement’ for cybersecurity staff training",
           "url": "https://defensescoop.com/2026/11/17/pentagon-ai-requirement-cybersecurity-training",
           "publishedAt": "2026-11-17T21:45:18+00:00",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-19T09:26:13+00:00",
+      "updatedAt": "2026-11-19T10:00:31+00:00",
       "stories": [
         {
           "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-19T09:26:13+00:00",
+      "updatedAt": "2026-11-19T10:00:31+00:00",
       "stories": [
         {
           "title": "Humyn Labs raises $47M to collect real-world data for robotics",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-19T09:26:13+00:00",
+    "updatedAt": "2026-11-19T10:00:31+00:00",
     "stories": [
       {
         "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
@@ -585,10 +585,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "$350 billion reconciliation bill ‘not going to happen’: HASC chair",
-        "url": "https://breakingdefense.com/2026/11/350-billion-reconciliation-bill-not-going-to-happen-hasc-chair",
-        "publishedAt": "2026-11-18T21:56:01+00:00",
-        "source": "Breaking Defense",
+        "title": "Japanese nuclear submarines are a bad idea for East China Sea security — for now",
+        "url": "https://www.defensenews.com/opinion/2026/11/19/japanese-nuclear-submarines-are-a-bad-idea-for-east-china-sea-security-for-now",
+        "publishedAt": "2026-11-19T09:36:51+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
