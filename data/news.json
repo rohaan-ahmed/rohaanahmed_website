@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-11-19T11:00:34+00:00",
+  "generatedAt": "2026-11-19T12:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-19T11:00:34+00:00",
+      "updatedAt": "2026-11-19T12:00:32+00:00",
       "stories": [
         {
           "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
           "url": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers",
           "publishedAt": "2026-11-18T22:02:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "What's next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth?",
+          "url": "https://www.space.com/space-exploration/voyager/whats-next-for-nasa-interstellar-voyager-1-probe-after-passing-1-light-day-from-earth",
+          "publishedAt": "2026-11-19T11:02:37+00:00",
+          "source": "Space.com"
         },
         {
           "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
@@ -61,12 +67,6 @@
           "source": "Space.com"
         },
         {
-          "title": "Earth is missing over a billion years of geological history. Scientists may have discovered why",
-          "url": "https://www.space.com/astronomy/earth/earth-is-missing-over-a-billion-years-of-geological-history-scientists-may-have-discovered-why",
-          "publishedAt": "2026-11-18T20:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
           "url": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in",
           "publishedAt": "2026-11-18T18:58:27+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-19T11:00:34+00:00",
+      "updatedAt": "2026-11-19T12:00:32+00:00",
       "stories": [
         {
           "title": "NATO STARLIFT starts with Canada, South Korea among funders",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-19T11:00:34+00:00",
+      "updatedAt": "2026-11-19T12:00:32+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-19T11:00:34+00:00",
+      "updatedAt": "2026-11-19T12:00:32+00:00",
       "stories": [
         {
           "title": "MBDA and German startup Atmos team up to study space-based strike weapons",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-19T11:00:34+00:00",
+      "updatedAt": "2026-11-19T12:00:32+00:00",
       "stories": [
         {
           "title": "Google’s shipping spree continues with Neon",
@@ -377,18 +377,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit",
-          "publishedAt": "2026-11-18T23:17:28+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-          "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
-          "publishedAt": "2026-11-18T22:58:11+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "OpenAI drops GPT-6.2 Astra, Sol to mixed fanfare",
           "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
           "publishedAt": "2026-11-18T11:00:00+00:00",
@@ -401,10 +389,40 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Anthropic prices IPO at $83 a share, above projected range",
-          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range",
-          "publishedAt": "2026-11-18T22:11:15+00:00",
-          "source": "TechCrunch AI"
+          "title": "Microsoft's Seven New Models (4 minute read)",
+          "url": "https://microsoft.ai/news/microsoft-ignite-2026",
+          "publishedAt": "2026-11-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Introducing Replit Missions (8 minute read)",
+          "url": "https://replit.com/blog/introducing-replit-missions",
+          "publishedAt": "2026-11-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Horizon Labs (12 minute read)",
+          "url": "https://horizon-labs.ai/",
+          "publishedAt": "2026-11-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Weight-Space Programming builds neural networks like a 1990s researcher (20 minute read)",
+          "url": "https://notesbylex.com/weight-space-programming-1990s.html",
+          "publishedAt": "2026-11-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Vercel's eve 1.0 (10 minute read)",
+          "url": "https://vercel.com/blog/eve-is-now-generally-available",
+          "publishedAt": "2026-11-18T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference (17 minute read)",
+          "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference",
+          "publishedAt": "2026-11-18T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "California takes OpenAI to court over agent escapes",
@@ -417,31 +435,13 @@
           "url": "https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344",
           "publishedAt": "2026-11-17T11:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI tracks how scientists really use ChatGPT",
-          "url": "https://openai.com/index/science-at-the-frontier",
-          "publishedAt": "2026-11-17T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Musk, Nvidia staff rally to bring back Jensen Huang",
-          "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
-          "publishedAt": "2026-11-16T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Report: OpenAI folds robotics team into core research",
-          "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
-          "publishedAt": "2026-11-16T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-19T11:00:34+00:00",
+      "updatedAt": "2026-11-19T12:00:32+00:00",
       "stories": [
         {
           "title": "Humyn Labs raises $47M to collect real-world data for robotics",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-19T11:00:34+00:00",
+    "updatedAt": "2026-11-19T12:00:32+00:00",
     "stories": [
       {
         "title": "Google’s shipping spree continues with Neon",
@@ -612,18 +612,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
-        "url": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center",
-        "publishedAt": "2026-11-18T20:31:51+00:00",
-        "source": "SpaceNews",
+        "title": "What's next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth?",
+        "url": "https://www.space.com/space-exploration/voyager/whats-next-for-nasa-interstellar-voyager-1-probe-after-passing-1-light-day-from-earth",
+        "publishedAt": "2026-11-19T11:02:37+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Origami and solar arrays",
-        "url": "https://spacenews.com/origami-and-solar-arrays",
-        "publishedAt": "2026-11-18T16:56:05+00:00",
+        "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
+        "url": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center",
+        "publishedAt": "2026-11-18T20:31:51+00:00",
         "source": "SpaceNews",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -743,7 +743,6 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-06"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
   ]
 }
