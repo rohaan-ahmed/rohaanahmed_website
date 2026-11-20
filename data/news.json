@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-20T19:00:31+00:00",
+  "generatedAt": "2026-11-20T20:00:40+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-20T19:00:31+00:00",
+      "updatedAt": "2026-11-20T20:00:40+00:00",
       "stories": [
+        {
+          "title": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches",
+          "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
+          "publishedAt": "2026-11-20T19:50:15+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "There's an impostor hiding in the Hyades star cluster. Can you spot it?",
+          "url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
+          "publishedAt": "2026-11-20T19:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Could an ancient solar eclipse rewrite Egyptian history?",
           "url": "https://www.space.com/stargazing/solar-eclipses/could-an-ancient-solar-eclipse-rewrite-egyptian-history",
@@ -25,22 +37,10 @@
           "source": "NASA"
         },
         {
-          "title": "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20, 2026",
-          "url": "https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026",
-          "publishedAt": "2026-11-20T15:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "NASA’s Curiosity Mars Rover Collects Samples",
           "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples",
           "publishedAt": "2026-11-20T15:53:24+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
-          "url": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
-          "publishedAt": "2026-11-20T13:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "The sweet spot for constellation size",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-20T19:00:31+00:00",
+      "updatedAt": "2026-11-20T20:00:40+00:00",
       "stories": [
+        {
+          "title": "Voyager 1 reaches one light-day from Earth",
+          "url": "https://spaceq.ca/voyager-1-light-day",
+          "publishedAt": "2026-11-20T19:35:05+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Pegasus lunar terrain vehicle passes NASA design review",
           "url": "https://spaceq.ca/pegasus-lunar-terrain-vehicle-nasa-design-review",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "SpaceX catches its first Starship but loses the booster, at a cost",
-          "url": "https://spaceq.ca/starship-flight-15-ship-catch-booster-lost",
-          "publishedAt": "2026-11-16T17:20:55+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Canadian Space Agency astronaut Jenni Gibbons to visit Whitehorse",
           "url": "https://www.canada.ca/en/space-agency/news/2026/11/canadian-space-agency-astronaut-jenni-gibbons-to-visit-whitehorse.html",
           "publishedAt": "2026-11-16T16:40:23+00:00",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-20T19:00:31+00:00",
+      "updatedAt": "2026-11-20T20:00:40+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in the Coalition of the Willing",
@@ -241,8 +241,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-20T19:00:31+00:00",
+      "updatedAt": "2026-11-20T20:00:40+00:00",
       "stories": [
+        {
+          "title": "Navy’s shipbuilding plan would require massive hike in annual appropriations: CBO",
+          "url": "https://breakingdefense.com/2026/11/navys-shipbuilding-plan-would-require-massive-hike-in-annual-appropriations-cbo",
+          "publishedAt": "2026-11-20T19:33:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Autonomy firm Auterion to launch joint venture with Ukrainian drone maker Skyfall",
           "url": "https://breakingdefense.com/2026/11/autonomy-firm-auterion-to-launch-joint-venture-with-ukrainian-drone-maker-skyfall",
@@ -271,12 +277,6 @@
           "title": "One data foundation and many application layers drive the Army’s NGC2 transformation",
           "url": "https://breakingdefense.com/2026/11/one-data-foundation-and-many-application-layers-drive-the-armys-ngc2-transformation",
           "publishedAt": "2026-11-20T16:53:14+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Pentagon CIO Davies tapped as acting National Cyber Director",
-          "url": "https://breakingdefense.com/2026/11/pentagon-cio-davies-tapped-as-acting-national-cyber-director",
-          "publishedAt": "2026-11-20T16:31:00+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-20T19:00:31+00:00",
+      "updatedAt": "2026-11-20T20:00:40+00:00",
       "stories": [
         {
           "title": "Anthropic raises $81B in the largest IPO ever",
@@ -359,40 +359,58 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building",
+          "publishedAt": "2026-11-20T19:53:41+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
+          "publishedAt": "2026-11-20T19:32:08+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Chips can survive the space environment — can their financing?",
           "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing",
           "publishedAt": "2026-11-20T17:40:01+00:00",
           "source": "TechCrunch AI"
         },
         {
-          "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-          "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues",
-          "publishedAt": "2026-11-20T14:55:44+00:00",
-          "source": "TechCrunch AI"
+          "title": "Introducing Tool Retrieval in the Gemini API (1 minute read)",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Six AI-powered gadgets that could make your home office smarter",
-          "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter",
-          "publishedAt": "2026-11-20T14:00:00+00:00",
-          "source": "TechCrunch AI"
+          "title": "Let Gemini tackle repetitive chores on your Mac (1 minute read)",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Apple may be developing its own AI agent that runs your Mac",
-          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
-          "publishedAt": "2026-11-20T00:56:01+00:00",
-          "source": "TechCrunch AI"
+          "title": "When Agent Swarms Outperform Solo Coders (10 minute read)",
+          "url": "https://frontier.replit.com/throwing-headcount-at-the-problem",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
-          "publishedAt": "2026-11-20T00:43:50+00:00",
-          "source": "TechCrunch AI"
+          "title": "Sandboxed Models Can Communicate via Inference Servers (12 minute read)",
+          "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Meta’s new Muse Charm device may cost $300",
-          "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300",
-          "publishedAt": "2026-11-19T21:58:06+00:00",
-          "source": "TechCrunch AI"
+          "title": "AI is already massively speeding up AI research (9 minute read)",
+          "url": "https://linch.substack.com/p/ai-is-already-massively-speeding",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web (1 minute read)",
+          "url": "https://blog.google/security/mirror-dimension-for-agents",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Google’s shipping spree continues with Neon",
@@ -411,31 +429,13 @@
           "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
           "publishedAt": "2026-11-18T11:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "AI finds a hole in Java as NATO taps OpenAI",
-          "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
-          "publishedAt": "2026-11-18T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "California takes OpenAI to court over agent escapes",
-          "url": "https://oag.ca.gov/system/files/attachments/press-docs/complaint-oai-cyber.pdf",
-          "publishedAt": "2026-11-17T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Trump set to crown AI ‘national champions’",
-          "url": "https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344",
-          "publishedAt": "2026-11-17T11:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-20T19:00:31+00:00",
+      "updatedAt": "2026-11-20T20:00:40+00:00",
       "stories": [
         {
           "title": "MassRobotics launching marine robotics facility on Boston Harbor",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-20T19:00:31+00:00",
+    "updatedAt": "2026-11-20T20:00:40+00:00",
     "stories": [
       {
         "title": "Anthropic raises $81B in the largest IPO ever",
@@ -552,18 +552,18 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Pegasus lunar terrain vehicle passes NASA design review",
-        "url": "https://spaceq.ca/pegasus-lunar-terrain-vehicle-nasa-design-review",
-        "publishedAt": "2026-11-20T12:22:00+00:00",
+        "title": "Voyager 1 reaches one light-day from Earth",
+        "url": "https://spaceq.ca/voyager-1-light-day",
+        "publishedAt": "2026-11-20T19:35:05+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "Could an ancient solar eclipse rewrite Egyptian history?",
-        "url": "https://www.space.com/stargazing/solar-eclipses/could-an-ancient-solar-eclipse-rewrite-egyptian-history",
-        "publishedAt": "2026-11-20T18:00:00+00:00",
+        "title": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches",
+        "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
+        "publishedAt": "2026-11-20T19:50:15+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Autonomy firm Auterion to launch joint venture with Ukrainian drone maker Skyfall",
-        "url": "https://breakingdefense.com/2026/11/autonomy-firm-auterion-to-launch-joint-venture-with-ukrainian-drone-maker-skyfall",
-        "publishedAt": "2026-11-20T18:24:00+00:00",
+        "title": "Navy’s shipbuilding plan would require massive hike in annual appropriations: CBO",
+        "url": "https://breakingdefense.com/2026/11/navys-shipbuilding-plan-would-require-massive-hike-in-annual-appropriations-cbo",
+        "publishedAt": "2026-11-20T19:33:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -597,30 +597,30 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI’s agents now handle half its long research tasks",
-        "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-        "publishedAt": "2026-11-20T10:00:00+00:00",
-        "source": "The Rundown AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "Pegasus lunar terrain vehicle passes NASA design review",
+        "url": "https://spaceq.ca/pegasus-lunar-terrain-vehicle-nasa-design-review",
+        "publishedAt": "2026-11-20T12:22:00+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Sweden’s Nordic Air Defence launches K200 drone interceptor, pushes toward Ukraine tests",
-        "url": "https://breakingdefense.com/2026/11/swedens-nordic-air-defence-launches-k200-drone-interceptor-pushes-toward-ukraine-tests",
-        "publishedAt": "2026-11-20T17:12:00+00:00",
+        "title": "Autonomy firm Auterion to launch joint venture with Ukrainian drone maker Skyfall",
+        "url": "https://breakingdefense.com/2026/11/autonomy-firm-auterion-to-launch-joint-venture-with-ukrainian-drone-maker-skyfall",
+        "publishedAt": "2026-11-20T18:24:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/20/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says",
-        "publishedAt": "2026-11-20T17:54:27+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "OpenAI’s agents now handle half its long research tasks",
+        "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+        "publishedAt": "2026-11-20T10:00:00+00:00",
+        "source": "The Rundown AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -737,7 +737,6 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-29"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
   ]
 }
