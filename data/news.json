@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-20T13:00:31+00:00",
+  "generatedAt": "2026-11-20T14:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-20T13:00:31+00:00",
+      "updatedAt": "2026-11-20T14:00:32+00:00",
       "stories": [
+        {
+          "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
+          "url": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
+          "publishedAt": "2026-11-20T13:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "I handpicked every Star Trek Blu-Ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
           "url": "https://www.space.com/entertainment/space-movies-shows/i-handpicked-every-star-trek-blu-ray-discounted-on-amazon-for-black-friday-2026-that-i-think-is-worth-buying-right-now",
@@ -47,12 +53,6 @@
           "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific",
           "publishedAt": "2026-11-20T05:01:00+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone",
-          "url": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone",
-          "publishedAt": "2026-11-19T23:42:03+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Challenge: Public Input on Life and the World in 2075",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-20T13:00:31+00:00",
+      "updatedAt": "2026-11-20T14:00:32+00:00",
       "stories": [
         {
           "title": "Pegasus lunar terrain vehicle passes NASA design review",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-20T13:00:31+00:00",
+      "updatedAt": "2026-11-20T14:00:32+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in the Coalition of the Willing",
@@ -247,8 +247,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-20T13:00:31+00:00",
+      "updatedAt": "2026-11-20T14:00:32+00:00",
       "stories": [
+        {
+          "title": "Skylark Labs demonstrates humanoid search for explosive hazards",
+          "url": "https://breakingdefense.com/2026/11/skylark-labs-demonstrates-humanoid-search-for-explosive-hazards",
+          "publishedAt": "2026-11-20T13:20:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Dutch defense-industry plan targets 40% growth, €15 billion revenue by 2030",
           "url": "https://www.defensenews.com/global/europe/2026/11/20/dutch-defense-industry-plan-targets-40-growth-e15-billion-revenue-by-2030",
@@ -310,12 +316,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Raytheon taps Ursa Major, Avio USA as second source for Tomahawk solid rocket motors",
-          "url": "https://breakingdefense.com/2026/11/raytheon-taps-ursa-major-avio-usa-as-second-source-for-tomahawk-solid-rocket-motors",
-          "publishedAt": "2026-11-19T17:24:48+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Trump nominates Centcom Deputy Lt. Gen. Patrick Frank to lead Northcom, NORAD",
           "url": "https://defensescoop.com/2026/11/19/trump-nominates-centcom-deputy-lt-gen-patrick-frank-to-lead-northcom-norad",
           "publishedAt": "2026-11-19T19:09:34+00:00",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-20T13:00:31+00:00",
+      "updatedAt": "2026-11-20T14:00:32+00:00",
       "stories": [
         {
           "title": "Anthropic raises $81B in the largest IPO ever",
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-20T13:00:31+00:00",
+      "updatedAt": "2026-11-20T14:00:32+00:00",
       "stories": [
         {
           "title": "Robotics enters its post-Jensen Huang era",
@@ -498,6 +498,12 @@
           "source": "The Robot Report"
         },
         {
+          "title": "Boston Dynamics’ Atlas humanoid lands first non-automotive trial",
+          "url": "https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial",
+          "publishedAt": "2026-11-17T14:49:05+00:00",
+          "source": "The Robot Report"
+        },
+        {
           "title": "Genesis AI raises $500M to deploy glove-wearing robots",
           "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots",
           "publishedAt": "2026-11-17T14:00:00+00:00",
@@ -526,18 +532,12 @@
           "url": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
           "publishedAt": "2026-11-13T17:30:03+00:00",
           "source": "IEEE Spectrum Robotics"
-        },
-        {
-          "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-          "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot",
-          "publishedAt": "2026-11-10T13:30:00+00:00",
-          "source": "TechCrunch Robotics"
         }
       ]
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-20T13:00:31+00:00",
+    "updatedAt": "2026-11-20T14:00:32+00:00",
     "stories": [
       {
         "title": "Anthropic raises $81B in the largest IPO ever",
@@ -567,9 +567,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "I handpicked every Star Trek Blu-Ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
-        "url": "https://www.space.com/entertainment/space-movies-shows/i-handpicked-every-star-trek-blu-ray-discounted-on-amazon-for-black-friday-2026-that-i-think-is-worth-buying-right-now",
-        "publishedAt": "2026-11-20T11:00:32+00:00",
+        "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
+        "url": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
+        "publishedAt": "2026-11-20T13:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -585,10 +585,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Dutch defense-industry plan targets 40% growth, €15 billion revenue by 2030",
-        "url": "https://www.defensenews.com/global/europe/2026/11/20/dutch-defense-industry-plan-targets-40-growth-e15-billion-revenue-by-2030",
-        "publishedAt": "2026-11-20T11:56:51+00:00",
-        "source": "Defense News",
+        "title": "Skylark Labs demonstrates humanoid search for explosive hazards",
+        "url": "https://breakingdefense.com/2026/11/skylark-labs-demonstrates-humanoid-search-for-explosive-hazards",
+        "publishedAt": "2026-11-20T13:20:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -612,18 +612,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Einstein was right! Scientists verify 1st image of a black hole ever captured",
-        "url": "https://www.space.com/astronomy/black-holes/einstein-was-right-scientists-verify-1st-image-of-a-black-hole-ever-captured",
-        "publishedAt": "2026-11-20T11:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Dutch defense-industry plan targets 40% growth, €15 billion revenue by 2030",
+        "url": "https://www.defensenews.com/global/europe/2026/11/20/dutch-defense-industry-plan-targets-40-growth-e15-billion-revenue-by-2030",
+        "publishedAt": "2026-11-20T11:56:51+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Watch SpaceX Dragon cargo capsule head home to Earth from the ISS today",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
-        "publishedAt": "2026-11-20T11:00:00+00:00",
+        "title": "I handpicked every Star Trek Blu-Ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
+        "url": "https://www.space.com/entertainment/space-movies-shows/i-handpicked-every-star-trek-blu-ray-discounted-on-amazon-for-black-friday-2026-that-i-think-is-worth-buying-right-now",
+        "publishedAt": "2026-11-20T11:00:32+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
