@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T14:00:32+00:00",
+  "generatedAt": "2026-11-20T15:00:45+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-20T14:00:32+00:00",
+      "updatedAt": "2026-11-20T15:00:45+00:00",
       "stories": [
         {
           "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-20T14:00:32+00:00",
+      "updatedAt": "2026-11-20T15:00:45+00:00",
       "stories": [
         {
           "title": "Pegasus lunar terrain vehicle passes NASA design review",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-20T14:00:32+00:00",
+      "updatedAt": "2026-11-20T15:00:45+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in the Coalition of the Willing",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-20T14:00:32+00:00",
+      "updatedAt": "2026-11-20T15:00:45+00:00",
       "stories": [
         {
           "title": "Skylark Labs demonstrates humanoid search for explosive hazards",
@@ -260,6 +260,12 @@
           "url": "https://www.defensenews.com/global/europe/2026/11/20/dutch-defense-industry-plan-targets-40-growth-e15-billion-revenue-by-2030",
           "publishedAt": "2026-11-20T11:56:51+00:00",
           "source": "Defense News"
+        },
+        {
+          "title": "Trump taps Pentagon CIO Davies to be national cyber director",
+          "url": "https://cyberscoop.com/sean-cairncross-out-national-cyber-director",
+          "publishedAt": "2026-11-20T14:12:24+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Australia receives first 2 of 13 additional Seahawk helicopters",
@@ -332,19 +338,13 @@
           "url": "https://defensescoop.com/2026/11/18/navy-software-platform-project-roundtable",
           "publishedAt": "2026-11-18T21:56:25+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Pentagon elevates AI as a ‘fundamental requirement’ for cybersecurity staff training",
-          "url": "https://defensescoop.com/2026/11/17/pentagon-ai-requirement-cybersecurity-training",
-          "publishedAt": "2026-11-17T21:45:18+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-20T14:00:32+00:00",
+      "updatedAt": "2026-11-20T15:00:45+00:00",
       "stories": [
         {
           "title": "Anthropic raises $81B in the largest IPO ever",
@@ -365,21 +365,57 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+          "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues",
+          "publishedAt": "2026-11-20T14:55:44+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Six AI-powered gadgets that could make your home office smarter",
+          "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter",
+          "publishedAt": "2026-11-20T14:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Introducing Tool Retrieval in the Gemini API (1 minute read)",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Let Gemini tackle repetitive chores on your Mac (1 minute read)",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "When Agent Swarms Outperform Solo Coders (10 minute read)",
+          "url": "https://frontier.replit.com/throwing-headcount-at-the-problem",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Sandboxed Models Can Communicate via Inference Servers (12 minute read)",
+          "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "AI is already massively speeding up AI research (9 minute read)",
+          "url": "https://linch.substack.com/p/ai-is-already-massively-speeding",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web (1 minute read)",
+          "url": "https://blog.google/security/mirror-dimension-for-agents",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Apple may be developing its own AI agent that runs your Mac",
           "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
           "publishedAt": "2026-11-20T00:56:01+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
-          "publishedAt": "2026-11-20T00:43:50+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Meta’s new Muse Charm device may cost $300",
-          "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300",
-          "publishedAt": "2026-11-19T21:58:06+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -395,42 +431,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Genie 4 (7 minute read)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie",
-          "publishedAt": "2026-11-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Why is Gemini 4 Carbon taking so long? (4 minute read)",
-          "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long",
-          "publishedAt": "2026-11-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Why Antigravity Eats Weekly Quota Fast - and What I Measured (17 minute read)",
-          "url": "https://asubedi.com.np/blog/why-antigravity-eats-weekly-quota-fast",
-          "publishedAt": "2026-11-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Switching LLMs mid-conversation is a ski-rental problem (30 minute read)",
-          "url": "https://www.edgee.ai/blog/posts/switching-llms-mid-conversation-is-a-ski-rental-problem",
-          "publishedAt": "2026-11-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Advancing chip design with OpenAI models (8 minute read)",
-          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-          "publishedAt": "2026-11-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Become a founding member of TLDR's AI community (2 minute form)",
-          "url": "https://danni763618.typeform.com/to/H1tYViME",
-          "publishedAt": "2026-11-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "OpenAI drops GPT-6.2 Astra, Sol to mixed fanfare",
           "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
           "publishedAt": "2026-11-18T11:00:00+00:00",
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-20T14:00:32+00:00",
+      "updatedAt": "2026-11-20T15:00:45+00:00",
       "stories": [
         {
           "title": "Robotics enters its post-Jensen Huang era",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-20T14:00:32+00:00",
+    "updatedAt": "2026-11-20T15:00:45+00:00",
     "stories": [
       {
         "title": "Anthropic raises $81B in the largest IPO ever",
@@ -612,21 +612,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+        "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues",
+        "publishedAt": "2026-11-20T14:55:44+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Dutch defense-industry plan targets 40% growth, €15 billion revenue by 2030",
         "url": "https://www.defensenews.com/global/europe/2026/11/20/dutch-defense-industry-plan-targets-40-growth-e15-billion-revenue-by-2030",
         "publishedAt": "2026-11-20T11:56:51+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "I handpicked every Star Trek Blu-Ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
-        "url": "https://www.space.com/entertainment/space-movies-shows/i-handpicked-every-star-trek-blu-ray-discounted-on-amazon-for-black-friday-2026-that-i-think-is-worth-buying-right-now",
-        "publishedAt": "2026-11-20T11:00:32+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
