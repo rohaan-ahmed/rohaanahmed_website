@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-20T22:00:31+00:00",
+  "generatedAt": "2026-11-20T22:43:15+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-20T22:00:31+00:00",
+      "updatedAt": "2026-11-20T22:43:15+00:00",
       "stories": [
+        {
+          "title": "Curiosity Spots Drifting Twilight Clouds",
+          "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds",
+          "publishedAt": "2026-11-20T22:27:05+00:00",
+          "source": "NASA"
+        },
         {
           "title": "On this day in space! Nov. 20, 1998: Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026",
@@ -61,12 +67,6 @@
           "source": "SpaceNews"
         },
         {
-          "title": "APOD: 2026 November 20 – V-G-R",
-          "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r",
-          "publishedAt": "2026-11-20T05:05:00+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
           "url": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers",
           "publishedAt": "2026-11-18T22:02:00+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-20T22:00:31+00:00",
+      "updatedAt": "2026-11-20T22:43:15+00:00",
       "stories": [
         {
           "title": "Voyager 1 reaches one light-day from Earth",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-20T22:00:31+00:00",
+      "updatedAt": "2026-11-20T22:43:15+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in the Coalition of the Willing",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-20T22:00:31+00:00",
+      "updatedAt": "2026-11-20T22:43:15+00:00",
       "stories": [
         {
           "title": "This counter-UAS system senses deep inside neighboring borders to detect and defeat drones",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-20T22:00:31+00:00",
+      "updatedAt": "2026-11-20T22:43:15+00:00",
       "stories": [
         {
           "title": "Anthropic raises $81B in the largest IPO ever",
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-20T22:00:31+00:00",
+      "updatedAt": "2026-11-20T22:43:15+00:00",
       "stories": [
         {
           "title": "MassRobotics launching marine robotics facility on Boston Harbor",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-20T22:00:31+00:00",
+    "updatedAt": "2026-11-20T22:43:15+00:00",
     "stories": [
       {
         "title": "Anthropic raises $81B in the largest IPO ever",
@@ -561,10 +561,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "On this day in space! Nov. 20, 1998: Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026",
-        "publishedAt": "2026-11-20T21:19:33+00:00",
-        "source": "Space.com",
+        "title": "Curiosity Spots Drifting Twilight Clouds",
+        "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds",
+        "publishedAt": "2026-11-20T22:27:05+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -615,12 +615,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Autonomy firm Auterion to launch joint venture with Ukrainian drone maker Skyfall",
-        "url": "https://breakingdefense.com/2026/11/autonomy-firm-auterion-to-launch-joint-venture-with-ukrainian-drone-maker-skyfall",
-        "publishedAt": "2026-11-20T18:24:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "On this day in space! Nov. 20, 1998: Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026",
+        "publishedAt": "2026-11-20T21:19:33+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
