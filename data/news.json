@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T10:00:30+00:00",
+  "generatedAt": "2026-11-20T11:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-20T10:00:30+00:00",
+      "updatedAt": "2026-11-20T11:00:34+00:00",
       "stories": [
         {
           "title": "The sweet spot for constellation size",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-20T10:00:30+00:00",
+      "updatedAt": "2026-11-20T11:00:34+00:00",
       "stories": [
         {
           "title": "ICEYE unveils Gen5 satellite, makes €2-billion bid for Avio",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-20T10:00:30+00:00",
+      "updatedAt": "2026-11-20T11:00:34+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in the Coalition of the Willing",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-20T10:00:30+00:00",
+      "updatedAt": "2026-11-20T11:00:34+00:00",
       "stories": [
         {
           "title": "Australia receives first 2 of 13 additional Seahawk helicopters",
@@ -344,8 +344,26 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-20T10:00:30+00:00",
+      "updatedAt": "2026-11-20T11:00:34+00:00",
       "stories": [
+        {
+          "title": "Anthropic raises $81B in the largest IPO ever",
+          "url": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq",
+          "publishedAt": "2026-11-20T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "4 things that stuck with me from DealBook",
+          "url": "https://www.nytimes.com/international/section/business/dealbook",
+          "publishedAt": "2026-11-20T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI’s agents now handle half its long research tasks",
+          "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "publishedAt": "2026-11-20T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Apple may be developing its own AI agent that runs your Mac",
           "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
@@ -365,12 +383,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "These tech outages are giving Y2K, AI agent style",
-          "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style",
-          "publishedAt": "2026-11-19T21:42:31+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Google’s shipping spree continues with Neon",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
           "publishedAt": "2026-11-19T10:00:00+00:00",
@@ -383,57 +395,45 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "The unfolding Jensen Huang scandal: a timeline",
-          "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
-          "publishedAt": "2026-11-19T20:18:49+00:00",
-          "source": "TechCrunch AI"
+          "title": "Genie 4 (7 minute read)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie",
+          "publishedAt": "2026-11-19T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Anthropic’s IPO could deliver $156B to charity",
-          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
-          "publishedAt": "2026-11-19T19:10:45+00:00",
-          "source": "TechCrunch AI"
+          "title": "Why is Gemini 4 Carbon taking so long? (4 minute read)",
+          "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long",
+          "publishedAt": "2026-11-19T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Why Antigravity Eats Weekly Quota Fast - and What I Measured (17 minute read)",
+          "url": "https://asubedi.com.np/blog/why-antigravity-eats-weekly-quota-fast",
+          "publishedAt": "2026-11-19T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Switching LLMs mid-conversation is a ski-rental problem (30 minute read)",
+          "url": "https://www.edgee.ai/blog/posts/switching-llms-mid-conversation-is-a-ski-rental-problem",
+          "publishedAt": "2026-11-19T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Advancing chip design with OpenAI models (8 minute read)",
+          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "publishedAt": "2026-11-19T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Become a founding member of TLDR's AI community (2 minute form)",
+          "url": "https://danni763618.typeform.com/to/H1tYViME",
+          "publishedAt": "2026-11-19T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "OpenAI drops GPT-6.2 Astra, Sol to mixed fanfare",
           "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
           "publishedAt": "2026-11-18T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI finds a hole in Java as NATO taps OpenAI",
-          "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
-          "publishedAt": "2026-11-18T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "California takes OpenAI to court over agent escapes",
-          "url": "https://oag.ca.gov/system/files/attachments/press-docs/complaint-oai-cyber.pdf",
-          "publishedAt": "2026-11-17T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Trump set to crown AI ‘national champions’",
-          "url": "https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344",
-          "publishedAt": "2026-11-17T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI tracks how scientists really use ChatGPT",
-          "url": "https://openai.com/index/science-at-the-frontier",
-          "publishedAt": "2026-11-17T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Musk, Nvidia staff rally to bring back Jensen Huang",
-          "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
-          "publishedAt": "2026-11-16T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Report: OpenAI folds robotics team into core research",
-          "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
-          "publishedAt": "2026-11-16T10:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-20T10:00:30+00:00",
+      "updatedAt": "2026-11-20T11:00:34+00:00",
       "stories": [
         {
           "title": "Robotics enters its post-Jensen Huang era",
@@ -537,22 +537,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-20T10:00:30+00:00",
+    "updatedAt": "2026-11-20T11:00:34+00:00",
     "stories": [
       {
-        "title": "Apple may be developing its own AI agent that runs your Mac",
-        "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
-        "publishedAt": "2026-11-20T00:56:01+00:00",
-        "source": "TechCrunch AI",
+        "title": "Anthropic raises $81B in the largest IPO ever",
+        "url": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq",
+        "publishedAt": "2026-11-20T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-        "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
-        "publishedAt": "2026-11-20T00:43:50+00:00",
-        "source": "TechCrunch AI",
+        "title": "4 things that stuck with me from DealBook",
+        "url": "https://www.nytimes.com/international/section/business/dealbook",
+        "publishedAt": "2026-11-20T10:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -603,6 +603,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "OpenAI’s agents now handle half its long research tasks",
+        "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+        "publishedAt": "2026-11-20T10:00:00+00:00",
+        "source": "The Rundown AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "GHGSat DATA.AIR Gen2 wins EPA approval for leak screening",
         "url": "https://spaceq.ca/ghgsat-data-air-gen2-epa-methane-compliance",
         "publishedAt": "2026-11-19T20:03:28+00:00",
@@ -618,15 +627,6 @@
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Making the case for optical",
-        "url": "https://spacenews.com/making-the-case-for-optical",
-        "publishedAt": "2026-11-19T15:38:18+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -743,7 +743,6 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-06"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
   ]
 }
