@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T07:00:28+00:00",
+  "generatedAt": "2026-11-20T07:49:45+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-20T07:00:28+00:00",
+      "updatedAt": "2026-11-20T07:49:45+00:00",
       "stories": [
         {
           "title": "The sweet spot for constellation size",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-20T07:00:28+00:00",
+      "updatedAt": "2026-11-20T07:49:45+00:00",
       "stories": [
         {
           "title": "ICEYE unveils Gen5 satellite, makes €2-billion bid for Avio",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-20T07:00:28+00:00",
+      "updatedAt": "2026-11-20T07:49:45+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in the Coalition of the Willing",
@@ -247,8 +247,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-20T07:00:28+00:00",
+      "updatedAt": "2026-11-20T07:49:45+00:00",
       "stories": [
+        {
+          "title": "Australia receives first 2 of 13 additional Seahawk helicopters",
+          "url": "https://breakingdefense.com/2026/11/australia-receives-first-2-of-13-additional-seahawk-helicopters",
+          "publishedAt": "2026-11-20T07:00:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Toti pushes new foreign-built shipyard in the US to focus on frigates, large surface combatants",
           "url": "https://breakingdefense.com/2026/11/toti-pushes-new-foreign-built-shipyard-in-the-us-to-focus-on-frigates-large-surface-combatants",
@@ -310,12 +316,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "The real-world missile defense lessons from Ukraine and Iran — and how they matter for China",
-          "url": "https://breakingdefense.com/2026/11/the-real-world-missile-defense-lessons-from-ukraine-and-iran-and-how-they-matter-for-china",
-          "publishedAt": "2026-11-19T16:33:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Trump nominates Centcom Deputy Lt. Gen. Patrick Frank to lead Northcom, NORAD",
           "url": "https://defensescoop.com/2026/11/19/trump-nominates-centcom-deputy-lt-gen-patrick-frank-to-lead-northcom-norad",
           "publishedAt": "2026-11-19T19:09:34+00:00",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-20T07:00:28+00:00",
+      "updatedAt": "2026-11-20T07:49:45+00:00",
       "stories": [
         {
           "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-20T07:00:28+00:00",
+      "updatedAt": "2026-11-20T07:49:45+00:00",
       "stories": [
         {
           "title": "Robotics enters its post-Jensen Huang era",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-20T07:00:28+00:00",
+    "updatedAt": "2026-11-20T07:49:45+00:00",
     "stories": [
       {
         "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -585,9 +585,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Toti pushes new foreign-built shipyard in the US to focus on frigates, large surface combatants",
-        "url": "https://breakingdefense.com/2026/11/toti-pushes-new-foreign-built-shipyard-in-the-us-to-focus-on-frigates-large-surface-combatants",
-        "publishedAt": "2026-11-19T21:08:27+00:00",
+        "title": "Australia receives first 2 of 13 additional Seahawk helicopters",
+        "url": "https://breakingdefense.com/2026/11/australia-receives-first-2-of-13-additional-seahawk-helicopters",
+        "publishedAt": "2026-11-20T07:00:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -744,6 +744,6 @@
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
     "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-04"
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-06"
   ]
 }
