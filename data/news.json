@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T22:43:15+00:00",
+  "generatedAt": "2026-11-20T23:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-20T22:43:15+00:00",
+      "updatedAt": "2026-11-20T23:00:33+00:00",
       "stories": [
         {
           "title": "Curiosity Spots Drifting Twilight Clouds",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-20T22:43:15+00:00",
+      "updatedAt": "2026-11-20T23:00:33+00:00",
       "stories": [
         {
           "title": "Voyager 1 reaches one light-day from Earth",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-20T22:43:15+00:00",
+      "updatedAt": "2026-11-20T23:00:33+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in the Coalition of the Willing",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-20T22:43:15+00:00",
+      "updatedAt": "2026-11-20T23:00:33+00:00",
       "stories": [
         {
           "title": "This counter-UAS system senses deep inside neighboring borders to detect and defeat drones",
@@ -254,6 +254,12 @@
           "url": "https://breakingdefense.com/2026/11/navys-shipbuilding-plan-would-require-massive-hike-in-annual-appropriations-cbo",
           "publishedAt": "2026-11-20T19:33:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Army plans to work with OpenAI on Project Gatekeeper",
+          "url": "https://defensescoop.com/2026/11/20/army-project-gatekeeper-openai-gabe-chiulli",
+          "publishedAt": "2026-11-20T22:49:30+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Autonomy firm Auterion to launch joint venture with Ukrainian drone maker Skyfall",
@@ -326,19 +332,13 @@
           "url": "https://defensescoop.com/2026/11/19/trump-nominates-centcom-deputy-lt-gen-patrick-frank-to-lead-northcom-norad",
           "publishedAt": "2026-11-19T19:09:34+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "CR not slowing Golden Dome progress, deputy director argues",
-          "url": "https://defensescoop.com/2026/11/19/cr-not-slowing-golden-dome-progress-deputy-director-argues",
-          "publishedAt": "2026-11-19T16:45:45+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-20T22:43:15+00:00",
+      "updatedAt": "2026-11-20T23:00:33+00:00",
       "stories": [
         {
           "title": "Anthropic raises $81B in the largest IPO ever",
@@ -365,7 +365,7 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+          "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
           "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
           "publishedAt": "2026-11-20T19:32:08+00:00",
           "source": "TechCrunch AI"
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-20T22:43:15+00:00",
+      "updatedAt": "2026-11-20T23:00:33+00:00",
       "stories": [
         {
           "title": "MassRobotics launching marine robotics facility on Boston Harbor",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-20T22:43:15+00:00",
+    "updatedAt": "2026-11-20T23:00:33+00:00",
     "stories": [
       {
         "title": "Anthropic raises $81B in the largest IPO ever",
@@ -615,12 +615,12 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "On this day in space! Nov. 20, 1998: Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026",
-        "publishedAt": "2026-11-20T21:19:33+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Army plans to work with OpenAI on Project Gatekeeper",
+        "url": "https://defensescoop.com/2026/11/20/army-project-gatekeeper-openai-gabe-chiulli",
+        "publishedAt": "2026-11-20T22:49:30+00:00",
+        "source": "DefenseScoop",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
