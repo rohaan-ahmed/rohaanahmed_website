@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T12:00:31+00:00",
+  "generatedAt": "2026-11-20T13:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-20T12:00:31+00:00",
+      "updatedAt": "2026-11-20T13:00:31+00:00",
       "stories": [
         {
           "title": "I handpicked every Star Trek Blu-Ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-20T12:00:31+00:00",
+      "updatedAt": "2026-11-20T13:00:31+00:00",
       "stories": [
+        {
+          "title": "Pegasus lunar terrain vehicle passes NASA design review",
+          "url": "https://spaceq.ca/pegasus-lunar-terrain-vehicle-nasa-design-review",
+          "publishedAt": "2026-11-20T12:22:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "ICEYE unveils Gen5 satellite, makes €2-billion bid for Avio",
           "url": "https://spaceq.ca/iceye-gen5-avio-bid",
@@ -170,12 +176,6 @@
           "source": "Canadian Space Agency"
         },
         {
-          "title": "Weekly ISS update: Kutryk calls Newfoundland students from orbit",
-          "url": "https://spaceq.ca/weekly-iss-update-kutryk-calls-newfoundland-students",
-          "publishedAt": "2026-11-16T01:32:04+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Amateur radio contact between CSA astronaut Joshua Kutryk and students in Halifax",
           "url": "https://www.canada.ca/en/space-agency/news/2026/11/amateur-radio-contact-between-csa-astronaut-joshua-kutryk-and-students-in-halifax.html",
           "publishedAt": "2026-11-12T15:09:07+00:00",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-20T12:00:31+00:00",
+      "updatedAt": "2026-11-20T13:00:31+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in the Coalition of the Willing",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-20T12:00:31+00:00",
+      "updatedAt": "2026-11-20T13:00:31+00:00",
       "stories": [
         {
           "title": "Dutch defense-industry plan targets 40% growth, €15 billion revenue by 2030",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-20T12:00:31+00:00",
+      "updatedAt": "2026-11-20T13:00:31+00:00",
       "stories": [
         {
           "title": "Anthropic raises $81B in the largest IPO ever",
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-20T12:00:31+00:00",
+      "updatedAt": "2026-11-20T13:00:31+00:00",
       "stories": [
         {
           "title": "Robotics enters its post-Jensen Huang era",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-20T12:00:31+00:00",
+    "updatedAt": "2026-11-20T13:00:31+00:00",
     "stories": [
       {
         "title": "Anthropic raises $81B in the largest IPO ever",
@@ -558,9 +558,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "ICEYE unveils Gen5 satellite, makes €2-billion bid for Avio",
-        "url": "https://spaceq.ca/iceye-gen5-avio-bid",
-        "publishedAt": "2026-11-19T20:10:04+00:00",
+        "title": "Pegasus lunar terrain vehicle passes NASA design review",
+        "url": "https://spaceq.ca/pegasus-lunar-terrain-vehicle-nasa-design-review",
+        "publishedAt": "2026-11-20T12:22:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
