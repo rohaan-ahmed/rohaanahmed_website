@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T00:52:33+00:00",
+  "generatedAt": "2026-11-20T01:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-20T00:52:33+00:00",
+      "updatedAt": "2026-11-20T01:00:31+00:00",
       "stories": [
         {
           "title": "The sweet spot for constellation size",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-20T00:52:33+00:00",
+      "updatedAt": "2026-11-20T01:00:31+00:00",
       "stories": [
         {
           "title": "ICEYE unveils Gen5 satellite, makes €2-billion bid for Avio",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-20T00:52:33+00:00",
+      "updatedAt": "2026-11-20T01:00:31+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in the Coalition of the Willing",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-20T00:52:33+00:00",
+      "updatedAt": "2026-11-20T01:00:31+00:00",
       "stories": [
         {
           "title": "Toti pushes new foreign-built shipyard in the US to focus on frigates, large surface combatants",
@@ -344,8 +344,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-20T00:52:33+00:00",
+      "updatedAt": "2026-11-20T01:00:31+00:00",
       "stories": [
+        {
+          "title": "Apple may be developing its own AI agent that runs your Mac",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+          "publishedAt": "2026-11-20T00:56:01+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
           "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
@@ -377,40 +383,16 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Genie 4 (7 minute read)",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie",
-          "publishedAt": "2026-11-19T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "The unfolding Jensen Huang scandal: a timeline",
+          "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+          "publishedAt": "2026-11-19T20:18:49+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Why is Gemini 4 Carbon taking so long? (4 minute read)",
-          "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long",
-          "publishedAt": "2026-11-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Why Antigravity Eats Weekly Quota Fast - and What I Measured (17 minute read)",
-          "url": "https://asubedi.com.np/blog/why-antigravity-eats-weekly-quota-fast",
-          "publishedAt": "2026-11-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Switching LLMs mid-conversation is a ski-rental problem (30 minute read)",
-          "url": "https://www.edgee.ai/blog/posts/switching-llms-mid-conversation-is-a-ski-rental-problem",
-          "publishedAt": "2026-11-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Advancing chip design with OpenAI models (8 minute read)",
-          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-          "publishedAt": "2026-11-19T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Become a founding member of TLDR's AI community (2 minute form)",
-          "url": "https://danni763618.typeform.com/to/H1tYViME",
-          "publishedAt": "2026-11-19T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Anthropic’s IPO could deliver $156B to charity",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
+          "publishedAt": "2026-11-19T19:10:45+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI drops GPT-6.2 Astra, Sol to mixed fanfare",
@@ -435,13 +417,31 @@
           "url": "https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344",
           "publishedAt": "2026-11-17T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI tracks how scientists really use ChatGPT",
+          "url": "https://openai.com/index/science-at-the-frontier",
+          "publishedAt": "2026-11-17T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Musk, Nvidia staff rally to bring back Jensen Huang",
+          "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
+          "publishedAt": "2026-11-16T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Report: OpenAI folds robotics team into core research",
+          "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+          "publishedAt": "2026-11-16T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-20T00:52:33+00:00",
+      "updatedAt": "2026-11-20T01:00:31+00:00",
       "stories": [
         {
           "title": "What industrial drone deployments reveal about real-world autonomy challenges",
@@ -537,21 +537,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-20T00:52:33+00:00",
+    "updatedAt": "2026-11-20T01:00:31+00:00",
     "stories": [
       {
-        "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-        "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
-        "publishedAt": "2026-11-20T00:43:50+00:00",
+        "title": "Apple may be developing its own AI agent that runs your Mac",
+        "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+        "publishedAt": "2026-11-20T00:56:01+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Meta’s new Muse Charm device may cost $300",
-        "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300",
-        "publishedAt": "2026-11-19T21:58:06+00:00",
+        "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
+        "publishedAt": "2026-11-20T00:43:50+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -743,6 +743,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-06"
   ]
 }
