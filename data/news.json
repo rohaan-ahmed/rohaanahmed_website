@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-20T20:00:40+00:00",
+  "generatedAt": "2026-11-20T21:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-20T20:00:40+00:00",
+      "updatedAt": "2026-11-20T21:00:29+00:00",
       "stories": [
+        {
+          "title": "GTA hasn't gone to space (yet), but these sci-fi games can offer you a life of crime among the stars",
+          "url": "https://www.space.com/entertainment/space-games/gta-hasnt-gone-to-space-yet-but-these-sci-fi-games-can-offer-you-a-life-of-crime-among-the-stars",
+          "publishedAt": "2026-11-20T20:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
+          "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation",
+          "publishedAt": "2026-11-20T20:46:14+00:00",
+          "source": "NASA"
+        },
         {
           "title": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches",
           "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
@@ -22,12 +34,6 @@
           "title": "Could an ancient solar eclipse rewrite Egyptian history?",
           "url": "https://www.space.com/stargazing/solar-eclipses/could-an-ancient-solar-eclipse-rewrite-egyptian-history",
           "publishedAt": "2026-11-20T18:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Russia is developing a nuclear space weapon, US intelligence report finds",
-          "url": "https://www.space.com/space-exploration/satellites/russia-is-developing-a-nuclear-space-weapon-us-intelligence-report-finds",
-          "publishedAt": "2026-11-20T17:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -58,12 +64,6 @@
           "title": "APOD: 2026 November 20 – V-G-R",
           "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r",
           "publishedAt": "2026-11-20T05:05:00+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "The Stormy Southwest Pacific",
-          "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific",
-          "publishedAt": "2026-11-20T05:01:00+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-20T20:00:40+00:00",
+      "updatedAt": "2026-11-20T21:00:29+00:00",
       "stories": [
         {
           "title": "Voyager 1 reaches one light-day from Earth",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-20T20:00:40+00:00",
+      "updatedAt": "2026-11-20T21:00:29+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in the Coalition of the Willing",
@@ -241,8 +241,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-20T20:00:40+00:00",
+      "updatedAt": "2026-11-20T21:00:29+00:00",
       "stories": [
+        {
+          "title": "This counter-UAS system senses deep inside neighboring borders to detect and defeat drones",
+          "url": "https://breakingdefense.com/2026/11/this-counter-uas-system-senses-deep-inside-neighboring-borders-to-detect-and-defeat-drones",
+          "publishedAt": "2026-11-20T20:53:46+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Navy’s shipbuilding plan would require massive hike in annual appropriations: CBO",
           "url": "https://breakingdefense.com/2026/11/navys-shipbuilding-plan-would-require-massive-hike-in-annual-appropriations-cbo",
@@ -271,12 +277,6 @@
           "title": "Trump to keynote Reagan National Defense Forum",
           "url": "https://breakingdefense.com/2026/11/trump-to-keynote-reagan-national-defense-forum",
           "publishedAt": "2026-11-20T16:53:33+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "One data foundation and many application layers drive the Army’s NGC2 transformation",
-          "url": "https://breakingdefense.com/2026/11/one-data-foundation-and-many-application-layers-drive-the-armys-ngc2-transformation",
-          "publishedAt": "2026-11-20T16:53:14+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-20T20:00:40+00:00",
+      "updatedAt": "2026-11-20T21:00:29+00:00",
       "stories": [
         {
           "title": "Anthropic raises $81B in the largest IPO ever",
@@ -365,7 +365,7 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+          "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
           "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
           "publishedAt": "2026-11-20T19:32:08+00:00",
           "source": "TechCrunch AI"
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-20T20:00:40+00:00",
+      "updatedAt": "2026-11-20T21:00:29+00:00",
       "stories": [
         {
           "title": "MassRobotics launching marine robotics facility on Boston Harbor",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-20T20:00:40+00:00",
+    "updatedAt": "2026-11-20T21:00:29+00:00",
     "stories": [
       {
         "title": "Anthropic raises $81B in the largest IPO ever",
@@ -561,9 +561,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches",
-        "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
-        "publishedAt": "2026-11-20T19:50:15+00:00",
+        "title": "GTA hasn't gone to space (yet), but these sci-fi games can offer you a life of crime among the stars",
+        "url": "https://www.space.com/entertainment/space-games/gta-hasnt-gone-to-space-yet-but-these-sci-fi-games-can-offer-you-a-life-of-crime-among-the-stars",
+        "publishedAt": "2026-11-20T20:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Navy’s shipbuilding plan would require massive hike in annual appropriations: CBO",
-        "url": "https://breakingdefense.com/2026/11/navys-shipbuilding-plan-would-require-massive-hike-in-annual-appropriations-cbo",
-        "publishedAt": "2026-11-20T19:33:00+00:00",
+        "title": "This counter-UAS system senses deep inside neighboring borders to detect and defeat drones",
+        "url": "https://breakingdefense.com/2026/11/this-counter-uas-system-senses-deep-inside-neighboring-borders-to-detect-and-defeat-drones",
+        "publishedAt": "2026-11-20T20:53:46+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -606,21 +606,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Autonomy firm Auterion to launch joint venture with Ukrainian drone maker Skyfall",
-        "url": "https://breakingdefense.com/2026/11/autonomy-firm-auterion-to-launch-joint-venture-with-ukrainian-drone-maker-skyfall",
-        "publishedAt": "2026-11-20T18:24:00+00:00",
+        "title": "Navy’s shipbuilding plan would require massive hike in annual appropriations: CBO",
+        "url": "https://breakingdefense.com/2026/11/navys-shipbuilding-plan-would-require-massive-hike-in-annual-appropriations-cbo",
+        "publishedAt": "2026-11-20T19:33:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "OpenAI’s agents now handle half its long research tasks",
-        "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-        "publishedAt": "2026-11-20T10:00:00+00:00",
-        "source": "The Rundown AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
+        "title": "Autonomy firm Auterion to launch joint venture with Ukrainian drone maker Skyfall",
+        "url": "https://breakingdefense.com/2026/11/autonomy-firm-auterion-to-launch-joint-venture-with-ukrainian-drone-maker-skyfall",
+        "publishedAt": "2026-11-20T18:24:00+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
