@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-21T16:00:30+00:00",
+  "generatedAt": "2026-11-21T17:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-21T16:00:30+00:00",
+      "updatedAt": "2026-11-21T17:00:31+00:00",
       "stories": [
+        {
+          "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
+          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
+          "publishedAt": "2026-11-21T16:20:37+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
           "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure",
@@ -22,12 +28,6 @@
           "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
           "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
           "publishedAt": "2026-11-21T11:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "SpaceX launches classified mission for US Space Force from California (video)",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
-          "publishedAt": "2026-11-21T05:28:14+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-21T16:00:30+00:00",
+      "updatedAt": "2026-11-21T17:00:31+00:00",
       "stories": [
         {
           "title": "Voyager 1 reaches one light-day from Earth",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-21T16:00:30+00:00",
+      "updatedAt": "2026-11-21T17:00:31+00:00",
       "stories": [
         {
           "title": "Canada to Join the NATO Innovation Fund",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-21T16:00:30+00:00",
+      "updatedAt": "2026-11-21T17:00:31+00:00",
       "stories": [
         {
           "title": "Senate gearing up to investigate Ukraine’s access to Starshield",
@@ -344,8 +344,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-21T16:00:30+00:00",
+      "updatedAt": "2026-11-21T17:00:31+00:00",
       "stories": [
+        {
+          "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+          "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
+          "publishedAt": "2026-11-21T16:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Anthropic raises $81B in the largest IPO ever",
           "url": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq",
@@ -374,12 +380,6 @@
           "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
           "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
           "publishedAt": "2026-11-20T19:32:08+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Chips can survive the space environment — can their financing?",
-          "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing",
-          "publishedAt": "2026-11-20T17:40:01+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-21T16:00:30+00:00",
+      "updatedAt": "2026-11-21T17:00:31+00:00",
       "stories": [
         {
           "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
@@ -537,20 +537,20 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-21T16:00:30+00:00",
+    "updatedAt": "2026-11-21T17:00:31+00:00",
     "stories": [
       {
-        "title": "Anthropic raises $81B in the largest IPO ever",
-        "url": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq",
-        "publishedAt": "2026-11-20T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+        "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
+        "publishedAt": "2026-11-21T16:00:00+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "4 things that stuck with me from DealBook",
-        "url": "https://www.nytimes.com/international/section/business/dealbook",
+        "title": "Anthropic raises $81B in the largest IPO ever",
+        "url": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq",
         "publishedAt": "2026-11-20T10:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
@@ -567,9 +567,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
-        "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure",
-        "publishedAt": "2026-11-21T15:00:00+00:00",
+        "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
+        "publishedAt": "2026-11-21T16:20:37+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -603,6 +603,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
+        "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure",
+        "publishedAt": "2026-11-21T15:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
         "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
         "publishedAt": "2026-11-21T13:00:00+00:00",
@@ -615,15 +624,6 @@
         "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
         "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
         "publishedAt": "2026-11-21T11:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "SpaceX launches classified mission for US Space Force from California (video)",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
-        "publishedAt": "2026-11-21T05:28:14+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
