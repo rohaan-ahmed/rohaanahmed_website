@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T18:00:31+00:00",
+  "generatedAt": "2026-11-21T18:16:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-21T18:00:31+00:00",
+      "updatedAt": "2026-11-21T18:16:34+00:00",
       "stories": [
         {
           "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-21T18:00:31+00:00",
+      "updatedAt": "2026-11-21T18:16:34+00:00",
       "stories": [
         {
           "title": "Voyager 1 reaches one light-day from Earth",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-21T18:00:31+00:00",
+      "updatedAt": "2026-11-21T18:16:34+00:00",
       "stories": [
         {
           "title": "Canada to Join the NATO Innovation Fund",
@@ -247,8 +247,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-21T18:00:31+00:00",
+      "updatedAt": "2026-11-21T18:16:34+00:00",
       "stories": [
+        {
+          "title": "Canada hasn’t seen changes to defense relationship with US, says McGuinty",
+          "url": "https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty",
+          "publishedAt": "2026-11-21T18:06:38+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Senate gearing up to investigate Ukraine’s access to Starshield",
           "url": "https://breakingdefense.com/2026/11/senate-gearing-up-to-investigate-ukraines-access-to-starshield",
@@ -278,12 +284,6 @@
           "url": "https://defensescoop.com/2026/11/20/army-project-gatekeeper-openai-gabe-chiulli",
           "publishedAt": "2026-11-20T22:49:30+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Autonomy firm Auterion to launch joint venture with Ukrainian drone maker Skyfall",
-          "url": "https://breakingdefense.com/2026/11/autonomy-firm-auterion-to-launch-joint-venture-with-ukrainian-drone-maker-skyfall",
-          "publishedAt": "2026-11-20T18:24:00+00:00",
-          "source": "Breaking Defense"
         },
         {
           "title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-21T18:00:31+00:00",
+      "updatedAt": "2026-11-21T18:16:34+00:00",
       "stories": [
         {
           "title": "Here are the top AI agents that can live in your text messages",
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-21T18:00:31+00:00",
+      "updatedAt": "2026-11-21T18:16:34+00:00",
       "stories": [
         {
           "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-21T18:00:31+00:00",
+    "updatedAt": "2026-11-21T18:16:34+00:00",
     "stories": [
       {
         "title": "Here are the top AI agents that can live in your text messages",
@@ -585,9 +585,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Senate gearing up to investigate Ukraine’s access to Starshield",
-        "url": "https://breakingdefense.com/2026/11/senate-gearing-up-to-investigate-ukraines-access-to-starshield",
-        "publishedAt": "2026-11-21T15:06:51+00:00",
+        "title": "Canada hasn’t seen changes to defense relationship with US, says McGuinty",
+        "url": "https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty",
+        "publishedAt": "2026-11-21T18:06:38+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -603,6 +603,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Senate gearing up to investigate Ukraine’s access to Starshield",
+        "url": "https://breakingdefense.com/2026/11/senate-gearing-up-to-investigate-ukraines-access-to-starshield",
+        "publishedAt": "2026-11-21T15:06:51+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
         "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure",
         "publishedAt": "2026-11-21T15:00:00+00:00",
@@ -615,15 +624,6 @@
         "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
         "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
         "publishedAt": "2026-11-21T13:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
-        "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
-        "publishedAt": "2026-11-21T11:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
