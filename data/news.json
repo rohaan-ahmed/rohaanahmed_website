@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T01:00:29+00:00",
+  "generatedAt": "2026-11-21T02:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-21T01:00:29+00:00",
+      "updatedAt": "2026-11-21T02:00:31+00:00",
       "stories": [
         {
           "title": "Curiosity Spots Drifting Twilight Clouds",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-21T01:00:29+00:00",
+      "updatedAt": "2026-11-21T02:00:31+00:00",
       "stories": [
         {
           "title": "Voyager 1 reaches one light-day from Earth",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-21T01:00:29+00:00",
+      "updatedAt": "2026-11-21T02:00:31+00:00",
       "stories": [
         {
           "title": "Minister McGuinty participates in the Coalition of the Willing",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-21T01:00:29+00:00",
+      "updatedAt": "2026-11-21T02:00:31+00:00",
       "stories": [
         {
           "title": "Air Force issues massive $16B contract for engine work to dozens of companies",
@@ -338,7 +338,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-21T01:00:29+00:00",
+      "updatedAt": "2026-11-21T02:00:31+00:00",
       "stories": [
         {
           "title": "Anthropic raises $81B in the largest IPO ever",
@@ -435,8 +435,14 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-21T01:00:29+00:00",
+      "updatedAt": "2026-11-21T02:00:31+00:00",
       "stories": [
+        {
+          "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
+          "url": "https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation",
+          "publishedAt": "2026-11-21T00:55:45+00:00",
+          "source": "The Robot Report"
+        },
         {
           "title": "MassRobotics launching marine robotics facility on Boston Harbor",
           "url": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor",
@@ -492,12 +498,6 @@
           "source": "TechCrunch Robotics"
         },
         {
-          "title": "California DMV bars Waymo AVs from operating on the state’s freeways",
-          "url": "https://www.therobotreport.com/california-dmv-bars-waymo-avs-from-operating-on-the-states-freeways",
-          "publishedAt": "2026-11-17T23:55:07+00:00",
-          "source": "The Robot Report"
-        },
-        {
           "title": "Genesis AI raises $500M to deploy glove-wearing robots",
           "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots",
           "publishedAt": "2026-11-17T14:00:00+00:00",
@@ -531,7 +531,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-21T01:00:29+00:00",
+    "updatedAt": "2026-11-21T02:00:31+00:00",
     "stories": [
       {
         "title": "Anthropic raises $81B in the largest IPO ever",
@@ -588,9 +588,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "MassRobotics launching marine robotics facility on Boston Harbor",
-        "url": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor",
-        "publishedAt": "2026-11-20T17:04:28+00:00",
+        "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
+        "url": "https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation",
+        "publishedAt": "2026-11-21T00:55:45+00:00",
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
