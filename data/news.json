@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T17:00:31+00:00",
+  "generatedAt": "2026-11-21T18:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-21T17:00:31+00:00",
+      "updatedAt": "2026-11-21T18:00:31+00:00",
       "stories": [
         {
           "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-21T17:00:31+00:00",
+      "updatedAt": "2026-11-21T18:00:31+00:00",
       "stories": [
         {
           "title": "Voyager 1 reaches one light-day from Earth",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-21T17:00:31+00:00",
+      "updatedAt": "2026-11-21T18:00:31+00:00",
       "stories": [
         {
           "title": "Canada to Join the NATO Innovation Fund",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-21T17:00:31+00:00",
+      "updatedAt": "2026-11-21T18:00:31+00:00",
       "stories": [
         {
           "title": "Senate gearing up to investigate Ukraine’s access to Starshield",
@@ -344,8 +344,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-21T17:00:31+00:00",
+      "updatedAt": "2026-11-21T18:00:31+00:00",
       "stories": [
+        {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
+          "publishedAt": "2026-11-21T17:00:00+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
           "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
@@ -374,12 +380,6 @@
           "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
           "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building",
           "publishedAt": "2026-11-20T19:53:41+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
-          "publishedAt": "2026-11-20T19:32:08+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-21T17:00:31+00:00",
+      "updatedAt": "2026-11-21T18:00:31+00:00",
       "stories": [
         {
           "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
@@ -537,22 +537,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-21T17:00:31+00:00",
+    "updatedAt": "2026-11-21T18:00:31+00:00",
     "stories": [
       {
-        "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-        "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
-        "publishedAt": "2026-11-21T16:00:00+00:00",
+        "title": "Here are the top AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
+        "publishedAt": "2026-11-21T17:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Anthropic raises $81B in the largest IPO ever",
-        "url": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq",
-        "publishedAt": "2026-11-20T10:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+        "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
+        "publishedAt": "2026-11-21T16:00:00+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
