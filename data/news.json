@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-22T05:00:33+00:00",
+  "generatedAt": "2026-11-22T06:00:42+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-22T05:00:33+00:00",
+      "updatedAt": "2026-11-22T06:00:42+00:00",
       "stories": [
+        {
+          "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno",
+          "publishedAt": "2026-11-22T05:05:00+00:00",
+          "source": "NASA"
+        },
         {
           "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
@@ -46,12 +52,6 @@
           "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
           "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation",
           "publishedAt": "2026-11-20T20:46:14+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
-          "url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis",
-          "publishedAt": "2026-11-20T16:27:46+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-22T05:00:33+00:00",
+      "updatedAt": "2026-11-22T06:00:42+00:00",
       "stories": [
         {
           "title": "Isar Aerospace’s road to Nova Scotia began with a general’s call",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-22T05:00:33+00:00",
+      "updatedAt": "2026-11-22T06:00:42+00:00",
       "stories": [
         {
           "title": "Canada to Join the NATO Innovation Fund",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-22T05:00:33+00:00",
+      "updatedAt": "2026-11-22T06:00:42+00:00",
       "stories": [
         {
           "title": "Despite Hegseth memo, Canada hasn’t seen changes to defense relationship with US, says DefMin",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-22T05:00:33+00:00",
+      "updatedAt": "2026-11-22T06:00:42+00:00",
       "stories": [
         {
           "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-22T05:00:33+00:00",
+      "updatedAt": "2026-11-22T06:00:42+00:00",
       "stories": [
         {
           "title": "The manufacturing data gap holding back physical AI",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-22T05:00:33+00:00",
+    "updatedAt": "2026-11-22T06:00:42+00:00",
     "stories": [
       {
         "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -567,10 +567,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
-        "publishedAt": "2026-11-21T16:20:37+00:00",
-        "source": "Space.com",
+        "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno",
+        "publishedAt": "2026-11-22T05:05:00+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -612,21 +612,21 @@
         "bulletinRole": "noteworthy"
       },
       {
+        "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
+        "publishedAt": "2026-11-21T16:20:37+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Here are the top AI agents that can live in your text messages",
         "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
         "publishedAt": "2026-11-21T17:00:00+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
-        "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure",
-        "publishedAt": "2026-11-21T15:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
