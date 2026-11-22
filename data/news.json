@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T18:00:36+00:00",
+  "generatedAt": "2026-11-22T18:51:15+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-22T18:00:36+00:00",
+      "updatedAt": "2026-11-22T18:51:15+00:00",
       "stories": [
         {
           "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-22T18:00:36+00:00",
+      "updatedAt": "2026-11-22T18:51:15+00:00",
       "stories": [
         {
           "title": "Isar Aerospace’s road to Nova Scotia began with a general’s call",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-22T18:00:36+00:00",
+      "updatedAt": "2026-11-22T18:51:15+00:00",
       "stories": [
         {
           "title": "Canada to Join the NATO Innovation Fund",
@@ -241,7 +241,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-22T18:00:36+00:00",
+      "updatedAt": "2026-11-22T18:51:15+00:00",
       "stories": [
         {
           "title": "Despite Hegseth memo, Canada hasn’t seen changes to defense relationship with US, says DefMin",
@@ -338,8 +338,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-22T18:00:36+00:00",
+      "updatedAt": "2026-11-22T18:51:15+00:00",
       "stories": [
+        {
+          "title": "Why data centers are at the center of the Big Tech backlash",
+          "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+          "publishedAt": "2026-11-22T18:08:43+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
           "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
@@ -350,12 +356,6 @@
           "title": "A tale of two Nvidias",
           "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
           "publishedAt": "2026-11-21T21:07:42+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Here are the top AI agents that can live in your text messages",
-          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
-          "publishedAt": "2026-11-21T17:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -435,7 +435,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-22T18:00:36+00:00",
+      "updatedAt": "2026-11-22T18:51:15+00:00",
       "stories": [
         {
           "title": "The manufacturing data gap holding back physical AI",
@@ -531,21 +531,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-22T18:00:36+00:00",
+    "updatedAt": "2026-11-22T18:51:15+00:00",
     "stories": [
       {
-        "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-        "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
-        "publishedAt": "2026-11-21T21:37:10+00:00",
+        "title": "Why data centers are at the center of the Big Tech backlash",
+        "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+        "publishedAt": "2026-11-22T18:08:43+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "A tale of two Nvidias",
-        "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
-        "publishedAt": "2026-11-21T21:07:42+00:00",
+        "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+        "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+        "publishedAt": "2026-11-21T21:37:10+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
