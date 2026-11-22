@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T01:00:30+00:00",
+  "generatedAt": "2026-11-22T02:00:37+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-22T01:00:30+00:00",
+      "updatedAt": "2026-11-22T02:00:37+00:00",
       "stories": [
         {
           "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-22T01:00:30+00:00",
+      "updatedAt": "2026-11-22T02:00:37+00:00",
       "stories": [
+        {
+          "title": "Isar Aerospace’s road to Nova Scotia began with a general’s call",
+          "url": "https://spaceq.ca/isar-aerospace-nova-scotia-generals-call",
+          "publishedAt": "2026-11-22T01:53:21+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Voyager 1 reaches one light-day from Earth",
           "url": "https://spaceq.ca/voyager-1-light-day",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "Telesat lenders agree to hold off, buying time on December debt",
-          "url": "https://spaceq.ca/telesat-standstill-geo-lenders-debt",
-          "publishedAt": "2026-11-17T12:04:00+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Canadian Space Agency astronaut Jenni Gibbons to visit Whitehorse",
           "url": "https://www.canada.ca/en/space-agency/news/2026/11/canadian-space-agency-astronaut-jenni-gibbons-to-visit-whitehorse.html",
           "publishedAt": "2026-11-16T16:40:23+00:00",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-22T01:00:30+00:00",
+      "updatedAt": "2026-11-22T02:00:37+00:00",
       "stories": [
         {
           "title": "Canada to Join the NATO Innovation Fund",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-22T01:00:30+00:00",
+      "updatedAt": "2026-11-22T02:00:37+00:00",
       "stories": [
         {
           "title": "Despite Hegseth memo, Canada hasn’t seen changes to defense relationship with US, says DefMin",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-22T01:00:30+00:00",
+      "updatedAt": "2026-11-22T02:00:37+00:00",
       "stories": [
         {
           "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-22T01:00:30+00:00",
+      "updatedAt": "2026-11-22T02:00:37+00:00",
       "stories": [
         {
           "title": "The manufacturing data gap holding back physical AI",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-22T01:00:30+00:00",
+    "updatedAt": "2026-11-22T02:00:37+00:00",
     "stories": [
       {
         "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -558,9 +558,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Voyager 1 reaches one light-day from Earth",
-        "url": "https://spaceq.ca/voyager-1-light-day",
-        "publishedAt": "2026-11-20T19:35:05+00:00",
+        "title": "Isar Aerospace’s road to Nova Scotia began with a general’s call",
+        "url": "https://spaceq.ca/isar-aerospace-nova-scotia-generals-call",
+        "publishedAt": "2026-11-22T01:53:21+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
