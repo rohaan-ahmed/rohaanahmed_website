@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-11-23T17:00:35+00:00",
+  "generatedAt": "2026-11-23T18:00:48+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-23T17:00:35+00:00",
+      "updatedAt": "2026-11-23T18:00:48+00:00",
       "stories": [
+        {
+          "title": "Weird 'potato chips' and 'ghostly rocks' on Mars spotted by NASA rovers Curiosity and Perseverance",
+          "url": "https://www.space.com/astronomy/mars/weird-potato-chips-and-ghostly-rocks-on-mars-spotted-by-nasa-rovers-curiosity-and-perseverance",
+          "publishedAt": "2026-11-23T17:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "Studying Cancer Cells in Microgravity",
+          "url": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity",
+          "publishedAt": "2026-11-23T17:28:37+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
+          "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon",
+          "publishedAt": "2026-11-23T17:23:50+00:00",
+          "source": "NASA"
+        },
         {
           "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
           "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space",
@@ -31,28 +49,10 @@
           "source": "NASA"
         },
         {
-          "title": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing",
-          "url": "https://www.space.com/stargazing/skywatching-kit/im-planning-my-first-dark-sky-trip-and-all-because-this-educational-star-projector-showed-me-what-i-am-missing",
-          "publishedAt": "2026-11-23T13:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "What did the Soviet Union's final deep space probe actually see on Mars?",
           "url": "https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars",
           "publishedAt": "2026-11-23T13:00:00+00:00",
           "source": "Space.com"
-        },
-        {
-          "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
-          "url": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251",
-          "publishedAt": "2026-11-23T05:05:00+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "Laser Focus at the Top of the World",
-          "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world",
-          "publishedAt": "2026-11-23T05:01:00+00:00",
-          "source": "NASA"
         },
         {
           "title": "The sweet spot for constellation size",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-23T17:00:35+00:00",
+      "updatedAt": "2026-11-23T18:00:48+00:00",
       "stories": [
         {
           "title": "Canada joins NATO Innovation Fund with more than $100 million",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-23T17:00:35+00:00",
+      "updatedAt": "2026-11-23T18:00:48+00:00",
       "stories": [
         {
           "title": "Royal Canadian Navy steward recovered 79 years after plane crash",
@@ -253,8 +253,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-23T17:00:35+00:00",
+      "updatedAt": "2026-11-23T18:00:48+00:00",
       "stories": [
+        {
+          "title": "Umbra, ICEYE tout higher-resolution radar imaging with new satellites",
+          "url": "https://breakingdefense.com/2026/11/umbra-iceye-tout-higher-resolution-radar-imaging-with-new-satellites",
+          "publishedAt": "2026-11-23T17:20:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Beijing’s takeaway from the midterms: Will to fight and AI skepticism",
           "url": "https://breakingdefense.com/2026/11/beijings-takeaway-from-the-midterms-will-to-fight-and-ai-skepticism",
@@ -310,12 +316,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Air Force issues massive $16B contract for engine work to dozens of companies",
-          "url": "https://breakingdefense.com/2026/11/air-force-issues-massive-16b-contract-for-engine-work-to-dozens-of-companies",
-          "publishedAt": "2026-11-20T23:52:57+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Army plans to work with OpenAI on Project Gatekeeper",
           "url": "https://defensescoop.com/2026/11/20/army-project-gatekeeper-openai-gabe-chiulli",
           "publishedAt": "2026-11-20T22:49:30+00:00",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-23T17:00:35+00:00",
+      "updatedAt": "2026-11-23T18:00:48+00:00",
       "stories": [
         {
           "title": "Claude helps solve math's biggest open problem",
@@ -365,6 +365,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
+          "publishedAt": "2026-11-23T17:14:23+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Jensen Huang isn’t out of the woods yet",
           "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet",
           "publishedAt": "2026-11-23T16:57:40+00:00",
@@ -374,12 +380,6 @@
           "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
           "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return",
           "publishedAt": "2026-11-23T16:39:10+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-          "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing",
-          "publishedAt": "2026-11-23T15:04:01+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -407,14 +407,14 @@
           "source": "TLDR AI"
         },
         {
-          "title": "NVIDIA Releases Nemotron-Labs-Sigma Continuous Diffusion Language Models (5 minute read)",
-          "url": "https://research.nvidia.com/labs/genair/sigma",
+          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost (22 minute read)",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
           "publishedAt": "2026-11-23T00:00:00+00:00",
           "source": "TLDR AI"
         },
         {
-          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost (22 minute read)",
-          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "title": "Tencent Releases Hy4 With Multimodal Input and Million-Token Context (10 minute read)",
+          "url": "https://huggingface.co/tencent/Hy4",
           "publishedAt": "2026-11-23T00:00:00+00:00",
           "source": "TLDR AI"
         },
@@ -447,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-23T17:00:35+00:00",
+      "updatedAt": "2026-11-23T18:00:48+00:00",
       "stories": [
         {
           "title": "Special Report: Engineering Focus on Motion Control",
@@ -498,6 +498,12 @@
           "source": "The Robot Report"
         },
         {
+          "title": "Humyn Labs raises $47M to collect real-world data for robotics",
+          "url": "https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics",
+          "publishedAt": "2026-11-18T22:43:06+00:00",
+          "source": "The Robot Report"
+        },
+        {
           "title": "How Toyota is betting on a future beyond cars",
           "url": "https://techcrunch.com/podcast/how-toyota-is-betting-on-a-future-beyond-cars",
           "publishedAt": "2026-11-18T21:36:40+00:00",
@@ -532,18 +538,12 @@
           "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
           "publishedAt": "2026-11-15T14:00:02+00:00",
           "source": "IEEE Spectrum Robotics"
-        },
-        {
-          "title": "Video Friday: NASA PROMISEs a New Moon Rover",
-          "url": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
-          "publishedAt": "2026-11-13T17:30:03+00:00",
-          "source": "IEEE Spectrum Robotics"
         }
       ]
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-23T17:00:35+00:00",
+    "updatedAt": "2026-11-23T18:00:48+00:00",
     "stories": [
       {
         "title": "Claude helps solve math's biggest open problem",
@@ -573,10 +573,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
-        "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space",
-        "publishedAt": "2026-11-23T16:08:23+00:00",
-        "source": "NASA",
+        "title": "Weird 'potato chips' and 'ghostly rocks' on Mars spotted by NASA rovers Curiosity and Perseverance",
+        "url": "https://www.space.com/astronomy/mars/weird-potato-chips-and-ghostly-rocks-on-mars-spotted-by-nasa-rovers-curiosity-and-perseverance",
+        "publishedAt": "2026-11-23T17:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -591,9 +591,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Beijing’s takeaway from the midterms: Will to fight and AI skepticism",
-        "url": "https://breakingdefense.com/2026/11/beijings-takeaway-from-the-midterms-will-to-fight-and-ai-skepticism",
-        "publishedAt": "2026-11-23T16:21:11+00:00",
+        "title": "Umbra, ICEYE tout higher-resolution radar imaging with new satellites",
+        "url": "https://breakingdefense.com/2026/11/umbra-iceye-tout-higher-resolution-radar-imaging-with-new-satellites",
+        "publishedAt": "2026-11-23T17:20:00+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -607,6 +607,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Beijing’s takeaway from the midterms: Will to fight and AI skepticism",
+        "url": "https://breakingdefense.com/2026/11/beijings-takeaway-from-the-midterms-will-to-fight-and-ai-skepticism",
+        "publishedAt": "2026-11-23T16:21:11+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Yes, no, maybe? The countries that can (or can’t) deliver Ukraine’s 40 requested F-16s",
@@ -624,15 +633,6 @@
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "NVIDIA reinstates Jensen Huang after 11-day absence",
-        "url": "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence",
-        "publishedAt": "2026-11-23T14:20:46+00:00",
-        "source": "The Robot Report",
-        "topicId": "robotics",
-        "topicName": "Robotics",
         "bulletinRole": "noteworthy"
       }
     ]
