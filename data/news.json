@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T10:00:40+00:00",
+  "generatedAt": "2026-11-23T11:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-23T10:00:40+00:00",
+      "updatedAt": "2026-11-23T11:00:33+00:00",
       "stories": [
         {
           "title": "Be ready to get a better view of the night sky in your backyard with 25% off the Celestron Cometron 7x50 binoculars in this Black Friday deal",
@@ -25,7 +25,7 @@
           "source": "NASA"
         },
         {
-          "title": "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
+          "title": "Ariane 6 launch of 36 Amazon Leo satellites postponed due to a technical issue",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
           "publishedAt": "2026-11-22T22:00:00+00:00",
           "source": "Space.com"
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-23T10:00:40+00:00",
+      "updatedAt": "2026-11-23T11:00:33+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Canadarm2 joint heads home aboard Dragon",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-23T10:00:40+00:00",
+      "updatedAt": "2026-11-23T11:00:33+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes Halifax International Security Forum, advancing Canada's defence priorities and partnerships with Allies",
@@ -247,8 +247,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-23T10:00:40+00:00",
+      "updatedAt": "2026-11-23T11:00:33+00:00",
       "stories": [
+        {
+          "title": "Ukraine confirms it sank Russian corvette in Libyan port",
+          "url": "https://www.defensenews.com/global/mideast-africa/2026/11/23/ukraine-confirms-it-sank-russian-corvette-in-libyan-port",
+          "publishedAt": "2026-11-23T10:17:09+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Despite Hegseth memo, Canada hasn’t seen changes to defense relationship with US, says DefMin",
           "url": "https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty",
@@ -322,12 +328,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Denmark ratifies Trump deal over Greenland, hoping to end conflict",
-          "url": "https://www.defensenews.com/global/europe/2026/11/19/denmark-ratifies-trump-deal-over-greenland-hoping-to-end-conflict",
-          "publishedAt": "2026-11-19T20:57:05+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Army extends ADOC pilot by a year as officials work to make the data ops center a more permanent fixture",
           "url": "https://defensescoop.com/2026/11/19/army-extends-data-operations-center-pilot",
           "publishedAt": "2026-11-19T22:20:27+00:00",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-23T10:00:40+00:00",
+      "updatedAt": "2026-11-23T11:00:33+00:00",
       "stories": [
         {
           "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-23T10:00:40+00:00",
+      "updatedAt": "2026-11-23T11:00:33+00:00",
       "stories": [
         {
           "title": "The manufacturing data gap holding back physical AI",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-23T10:00:40+00:00",
+    "updatedAt": "2026-11-23T11:00:33+00:00",
     "stories": [
       {
         "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -585,10 +585,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Despite Hegseth memo, Canada hasn’t seen changes to defense relationship with US, says DefMin",
-        "url": "https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty",
-        "publishedAt": "2026-11-21T18:06:38+00:00",
-        "source": "Breaking Defense",
+        "title": "Ukraine confirms it sank Russian corvette in Libyan port",
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/11/23/ukraine-confirms-it-sank-russian-corvette-in-libyan-port",
+        "publishedAt": "2026-11-23T10:17:09+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
