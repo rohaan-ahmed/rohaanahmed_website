@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-23T16:00:33+00:00",
+  "generatedAt": "2026-11-23T17:00:35+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-23T16:00:33+00:00",
+      "updatedAt": "2026-11-23T17:00:35+00:00",
       "stories": [
+        {
+          "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+          "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space",
+          "publishedAt": "2026-11-23T16:08:23+00:00",
+          "source": "NASA"
+        },
         {
           "title": "'Avengers: Doomsday' gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men",
           "url": "https://www.space.com/entertainment/space-movies-shows/avengers-doomsday-gets-final-trailer-explaining-why-steve-rogers-is-back-and-showing-an-epic-battle-with-the-x-men",
@@ -46,12 +52,6 @@
           "title": "Laser Focus at the Top of the World",
           "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world",
           "publishedAt": "2026-11-23T05:01:00+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "65 Years of Human Spaceflight at NASA Johnson",
-          "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson",
-          "publishedAt": "2026-11-22T19:13:25+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-23T16:00:33+00:00",
+      "updatedAt": "2026-11-23T17:00:35+00:00",
       "stories": [
         {
           "title": "Canada joins NATO Innovation Fund with more than $100 million",
@@ -180,8 +180,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-23T16:00:33+00:00",
+      "updatedAt": "2026-11-23T17:00:35+00:00",
       "stories": [
+        {
+          "title": "Royal Canadian Navy steward recovered 79 years after plane crash",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/royal-canadian-navy-steward-recovered-79-years-after-plane-crash.html",
+          "publishedAt": "2026-11-23T16:46:04+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Minister McGuinty concludes Halifax International Security Forum, advancing Canada's defence priorities and partnerships with Allies",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-concludes-halifax-international-security-forum-advancing-canadas-defence-priorities-and-partnerships-with-allies.html",
@@ -247,8 +253,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-23T16:00:33+00:00",
+      "updatedAt": "2026-11-23T17:00:35+00:00",
       "stories": [
+        {
+          "title": "Beijing’s takeaway from the midterms: Will to fight and AI skepticism",
+          "url": "https://breakingdefense.com/2026/11/beijings-takeaway-from-the-midterms-will-to-fight-and-ai-skepticism",
+          "publishedAt": "2026-11-23T16:21:11+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Yes, no, maybe? The countries that can (or can’t) deliver Ukraine’s 40 requested F-16s",
           "url": "https://breakingdefense.com/2026/11/yes-no-maybe-the-countries-that-can-or-cant-deliver-ukraines-40-requested-f-16s",
@@ -304,12 +316,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "This counter-UAS system senses deep inside neighboring borders to detect and defeat drones",
-          "url": "https://breakingdefense.com/2026/11/this-counter-uas-system-senses-deep-inside-neighboring-borders-to-detect-and-defeat-drones",
-          "publishedAt": "2026-11-20T20:53:46+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Army plans to work with OpenAI on Project Gatekeeper",
           "url": "https://defensescoop.com/2026/11/20/army-project-gatekeeper-openai-gabe-chiulli",
           "publishedAt": "2026-11-20T22:49:30+00:00",
@@ -344,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-23T16:00:33+00:00",
+      "updatedAt": "2026-11-23T17:00:35+00:00",
       "stories": [
         {
           "title": "Claude helps solve math's biggest open problem",
@@ -359,21 +365,21 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Jensen Huang isn’t out of the woods yet",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet",
+          "publishedAt": "2026-11-23T16:57:40+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+          "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return",
+          "publishedAt": "2026-11-23T16:39:10+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
           "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing",
           "publishedAt": "2026-11-23T15:04:01+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-          "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off",
-          "publishedAt": "2026-11-23T14:43:03+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-          "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo",
-          "publishedAt": "2026-11-23T14:21:59+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -401,14 +407,14 @@
           "source": "TLDR AI"
         },
         {
-          "title": "Become a founding member of TLDR's AI community (2 minute form)",
-          "url": "https://danni763618.typeform.com/to/H1tYViME",
+          "title": "NVIDIA Releases Nemotron-Labs-Sigma Continuous Diffusion Language Models (5 minute read)",
+          "url": "https://research.nvidia.com/labs/genair/sigma",
           "publishedAt": "2026-11-23T00:00:00+00:00",
           "source": "TLDR AI"
         },
         {
-          "title": "Tencent Releases Hy4 With Multimodal Input and Million-Token Context (10 minute read)",
-          "url": "https://huggingface.co/tencent/Hy4",
+          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost (22 minute read)",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
           "publishedAt": "2026-11-23T00:00:00+00:00",
           "source": "TLDR AI"
         },
@@ -441,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-23T16:00:33+00:00",
+      "updatedAt": "2026-11-23T17:00:35+00:00",
       "stories": [
         {
           "title": "Special Report: Engineering Focus on Motion Control",
@@ -537,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-23T16:00:33+00:00",
+    "updatedAt": "2026-11-23T17:00:35+00:00",
     "stories": [
       {
         "title": "Claude helps solve math's biggest open problem",
@@ -567,27 +573,27 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "'Avengers: Doomsday' gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men",
-        "url": "https://www.space.com/entertainment/space-movies-shows/avengers-doomsday-gets-final-trailer-explaining-why-steve-rogers-is-back-and-showing-an-epic-battle-with-the-x-men",
-        "publishedAt": "2026-11-23T15:10:59+00:00",
-        "source": "Space.com",
+        "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+        "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space",
+        "publishedAt": "2026-11-23T16:08:23+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
       },
       {
-        "title": "Minister McGuinty concludes Halifax International Security Forum, advancing Canada's defence priorities and partnerships with Allies",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-concludes-halifax-international-security-forum-advancing-canadas-defence-priorities-and-partnerships-with-allies.html",
-        "publishedAt": "2026-11-22T23:55:20+00:00",
+        "title": "Royal Canadian Navy steward recovered 79 years after plane crash",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/royal-canadian-navy-steward-recovered-79-years-after-plane-crash.html",
+        "publishedAt": "2026-11-23T16:46:04+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Yes, no, maybe? The countries that can (or can’t) deliver Ukraine’s 40 requested F-16s",
-        "url": "https://breakingdefense.com/2026/11/yes-no-maybe-the-countries-that-can-or-cant-deliver-ukraines-40-requested-f-16s",
-        "publishedAt": "2026-11-23T15:10:53+00:00",
+        "title": "Beijing’s takeaway from the midterms: Will to fight and AI skepticism",
+        "url": "https://breakingdefense.com/2026/11/beijings-takeaway-from-the-midterms-will-to-fight-and-ai-skepticism",
+        "publishedAt": "2026-11-23T16:21:11+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -601,6 +607,15 @@
         "topicId": "robotics",
         "topicName": "Robotics",
         "bulletinRole": "lead"
+      },
+      {
+        "title": "Yes, no, maybe? The countries that can (or can’t) deliver Ukraine’s 40 requested F-16s",
+        "url": "https://breakingdefense.com/2026/11/yes-no-maybe-the-countries-that-can-or-cant-deliver-ukraines-40-requested-f-16s",
+        "publishedAt": "2026-11-23T15:10:53+00:00",
+        "source": "Breaking Defense",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
       },
       {
         "title": "Weekly ISS update: Canadarm2 joint heads home aboard Dragon",
@@ -618,15 +633,6 @@
         "source": "The Robot Report",
         "topicId": "robotics",
         "topicName": "Robotics",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Ukraine strikes Russian warship and cargo vessel with naval drones in Libya",
-        "url": "https://www.defensenews.com/video/2026/11/23/ukraine-strikes-russian-warship-and-cargo-vessel-with-naval-drones-in-libya",
-        "publishedAt": "2026-11-23T15:07:10+00:00",
-        "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
