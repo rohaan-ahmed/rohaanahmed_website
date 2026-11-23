@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T00:00:30+00:00",
+  "generatedAt": "2026-11-23T01:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-23T00:00:30+00:00",
+      "updatedAt": "2026-11-23T01:00:31+00:00",
       "stories": [
         {
           "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-23T00:00:30+00:00",
+      "updatedAt": "2026-11-23T01:00:31+00:00",
       "stories": [
         {
           "title": "Isar Aerospace’s road to Nova Scotia began with a general’s call",
@@ -180,8 +180,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-23T00:00:30+00:00",
+      "updatedAt": "2026-11-23T01:00:31+00:00",
       "stories": [
+        {
+          "title": "Minister McGuinty concludes Halifax International Security Forum, advancing Canada's defence priorities and partnerships with Allies",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-concludes-halifax-international-security-forum-advancing-canadas-defence-priorities-and-partnerships-with-allies.html",
+          "publishedAt": "2026-11-22T23:55:20+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Canada to Join the NATO Innovation Fund",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/canada-to-join-the-nato-innovation-fund.html",
@@ -241,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-23T00:00:30+00:00",
+      "updatedAt": "2026-11-23T01:00:31+00:00",
       "stories": [
         {
           "title": "Despite Hegseth memo, Canada hasn’t seen changes to defense relationship with US, says DefMin",
@@ -338,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-23T00:00:30+00:00",
+      "updatedAt": "2026-11-23T01:00:31+00:00",
       "stories": [
         {
           "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
@@ -356,24 +362,6 @@
           "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
           "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
           "publishedAt": "2026-11-21T21:37:10+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "A tale of two Nvidias",
-          "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
-          "publishedAt": "2026-11-21T21:07:42+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Here are the top AI agents that can live in your text messages",
-          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
-          "publishedAt": "2026-11-21T17:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-          "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
-          "publishedAt": "2026-11-21T16:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -395,6 +383,42 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Introducing Tool Retrieval in the Gemini API (1 minute read)",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Let Gemini tackle repetitive chores on your Mac (1 minute read)",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "When Agent Swarms Outperform Solo Coders (10 minute read)",
+          "url": "https://frontier.replit.com/throwing-headcount-at-the-problem",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Sandboxed Models Can Communicate via Inference Servers (12 minute read)",
+          "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "AI is already massively speeding up AI research (9 minute read)",
+          "url": "https://linch.substack.com/p/ai-is-already-massively-speeding",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web (1 minute read)",
+          "url": "https://blog.google/security/mirror-dimension-for-agents",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Google’s shipping spree continues with Neon",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
           "publishedAt": "2026-11-19T10:00:00+00:00",
@@ -411,31 +435,13 @@
           "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
           "publishedAt": "2026-11-18T11:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "AI finds a hole in Java as NATO taps OpenAI",
-          "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
-          "publishedAt": "2026-11-18T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "California takes OpenAI to court over agent escapes",
-          "url": "https://oag.ca.gov/system/files/attachments/press-docs/complaint-oai-cyber.pdf",
-          "publishedAt": "2026-11-17T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Trump set to crown AI ‘national champions’",
-          "url": "https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344",
-          "publishedAt": "2026-11-17T11:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-23T00:00:30+00:00",
+      "updatedAt": "2026-11-23T01:00:31+00:00",
       "stories": [
         {
           "title": "The manufacturing data gap holding back physical AI",
@@ -531,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-23T00:00:30+00:00",
+    "updatedAt": "2026-11-23T01:00:31+00:00",
     "stories": [
       {
         "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
@@ -570,9 +576,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Canada to Join the NATO Innovation Fund",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/canada-to-join-the-nato-innovation-fund.html",
-        "publishedAt": "2026-11-21T15:54:26+00:00",
+        "title": "Minister McGuinty concludes Halifax International Security Forum, advancing Canada's defence priorities and partnerships with Allies",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-concludes-halifax-international-security-forum-advancing-canadas-defence-priorities-and-partnerships-with-allies.html",
+        "publishedAt": "2026-11-22T23:55:20+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
@@ -737,7 +743,6 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-28"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
   ]
 }
