@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T12:00:38+00:00",
+  "generatedAt": "2026-11-23T13:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-23T12:00:38+00:00",
+      "updatedAt": "2026-11-23T13:00:30+00:00",
       "stories": [
         {
           "title": "Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-23T12:00:38+00:00",
+      "updatedAt": "2026-11-23T13:00:30+00:00",
       "stories": [
+        {
+          "title": "Canada joins NATO Innovation Fund with more than $100 million",
+          "url": "https://spaceq.ca/canada-nato-innovation-fund-isar-launch-site",
+          "publishedAt": "2026-11-23T12:15:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Weekly ISS update: Canadarm2 joint heads home aboard Dragon",
           "url": "https://spaceq.ca/weekly-iss-update-canadarm2-part-heads-home-aboard-dragon",
@@ -164,12 +170,6 @@
           "source": "Canadian Space Agency"
         },
         {
-          "title": "Vyoma to fly space-tracking sensors on 10 Kepler satellites",
-          "url": "https://spaceq.ca/vyoma-kepler-space-tracking-sensors",
-          "publishedAt": "2026-11-17T21:31:08+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "Canadian Space Agency astronaut Jenni Gibbons to visit Whitehorse",
           "url": "https://www.canada.ca/en/space-agency/news/2026/11/canadian-space-agency-astronaut-jenni-gibbons-to-visit-whitehorse.html",
           "publishedAt": "2026-11-16T16:40:23+00:00",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-23T12:00:38+00:00",
+      "updatedAt": "2026-11-23T13:00:30+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes Halifax International Security Forum, advancing Canada's defence priorities and partnerships with Allies",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-23T12:00:38+00:00",
+      "updatedAt": "2026-11-23T13:00:30+00:00",
       "stories": [
         {
           "title": "Ukraine confirms it sank Russian corvette in Libyan port",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-23T12:00:38+00:00",
+      "updatedAt": "2026-11-23T13:00:30+00:00",
       "stories": [
         {
           "title": "Claude helps solve math's biggest open problem",
@@ -377,24 +377,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
-          "publishedAt": "2026-11-21T21:37:10+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "A tale of two Nvidias",
-          "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
-          "publishedAt": "2026-11-21T21:07:42+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Here are the top AI agents that can live in your text messages",
-          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
-          "publishedAt": "2026-11-21T17:00:00+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Anthropic raises $81B in the largest IPO ever",
           "url": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq",
           "publishedAt": "2026-11-20T10:00:00+00:00",
@@ -413,27 +395,45 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Introducing Tool Retrieval in the Gemini API (1 minute read)",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Let Gemini tackle repetitive chores on your Mac (1 minute read)",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "When Agent Swarms Outperform Solo Coders (10 minute read)",
+          "url": "https://frontier.replit.com/throwing-headcount-at-the-problem",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Sandboxed Models Can Communicate via Inference Servers (12 minute read)",
+          "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "AI is already massively speeding up AI research (9 minute read)",
+          "url": "https://linch.substack.com/p/ai-is-already-massively-speeding",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web (1 minute read)",
+          "url": "https://blog.google/security/mirror-dimension-for-agents",
+          "publishedAt": "2026-11-20T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Google’s shipping spree continues with Neon",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
           "publishedAt": "2026-11-19T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Pika turns AI video into a live film set",
-          "url": "https://pika.art/blog/pika-enact",
-          "publishedAt": "2026-11-19T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI drops GPT-6.2 Astra, Sol to mixed fanfare",
-          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-          "publishedAt": "2026-11-18T11:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "AI finds a hole in Java as NATO taps OpenAI",
-          "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
-          "publishedAt": "2026-11-18T11:00:00+00:00",
           "source": "The Rundown AI"
         }
       ]
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-23T12:00:38+00:00",
+      "updatedAt": "2026-11-23T13:00:30+00:00",
       "stories": [
         {
           "title": "The manufacturing data gap holding back physical AI",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-23T12:00:38+00:00",
+    "updatedAt": "2026-11-23T13:00:30+00:00",
     "stories": [
       {
         "title": "Claude helps solve math's biggest open problem",
@@ -558,9 +558,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Weekly ISS update: Canadarm2 joint heads home aboard Dragon",
-        "url": "https://spaceq.ca/weekly-iss-update-canadarm2-part-heads-home-aboard-dragon",
-        "publishedAt": "2026-11-23T05:10:08+00:00",
+        "title": "Canada joins NATO Innovation Fund with more than $100 million",
+        "url": "https://spaceq.ca/canada-nato-innovation-fund-isar-launch-site",
+        "publishedAt": "2026-11-23T12:15:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -603,6 +603,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Weekly ISS update: Canadarm2 joint heads home aboard Dragon",
+        "url": "https://spaceq.ca/weekly-iss-update-canadarm2-part-heads-home-aboard-dragon",
+        "publishedAt": "2026-11-23T05:10:08+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "Canadian Space Index falls 12.5 per cent as tech sell-off accelerates",
         "url": "https://spaceq.ca/the-weekly-close-november-20-2026",
         "publishedAt": "2026-11-23T03:31:48+00:00",
@@ -616,15 +625,6 @@
         "url": "https://www.space.com/stargazing/skywatching-kit/be-ready-to-get-a-better-view-of-the-night-sky-in-your-backyard-with-25-percent-off-the-celestron-cometron-7x50-binoculars-in-this-black-friday-deal",
         "publishedAt": "2026-11-23T08:00:00+00:00",
         "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251",
-        "publishedAt": "2026-11-23T05:05:00+00:00",
-        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
@@ -743,7 +743,6 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-05"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
   ]
 }
