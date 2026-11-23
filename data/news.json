@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T01:00:31+00:00",
+  "generatedAt": "2026-11-23T02:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-23T01:00:31+00:00",
+      "updatedAt": "2026-11-23T02:00:29+00:00",
       "stories": [
         {
           "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-23T01:00:31+00:00",
+      "updatedAt": "2026-11-23T02:00:29+00:00",
       "stories": [
         {
           "title": "Isar Aerospace’s road to Nova Scotia began with a general’s call",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-23T01:00:31+00:00",
+      "updatedAt": "2026-11-23T02:00:29+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes Halifax International Security Forum, advancing Canada's defence priorities and partnerships with Allies",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-23T01:00:31+00:00",
+      "updatedAt": "2026-11-23T02:00:29+00:00",
       "stories": [
         {
           "title": "Despite Hegseth memo, Canada hasn’t seen changes to defense relationship with US, says DefMin",
@@ -344,8 +344,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-23T01:00:31+00:00",
+      "updatedAt": "2026-11-23T02:00:29+00:00",
       "stories": [
+        {
+          "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+          "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+          "publishedAt": "2026-11-23T01:25:53+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
           "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
@@ -356,12 +362,6 @@
           "title": "Why data centers are at the center of the Big Tech backlash",
           "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
           "publishedAt": "2026-11-22T18:08:43+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
-          "publishedAt": "2026-11-21T21:37:10+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-23T01:00:31+00:00",
+      "updatedAt": "2026-11-23T02:00:29+00:00",
       "stories": [
         {
           "title": "The manufacturing data gap holding back physical AI",
@@ -537,21 +537,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-23T01:00:31+00:00",
+    "updatedAt": "2026-11-23T02:00:29+00:00",
     "stories": [
       {
-        "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-        "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
-        "publishedAt": "2026-11-22T21:14:07+00:00",
+        "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+        "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+        "publishedAt": "2026-11-23T01:25:53+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Why data centers are at the center of the Big Tech backlash",
-        "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
-        "publishedAt": "2026-11-22T18:08:43+00:00",
+        "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+        "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+        "publishedAt": "2026-11-22T21:14:07+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -612,18 +612,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
-        "publishedAt": "2026-11-22T16:05:33+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Why data centers are at the center of the Big Tech backlash",
+        "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+        "publishedAt": "2026-11-22T18:08:43+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy",
-        "url": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy",
-        "publishedAt": "2026-11-22T15:00:00+00:00",
+        "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
+        "publishedAt": "2026-11-22T16:05:33+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
