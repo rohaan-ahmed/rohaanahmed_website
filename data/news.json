@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-23T13:00:30+00:00",
+  "generatedAt": "2026-11-23T14:00:47+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-23T13:00:30+00:00",
+      "updatedAt": "2026-11-23T14:00:47+00:00",
       "stories": [
+        {
+          "title": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing",
+          "url": "https://www.space.com/stargazing/skywatching-kit/im-planning-my-first-dark-sky-trip-and-all-because-this-educational-star-projector-showed-me-what-i-am-missing",
+          "publishedAt": "2026-11-23T13:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "What did the Soviet Union's final deep space probe actually see on Mars?",
+          "url": "https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars",
+          "publishedAt": "2026-11-23T13:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’",
           "url": "https://www.space.com/astronomy/stars/astronomers-discover-rare-triple-star-system-just-28-light-years-from-earth-and-they-have-no-idea-how-it-has-survived",
@@ -31,22 +43,10 @@
           "source": "NASA"
         },
         {
-          "title": "Ariane 6 launch of 36 Amazon Leo satellites postponed due to a technical issue",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
-          "publishedAt": "2026-11-22T22:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
           "title": "65 Years of Human Spaceflight at NASA Johnson",
           "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson",
           "publishedAt": "2026-11-22T19:13:25+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video)",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
-          "publishedAt": "2026-11-22T16:05:33+00:00",
-          "source": "Space.com"
         },
         {
           "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-23T13:00:30+00:00",
+      "updatedAt": "2026-11-23T14:00:47+00:00",
       "stories": [
         {
           "title": "Canada joins NATO Innovation Fund with more than $100 million",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-23T13:00:30+00:00",
+      "updatedAt": "2026-11-23T14:00:47+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes Halifax International Security Forum, advancing Canada's defence priorities and partnerships with Allies",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-23T13:00:30+00:00",
+      "updatedAt": "2026-11-23T14:00:47+00:00",
       "stories": [
         {
           "title": "Ukraine confirms it sank Russian corvette in Libyan port",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-23T13:00:30+00:00",
+      "updatedAt": "2026-11-23T14:00:47+00:00",
       "stories": [
         {
           "title": "Claude helps solve math's biggest open problem",
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-23T13:00:30+00:00",
+      "updatedAt": "2026-11-23T14:00:47+00:00",
       "stories": [
         {
           "title": "The manufacturing data gap holding back physical AI",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-23T13:00:30+00:00",
+    "updatedAt": "2026-11-23T14:00:47+00:00",
     "stories": [
       {
         "title": "Claude helps solve math's biggest open problem",
@@ -567,9 +567,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’",
-        "url": "https://www.space.com/astronomy/stars/astronomers-discover-rare-triple-star-system-just-28-light-years-from-earth-and-they-have-no-idea-how-it-has-survived",
-        "publishedAt": "2026-11-23T11:00:00+00:00",
+        "title": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing",
+        "url": "https://www.space.com/stargazing/skywatching-kit/im-planning-my-first-dark-sky-trip-and-all-because-this-educational-star-projector-showed-me-what-i-am-missing",
+        "publishedAt": "2026-11-23T13:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -621,9 +621,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Be ready to get a better view of the night sky in your backyard with 25% off the Celestron Cometron 7x50 binoculars in this Black Friday deal",
-        "url": "https://www.space.com/stargazing/skywatching-kit/be-ready-to-get-a-better-view-of-the-night-sky-in-your-backyard-with-25-percent-off-the-celestron-cometron-7x50-binoculars-in-this-black-friday-deal",
-        "publishedAt": "2026-11-23T08:00:00+00:00",
+        "title": "What did the Soviet Union's final deep space probe actually see on Mars?",
+        "url": "https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars",
+        "publishedAt": "2026-11-23T13:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
