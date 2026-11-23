@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-23T11:00:33+00:00",
+  "generatedAt": "2026-11-23T12:00:38+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-23T11:00:33+00:00",
+      "updatedAt": "2026-11-23T12:00:38+00:00",
       "stories": [
+        {
+          "title": "Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’",
+          "url": "https://www.space.com/astronomy/stars/astronomers-discover-rare-triple-star-system-just-28-light-years-from-earth-and-they-have-no-idea-how-it-has-survived",
+          "publishedAt": "2026-11-23T11:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Be ready to get a better view of the night sky in your backyard with 25% off the Celestron Cometron 7x50 binoculars in this Black Friday deal",
           "url": "https://www.space.com/stargazing/skywatching-kit/be-ready-to-get-a-better-view-of-the-night-sky-in-your-backyard-with-25-percent-off-the-celestron-cometron-7x50-binoculars-in-this-black-friday-deal",
@@ -40,12 +46,6 @@
           "title": "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
           "publishedAt": "2026-11-22T16:05:33+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy",
-          "url": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy",
-          "publishedAt": "2026-11-22T15:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-23T11:00:33+00:00",
+      "updatedAt": "2026-11-23T12:00:38+00:00",
       "stories": [
         {
           "title": "Weekly ISS update: Canadarm2 joint heads home aboard Dragon",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-23T11:00:33+00:00",
+      "updatedAt": "2026-11-23T12:00:38+00:00",
       "stories": [
         {
           "title": "Minister McGuinty concludes Halifax International Security Forum, advancing Canada's defence priorities and partnerships with Allies",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-23T11:00:33+00:00",
+      "updatedAt": "2026-11-23T12:00:38+00:00",
       "stories": [
         {
           "title": "Ukraine confirms it sank Russian corvette in Libyan port",
@@ -344,8 +344,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-23T11:00:33+00:00",
+      "updatedAt": "2026-11-23T12:00:38+00:00",
       "stories": [
+        {
+          "title": "Claude helps solve math's biggest open problem",
+          "url": "https://alpo.ge/remark.pdf",
+          "publishedAt": "2026-11-23T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI opens its private AI scorecard to rivals",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "publishedAt": "2026-11-23T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
           "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
@@ -362,6 +374,24 @@
           "title": "Why data centers are at the center of the Big Tech backlash",
           "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
           "publishedAt": "2026-11-22T18:08:43+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+          "publishedAt": "2026-11-21T21:37:10+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "A tale of two Nvidias",
+          "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
+          "publishedAt": "2026-11-21T21:07:42+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
+          "publishedAt": "2026-11-21T17:00:00+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -383,42 +413,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Introducing Tool Retrieval in the Gemini API (1 minute read)",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-          "publishedAt": "2026-11-20T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Let Gemini tackle repetitive chores on your Mac (1 minute read)",
-          "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac",
-          "publishedAt": "2026-11-20T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "When Agent Swarms Outperform Solo Coders (10 minute read)",
-          "url": "https://frontier.replit.com/throwing-headcount-at-the-problem",
-          "publishedAt": "2026-11-20T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Sandboxed Models Can Communicate via Inference Servers (12 minute read)",
-          "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-          "publishedAt": "2026-11-20T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "AI is already massively speeding up AI research (9 minute read)",
-          "url": "https://linch.substack.com/p/ai-is-already-massively-speeding",
-          "publishedAt": "2026-11-20T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web (1 minute read)",
-          "url": "https://blog.google/security/mirror-dimension-for-agents",
-          "publishedAt": "2026-11-20T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Google’s shipping spree continues with Neon",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
           "publishedAt": "2026-11-19T10:00:00+00:00",
@@ -435,13 +429,19 @@
           "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
           "publishedAt": "2026-11-18T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "AI finds a hole in Java as NATO taps OpenAI",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
+          "publishedAt": "2026-11-18T11:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-23T11:00:33+00:00",
+      "updatedAt": "2026-11-23T12:00:38+00:00",
       "stories": [
         {
           "title": "The manufacturing data gap holding back physical AI",
@@ -537,22 +537,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-23T11:00:33+00:00",
+    "updatedAt": "2026-11-23T12:00:38+00:00",
     "stories": [
       {
-        "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-        "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
-        "publishedAt": "2026-11-23T01:25:53+00:00",
-        "source": "TechCrunch AI",
+        "title": "Claude helps solve math's biggest open problem",
+        "url": "https://alpo.ge/remark.pdf",
+        "publishedAt": "2026-11-23T11:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-        "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
-        "publishedAt": "2026-11-22T21:14:07+00:00",
-        "source": "TechCrunch AI",
+        "title": "OpenAI opens its private AI scorecard to rivals",
+        "url": "https://openai.com/index/perplexity-and-intelligence",
+        "publishedAt": "2026-11-23T11:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -567,9 +567,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Be ready to get a better view of the night sky in your backyard with 25% off the Celestron Cometron 7x50 binoculars in this Black Friday deal",
-        "url": "https://www.space.com/stargazing/skywatching-kit/be-ready-to-get-a-better-view-of-the-night-sky-in-your-backyard-with-25-percent-off-the-celestron-cometron-7x50-binoculars-in-this-black-friday-deal",
-        "publishedAt": "2026-11-23T08:00:00+00:00",
+        "title": "Astronomers just discovered a rare triple star system 28 light-years away, and they have ‘no clean explanation for how it got here’",
+        "url": "https://www.space.com/astronomy/stars/astronomers-discover-rare-triple-star-system-just-28-light-years-from-earth-and-they-have-no-idea-how-it-has-survived",
+        "publishedAt": "2026-11-23T11:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -612,18 +612,18 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251",
-        "publishedAt": "2026-11-23T05:05:00+00:00",
-        "source": "NASA",
+        "title": "Be ready to get a better view of the night sky in your backyard with 25% off the Celestron Cometron 7x50 binoculars in this Black Friday deal",
+        "url": "https://www.space.com/stargazing/skywatching-kit/be-ready-to-get-a-better-view-of-the-night-sky-in-your-backyard-with-25-percent-off-the-celestron-cometron-7x50-binoculars-in-this-black-friday-deal",
+        "publishedAt": "2026-11-23T08:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Laser Focus at the Top of the World",
-        "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world",
-        "publishedAt": "2026-11-23T05:01:00+00:00",
+        "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251",
+        "publishedAt": "2026-11-23T05:05:00+00:00",
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -743,6 +743,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-05"
   ]
 }
