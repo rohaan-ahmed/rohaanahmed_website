@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T12:00:31+00:00",
+  "generatedAt": "2026-11-24T13:00:35+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-24T12:00:31+00:00",
+      "updatedAt": "2026-11-24T13:00:35+00:00",
       "stories": [
         {
           "title": "November’s full moon rises tonight! Here’s how to see the Beaver Moon supermoon",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-24T12:00:31+00:00",
+      "updatedAt": "2026-11-24T13:00:35+00:00",
       "stories": [
+        {
+          "title": "NRCan seeks study of GNSS disruption risk to the energy sector",
+          "url": "https://spaceq.ca/nrcan-gnss-disruption-energy-sector-study",
+          "publishedAt": "2026-11-24T12:12:00+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Canada joins NATO Innovation Fund with more than $100 million",
           "url": "https://spaceq.ca/canada-nato-innovation-fund-isar-launch-site",
@@ -158,12 +164,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "NATO STARLIFT starts with Canada, South Korea among funders",
-          "url": "https://spaceq.ca/nato-starlift-begins",
-          "publishedAt": "2026-11-18T18:07:48+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "From Whitehorse to space: Yukon students hear from CSA astronauts Jenni Gibbons and Joshua Kutryk",
           "url": "https://www.canada.ca/en/space-agency/news/2026/11/from-whitehorse-to-space-yukon-students-hear-from-csa-astronauts-jenni-gibbons-and-joshua-kutryk.html",
           "publishedAt": "2026-11-18T17:02:49+00:00",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-24T12:00:31+00:00",
+      "updatedAt": "2026-11-24T13:00:35+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on Cadet Program",
@@ -253,8 +253,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-24T12:00:31+00:00",
+      "updatedAt": "2026-11-24T13:00:35+00:00",
       "stories": [
+        {
+          "title": "Russia may launch nuke-laden satellite by year’s end, German report warns",
+          "url": "https://www.defensenews.com/global/europe/2026/11/24/russia-may-launch-nuke-laden-satellite-by-years-end-german-report-warns",
+          "publishedAt": "2026-11-24T12:50:13+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "$16 billion propulsion mega-contract posted in error, Air Force says",
           "url": "https://breakingdefense.com/2026/11/propulsion-mega-contract-posted-in-error-air-force-says",
@@ -322,12 +328,6 @@
           "source": "Defense News"
         },
         {
-          "title": "DARPA tests drones to find and assess injured victims at the Triage Challenge",
-          "url": "https://www.defensenews.com/video/2026/11/23/darpa-tests-drones-to-find-and-assess-injured-victims-at-the-triage-challenge",
-          "publishedAt": "2026-11-23T14:13:00+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Army plans to work with OpenAI on Project Gatekeeper",
           "url": "https://defensescoop.com/2026/11/20/army-project-gatekeeper-openai-gabe-chiulli",
           "publishedAt": "2026-11-20T22:49:30+00:00",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-24T12:00:31+00:00",
+      "updatedAt": "2026-11-24T13:00:35+00:00",
       "stories": [
         {
           "title": "Jensen Huang is back at Nvidia",
@@ -447,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-24T12:00:31+00:00",
+      "updatedAt": "2026-11-24T13:00:35+00:00",
       "stories": [
         {
           "title": "How does Orchard AI fit into John Deere’s technology portfolio?",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-24T12:00:31+00:00",
+    "updatedAt": "2026-11-24T13:00:35+00:00",
     "stories": [
       {
         "title": "Jensen Huang is back at Nvidia",
@@ -564,9 +564,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Canada joins NATO Innovation Fund with more than $100 million",
-        "url": "https://spaceq.ca/canada-nato-innovation-fund-isar-launch-site",
-        "publishedAt": "2026-11-23T12:15:00+00:00",
+        "title": "NRCan seeks study of GNSS disruption risk to the energy sector",
+        "url": "https://spaceq.ca/nrcan-gnss-disruption-energy-sector-study",
+        "publishedAt": "2026-11-24T12:12:00+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -591,10 +591,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "$16 billion propulsion mega-contract posted in error, Air Force says",
-        "url": "https://breakingdefense.com/2026/11/propulsion-mega-contract-posted-in-error-air-force-says",
-        "publishedAt": "2026-11-23T21:43:59+00:00",
-        "source": "Breaking Defense",
+        "title": "Russia may launch nuke-laden satellite by year’s end, German report warns",
+        "url": "https://www.defensenews.com/global/europe/2026/11/24/russia-may-launch-nuke-laden-satellite-by-years-end-german-report-warns",
+        "publishedAt": "2026-11-24T12:50:13+00:00",
+        "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
