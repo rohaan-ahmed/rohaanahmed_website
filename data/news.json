@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T20:00:35+00:00",
+  "generatedAt": "2026-11-24T21:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-24T20:00:35+00:00",
+      "updatedAt": "2026-11-24T21:00:29+00:00",
       "stories": [
         {
           "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-24T20:00:35+00:00",
+      "updatedAt": "2026-11-24T21:00:29+00:00",
       "stories": [
         {
           "title": "NRCan seeks study of GNSS disruption risk to the energy sector",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-24T20:00:35+00:00",
+      "updatedAt": "2026-11-24T21:00:29+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal",
@@ -253,7 +253,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-24T20:00:35+00:00",
+      "updatedAt": "2026-11-24T21:00:29+00:00",
       "stories": [
         {
           "title": "UK’s MI5 warns local defense firms of Russian sabotage risk",
@@ -278,6 +278,12 @@
           "url": "https://breakingdefense.com/2026/11/the-army-has-told-us-how-it-fights-we-cant-do-that-in-an-analog-tank",
           "publishedAt": "2026-11-24T17:23:00+00:00",
           "source": "Breaking Defense"
+        },
+        {
+          "title": "Space Systems Command eyes mid-2028 for GPS sustainment upgrade contract",
+          "url": "https://defensescoop.com/2026/11/24/space-systems-command-gps-sustainment-upgrade-contract",
+          "publishedAt": "2026-11-24T20:45:06+00:00",
+          "source": "DefenseScoop"
         },
         {
           "title": "Investment firm Cerberus to buy space business of US Airbus arm",
@@ -338,19 +344,13 @@
           "url": "https://defensescoop.com/2026/11/20/gao-pentagon-munitions-plan-data-management",
           "publishedAt": "2026-11-20T18:25:19+00:00",
           "source": "DefenseScoop"
-        },
-        {
-          "title": "Trump taps Pentagon CIO Davies to be national cyber director",
-          "url": "https://cyberscoop.com/sean-cairncross-out-national-cyber-director",
-          "publishedAt": "2026-11-20T14:12:24+00:00",
-          "source": "DefenseScoop"
         }
       ]
     },
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-24T20:00:35+00:00",
+      "updatedAt": "2026-11-24T21:00:29+00:00",
       "stories": [
         {
           "title": "Jensen Huang is back at Nvidia",
@@ -447,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-24T20:00:35+00:00",
+      "updatedAt": "2026-11-24T21:00:29+00:00",
       "stories": [
         {
           "title": "Robotics Summit 2027 opens call for speakers",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-24T20:00:35+00:00",
+    "updatedAt": "2026-11-24T21:00:29+00:00",
     "stories": [
       {
         "title": "Jensen Huang is back at Nvidia",
@@ -748,7 +748,7 @@
     }
   ],
   "warnings": [
-    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News"
   ]
 }
