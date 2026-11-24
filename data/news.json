@@ -1,13 +1,25 @@
 {
-  "generatedAt": "2026-11-24T13:00:35+00:00",
+  "generatedAt": "2026-11-24T14:00:43+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-24T13:00:35+00:00",
+      "updatedAt": "2026-11-24T14:00:43+00:00",
       "stories": [
         {
-          "title": "November’s full moon rises tonight! Here’s how to see the Beaver Moon supermoon",
+          "title": "Russia launches Progress cargo ship to the International Space Station",
+          "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
+          "publishedAt": "2026-11-24T13:16:26+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "Watch November's full Beaver Moon live online today with supermoon livestream",
+          "url": "https://www.space.com/stargazing/watch-novembers-full-beaver-moon-live-online-with-supermoon-livestream-nov-24-2026",
+          "publishedAt": "2026-11-24T13:00:00+00:00",
+          "source": "Space.com"
+        },
+        {
+          "title": "November's full moon rises tonight! Here's how to see the Beaver Moon supermoon",
           "url": "https://www.space.com/stargazing/novembers-full-moon-rises-tonight-heres-how-to-see-the-beaver-moon-supermoon-nov-24-2026",
           "publishedAt": "2026-11-24T11:00:00+00:00",
           "source": "Space.com"
@@ -29,18 +41,6 @@
           "url": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach",
           "publishedAt": "2026-11-24T05:01:00+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "Will astronauts farm on the moon? Scientists successfully grow potatoes in simulated lunar dust",
-          "url": "https://www.space.com/astronomy/moon/will-astronauts-farm-on-the-moon-scientists-successfully-grow-potatoes-in-simulated-lunar-dust",
-          "publishedAt": "2026-11-23T22:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Join our free Space.com membership giveaway for a chance to win this Dwarflab mini smart telescope worth $419!",
-          "url": "https://www.space.com/stargazing/skywatching-kit/join-our-free-space-com-membership-giveaway-for-a-chance-to-win-this-dwarflab-mini-smart-telescope-worth-usd419",
-          "publishedAt": "2026-11-23T21:21:13+00:00",
-          "source": "Space.com"
         },
         {
           "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-24T13:00:35+00:00",
+      "updatedAt": "2026-11-24T14:00:43+00:00",
       "stories": [
         {
           "title": "NRCan seeks study of GNSS disruption risk to the energy sector",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-24T13:00:35+00:00",
+      "updatedAt": "2026-11-24T14:00:43+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on Cadet Program",
@@ -253,8 +253,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-24T13:00:35+00:00",
+      "updatedAt": "2026-11-24T14:00:43+00:00",
       "stories": [
+        {
+          "title": "LaNeve’s campaign plan aims for top-down guidance, flipping ‘transformation in contact’ era",
+          "url": "https://breakingdefense.com/2026/11/laneves-campaign-plan-aims-for-top-down-guidance-flipping-transformation-in-contact-era",
+          "publishedAt": "2026-11-24T13:45:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Russia may launch nuke-laden satellite by year’s end, German report warns",
           "url": "https://www.defensenews.com/global/europe/2026/11/24/russia-may-launch-nuke-laden-satellite-by-years-end-german-report-warns",
@@ -295,12 +301,6 @@
           "title": "Congress is ‘out of time’ to decide on reconciliation, needs to settle topline spending: Sen. Coons",
           "url": "https://breakingdefense.com/2026/11/congress-is-out-of-time-to-decide-on-reconciliation-needs-to-settle-topline-spending-sen-coons",
           "publishedAt": "2026-11-23T18:01:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
-          "title": "Umbra, ICEYE tout higher-resolution radar imaging with new satellites",
-          "url": "https://breakingdefense.com/2026/11/umbra-iceye-tout-higher-resolution-radar-imaging-with-new-satellites",
-          "publishedAt": "2026-11-23T17:20:00+00:00",
           "source": "Breaking Defense"
         },
         {
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-24T13:00:35+00:00",
+      "updatedAt": "2026-11-24T14:00:43+00:00",
       "stories": [
         {
           "title": "Jensen Huang is back at Nvidia",
@@ -447,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-24T13:00:35+00:00",
+      "updatedAt": "2026-11-24T14:00:43+00:00",
       "stories": [
         {
           "title": "How does Orchard AI fit into John Deere’s technology portfolio?",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-24T13:00:35+00:00",
+    "updatedAt": "2026-11-24T14:00:43+00:00",
     "stories": [
       {
         "title": "Jensen Huang is back at Nvidia",
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "November’s full moon rises tonight! Here’s how to see the Beaver Moon supermoon",
-        "url": "https://www.space.com/stargazing/novembers-full-moon-rises-tonight-heres-how-to-see-the-beaver-moon-supermoon-nov-24-2026",
-        "publishedAt": "2026-11-24T11:00:00+00:00",
+        "title": "Russia launches Progress cargo ship to the International Space Station",
+        "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
+        "publishedAt": "2026-11-24T13:16:26+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -591,10 +591,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Russia may launch nuke-laden satellite by year’s end, German report warns",
-        "url": "https://www.defensenews.com/global/europe/2026/11/24/russia-may-launch-nuke-laden-satellite-by-years-end-german-report-warns",
-        "publishedAt": "2026-11-24T12:50:13+00:00",
-        "source": "Defense News",
+        "title": "LaNeve’s campaign plan aims for top-down guidance, flipping ‘transformation in contact’ era",
+        "url": "https://breakingdefense.com/2026/11/laneves-campaign-plan-aims-for-top-down-guidance-flipping-transformation-in-contact-era",
+        "publishedAt": "2026-11-24T13:45:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -609,28 +609,28 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The ten best time travel movies to buy and own on Blu-ray and 4K UHD Blu-ray this Black Friday",
-        "url": "https://www.space.com/entertainment/space-movies-shows/the-ten-best-time-travel-movies-to-buy-and-own-on-blu-ray-and-4k-uhd-blu-ray-this-black-friday",
-        "publishedAt": "2026-11-24T10:00:00+00:00",
+        "title": "Russia may launch nuke-laden satellite by year’s end, German report warns",
+        "url": "https://www.defensenews.com/global/europe/2026/11/24/russia-may-launch-nuke-laden-satellite-by-years-end-german-report-warns",
+        "publishedAt": "2026-11-24T12:50:13+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Watch November's full Beaver Moon live online today with supermoon livestream",
+        "url": "https://www.space.com/stargazing/watch-novembers-full-beaver-moon-live-online-with-supermoon-livestream-nov-24-2026",
+        "publishedAt": "2026-11-24T13:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group",
-        "publishedAt": "2026-11-24T05:05:00+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Eruption Extends Iwo Jima’s Beach",
-        "url": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach",
-        "publishedAt": "2026-11-24T05:01:00+00:00",
-        "source": "NASA",
+        "title": "November's full moon rises tonight! Here's how to see the Beaver Moon supermoon",
+        "url": "https://www.space.com/stargazing/novembers-full-moon-rises-tonight-heres-how-to-see-the-beaver-moon-supermoon-nov-24-2026",
+        "publishedAt": "2026-11-24T11:00:00+00:00",
+        "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
