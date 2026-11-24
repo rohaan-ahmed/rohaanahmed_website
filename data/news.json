@@ -1,34 +1,16 @@
 {
-  "generatedAt": "2026-11-24T14:00:43+00:00",
+  "generatedAt": "2026-11-24T15:00:32+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-24T14:00:43+00:00",
+      "updatedAt": "2026-11-24T15:00:32+00:00",
       "stories": [
         {
-          "title": "Russia launches Progress cargo ship to the International Space Station",
-          "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
-          "publishedAt": "2026-11-24T13:16:26+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Watch November's full Beaver Moon live online today with supermoon livestream",
-          "url": "https://www.space.com/stargazing/watch-novembers-full-beaver-moon-live-online-with-supermoon-livestream-nov-24-2026",
-          "publishedAt": "2026-11-24T13:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "November's full moon rises tonight! Here's how to see the Beaver Moon supermoon",
-          "url": "https://www.space.com/stargazing/novembers-full-moon-rises-tonight-heres-how-to-see-the-beaver-moon-supermoon-nov-24-2026",
-          "publishedAt": "2026-11-24T11:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "The ten best time travel movies to buy and own on Blu-ray and 4K UHD Blu-ray this Black Friday",
-          "url": "https://www.space.com/entertainment/space-movies-shows/the-ten-best-time-travel-movies-to-buy-and-own-on-blu-ray-and-4k-uhd-blu-ray-this-black-friday",
-          "publishedAt": "2026-11-24T10:00:00+00:00",
-          "source": "Space.com"
+          "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+          "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar",
+          "publishedAt": "2026-11-24T13:58:28+00:00",
+          "source": "NASA"
         },
         {
           "title": "APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group",
@@ -52,6 +34,18 @@
           "title": "Studying Cancer Cells in Microgravity",
           "url": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity",
           "publishedAt": "2026-11-23T17:28:37+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
+          "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon",
+          "publishedAt": "2026-11-23T17:23:50+00:00",
+          "source": "NASA"
+        },
+        {
+          "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+          "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space",
+          "publishedAt": "2026-11-23T16:08:23+00:00",
           "source": "NASA"
         },
         {
@@ -95,13 +89,19 @@
           "url": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027",
           "publishedAt": "2026-11-17T08:00:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
+          "url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor",
+          "publishedAt": "2026-11-16T20:00:00+00:00",
+          "source": "SpaceNews"
         }
       ]
     },
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-24T14:00:43+00:00",
+      "updatedAt": "2026-11-24T15:00:32+00:00",
       "stories": [
         {
           "title": "NRCan seeks study of GNSS disruption risk to the energy sector",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-24T14:00:43+00:00",
+      "updatedAt": "2026-11-24T15:00:32+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on Cadet Program",
@@ -253,7 +253,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-24T14:00:43+00:00",
+      "updatedAt": "2026-11-24T15:00:32+00:00",
       "stories": [
         {
           "title": "LaNeve’s campaign plan aims for top-down guidance, flipping ‘transformation in contact’ era",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-24T14:00:43+00:00",
+      "updatedAt": "2026-11-24T15:00:32+00:00",
       "stories": [
         {
           "title": "Jensen Huang is back at Nvidia",
@@ -363,6 +363,42 @@
           "url": "https://openai.com/openworks",
           "publishedAt": "2026-11-24T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Introducing Natural Voice (8 minute read)",
+          "url": "https://www.natural.com/blog/voice",
+          "publishedAt": "2026-11-24T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Claude Ship (3 minute read)",
+          "url": "https://code.claude.com/docs/en/claude-ship",
+          "publishedAt": "2026-11-24T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "GLM-5.4 (5 minute read)",
+          "url": "https://z.ai/blog/glm-5.4",
+          "publishedAt": "2026-11-24T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "I used to orchestrate agents. Now I orchestrate orchestrators (24 minute read)",
+          "url": "https://www.nijho.lt/post/orchestrating-orchestrators",
+          "publishedAt": "2026-11-24T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Supercharging transformer residual connections (4 minute read)",
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections",
+          "publishedAt": "2026-11-24T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "OpenAI and Cisco introduce Shirudo (5 minute read)",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "publishedAt": "2026-11-24T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Claude helps solve math's biggest open problem",
@@ -395,42 +431,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Inkling 2 Mini (9 minute read)",
-          "url": "https://thinkingmachines.ai/news/inkling-2-mini",
-          "publishedAt": "2026-11-23T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "AI R&D-Relevant Model Capabilities Are Improving Rapidly (29 minute read)",
-          "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update",
-          "publishedAt": "2026-11-23T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "The Most Important Charts in AI are Wrong (35 minute read)",
-          "url": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are",
-          "publishedAt": "2026-11-23T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Why Post-Training Could Teach Models to Evade Monitoring (3 minute read)",
-          "url": "https://www.lesswrong.com/posts/CoRJ9saddvsXti4m2/post-training-is-fundamentally-dangerous",
-          "publishedAt": "2026-11-23T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Tencent Releases Hy4 With Multimodal Input and Million-Token Context (10 minute read)",
-          "url": "https://huggingface.co/tencent/Hy4",
-          "publishedAt": "2026-11-23T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "NVIDIA Releases Nemotron-Labs-Sigma Continuous Diffusion Language Models (5 minute read)",
-          "url": "https://research.nvidia.com/labs/genair/sigma",
-          "publishedAt": "2026-11-23T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Anthropic raises $81B in the largest IPO ever",
           "url": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq",
           "publishedAt": "2026-11-20T10:00:00+00:00",
@@ -447,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-24T14:00:43+00:00",
+      "updatedAt": "2026-11-24T15:00:32+00:00",
       "stories": [
         {
           "title": "How does Orchard AI fit into John Deere’s technology portfolio?",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-24T14:00:43+00:00",
+    "updatedAt": "2026-11-24T15:00:32+00:00",
     "stories": [
       {
         "title": "Jensen Huang is back at Nvidia",
@@ -573,10 +573,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Russia launches Progress cargo ship to the International Space Station",
-        "url": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
-        "publishedAt": "2026-11-24T13:16:26+00:00",
-        "source": "Space.com",
+        "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+        "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar",
+        "publishedAt": "2026-11-24T13:58:28+00:00",
+        "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "lead"
@@ -618,21 +618,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Watch November's full Beaver Moon live online today with supermoon livestream",
-        "url": "https://www.space.com/stargazing/watch-novembers-full-beaver-moon-live-online-with-supermoon-livestream-nov-24-2026",
-        "publishedAt": "2026-11-24T13:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Introducing Natural Voice (8 minute read)",
+        "url": "https://www.natural.com/blog/voice",
+        "publishedAt": "2026-11-24T00:00:00+00:00",
+        "source": "TLDR AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "November's full moon rises tonight! Here's how to see the Beaver Moon supermoon",
-        "url": "https://www.space.com/stargazing/novembers-full-moon-rises-tonight-heres-how-to-see-the-beaver-moon-supermoon-nov-24-2026",
-        "publishedAt": "2026-11-24T11:00:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "Claude Ship (3 minute read)",
+        "url": "https://code.claude.com/docs/en/claude-ship",
+        "publishedAt": "2026-11-24T00:00:00+00:00",
+        "source": "TLDR AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -748,6 +748,7 @@
     }
   ],
   "warnings": [
+    "Space.com: 404 Client Error: Not Found for url: https://www.space.com/feeds.xml",
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
     "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
   ]
