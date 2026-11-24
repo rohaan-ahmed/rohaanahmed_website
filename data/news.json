@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-24T11:00:32+00:00",
+  "generatedAt": "2026-11-24T11:40:20+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-24T11:00:32+00:00",
+      "updatedAt": "2026-11-24T11:40:20+00:00",
       "stories": [
+        {
+          "title": "November’s full moon rises tonight! Here’s how to see the Beaver Moon supermoon",
+          "url": "https://www.space.com/stargazing/novembers-full-moon-rises-tonight-heres-how-to-see-the-beaver-moon-supermoon-nov-24-2026",
+          "publishedAt": "2026-11-24T11:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "The ten best time travel movies to buy and own on Blu-ray and 4K UHD Blu-ray this Black Friday",
           "url": "https://www.space.com/entertainment/space-movies-shows/the-ten-best-time-travel-movies-to-buy-and-own-on-blu-ray-and-4k-uhd-blu-ray-this-black-friday",
@@ -41,12 +47,6 @@
           "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program",
           "publishedAt": "2026-11-23T21:10:03+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "How sci‑fi imagines sports in microgravity, and how zero‑g sports might actually work",
-          "url": "https://www.space.com/entertainment/how-sci-fi-imagines-sports-in-microgravity-and-how-zero-g-sports-might-actually-work",
-          "publishedAt": "2026-11-23T19:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "Studying Cancer Cells in Microgravity",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-24T11:00:32+00:00",
+      "updatedAt": "2026-11-24T11:40:20+00:00",
       "stories": [
         {
           "title": "Canada joins NATO Innovation Fund with more than $100 million",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-24T11:00:32+00:00",
+      "updatedAt": "2026-11-24T11:40:20+00:00",
       "stories": [
         {
           "title": "Statement from the Minister of National Defence on Cadet Program",
@@ -253,7 +253,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-24T11:00:32+00:00",
+      "updatedAt": "2026-11-24T11:40:20+00:00",
       "stories": [
         {
           "title": "$16 billion propulsion mega-contract posted in error, Air Force says",
@@ -350,8 +350,20 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-24T11:00:32+00:00",
+      "updatedAt": "2026-11-24T11:40:20+00:00",
       "stories": [
+        {
+          "title": "Jensen Huang is back at Nvidia",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+          "publishedAt": "2026-11-24T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI pays locals to bring AI to small businesses",
+          "url": "https://openai.com/openworks",
+          "publishedAt": "2026-11-24T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "Claude helps solve math's biggest open problem",
           "url": "https://alpo.ge/remark.pdf",
@@ -429,25 +441,13 @@
           "url": "https://www.nytimes.com/international/section/business/dealbook",
           "publishedAt": "2026-11-20T10:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s agents now handle half its long research tasks",
-          "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-          "publishedAt": "2026-11-20T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "Google’s shipping spree continues with Neon",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
-          "publishedAt": "2026-11-19T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-24T11:00:32+00:00",
+      "updatedAt": "2026-11-24T11:40:20+00:00",
       "stories": [
         {
           "title": "How does Orchard AI fit into John Deere’s technology portfolio?",
@@ -543,21 +543,21 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-24T11:00:32+00:00",
+    "updatedAt": "2026-11-24T11:40:20+00:00",
     "stories": [
       {
-        "title": "Claude helps solve math's biggest open problem",
-        "url": "https://alpo.ge/remark.pdf",
-        "publishedAt": "2026-11-23T11:00:00+00:00",
+        "title": "Jensen Huang is back at Nvidia",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+        "publishedAt": "2026-11-24T11:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "OpenAI opens its private AI scorecard to rivals",
-        "url": "https://openai.com/index/perplexity-and-intelligence",
-        "publishedAt": "2026-11-23T11:00:00+00:00",
+        "title": "OpenAI pays locals to bring AI to small businesses",
+        "url": "https://openai.com/openworks",
+        "publishedAt": "2026-11-24T11:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "The ten best time travel movies to buy and own on Blu-ray and 4K UHD Blu-ray this Black Friday",
-        "url": "https://www.space.com/entertainment/space-movies-shows/the-ten-best-time-travel-movies-to-buy-and-own-on-blu-ray-and-4k-uhd-blu-ray-this-black-friday",
-        "publishedAt": "2026-11-24T10:00:00+00:00",
+        "title": "November’s full moon rises tonight! Here’s how to see the Beaver Moon supermoon",
+        "url": "https://www.space.com/stargazing/novembers-full-moon-rises-tonight-heres-how-to-see-the-beaver-moon-supermoon-nov-24-2026",
+        "publishedAt": "2026-11-24T11:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -609,6 +609,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "The ten best time travel movies to buy and own on Blu-ray and 4K UHD Blu-ray this Black Friday",
+        "url": "https://www.space.com/entertainment/space-movies-shows/the-ten-best-time-travel-movies-to-buy-and-own-on-blu-ray-and-4k-uhd-blu-ray-this-black-friday",
+        "publishedAt": "2026-11-24T10:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group",
         "url": "https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group",
         "publishedAt": "2026-11-24T05:05:00+00:00",
@@ -624,15 +633,6 @@
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Colombia races for counter-drone tech as militant groups embrace drones as frontline weapons",
-        "url": "https://breakingdefense.com/2026/11/colombia-races-for-counter-drone-tech-as-militant-groups-embrace-drones-as-frontline-weapons",
-        "publishedAt": "2026-11-23T19:45:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -748,7 +748,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News"
+    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
   ]
 }
