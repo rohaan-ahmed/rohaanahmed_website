@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-25T22:00:35+00:00",
+  "generatedAt": "2026-11-25T23:00:34+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-25T22:00:35+00:00",
+      "updatedAt": "2026-11-25T23:00:34+00:00",
       "stories": [
+        {
+          "title": "December full moon 2026: When, where and how to see the Cold Moon",
+          "url": "https://www.space.com/stargazing/december-full-moon-2026-when-where-and-how-to-see-the-cold-moon",
+          "publishedAt": "2026-11-25T22:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "On this day in space! Nov. 25, 1970: NASA's 'wingless' M2-F3 'lifting body' aircraft makes its 1st powered flight ahead of supersonic tests",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-25-2026",
@@ -29,12 +35,6 @@
           "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement",
           "publishedAt": "2026-11-25T19:06:56+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off",
-          "url": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off",
-          "publishedAt": "2026-11-25T18:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "NASA Eyes Crop Candidates for Future Menus",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-25T22:00:35+00:00",
+      "updatedAt": "2026-11-25T23:00:34+00:00",
       "stories": [
         {
           "title": "Landing Zones Canada and Meisei test stratospheric balloon system in Yukon",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-25T22:00:35+00:00",
+      "updatedAt": "2026-11-25T23:00:34+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal",
@@ -253,7 +253,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-25T22:00:35+00:00",
+      "updatedAt": "2026-11-25T23:00:34+00:00",
       "stories": [
         {
           "title": "Carla Babb Named Head of Content for Military Times and Defense News",
@@ -350,8 +350,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-25T22:00:35+00:00",
+      "updatedAt": "2026-11-25T23:00:34+00:00",
       "stories": [
+        {
+          "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+          "publishedAt": "2026-11-25T22:44:32+00:00",
+          "source": "TechCrunch AI"
+        },
         {
           "title": "xAI founding trio creates a time machine for AI",
           "url": "https://epochal.com/blog/introducing-epochal",
@@ -377,28 +383,40 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
-          "publishedAt": "2026-11-25T19:44:24+00:00",
-          "source": "TechCrunch AI"
+          "title": "Cognition's SWE-2.1 (3 minute read)",
+          "url": "https://cognition.com/blog/swe-2-1",
+          "publishedAt": "2026-11-25T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-          "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
-          "publishedAt": "2026-11-25T18:11:46+00:00",
-          "source": "TechCrunch AI"
+          "title": "Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work (4 minute read)",
+          "url": "https://prismml.com/news/bonsai-2-5-27b",
+          "publishedAt": "2026-11-25T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
-          "publishedAt": "2026-11-25T17:35:58+00:00",
-          "source": "TechCrunch AI"
+          "title": "Claude Artifacts Become Mac and Windows Apps (3 minute read)",
+          "url": "https://claude.com/resources/articles/install-as-app",
+          "publishedAt": "2026-11-25T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
-          "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-          "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it",
-          "publishedAt": "2026-11-25T15:41:43+00:00",
-          "source": "TechCrunch AI"
+          "title": "Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump (45 minute read)",
+          "url": "https://thezvi.substack.com/p/jensen-huang-reinstated-as-nvidia",
+          "publishedAt": "2026-11-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Swarms do not yet raise the roof (46 minute read)",
+          "url": "https://www.paradigm3.org/research/swarms",
+          "publishedAt": "2026-11-25T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "What VP ≠ VNP Means (3 minute read)",
+          "url": "https://www.friedgil.com/vpvnp",
+          "publishedAt": "2026-11-25T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "Jensen Huang is back at Nvidia",
@@ -423,31 +441,13 @@
           "url": "https://openai.com/index/perplexity-and-intelligence",
           "publishedAt": "2026-11-23T11:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic raises $81B in the largest IPO ever",
-          "url": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq",
-          "publishedAt": "2026-11-20T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "4 things that stuck with me from DealBook",
-          "url": "https://www.nytimes.com/international/section/business/dealbook",
-          "publishedAt": "2026-11-20T10:00:00+00:00",
-          "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI’s agents now handle half its long research tasks",
-          "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-          "publishedAt": "2026-11-20T10:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-25T22:00:35+00:00",
+      "updatedAt": "2026-11-25T23:00:34+00:00",
       "stories": [
         {
           "title": "How Vention is cutting factory programming from weeks to minutes",
@@ -543,20 +543,20 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-25T22:00:35+00:00",
+    "updatedAt": "2026-11-25T23:00:34+00:00",
     "stories": [
       {
-        "title": "xAI founding trio creates a time machine for AI",
-        "url": "https://epochal.com/blog/introducing-epochal",
-        "publishedAt": "2026-11-25T11:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+        "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+        "publishedAt": "2026-11-25T22:44:32+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "Report: Frontier AI staff fear their own internal models",
-        "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+        "title": "xAI founding trio creates a time machine for AI",
+        "url": "https://epochal.com/blog/introducing-epochal",
         "publishedAt": "2026-11-25T11:00:00+00:00",
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "On this day in space! Nov. 25, 1970: NASA's 'wingless' M2-F3 'lifting body' aircraft makes its 1st powered flight ahead of supersonic tests",
-        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-25-2026",
-        "publishedAt": "2026-11-25T21:22:27+00:00",
+        "title": "December full moon 2026: When, where and how to see the Cold Moon",
+        "url": "https://www.space.com/stargazing/december-full-moon-2026-when-where-and-how-to-see-the-cold-moon",
+        "publishedAt": "2026-11-25T22:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -618,21 +618,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Delivery of first MV-75 for testing officially delayed amid funding setbacks: Army",
-        "url": "https://breakingdefense.com/2026/11/delivery-of-first-mv-75-for-testing-officially-delayed-amid-funding-setbacks-army",
-        "publishedAt": "2026-11-25T18:15:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "Report: Frontier AI staff fear their own internal models",
+        "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+        "publishedAt": "2026-11-25T11:00:00+00:00",
+        "source": "The Rundown AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "NATO sees no Russian naval buildup in the Med after strike near Libya, but analysts warn of wider risks",
-        "url": "https://breakingdefense.com/2026/11/nato-sees-no-russian-naval-buildup-in-the-med-after-strike-near-libya-but-analysts-warn-of-wider-risks",
-        "publishedAt": "2026-11-25T17:45:00+00:00",
-        "source": "Breaking Defense",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
+        "title": "On this day in space! Nov. 25, 1970: NASA's 'wingless' M2-F3 'lifting body' aircraft makes its 1st powered flight ahead of supersonic tests",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-25-2026",
+        "publishedAt": "2026-11-25T21:22:27+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -749,7 +749,6 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-10-30"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
   ]
 }
