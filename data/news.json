@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-25T13:00:33+00:00",
+  "generatedAt": "2026-11-25T14:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-25T13:00:33+00:00",
+      "updatedAt": "2026-11-25T14:00:31+00:00",
       "stories": [
+        {
+          "title": "Astronomers discover the most distant and ancient supermassive black hole-powered quasar in the universe",
+          "url": "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar",
+          "publishedAt": "2026-11-25T13:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "November's full moon dazzles skywatchers with a stunning Beaver Moon supermoon (photos)",
           "url": "https://www.space.com/stargazing/novembers-full-moon-dazzles-skywatchers-with-a-stunning-beaver-moon-supermoon-photos-nov-24-2026",
@@ -40,12 +46,6 @@
           "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video",
           "publishedAt": "2026-11-24T22:37:19+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "On this day in space! Nov. 24, 1947: The US Navy launches the 1st Aerobee sounding rocket, but it didn't reach space",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-24-2026",
-          "publishedAt": "2026-11-24T21:47:34+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-25T13:00:33+00:00",
+      "updatedAt": "2026-11-25T14:00:31+00:00",
       "stories": [
         {
           "title": "University of Saskatchewan gets $2.6 million to build Osiris-3 for a CSA ozone CubeSat",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-25T13:00:33+00:00",
+      "updatedAt": "2026-11-25T14:00:31+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal",
@@ -253,8 +253,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-25T13:00:33+00:00",
+      "updatedAt": "2026-11-25T14:00:31+00:00",
       "stories": [
+        {
+          "title": "First Dark Eagle hypersonic battery ‘fully fielded,’ Lozano says",
+          "url": "https://breakingdefense.com/2026/11/first-dark-eagle-hypersonic-battery-fully-fielded-lozano-says",
+          "publishedAt": "2026-11-25T13:45:00+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "Buried in Italy’s budget, officials see Rome meeting NATO spending target",
           "url": "https://www.defensenews.com/global/europe/2026/11/25/buried-in-italys-budget-officials-see-rome-meeting-nato-spending-target",
@@ -322,12 +328,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "How a small Army team built a lightweight battle planning app: Odin",
-          "url": "https://breakingdefense.com/2026/11/how-a-small-army-team-built-a-lightweight-battle-planning-app-odin",
-          "publishedAt": "2026-11-24T16:03:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Marine Corps moving new chatbot prototyped at recent hackathon into full production",
           "url": "https://defensescoop.com/2026/11/23/marine-corps-chatbot-hackathon-full-production",
           "publishedAt": "2026-11-23T22:41:58+00:00",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-25T13:00:33+00:00",
+      "updatedAt": "2026-11-25T14:00:31+00:00",
       "stories": [
         {
           "title": "xAI founding trio creates a time machine for AI",
@@ -363,6 +363,12 @@
           "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
           "publishedAt": "2026-11-25T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+          "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
+          "publishedAt": "2026-11-25T13:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
@@ -386,12 +392,6 @@
           "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
           "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy",
           "publishedAt": "2026-11-24T22:27:52+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-          "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy",
-          "publishedAt": "2026-11-24T21:48:27+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -447,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-25T13:00:33+00:00",
+      "updatedAt": "2026-11-25T14:00:31+00:00",
       "stories": [
         {
           "title": "Robotics Summit 2027 opens call for speakers",
@@ -504,6 +504,12 @@
           "source": "IEEE Spectrum Robotics"
         },
         {
+          "title": "Robotics enters its post-Jensen Huang era",
+          "url": "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era",
+          "publishedAt": "2026-11-20T03:06:28+00:00",
+          "source": "The Robot Report"
+        },
+        {
           "title": "How Toyota is betting on a future beyond cars",
           "url": "https://techcrunch.com/podcast/how-toyota-is-betting-on-a-future-beyond-cars",
           "publishedAt": "2026-11-18T21:36:40+00:00",
@@ -532,18 +538,12 @@
           "url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
           "publishedAt": "2026-11-16T10:00:01+00:00",
           "source": "IEEE Spectrum Robotics"
-        },
-        {
-          "title": "Why Skydio Built a Lopsided Drone",
-          "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
-          "publishedAt": "2026-11-15T14:00:02+00:00",
-          "source": "IEEE Spectrum Robotics"
         }
       ]
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-25T13:00:33+00:00",
+    "updatedAt": "2026-11-25T14:00:31+00:00",
     "stories": [
       {
         "title": "xAI founding trio creates a time machine for AI",
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "November's full moon dazzles skywatchers with a stunning Beaver Moon supermoon (photos)",
-        "url": "https://www.space.com/stargazing/novembers-full-moon-dazzles-skywatchers-with-a-stunning-beaver-moon-supermoon-photos-nov-24-2026",
-        "publishedAt": "2026-11-25T11:22:59+00:00",
+        "title": "Astronomers discover the most distant and ancient supermassive black hole-powered quasar in the universe",
+        "url": "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar",
+        "publishedAt": "2026-11-25T13:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -591,10 +591,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Buried in Italy’s budget, officials see Rome meeting NATO spending target",
-        "url": "https://www.defensenews.com/global/europe/2026/11/25/buried-in-italys-budget-officials-see-rome-meeting-nato-spending-target",
-        "publishedAt": "2026-11-25T10:22:51+00:00",
-        "source": "Defense News",
+        "title": "First Dark Eagle hypersonic battery ‘fully fielded,’ Lozano says",
+        "url": "https://breakingdefense.com/2026/11/first-dark-eagle-hypersonic-battery-fully-fielded-lozano-says",
+        "publishedAt": "2026-11-25T13:45:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "lead"
@@ -627,9 +627,9 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Czech jet engine maker eyes growing role as US supplier in drones, missiles",
-        "url": "https://www.defensenews.com/global/europe/2026/11/25/czech-jet-engine-maker-eyes-growing-role-as-us-supplier-in-drones-missiles",
-        "publishedAt": "2026-11-25T09:33:18+00:00",
+        "title": "Buried in Italy’s budget, officials see Rome meeting NATO spending target",
+        "url": "https://www.defensenews.com/global/europe/2026/11/25/buried-in-italys-budget-officials-see-rome-meeting-nato-spending-target",
+        "publishedAt": "2026-11-25T10:22:51+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -748,7 +748,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News"
+    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
   ]
 }
