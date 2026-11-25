@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-25T14:00:31+00:00",
+  "generatedAt": "2026-11-25T14:52:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-25T14:00:31+00:00",
+      "updatedAt": "2026-11-25T14:52:29+00:00",
       "stories": [
+        {
+          "title": "Watch live: Europe unveils 1st close-up views of asteroid Dimorphos after NASA's DART impact",
+          "url": "https://www.space.com/space-exploration/asteroid-comet-missions/watch-live-europe-unveils-1st-close-up-views-of-asteroid-dimorphos-after-nasas-dart-impact",
+          "publishedAt": "2026-11-25T14:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Astronomers discover the most distant and ancient supermassive black hole-powered quasar in the universe",
           "url": "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar",
@@ -40,12 +46,6 @@
           "title": "How to watch 'Blade Runner 2099' online — stream the sci-fi sequel series from anywhere",
           "url": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-blade-runner-2099-online-stream-the-sci-fi-sequel-series-from-anywhere",
           "publishedAt": "2026-11-25T01:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video",
-          "publishedAt": "2026-11-24T22:37:19+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-25T14:00:31+00:00",
+      "updatedAt": "2026-11-25T14:52:29+00:00",
       "stories": [
         {
           "title": "University of Saskatchewan gets $2.6 million to build Osiris-3 for a CSA ozone CubeSat",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-25T14:00:31+00:00",
+      "updatedAt": "2026-11-25T14:52:29+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal",
@@ -253,8 +253,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-25T14:00:31+00:00",
+      "updatedAt": "2026-11-25T14:52:29+00:00",
       "stories": [
+        {
+          "title": "Why the Pentagon is asking for ‘anomalies’ as it plans for a long-term CR",
+          "url": "https://breakingdefense.com/2026/11/why-the-pentagon-is-asking-for-anomalies-as-it-plans-for-a-long-term-cr",
+          "publishedAt": "2026-11-25T14:40:55+00:00",
+          "source": "Breaking Defense"
+        },
         {
           "title": "First Dark Eagle hypersonic battery ‘fully fielded,’ Lozano says",
           "url": "https://breakingdefense.com/2026/11/first-dark-eagle-hypersonic-battery-fully-fielded-lozano-says",
@@ -322,12 +328,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "White House seeks funding exemptions for Golden Dome, Trump battleship in next funding stopgap",
-          "url": "https://breakingdefense.com/2026/11/white-house-seeks-funding-exemptions-for-golden-dome-trump-battleship-in-next-funding-stopgap",
-          "publishedAt": "2026-11-24T16:30:00+00:00",
-          "source": "Breaking Defense"
-        },
-        {
           "title": "Marine Corps moving new chatbot prototyped at recent hackathon into full production",
           "url": "https://defensescoop.com/2026/11/23/marine-corps-chatbot-hackathon-full-production",
           "publishedAt": "2026-11-23T22:41:58+00:00",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-25T14:00:31+00:00",
+      "updatedAt": "2026-11-25T14:52:29+00:00",
       "stories": [
         {
           "title": "xAI founding trio creates a time machine for AI",
@@ -363,6 +363,12 @@
           "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
           "publishedAt": "2026-11-25T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+          "publishedAt": "2026-11-25T14:10:18+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
@@ -395,40 +401,16 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Introducing Natural Voice (8 minute read)",
-          "url": "https://www.natural.com/blog/voice",
-          "publishedAt": "2026-11-24T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+          "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy",
+          "publishedAt": "2026-11-24T21:48:27+00:00",
+          "source": "TechCrunch AI"
         },
         {
-          "title": "Claude Ship (3 minute read)",
-          "url": "https://code.claude.com/docs/en/claude-ship",
-          "publishedAt": "2026-11-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "GLM-5.4 (5 minute read)",
-          "url": "https://z.ai/blog/glm-5.4",
-          "publishedAt": "2026-11-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Supercharging transformer residual connections (4 minute read)",
-          "url": "https://research.google/blog/supercharging-transformer-residual-connections",
-          "publishedAt": "2026-11-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "I used to orchestrate agents. Now I orchestrate orchestrators (24 minute read)",
-          "url": "https://www.nijho.lt/post/orchestrating-orchestrators",
-          "publishedAt": "2026-11-24T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "OpenAI and Cisco introduce Shirudo (5 minute read)",
-          "url": "https://openai.com/index/introducing-shirudo",
-          "publishedAt": "2026-11-24T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "Even the best AI agents struggle with everyday life",
+          "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life",
+          "publishedAt": "2026-11-24T21:33:29+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Claude helps solve math's biggest open problem",
@@ -441,13 +423,31 @@
           "url": "https://openai.com/index/perplexity-and-intelligence",
           "publishedAt": "2026-11-23T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Anthropic raises $81B in the largest IPO ever",
+          "url": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq",
+          "publishedAt": "2026-11-20T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "4 things that stuck with me from DealBook",
+          "url": "https://www.nytimes.com/international/section/business/dealbook",
+          "publishedAt": "2026-11-20T10:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI’s agents now handle half its long research tasks",
+          "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "publishedAt": "2026-11-20T10:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-25T14:00:31+00:00",
+      "updatedAt": "2026-11-25T14:52:29+00:00",
       "stories": [
         {
           "title": "Robotics Summit 2027 opens call for speakers",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-25T14:00:31+00:00",
+    "updatedAt": "2026-11-25T14:52:29+00:00",
     "stories": [
       {
         "title": "xAI founding trio creates a time machine for AI",
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Astronomers discover the most distant and ancient supermassive black hole-powered quasar in the universe",
-        "url": "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar",
-        "publishedAt": "2026-11-25T13:00:00+00:00",
+        "title": "Watch live: Europe unveils 1st close-up views of asteroid Dimorphos after NASA's DART impact",
+        "url": "https://www.space.com/space-exploration/asteroid-comet-missions/watch-live-europe-unveils-1st-close-up-views-of-asteroid-dimorphos-after-nasas-dart-impact",
+        "publishedAt": "2026-11-25T14:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -591,9 +591,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "First Dark Eagle hypersonic battery ‘fully fielded,’ Lozano says",
-        "url": "https://breakingdefense.com/2026/11/first-dark-eagle-hypersonic-battery-fully-fielded-lozano-says",
-        "publishedAt": "2026-11-25T13:45:00+00:00",
+        "title": "Why the Pentagon is asking for ‘anomalies’ as it plans for a long-term CR",
+        "url": "https://breakingdefense.com/2026/11/why-the-pentagon-is-asking-for-anomalies-as-it-plans-for-a-long-term-cr",
+        "publishedAt": "2026-11-25T14:40:55+00:00",
         "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -609,30 +609,30 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Joshua Kutryk welcomes daughter from the space station",
-        "url": "https://spaceq.ca/kutryk-welcomes-daughter-space-station",
-        "publishedAt": "2026-11-25T00:01:15+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "India pitches space co-operation in Canada defence pact talks",
-        "url": "https://spaceq.ca/canada-india-defence-agreement-space",
-        "publishedAt": "2026-11-24T23:47:00+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Buried in Italy’s budget, officials see Rome meeting NATO spending target",
-        "url": "https://www.defensenews.com/global/europe/2026/11/25/buried-in-italys-budget-officials-see-rome-meeting-nato-spending-target",
-        "publishedAt": "2026-11-25T10:22:51+00:00",
-        "source": "Defense News",
+        "title": "First Dark Eagle hypersonic battery ‘fully fielded,’ Lozano says",
+        "url": "https://breakingdefense.com/2026/11/first-dark-eagle-hypersonic-battery-fully-fielded-lozano-says",
+        "publishedAt": "2026-11-25T13:45:00+00:00",
+        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+        "publishedAt": "2026-11-25T14:10:18+00:00",
+        "source": "TechCrunch AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
+        "bulletinRole": "noteworthy"
+      },
+      {
+        "title": "Astronomers discover the most distant and ancient supermassive black hole-powered quasar in the universe",
+        "url": "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar",
+        "publishedAt": "2026-11-25T13:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]
@@ -749,6 +749,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-05"
   ]
 }
