@@ -1,16 +1,28 @@
 {
-  "generatedAt": "2026-11-25T19:00:31+00:00",
+  "generatedAt": "2026-11-25T20:00:31+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-25T19:00:31+00:00",
+      "updatedAt": "2026-11-25T20:00:31+00:00",
       "stories": [
+        {
+          "title": "SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, photos)",
+          "url": "https://www.space.com/entertainment/spacex-starship-debris-becomes-art-in-ashley-zelinskies-the-weight-of-space-video-photos",
+          "publishedAt": "2026-11-25T19:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites",
           "url": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites",
           "publishedAt": "2026-11-25T18:49:15+00:00",
           "source": "Space.com"
+        },
+        {
+          "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+          "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement",
+          "publishedAt": "2026-11-25T19:06:56+00:00",
+          "source": "NASA"
         },
         {
           "title": "‘Blade Runner 2099’ cast praise the incredible set designs that brought the sci-fi universe to life: ‘it was all so well-realized’ (interview)",
@@ -22,12 +34,6 @@
           "title": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off",
           "url": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off",
           "publishedAt": "2026-11-25T18:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "Pakistani astronaut becomes 1st international visitor to China's Tiangong space station (photos)",
-          "url": "https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-becomes-1st-international-visitor-to-chinas-tiangong-space-station-photos",
-          "publishedAt": "2026-11-25T17:41:11+00:00",
           "source": "Space.com"
         },
         {
@@ -46,12 +52,6 @@
           "title": "Eye of the Sahara",
           "url": "https://www.nasa.gov/image-article/eye-of-the-sahara",
           "publishedAt": "2026-11-25T16:21:04+00:00",
-          "source": "NASA"
-        },
-        {
-          "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
-          "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman",
-          "publishedAt": "2026-11-25T14:56:54+00:00",
           "source": "NASA"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-25T19:00:31+00:00",
+      "updatedAt": "2026-11-25T20:00:31+00:00",
       "stories": [
         {
           "title": "University of Saskatchewan gets $2.6 million to build Osiris-3 for a CSA ozone CubeSat",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-25T19:00:31+00:00",
+      "updatedAt": "2026-11-25T20:00:31+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal",
@@ -253,7 +253,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-25T19:00:31+00:00",
+      "updatedAt": "2026-11-25T20:00:31+00:00",
       "stories": [
         {
           "title": "Delivery of first MV-75 for testing officially delayed amid funding setbacks: Army",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-25T19:00:31+00:00",
+      "updatedAt": "2026-11-25T20:00:31+00:00",
       "stories": [
         {
           "title": "xAI founding trio creates a time machine for AI",
@@ -365,21 +365,21 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+          "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
+          "publishedAt": "2026-11-25T19:54:57+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+          "publishedAt": "2026-11-25T19:44:24+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
           "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
           "publishedAt": "2026-11-25T18:11:46+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
-          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
-          "publishedAt": "2026-11-25T17:35:58+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-          "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it",
-          "publishedAt": "2026-11-25T15:41:43+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -447,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-25T19:00:31+00:00",
+      "updatedAt": "2026-11-25T20:00:31+00:00",
       "stories": [
         {
           "title": "How Vention is cutting factory programming from weeks to minutes",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-25T19:00:31+00:00",
+    "updatedAt": "2026-11-25T20:00:31+00:00",
     "stories": [
       {
         "title": "xAI founding trio creates a time machine for AI",
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites",
-        "publishedAt": "2026-11-25T18:49:15+00:00",
+        "title": "SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, photos)",
+        "url": "https://www.space.com/entertainment/spacex-starship-debris-becomes-art-in-ashley-zelinskies-the-weight-of-space-video-photos",
+        "publishedAt": "2026-11-25T19:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -748,7 +748,7 @@
     }
   ],
   "warnings": [
-    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News"
   ]
 }
