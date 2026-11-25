@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T09:00:32+00:00",
+  "generatedAt": "2026-11-25T10:00:40+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-25T09:00:32+00:00",
+      "updatedAt": "2026-11-25T10:00:40+00:00",
       "stories": [
         {
           "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-25T09:00:32+00:00",
+      "updatedAt": "2026-11-25T10:00:40+00:00",
       "stories": [
         {
           "title": "Joshua Kutryk welcomes daughter from the space station",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-25T09:00:32+00:00",
+      "updatedAt": "2026-11-25T10:00:40+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal",
@@ -253,8 +253,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-25T09:00:32+00:00",
+      "updatedAt": "2026-11-25T10:00:40+00:00",
       "stories": [
+        {
+          "title": "Czech jet engine maker eyes growing role as US supplier in drones, missiles",
+          "url": "https://www.defensenews.com/global/europe/2026/11/25/czech-jet-engine-maker-eyes-growing-role-as-us-supplier-in-drones-missiles",
+          "publishedAt": "2026-11-25T09:33:18+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Ford in talks with the Pentagon to supply military vehicles",
           "url": "https://www.defensenews.com/pentagon/2026/11/24/ford-in-talks-with-the-pentagon-to-supply-military-vehicles",
@@ -322,12 +328,6 @@
           "source": "Defense News"
         },
         {
-          "title": "Russia may launch nuke-laden satellite by year’s end, German report warns",
-          "url": "https://www.defensenews.com/global/europe/2026/11/24/russia-may-launch-nuke-laden-satellite-by-years-end-german-report-warns",
-          "publishedAt": "2026-11-24T12:50:13+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Marine Corps moving new chatbot prototyped at recent hackathon into full production",
           "url": "https://defensescoop.com/2026/11/23/marine-corps-chatbot-hackathon-full-production",
           "publishedAt": "2026-11-23T22:41:58+00:00",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-25T09:00:32+00:00",
+      "updatedAt": "2026-11-25T10:00:40+00:00",
       "stories": [
         {
           "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
@@ -447,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-25T09:00:32+00:00",
+      "updatedAt": "2026-11-25T10:00:40+00:00",
       "stories": [
         {
           "title": "Robotics Summit 2027 opens call for speakers",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-25T09:00:32+00:00",
+    "updatedAt": "2026-11-25T10:00:40+00:00",
     "stories": [
       {
         "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
@@ -591,9 +591,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Ford in talks with the Pentagon to supply military vehicles",
-        "url": "https://www.defensenews.com/pentagon/2026/11/24/ford-in-talks-with-the-pentagon-to-supply-military-vehicles",
-        "publishedAt": "2026-11-24T21:30:00+00:00",
+        "title": "Czech jet engine maker eyes growing role as US supplier in drones, missiles",
+        "url": "https://www.defensenews.com/global/europe/2026/11/25/czech-jet-engine-maker-eyes-growing-role-as-us-supplier-in-drones-missiles",
+        "publishedAt": "2026-11-25T09:33:18+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
