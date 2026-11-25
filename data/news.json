@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T20:00:31+00:00",
+  "generatedAt": "2026-11-25T21:00:29+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-25T20:00:31+00:00",
+      "updatedAt": "2026-11-25T21:00:29+00:00",
       "stories": [
         {
           "title": "SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, photos)",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-25T20:00:31+00:00",
+      "updatedAt": "2026-11-25T21:00:29+00:00",
       "stories": [
+        {
+          "title": "Landing Zones Canada and Meisei test stratospheric balloon system in Yukon",
+          "url": "https://spaceq.ca/landing-zones-canada-meisei-yukon-balloon-test",
+          "publishedAt": "2026-11-25T20:01:17+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "University of Saskatchewan gets $2.6 million to build Osiris-3 for a CSA ozone CubeSat",
           "url": "https://spaceq.ca/osiris-3-usask-csa-cubesat-mission-1",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "Pegasus lunar terrain vehicle passes NASA design review",
-          "url": "https://spaceq.ca/pegasus-lunar-terrain-vehicle-nasa-design-review",
-          "publishedAt": "2026-11-20T12:22:00+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "From Whitehorse to space: Yukon students hear from CSA astronauts Jenni Gibbons and Joshua Kutryk",
           "url": "https://www.canada.ca/en/space-agency/news/2026/11/from-whitehorse-to-space-yukon-students-hear-from-csa-astronauts-jenni-gibbons-and-joshua-kutryk.html",
           "publishedAt": "2026-11-18T17:02:49+00:00",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-25T20:00:31+00:00",
+      "updatedAt": "2026-11-25T21:00:29+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal",
@@ -253,7 +253,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-25T20:00:31+00:00",
+      "updatedAt": "2026-11-25T21:00:29+00:00",
       "stories": [
         {
           "title": "Delivery of first MV-75 for testing officially delayed amid funding setbacks: Army",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-25T20:00:31+00:00",
+      "updatedAt": "2026-11-25T21:00:29+00:00",
       "stories": [
         {
           "title": "xAI founding trio creates a time machine for AI",
@@ -365,6 +365,12 @@
           "source": "The Rundown AI"
         },
         {
+          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+          "publishedAt": "2026-11-25T20:03:27+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
           "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
           "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
           "publishedAt": "2026-11-25T19:54:57+00:00",
@@ -374,12 +380,6 @@
           "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
           "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
           "publishedAt": "2026-11-25T19:44:24+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
-          "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-          "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
-          "publishedAt": "2026-11-25T18:11:46+00:00",
           "source": "TechCrunch AI"
         },
         {
@@ -447,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-25T20:00:31+00:00",
+      "updatedAt": "2026-11-25T21:00:29+00:00",
       "stories": [
         {
           "title": "How Vention is cutting factory programming from weeks to minutes",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-25T20:00:31+00:00",
+    "updatedAt": "2026-11-25T21:00:29+00:00",
     "stories": [
       {
         "title": "xAI founding trio creates a time machine for AI",
@@ -564,9 +564,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "University of Saskatchewan gets $2.6 million to build Osiris-3 for a CSA ozone CubeSat",
-        "url": "https://spaceq.ca/osiris-3-usask-csa-cubesat-mission-1",
-        "publishedAt": "2026-11-25T12:07:00+00:00",
+        "title": "Landing Zones Canada and Meisei test stratospheric balloon system in Yukon",
+        "url": "https://spaceq.ca/landing-zones-canada-meisei-yukon-balloon-test",
+        "publishedAt": "2026-11-25T20:01:17+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -609,6 +609,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "University of Saskatchewan gets $2.6 million to build Osiris-3 for a CSA ozone CubeSat",
+        "url": "https://spaceq.ca/osiris-3-usask-csa-cubesat-mission-1",
+        "publishedAt": "2026-11-25T12:07:00+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "NATO sees no Russian naval buildup in the Med after strike near Libya, but analysts warn of wider risks",
         "url": "https://breakingdefense.com/2026/11/nato-sees-no-russian-naval-buildup-in-the-med-after-strike-near-libya-but-analysts-warn-of-wider-risks",
         "publishedAt": "2026-11-25T17:45:00+00:00",
@@ -622,15 +631,6 @@
         "url": "https://www.defensenews.com/global/europe/2026/11/25/estimates-of-russians-killed-in-ukraine-surpass-all-combined-us-war-deaths-since-wwi",
         "publishedAt": "2026-11-25T18:27:12+00:00",
         "source": "Defense News",
-        "topicId": "international-defence-technology",
-        "topicName": "International Defence Technology",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Israel increases defense budget by $5 billion as concerns continue over future funding",
-        "url": "https://breakingdefense.com/2026/11/israel-increases-defense-budget-by-5-billion-as-concerns-continue-over-future-funding",
-        "publishedAt": "2026-11-25T17:30:00+00:00",
-        "source": "Breaking Defense",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
@@ -748,7 +748,7 @@
     }
   ],
   "warnings": [
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
-    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News"
+    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
   ]
 }
