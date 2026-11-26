@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-26T14:00:31+00:00",
+  "generatedAt": "2026-11-26T15:00:35+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-26T14:00:31+00:00",
+      "updatedAt": "2026-11-26T15:00:35+00:00",
       "stories": [
+        {
+          "title": "Prepare for Avengers: Doomsday and catch the entire MCU on Disney+ — now only $4.99/month",
+          "url": "https://www.space.com/entertainment/space-movies-shows/prepare-for-avengers-doomsday-and-catch-the-entire-mcu-on-disney-now-only-4-99-month",
+          "publishedAt": "2026-11-26T14:35:13+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Thanksgiving night sky 2026 — What to look for after dinner tonight",
           "url": "https://www.space.com/stargazing/thanksgiving-night-sky-2026-what-to-look-for-after-dinner-tonight",
@@ -35,12 +41,6 @@
           "url": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island",
           "publishedAt": "2026-11-26T05:01:00+00:00",
           "source": "NASA"
-        },
-        {
-          "title": "December full moon 2026: When, where and how to see the Cold Moon",
-          "url": "https://www.space.com/stargazing/december-full-moon-2026-when-where-and-how-to-see-the-cold-moon",
-          "publishedAt": "2026-11-25T22:00:00+00:00",
-          "source": "Space.com"
         },
         {
           "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-26T14:00:31+00:00",
+      "updatedAt": "2026-11-26T15:00:35+00:00",
       "stories": [
         {
           "title": "Landing Zones Canada and Meisei test stratospheric balloon system in Yukon",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-26T14:00:31+00:00",
+      "updatedAt": "2026-11-26T15:00:35+00:00",
       "stories": [
         {
           "title": "Minister McGuinty to attend IMT Precision Groundbreaking Event",
@@ -259,7 +259,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-26T14:00:31+00:00",
+      "updatedAt": "2026-11-26T15:00:35+00:00",
       "stories": [
         {
           "title": "Carla Babb Named Head of Content for Military Times and Defense News",
@@ -356,13 +356,49 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-26T14:00:31+00:00",
+      "updatedAt": "2026-11-26T15:00:35+00:00",
       "stories": [
         {
           "title": "Your AI cheat sheet for Thanksgiving dinner",
           "url": "https://therundownai.beehiiv.com/p/your-ai-cheat-sheet-for-thanksgiving-dinner",
           "publishedAt": "2026-11-26T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Early outputs: Anthropic is A/B testing Claude Opus 5.6 (3 minute read)",
+          "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6",
+          "publishedAt": "2026-11-26T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "OpenAI Begins Testing Private Inference (1 minute read)",
+          "url": "https://x.com/sama/status/2125638790593274259",
+          "publishedAt": "2026-11-26T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "GPT 6.2 Astra is superhuman in mathematical optimization (3 minute read)",
+          "url": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html",
+          "publishedAt": "2026-11-26T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Paths to extreme power concentration (30 minute read)",
+          "url": "https://newsletter.forethought.org/p/paths-extreme-power-concentration",
+          "publishedAt": "2026-11-26T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Latency doesn't lie: Jev is (probably) Qwen3.5-35B-A3B! (9 minute read)",
+          "url": "https://modaic.dev/blog/latency-doesnt-lie",
+          "publishedAt": "2026-11-26T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Speculative Encoding: Many-to-Many Cache Translation (24 minute read)",
+          "url": "https://x.com/RampLabs/status/2125625946229064118",
+          "publishedAt": "2026-11-26T00:00:00+00:00",
+          "source": "TLDR AI"
         },
         {
           "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
@@ -395,42 +431,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Cognition's SWE-2.1 (3 minute read)",
-          "url": "https://cognition.com/blog/swe-2-1",
-          "publishedAt": "2026-11-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work (4 minute read)",
-          "url": "https://prismml.com/news/bonsai-2-5-27b",
-          "publishedAt": "2026-11-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Claude Artifacts Become Mac and Windows Apps (3 minute read)",
-          "url": "https://claude.com/resources/articles/install-as-app",
-          "publishedAt": "2026-11-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump (45 minute read)",
-          "url": "https://thezvi.substack.com/p/jensen-huang-reinstated-as-nvidia",
-          "publishedAt": "2026-11-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Swarms do not yet raise the roof (46 minute read)",
-          "url": "https://www.paradigm3.org/research/swarms",
-          "publishedAt": "2026-11-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "What VP ≠ VNP Means (3 minute read)",
-          "url": "https://www.friedgil.com/vpvnp",
-          "publishedAt": "2026-11-25T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Jensen Huang is back at Nvidia",
           "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
           "publishedAt": "2026-11-24T11:00:00+00:00",
@@ -453,7 +453,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-26T14:00:31+00:00",
+      "updatedAt": "2026-11-26T15:00:35+00:00",
       "stories": [
         {
           "title": "How Vention is cutting factory programming from weeks to minutes",
@@ -549,7 +549,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-26T14:00:31+00:00",
+    "updatedAt": "2026-11-26T15:00:35+00:00",
     "stories": [
       {
         "title": "Your AI cheat sheet for Thanksgiving dinner",
@@ -561,10 +561,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-        "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
-        "publishedAt": "2026-11-25T22:44:32+00:00",
-        "source": "TechCrunch AI",
+        "title": "Early outputs: Anthropic is A/B testing Claude Opus 5.6 (3 minute read)",
+        "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6",
+        "publishedAt": "2026-11-26T00:00:00+00:00",
+        "source": "TLDR AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -579,9 +579,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Thanksgiving night sky 2026 — What to look for after dinner tonight",
-        "url": "https://www.space.com/stargazing/thanksgiving-night-sky-2026-what-to-look-for-after-dinner-tonight",
-        "publishedAt": "2026-11-26T13:00:00+00:00",
+        "title": "Prepare for Avengers: Doomsday and catch the entire MCU on Disney+ — now only $4.99/month",
+        "url": "https://www.space.com/entertainment/space-movies-shows/prepare-for-avengers-doomsday-and-catch-the-entire-mcu-on-disney-now-only-4-99-month",
+        "publishedAt": "2026-11-26T14:35:13+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -615,30 +615,30 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Space plants with hot sauce: What ISS astronauts will be eating on Thanksgiving (video)",
-        "url": "https://www.space.com/space-exploration/human-spaceflight/space-plants-with-hot-sauce-what-iss-astronauts-will-be-eating-on-thanksgiving-video",
-        "publishedAt": "2026-11-26T11:00:00+00:00",
+        "title": "Thanksgiving night sky 2026 — What to look for after dinner tonight",
+        "url": "https://www.space.com/stargazing/thanksgiving-night-sky-2026-what-to-look-for-after-dinner-tonight",
+        "publishedAt": "2026-11-26T13:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "Catch up on 60 years of Star Trek this Thanksgiving weekend on Paramount+ — plans now 79% off",
-        "url": "https://www.space.com/entertainment/space-movies-shows/catch-up-on-60-years-of-star-trek-this-thanksgiving-weekend-on-paramount-plans-now-79-percent-off",
-        "publishedAt": "2026-11-26T10:16:31+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "OpenAI Begins Testing Private Inference (1 minute read)",
+        "url": "https://x.com/sama/status/2125638790593274259",
+        "publishedAt": "2026-11-26T00:00:00+00:00",
+        "source": "TLDR AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
-        "url": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois",
-        "publishedAt": "2026-11-26T05:05:00+00:00",
-        "source": "NASA",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "GPT 6.2 Astra is superhuman in mathematical optimization (3 minute read)",
+        "url": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html",
+        "publishedAt": "2026-11-26T00:00:00+00:00",
+        "source": "TLDR AI",
+        "topicId": "artificial-intelligence",
+        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
