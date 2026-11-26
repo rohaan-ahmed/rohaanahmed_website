@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-11-26T19:00:32+00:00",
+  "generatedAt": "2026-11-26T20:00:42+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-26T19:00:32+00:00",
+      "updatedAt": "2026-11-26T20:00:42+00:00",
       "stories": [
         {
           "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
           "url": "https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall",
           "publishedAt": "2026-11-26T17:53:00+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "This pocket-sized smart telescope is small enough to take anywhere, now 19% cheaper for Black Friday — plus a chance to win one for free!",
+          "url": "https://www.space.com/stargazing/skywatching-kit/dwarflab-dwarf-mini-smart-telescope-80-dollars-off-black-friday-deal-2026",
+          "publishedAt": "2026-11-26T19:00:00+00:00",
+          "source": "Space.com"
         },
         {
           "title": "'Star Trek IV: The Voyage Home' at 40: 'Trek' has never been as joyous or fun as in 'the one with the whales'",
@@ -28,12 +34,6 @@
           "title": "Venus shines at its brightest in the predawn sky this week. Here's where to look",
           "url": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026",
           "publishedAt": "2026-11-26T17:00:00+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "On this day in space! Nov. 26, 2011: NASA's 2-ton nuclear-powered Curiosity rover launches to Mars",
-          "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-26-2026",
-          "publishedAt": "2026-11-26T16:55:48+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-26T19:00:32+00:00",
+      "updatedAt": "2026-11-26T20:00:42+00:00",
       "stories": [
         {
           "title": "Canadensys RAPTOR vehicle wins first U.S. Army order",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-26T19:00:32+00:00",
+      "updatedAt": "2026-11-26T20:00:42+00:00",
       "stories": [
         {
           "title": "HMCS Corner Brook returns home following deployment to the Indo-Pacific and Arctic regions",
@@ -253,7 +253,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-26T19:00:32+00:00",
+      "updatedAt": "2026-11-26T20:00:42+00:00",
       "stories": [
         {
           "title": "Carla Babb Named Head of Content for Military Times and Defense News",
@@ -350,7 +350,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-26T19:00:32+00:00",
+      "updatedAt": "2026-11-26T20:00:42+00:00",
       "stories": [
         {
           "title": "Your AI cheat sheet for Thanksgiving dinner",
@@ -377,12 +377,6 @@
           "source": "TLDR AI"
         },
         {
-          "title": "GPT 6.2 Astra is superhuman in mathematical optimization (3 minute read)",
-          "url": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html",
-          "publishedAt": "2026-11-26T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
           "title": "Paths to extreme power concentration (30 minute read)",
           "url": "https://newsletter.forethought.org/p/paths-extreme-power-concentration",
           "publishedAt": "2026-11-26T00:00:00+00:00",
@@ -391,6 +385,12 @@
         {
           "title": "Latency doesn't lie: Jev is (probably) Qwen3.5-35B-A3B! (9 minute read)",
           "url": "https://modaic.dev/blog/latency-doesnt-lie",
+          "publishedAt": "2026-11-26T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "GPT 6.2 Astra is superhuman in mathematical optimization (3 minute read)",
+          "url": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html",
           "publishedAt": "2026-11-26T00:00:00+00:00",
           "source": "TLDR AI"
         },
@@ -447,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-26T19:00:32+00:00",
+      "updatedAt": "2026-11-26T20:00:42+00:00",
       "stories": [
         {
           "title": "How Vention is cutting factory programming from weeks to minutes",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-26T19:00:32+00:00",
+    "updatedAt": "2026-11-26T20:00:42+00:00",
     "stories": [
       {
         "title": "Your AI cheat sheet for Thanksgiving dinner",
@@ -609,6 +609,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "This pocket-sized smart telescope is small enough to take anywhere, now 19% cheaper for Black Friday — plus a chance to win one for free!",
+        "url": "https://www.space.com/stargazing/skywatching-kit/dwarflab-dwarf-mini-smart-telescope-80-dollars-off-black-friday-deal-2026",
+        "publishedAt": "2026-11-26T19:00:00+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "'Star Trek IV: The Voyage Home' at 40: 'Trek' has never been as joyous or fun as in 'the one with the whales'",
         "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-iv-the-voyage-home-at-40-trek-has-never-been-as-joyous-or-fun-as-in-the-one-with-the-whales",
         "publishedAt": "2026-11-26T18:00:00+00:00",
@@ -621,15 +630,6 @@
         "title": "Can't wait for Dune: Part 3? Catch up on the sandy sci-fi saga with this half-price HBO Max Black Friday deal",
         "url": "https://www.space.com/entertainment/space-movies-shows/cant-wait-for-dune-part-3-catch-up-on-the-sandy-sci-fi-saga-with-this-half-price-hbo-max-black-friday-deal",
         "publishedAt": "2026-11-26T17:30:00+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Venus shines at its brightest in the predawn sky this week. Here's where to look",
-        "url": "https://www.space.com/stargazing/venus-shines-at-its-brightest-in-the-predawn-sky-this-week-heres-where-to-look-nov-27-2026",
-        "publishedAt": "2026-11-26T17:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
