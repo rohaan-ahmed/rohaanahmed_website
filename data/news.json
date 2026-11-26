@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-11-26T11:00:35+00:00",
+  "generatedAt": "2026-11-26T12:00:37+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-26T11:00:35+00:00",
+      "updatedAt": "2026-11-26T12:00:37+00:00",
       "stories": [
+        {
+          "title": "Space plants with hot sauce: What ISS astronauts will be eating on Thanksgiving (video)",
+          "url": "https://www.space.com/space-exploration/human-spaceflight/space-plants-with-hot-sauce-what-iss-astronauts-will-be-eating-on-thanksgiving-video",
+          "publishedAt": "2026-11-26T11:00:00+00:00",
+          "source": "Space.com"
+        },
         {
           "title": "Catch up on 60 years of Star Trek this Thanksgiving weekend on Paramount+ — plans now 79% off",
           "url": "https://www.space.com/entertainment/space-movies-shows/catch-up-on-60-years-of-star-trek-this-thanksgiving-weekend-on-paramount-plans-now-79-percent-off",
@@ -34,12 +40,6 @@
           "title": "On this day in space! Nov. 25, 1970: NASA's 'wingless' M2-F3 'lifting body' aircraft makes its 1st powered flight ahead of supersonic tests",
           "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-25-2026",
           "publishedAt": "2026-11-25T21:22:27+00:00",
-          "source": "Space.com"
-        },
-        {
-          "title": "SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, photos)",
-          "url": "https://www.space.com/entertainment/spacex-starship-debris-becomes-art-in-ashley-zelinskies-the-weight-of-space-video-photos",
-          "publishedAt": "2026-11-25T19:00:00+00:00",
           "source": "Space.com"
         },
         {
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-26T11:00:35+00:00",
+      "updatedAt": "2026-11-26T12:00:37+00:00",
       "stories": [
         {
           "title": "Landing Zones Canada and Meisei test stratospheric balloon system in Yukon",
@@ -186,7 +186,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-26T11:00:35+00:00",
+      "updatedAt": "2026-11-26T12:00:37+00:00",
       "stories": [
         {
           "title": "Statement from the Canadian Forces Provost Marshal",
@@ -253,7 +253,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-26T11:00:35+00:00",
+      "updatedAt": "2026-11-26T12:00:37+00:00",
       "stories": [
         {
           "title": "Carla Babb Named Head of Content for Military Times and Defense News",
@@ -350,8 +350,14 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-26T11:00:35+00:00",
+      "updatedAt": "2026-11-26T12:00:37+00:00",
       "stories": [
+        {
+          "title": "Your AI cheat sheet for Thanksgiving dinner",
+          "url": "https://therundownai.beehiiv.com/p/your-ai-cheat-sheet-for-thanksgiving-dinner",
+          "publishedAt": "2026-11-26T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
         {
           "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
           "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
@@ -435,19 +441,13 @@
           "url": "https://alpo.ge/remark.pdf",
           "publishedAt": "2026-11-23T11:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "OpenAI opens its private AI scorecard to rivals",
-          "url": "https://openai.com/index/perplexity-and-intelligence",
-          "publishedAt": "2026-11-23T11:00:00+00:00",
-          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-26T11:00:35+00:00",
+      "updatedAt": "2026-11-26T12:00:37+00:00",
       "stories": [
         {
           "title": "How Vention is cutting factory programming from weeks to minutes",
@@ -543,22 +543,22 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-26T11:00:35+00:00",
+    "updatedAt": "2026-11-26T12:00:37+00:00",
     "stories": [
       {
-        "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-        "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
-        "publishedAt": "2026-11-25T22:44:32+00:00",
-        "source": "TechCrunch AI",
+        "title": "Your AI cheat sheet for Thanksgiving dinner",
+        "url": "https://therundownai.beehiiv.com/p/your-ai-cheat-sheet-for-thanksgiving-dinner",
+        "publishedAt": "2026-11-26T11:00:00+00:00",
+        "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
       },
       {
-        "title": "xAI founding trio creates a time machine for AI",
-        "url": "https://epochal.com/blog/introducing-epochal",
-        "publishedAt": "2026-11-25T11:00:00+00:00",
-        "source": "The Rundown AI",
+        "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+        "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+        "publishedAt": "2026-11-25T22:44:32+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -573,9 +573,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Catch up on 60 years of Star Trek this Thanksgiving weekend on Paramount+ — plans now 79% off",
-        "url": "https://www.space.com/entertainment/space-movies-shows/catch-up-on-60-years-of-star-trek-this-thanksgiving-weekend-on-paramount-plans-now-79-percent-off",
-        "publishedAt": "2026-11-26T10:16:31+00:00",
+        "title": "Space plants with hot sauce: What ISS astronauts will be eating on Thanksgiving (video)",
+        "url": "https://www.space.com/space-exploration/human-spaceflight/space-plants-with-hot-sauce-what-iss-astronauts-will-be-eating-on-thanksgiving-video",
+        "publishedAt": "2026-11-26T11:00:00+00:00",
         "source": "Space.com",
         "topicId": "international-space",
         "topicName": "International Space",
@@ -609,6 +609,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Catch up on 60 years of Star Trek this Thanksgiving weekend on Paramount+ — plans now 79% off",
+        "url": "https://www.space.com/entertainment/space-movies-shows/catch-up-on-60-years-of-star-trek-this-thanksgiving-weekend-on-paramount-plans-now-79-percent-off",
+        "publishedAt": "2026-11-26T10:16:31+00:00",
+        "source": "Space.com",
+        "topicId": "international-space",
+        "topicName": "International Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
         "url": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois",
         "publishedAt": "2026-11-26T05:05:00+00:00",
@@ -624,15 +633,6 @@
         "source": "NASA",
         "topicId": "international-space",
         "topicName": "International Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "University of Saskatchewan gets $2.6 million to build Osiris-3 for a CSA ozone CubeSat",
-        "url": "https://spaceq.ca/osiris-3-usask-csa-cubesat-mission-1",
-        "publishedAt": "2026-11-25T12:07:00+00:00",
-        "source": "SpaceQ",
-        "topicId": "canadian-space",
-        "topicName": "Canadian Space",
         "bulletinRole": "noteworthy"
       }
     ]
