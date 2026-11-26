@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T15:27:54+00:00",
+  "generatedAt": "2026-11-26T16:00:37+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-26T15:27:54+00:00",
+      "updatedAt": "2026-11-26T16:00:37+00:00",
       "stories": [
         {
           "title": "Cosmic 'betta fish' glows in spectacular nebula portrait | Space photo of the day for Nov. 26, 2026",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-26T15:27:54+00:00",
+      "updatedAt": "2026-11-26T16:00:37+00:00",
       "stories": [
         {
           "title": "Landing Zones Canada and Meisei test stratospheric balloon system in Yukon",
@@ -186,8 +186,14 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-26T15:27:54+00:00",
+      "updatedAt": "2026-11-26T16:00:37+00:00",
       "stories": [
+        {
+          "title": "HMCS Corner Brook returns home following deployment to the Indo-Pacific and Arctic regions",
+          "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-corner-brook-returns-home-following-deployment-to-the-indo-pacific-and-arctic-regions.html",
+          "publishedAt": "2026-11-26T15:42:54+00:00",
+          "source": "National Defence"
+        },
         {
           "title": "Minister McGuinty to attend IMT Precision Groundbreaking Event",
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-to-attend-imt-precision-groundbreaking-event.html",
@@ -259,7 +265,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-26T15:27:54+00:00",
+      "updatedAt": "2026-11-26T16:00:37+00:00",
       "stories": [
         {
           "title": "Carla Babb Named Head of Content for Military Times and Defense News",
@@ -356,7 +362,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-26T15:27:54+00:00",
+      "updatedAt": "2026-11-26T16:00:37+00:00",
       "stories": [
         {
           "title": "Your AI cheat sheet for Thanksgiving dinner",
@@ -365,14 +371,20 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "Early outputs: Anthropic is A/B testing Claude Opus 5.6 (3 minute read)",
-          "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6",
-          "publishedAt": "2026-11-26T00:00:00+00:00",
-          "source": "TLDR AI"
+          "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+          "publishedAt": "2026-11-26T16:00:00+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "OpenAI Begins Testing Private Inference (1 minute read)",
           "url": "https://x.com/sama/status/2125638790593274259",
+          "publishedAt": "2026-11-26T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
+          "title": "Early outputs: Anthropic is A/B testing Claude Opus 5.6 (3 minute read)",
+          "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6",
           "publishedAt": "2026-11-26T00:00:00+00:00",
           "source": "TLDR AI"
         },
@@ -425,12 +437,6 @@
           "source": "TechCrunch AI"
         },
         {
-          "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-          "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
-          "publishedAt": "2026-11-25T19:54:57+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Jensen Huang is back at Nvidia",
           "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
           "publishedAt": "2026-11-24T11:00:00+00:00",
@@ -453,7 +459,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-26T15:27:54+00:00",
+      "updatedAt": "2026-11-26T16:00:37+00:00",
       "stories": [
         {
           "title": "How Vention is cutting factory programming from weeks to minutes",
@@ -549,7 +555,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-26T15:27:54+00:00",
+    "updatedAt": "2026-11-26T16:00:37+00:00",
     "stories": [
       {
         "title": "Your AI cheat sheet for Thanksgiving dinner",
@@ -561,10 +567,10 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Early outputs: Anthropic is A/B testing Claude Opus 5.6 (3 minute read)",
-        "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6",
-        "publishedAt": "2026-11-26T00:00:00+00:00",
-        "source": "TLDR AI",
+        "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+        "publishedAt": "2026-11-26T16:00:00+00:00",
+        "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
         "bulletinRole": "lead"
@@ -588,9 +594,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Minister McGuinty to attend IMT Precision Groundbreaking Event",
-        "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-to-attend-imt-precision-groundbreaking-event.html",
-        "publishedAt": "2026-11-26T13:09:22+00:00",
+        "title": "HMCS Corner Brook returns home following deployment to the Indo-Pacific and Arctic regions",
+        "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/hmcs-corner-brook-returns-home-following-deployment-to-the-indo-pacific-and-arctic-regions.html",
+        "publishedAt": "2026-11-26T15:42:54+00:00",
         "source": "National Defence",
         "topicId": "canadian-defence",
         "topicName": "Canadian Defence",
