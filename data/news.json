@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T20:00:42+00:00",
+  "generatedAt": "2026-11-26T21:00:41+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-26T20:00:42+00:00",
+      "updatedAt": "2026-11-26T21:00:41+00:00",
       "stories": [
         {
           "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-26T20:00:42+00:00",
+      "updatedAt": "2026-11-26T21:00:41+00:00",
       "stories": [
         {
           "title": "Canadensys RAPTOR vehicle wins first U.S. Army order",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-26T20:00:42+00:00",
+      "updatedAt": "2026-11-26T21:00:41+00:00",
       "stories": [
         {
           "title": "HMCS Corner Brook returns home following deployment to the Indo-Pacific and Arctic regions",
@@ -253,7 +253,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-26T20:00:42+00:00",
+      "updatedAt": "2026-11-26T21:00:41+00:00",
       "stories": [
         {
           "title": "Carla Babb Named Head of Content for Military Times and Defense News",
@@ -350,13 +350,19 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-26T20:00:42+00:00",
+      "updatedAt": "2026-11-26T21:00:41+00:00",
       "stories": [
         {
           "title": "Your AI cheat sheet for Thanksgiving dinner",
           "url": "https://therundownai.beehiiv.com/p/your-ai-cheat-sheet-for-thanksgiving-dinner",
           "publishedAt": "2026-11-26T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+          "publishedAt": "2026-11-26T20:03:54+00:00",
+          "source": "TechCrunch AI"
         },
         {
           "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
@@ -377,6 +383,12 @@
           "source": "TLDR AI"
         },
         {
+          "title": "GPT 6.2 Astra is superhuman in mathematical optimization (3 minute read)",
+          "url": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html",
+          "publishedAt": "2026-11-26T00:00:00+00:00",
+          "source": "TLDR AI"
+        },
+        {
           "title": "Paths to extreme power concentration (30 minute read)",
           "url": "https://newsletter.forethought.org/p/paths-extreme-power-concentration",
           "publishedAt": "2026-11-26T00:00:00+00:00",
@@ -385,12 +397,6 @@
         {
           "title": "Latency doesn't lie: Jev is (probably) Qwen3.5-35B-A3B! (9 minute read)",
           "url": "https://modaic.dev/blog/latency-doesnt-lie",
-          "publishedAt": "2026-11-26T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "GPT 6.2 Astra is superhuman in mathematical optimization (3 minute read)",
-          "url": "https://rybindmitry.github.io/blogs/gpt-6-2-astra-is-superhuman-in-mathematical-optimization.html",
           "publishedAt": "2026-11-26T00:00:00+00:00",
           "source": "TLDR AI"
         },
@@ -419,12 +425,6 @@
           "source": "The Rundown AI"
         },
         {
-          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
-          "publishedAt": "2026-11-25T20:03:27+00:00",
-          "source": "TechCrunch AI"
-        },
-        {
           "title": "Jensen Huang is back at Nvidia",
           "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
           "publishedAt": "2026-11-24T11:00:00+00:00",
@@ -447,7 +447,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-26T20:00:42+00:00",
+      "updatedAt": "2026-11-26T21:00:41+00:00",
       "stories": [
         {
           "title": "How Vention is cutting factory programming from weeks to minutes",
@@ -543,7 +543,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-26T20:00:42+00:00",
+    "updatedAt": "2026-11-26T21:00:41+00:00",
     "stories": [
       {
         "title": "Your AI cheat sheet for Thanksgiving dinner",
@@ -555,9 +555,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
-        "publishedAt": "2026-11-26T16:00:00+00:00",
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+        "publishedAt": "2026-11-26T20:03:54+00:00",
         "source": "TechCrunch AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
@@ -748,7 +748,7 @@
     }
   ],
   "warnings": [
-    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News"
   ]
 }
