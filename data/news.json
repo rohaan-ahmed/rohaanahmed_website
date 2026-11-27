@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T13:00:44+00:00",
+  "generatedAt": "2026-11-27T14:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-27T13:00:44+00:00",
+      "updatedAt": "2026-11-27T14:00:33+00:00",
       "stories": [
         {
           "title": "Astronomers watch a red giant star greedily devour a stellar 'Bao bun' before erupting: 'We couldn't quite believe our luck'",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-27T13:00:44+00:00",
+      "updatedAt": "2026-11-27T14:00:33+00:00",
       "stories": [
         {
           "title": "Canadensys RAPTOR vehicle wins first U.S. Army order",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-27T13:00:44+00:00",
+      "updatedAt": "2026-11-27T14:00:33+00:00",
       "stories": [
         {
           "title": "HMCS Corner Brook returns home following deployment to the Indo-Pacific and Arctic regions",
@@ -247,8 +247,14 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-27T13:00:44+00:00",
+      "updatedAt": "2026-11-27T14:00:33+00:00",
       "stories": [
+        {
+          "title": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
+          "url": "https://www.defensenews.com/video/2026/11/27/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26",
+          "publishedAt": "2026-11-27T14:00:00+00:00",
+          "source": "Defense News"
+        },
         {
           "title": "Leonardo rolls out first M-346 jet for Italy’s Air Force stunt flying unit",
           "url": "https://www.defensenews.com/global/europe/2026/11/27/leonardo-rolls-out-first-m-346-jet-for-italys-air-force-stunt-flying-unit",
@@ -304,12 +310,6 @@
           "source": "Breaking Defense"
         },
         {
-          "title": "Blast heard, smoke seen rising over farmland near Iowa Army lead azide detonation site",
-          "url": "https://www.defensenews.com/video/2026/11/25/blast-heard-smoke-seen-rising-over-farmland-near-iowa-army-lead-azide-detonation-site",
-          "publishedAt": "2026-11-25T15:55:58+00:00",
-          "source": "Defense News"
-        },
-        {
           "title": "Coast Guard’s updated Force Design plan includes Maven Smart System, other digital advancements",
           "url": "https://defensescoop.com/2026/11/25/coast-guard-force-design-update-digital-modernization",
           "publishedAt": "2026-11-25T15:55:50+00:00",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-27T13:00:44+00:00",
+      "updatedAt": "2026-11-27T14:00:33+00:00",
       "stories": [
         {
           "title": "OpenAI’s GPT-6 Astra helps tackle quantum gravity",
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-27T13:00:44+00:00",
+      "updatedAt": "2026-11-27T14:00:33+00:00",
       "stories": [
         {
           "title": "How Vention is cutting factory programming from weeks to minutes",
@@ -516,6 +516,12 @@
           "source": "IEEE Spectrum Robotics"
         },
         {
+          "title": "Robotics enters its post-Jensen Huang era",
+          "url": "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era",
+          "publishedAt": "2026-11-20T03:06:28+00:00",
+          "source": "The Robot Report"
+        },
+        {
           "title": "How Toyota is betting on a future beyond cars",
           "url": "https://techcrunch.com/podcast/how-toyota-is-betting-on-a-future-beyond-cars",
           "publishedAt": "2026-11-18T21:36:40+00:00",
@@ -526,18 +532,12 @@
           "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers",
           "publishedAt": "2026-11-18T11:30:00+00:00",
           "source": "TechCrunch Robotics"
-        },
-        {
-          "title": "Genesis AI raises $500M to deploy glove-wearing robots",
-          "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots",
-          "publishedAt": "2026-11-17T14:00:00+00:00",
-          "source": "TechCrunch Robotics"
         }
       ]
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-27T13:00:44+00:00",
+    "updatedAt": "2026-11-27T14:00:33+00:00",
     "stories": [
       {
         "title": "OpenAI’s GPT-6 Astra helps tackle quantum gravity",
@@ -585,9 +585,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Leonardo rolls out first M-346 jet for Italy’s Air Force stunt flying unit",
-        "url": "https://www.defensenews.com/global/europe/2026/11/27/leonardo-rolls-out-first-m-346-jet-for-italys-air-force-stunt-flying-unit",
-        "publishedAt": "2026-11-27T11:32:10+00:00",
+        "title": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
+        "url": "https://www.defensenews.com/video/2026/11/27/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26",
+        "publishedAt": "2026-11-27T14:00:00+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
@@ -612,21 +612,21 @@
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "France kicks off defense-industry pact to build up counter-drone efforts",
-        "url": "https://www.defensenews.com/global/europe/2026/11/27/france-kicks-off-defense-industry-pact-to-build-up-counter-drone-efforts",
-        "publishedAt": "2026-11-27T11:12:42+00:00",
+        "title": "Leonardo rolls out first M-346 jet for Italy’s Air Force stunt flying unit",
+        "url": "https://www.defensenews.com/global/europe/2026/11/27/leonardo-rolls-out-first-m-346-jet-for-italys-air-force-stunt-flying-unit",
+        "publishedAt": "2026-11-27T11:32:10+00:00",
         "source": "Defense News",
         "topicId": "international-defence-technology",
         "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       },
       {
-        "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
-        "url": "https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall",
-        "publishedAt": "2026-11-26T17:53:00+00:00",
-        "source": "SpaceNews",
-        "topicId": "international-space",
-        "topicName": "International Space",
+        "title": "France kicks off defense-industry pact to build up counter-drone efforts",
+        "url": "https://www.defensenews.com/global/europe/2026/11/27/france-kicks-off-defense-industry-pact-to-build-up-counter-drone-efforts",
+        "publishedAt": "2026-11-27T11:12:42+00:00",
+        "source": "Defense News",
+        "topicId": "international-defence-technology",
+        "topicName": "International Defence Technology",
         "bulletinRole": "noteworthy"
       }
     ]
