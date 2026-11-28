@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T23:00:31+00:00",
+  "generatedAt": "2026-11-28T00:00:33+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-27T23:00:31+00:00",
+      "updatedAt": "2026-11-28T00:00:33+00:00",
       "stories": [
         {
           "title": "Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-27T23:00:31+00:00",
+      "updatedAt": "2026-11-28T00:00:33+00:00",
       "stories": [
+        {
+          "title": "Canadian Space Launch Act heads to committee with a list of fixes",
+          "url": "https://spaceq.ca/canadian-space-launch-act-committee-witnesses",
+          "publishedAt": "2026-11-27T23:44:16+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "MDA Space closes Blue Canyon Technologies acquisition, creating MDA Space USA",
           "url": "https://spaceq.ca/mda-space-closes-blue-canyon-technologies-acquisition",
@@ -164,12 +170,6 @@
           "source": "SpaceQ"
         },
         {
-          "title": "Weekly ISS update: Canadarm2 joint heads home aboard Dragon",
-          "url": "https://spaceq.ca/weekly-iss-update-canadarm2-part-heads-home-aboard-dragon",
-          "publishedAt": "2026-11-23T05:10:08+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "From Whitehorse to space: Yukon students hear from CSA astronauts Jenni Gibbons and Joshua Kutryk",
           "url": "https://www.canada.ca/en/space-agency/news/2026/11/from-whitehorse-to-space-yukon-students-hear-from-csa-astronauts-jenni-gibbons-and-joshua-kutryk.html",
           "publishedAt": "2026-11-18T17:02:49+00:00",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-27T23:00:31+00:00",
+      "updatedAt": "2026-11-28T00:00:33+00:00",
       "stories": [
         {
           "title": "Department of National Defence marks start of construction on new ammunition manufacturing facility in St. Thomas",
@@ -241,19 +241,13 @@
           "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-to-co-host-the-18th-annual-halifax-international-security-forum.html",
           "publishedAt": "2026-11-18T20:03:05+00:00",
           "source": "National Defence"
-        },
-        {
-          "title": "Minister McGuinty announces new military aid to Ukraine at Ukraine Defense Contact Group meeting",
-          "url": "https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-announces-new-military-aid-to-ukraine-at-ukraine-defense-contact-group-meeting.html",
-          "publishedAt": "2026-11-17T23:18:38+00:00",
-          "source": "National Defence"
         }
       ]
     },
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-27T23:00:31+00:00",
+      "updatedAt": "2026-11-28T00:00:33+00:00",
       "stories": [
         {
           "title": "BAE Hägglunds lands record $6B deal for 400+ CV90s from five NATO nations",
@@ -350,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-27T23:00:31+00:00",
+      "updatedAt": "2026-11-28T00:00:33+00:00",
       "stories": [
         {
           "title": "OpenAI’s GPT-6 Astra helps tackle quantum gravity",
@@ -447,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-27T23:00:31+00:00",
+      "updatedAt": "2026-11-28T00:00:33+00:00",
       "stories": [
         {
           "title": "GXO doubling down on robotics in 2027",
@@ -543,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-27T23:00:31+00:00",
+    "updatedAt": "2026-11-28T00:00:33+00:00",
     "stories": [
       {
         "title": "OpenAI’s GPT-6 Astra helps tackle quantum gravity",
@@ -564,9 +558,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "MDA Space closes Blue Canyon Technologies acquisition, creating MDA Space USA",
-        "url": "https://spaceq.ca/mda-space-closes-blue-canyon-technologies-acquisition",
-        "publishedAt": "2026-11-27T20:58:03+00:00",
+        "title": "Canadian Space Launch Act heads to committee with a list of fixes",
+        "url": "https://spaceq.ca/canadian-space-launch-act-committee-witnesses",
+        "publishedAt": "2026-11-27T23:44:16+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -609,6 +603,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "MDA Space closes Blue Canyon Technologies acquisition, creating MDA Space USA",
+        "url": "https://spaceq.ca/mda-space-closes-blue-canyon-technologies-acquisition",
+        "publishedAt": "2026-11-27T20:58:03+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "FCC clears SpaceX Starmind data centre satellites to fly",
         "url": "https://spaceq.ca/spacex-starmind-fcc-million-orbital-data-centres",
         "publishedAt": "2026-11-27T18:28:46+00:00",
@@ -624,15 +627,6 @@
         "source": "The Rundown AI",
         "topicId": "artificial-intelligence",
         "topicName": "Artificial Intelligence",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Love Star Wars, Andy Weir or Ryan Gosling? These Lego Star Wars and Project Hail Mary sets are my favorites",
-        "url": "https://www.space.com/entertainment/space-toys-lego/love-star-wars-andy-weir-or-ryan-gosling-these-lego-star-wars-and-project-hail-mary-sets-are-my-favorites",
-        "publishedAt": "2026-11-27T20:29:57+00:00",
-        "source": "Space.com",
-        "topicId": "international-space",
-        "topicName": "International Space",
         "bulletinRole": "noteworthy"
       }
     ]

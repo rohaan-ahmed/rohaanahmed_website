@@ -5,16 +5,16 @@
     <link>https://rohaanahmed.com/news.html</link>
     <description>An automatically curated news feed built around my areas of interest</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 27 Nov 2026 23:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:00:33 +0000</lastBuildDate>
     <atom:link href="https://rohaanahmed.com/news.xml" rel="self" type="application/rss+xml" />
     <item>
-      <guid isPermaLink="false">7fcf6f85dfe913712456e3db8872f187138c679e22a35a569a0416245f839541</guid>
+      <guid isPermaLink="false">ead4d42f78719eb2136bad775f6b43585c355fdb8ce0b9eaa0dad1be6a027494</guid>
       <title>International Space (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-space</link>
-      <pubDate>Fri, 27 Nov 2026 23:00:31 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 00:00:33 +0000</pubDate>
       <category>International Space</category>
       <description>Topic: International Space
-Updated: 2026-11-27T23:00:31+00:00
+Updated: 2026-11-28T00:00:33+00:00
 Stories: 15</description>
       <ra:topicId>international-space</ra:topicId>
       <ra:topicName>International Space</ra:topicName>
@@ -48,7 +48,6 @@ Headline: Governments Invest $71.8B in Space Defense as Militarization of Space 
       <guid isPermaLink="false">c34089d965fbd617173f793a6c0277f5510ced953d6a4bd0e11291addda81b18</guid>
       <pubDate>Fri, 27 Nov 2026 20:29:57 +0000</pubDate>
       <category>International Space</category>
-      <category>Bulletin</category>
       <source url="https://www.space.com/">Space.com</source>
       <description>Topic: International Space
 Source: Space.com
@@ -58,7 +57,6 @@ Headline: Love Star Wars, Andy Weir or Ryan Gosling? These Lego Star Wars and Pr
       <ra:topicName>International Space</ra:topicName>
       <ra:topicPosition>1</ra:topicPosition>
       <ra:storyPosition>2</ra:storyPosition>
-      <ra:bulletinPosition>10</ra:bulletinPosition>
       <ra:publishedAt>2026-11-27T20:29:57+00:00</ra:publishedAt>
       <ra:sourceName>Space.com</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -311,18 +309,39 @@ Headline: All Points Logistics Announces Partnership with Expeditors for Space P
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">37625f407db204dfc04ea90465ddbd8c91ae8acb4e58abdc2eb63da6832c3525</guid>
+      <guid isPermaLink="false">18509f298fd054143d1557513c349577baaf6fc129a6cd41467306819617c809</guid>
       <title>Canadian Space (12 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-space</link>
-      <pubDate>Fri, 27 Nov 2026 23:00:31 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 00:00:33 +0000</pubDate>
       <category>Canadian Space</category>
       <description>Topic: Canadian Space
-Updated: 2026-11-27T23:00:31+00:00
+Updated: 2026-11-28T00:00:33+00:00
 Stories: 12</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
       <ra:kind>topic</ra:kind>
+    </item>
+    <item>
+      <title>Canadian Space Launch Act heads to committee with a list of fixes</title>
+      <link>https://spaceq.ca/canadian-space-launch-act-committee-witnesses</link>
+      <guid isPermaLink="false">b64183400a3183eda2681fd2199a480cd3cbb6849c5ec7c07786f4215c35021a</guid>
+      <pubDate>Fri, 27 Nov 2026 23:44:16 +0000</pubDate>
+      <category>Canadian Space</category>
+      <category>Bulletin</category>
+      <source url="https://spaceq.ca/">SpaceQ</source>
+      <description>Topic: Canadian Space
+Source: SpaceQ
+Published: 2026-11-27T23:44:16+00:00
+Headline: Canadian Space Launch Act heads to committee with a list of fixes</description>
+      <ra:topicId>canadian-space</ra:topicId>
+      <ra:topicName>Canadian Space</ra:topicName>
+      <ra:topicPosition>2</ra:topicPosition>
+      <ra:storyPosition>1</ra:storyPosition>
+      <ra:bulletinPosition>3</ra:bulletinPosition>
+      <ra:publishedAt>2026-11-27T23:44:16+00:00</ra:publishedAt>
+      <ra:sourceName>SpaceQ</ra:sourceName>
+      <ra:kind>story</ra:kind>
     </item>
     <item>
       <title>MDA Space closes Blue Canyon Technologies acquisition, creating MDA Space USA</title>
@@ -339,8 +358,8 @@ Headline: MDA Space closes Blue Canyon Technologies acquisition, creating MDA Sp
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>1</ra:storyPosition>
-      <ra:bulletinPosition>3</ra:bulletinPosition>
+      <ra:storyPosition>2</ra:storyPosition>
+      <ra:bulletinPosition>8</ra:bulletinPosition>
       <ra:publishedAt>2026-11-27T20:58:03+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -360,8 +379,8 @@ Headline: FCC clears SpaceX Starmind data centre satellites to fly</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>2</ra:storyPosition>
-      <ra:bulletinPosition>8</ra:bulletinPosition>
+      <ra:storyPosition>3</ra:storyPosition>
+      <ra:bulletinPosition>9</ra:bulletinPosition>
       <ra:publishedAt>2026-11-27T18:28:46+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -380,7 +399,7 @@ Headline: Canadensys RAPTOR vehicle wins first U.S. Army order</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>3</ra:storyPosition>
+      <ra:storyPosition>4</ra:storyPosition>
       <ra:publishedAt>2026-11-26T17:50:35+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -399,7 +418,7 @@ Headline: Landing Zones Canada and Meisei test stratospheric balloon system in Y
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>4</ra:storyPosition>
+      <ra:storyPosition>5</ra:storyPosition>
       <ra:publishedAt>2026-11-25T20:01:17+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -418,7 +437,7 @@ Headline: University of Saskatchewan gets $2.6 million to build Osiris-3 for a C
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>5</ra:storyPosition>
+      <ra:storyPosition>6</ra:storyPosition>
       <ra:publishedAt>2026-11-25T12:07:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -437,7 +456,7 @@ Headline: Joshua Kutryk welcomes daughter from the space station</description>
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>6</ra:storyPosition>
+      <ra:storyPosition>7</ra:storyPosition>
       <ra:publishedAt>2026-11-25T00:01:15+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -456,7 +475,7 @@ Headline: India pitches space co-operation in Canada defence pact talks</descrip
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>7</ra:storyPosition>
+      <ra:storyPosition>8</ra:storyPosition>
       <ra:publishedAt>2026-11-24T23:47:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -475,7 +494,7 @@ Headline: NRCan seeks study of GNSS disruption risk to the energy sector</descri
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>8</ra:storyPosition>
+      <ra:storyPosition>9</ra:storyPosition>
       <ra:publishedAt>2026-11-24T12:12:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -494,7 +513,7 @@ Headline: Statement from Canadian Space Agency astronaut Joshua Kutryk and his w
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>9</ra:storyPosition>
+      <ra:storyPosition>10</ra:storyPosition>
       <ra:publishedAt>2026-11-24T22:51:09+00:00</ra:publishedAt>
       <ra:sourceName>Canadian Space Agency</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -513,27 +532,8 @@ Headline: Canada joins NATO Innovation Fund with more than $100 million</descrip
       <ra:topicId>canadian-space</ra:topicId>
       <ra:topicName>Canadian Space</ra:topicName>
       <ra:topicPosition>2</ra:topicPosition>
-      <ra:storyPosition>10</ra:storyPosition>
-      <ra:publishedAt>2026-11-23T12:15:00+00:00</ra:publishedAt>
-      <ra:sourceName>SpaceQ</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <title>Weekly ISS update: Canadarm2 joint heads home aboard Dragon</title>
-      <link>https://spaceq.ca/weekly-iss-update-canadarm2-part-heads-home-aboard-dragon</link>
-      <guid isPermaLink="false">d6068072f324e65268a935c4af345f3620049b66e68da0d42b27808ac29e576e</guid>
-      <pubDate>Mon, 23 Nov 2026 05:10:08 +0000</pubDate>
-      <category>Canadian Space</category>
-      <source url="https://spaceq.ca/">SpaceQ</source>
-      <description>Topic: Canadian Space
-Source: SpaceQ
-Published: 2026-11-23T05:10:08+00:00
-Headline: Weekly ISS update: Canadarm2 joint heads home aboard Dragon</description>
-      <ra:topicId>canadian-space</ra:topicId>
-      <ra:topicName>Canadian Space</ra:topicName>
-      <ra:topicPosition>2</ra:topicPosition>
       <ra:storyPosition>11</ra:storyPosition>
-      <ra:publishedAt>2026-11-23T05:10:08+00:00</ra:publishedAt>
+      <ra:publishedAt>2026-11-23T12:15:00+00:00</ra:publishedAt>
       <ra:sourceName>SpaceQ</ra:sourceName>
       <ra:kind>story</ra:kind>
     </item>
@@ -557,14 +557,14 @@ Headline: From Whitehorse to space: Yukon students hear from CSA astronauts Jenn
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">1088404ce2ebf66b2ed7bf803488e26b3a0a0529cbb8b6e74bcbccd01a734741</guid>
-      <title>Canadian Defence (11 stories)</title>
+      <guid isPermaLink="false">7bf16f3914bb4c218cac2f3de1fa7ca0a51f972a3939d12ed90272bf9dc59c3d</guid>
+      <title>Canadian Defence (10 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-canadian-defence</link>
-      <pubDate>Fri, 27 Nov 2026 23:00:31 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 00:00:33 +0000</pubDate>
       <category>Canadian Defence</category>
       <description>Topic: Canadian Defence
-Updated: 2026-11-27T23:00:31+00:00
-Stories: 11</description>
+Updated: 2026-11-28T00:00:33+00:00
+Stories: 10</description>
       <ra:topicId>canadian-defence</ra:topicId>
       <ra:topicName>Canadian Defence</ra:topicName>
       <ra:topicPosition>3</ra:topicPosition>
@@ -763,32 +763,13 @@ Headline: Minister McGuinty to co-host the 18th annual Halifax International Sec
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <title>Minister McGuinty announces new military aid to Ukraine at Ukraine Defense Contact Group meeting</title>
-      <link>https://www.canada.ca/en/department-national-defence/news/2026/11/minister-mcguinty-announces-new-military-aid-to-ukraine-at-ukraine-defense-contact-group-meeting.html</link>
-      <guid isPermaLink="false">9a99521896ecc27650c58b0c1289e3f579509e1019a38ebe692c342964c44dd8</guid>
-      <pubDate>Tue, 17 Nov 2026 23:18:38 +0000</pubDate>
-      <category>Canadian Defence</category>
-      <source url="https://www.canada.ca/en/department-national-defence.html">National Defence</source>
-      <description>Topic: Canadian Defence
-Source: National Defence
-Published: 2026-11-17T23:18:38+00:00
-Headline: Minister McGuinty announces new military aid to Ukraine at Ukraine Defense Contact Group meeting</description>
-      <ra:topicId>canadian-defence</ra:topicId>
-      <ra:topicName>Canadian Defence</ra:topicName>
-      <ra:topicPosition>3</ra:topicPosition>
-      <ra:storyPosition>11</ra:storyPosition>
-      <ra:publishedAt>2026-11-17T23:18:38+00:00</ra:publishedAt>
-      <ra:sourceName>National Defence</ra:sourceName>
-      <ra:kind>story</ra:kind>
-    </item>
-    <item>
-      <guid isPermaLink="false">1967d3c0ab24d8184b390950ce6a09cedff6a56aa835013c9d3b42c79abe2906</guid>
+      <guid isPermaLink="false">4bf82587e9a0453ecbf5ffb86b5933626561eed2ec0bea5fb2118e96d81e55d6</guid>
       <title>International Defence Technology (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-international-defence-technology</link>
-      <pubDate>Fri, 27 Nov 2026 23:00:31 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 00:00:33 +0000</pubDate>
       <category>International Defence Technology</category>
       <description>Topic: International Defence Technology
-Updated: 2026-11-27T23:00:31+00:00
+Updated: 2026-11-28T00:00:33+00:00
 Stories: 15</description>
       <ra:topicId>international-defence-technology</ra:topicId>
       <ra:topicName>International Defence Technology</ra:topicName>
@@ -1083,13 +1064,13 @@ Headline: DISA boss highlights need for training, standardization to prepare for
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">3e31c5f5d99c13d237b592f4c898e807bb7e6cd3f778543e09ff118783b70230</guid>
+      <guid isPermaLink="false">256320e8b86946415b56668804ca881d3c0c85d8671694f902e4dcdd13744c58</guid>
       <title>Artificial Intelligence (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-artificial-intelligence</link>
-      <pubDate>Fri, 27 Nov 2026 23:00:31 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 00:00:33 +0000</pubDate>
       <category>Artificial Intelligence</category>
       <description>Topic: Artificial Intelligence
-Updated: 2026-11-27T23:00:31+00:00
+Updated: 2026-11-28T00:00:33+00:00
 Stories: 15</description>
       <ra:topicId>artificial-intelligence</ra:topicId>
       <ra:topicName>Artificial Intelligence</ra:topicName>
@@ -1154,7 +1135,7 @@ Headline: Report: U.S. crackdown slows China’s AI progress</description>
       <ra:topicName>Artificial Intelligence</ra:topicName>
       <ra:topicPosition>5</ra:topicPosition>
       <ra:storyPosition>3</ra:storyPosition>
-      <ra:bulletinPosition>9</ra:bulletinPosition>
+      <ra:bulletinPosition>10</ra:bulletinPosition>
       <ra:publishedAt>2026-11-27T11:00:00+00:00</ra:publishedAt>
       <ra:sourceName>The Rundown AI</ra:sourceName>
       <ra:kind>story</ra:kind>
@@ -1388,13 +1369,13 @@ Headline: Report: Frontier AI staff fear their own internal models</description>
       <ra:kind>story</ra:kind>
     </item>
     <item>
-      <guid isPermaLink="false">bcb6ed24fba829e2a4c995132f3ac21242527103952de90852f1c53c02d21e9a</guid>
+      <guid isPermaLink="false">0cca1cf10da4aefdd6419954d53c7ab4f0cc8990d651b683668e1b11300239f1</guid>
       <title>Robotics (15 stories)</title>
       <link>https://rohaanahmed.com/news.html#topic-robotics</link>
-      <pubDate>Fri, 27 Nov 2026 23:00:31 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 00:00:33 +0000</pubDate>
       <category>Robotics</category>
       <description>Topic: Robotics
-Updated: 2026-11-27T23:00:31+00:00
+Updated: 2026-11-28T00:00:33+00:00
 Stories: 15</description>
       <ra:topicId>robotics</ra:topicId>
       <ra:topicName>Robotics</ra:topicName>
