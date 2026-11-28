@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-28T00:00:33+00:00",
+  "generatedAt": "2026-11-28T01:00:35+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-28T00:00:33+00:00",
+      "updatedAt": "2026-11-28T01:00:35+00:00",
       "stories": [
         {
           "title": "Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates",
@@ -101,8 +101,14 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-28T00:00:33+00:00",
+      "updatedAt": "2026-11-28T01:00:35+00:00",
       "stories": [
+        {
+          "title": "MDA Space closes Blue Canyon deal as space index rises 7.3 per cent",
+          "url": "https://spaceq.ca/the-weekly-close-november-27-2026",
+          "publishedAt": "2026-11-28T00:18:01+00:00",
+          "source": "SpaceQ"
+        },
         {
           "title": "Canadian Space Launch Act heads to committee with a list of fixes",
           "url": "https://spaceq.ca/canadian-space-launch-act-committee-witnesses",
@@ -164,12 +170,6 @@
           "source": "Canadian Space Agency"
         },
         {
-          "title": "Canada joins NATO Innovation Fund with more than $100 million",
-          "url": "https://spaceq.ca/canada-nato-innovation-fund-isar-launch-site",
-          "publishedAt": "2026-11-23T12:15:00+00:00",
-          "source": "SpaceQ"
-        },
-        {
           "title": "From Whitehorse to space: Yukon students hear from CSA astronauts Jenni Gibbons and Joshua Kutryk",
           "url": "https://www.canada.ca/en/space-agency/news/2026/11/from-whitehorse-to-space-yukon-students-hear-from-csa-astronauts-jenni-gibbons-and-joshua-kutryk.html",
           "publishedAt": "2026-11-18T17:02:49+00:00",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-28T00:00:33+00:00",
+      "updatedAt": "2026-11-28T01:00:35+00:00",
       "stories": [
         {
           "title": "Department of National Defence marks start of construction on new ammunition manufacturing facility in St. Thomas",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-28T00:00:33+00:00",
+      "updatedAt": "2026-11-28T01:00:35+00:00",
       "stories": [
         {
           "title": "BAE Hägglunds lands record $6B deal for 400+ CV90s from five NATO nations",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-28T00:00:33+00:00",
+      "updatedAt": "2026-11-28T01:00:35+00:00",
       "stories": [
         {
           "title": "OpenAI’s GPT-6 Astra helps tackle quantum gravity",
@@ -441,7 +441,7 @@
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-28T00:00:33+00:00",
+      "updatedAt": "2026-11-28T01:00:35+00:00",
       "stories": [
         {
           "title": "GXO doubling down on robotics in 2027",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-28T00:00:33+00:00",
+    "updatedAt": "2026-11-28T01:00:35+00:00",
     "stories": [
       {
         "title": "OpenAI’s GPT-6 Astra helps tackle quantum gravity",
@@ -558,9 +558,9 @@
         "bulletinRole": "lead"
       },
       {
-        "title": "Canadian Space Launch Act heads to committee with a list of fixes",
-        "url": "https://spaceq.ca/canadian-space-launch-act-committee-witnesses",
-        "publishedAt": "2026-11-27T23:44:16+00:00",
+        "title": "MDA Space closes Blue Canyon deal as space index rises 7.3 per cent",
+        "url": "https://spaceq.ca/the-weekly-close-november-27-2026",
+        "publishedAt": "2026-11-28T00:18:01+00:00",
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
@@ -603,6 +603,15 @@
         "bulletinRole": "lead"
       },
       {
+        "title": "Canadian Space Launch Act heads to committee with a list of fixes",
+        "url": "https://spaceq.ca/canadian-space-launch-act-committee-witnesses",
+        "publishedAt": "2026-11-27T23:44:16+00:00",
+        "source": "SpaceQ",
+        "topicId": "canadian-space",
+        "topicName": "Canadian Space",
+        "bulletinRole": "noteworthy"
+      },
+      {
         "title": "MDA Space closes Blue Canyon Technologies acquisition, creating MDA Space USA",
         "url": "https://spaceq.ca/mda-space-closes-blue-canyon-technologies-acquisition",
         "publishedAt": "2026-11-27T20:58:03+00:00",
@@ -618,15 +627,6 @@
         "source": "SpaceQ",
         "topicId": "canadian-space",
         "topicName": "Canadian Space",
-        "bulletinRole": "noteworthy"
-      },
-      {
-        "title": "Report: U.S. crackdown slows China’s AI progress",
-        "url": "http://reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26",
-        "publishedAt": "2026-11-27T11:00:00+00:00",
-        "source": "The Rundown AI",
-        "topicId": "artificial-intelligence",
-        "topicName": "Artificial Intelligence",
         "bulletinRole": "noteworthy"
       }
     ]
