@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-11-28T05:00:31+00:00",
+  "generatedAt": "2026-11-28T06:00:30+00:00",
   "topics": [
     {
       "id": "international-space",
       "name": "International Space",
-      "updatedAt": "2026-11-28T05:00:31+00:00",
+      "updatedAt": "2026-11-28T06:00:30+00:00",
       "stories": [
         {
           "title": "Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates",
           "url": "https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates",
           "publishedAt": "2026-11-27T15:35:22+00:00",
           "source": "SpaceNews"
+        },
+        {
+          "title": "APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph",
+          "publishedAt": "2026-11-28T05:05:00+00:00",
+          "source": "NASA"
         },
         {
           "title": "Love Star Wars, Andy Weir or Ryan Gosling? These Lego Star Wars and Project Hail Mary sets are my favorites",
@@ -61,12 +67,6 @@
           "source": "NASA"
         },
         {
-          "title": "Shivelyuch Socked In",
-          "url": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in",
-          "publishedAt": "2026-11-27T05:01:00+00:00",
-          "source": "NASA"
-        },
-        {
           "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
           "url": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution",
           "publishedAt": "2026-11-24T15:17:50+00:00",
@@ -101,7 +101,7 @@
     {
       "id": "canadian-space",
       "name": "Canadian Space",
-      "updatedAt": "2026-11-28T05:00:31+00:00",
+      "updatedAt": "2026-11-28T06:00:30+00:00",
       "stories": [
         {
           "title": "MDA Space closes Blue Canyon deal as space index rises 7.3 per cent",
@@ -180,7 +180,7 @@
     {
       "id": "canadian-defence",
       "name": "Canadian Defence",
-      "updatedAt": "2026-11-28T05:00:31+00:00",
+      "updatedAt": "2026-11-28T06:00:30+00:00",
       "stories": [
         {
           "title": "Department of National Defence marks start of construction on new ammunition manufacturing facility in St. Thomas",
@@ -247,7 +247,7 @@
     {
       "id": "international-defence-technology",
       "name": "International Defence Technology",
-      "updatedAt": "2026-11-28T05:00:31+00:00",
+      "updatedAt": "2026-11-28T06:00:30+00:00",
       "stories": [
         {
           "title": "BAE Hägglunds lands record $6B deal for 400+ CV90s from five NATO nations",
@@ -344,7 +344,7 @@
     {
       "id": "artificial-intelligence",
       "name": "Artificial Intelligence",
-      "updatedAt": "2026-11-28T05:00:31+00:00",
+      "updatedAt": "2026-11-28T06:00:30+00:00",
       "stories": [
         {
           "title": "OpenAI’s GPT-6 Astra helps tackle quantum gravity",
@@ -363,42 +363,6 @@
           "url": "http://reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26",
           "publishedAt": "2026-11-27T11:00:00+00:00",
           "source": "The Rundown AI"
-        },
-        {
-          "title": "Anthropic prepares Google Drive file browser for Claude (2 minute read)",
-          "url": "https://www.testingcatalog.com/anthropic-prepares-google-drive-file-browser-for-claude",
-          "publishedAt": "2026-11-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "OpenAI may be in cost control mode (2 minute read)",
-          "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
-          "publishedAt": "2026-11-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Measuring RSI (12 minute read)",
-          "url": "https://andrewtrask.substack.com/p/measuring-rsi",
-          "publishedAt": "2026-11-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Your Model Is a Dependency (16 minute read)",
-          "url": "https://www.cesarsotovalero.net/blog/your-model-is-a-dependency.html",
-          "publishedAt": "2026-11-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "From Model Compression to Looped Transformers (22 minute read)",
-          "url": "https://shiweiliuiiiiiii.github.io/blog/2026/from-model-compression-to-looped-transformers",
-          "publishedAt": "2026-11-27T00:00:00+00:00",
-          "source": "TLDR AI"
-        },
-        {
-          "title": "Become a founding member of TLDR's community (2 minute form)",
-          "url": "https://danni763618.typeform.com/to/H1tYViME",
-          "publishedAt": "2026-11-27T00:00:00+00:00",
-          "source": "TLDR AI"
         },
         {
           "title": "Your AI cheat sheet for Thanksgiving dinner",
@@ -435,13 +399,49 @@
           "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
           "publishedAt": "2026-11-25T11:00:00+00:00",
           "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+          "publishedAt": "2026-11-25T20:03:27+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+          "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
+          "publishedAt": "2026-11-25T19:54:57+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+          "publishedAt": "2026-11-25T19:44:24+00:00",
+          "source": "TechCrunch AI"
+        },
+        {
+          "title": "Jensen Huang is back at Nvidia",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+          "publishedAt": "2026-11-24T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "OpenAI pays locals to bring AI to small businesses",
+          "url": "https://openai.com/openworks",
+          "publishedAt": "2026-11-24T11:00:00+00:00",
+          "source": "The Rundown AI"
+        },
+        {
+          "title": "Claude helps solve math's biggest open problem",
+          "url": "https://alpo.ge/remark.pdf",
+          "publishedAt": "2026-11-23T11:00:00+00:00",
+          "source": "The Rundown AI"
         }
       ]
     },
     {
       "id": "robotics",
       "name": "Robotics",
-      "updatedAt": "2026-11-28T05:00:31+00:00",
+      "updatedAt": "2026-11-28T06:00:30+00:00",
       "stories": [
         {
           "title": "GXO doubling down on robotics in 2027",
@@ -537,7 +537,7 @@
     }
   ],
   "bulletin": {
-    "updatedAt": "2026-11-28T05:00:31+00:00",
+    "updatedAt": "2026-11-28T06:00:30+00:00",
     "stories": [
       {
         "title": "OpenAI’s GPT-6 Astra helps tackle quantum gravity",
@@ -743,6 +743,7 @@
   ],
   "warnings": [
     "European Space Agency: 404 Client Error: Not Found for url: https://www.esa.int/rssfeed/Our_Activities/Space_News",
-    "Vanguard: <unknown>:662:33: not well-formed (invalid token)"
+    "Vanguard: <unknown>:662:33: not well-formed (invalid token)",
+    "TLDR AI: 404 Client Error: Not Found for url: https://tldr.tech/ai/2026-11-06"
   ]
 }
